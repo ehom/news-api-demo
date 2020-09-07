@@ -1,1 +1,1 @@
-# news-service-demo
+# news-api-demo
