@@ -29,20 +29,12 @@ jobs:
       # Runs a set of commands using the runners shell
       - name: Run a multi-line script
         run: |
-          echo Add other actions to build,
-          echo test, and deploy your project.
-          echo $PATH
-          echo "*******"
-          echo "${PATH}"
-          echo ${{secrets.MESSAGE}}
-          echo "*******"
-          echo "${{secrets.MESSAGE}}"
+          echo "Calling NEWS API..."
           curl -X GET \
             --silent \
             -H 'content-type: application/json' \
             -H "x-api-key: ${{secrets.NEWS_API_KEY}}" \
             'http://newsapi.org/v2/top-headlines?country=us&category=business' | json_pp > news.json
-          git config --global user.email "test@test.com"
           git config --global user.name $GITHUB_ACTOR
           git add news.json
           git commit -m "Updated news headlines"
