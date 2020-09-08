@@ -1,266 +1,266 @@
 {
+   "status" : "ok",
    "totalResults" : 70,
    "articles" : [
       {
-         "description" : "Labor Day has arrived, and hundreds of retailers — from Amazon to Wayfair to Nordstrom and more — are celebrating with sales and deals on products across categories.",
-         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200903063600-labor-day-sales-lead-image-super-169.jpg",
-         "publishedAt" : "2020-09-08T01:47:23Z",
-         "url" : "https://www.cnn.com/2020/09/07/cnn-underscored/labor-day-sales-deals-2020/index.html",
-         "title" : "All the Labor Day sales and deals to shop this weekend - CNN",
-         "author" : "Chelsea Stone",
-         "content" : "The unofficial end of summer is upon us. Labor Day has arrived, and hundreds of retailers are celebrating with sales and deals on products across categories. And because you probably dont want to spe… [+22734 chars]",
+         "url" : "https://www.benzinga.com/news/20/09/17403103/elon-musk-takes-volkswagen-id-3-electric-vehicle-on-a-test-drive-for-a-non-sporty-car-its-pretty-goo",
          "source" : {
-            "name" : "CNN",
-            "id" : "cnn"
-         }
+            "id" : null,
+            "name" : "Benzinga"
+         },
+         "urlToImage" : "https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/images/story/2012/id.3.jpg",
+         "author" : "Shivdeep Dhaliwal",
+         "publishedAt" : "2020-09-08T02:45:00Z",
+         "description" : "Tesla Inc (NASDAQ: TSLA) CEO Elon Musk met with his Volkswagen AG (OTC: VWAGY) counterpart Herbert Diess at a small airport where the latter test drove ...",
+         "title" : "Elon Musk Takes Volkswagen ID.3 Electric Vehicle On A Test Drive: 'For A Non-Sporty Car, It's Pretty Good' - Benzinga",
+         "content" : "Tesla Inc (NASDAQ: TSLA) CEO Elon Musk met with his Volkswagen AG (OTC: VWAGY) counterpart Herbert Diess at a small airport where the latter test drove ID.3 and ID.4 electric cars, according to a vid… [+1799 chars]"
+      },
+      {
+         "source" : {
+            "name" : "News3LV",
+            "id" : null
+         },
+         "url" : "http://news3lv.com/news/local/small-business-grant-program-returning-to-clark-county",
+         "urlToImage" : "http://static-14.sinclairstoryline.com/resources/media/a9ebc803-eb5d-40d6-bfd6-d46db50371f5-large16x9_SmallBusinessImpact.jpg?1599532243617",
+         "author" : "News 3 Staff",
+         "publishedAt" : "2020-09-08T02:31:19Z",
+         "description" : "Clark County announced that it will be resuming applications for its small business grant program, aimed to help establishments impacted by the coronavirus pandemic. In a press release issued Monday evening,Clark County Commissioners along with an earlier rec…",
+         "title" : "Small business grant program returning to Clark County - News3LV",
+         "content" : null
+      },
+      {
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106693099-1599531197590-gettyimages-1228384874-bm_07134967.jpeg?v=1599531099",
+         "source" : {
+            "name" : "CNBC",
+            "id" : null
+         },
+         "url" : "https://www.cnbc.com/2020/09/08/nongfu-spring-hong-kong-ipo.html",
+         "publishedAt" : "2020-09-08T02:29:00Z",
+         "author" : "Yen Nee Lee",
+         "description" : "The stock opened at 39.80 Hong Kong dollars per share ($5.14), more than 85% higher than its initial public offering price of 21.50 Hong Kong dollars ($2.77).",
+         "title" : "Shares of Chinese bottled water giant Nongfu Spring spike 85% in Hong Kong debut - CNBC",
+         "content" : "SINGAPORE Shares of Chinese bottled water giant Nongfu Spring surged more than 85% in their debut on the Hong Kong stock market on Tuesday. \r\nThe stock opened at 39.80 Hong Kong dollars per share ($5… [+1943 chars]"
+      },
+      {
+         "content" : "A scaled model of KLM Royal Dutch Airlines' aircraft of the future just took flight for the first time in a milestone event for the Dutch flag carrier's push for more efficient and environmentally re… [+4431 chars]",
+         "title" : "KLM Royal Dutch Airlines' futuristic flying wing takes first flight - Business Insider - Business Insider",
+         "description" : "Flying wing aircraft have long been the domain of the military but airlines and aircraft manufacturers are turning to them for the future of flight.",
+         "author" : "Thomas Pallini",
+         "publishedAt" : "2020-09-08T02:05:40Z",
+         "source" : {
+            "id" : "business-insider",
+            "name" : "Business Insider"
+         },
+         "url" : "https://www.businessinsider.com/klm-royal-dutch-airlines-futuristic-flying-wing-takes-first-flight-2020-9",
+         "urlToImage" : "https://i.insider.com/5f56d77f7ed0ee001e25dd06?width=1200&format=jpeg"
+      },
+      {
+         "content" : "The unofficial end of summer is upon us. Labor Day has arrived, and hundreds of retailers are celebrating with sales and deals on products across categories. And because you probably dont want to spe… [+22734 chars]",
+         "description" : "Labor Day has arrived, and hundreds of retailers — from Amazon to Wayfair to Nordstrom and more — are celebrating with sales and deals on products across categories.",
+         "title" : "All the Labor Day sales and deals to shop this weekend - CNN",
+         "publishedAt" : "2020-09-08T01:47:23Z",
+         "author" : "Chelsea Stone",
+         "url" : "https://www.cnn.com/2020/09/07/cnn-underscored/labor-day-sales-deals-2020/index.html",
+         "source" : {
+            "id" : "cnn",
+            "name" : "CNN"
+         },
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200903063600-labor-day-sales-lead-image-super-169.jpg"
       },
       {
          "title" : "World shares rebound, try to shake off U.S. tech rout scare - Reuters",
-         "author" : "Hideyuki Sano",
          "description" : "U.S. stock futures and Asian shares regained some footing on Tuesday following a small bounce in European shares as investors looked to whether high-flying U.S. tech shares could recover from their recent rout.",
-         "publishedAt" : "2020-09-08T01:00:00Z",
-         "urlToImage" : "https://s2.reutersmedia.net/resources/r/?m=02&d=20200908&t=2&i=1532530386&w=1200&r=LYNXMPEG8701G",
-         "url" : "https://www.reuters.com/article/us-global-markets-idUSKBN25Z02Z",
          "content" : "TOKYO (Reuters) - U.S. stock futures and Asian shares regained some footing on Tuesday following a small bounce in European shares as investors looked to whether high-flying U.S. tech shares could re… [+2950 chars]",
          "source" : {
             "name" : "Reuters",
             "id" : "reuters"
-         }
+         },
+         "url" : "https://www.reuters.com/article/us-global-markets-idUSKBN25Z02Z",
+         "urlToImage" : "https://s2.reutersmedia.net/resources/r/?m=02&d=20200908&t=2&i=1532530386&w=1200&r=LYNXMPEG8701G",
+         "publishedAt" : "2020-09-08T01:00:00Z",
+         "author" : "Hideyuki Sano"
       },
       {
-         "content" : "TAMPA (WFLA) – The founder of Jelly Belly is hosting a series of cash prize treasure hunts around the country before his retirement. Anyone that participates will then be eligible to search for the u… [+908 chars]",
-         "urlToImage" : "https://fox8.com/wp-content/uploads/sites/12/2020/09/Jelly-Belly-founder.jpg?w=1280",
-         "publishedAt" : "2020-09-08T00:20:00Z",
-         "url" : "https://fox8.com/news/jelly-belly-founder-hosting-online-treasure-hunt-winner-gets-candy-factory/",
-         "description" : "Those who wish to get involved just need to pay an entry fee of $49.99 to get access to their state’s clue.",
+         "description" : "The Las Vegas Monorail Company, operator of the monorail that operates on the Strip announced Monday it has filed for Chapter 11 Bankruptcy. A company spokesperson said the monorail's best interest was to file bankruptcy and effectuate a sale of its assets. T…",
+         "title" : "Las Vegas Monorail files Chapter 11 bankruptcy, awaits sale to LVCVA - News3LV",
+         "content" : null,
+         "urlToImage" : "http://static-23.sinclairstoryline.com/resources/media/ede909b1-e5fa-4cf3-a022-4e65e8b262fa-large16x9_Monorail.jpg?1599525447411",
+         "source" : {
+            "name" : "News3LV",
+            "id" : null
+         },
+         "url" : "http://news3lv.com/news/local/las-vegas-monorail-files-chapter-11-bankruptcy-awaits-sale-to-lvcva",
+         "publishedAt" : "2020-09-08T00:39:32Z",
+         "author" : "Peter Valencia"
+      },
+      {
+         "author" : "Robert Kientz",
+         "publishedAt" : "2020-09-08T00:33:00Z",
+         "source" : {
+            "name" : "Seeking Alpha",
+            "id" : null
+         },
+         "url" : "https://seekingalpha.com/article/4372949-comexs-gold-and-silver-futures-market-trade-data-not-adding-up",
+         "urlToImage" : "https://static3.seekingalpha.com/uploads/2020/9/7/410007-15995025761894374.jpeg",
+         "content" : "We have been following both the gold and silver futures markets since June with great interest. We could see in the data a buildup of demand for physical metal against short futures positions. And in… [+7333 chars]",
+         "description" : "We track what we are calling the shadow contracts on COMEX where reported physical deliveries don't match contract closings for September.",
+         "title" : "COMEX's Gold And Silver Futures Market Trade Data Not Adding Up - Seeking Alpha"
+      },
+      {
          "author" : "WFLA 8 On Your Side Staff",
-         "title" : "Jelly Belly founder hosting online treasure hunt, winner gets candy factory - WJW FOX 8 News Cleveland",
+         "publishedAt" : "2020-09-08T00:20:00Z",
+         "urlToImage" : "https://fox8.com/wp-content/uploads/sites/12/2020/09/Jelly-Belly-founder.jpg?w=1280",
          "source" : {
             "id" : null,
             "name" : "fox8.com"
-         }
+         },
+         "url" : "https://fox8.com/news/jelly-belly-founder-hosting-online-treasure-hunt-winner-gets-candy-factory/",
+         "content" : "TAMPA (WFLA) – The founder of Jelly Belly is hosting a series of cash prize treasure hunts around the country before his retirement. Anyone that participates will then be eligible to search for the u… [+908 chars]",
+         "description" : "Those who wish to get involved just need to pay an entry fee of $49.99 to get access to their state’s clue.",
+         "title" : "Jelly Belly founder hosting online treasure hunt, winner gets candy factory - WJW FOX 8 News Cleveland"
       },
       {
          "source" : {
             "id" : null,
             "name" : "WTOP"
          },
-         "title" : "Protest at Prince George’s County Popeyes follows struggle between guard, customer - WTOP",
-         "author" : "Abigail Constantino",
          "url" : "http://wtop.com/prince-georges-county/2020/09/protest-at-prince-georges-county-popeyes-follows-struggle-between-guard-customer/",
-         "publishedAt" : "2020-09-08T00:13:51Z",
          "urlToImage" : "https://wtop.com/wp-content/uploads/2019/08/S113360661-300.jpg",
+         "author" : "Abigail Constantino",
+         "publishedAt" : "2020-09-08T00:13:51Z",
          "description" : "Protesters gathered at a Popeyes restaurant in Prince George’s County, Maryland, following a struggle, which was caught on video, between a security guard and a woman picking up an order.",
+         "title" : "Protest at Prince George’s County Popeyes follows struggle between guard, customer - WTOP",
          "content" : "Protesters gathered at a Popeyes restaurant in Prince George’s County, Maryland, following a struggle, which was caught on video, between a security guard and a woman picking up an order.\r\nBlack Live… [+1973 chars]"
       },
       {
+         "title" : "'I could've done better': Lakewood student gets COVID at college after being careful all summer - KING5.com",
+         "description" : "Washington's Gabby Warwick, age 20, thinks she became infected with COVID-19 at a back-to-school party in Michigan.",
+         "content" : "PIERCE COUNTY, Wash. Gabby Warwick is disappointed in herself.\r\nThe 20-year-old said she was careful to social distance while she lived at home this summer in Lakewood.\r\nBut when she returned to coll… [+1763 chars]",
+         "source" : {
+            "name" : "KING5.com",
+            "id" : null
+         },
+         "url" : "https://www.king5.com/article/news/health/coronavirus/i-cant-be-mad-at-anybody-but-myself-lakewood-student-avoids-covid-all-summer-but-then-she-goes-back-to-school/281-b5a0e63d-76eb-40cb-8f4d-f1a42bd747a4",
+         "urlToImage" : "https://media.king5.com/assets/KING/images/9f80404f-bccc-42aa-9408-1bca4b120cb2/9f80404f-bccc-42aa-9408-1bca4b120cb2_1140x641.jpg",
+         "author" : "Drew Mikkelsen",
+         "publishedAt" : "2020-09-07T23:57:00Z"
+      },
+      {
+         "content" : "SINGAPORE Stocks in Asia Pacific were mostly higher on Tuesday morning, as Japan released revised gross domestic product figures for the second quarter.\r\nIn Japan, the Nikkei 225 advanced 0.33% in mo… [+1233 chars]",
+         "description" : "Japan's revised GDP figures for the second quarter released Tuesday showed the country's economy shrinking an annualized 28.1% in April-June, according to second preliminary estimates released by the Cabinet Office.",
+         "title" : "Asia stocks trade higher; Japan's second-quarter GDP revised lower - CNBC",
+         "author" : "Eustance Huang",
+         "publishedAt" : "2020-09-07T23:37:00Z",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/105847418-1555025476933gettyimages-1129771953.jpeg?v=1599521528",
          "source" : {
             "id" : null,
             "name" : "CNBC"
          },
-         "content" : "SINGAPORE Stocks in Asia Pacific were mostly higher on Tuesday morning, as Japan released revised gross domestic product figures for the second quarter.\r\nIn Japan, the Nikkei 225 advanced 0.33% in mo… [+1233 chars]",
-         "title" : "Asia stocks trade higher; Japan's second-quarter GDP revised lower - CNBC",
-         "author" : "Eustance Huang",
-         "description" : "Japan's revised GDP figures for the second quarter released Tuesday showed the country's economy shrinking an annualized 28.1% in April-June, according to second preliminary estimates released by the Cabinet Office.",
-         "publishedAt" : "2020-09-07T23:37:00Z",
-         "url" : "https://www.cnbc.com/2020/09/08/asia-markets-japan-economy-geopolitics-currencies.html",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/105847418-1555025476933gettyimages-1129771953.jpeg?v=1599521528"
+         "url" : "https://www.cnbc.com/2020/09/08/asia-markets-japan-economy-geopolitics-currencies.html"
       },
       {
-         "content" : null,
-         "title" : "Dr. Roy: My Concern Is We Are Rushing COVID-19 Vaccine Development Process | MSNBC - MSNBC",
-         "author" : null,
-         "publishedAt" : "2020-09-07T23:16:11Z",
-         "url" : "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9SmQwUF9QOFZOQVXSAQA?oc=5",
-         "urlToImage" : null,
-         "description" : null,
+         "url" : "https://www.bbc.com/news/technology-54063039",
          "source" : {
-            "name" : "Google News",
-            "id" : "google-news"
-         }
+            "name" : "BBC News",
+            "id" : null
+         },
+         "urlToImage" : "https://ichef.bbci.co.uk/news/1024/branded_news/10849/production/_114275676_amazon2.jpg",
+         "publishedAt" : "2020-09-07T23:36:00Z",
+         "author" : "https://www.facebook.com/bbcnews",
+         "description" : "Companies are trying to manipulate online feedback - and one-star reviews have become the latest weapon.",
+         "title" : "Amazon's murky world of one-star reviews - BBC News",
+         "content" : null
       },
       {
-         "content" : "A man was removed from an Allegiant Air flight Monday morning to Punta Gorda, Florida after allegedly asking a flight attendant to put a face mask on, according to a report by Newsweek.\r\nIn a video p… [+2171 chars]",
-         "description" : "A spokesperson for Allegiant told FOX News that the passenger was removed for violating FAA regulations by \"repeatedly and aggressively disrupting the preflight safety briefing\" after the flight attendant \"briefly lowered their mask to speak into the public a…",
-         "url" : "https://www.foxnews.com/us/allegiant-air-passenger-removed-for-disrupting-flight-after-allegedly-asking-flight-attendant-to-wear-face-mask",
-         "publishedAt" : "2020-09-07T23:14:35Z",
-         "urlToImage" : "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/Allegiant-planes.jpg",
-         "title" : "Allegiant Air passenger removed for 'disrupting' flight after allegedly asking flight attendant to wear fac... - Fox News",
          "author" : "Lucas Manfredi",
+         "publishedAt" : "2020-09-07T23:14:35Z",
          "source" : {
             "id" : "fox-news",
             "name" : "Fox News"
-         }
+         },
+         "url" : "https://www.foxnews.com/us/allegiant-air-passenger-removed-for-disrupting-flight-after-allegedly-asking-flight-attendant-to-wear-face-mask",
+         "urlToImage" : "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/Allegiant-planes.jpg",
+         "content" : "A man was removed from an Allegiant Air flight Monday morning to Punta Gorda, Florida after allegedly asking a flight attendant to put a face mask on, according to a report by Newsweek.\r\nIn a video p… [+2171 chars]",
+         "title" : "Allegiant Air passenger removed for 'disrupting' flight after allegedly asking flight attendant to wear fac... - Fox News",
+         "description" : "A spokesperson for Allegiant told FOX News that the passenger was removed for violating FAA regulations by \"repeatedly and aggressively disrupting the preflight safety briefing\" after the flight attendant \"briefly lowered their mask to speak into the public a…"
       },
       {
          "content" : "E-commerce giants are enacting new restrictions on the sale of seeds, but the moves are unlikely to eliminate the tactics government officials and industry experts suspect are behind the mystery seed… [+10299 chars]",
-         "author" : "Jon Emont, Jesse Newman",
          "title" : "Amazon, Wish Are Restricting Seed Sales. That May Not Stop Mystery Mailings. - The Wall Street Journal",
-         "publishedAt" : "2020-09-07T23:08:00Z",
-         "url" : "https://www.wsj.com/articles/wish-joins-amazon-in-restricting-seed-sales-amid-global-seed-mystery-11599489002",
-         "urlToImage" : "https://images.wsj.net/im-229143/social",
          "description" : "E-commerce companies’ actions came after thousands of people in U.S., other countries received unsolicited seeds by post",
+         "author" : "Jon Emont, Jesse Newman",
+         "publishedAt" : "2020-09-07T23:08:00Z",
+         "urlToImage" : "https://images.wsj.net/im-229143/social",
          "source" : {
-            "name" : "The Wall Street Journal",
-            "id" : "the-wall-street-journal"
-         }
+            "id" : "the-wall-street-journal",
+            "name" : "The Wall Street Journal"
+         },
+         "url" : "https://www.wsj.com/articles/wish-joins-amazon-in-restricting-seed-sales-amid-global-seed-mystery-11599489002"
       },
       {
+         "content" : "(Bloomberg) --\r\nJust when investors thought Masayoshi Son was reining in risk at SoftBank Group Corp., the Japanese billionaires foray into highly leveraged derivatives is giving them fresh reason to… [+6035 chars]",
          "title" : "SoftBank’s Big Options Bet Tests Investor Faith in Masayoshi Son - Yahoo Finance",
+         "description" : "(Bloomberg) -- Just when investors thought Masayoshi Son was reining in risk at SoftBank Group Corp., the Japanese billionaire’s foray into highly leveraged derivatives is giving them fresh reason to worry.SoftBank shares tumbled 7.2% on Monday in Tokyo, eras…",
          "author" : "Pavel Alpeyev, Takahiko Hyuga and Giles Turner",
          "publishedAt" : "2020-09-07T23:00:00Z",
-         "url" : "https://finance.yahoo.com/news/softbank-big-options-bet-tests-230000396.html",
-         "urlToImage" : "https://s.yimg.com/uu/api/res/1.2/KG8lOZKtKaX40e_l.E2UHw--~B/aD02NzU7dz0xMjAwO3NtPTE7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/bloomberg_technology_68/4caee3a5ca988f4e2ad8d885d21adf3a",
-         "description" : "(Bloomberg) -- Just when investors thought Masayoshi Son was reining in risk at SoftBank Group Corp., the Japanese billionaire’s foray into highly leveraged derivatives is giving them fresh reason to worry.SoftBank shares tumbled 7.2% on Monday in Tokyo, eras…",
-         "content" : "(Bloomberg) --\r\nJust when investors thought Masayoshi Son was reining in risk at SoftBank Group Corp., the Japanese billionaires foray into highly leveraged derivatives is giving them fresh reason to… [+6035 chars]",
          "source" : {
             "id" : null,
             "name" : "Yahoo Entertainment"
-         }
+         },
+         "url" : "https://finance.yahoo.com/news/softbank-big-options-bet-tests-230000396.html",
+         "urlToImage" : "https://s.yimg.com/uu/api/res/1.2/KG8lOZKtKaX40e_l.E2UHw--~B/aD02NzU7dz0xMjAwO3NtPTE7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/bloomberg_technology_68/4caee3a5ca988f4e2ad8d885d21adf3a"
       },
       {
+         "title" : "Dow futures jump 200 points in overnight trading following the worst tech rout since March - CNBC",
+         "description" : "Stocks just snapped a five-week winning streak amid a big reversal in major technology shares last week.",
+         "content" : "Stocks futures climbed in overnight trading on Monday after technology shares suffered their worst sell-off in more than five months.\r\nFutures on the Dow Jones Industrial Average gained about 220 poi… [+1792 chars]",
+         "url" : "https://www.cnbc.com/2020/09/07/stock-market-futures-open-to-close-news.html",
          "source" : {
             "name" : "CNBC",
             "id" : null
          },
-         "author" : "Yun Li",
-         "title" : "Dow futures jump 200 points in overnight trading following the worst tech rout since March - CNBC",
-         "description" : "Stocks just snapped a five-week winning streak amid a big reversal in major technology shares last week.",
-         "url" : "https://www.cnbc.com/2020/09/07/stock-market-futures-open-to-close-news.html",
-         "publishedAt" : "2020-09-07T22:03:00Z",
          "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106597494-1593517701336gettyimages-1223460571.jpeg?v=1597948694",
-         "content" : "Stocks futures climbed in overnight trading on Monday after technology shares suffered their worst sell-off in more than five months.\r\nFutures on the Dow Jones Industrial Average gained about 220 poi… [+1792 chars]"
+         "author" : "Yun Li",
+         "publishedAt" : "2020-09-07T22:03:00Z"
       },
       {
-         "source" : {
-            "id" : null,
-            "name" : "WLOS"
-         },
          "description" : "A traditional Labor Day treat took place over Main Street in Hendersonville on Monday. Caption: WLOS. The Bandit Flight Team did three beautiful passes. Six planes flew in formation and then circled the courthouse. The second pass included what is called a 'b…",
-         "url" : "http://wlos.com/news/local/look-up-flight-team-takes-to-the-skies-for-labor-day-salute",
-         "publishedAt" : "2020-09-07T21:47:00Z",
-         "urlToImage" : "http://static-34.sinclairstoryline.com/resources/media/3d63d982-a52a-4c10-9ea0-8e08233f3214-large16x9_VBANDITFLIGHTFLAG.transfer_frame_256.png?1599514954318",
-         "author" : "Kimberly King, WLOS STAFF",
          "title" : "Look up! Flight team takes to the skies for Labor Day salute - WLOS",
-         "content" : null
+         "content" : null,
+         "source" : {
+            "name" : "WLOS",
+            "id" : null
+         },
+         "url" : "http://wlos.com/news/local/look-up-flight-team-takes-to-the-skies-for-labor-day-salute",
+         "urlToImage" : "http://static-34.sinclairstoryline.com/resources/media/3d63d982-a52a-4c10-9ea0-8e08233f3214-large16x9_VBANDITFLIGHTFLAG.transfer_frame_256.png?1599514954318",
+         "publishedAt" : "2020-09-07T21:47:00Z",
+         "author" : "Kimberly King, WLOS STAFF"
       },
       {
+         "description" : "The recall affects certain Kia Optima and Sorento models, as well as the Hyundai Santa Fe.",
+         "title" : "Hyundai And Kia Recall Almost 600,000 Vehicles Over Fire Risk - CarScoops",
+         "content" : "Hyundai and Kia are recalling roughly 591,000 vehicles in the United States due to a brake-fluid leak.\r\nA recall notice from the National Highway Traffic Safety Administration (NHTSA) reveals that du… [+1389 chars]",
          "source" : {
             "name" : "CarScoops",
             "id" : null
          },
-         "title" : "Hyundai And Kia Recall Almost 600,000 Vehicles Over Fire Risk - CarScoops",
-         "author" : null,
-         "description" : "The recall affects certain Kia Optima and Sorento models, as well as the Hyundai Santa Fe.",
          "url" : "https://www.carscoops.com/2020/09/hyundai-and-kia-recall-almost-600000-vehicles-over-fire-risk/",
-         "publishedAt" : "2020-09-07T21:41:00Z",
          "urlToImage" : "https://www.carscoops.com/wp-content/uploads/2020/09/Kia-Hyundai-Recalls-1b.jpg",
-         "content" : "Hyundai and Kia are recalling roughly 591,000 vehicles in the United States due to a brake-fluid leak.\r\nA recall notice from the National Highway Traffic Safety Administration (NHTSA) reveals that du… [+1389 chars]"
-      },
-      {
-         "urlToImage" : null,
-         "publishedAt" : "2020-09-07T21:17:00Z",
-         "url" : "https://news.google.com/__i/rss/rd/articles/CBMiN2h0dHBzOi8vd3d3LnNhY2JlZS5jb20vbmV3cy9sb2NhbC9hcnRpY2xlMjQ1NTUxOTIwLmh0bWzSATdodHRwczovL2FtcC5zYWNiZWUuY29tL25ld3MvbG9jYWwvYXJ0aWNsZTI0NTU1MTkyMC5odG1s?oc=5",
-         "description" : null,
          "author" : null,
-         "title" : "Roughly 5,000 customers lose power in downtown Sacramento in SMUD outage - Sacramento Bee",
-         "content" : null,
-         "source" : {
-            "name" : "Google News",
-            "id" : "google-news"
-         }
+         "publishedAt" : "2020-09-07T21:41:00Z"
       },
       {
-         "content" : "The trigger for a seismic stock-market slump Thursday and Friday that has erased weeks of gains for a frothy U.S. stock market, may have been embattled investment firm SoftBank, according to a report… [+1193 chars]",
-         "description" : "",
-         "urlToImage" : "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-         "publishedAt" : "2020-09-07T21:00:00Z",
-         "url" : "https://www.marketwatch.com/story/this-nasdaq-whale-may-have-helped-trigger-the-stock-markets-brutal-rout-2020-09-07-1710308",
-         "title" : "This ‘Nasdaq whale’ may have helped trigger the stock-market’s brutal rout - MarketWatch",
-         "author" : "MarketWatch",
+         "urlToImage" : "https://static.toiimg.com/thumb/msid-77987992,width-1070,height-580,imgsize-160608,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+         "url" : "https://timesofindia.indiatimes.com/business/india-business/chanda-kochhars-husband-arrested-in-laundering-case/articleshow/77987993.cms",
          "source" : {
-            "name" : "MarketWatch",
-            "id" : null
-         }
-      },
-      {
-         "title" : "Samsung Wins $6.6 billion Verizon 5G Contract, Beating Ericsson and Nokia - Motley Fool",
-         "author" : "Anders Bylund",
-         "description" : "The South Korean electronics giant is making inroads into the telecom infrastructure market.",
-         "urlToImage" : "https://g.foolcdn.com/editorial/images/590852/cell-tower-in-sunset.jpg",
-         "publishedAt" : "2020-09-07T20:58:00Z",
-         "url" : "https://www.fool.com/investing/2020/09/07/samsung-wins-66-billion-verizon-5g-contract-beatin/",
-         "content" : "South Korean electronics veteran Samsung(OTC: SSNLF) scored a big win this week when American telecom Verizon Communications(NYSE:VZ) selected the company as a provider of 5G wireless networking equi… [+1454 chars]",
-         "source" : {
-            "id" : null,
-            "name" : "Motley Fool"
-         }
-      },
-      {
-         "source" : {
-            "id" : null,
-            "name" : "New York Times"
+            "id" : "the-times-of-india",
+            "name" : "The Times of India"
          },
-         "content" : "The boom is of a piece with other unexpected trends in a recession that has left millions of people unemployed and has devastated airlines, restaurants, hotels and small businesses. Despite that pain… [+2123 chars]",
-         "urlToImage" : "https://static01.nyt.com/images/2020/09/06/business/06used-cars1-copy/06used-cars1-copy-facebookJumbo-v2.jpg",
-         "publishedAt" : "2020-09-07T20:40:00Z",
-         "url" : "https://www.nytimes.com/2020/09/07/business/used-cars-pandemic.html",
-         "description" : "Eager to avoid public transit and Uber, and to save money, buyers are emptying dealerships.",
-         "title" : "Looking to Buy a Used Car in the Pandemic? So Is Everyone Else - The New York Times",
-         "author" : "Neal E. Boudette"
-      },
-      {
-         "source" : {
-            "name" : "Google News",
-            "id" : "google-news"
-         },
-         "title" : "Netflix Inc. stock falls Monday, underperforms market - MarketWatch",
-         "author" : null,
-         "publishedAt" : "2020-09-07T20:25:00Z",
-         "url" : "https://news.google.com/__i/rss/rd/articles/CBMiYWh0dHBzOi8vd3d3Lm1hcmtldHdhdGNoLmNvbS9zdG9yeS9uZXRmbGl4LWluYy1zdG9jay1mYWxscy1tb25kYXktdW5kZXJwZXJmb3Jtcy1tYXJrZXQtMDE1OTk1MTAzMjjSAWVodHRwczovL3d3dy5tYXJrZXR3YXRjaC5jb20vYW1wL3N0b3J5L25ldGZsaXgtaW5jLXN0b2NrLWZhbGxzLW1vbmRheS11bmRlcnBlcmZvcm1zLW1hcmtldC0wMTU5OTUxMDMyOA?oc=5",
-         "urlToImage" : null,
-         "description" : null,
+         "publishedAt" : "2020-09-07T21:32:00Z",
+         "author" : "Pradeep Thakur,Vijay V Singh",
+         "title" : "Chanda Kochhar’s husband arrested in money laundering case - Times of India",
+         "description" : "India Business News: The Enforcement Directorate on Monday arrested Deepak Kochhar, husband of former ICICI Bank CEO Chanda Kochhar, in a major development which is seen a",
          "content" : null
-      },
-      {
-         "source" : {
-            "id" : null,
-            "name" : "Yahoo Entertainment"
-         },
-         "description" : "Founder Reed Hastings says working from home has no positive effects and makes debating ideas harder.",
-         "urlToImage" : "https://s.yimg.com/uu/api/res/1.2/KTVyplnhVjkuuba01VuU2w--~B/aD01NDk7dz05NzY7c209MTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en-gb/bbc_us_articles_995/bad54fe0433ab179f1470a7115dd9d74",
-         "publishedAt" : "2020-09-07T20:24:00Z",
-         "url" : "https://news.yahoo.com/netflix-boss-remote-working-negative-171448108.html",
-         "title" : "Netflix boss: Remote working has negative effects - Yahoo News",
-         "author" : "BBC",
-         "content" : "Reed Hastings (L) with co-chief executive Ted Sarandos (R)\r\nNetflix's chairman has said working from home has no positive effects and makes debating ideas harder.\r\nBut Reed Hastings, who founded the … [+1457 chars]"
-      },
-      {
-         "source" : {
-            "id" : null,
-            "name" : "MarketWatch"
-         },
-         "publishedAt" : "2020-09-07T20:09:00Z",
-         "url" : "https://www.marketwatch.com/story/the-trump-administration-wants-to-discourage-your-401k-from-including-esg-investment-options-2020-09-07",
-         "urlToImage" : "https://s.marketwatch.com/public/resources/images/MW-IM726_401kst_ZG_20200818132030.jpg",
-         "description" : "Two proposed rules imply that investment managers promote social goals over sound investment analysis — but that’s not what actually happens",
-         "title" : "The Trump administration wants to discourage your 401(k) from including ESG investment options - MarketWatch",
-         "author" : "Lisa Woll, Judy Mares",
-         "content" : "Two proposed rulemakings from the Labor Department in the past eight weeks would largely gut sustainable investing options and strategies in retirement plans. These proposals would reverse the Labor … [+6078 chars]"
-      },
-      {
-         "title" : "More than 700 airline passengers banned in US for refusing to wear masks - New York Post ",
-         "author" : "Lee Brown",
-         "description" : "More than 700 airline passengers have been banned from flying on US airlines for refusing to wear masks, according to a report. Delta Air Lines has been the strictest, putting 270 passengers on its…",
-         "urlToImage" : "https://nypost.com/wp-content/uploads/sites/2/2020/09/airlines.jpg?quality=90&strip=all&w=1200",
-         "publishedAt" : "2020-09-07T20:03:00Z",
-         "url" : "https://nypost.com/2020/09/07/more-than-700-airline-passengers-banned-for-refusing-to-wear-masks/",
-         "content" : "More than 700 airline passengers have been banned from flying on US airlines for refusing to wear masks, according to a report.\r\nDelta Air Lines has been the strictest, putting 270 passengers on its … [+1796 chars]",
-         "source" : {
-            "id" : null,
-            "name" : "New York Post"
-         }
       }
-   ],
-   "status" : "ok"
+   ]
 }
