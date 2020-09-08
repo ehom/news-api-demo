@@ -1,5 +1,266 @@
 {
-   "status" : "error",
-   "code" : "apiKeyMissing",
-   "message" : "Your API key is missing. Append this to the URL with the apiKey param, or use the x-api-key HTTP header."
+   "totalResults" : 70,
+   "articles" : [
+      {
+         "author" : "Chelsea Stone",
+         "title" : "All the Labor Day sales and deals to shop this weekend - CNN",
+         "content" : "The unofficial end of summer is upon us. Labor Day has arrived, and hundreds of retailers are celebrating with sales and deals on products across categories. And because you probably dont want to spe… [+22734 chars]",
+         "publishedAt" : "2020-09-08T01:47:23Z",
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200903063600-labor-day-sales-lead-image-super-169.jpg",
+         "description" : "Labor Day has arrived, and hundreds of retailers — from Amazon to Wayfair to Nordstrom and more — are celebrating with sales and deals on products across categories.",
+         "source" : {
+            "name" : "CNN",
+            "id" : "cnn"
+         },
+         "url" : "https://www.cnn.com/2020/09/07/cnn-underscored/labor-day-sales-deals-2020/index.html"
+      },
+      {
+         "url" : "https://www.reuters.com/article/us-global-markets-idUSKBN25Z02Z",
+         "source" : {
+            "name" : "Reuters",
+            "id" : "reuters"
+         },
+         "description" : "U.S. stock futures and Asian shares regained some footing on Tuesday following a small bounce in European shares as investors looked to whether high-flying U.S. tech shares could recover from their recent rout.",
+         "urlToImage" : "https://s2.reutersmedia.net/resources/r/?m=02&d=20200908&t=2&i=1532530386&w=1200&r=LYNXMPEG8701G",
+         "publishedAt" : "2020-09-08T01:00:00Z",
+         "content" : "TOKYO (Reuters) - U.S. stock futures and Asian shares regained some footing on Tuesday following a small bounce in European shares as investors looked to whether high-flying U.S. tech shares could re… [+2950 chars]",
+         "title" : "World shares rebound, try to shake off U.S. tech rout scare - Reuters",
+         "author" : "Hideyuki Sano"
+      },
+      {
+         "description" : "Those who wish to get involved just need to pay an entry fee of $49.99 to get access to their state’s clue.",
+         "urlToImage" : "https://fox8.com/wp-content/uploads/sites/12/2020/09/Jelly-Belly-founder.jpg?w=1280",
+         "url" : "https://fox8.com/news/jelly-belly-founder-hosting-online-treasure-hunt-winner-gets-candy-factory/",
+         "source" : {
+            "name" : "fox8.com",
+            "id" : null
+         },
+         "author" : "WFLA 8 On Your Side Staff",
+         "content" : "TAMPA (WFLA) – The founder of Jelly Belly is hosting a series of cash prize treasure hunts around the country before his retirement. Anyone that participates will then be eligible to search for the u… [+908 chars]",
+         "publishedAt" : "2020-09-08T00:20:00Z",
+         "title" : "Jelly Belly founder hosting online treasure hunt, winner gets candy factory - WJW FOX 8 News Cleveland"
+      },
+      {
+         "author" : "Abigail Constantino",
+         "content" : "Protesters gathered at a Popeyes restaurant in Prince George’s County, Maryland, following a struggle, which was caught on video, between a security guard and a woman picking up an order.\r\nBlack Live… [+1973 chars]",
+         "publishedAt" : "2020-09-08T00:13:51Z",
+         "title" : "Protest at Prince George’s County Popeyes follows struggle between guard, customer - WTOP",
+         "description" : "Protesters gathered at a Popeyes restaurant in Prince George’s County, Maryland, following a struggle, which was caught on video, between a security guard and a woman picking up an order.",
+         "urlToImage" : "https://wtop.com/wp-content/uploads/2019/08/S113360661-300.jpg",
+         "url" : "http://wtop.com/prince-georges-county/2020/09/protest-at-prince-georges-county-popeyes-follows-struggle-between-guard-customer/",
+         "source" : {
+            "id" : null,
+            "name" : "WTOP"
+         }
+      },
+      {
+         "title" : "Asia stocks trade higher; Japan's second-quarter GDP revised lower - CNBC",
+         "content" : "SINGAPORE Stocks in Asia Pacific were mostly higher on Tuesday morning, as Japan released revised gross domestic product figures for the second quarter.\r\nIn Japan, the Nikkei 225 advanced 0.33% in mo… [+1233 chars]",
+         "publishedAt" : "2020-09-07T23:37:00Z",
+         "author" : "Eustance Huang",
+         "source" : {
+            "id" : null,
+            "name" : "CNBC"
+         },
+         "url" : "https://www.cnbc.com/2020/09/08/asia-markets-japan-economy-geopolitics-currencies.html",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/105847418-1555025476933gettyimages-1129771953.jpeg?v=1599521528",
+         "description" : "Japan's revised GDP figures for the second quarter released Tuesday showed the country's economy shrinking an annualized 28.1% in April-June, according to second preliminary estimates released by the Cabinet Office."
+      },
+      {
+         "title" : "Dr. Roy: My Concern Is We Are Rushing COVID-19 Vaccine Development Process | MSNBC - MSNBC",
+         "content" : null,
+         "publishedAt" : "2020-09-07T23:16:11Z",
+         "author" : null,
+         "source" : {
+            "name" : "Google News",
+            "id" : "google-news"
+         },
+         "url" : "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9SmQwUF9QOFZOQVXSAQA?oc=5",
+         "urlToImage" : null,
+         "description" : null
+      },
+      {
+         "urlToImage" : "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/Allegiant-planes.jpg",
+         "description" : "A spokesperson for Allegiant told FOX News that the passenger was removed for violating FAA regulations by \"repeatedly and aggressively disrupting the preflight safety briefing\" after the flight attendant \"briefly lowered their mask to speak into the public a…",
+         "source" : {
+            "name" : "Fox News",
+            "id" : "fox-news"
+         },
+         "url" : "https://www.foxnews.com/us/allegiant-air-passenger-removed-for-disrupting-flight-after-allegedly-asking-flight-attendant-to-wear-face-mask",
+         "author" : "Lucas Manfredi",
+         "title" : "Allegiant Air passenger removed for 'disrupting' flight after allegedly asking flight attendant to wear fac... - Fox News",
+         "content" : "A man was removed from an Allegiant Air flight Monday morning to Punta Gorda, Florida after allegedly asking a flight attendant to put a face mask on, according to a report by Newsweek.\r\nIn a video p… [+2171 chars]",
+         "publishedAt" : "2020-09-07T23:14:35Z"
+      },
+      {
+         "publishedAt" : "2020-09-07T23:08:00Z",
+         "content" : "E-commerce giants are enacting new restrictions on the sale of seeds, but the moves are unlikely to eliminate the tactics government officials and industry experts suspect are behind the mystery seed… [+10299 chars]",
+         "title" : "Amazon, Wish Are Restricting Seed Sales. That May Not Stop Mystery Mailings. - The Wall Street Journal",
+         "author" : "Jon Emont, Jesse Newman",
+         "url" : "https://www.wsj.com/articles/wish-joins-amazon-in-restricting-seed-sales-amid-global-seed-mystery-11599489002",
+         "source" : {
+            "id" : "the-wall-street-journal",
+            "name" : "The Wall Street Journal"
+         },
+         "description" : "E-commerce companies’ actions came after thousands of people in U.S., other countries received unsolicited seeds by post",
+         "urlToImage" : "https://images.wsj.net/im-229143/social"
+      },
+      {
+         "description" : "(Bloomberg) -- Just when investors thought Masayoshi Son was reining in risk at SoftBank Group Corp., the Japanese billionaire’s foray into highly leveraged derivatives is giving them fresh reason to worry.SoftBank shares tumbled 7.2% on Monday in Tokyo, eras…",
+         "urlToImage" : "https://s.yimg.com/uu/api/res/1.2/KG8lOZKtKaX40e_l.E2UHw--~B/aD02NzU7dz0xMjAwO3NtPTE7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/bloomberg_technology_68/4caee3a5ca988f4e2ad8d885d21adf3a",
+         "url" : "https://finance.yahoo.com/news/softbank-big-options-bet-tests-230000396.html",
+         "source" : {
+            "name" : "Yahoo Entertainment",
+            "id" : null
+         },
+         "author" : "Pavel Alpeyev, Takahiko Hyuga and Giles Turner",
+         "content" : "(Bloomberg) --\r\nJust when investors thought Masayoshi Son was reining in risk at SoftBank Group Corp., the Japanese billionaires foray into highly leveraged derivatives is giving them fresh reason to… [+6035 chars]",
+         "publishedAt" : "2020-09-07T23:00:00Z",
+         "title" : "SoftBank’s Big Options Bet Tests Investor Faith in Masayoshi Son - Yahoo Finance"
+      },
+      {
+         "url" : "https://www.cnbc.com/2020/09/07/stock-market-futures-open-to-close-news.html",
+         "source" : {
+            "id" : null,
+            "name" : "CNBC"
+         },
+         "description" : "Stocks just snapped a five-week winning streak amid a big reversal in major technology shares last week.",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106597494-1593517701336gettyimages-1223460571.jpeg?v=1597948694",
+         "publishedAt" : "2020-09-07T22:03:00Z",
+         "content" : "Stocks futures climbed in overnight trading on Monday after technology shares suffered their worst sell-off in more than five months.\r\nFutures on the Dow Jones Industrial Average gained about 220 poi… [+1792 chars]",
+         "title" : "Dow futures jump 200 points in overnight trading following the worst tech rout since March - CNBC",
+         "author" : "Yun Li"
+      },
+      {
+         "description" : "A traditional Labor Day treat took place over Main Street in Hendersonville on Monday. Caption: WLOS. The Bandit Flight Team did three beautiful passes. Six planes flew in formation and then circled the courthouse. The second pass included what is called a 'b…",
+         "urlToImage" : "http://static-34.sinclairstoryline.com/resources/media/3d63d982-a52a-4c10-9ea0-8e08233f3214-large16x9_VBANDITFLIGHTFLAG.transfer_frame_256.png?1599514954318",
+         "url" : "http://wlos.com/news/local/look-up-flight-team-takes-to-the-skies-for-labor-day-salute",
+         "source" : {
+            "id" : null,
+            "name" : "WLOS"
+         },
+         "author" : "Kimberly King, WLOS STAFF",
+         "publishedAt" : "2020-09-07T21:47:00Z",
+         "content" : null,
+         "title" : "Look up! Flight team takes to the skies for Labor Day salute - WLOS"
+      },
+      {
+         "description" : "The recall affects certain Kia Optima and Sorento models, as well as the Hyundai Santa Fe.",
+         "urlToImage" : "https://www.carscoops.com/wp-content/uploads/2020/09/Kia-Hyundai-Recalls-1b.jpg",
+         "url" : "https://www.carscoops.com/2020/09/hyundai-and-kia-recall-almost-600000-vehicles-over-fire-risk/",
+         "source" : {
+            "name" : "CarScoops",
+            "id" : null
+         },
+         "author" : null,
+         "publishedAt" : "2020-09-07T21:41:00Z",
+         "content" : "Hyundai and Kia are recalling roughly 591,000 vehicles in the United States due to a brake-fluid leak.\r\nA recall notice from the National Highway Traffic Safety Administration (NHTSA) reveals that du… [+1389 chars]",
+         "title" : "Hyundai And Kia Recall Almost 600,000 Vehicles Over Fire Risk - CarScoops"
+      },
+      {
+         "urlToImage" : null,
+         "description" : null,
+         "source" : {
+            "id" : "google-news",
+            "name" : "Google News"
+         },
+         "url" : "https://news.google.com/__i/rss/rd/articles/CBMiN2h0dHBzOi8vd3d3LnNhY2JlZS5jb20vbmV3cy9sb2NhbC9hcnRpY2xlMjQ1NTUxOTIwLmh0bWzSATdodHRwczovL2FtcC5zYWNiZWUuY29tL25ld3MvbG9jYWwvYXJ0aWNsZTI0NTU1MTkyMC5odG1s?oc=5",
+         "author" : null,
+         "title" : "Roughly 5,000 customers lose power in downtown Sacramento in SMUD outage - Sacramento Bee",
+         "publishedAt" : "2020-09-07T21:17:00Z",
+         "content" : null
+      },
+      {
+         "url" : "https://www.marketwatch.com/story/this-nasdaq-whale-may-have-helped-trigger-the-stock-markets-brutal-rout-2020-09-07-1710308",
+         "source" : {
+            "id" : null,
+            "name" : "MarketWatch"
+         },
+         "description" : "",
+         "urlToImage" : "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+         "publishedAt" : "2020-09-07T21:00:00Z",
+         "content" : "The trigger for a seismic stock-market slump Thursday and Friday that has erased weeks of gains for a frothy U.S. stock market, may have been embattled investment firm SoftBank, according to a report… [+1193 chars]",
+         "title" : "This ‘Nasdaq whale’ may have helped trigger the stock-market’s brutal rout - MarketWatch",
+         "author" : "MarketWatch"
+      },
+      {
+         "publishedAt" : "2020-09-07T20:58:00Z",
+         "content" : "South Korean electronics veteran Samsung(OTC: SSNLF) scored a big win this week when American telecom Verizon Communications(NYSE:VZ) selected the company as a provider of 5G wireless networking equi… [+1454 chars]",
+         "title" : "Samsung Wins $6.6 billion Verizon 5G Contract, Beating Ericsson and Nokia - Motley Fool",
+         "author" : "Anders Bylund",
+         "url" : "https://www.fool.com/investing/2020/09/07/samsung-wins-66-billion-verizon-5g-contract-beatin/",
+         "source" : {
+            "id" : null,
+            "name" : "Motley Fool"
+         },
+         "description" : "The South Korean electronics giant is making inroads into the telecom infrastructure market.",
+         "urlToImage" : "https://g.foolcdn.com/editorial/images/590852/cell-tower-in-sunset.jpg"
+      },
+      {
+         "url" : "https://www.nytimes.com/2020/09/07/business/used-cars-pandemic.html",
+         "source" : {
+            "id" : null,
+            "name" : "New York Times"
+         },
+         "description" : "Eager to avoid public transit and Uber, and to save money, buyers are emptying dealerships.",
+         "urlToImage" : "https://static01.nyt.com/images/2020/09/06/business/06used-cars1-copy/06used-cars1-copy-facebookJumbo-v2.jpg",
+         "publishedAt" : "2020-09-07T20:40:00Z",
+         "content" : "The boom is of a piece with other unexpected trends in a recession that has left millions of people unemployed and has devastated airlines, restaurants, hotels and small businesses. Despite that pain… [+2123 chars]",
+         "title" : "Looking to Buy a Used Car in the Pandemic? So Is Everyone Else - The New York Times",
+         "author" : "Neal E. Boudette"
+      },
+      {
+         "description" : null,
+         "urlToImage" : null,
+         "url" : "https://news.google.com/__i/rss/rd/articles/CBMiYWh0dHBzOi8vd3d3Lm1hcmtldHdhdGNoLmNvbS9zdG9yeS9uZXRmbGl4LWluYy1zdG9jay1mYWxscy1tb25kYXktdW5kZXJwZXJmb3Jtcy1tYXJrZXQtMDE1OTk1MTAzMjjSAWVodHRwczovL3d3dy5tYXJrZXR3YXRjaC5jb20vYW1wL3N0b3J5L25ldGZsaXgtaW5jLXN0b2NrLWZhbGxzLW1vbmRheS11bmRlcnBlcmZvcm1zLW1hcmtldC0wMTU5OTUxMDMyOA?oc=5",
+         "source" : {
+            "id" : "google-news",
+            "name" : "Google News"
+         },
+         "author" : null,
+         "publishedAt" : "2020-09-07T20:25:00Z",
+         "content" : null,
+         "title" : "Netflix Inc. stock falls Monday, underperforms market - MarketWatch"
+      },
+      {
+         "author" : "BBC",
+         "title" : "Netflix boss: Remote working has negative effects - Yahoo News",
+         "publishedAt" : "2020-09-07T20:24:00Z",
+         "content" : "Reed Hastings (L) with co-chief executive Ted Sarandos (R)\r\nNetflix's chairman has said working from home has no positive effects and makes debating ideas harder.\r\nBut Reed Hastings, who founded the … [+1457 chars]",
+         "urlToImage" : "https://s.yimg.com/uu/api/res/1.2/KTVyplnhVjkuuba01VuU2w--~B/aD01NDk7dz05NzY7c209MTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en-gb/bbc_us_articles_995/bad54fe0433ab179f1470a7115dd9d74",
+         "description" : "Founder Reed Hastings says working from home has no positive effects and makes debating ideas harder.",
+         "source" : {
+            "id" : null,
+            "name" : "Yahoo Entertainment"
+         },
+         "url" : "https://news.yahoo.com/netflix-boss-remote-working-negative-171448108.html"
+      },
+      {
+         "description" : "Two proposed rules imply that investment managers promote social goals over sound investment analysis — but that’s not what actually happens",
+         "urlToImage" : "https://s.marketwatch.com/public/resources/images/MW-IM726_401kst_ZG_20200818132030.jpg",
+         "url" : "https://www.marketwatch.com/story/the-trump-administration-wants-to-discourage-your-401k-from-including-esg-investment-options-2020-09-07",
+         "source" : {
+            "name" : "MarketWatch",
+            "id" : null
+         },
+         "author" : "Lisa Woll, Judy Mares",
+         "content" : "Two proposed rulemakings from the Labor Department in the past eight weeks would largely gut sustainable investing options and strategies in retirement plans. These proposals would reverse the Labor … [+6078 chars]",
+         "publishedAt" : "2020-09-07T20:09:00Z",
+         "title" : "The Trump administration wants to discourage your 401(k) from including ESG investment options - MarketWatch"
+      },
+      {
+         "urlToImage" : "https://nypost.com/wp-content/uploads/sites/2/2020/09/airlines.jpg?quality=90&strip=all&w=1200",
+         "description" : "More than 700 airline passengers have been banned from flying on US airlines for refusing to wear masks, according to a report. Delta Air Lines has been the strictest, putting 270 passengers on its…",
+         "source" : {
+            "id" : null,
+            "name" : "New York Post"
+         },
+         "url" : "https://nypost.com/2020/09/07/more-than-700-airline-passengers-banned-for-refusing-to-wear-masks/",
+         "author" : "Lee Brown",
+         "title" : "More than 700 airline passengers banned in US for refusing to wear masks - New York Post ",
+         "content" : "More than 700 airline passengers have been banned from flying on US airlines for refusing to wear masks, according to a report.\r\nDelta Air Lines has been the strictest, putting 270 passengers on its … [+1796 chars]",
+         "publishedAt" : "2020-09-07T20:03:00Z"
+      }
+   ],
+   "status" : "ok"
 }
