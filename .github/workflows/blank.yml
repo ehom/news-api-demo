@@ -31,6 +31,9 @@ jobs:
         run: |
           echo Add other actions to build,
           echo test, and deploy your project.
+          echo $PATH
+          echo "*******"
+          echo "${PATH}"
           curl -X GET \
             -H 'content-type: application/json' \
             -H "x-api-key: ${NEWS_API_KEY}" \
