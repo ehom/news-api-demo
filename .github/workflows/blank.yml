@@ -34,7 +34,7 @@ jobs:
           echo $PATH
           echo "*******"
           echo "${PATH}"
-          echo $MESSAGE}
+          echo $MESSAGE
           echo "*******"
           echo "${MESSAGE}"
           curl -X GET \
@@ -43,7 +43,7 @@ jobs:
             -H "x-api-key: ${NEWS_API_KEY}" \
             'http://newsapi.org/v2/top-headlines?country=us&category=business' | json_pp > news.json
           git config --global user.email "test@test.com"
-          git config --global user.name "ehom"
+          git config --global user.name $GITHUB_ACTOR
           git add news.json
           git commit -m "Updated news headlines"
           git push
