@@ -34,13 +34,13 @@ jobs:
           echo $PATH
           echo "*******"
           echo "${PATH}"
-          echo $MESSAGE
+          echo ${{secret.MESSAGE}}
           echo "*******"
-          echo "${MESSAGE}"
+          echo "${{secret.MESSAGE}}"
           curl -X GET \
             --silent \
             -H 'content-type: application/json' \
-            -H "x-api-key: ${NEWS_API_KEY}" \
+            -H "x-api-key: ${{secret.NEWS_API_KEY}}" \
             'http://newsapi.org/v2/top-headlines?country=us&category=business' | json_pp > news.json
           git config --global user.email "test@test.com"
           git config --global user.name $GITHUB_ACTOR
