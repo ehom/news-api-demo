@@ -1,266 +1,266 @@
 {
-   "totalResults" : 70,
-   "status" : "ok",
    "articles" : [
       {
-         "urlToImage" : "https://s.marketwatch.com/public/resources/images/MW-HY171_moneyi_ZG_20200110114131.jpg",
          "source" : {
-            "id" : null,
-            "name" : "MarketWatch"
+            "name" : "Investing.com",
+            "id" : null
          },
-         "url" : "https://www.marketwatch.com/story/my-uncle-left-his-kids-3-million-and-left-me-15000-im-73-and-not-in-good-health-is-it-wrong-to-ask-my-cousin-for-another-5000-2020-09-09",
-         "content" : "Im 73, I live in Texas, and my only remaining relative recently passed away.When my uncle died, he left his two kids everything, including $3 million, and so much more. He left me $15,000. There was … [+4972 chars]",
-         "title" : "My uncle left his kids $3 million and left me $15,000. I’m 73 and not in good health. Is it wrong to ask my cousin for another $5,000? - MarketWatch",
-         "publishedAt" : "2020-09-09T12:09:00Z",
-         "description" : "‘This is close to breaking up a 60-year relationship. I would not ask for money, if I didn’t need it’",
-         "author" : "Quentin Fottrell"
+         "description" : "Nasdaq rebounds as tech stocks stabilize after rout",
+         "title" : "Nasdaq rebounds as tech stocks stabilize after rout - Investing.com",
+         "urlToImage" : "https://i-invdn-com.akamaized.net/trkd-images/LYNXMPEG880RO_L.jpg",
+         "publishedAt" : "2020-09-09T14:45:00Z",
+         "content" : "By Medha Singh and Devik Jain\r\n(Reuters) - U.S. stocks bounced on Wednesday with the Nasdaq gaining 1.5%, as a rout in technology shares halted and investors shrugged off news that AstraZeneca (NYSE:… [+3163 chars]",
+         "author" : null,
+         "url" : "https://www.investing.com/news/stock-market-news/futures-bounce-after-tech-rout-sends-nasdaq-into-correction-2289858"
       },
       {
-         "content" : "Heres what we are watching as markets kick into gear Wednesday.\r\n Tech wipes itself off the floor. Nasdaq futures are up 1.5%, a pause in the furious drops in big tech names the past few days. The Na… [+232 chars]",
-         "urlToImage" : "https://images.wsj.net/im-229930/social",
-         "url" : "https://www.wsj.com/articles/tesla-nasdaq-apple-what-to-watch-when-the-stock-market-opens-today-11599650129",
+         "url" : "https://jalopnik.com/ev-subsidies-work-1844996782",
+         "content" : "There are a few constants in the car world: Everyone buys trucks when gas gets cheap, everyone buys compacts when its expensive, and everyone always complains new BMWs have lost their edge. Not inclu… [+7224 chars]",
+         "author" : "Raphael Orlove",
+         "publishedAt" : "2020-09-09T13:45:00Z",
+         "title" : "EV Subsidies Work - Jalopnik",
+         "urlToImage" : "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/qj3mz55rvbow7dmaucem.jpg",
+         "description" : "There are a few constants in the car world: Everyone buys trucks when gas gets cheap, everyone buys compacts when it’s expensive, and everyone always complains new BMWs have lost their edge. Not included in that list are EV subsidies, which are as fickle as t…",
          "source" : {
-            "name" : "The Wall Street Journal",
-            "id" : "the-wall-street-journal"
-         },
-         "author" : "Alex Frangos",
-         "publishedAt" : "2020-09-09T11:48:00Z",
-         "title" : "Tesla, Nasdaq, Apple: What to Watch When the Stock Market Opens Today - The Wall Street Journal",
-         "description" : "Tech stocks found their footing in premarket trading, with Nasdaq futures up 1.5% after the previous day’s fall"
+            "name" : "Jalopnik",
+            "id" : null
+         }
       },
       {
-         "author" : "Theron Mohamed",
-         "description" : "Tesla stock rallies after plunging a record 21% during Tuesday's tech rout",
-         "publishedAt" : "2020-09-09T11:46:00Z",
-         "title" : "Tesla stock rallies after plunging a record 21% during Tuesday's tech rout | Markets - Business Insider",
-         "content" : "Elon Musk.\r\nCharles Sykes/Invision/AP, File\r\n<ul><li>Tesla shares rallied as much as 7% in pre-market trading on Wednesday.</li><li>Apple, Amazon, and other tech stocks were also in the green, after … [+1630 chars]",
+         "content" : "(Reuters) - Walmart Inc &lt;WMT.N&gt; said on Wednesday it would run a pilot project for delivery of grocery and household products through automated drones, along with end-to-end delivery firm Flytr… [+980 chars]",
+         "author" : "Reuters",
+         "publishedAt" : "2020-09-09T13:14:00Z",
+         "url" : "https://finance.yahoo.com/news/walmart-test-drone-delivery-grocery-131411401.html",
+         "urlToImage" : "https://s.yimg.com/uu/api/res/1.2/xyr6PFcC_UHXq9jIvlmVDA--~B/aD01MzM7dz04MDA7c209MTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en-US/reuters-finance.com/b565cf183e57eeaf406bcdf5597dc954",
+         "title" : "Walmart to test drone delivery of grocery, household items - Yahoo Finance",
          "source" : {
-            "id" : "business-insider",
-            "name" : "Business Insider"
+            "name" : "Yahoo Entertainment",
+            "id" : null
          },
-         "url" : "https://www.businessinsider.com/tesla-stock-price-after-record-21-percent-plunge-tech-rout-2020-9",
-         "urlToImage" : "https://i.insider.com/5f58a4367ed0ee001e25e1f1?format=jpeg"
+         "description" : "Bentonville, Arkansas-based Walmart said the test would start on Wednesday in Fayetteville, North Carolina, with cloud-controlled drones picking up and dropping off select items.  The company has accelerated the expansion of its pick-up and delivery services …"
       },
       {
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106680585-1598531447816-gettyimages-1263270816-ord07944_2020080144433464.jpeg?v=1599650776",
+         "description" : "The tech giant has faced scrutiny over its UK tax bill, but says it pays \"all taxes required\".",
          "source" : {
-            "id" : null,
-            "name" : "CNBC"
+            "name" : "BBC News",
+            "id" : null
          },
-         "url" : "https://www.cnbc.com/2020/09/09/lvmh-scraps-16point2-billion-deal-with-tiffany.html",
-         "content" : "Louis Vuitton owner LVMH is scrapping its $16.2 billion acquisition of Tiffany, a deal that would have been the biggest-ever in the luxury industry. \r\nThe luxury-goods giant said Wednesdaythat the me… [+2592 chars]",
-         "publishedAt" : "2020-09-09T11:30:00Z",
-         "title" : "LVMH scraps $16.2 billion deal with Tiffany - CNBC",
-         "description" : "Louis Vuitton owner LVMH is scrapping its $16.2 billion acquisition of Tiffany.",
-         "author" : "Amelia Lucas"
+         "title" : "Amazon pays £290m in UK tax as sales surge to £14bn - BBC News",
+         "urlToImage" : "https://ichef.bbci.co.uk/news/1024/branded_news/03B5/production/_114294900_gettyimages-1198230794.jpg",
+         "publishedAt" : "2020-09-09T13:13:14Z",
+         "content" : "Image copyrightGetty Images\r\nOnline retail giant Amazon paid £293m in tax in the UK last year, while its sales surged 26% to £13.73bn.\r\nThe firm, which employs 33,000 people in the UK, said the taxes… [+1691 chars]",
+         "author" : "https://www.facebook.com/bbcnews",
+         "url" : "https://www.bbc.com/news/business-54082273"
       },
       {
-         "publishedAt" : "2020-09-09T10:44:00Z",
-         "title" : "Why an approved coronavirus vaccine may not end the pandemic quickly - MarketWatch",
-         "description" : "Critical information for the U.S. trading day",
-         "author" : "Steve Goldstein",
-         "urlToImage" : "https://images.mktw.net/im-229932/social",
-         "url" : "https://www.marketwatch.com/story/why-an-approved-coronavirus-vaccine-may-not-end-the-pandemic-quickly-11599648279",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106642673-1596208848737-ant.jpg?v=1597944818",
+         "title" : "Dr. Fauci says pause on trial is 'not uncommon at all' after major coronavirus vaccine trial placed on hold - CNBC",
+         "description" : "\"This particular candidate from the AstraZeneca company had a serious adverse event, which means you put the rest of the enrollment of individual volunteers on hold until you can work out precisely what went on,\" Dr. Anthony Fauci said.",
+         "source" : {
+            "name" : "CNBC",
+            "id" : null
+         },
+         "url" : "https://www.cnbc.com/2020/09/09/dr-fauci-says-pause-on-trial-is-not-uncommon-at-all-after-major-coronavirus-vaccine-trial-placed-on-hold.html",
+         "author" : "Will Feuer",
+         "content" : "White House coronavirus advisor Dr. Anthony Fauci said Wednesday it's \"not uncommon\" that AstraZeneca is holding up its coronavirus vaccine trial for a safety review, but the \"serious adverse event\" … [+4165 chars]",
+         "publishedAt" : "2020-09-09T13:03:00Z"
+      },
+      {
+         "source" : {
+            "name" : "CNBC",
+            "id" : null
+         },
+         "description" : "Home Depot on Wednesday previewed its 2020 holiday shopping season — adapted to pandemic times, when crowds are taboo but customers still want Black Friday deals.",
+         "title" : "Home Depot adapts 2020 holiday shopping season to pandemic era with 2 months of Black Friday deals - CNBC",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106693930-1599577477335-gettyimages-93334869-HOME_DEPOT_LOWES_XMAS_TREES.jpeg?v=1599577505",
+         "url" : "https://www.cnbc.com/2020/09/09/home-depot-adapts-black-friday-holiday-shopping-season-to-pandemic-era.html",
+         "publishedAt" : "2020-09-09T13:00:00Z",
+         "author" : "Melissa Repko",
+         "content" : "Home Depot on Wednesday previewed its 2020 holiday shopping season  adapted to pandemic times, when crowds are taboo but customers still want deals.\r\nAmong the changes, the home improvement retailer … [+3791 chars]"
+      },
+      {
+         "author" : "Jaimy Lee",
+         "content" : "BioNTech\r\n BNTX, \r\n +3.32%\r\nand Pfizer Inc.\r\n PFE, \r\n +1.10%\r\n,\r\n which are developing a COVID-19 vaccine candidate, said in a news release on Wednesday that they plan to pursue regulatory review for… [+1164 chars]",
+         "publishedAt" : "2020-09-09T12:33:00Z",
+         "url" : "https://www.marketwatch.com/story/biontech-pfizer-expect-clinical-answer-on-coronavirus-vaccine-in-late-october-2020-09-09",
+         "urlToImage" : "https://s.wsj.net/public/resources/MWimages/MW-GP644_MicroS_ZG_20180906154215.jpg",
+         "title" : "BioNTech, Pfizer expect clinical 'answer' on coronavirus vaccine in late October - MarketWatch",
+         "description" : "",
          "source" : {
             "name" : "MarketWatch",
             "id" : null
-         },
-         "content" : "Tesla Chief Executive Elon Musk did warn you.In May, when the electric vehicles stock was less than half its current value (adjusted for the split), Musk famously tweeted that his company was overval… [+5206 chars]"
-      },
-      {
-         "author" : "Ryan Browne",
-         "title" : "SoftBank loses $12 billion in value on concerns over its big U.S. tech bets - CNBC",
-         "publishedAt" : "2020-09-09T10:41:00Z",
-         "description" : "Shares of SoftBank fell another 3% by Wednesday's close, extending losses from earlier in the week.",
-         "content" : "LONDON  SoftBank shares extended their losses on Wednesday, wiping out over $12 billion in market value this week, amid jitters over the Japanese conglomerate's latest tech investing strategy.\r\nShare… [+2315 chars]",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106362265-1580325591517gettyimages-1185843769.jpeg?v=1599235964",
-         "url" : "https://www.cnbc.com/2020/09/09/softbank-loses-12-billion-in-market-cap-on-nasdaq-whale-reports.html",
-         "source" : {
-            "name" : "CNBC",
-            "id" : null
          }
       },
       {
-         "title" : "AstraZeneca pauses COVID-19 vaccine trial over possible adverse reaction in participant - CBS News",
-         "publishedAt" : "2020-09-09T10:31:00Z",
-         "description" : "\"This is a routine action which has to happen whenever there is a potentially unexplained illness in one of the trials,\" an AstraZeneca spokesperson said.",
-         "author" : "Jordan Freiman",
-         "urlToImage" : "https://cbsnews1.cbsistatic.com/hub/i/r/2020/09/09/3e5d1069-04b9-4a09-bb71-a6dbef526f89/thumbnail/1200x630/9b870719bbe6e44248ae20852cbc2e47/gettyimages-1266170286.jpg",
-         "url" : "https://www.cbsnews.com/news/covid-19-vaccine-trial-oxford-astrazeneca-pauses-participant-may-have-suffered-adverse-reaction/",
          "source" : {
-            "name" : "CBS News",
-            "id" : "cbs-news"
-         },
-         "content" : "AstraZeneca on Tuesday temporarily halted its phase three trials of a possible coronavirus vaccine after one participant suffered what may have been a serious adverse reaction. The vaccine \"candidate… [+3656 chars]"
-      },
-      {
-         "author" : "Bloomberg Politics",
-         "description" : "Sep.09 -- Reed Hastings, chairman, co-chief executive officer and co-founder of Netflix Inc., explains why the company lets employees take vacation whenever they want and says the policy has been very productive. Hastings appears on the latest episode of \"The…",
-         "title" : "Why Netflix Offers Workers Unlimited Vacation - Yahoo Finance",
-         "publishedAt" : "2020-09-09T10:02:00Z",
-         "content" : "Sep.09 -- Reed Hastings, chairman, co-chief executive officer and co-founder of Netflix Inc., explains why the company lets employees take vacation whenever they want and says the policy has been ver… [+151 chars]",
-         "source" : {
-            "id" : null,
-            "name" : "Yahoo Entertainment"
-         },
-         "url" : "https://finance.yahoo.com/video/why-netflix-offers-workers-unlimited-100231723.html",
-         "urlToImage" : "https://s.yimg.com/uu/api/res/1.2/PSsNHH.PDw70jkD0iJINAA--~B/aD03MjA7dz0xMjgwO3NtPTE7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/hd/cp-video-transcode/prod/2020-09/09/5f58accbfd04d43276294631/5f58accbfd04d43276294632_o_U_v2.jpg"
-      },
-      {
-         "description" : "If the stock market tumbles, these high-growth stocks could be big-time bargains.",
-         "title" : "Got $2,000? 3 Tech Stocks to Buy During a Correction - Motley Fool",
-         "publishedAt" : "2020-09-09T09:51:00Z",
-         "author" : "Sean Williams",
-         "url" : "https://www.fool.com/investing/2020/09/09/got-2000-3-tech-stocks-to-buy-during-a-correction/",
-         "source" : {
-            "id" : null,
-            "name" : "Motley Fool"
-         },
-         "urlToImage" : "https://g.foolcdn.com/editorial/images/590811/buy-low-sell-high-stock-market-chart-investing-retirement-getty.jpg",
-         "content" : "This has been a topsy-turvy year for Wall Street and the investing community. The unprecedented nature of the coronavirus disease 2019 (COVID-19) pandemic initially sent equities plunging to their fa… [+5323 chars]"
-      },
-      {
-         "author" : "Annette Weisbach",
-         "title" : "European Central Bank could announce policy tweaks this week after shock inflation data - CNBC",
-         "publishedAt" : "2020-09-09T09:28:00Z",
-         "description" : "The ECB's Governing Council will convene on Wednesday and Thursday to discuss its monetary policy stance and its assessment of the euro zone economy.",
-         "content" : "Market watchers believe the European Central Bank (ECB) could fine-tune its policies this week, and may even follow the Federal Reserve by revising its inflation targets in the longer term.\r\nThe ECB'… [+3502 chars]",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106451443-1584610576566gettyimages-1212003581.jpeg?v=1584610619",
-         "url" : "https://www.cnbc.com/2020/09/09/european-central-bank-could-announce-policy-tweaks-this-week.html",
-         "source" : {
-            "name" : "CNBC",
+            "name" : "GMA",
             "id" : null
-         }
-      },
-      {
-         "urlToImage" : null,
-         "url" : "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_39415147-419a-4bd3-aa0b-ad8904ecb405",
-         "source" : {
-            "id" : null,
-            "name" : "Yahoo Entertainment"
          },
-         "content" : "Yahoo is part of Verizon Media. We and our partners will store and/or access information on your device through the use of cookies and similar technologies, to display personalised ads and content, f… [+646 chars]",
-         "title" : "European stocks gain despite tech rout and vaccine doubts - Yahoo Finance UK",
-         "publishedAt" : "2020-09-09T07:42:00Z",
-         "description" : null,
-         "author" : null
-      },
-      {
-         "author" : null,
-         "title" : "Jim Cramer: No two sell-offs are totally alike, but similarities exist - CNBC Television",
-         "publishedAt" : "2020-09-09T07:15:15Z",
-         "description" : null,
+         "description" : "Amazon announced it's virtual career day that will be free on September 16.",
+         "urlToImage" : "https://s.abcnews.com/images/GMA/200909_gma_jarvis3_hpMain_16x9_992.jpg",
+         "title" : "Amazon announces 1st virtual 'Career Day' with plans to hire 33,000 jobs - GMA",
+         "url" : "https://www.goodmorningamerica.com/living/story/amazon-announces-1st-virtual-career-day-plans-hire-72896852",
+         "publishedAt" : "2020-09-09T12:22:30Z",
          "content" : null,
-         "urlToImage" : null,
-         "url" : "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9QkdmZ0dQb1dqZ03SAQA?oc=5",
-         "source" : {
-            "id" : "google-news",
-            "name" : "Google News"
-         }
+         "author" : "Rebecca Jarvis, Taylor Dunn, Kelly McCarthy"
       },
       {
-         "author" : "Shirley Ju",
-         "publishedAt" : "2020-09-09T05:33:00Z",
-         "title" : "Travis Scott McDonald’s Deal Marks First Celebrity Meal Since Michael Jordan in 1992 - Variety",
-         "description" : "Travis Scott has added another major milestone to his resume: his own meal at McDonald’s. The last celebrity to have his name on a meal at the fast-food chain was Michael Jordan whose McJordan burger launched in 1992. The Houston rapper personally ushered in …",
-         "content" : "Travis Scott has added another major milestone to his resume: his own meal at McDonald’s. The last celebrity to have his name on a meal at the fast-food chain was Michael Jordan whose McJordan burger… [+1412 chars]",
-         "urlToImage" : "https://pmcvariety.files.wordpress.com/2020/09/ts1.jpg?w=1000",
-         "url" : "https://variety.com/2020/music/news/travis-scott-mcdonalds-meal-michael-jordan-1234763132/",
-         "source" : {
-            "name" : "Variety",
-            "id" : null
-         }
-      },
-      {
-         "publishedAt" : "2020-09-09T04:59:00Z",
-         "title" : "‘Out of favor’ assets offer opportunity to make big money, says billionaire investor Howard Marks - CNBC",
-         "description" : "Those \"out of favor\" investments include retail and office real estate, as well as stocks in the entertainment and hospitality sectors, said Marks, co-founder and co-chairman of Oaktree Capital Management.",
-         "author" : "Yen Nee Lee",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/103047889-GettyImages-454958022.jpg?v=1599623544",
-         "url" : "https://www.cnbc.com/2020/09/09/howard-marks-on-investments-in-low-rate-environment-sell-off-in-us-markets.html",
-         "source" : {
-            "name" : "CNBC",
-            "id" : null
-         },
-         "content" : "SINGAPORE Investments that have been \"out of favor\" could offer big returns that are becoming increasingly difficult to find in today's low interest rate environment, according to Howard Marks, a wid… [+2628 chars]"
-      },
-      {
-         "title" : "Will he Wonka? A candy maker is giving away a candy factory in a nationwide treasure hunt - KSL.com",
-         "publishedAt" : "2020-09-09T03:46:25Z",
-         "description" : "A quirky candy maker has launched a nationwide treasure hunt, sending sugar mavens into a frenzy. They'll need to pay to play for the ultimate prize — one of his candy factories.",
-         "author" : "https://www.facebook.com/kslcom/",
-         "urlToImage" : "https://img.ksl.com/slc/2793/279330/27933095.jpeg?filter=ksl/responsive_story_lg",
-         "url" : "https://www.ksl.com/article/50015048/will-he-wonka-a-candy-maker-is-giving-away-a-candy-factory-in-a-nationwide-treasure-hunt",
-         "source" : {
-            "name" : "KSL.com",
-            "id" : null
-         },
-         "content" : "ATLANTA (CNN) A quirky candy maker has launched a nationwide treasure hunt, sending sugar mavens into a frenzy. They'll need to pay to play for the ultimate prize one of his candy factories.\r\nInstead… [+3029 chars]"
-      },
-      {
-         "source" : {
-            "name" : "Axios",
-            "id" : "axios"
-         },
-         "url" : "https://www.axios.com/zuckerberg-facebook-conservatives-algorithm-0ad23698-7bfe-49cf-9250-fb333edc218e.html",
-         "urlToImage" : "https://images.axios.com/qtuSUOx8oS3KLKnoCSwLobcuCi4=/fit-in/1366x1366/2020/09/09/1599622278948.jpg",
-         "content" : "Mark Zuckerberg told \"Axios on HBO\" that it's \"just wrong\" to consider Facebook a right-wing echo chamber, even though conservative voices top the platform's most-engaged content. \r\n<ul><li>\"It's tru… [+3866 chars]",
-         "description" : "He insists it's not a right-wing echo chamber, but a platform that \"gives individuals more power.\"",
-         "title" : "Zuckerberg to \"Axios on HBO\": \"Just wrong\" to say Facebook driven by conservatives - Axios",
-         "publishedAt" : "2020-09-09T03:31:55Z",
-         "author" : "Mike Allen, David Nather"
-      },
-      {
-         "description" : "General Motors and Uber have launched a partnership to \"accelerate the rideshare industry’s transition to an all-electric, zero-emissions future\" by offering the ride-hailing company's drivers a discount on the new 2020 Chevy Bolt EV.",
-         "title" : "General Motors, Uber launch partnership on all-electric vehicles - Fox Business",
-         "publishedAt" : "2020-09-09T02:31:33Z",
-         "author" : "Lucas Manfredi",
-         "url" : "https://www.foxbusiness.com/lifestyle/general-motors-uber-launch-partnership-to-help-transition-drivers-to-electric-vehicles",
+         "url" : "https://www.foxbusiness.com/money/refinance-mortgage-no-closing-costs",
+         "author" : "Lauren Bowling",
+         "content" : "With refinance rates at record lows, mortgage refinance activity is high. There are many reasons to refinance right now, but don't forget that means taking on a brand new loan — and refinance fees. I… [+4376 chars]",
+         "publishedAt" : "2020-09-09T12:11:09Z",
+         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/08/0/0/Credible-avoid-refinance-home-closing-costs-thumbnail-1223251862.jpg?ve=1&tl=1",
+         "title" : "How to refinance your mortgage without closing costs - Fox Business",
          "source" : {
             "name" : "Fox Business",
             "id" : null
          },
-         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/09/0/0/GM-and-Uber.jpg?ve=1&tl=1",
-         "content" : "General Motors and Uber have launched a partnership to \"accelerate the rideshare industry’s transition to an all-electric, zero-emissions future\" by offering the ride-hailing company's drivers a disc… [+4527 chars]"
+         "description" : "Three key ways to lower closing costs – even to zero."
       },
       {
-         "content" : "When the Genesis G80 made its global debut back in March, it previewed what we can expect in the rest of the South Korean marque's lineup of luxury sedans. This was especially true with the Genesis G… [+1731 chars]",
-         "urlToImage" : "https://cdn.motor1.com/images/mgl/2WNqM/s1/2022-genesis-g70.jpg",
-         "url" : "https://www.motor1.com/news/443078/2022-genesis-g70-official-images/",
+         "publishedAt" : "2020-09-09T12:09:00Z",
+         "content" : "Im 73, I live in Texas, and my only remaining relative recently passed away.When my uncle died, he left his two kids everything, including $3 million, and so much more. He left me $15,000. There was … [+4972 chars]",
+         "author" : "Quentin Fottrell",
+         "url" : "https://www.marketwatch.com/story/my-uncle-left-his-kids-3-million-and-left-me-15000-im-73-and-not-in-good-health-is-it-wrong-to-ask-my-cousin-for-another-5000-2020-09-09",
          "source" : {
-            "name" : "Motor1 ",
+            "name" : "MarketWatch",
             "id" : null
          },
-         "author" : "Jacob Oliva",
-         "publishedAt" : "2020-09-09T02:01:08Z",
-         "title" : "2022 Genesis G70 Official Images Reveal The Expected, Sales Start Soon - Motor1 ",
-         "description" : "Genesis reveals the facelifted 2022 G70 in official images, something that we've already seen before in renderings and leaked images."
+         "description" : "‘This is close to breaking up a 60-year relationship. I would not ask for money, if I didn’t need it’",
+         "urlToImage" : "https://s.marketwatch.com/public/resources/images/MW-HY171_moneyi_ZG_20200110114131.jpg",
+         "title" : "My uncle left his kids $3 million and left me $15,000. I’m 73 and not in good health. Is it wrong to ask my cousin for another $5,000? - MarketWatch"
       },
       {
-         "author" : "Shawn Tully",
-         "publishedAt" : "2020-09-09T01:15:00Z",
-         "title" : "Want to understand why tech stocks are crashing? This metric explains it all - Fortune",
-         "description" : "Big Tech didn't improve over the past year, it just got a lot more expensive.",
-         "content" : null,
-         "urlToImage" : "https://content.fortune.com/wp-content/uploads/2020/09/GettyImages-1216508346.jpg?resize=1200,600",
+         "url" : "https://www.wsj.com/articles/tesla-nasdaq-apple-what-to-watch-when-the-stock-market-opens-today-11599650129",
+         "publishedAt" : "2020-09-09T11:48:00Z",
+         "content" : "Heres what we are watching as markets kick into gear Wednesday.\r\n Tech wipes itself off the floor. Nasdaq futures are up 1.5%, a pause in the furious drops in big tech names the past few days. The Na… [+232 chars]",
+         "author" : "Alex Frangos",
+         "description" : "Tech stocks found their footing in premarket trading, with Nasdaq futures up 1.5% after the previous day’s fall",
          "source" : {
-            "id" : "fortune",
-            "name" : "Fortune"
+            "name" : "The Wall Street Journal",
+            "id" : "the-wall-street-journal"
          },
-         "url" : "https://fortune.com/2020/09/08/tesla-tsla-apple-aapl-tech-stocks-crashing-2020-stock-market-outlook/"
+         "urlToImage" : "https://images.wsj.net/im-229930/social",
+         "title" : "Tesla, Nasdaq, Apple: What to Watch When the Stock Market Opens Today - The Wall Street Journal"
       },
       {
-         "author" : "Alyssa Newcomb",
-         "description" : "As gyms reopen with new rules after the coronavirus pandemic forced them to shut down for months, Peloton is making a play for new members who would rather work out from home.",
-         "title" : "Peloton cuts prices, capitalizing on people staying at home - NBC News",
-         "publishedAt" : "2020-09-09T01:10:00Z",
-         "content" : "As gyms reopen with new rules after the coronavirus pandemic forced them to shut down for months, Peloton is making a play for new members who would rather work out from home.\r\nThe at-home fitness co… [+3750 chars]",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/105954808-1559909796496img_2062r.jpg?v=1559909877",
+         "title" : "Stanley Druckenmiller says the stock market is in an 'absolute raging mania' - CNBC",
+         "description" : "The market is in a mania fueled by the Fed and investor speculation that will end badly in coming years, Stanley Druckenmiller says.",
          "source" : {
-            "id" : "nbc-news",
-            "name" : "NBC News"
+            "id" : null,
+            "name" : "CNBC"
          },
-         "url" : "https://www.nbcnews.com/business/business-news/peloton-cutting-its-prices-will-people-ever-go-back-gym-n1239533",
-         "urlToImage" : "https://media4.s-nbcnews.com/j/newscms/2020_37/3410568/200908-peloton-at-ew-214p_812ebad8bdf245928b125530e4850b74.nbcnews-fp-1200-630.jpg"
+         "author" : "Fred Imbert",
+         "content" : "The stock market is in a mania fueled by the Federal Reserve and investor speculation that will end badly in coming years, longtime hedge fund manager Stanley Druckenmiller told CNBC on Wednesday. \r\n… [+1933 chars]",
+         "publishedAt" : "2020-09-09T11:45:00Z",
+         "url" : "https://www.cnbc.com/2020/09/09/stanley-druckenmiller-says-were-in-a-raging-mania-and-the-next-3-to-5-years-will-be-challenging.html"
+      },
+      {
+         "source" : {
+            "id" : "cnn",
+            "name" : "CNN"
+         },
+         "description" : "LVMH says the threat of US tariffs on French products has forced it to scrap its planned acquisition of Tiffany, which would have been the biggest luxury goods deal in history.",
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200909064609-restricted-tiffany-store-hong-kong-0726-super-tease.jpg",
+         "title" : "Trade fight dooms LVMH's $16 billion Tiffany deal - CNN",
+         "url" : "https://www.cnn.com/2020/09/09/business/lvmh-tiffany-deal-intl-hnk/index.html",
+         "publishedAt" : "2020-09-09T11:13:00Z",
+         "content" : "Hong Kong (CNN Business)LVMH says the threat of US tariffs on French products has forced it to scrap its planned acquisition of Tiffany, which would have been the biggest luxury goods deal in history… [+3371 chars]",
+         "author" : "Michelle Toh, CNN Business"
+      },
+      {
+         "author" : "Diana Olick",
+         "content" : "The end of August usually marks the beginning of the slow season for housing, but as with everything else, this year's trends are like no other.\r\nMortgage applications to purchase a home rose 3% last… [+1555 chars]",
+         "publishedAt" : "2020-09-09T11:02:00Z",
+         "url" : "https://www.cnbc.com/2020/09/09/mortgage-demand-from-homebuyers-surges-40percent-from-a-year-ago.html",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106479312-1586296666158gettyimages-895498962.jpeg?v=1586296831",
+         "title" : "Mortgage demand from homebuyers surges 40% from a year ago amid sales spree - CNBC",
+         "source" : {
+            "id" : null,
+            "name" : "CNBC"
+         },
+         "description" : "Mortgage applications to purchase a home rose 3% last week compared with the previous week, according to the Mortgage Bankers Association."
+      },
+      {
+         "author" : "Billy Duberstein",
+         "content" : "Investors in general -- and technology investors in particular -- are always looking for their next multibagger opportunity. In the past five years or so, a number of cloud-based software companies h… [+9801 chars]",
+         "publishedAt" : "2020-09-09T11:00:00Z",
+         "url" : "https://www.fool.com/investing/2020/09/09/could-snowflake-be-a-millionaire-maker-stock/",
+         "urlToImage" : "https://g.foolcdn.com/editorial/images/590813/gettyimages-1154231467.jpg",
+         "title" : "Could Snowflake Be a Millionaire-Maker Stock? - Motley Fool",
+         "source" : {
+            "name" : "Motley Fool",
+            "id" : null
+         },
+         "description" : "With its impressive growth track record and interest from Warren Buffett himself, this upcoming IPO should be at the top of every tech investor's watch list."
+      },
+      {
+         "description" : "Critical information for the U.S. trading day",
+         "source" : {
+            "name" : "MarketWatch",
+            "id" : null
+         },
+         "urlToImage" : "https://images.mktw.net/im-229932/social",
+         "title" : "Why an approved coronavirus vaccine may not end the pandemic quickly - MarketWatch",
+         "publishedAt" : "2020-09-09T10:44:00Z",
+         "author" : "Steve Goldstein",
+         "content" : "Tesla Chief Executive Elon Musk did warn you.In May, when the electric vehicles stock was less than half its current value (adjusted for the split), Musk famously tweeted that his company was overval… [+5206 chars]",
+         "url" : "https://www.marketwatch.com/story/why-an-approved-coronavirus-vaccine-may-not-end-the-pandemic-quickly-11599648279"
+      },
+      {
+         "url" : "https://www.cnbc.com/2020/09/09/softbank-loses-12-billion-in-market-cap-on-nasdaq-whale-reports.html",
+         "publishedAt" : "2020-09-09T10:41:00Z",
+         "author" : "Ryan Browne",
+         "content" : "LONDON  SoftBank shares extended their losses on Wednesday, wiping out over $12 billion in market value this week, amid jitters over the Japanese conglomerate's latest tech investing strategy.\r\nShare… [+2315 chars]",
+         "description" : "Shares of SoftBank fell another 3% by Wednesday's close, extending losses from earlier in the week.",
+         "source" : {
+            "id" : null,
+            "name" : "CNBC"
+         },
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106362265-1580325591517gettyimages-1185843769.jpeg?v=1599235964",
+         "title" : "SoftBank loses $12 billion in value on concerns over its big U.S. tech bets - CNBC"
+      },
+      {
+         "url" : "https://www.investing.com/news/economy/top-5-things-to-know-in-the-market-on-wednesday-september-10th-2289912",
+         "content" : "By Geoffrey Smith \r\nInvesting.com -- U.S. stocks are set for a bounce at the opening after the worst one-day losses in months, but Lululemon and Slack face early pressure after their reports late on … [+4004 chars]",
+         "author" : null,
+         "publishedAt" : "2020-09-09T10:40:00Z",
+         "urlToImage" : "https://i-invdn-com.akamaized.net/news/NewYorkStockExchange_800x533_L_1598026021.jpg",
+         "title" : "Top 5 Things to Know in the Market on Wednesday, September 10th - Investing.com",
+         "source" : {
+            "name" : "Investing.com",
+            "id" : null
+         },
+         "description" : "Top 5 Things to Know in the Market on Wednesday, September 9th"
+      },
+      {
+         "urlToImage" : "https://fox8.com/wp-content/uploads/sites/12/2020/09/GettyImages-73778646.jpg?w=1280",
+         "title" : "‘Misconception it is involved’: Jelly Belly distances itself from ‘gold ticket’ candy factory giveaway - WJW FOX 8 News Cleveland",
+         "description" : "A spokesperson for Jelly Belly says its company has nothing to do with a contest that sounds like it’s straight from a movie script.",
+         "source" : {
+            "id" : null,
+            "name" : "fox8.com"
+         },
+         "url" : "https://fox8.com/news/misconception-it-is-involved-jelly-belly-distances-itself-from-gold-ticket-candy-factory-giveaway/",
+         "content" : "DALLAS (NEXSTAR) — A spokesperson for Jelly Belly says its company has nothing to do with a contest that sounds like it’s straight from a movie script: a golden-ticket treasure hunt where the winner … [+2236 chars]",
+         "author" : "Nexstar Broadcasting",
+         "publishedAt" : "2020-09-09T10:37:00Z"
+      },
+      {
+         "source" : {
+            "name" : "Yahoo Entertainment",
+            "id" : null
+         },
+         "description" : "Sep.09 -- Reed Hastings, chairman, co-chief executive officer and co-founder of Netflix Inc., explains why the company lets employees take vacation whenever they want and says the policy has been very productive. Hastings appears on the latest episode of \"The…",
+         "urlToImage" : "https://s.yimg.com/uu/api/res/1.2/PSsNHH.PDw70jkD0iJINAA--~B/aD03MjA7dz0xMjgwO3NtPTE7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/hd/cp-video-transcode/prod/2020-09/09/5f58accbfd04d43276294631/5f58accbfd04d43276294632_o_U_v2.jpg",
+         "title" : "Why Netflix Offers Workers Unlimited Vacation - Yahoo Finance",
+         "publishedAt" : "2020-09-09T10:02:00Z",
+         "content" : "Sep.09 -- Reed Hastings, chairman, co-chief executive officer and co-founder of Netflix Inc., explains why the company lets employees take vacation whenever they want and says the policy has been ver… [+151 chars]",
+         "author" : "Bloomberg Politics",
+         "url" : "https://finance.yahoo.com/video/why-netflix-offers-workers-unlimited-100231723.html"
       }
-   ]
+   ],
+   "status" : "ok",
+   "totalResults" : 70
 }
