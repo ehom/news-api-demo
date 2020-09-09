@@ -1,123 +1,121 @@
 {
-   "totalResults" : 70,
-   "status" : "ok",
    "articles" : [
       {
-         "title" : "US companies are sticking with China despite rising tensions and pressure from Trump - CNN",
-         "description" : "American companies in China are feeling increasingly pessimistic about trade tensions between Washington and Beijing. But very few want to uproot their business in the world's second biggest economy.",
-         "content" : null,
-         "publishedAt" : "2020-09-09T09:30:00Z",
-         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200909030048-china-trade-tensions-restricted-super-tease.jpg",
-         "author" : "Michelle Toh, CNN Business",
-         "url" : "https://www.cnn.com/2020/09/09/business/amcham-us-china-business-report-intl-hnk/index.html",
          "source" : {
             "id" : "cnn",
             "name" : "CNN"
-         }
+         },
+         "author" : "Michelle Toh, CNN Business",
+         "publishedAt" : "2020-09-09T09:30:00Z",
+         "content" : null,
+         "url" : "https://www.cnn.com/2020/09/09/business/amcham-us-china-business-report-intl-hnk/index.html",
+         "description" : "American companies in China are feeling increasingly pessimistic about trade tensions between Washington and Beijing. But very few want to uproot their business in the world's second biggest economy.",
+         "title" : "US companies are sticking with China despite rising tensions and pressure from Trump - CNN",
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200909030048-china-trade-tensions-restricted-super-tease.jpg"
       },
       {
          "content" : "Market watchers believe the European Central Bank (ECB) could fine-tune its policies this week, and may even follow the Federal Reserve by revising its inflation targets in the longer term.\r\nThe ECB'… [+3502 chars]",
-         "publishedAt" : "2020-09-09T09:28:00Z",
-         "description" : "The ECB's Governing Council will convene on Wednesday and Thursday to discuss its monetary policy stance and its assessment of the euro zone economy.",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106451443-1584610576566gettyimages-1212003581.jpeg?v=1584610619",
          "title" : "European Central Bank could announce policy tweaks this week after shock inflation data - CNBC",
-         "author" : "Annette Weisbach",
-         "source" : {
-            "id" : null,
-            "name" : "CNBC"
-         },
+         "description" : "The ECB's Governing Council will convene on Wednesday and Thursday to discuss its monetary policy stance and its assessment of the euro zone economy.",
          "url" : "https://www.cnbc.com/2020/09/09/european-central-bank-could-announce-policy-tweaks-this-week.html",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106451443-1584610576566gettyimages-1212003581.jpeg?v=1584610619"
+         "source" : {
+            "name" : "CNBC",
+            "id" : null
+         },
+         "author" : "Annette Weisbach",
+         "publishedAt" : "2020-09-09T09:28:00Z"
       },
       {
-         "title" : "AstraZeneca pauses coronavirus vaccine trial, rollout doubts dent shares - Reuters",
-         "description" : "AstraZeneca has paused global trials of its experimental coronavirus vaccine after an unexplained illness in a participant, denting the British drugmaker's shares on Wednesday as the move was seen as dimming prospects for an early rollout.",
-         "publishedAt" : "2020-09-09T08:31:00Z",
          "content" : "LONDON (Reuters) - AstraZeneca has paused global trials of its experimental coronavirus vaccine after an unexplained illness in a participant, denting the British drugmaker’s shares on Wednesday as t… [+4253 chars]",
-         "urlToImage" : "https://s4.reutersmedia.net/resources/r/?m=02&d=20200909&t=2&i=1532718075&w=1200&r=LYNXMPEG880TV",
          "url" : "https://www.reuters.com/article/us-health-coronavirus-astrazeneca-idUSKBN26017L",
+         "description" : "AstraZeneca has paused global trials of its experimental coronavirus vaccine after an unexplained illness in a participant, denting the British drugmaker's shares on Wednesday as the move was seen as dimming prospects for an early rollout.",
+         "urlToImage" : "https://s4.reutersmedia.net/resources/r/?m=02&d=20200909&t=2&i=1532718075&w=1200&r=LYNXMPEG880TV",
+         "title" : "AstraZeneca pauses coronavirus vaccine trial, rollout doubts dent shares - Reuters",
          "source" : {
             "name" : "Reuters",
             "id" : "reuters"
          },
-         "author" : "Reuters Editorial"
+         "author" : "Reuters Editorial",
+         "publishedAt" : "2020-09-09T08:31:00Z"
       },
       {
-         "title" : "European markets bounce higher, as Nasdaq futures rebound - MarketWatch",
-         "description" : "AstraZeneca shares fall after vaccine trial halt",
-         "publishedAt" : "2020-09-09T08:07:00Z",
          "content" : "European stocks gained Wednesday, propelled higher by oil companies and drugmakers, though shares of AstraZeneca PLC fell after it temporarily halted trials of its COVID-19 candidate. U.S. stock futu… [+2750 chars]",
          "urlToImage" : "https://images.mktw.net/im-229924/social",
+         "title" : "European markets bounce higher, as Nasdaq futures rebound - MarketWatch",
          "url" : "https://www.marketwatch.com/story/european-markets-bounce-higher-as-nasdaq-futures-rebound-11599638847",
+         "description" : "AstraZeneca shares fall after vaccine trial halt",
+         "publishedAt" : "2020-09-09T08:07:00Z",
          "source" : {
-            "name" : "MarketWatch",
-            "id" : null
+            "id" : null,
+            "name" : "MarketWatch"
          },
          "author" : "Barbara Kollmeyer"
       },
       {
-         "content" : null,
-         "publishedAt" : "2020-09-09T07:15:15Z",
-         "title" : "Jim Cramer: No two sell-offs are totally alike, but similarities exist - CNBC Television",
-         "description" : null,
-         "author" : null,
-         "url" : "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9QkdmZ0dQb1dqZ03SAQA?oc=5",
          "source" : {
             "name" : "Google News",
             "id" : "google-news"
          },
+         "author" : null,
+         "publishedAt" : "2020-09-09T07:15:15Z",
+         "content" : null,
+         "description" : null,
+         "url" : "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9QkdmZ0dQb1dqZ03SAQA?oc=5",
+         "title" : "Jim Cramer: No two sell-offs are totally alike, but similarities exist - CNBC Television",
          "urlToImage" : null
       },
       {
-         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/07/0/0/stock-market-trader-AP-002.jpg?ve=1&tl=1",
-         "author" : "Ken Martin",
          "source" : {
             "id" : null,
             "name" : "Fox Business"
          },
-         "url" : "https://www.foxbusiness.com/markets/stock-futures-trade-mixed-following-3-day-tech-slide",
-         "description" : "The sharp sell-off that began last Thursday has wiped out nearly 7.1% from the S&P 500 as of Tuesday",
-         "title" : "Stock futures halt slide with tech bounce - Fox Business",
+         "author" : "Ken Martin",
+         "publishedAt" : "2020-09-09T06:58:46Z",
          "content" : "U.S. equity futures are higher ahead of the Wednesday trading session, after a 3-day fall in tech stocks.\r\nThe major futures indexes are suggesting a rise of 1.8% on the Nasdaq.\r\nDow futures are up 0… [+2175 chars]",
-         "publishedAt" : "2020-09-09T06:58:46Z"
+         "title" : "Stock futures halt slide with tech bounce - Fox Business",
+         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/07/0/0/stock-market-trader-AP-002.jpg?ve=1&tl=1",
+         "url" : "https://www.foxbusiness.com/markets/stock-futures-trade-mixed-following-3-day-tech-slide",
+         "description" : "The sharp sell-off that began last Thursday has wiped out nearly 7.1% from the S&P 500 as of Tuesday"
       },
       {
-         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/03/0/0/softbank-Getty.jpg?ve=1&tl=1",
          "author" : "Reuters",
          "source" : {
             "name" : "Fox Business",
             "id" : null
          },
+         "publishedAt" : "2020-09-09T05:35:26Z",
          "url" : "https://www.foxbusiness.com/markets/softbank-sheds-15b-on-us-tech-stock-rout",
          "description" : "The fall takes SoftBank's share decline to 12% since reports that the Japanese company made big bets on equity derivatives tied to tech firms",
          "title" : "SoftBank sheds $15B on US tech stock rout - Fox Business",
-         "content" : "SoftBank Group Corp shares were down 5% in afternoon trade on Wednesday, extending this week's slump that has wiped $15 billion from its market capitalization, as investors worried about the conglome… [+1266 chars]",
-         "publishedAt" : "2020-09-09T05:35:26Z"
+         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/03/0/0/softbank-Getty.jpg?ve=1&tl=1",
+         "content" : "SoftBank Group Corp shares were down 5% in afternoon trade on Wednesday, extending this week's slump that has wiped $15 billion from its market capitalization, as investors worried about the conglome… [+1266 chars]"
       },
       {
-         "content" : "Travis Scott has added another major milestone to his resume: his own meal at McDonald’s. The last celebrity to have his name on a meal at the fast-food chain was Michael Jordan whose McJordan burger… [+1412 chars]",
-         "publishedAt" : "2020-09-09T05:33:00Z",
-         "title" : "Travis Scott McDonald’s Deal Marks First Celebrity Meal Since Michael Jordan in 1992 - Variety",
-         "description" : "Travis Scott has added another major milestone to his resume: his own meal at McDonald’s. The last celebrity to have his name on a meal at the fast-food chain was Michael Jordan whose McJordan burger launched in 1992. The Houston rapper personally ushered in …",
-         "author" : "Shirley Ju",
          "url" : "https://variety.com/2020/music/news/travis-scott-mcdonalds-meal-michael-jordan-1234763132/",
+         "description" : "Travis Scott has added another major milestone to his resume: his own meal at McDonald’s. The last celebrity to have his name on a meal at the fast-food chain was Michael Jordan whose McJordan burger launched in 1992. The Houston rapper personally ushered in …",
+         "title" : "Travis Scott McDonald’s Deal Marks First Celebrity Meal Since Michael Jordan in 1992 - Variety",
+         "urlToImage" : "https://pmcvariety.files.wordpress.com/2020/09/ts1.jpg?w=1000",
+         "content" : "Travis Scott has added another major milestone to his resume: his own meal at McDonald’s. The last celebrity to have his name on a meal at the fast-food chain was Michael Jordan whose McJordan burger… [+1412 chars]",
+         "author" : "Shirley Ju",
          "source" : {
-            "id" : null,
-            "name" : "Variety"
+            "name" : "Variety",
+            "id" : null
          },
-         "urlToImage" : "https://pmcvariety.files.wordpress.com/2020/09/ts1.jpg?w=1000"
+         "publishedAt" : "2020-09-09T05:33:00Z"
       },
       {
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/103047889-GettyImages-454958022.jpg?v=1599623544",
-         "source" : {
-            "id" : null,
-            "name" : "CNBC"
-         },
-         "url" : "https://www.cnbc.com/2020/09/09/howard-marks-on-investments-in-low-rate-environment-sell-off-in-us-markets.html",
-         "author" : "Yen Nee Lee",
-         "description" : "Those \"out of favor\" investments include retail and office real estate, as well as stocks in the entertainment and hospitality sectors, said Marks, co-founder and co-chairman of Oaktree Capital Management.",
          "title" : "‘Out of favor’ assets offer opportunity to make big money, says billionaire investor Howard Marks - CNBC",
-         "publishedAt" : "2020-09-09T04:59:00Z",
-         "content" : "SINGAPORE Investments that have been \"out of favor\" could offer big returns that are becoming increasingly difficult to find in today's low interest rate environment, according to Howard Marks, a wid… [+2628 chars]"
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/103047889-GettyImages-454958022.jpg?v=1599623544",
+         "url" : "https://www.cnbc.com/2020/09/09/howard-marks-on-investments-in-low-rate-environment-sell-off-in-us-markets.html",
+         "description" : "Those \"out of favor\" investments include retail and office real estate, as well as stocks in the entertainment and hospitality sectors, said Marks, co-founder and co-chairman of Oaktree Capital Management.",
+         "content" : "SINGAPORE Investments that have been \"out of favor\" could offer big returns that are becoming increasingly difficult to find in today's low interest rate environment, according to Howard Marks, a wid… [+2628 chars]",
+         "author" : "Yen Nee Lee",
+         "source" : {
+            "name" : "CNBC",
+            "id" : null
+         },
+         "publishedAt" : "2020-09-09T04:59:00Z"
       },
       {
          "author" : "Associated Press",
@@ -125,142 +123,144 @@
             "name" : "MarketWatch",
             "id" : null
          },
-         "url" : "https://www.marketwatch.com/story/asian-markets-fall-as-tech-selloff-spills-across-globe-2020-09-09",
-         "urlToImage" : "https://s.marketwatch.com/public/resources/images/MW-IG684_softba_ZG_20200518050745.jpg",
-         "content" : "Asian shares declined on Wednesday after a selloff of big technology stocks on Wall Street pulled U.S. benchmarks lower. Crude oil prices and Treasury yields also weakened.Among big losers in the tec… [+4182 chars]",
          "publishedAt" : "2020-09-09T04:05:00Z",
+         "urlToImage" : "https://s.marketwatch.com/public/resources/images/MW-IG684_softba_ZG_20200518050745.jpg",
+         "title" : "Asian markets fall, as tech selloff spills across globe - MarketWatch",
+         "url" : "https://www.marketwatch.com/story/asian-markets-fall-as-tech-selloff-spills-across-globe-2020-09-09",
          "description" : "Stocks sink in Sydney, Tokyo, Hong Kong",
-         "title" : "Asian markets fall, as tech selloff spills across globe - MarketWatch"
+         "content" : "Asian shares declined on Wednesday after a selloff of big technology stocks on Wall Street pulled U.S. benchmarks lower. Crude oil prices and Treasury yields also weakened.Among big losers in the tec… [+4182 chars]"
       },
       {
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106694666-1599623989242-gettyimages-1267072209-img78942543.jpeg?v=1599623805",
-         "author" : "Evelyn Cheng",
-         "url" : "https://www.cnbc.com/2020/09/09/nongfu-springs-founder-briefly-becomes-chinas-richest-man-on-ipo-day.html",
-         "source" : {
-            "id" : null,
-            "name" : "CNBC"
-         },
-         "title" : "Nongfu Spring's founder briefly becomes China's richest man, thanks to a huge stake in bottled water IPO - CNBC",
-         "description" : "The public offering of a bottled water giant has propelled its founder into the ranks of the three richest people in China, thanks to an ownership structure that reflects some potential risks of investing in Chinese companies.",
          "content" : "BEIJING  The public offering of a bottled water giant has propelled its founder into the ranks of the three richest people in China, thanks to an ownership structure that reflects some potential risk… [+3987 chars]",
-         "publishedAt" : "2020-09-09T04:01:00Z"
+         "title" : "Nongfu Spring's founder briefly becomes China's richest man, thanks to a huge stake in bottled water IPO - CNBC",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106694666-1599623989242-gettyimages-1267072209-img78942543.jpeg?v=1599623805",
+         "url" : "https://www.cnbc.com/2020/09/09/nongfu-springs-founder-briefly-becomes-chinas-richest-man-on-ipo-day.html",
+         "description" : "The public offering of a bottled water giant has propelled its founder into the ranks of the three richest people in China, thanks to an ownership structure that reflects some potential risks of investing in Chinese companies.",
+         "publishedAt" : "2020-09-09T04:01:00Z",
+         "source" : {
+            "name" : "CNBC",
+            "id" : null
+         },
+         "author" : "Evelyn Cheng"
       },
       {
-         "publishedAt" : "2020-09-09T03:46:25Z",
-         "content" : "ATLANTA (CNN) A quirky candy maker has launched a nationwide treasure hunt, sending sugar mavens into a frenzy. They'll need to pay to play for the ultimate prize one of his candy factories.\r\nInstead… [+3029 chars]",
-         "description" : "A quirky candy maker has launched a nationwide treasure hunt, sending sugar mavens into a frenzy. They'll need to pay to play for the ultimate prize — one of his candy factories.",
          "title" : "Will he Wonka? A candy maker is giving away a candy factory in a nationwide treasure hunt - KSL.com",
+         "urlToImage" : "https://img.ksl.com/slc/2793/279330/27933095.jpeg?filter=ksl/responsive_story_lg",
+         "url" : "https://www.ksl.com/article/50015048/will-he-wonka-a-candy-maker-is-giving-away-a-candy-factory-in-a-nationwide-treasure-hunt",
+         "description" : "A quirky candy maker has launched a nationwide treasure hunt, sending sugar mavens into a frenzy. They'll need to pay to play for the ultimate prize — one of his candy factories.",
+         "content" : "ATLANTA (CNN) A quirky candy maker has launched a nationwide treasure hunt, sending sugar mavens into a frenzy. They'll need to pay to play for the ultimate prize one of his candy factories.\r\nInstead… [+3029 chars]",
+         "author" : "https://www.facebook.com/kslcom/",
          "source" : {
             "name" : "KSL.com",
             "id" : null
          },
-         "url" : "https://www.ksl.com/article/50015048/will-he-wonka-a-candy-maker-is-giving-away-a-candy-factory-in-a-nationwide-treasure-hunt",
-         "author" : "https://www.facebook.com/kslcom/",
-         "urlToImage" : "https://img.ksl.com/slc/2793/279330/27933095.jpeg?filter=ksl/responsive_story_lg"
+         "publishedAt" : "2020-09-09T03:46:25Z"
       },
       {
          "urlToImage" : "https://images.axios.com/qtuSUOx8oS3KLKnoCSwLobcuCi4=/fit-in/1366x1366/2020/09/09/1599622278948.jpg",
+         "title" : "Zuckerberg to \"Axios on HBO\": \"Just wrong\" to say Facebook driven by conservatives - Axios",
+         "description" : "He insists it's not a right-wing echo chamber, but a platform that \"gives individuals more power.\"",
+         "url" : "https://www.axios.com/zuckerberg-facebook-conservatives-algorithm-0ad23698-7bfe-49cf-9250-fb333edc218e.html",
+         "content" : "Mark Zuckerberg told \"Axios on HBO\" that it's \"just wrong\" to consider Facebook a right-wing echo chamber, even though conservative voices top the platform's most-engaged content. \r\n<ul><li>\"It's tru… [+3866 chars]",
+         "publishedAt" : "2020-09-09T03:31:55Z",
+         "author" : "Mike Allen, David Nather",
          "source" : {
             "id" : "axios",
             "name" : "Axios"
-         },
-         "url" : "https://www.axios.com/zuckerberg-facebook-conservatives-algorithm-0ad23698-7bfe-49cf-9250-fb333edc218e.html",
-         "author" : "Mike Allen, David Nather",
-         "description" : "He insists it's not a right-wing echo chamber, but a platform that \"gives individuals more power.\"",
-         "title" : "Zuckerberg to \"Axios on HBO\": \"Just wrong\" to say Facebook driven by conservatives - Axios",
-         "publishedAt" : "2020-09-09T03:31:55Z",
-         "content" : "Mark Zuckerberg told \"Axios on HBO\" that it's \"just wrong\" to consider Facebook a right-wing echo chamber, even though conservative voices top the platform's most-engaged content. \r\n<ul><li>\"It's tru… [+3866 chars]"
+         }
       },
       {
-         "urlToImage" : "https://s.yimg.com/uu/api/res/1.2/LfusmluWDUakk4yVlnYINA--~B/aD04MTY7dz0xMjk2O3NtPTE7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/bloomberg_markets_842/def4799fbdfa73e013b5a631431dc48c",
-         "source" : {
-            "name" : "Yahoo Entertainment",
-            "id" : null
-         },
-         "url" : "https://finance.yahoo.com/news/elon-musk-loses-record-16-205623505.html",
-         "author" : "Jack Pitcher",
-         "description" : "(Bloomberg) -- Elon Musk’s net worth plunged $16.3 billion Tuesday, the largest single-day wipeout in the history of the Bloomberg Billionaires Index, as the Tesla Inc. rout continued.The electric-carmaker fell 21% in New York trading -- the most ever -- on n…",
+         "content" : "(Bloomberg) -- Elon Musks net worth plunged $16.3 billion Tuesday, the largest single-day wipeout in the history of the Bloomberg Billionaires Index, as the Tesla Inc. rout continued.\r\nThe electric-c… [+1814 chars]",
          "title" : "Elon Musk Loses Record $16.3 Billion With Wild Wealth Swings - Yahoo Finance",
-         "publishedAt" : "2020-09-09T02:04:16Z",
-         "content" : "(Bloomberg) -- Elon Musks net worth plunged $16.3 billion Tuesday, the largest single-day wipeout in the history of the Bloomberg Billionaires Index, as the Tesla Inc. rout continued.\r\nThe electric-c… [+1814 chars]"
-      },
-      {
-         "description" : "Genesis reveals the facelifted 2022 G70 in official images, something that we've already seen before in renderings and leaked images.",
-         "title" : "2022 Genesis G70 Official Images Reveal The Expected, Sales Start Soon - Motor1 ",
-         "publishedAt" : "2020-09-09T02:01:08Z",
-         "content" : "When the Genesis G80 made its global debut back in March, it previewed what we can expect in the rest of the South Korean marque's lineup of luxury sedans. This was especially true with the Genesis G… [+1731 chars]",
-         "urlToImage" : "https://cdn.motor1.com/images/mgl/2WNqM/s1/2022-genesis-g70.jpg",
+         "urlToImage" : "https://s.yimg.com/uu/api/res/1.2/LfusmluWDUakk4yVlnYINA--~B/aD04MTY7dz0xMjk2O3NtPTE7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/bloomberg_markets_842/def4799fbdfa73e013b5a631431dc48c",
+         "url" : "https://finance.yahoo.com/news/elon-musk-loses-record-16-205623505.html",
+         "description" : "(Bloomberg) -- Elon Musk’s net worth plunged $16.3 billion Tuesday, the largest single-day wipeout in the history of the Bloomberg Billionaires Index, as the Tesla Inc. rout continued.The electric-carmaker fell 21% in New York trading -- the most ever -- on n…",
          "source" : {
-            "name" : "Motor1 ",
-            "id" : null
+            "id" : null,
+            "name" : "Yahoo Entertainment"
          },
-         "url" : "https://www.motor1.com/news/443078/2022-genesis-g70-official-images/",
-         "author" : "Jacob Oliva"
+         "author" : "Jack Pitcher",
+         "publishedAt" : "2020-09-09T02:04:16Z"
       },
       {
+         "url" : "https://www.motor1.com/news/443078/2022-genesis-g70-official-images/",
+         "description" : "Genesis reveals the facelifted 2022 G70 in official images, something that we've already seen before in renderings and leaked images.",
+         "urlToImage" : "https://cdn.motor1.com/images/mgl/2WNqM/s1/2022-genesis-g70.jpg",
+         "title" : "2022 Genesis G70 Official Images Reveal The Expected, Sales Start Soon - Motor1 ",
+         "content" : "When the Genesis G80 made its global debut back in March, it previewed what we can expect in the rest of the South Korean marque's lineup of luxury sedans. This was especially true with the Genesis G… [+1731 chars]",
+         "publishedAt" : "2020-09-09T02:01:08Z",
+         "author" : "Jacob Oliva",
+         "source" : {
+            "id" : null,
+            "name" : "Motor1 "
+         }
+      },
+      {
+         "url" : "https://jalopnik.com/vw-either-has-some-anagram-fetishist-making-up-names-or-1844990113",
+         "description" : "I haven’t really understood how Volkswagen names cars since the air-cooled era. It used to be easy: Types 1, 2, 3, or 4, and they got names that fit how the cars looked: Beetle, Squareback, Fastback, Microbus, hell, even Thing. Then in the water-cooled era th…",
+         "urlToImage" : "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/jfvz27z0nqm4okvmmbdj.png",
+         "title" : "VW Either Has Some Anagram Fetishist Making Up Names Or They Just Love Confusion - Jalopnik",
+         "content" : "I havent really understood how Volkswagen names cars since the air-cooled era. It used to be easy: Types 1, 2, 3, or 4, and they got names that fit how the cars looked: Beetle, Squareback, Fastback, … [+2109 chars]",
+         "publishedAt" : "2020-09-09T02:00:00Z",
+         "author" : "Jason Torchinsky",
          "source" : {
             "name" : "Jalopnik",
             "id" : null
-         },
-         "url" : "https://jalopnik.com/vw-either-has-some-anagram-fetishist-making-up-names-or-1844990113",
-         "author" : "Jason Torchinsky",
-         "urlToImage" : "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/jfvz27z0nqm4okvmmbdj.png",
-         "publishedAt" : "2020-09-09T02:00:00Z",
-         "content" : "I havent really understood how Volkswagen names cars since the air-cooled era. It used to be easy: Types 1, 2, 3, or 4, and they got names that fit how the cars looked: Beetle, Squareback, Fastback, … [+2109 chars]",
-         "description" : "I haven’t really understood how Volkswagen names cars since the air-cooled era. It used to be easy: Types 1, 2, 3, or 4, and they got names that fit how the cars looked: Beetle, Squareback, Fastback, Microbus, hell, even Thing. Then in the water-cooled era th…",
-         "title" : "VW Either Has Some Anagram Fetishist Making Up Names Or They Just Love Confusion - Jalopnik"
+         }
       },
       {
          "content" : null,
-         "publishedAt" : "2020-09-09T01:15:00Z",
+         "url" : "https://fortune.com/2020/09/08/tesla-tsla-apple-aapl-tech-stocks-crashing-2020-stock-market-outlook/",
          "description" : "Big Tech didn't improve over the past year, it just got a lot more expensive.",
          "title" : "Want to understand why tech stocks are crashing? This metric explains it all - Fortune",
-         "author" : "Shawn Tully",
+         "urlToImage" : "https://content.fortune.com/wp-content/uploads/2020/09/GettyImages-1216508346.jpg?resize=1200,600",
          "source" : {
             "id" : "fortune",
             "name" : "Fortune"
          },
-         "url" : "https://fortune.com/2020/09/08/tesla-tsla-apple-aapl-tech-stocks-crashing-2020-stock-market-outlook/",
-         "urlToImage" : "https://content.fortune.com/wp-content/uploads/2020/09/GettyImages-1216508346.jpg?resize=1200,600"
+         "author" : "Shawn Tully",
+         "publishedAt" : "2020-09-09T01:15:00Z"
       },
       {
-         "author" : "Alyssa Newcomb",
          "url" : "https://www.nbcnews.com/business/business-news/peloton-cutting-its-prices-will-people-ever-go-back-gym-n1239533",
-         "source" : {
-            "name" : "NBC News",
-            "id" : "nbc-news"
-         },
+         "description" : "As gyms reopen with new rules after the coronavirus pandemic forced them to shut down for months, Peloton is making a play for new members who would rather work out from home.",
          "urlToImage" : "https://media4.s-nbcnews.com/j/newscms/2020_37/3410568/200908-peloton-at-ew-214p_812ebad8bdf245928b125530e4850b74.nbcnews-fp-1200-630.jpg",
+         "title" : "Peloton cuts prices, capitalizing on people staying at home - NBC News",
          "content" : "As gyms reopen with new rules after the coronavirus pandemic forced them to shut down for months, Peloton is making a play for new members who would rather work out from home.\r\nThe at-home fitness co… [+3750 chars]",
          "publishedAt" : "2020-09-09T01:10:00Z",
-         "title" : "Peloton cuts prices, capitalizing on people staying at home - NBC News",
-         "description" : "As gyms reopen with new rules after the coronavirus pandemic forced them to shut down for months, Peloton is making a play for new members who would rather work out from home."
+         "author" : "Alyssa Newcomb",
+         "source" : {
+            "id" : "nbc-news",
+            "name" : "NBC News"
+         }
       },
       {
-         "urlToImage" : "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ff357a04d-1e9a-4dca-ba70-624d3c76c1ae.jpg?source=next-opengraph&fit=scale-down&width=900",
          "author" : null,
          "source" : {
             "name" : "Financial Times",
             "id" : "financial-times"
          },
-         "url" : "https://www.ft.com/content/94dbc9cd-fb1f-476d-9235-d44fca1a6d32",
+         "publishedAt" : "2020-09-09T01:09:16Z",
          "description" : "Group will take up stake when cloud computing database group lists on stock market",
+         "url" : "https://www.ft.com/content/94dbc9cd-fb1f-476d-9235-d44fca1a6d32",
          "title" : "Warren Buffett’s Berkshire Hathaway to invest $570m in Snowflake - Financial Times",
-         "content" : "Berkshire Hathaway is set to plough more than $570m into the cloud database company Snowflake, marking a rare venture into the enterprise technology market by Warren Buffett after a failed bet on IBM… [+1641 chars]",
-         "publishedAt" : "2020-09-09T01:09:16Z"
+         "urlToImage" : "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ff357a04d-1e9a-4dca-ba70-624d3c76c1ae.jpg?source=next-opengraph&fit=scale-down&width=900",
+         "content" : "Berkshire Hathaway is set to plough more than $570m into the cloud database company Snowflake, marking a rare venture into the enterprise technology market by Warren Buffett after a failed bet on IBM… [+1641 chars]"
       },
       {
-         "source" : {
-            "name" : "Reuters",
-            "id" : "reuters"
-         },
-         "url" : "https://www.reuters.com/article/us-global-markets-idUSKBN25Z3DY",
          "author" : "Tom Wilson",
-         "urlToImage" : "https://s2.reutersmedia.net/resources/r/?m=02&d=20200909&t=2&i=1532661397&w=1200&r=LYNXMPEG871VH",
+         "source" : {
+            "id" : "reuters",
+            "name" : "Reuters"
+         },
          "publishedAt" : "2020-09-09T00:01:00Z",
-         "content" : "LONDON (Reuters) - European shares on Wednesday shrugged off heavy losses for U.S. tech stocks and a major drugmaker delaying testing of a coronavirus vaccine, as investors kept faith in an economic … [+3733 chars]",
+         "title" : "Shares shrug off U.S. tech sell-off, vaccine trial halt - Reuters",
+         "urlToImage" : "https://s2.reutersmedia.net/resources/r/?m=02&d=20200909&t=2&i=1532661397&w=1200&r=LYNXMPEG871VH",
+         "url" : "https://www.reuters.com/article/us-global-markets-idUSKBN25Z3DY",
          "description" : "European shares on Wednesday shrugged off heavy losses for U.S. tech stocks and a major drugmaker delaying testing of a coronavirus vaccine, as investors kept faith in an economic recovery from the coronavirus pandemic.",
-         "title" : "Shares shrug off U.S. tech sell-off, vaccine trial halt - Reuters"
+         "content" : "LONDON (Reuters) - European shares on Wednesday shrugged off heavy losses for U.S. tech stocks and a major drugmaker delaying testing of a coronavirus vaccine, as investors kept faith in an economic … [+3733 chars]"
       }
-   ]
+   ],
+   "totalResults" : 70,
+   "status" : "ok"
 }
