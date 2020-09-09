@@ -1,264 +1,264 @@
 {
    "articles" : [
       {
-         "author" : "Miriam Gottfried, Georgia Wells, Kate Davidson",
+         "content" : "TikToks Chinese parent, ByteDance Ltd., is discussing with the U.S. government possible arrangements that would allow the popular video-sharing app to avoid a full sale of its U.S. operations, accord… [+1090 chars]",
+         "publishedAt" : "2020-09-09T20:18:00Z",
          "source" : {
             "id" : "the-wall-street-journal",
             "name" : "The Wall Street Journal"
          },
+         "url" : "https://www.wsj.com/articles/tiktok-u-s-discuss-ways-to-avoid-sale-11599680388",
+         "title" : "TikTok, U.S. Discuss Ways to Avoid Sale - The Wall Street Journal",
          "description" : "Talks have been under way for months but gained prominence amid geopolitical wrangling",
          "urlToImage" : "https://images.wsj.net/im-230189/social",
-         "title" : "TikTok, U.S. Discuss Ways to Avoid Sale - The Wall Street Journal",
-         "publishedAt" : "2020-09-09T20:18:00Z",
-         "content" : "TikToks Chinese parent, ByteDance Ltd., is discussing with the U.S. government possible arrangements that would allow the popular video-sharing app to avoid a full sale of its U.S. operations, accord… [+1090 chars]",
-         "url" : "https://www.wsj.com/articles/tiktok-u-s-discuss-ways-to-avoid-sale-11599680388"
+         "author" : "Miriam Gottfried, Georgia Wells, Kate Davidson"
       },
       {
-         "author" : "Daniella Genovese",
+         "url" : "https://www.foxbusiness.com/markets/uk-health-minister-astrazeneca-vaccine-pause-not-necessarily-setback",
          "source" : {
             "name" : "Fox Business",
             "id" : null
          },
+         "publishedAt" : "2020-09-09T19:33:05Z",
+         "content" : "U.K. health Secretary Matt Hancock said Wednesday that AstraZeneca's decision to pause its global trials of a COVID-19 vaccine for safety concerns was \"not necessarily\" a setback for the drugmaker.\r\n… [+3641 chars]",
+         "author" : "Daniella Genovese",
          "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/09/0/0/iStock-Matt-Hancock-Getty-images.jpg?ve=1&tl=1",
          "description" : "U.K. Health Secretary Matt Hancock said Wednesday that AstraZeneca's decision to pause its global trials of a COVID-19 vaccine due to safety concerns was \"not necessarily\" a setback for the drugmaker.",
-         "title" : "AstraZeneca coronavirus vaccine pause 'not necessarily' a setback: UK health minister - Fox Business",
-         "publishedAt" : "2020-09-09T19:33:05Z",
-         "url" : "https://www.foxbusiness.com/markets/uk-health-minister-astrazeneca-vaccine-pause-not-necessarily-setback",
-         "content" : "U.K. health Secretary Matt Hancock said Wednesday that AstraZeneca's decision to pause its global trials of a COVID-19 vaccine for safety concerns was \"not necessarily\" a setback for the drugmaker.\r\n… [+3641 chars]"
+         "title" : "AstraZeneca coronavirus vaccine pause 'not necessarily' a setback: UK health minister - Fox Business"
+      },
+      {
+         "author" : "Lauren Thomas",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/102883660-IMG_6962r.jpg?v=1596034830",
+         "description" : "Bankrupt department store chain J.C. Penney is expected to be rescued by its landlords, mall owners Simon and Brookfield.",
+         "title" : "Mall owners Simon, Brookfield set to rescue JC Penney from bankruptcy in $800 million deal - CNBC",
+         "url" : "https://www.cnbc.com/2020/09/09/simon-brookfield-to-save-jc-penney-from-bankruptcy-keep-650-shops.html",
+         "source" : {
+            "name" : "CNBC",
+            "id" : null
+         },
+         "publishedAt" : "2020-09-09T19:19:00Z",
+         "content" : "U.S. mall owners Simon Property Group and Brookfield Property Partners are close to finalizing an $800 million deal to rescue the embattled department store chain J.C. Penney from bankruptcy, avoidin… [+3410 chars]"
+      },
+      {
+         "description" : "Black Friday as you know it is gone this year at Home Depot.",
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200909121700-home-depot-shopper-0814-restricted-super-tease.jpg",
+         "author" : "Parija Kavilanz, CNN Business",
+         "title" : "Home Depot cancels Black Friday - CNN",
+         "source" : {
+            "id" : "cnn",
+            "name" : "CNN"
+         },
+         "url" : "https://www.cnn.com/2020/09/09/business/home-depot-black-friday/index.html",
+         "content" : null,
+         "publishedAt" : "2020-09-09T19:19:00Z"
+      },
+      {
+         "title" : "The pandemic caused an athleisure boom. That's good news for these companies - CNN",
+         "description" : "The pandemic has sparked broad shifts in the clothes people are wearing, boosting some retailers while leaving others behind.",
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200909083201-lululemon-yoga-pants-file-restricted-super-tease.jpg",
+         "author" : "Nathaniel Meyersohn, CNN Business",
+         "content" : null,
+         "publishedAt" : "2020-09-09T19:06:00Z",
+         "source" : {
+            "name" : "CNN",
+            "id" : "cnn"
+         },
+         "url" : "https://www.cnn.com/2020/09/09/business/lululemon-clothing-athleta/index.html"
+      },
+      {
+         "title" : "Netflix isn't a media company or a technology company -- it's an entertainment company, CEO Reed Hastings says - CNBC",
+         "description" : "Investors have debated whether Netflix is a media or technology company for more than a decade. Now, Netflix CEO Reed Hastings gives an answer -- it's an entertainment company.",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/104858837-GettyImages-645981894-hastings-netflix.jpg?v=1589488015",
+         "author" : "Alex Sherman",
+         "content" : "For more than a decade, investors have debated whether Netflix should be considered a media company or a technology company. Now Netflix co-founder and co-CEO Reed Hastings has given an answer.\r\nNetf… [+3099 chars]",
+         "publishedAt" : "2020-09-09T19:00:00Z",
+         "source" : {
+            "name" : "CNBC",
+            "id" : null
+         },
+         "url" : "https://www.cnbc.com/2020/09/09/reed-hastings-netflix-isnt-tech-or-media-its-entertainment.html"
+      },
+      {
+         "title" : "If you own a Mercedes, HoloLens might be used to help fix it - CNN",
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200908132325-03-mercedes-benz-virtual-remote-support-hololens-super-tease.jpg",
+         "description" : "The next time you get your car repaired, an augmented-reality headset might help the mechanic figure out what's wrong.",
+         "author" : "Rachel Metz, CNN Business",
+         "content" : null,
+         "publishedAt" : "2020-09-09T18:33:00Z",
+         "source" : {
+            "id" : "cnn",
+            "name" : "CNN"
+         },
+         "url" : "https://www.cnn.com/2020/09/09/tech/hololens-mercedes-repair/index.html"
       },
       {
          "source" : {
             "id" : null,
-            "name" : "CNBC"
+            "name" : "WHYY"
          },
-         "author" : "Lauren Thomas",
-         "content" : "U.S. mall owners Simon Property Group and Brookfield Property Partners are close to finalizing an $800 million deal to rescue the embattled department store chain J.C. Penney from bankruptcy, avoidin… [+3410 chars]",
-         "url" : "https://www.cnbc.com/2020/09/09/simon-brookfield-to-save-jc-penney-from-bankruptcy-keep-650-shops.html",
-         "title" : "Mall owners Simon, Brookfield set to rescue JC Penney from bankruptcy in $800 million deal - CNBC",
-         "publishedAt" : "2020-09-09T19:19:00Z",
-         "description" : "Bankrupt department store chain J.C. Penney is expected to be rescued by its landlords, mall owners Simon and Brookfield.",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/102883660-IMG_6962r.jpg?v=1596034830"
-      },
-      {
-         "url" : "https://www.cnn.com/2020/09/09/business/home-depot-black-friday/index.html",
-         "content" : null,
-         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200909121700-home-depot-shopper-0814-restricted-super-tease.jpg",
-         "description" : "Black Friday as you know it is gone this year at Home Depot.",
-         "title" : "Home Depot cancels Black Friday - CNN",
-         "publishedAt" : "2020-09-09T19:19:00Z",
-         "author" : "Parija Kavilanz, CNN Business",
-         "source" : {
-            "id" : "cnn",
-            "name" : "CNN"
-         }
-      },
-      {
-         "content" : null,
-         "url" : "https://www.cnn.com/2020/09/09/business/lululemon-clothing-athleta/index.html",
-         "description" : "The pandemic has sparked broad shifts in the clothes people are wearing, boosting some retailers while leaving others behind.",
-         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200909083201-lululemon-yoga-pants-file-restricted-super-tease.jpg",
-         "publishedAt" : "2020-09-09T19:06:00Z",
-         "title" : "The pandemic caused an athleisure boom. That's good news for these companies - CNN",
-         "author" : "Nathaniel Meyersohn, CNN Business",
-         "source" : {
-            "id" : "cnn",
-            "name" : "CNN"
-         }
-      },
-      {
-         "content" : "For more than a decade, investors have debated whether Netflix should be considered a media company or a technology company. Now Netflix co-founder and co-CEO Reed Hastings has given an answer.\r\nNetf… [+3099 chars]",
-         "url" : "https://www.cnbc.com/2020/09/09/reed-hastings-netflix-isnt-tech-or-media-its-entertainment.html",
-         "title" : "Netflix isn't a media company or a technology company -- it's an entertainment company, CEO Reed Hastings says - CNBC",
-         "publishedAt" : "2020-09-09T19:00:00Z",
-         "description" : "Investors have debated whether Netflix is a media or technology company for more than a decade. Now, Netflix CEO Reed Hastings gives an answer -- it's an entertainment company.",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/104858837-GettyImages-645981894-hastings-netflix.jpg?v=1589488015",
-         "source" : {
-            "name" : "CNBC",
-            "id" : null
-         },
-         "author" : "Alex Sherman"
-      },
-      {
-         "source" : {
-            "id" : "cnn",
-            "name" : "CNN"
-         },
-         "author" : "Rachel Metz, CNN Business",
-         "url" : "https://www.cnn.com/2020/09/09/tech/hololens-mercedes-repair/index.html",
-         "content" : null,
-         "publishedAt" : "2020-09-09T18:33:00Z",
-         "title" : "If you own a Mercedes, HoloLens might be used to help fix it - CNN",
-         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200908132325-03-mercedes-benz-virtual-remote-support-hololens-super-tease.jpg",
-         "description" : "The next time you get your car repaired, an augmented-reality headset might help the mechanic figure out what's wrong."
-      },
-      {
-         "author" : "Ryan Briggs",
-         "source" : {
-            "name" : "WHYY",
-            "id" : null
-         },
+         "url" : "http://whyy.org/articles/76ers-rejected-n-y-developer-durst-selected-for-penns-landing-site/",
+         "content" : "Company representatives hailed the selection.\r\nWe are honored DRWC has selected us for this transformative project that will provide Philadelphians’ extraordinary access to the waterfront,” said Jona… [+3766 chars]",
+         "publishedAt" : "2020-09-09T18:11:15Z",
          "urlToImage" : "https://whyy.org/wp-content/uploads/2020/09/XGCIXDT6OBELNBMCNLEOQYKWEI.jpg",
          "description" : "The Delaware River Waterfront Corporation said it chose the Durst plan because of its compatibility with the master plan for the public waterfront.",
-         "publishedAt" : "2020-09-09T18:11:15Z",
-         "title" : "76ers rejected: N.Y. developer Durst selected for Penn's Landing site - WHYY",
-         "url" : "http://whyy.org/articles/76ers-rejected-n-y-developer-durst-selected-for-penns-landing-site/",
-         "content" : "Company representatives hailed the selection.\r\nWe are honored DRWC has selected us for this transformative project that will provide Philadelphians’ extraordinary access to the waterfront,” said Jona… [+3766 chars]"
+         "author" : "Ryan Briggs",
+         "title" : "76ers rejected: N.Y. developer Durst selected for Penn's Landing site - WHYY"
       },
       {
+         "publishedAt" : "2020-09-09T17:59:00Z",
          "content" : "There's nothing like some volatility in the stock market to test an investor's ability to make rational decisions.\r\nWhether share prices are heading up or down, it's common for individuals to make mi… [+4917 chars]",
          "url" : "https://www.cnbc.com/2020/09/09/these-investing-mistakes-can-derail-your-savings-experts-say.html",
-         "title" : "These investing mistakes can derail your savings, experts say - CNBC",
-         "publishedAt" : "2020-09-09T17:59:00Z",
-         "description" : "Regardless of whether you're a novice or seasoned investor, it can be easy to make mistakes. Here are some of the biggest blunders to avoid, according to recent research.",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/104526609-GettyImages-620924135.jpg?v=1586290406",
          "source" : {
-            "name" : "CNBC",
-            "id" : null
+            "id" : null,
+            "name" : "CNBC"
          },
-         "author" : "Sarah O'Brien"
+         "title" : "These investing mistakes can derail your savings, experts say - CNBC",
+         "author" : "Sarah O'Brien",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/104526609-GettyImages-620924135.jpg?v=1586290406",
+         "description" : "Regardless of whether you're a novice or seasoned investor, it can be easy to make mistakes. Here are some of the biggest blunders to avoid, according to recent research."
       },
       {
-         "content" : "Most vape shops might end up being, well, vaporized following the passing of an FDA deadline on Wednesday for legalizing some 400 million varieties of nicotine-laced liquids nationwide.\r\nVaping liqui… [+5010 chars]",
-         "url" : "https://www.buzzfeednews.com/article/danvergano/vaping-shops-close-fda-deadline",
+         "title" : "An FDA Deadline For Vape Shops Is Today. No One Knows What Comes Next. - BuzzFeed News",
          "description" : "“I worry it will be Armageddon for the vaping industry.”",
          "urlToImage" : "https://img.buzzfeed.com/buzzfeed-static/static/2020-09/9/17/asset/130b722bf474/sub-buzz-2081-1599673086-24.jpg?crop=1024:536;0,73",
-         "publishedAt" : "2020-09-09T17:55:00Z",
-         "title" : "An FDA Deadline For Vape Shops Is Today. No One Knows What Comes Next. - BuzzFeed News",
          "author" : "Dan Vergano",
+         "content" : "Most vape shops might end up being, well, vaporized following the passing of an FDA deadline on Wednesday for legalizing some 400 million varieties of nicotine-laced liquids nationwide.\r\nVaping liqui… [+5010 chars]",
+         "publishedAt" : "2020-09-09T17:55:00Z",
          "source" : {
             "name" : "BuzzFeed News",
             "id" : null
-         }
+         },
+         "url" : "https://www.buzzfeednews.com/article/danvergano/vaping-shops-close-fda-deadline"
       },
       {
+         "urlToImage" : "https://electrek.co/wp-content/uploads/sites/3/2020/09/Tesla-Gigapress-2-hero.jpg?quality=82&strip=all",
+         "description" : "Tesla is already deploying a second mega casting machine in the Fremont factory or more accurately, outside the factory, which is running out of space. Earlier today, we reported on our first look at Tesla’s first Giga Press being deployed at the Fremont fact…",
+         "author" : null,
+         "title" : "Tesla is deploying a second Giga Press machine in (or actually out of) Fremont factory - Electrek.co",
          "source" : {
             "name" : "Electrek",
             "id" : null
          },
-         "author" : null,
-         "title" : "Tesla is deploying a second Giga Press machine in (or actually out of) Fremont factory - Electrek.co",
-         "publishedAt" : "2020-09-09T17:48:00Z",
-         "description" : "Tesla is already deploying a second mega casting machine in the Fremont factory or more accurately, outside the factory, which is running out of space. Earlier today, we reported on our first look at Tesla’s first Giga Press being deployed at the Fremont fact…",
-         "urlToImage" : "https://electrek.co/wp-content/uploads/sites/3/2020/09/Tesla-Gigapress-2-hero.jpg?quality=82&strip=all",
+         "url" : "https://electrek.co/2020/09/09/tesla-deploying-second-giga-press-machine-fremont-factory/",
          "content" : "Tesla is already deploying a second mega casting machine in the Fremont factory or more accurately, outside the factory, which is running out of space.\r\nEarlier today, we reported on our first look a… [+1833 chars]",
-         "url" : "https://electrek.co/2020/09/09/tesla-deploying-second-giga-press-machine-fremont-factory/"
+         "publishedAt" : "2020-09-09T17:48:00Z"
       },
       {
-         "author" : "Kate Gibson",
-         "source" : {
-            "name" : "CBS News",
-            "id" : "cbs-news"
-         },
-         "description" : "Ecommerce giant will hold virtual job fair later this month, saying it's looking for workers of \"all skill levels.\"",
          "urlToImage" : "https://cbsnews1.cbsistatic.com/hub/i/r/2017/10/12/a347c758-d9a1-467c-bb8f-e12a4e0983c1/thumbnail/1200x630/bf2fa6a52008f99743ff772ebf40b22c/ap-17214608418052.jpg",
-         "publishedAt" : "2020-09-09T17:29:00Z",
+         "description" : "Ecommerce giant will hold virtual job fair later this month, saying it's looking for workers of \"all skill levels.\"",
+         "author" : "Kate Gibson",
          "title" : "Amazon to fill 33,000 corporate and tech jobs, with many offering six-figure paychecks - CBS News",
+         "source" : {
+            "id" : "cbs-news",
+            "name" : "CBS News"
+         },
+         "url" : "https://www.cbsnews.com/news/amazon-jobs-hiring-33000-corporate-tech/",
          "content" : "As many retailers struggle to stay afloat in the coronavirus-battered economy, Amazon is hiring like crazy. The ecommerce giant said on Wednesday it has thousands of job vacancies, with pay for many … [+2838 chars]",
-         "url" : "https://www.cbsnews.com/news/amazon-jobs-hiring-33000-corporate-tech/"
+         "publishedAt" : "2020-09-09T17:29:00Z"
       },
       {
-         "source" : {
-            "id" : null,
-            "name" : "CNBC"
-         },
-         "author" : "Tyler Bailey",
+         "content" : "One of the most consistent dividend payers in the history of the energy trade could be in danger of having to slash its payout, according to the options market. \r\nThe energy space as a whole has suff… [+1734 chars]",
          "publishedAt" : "2020-09-09T17:10:00Z",
+         "source" : {
+            "name" : "CNBC",
+            "id" : null
+         },
+         "url" : "https://www.cnbc.com/2020/09/09/options-market-predicts-exxon-mobils-dividend-could-be-in-danger.html",
          "title" : "Options market predicts Exxon Mobil's dividend could be in danger - CNBC",
          "urlToImage" : "https://image.cnbcfm.com/api/v1/image/105174459-GettyImages-103157613.jpg?v=1599666502",
          "description" : "The options market is pricing in a dividend cut for one of the energy space's most consistent payers.",
-         "url" : "https://www.cnbc.com/2020/09/09/options-market-predicts-exxon-mobils-dividend-could-be-in-danger.html",
-         "content" : "One of the most consistent dividend payers in the history of the energy trade could be in danger of having to slash its payout, according to the options market. \r\nThe energy space as a whole has suff… [+1734 chars]"
+         "author" : "Tyler Bailey"
       },
       {
          "content" : "WASHINGTON (Reuters) - U.S. job openings increased further in July, though more workers quit their jobs in the retail as well as professional and business services industries likely because of fears … [+3746 chars]",
+         "publishedAt" : "2020-09-09T16:59:00Z",
+         "source" : {
+            "name" : "Reuters",
+            "id" : "reuters"
+         },
          "url" : "https://www.reuters.com/article/us-usa-economy-idUSKBN2602SJ",
          "title" : "U.S. job openings push higher; more workers quitting - Reuters",
-         "publishedAt" : "2020-09-09T16:59:00Z",
          "description" : "U.S. job openings increased further in July, though more workers quit their jobs in the retail as well as professional and business services industries likely because of fears of exposure to COVID-19 and problems with childcare.",
          "urlToImage" : "https://s2.reutersmedia.net/resources/r/?m=02&d=20200909&t=2&i=1532776739&w=1200&r=LYNXMPEG881LC",
-         "source" : {
-            "id" : "reuters",
-            "name" : "Reuters"
-         },
          "author" : "Lucia Mutikani"
       },
       {
          "url" : "https://www.marketwatch.com/story/mark-zuckerberg-its-just-wrong-to-call-facebook-a-right-wing-echo-chamber-2020-09-09",
-         "content" : "Facebook Inc. \r\n FB, \r\n +0.94%\r\nChief Executive Mark Zuckerberg is pushing back on a growing political season narrative that his company has devolved into a right-wing echo chamber. In an interview w… [+558 chars]",
-         "publishedAt" : "2020-09-09T16:41:00Z",
-         "title" : "Mark Zuckerberg: It's 'just wrong' to call Facebook a right-wing echo chamber - MarketWatch",
-         "urlToImage" : "https://s.wsj.net/public/resources/MWimages/MW-GP644_MicroS_ZG_20180906154215.jpg",
-         "description" : "",
          "source" : {
             "name" : "MarketWatch",
             "id" : null
          },
-         "author" : "Jon Swartz"
+         "publishedAt" : "2020-09-09T16:41:00Z",
+         "content" : "Facebook Inc. \r\n FB, \r\n +0.94%\r\nChief Executive Mark Zuckerberg is pushing back on a growing political season narrative that his company has devolved into a right-wing echo chamber. In an interview w… [+558 chars]",
+         "author" : "Jon Swartz",
+         "description" : "",
+         "urlToImage" : "https://s.wsj.net/public/resources/MWimages/MW-GP644_MicroS_ZG_20180906154215.jpg",
+         "title" : "Mark Zuckerberg: It's 'just wrong' to call Facebook a right-wing echo chamber - MarketWatch"
       },
       {
+         "source" : {
+            "name" : "One Mile at a Time",
+            "id" : null
+         },
          "url" : "https://onemileatatime.com/united-airlines-africa-india-hawaii-expansion/",
          "content" : "United Airlines sure knows how to generate buzz — yesterday United hinted at a route announcement happening today, and the details are now official.\r\nUnited Airlines has announced plans to add seven … [+5938 chars]",
          "publishedAt" : "2020-09-09T16:30:00Z",
-         "title" : "Cool: United Airlines' Africa, India, And Hawaii Expansion - One Mile at a Time",
          "urlToImage" : "https://onemileatatime.com/wp-content/uploads/2019/11/United-Polaris-767-12.jpg",
          "description" : "United Airlines has announced seven new long haul routes, including to Africa, India, and Hawaii. Here are all the details.",
-         "source" : {
-            "id" : null,
-            "name" : "One Mile at a Time"
-         },
-         "author" : ""
+         "author" : "",
+         "title" : "Cool: United Airlines' Africa, India, And Hawaii Expansion - One Mile at a Time"
       },
       {
-         "content" : "(CNN)Travis Scott clearly loves McDonald's -- so much, in fact, that a promotion with the fast food chain wasn't enough. Now he's selling Golden Arches-themed merchandise. \r\nThe \"Astroworld\" rapper t… [+757 chars]",
-         "url" : "https://www.cnn.com/2020/09/09/business/travis-scott-mcdonalds-merchandise-trnd/index.html",
+         "author" : "Scottie Andrew, CNN",
          "description" : "The \"Astroworld\" rapper teamed with the fast food joint this month for the $6 \"Travis Scott meal,\" which bundles Scott's go-to McDonald's order. To celebrate the success of the pairing, naturally, there is merchandise, and lots of it.",
          "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200909094728-travis-scott-2019-super-tease.jpg",
-         "publishedAt" : "2020-09-09T16:21:00Z",
          "title" : "Travis Scott drops McDonald's-themed merchandise, including a $90 chicken nugget pillow - CNN",
-         "author" : "Scottie Andrew, CNN",
+         "url" : "https://www.cnn.com/2020/09/09/business/travis-scott-mcdonalds-merchandise-trnd/index.html",
          "source" : {
-            "name" : "CNN",
-            "id" : "cnn"
-         }
+            "id" : "cnn",
+            "name" : "CNN"
+         },
+         "publishedAt" : "2020-09-09T16:21:00Z",
+         "content" : "(CNN)Travis Scott clearly loves McDonald's -- so much, in fact, that a promotion with the fast food chain wasn't enough. Now he's selling Golden Arches-themed merchandise. \r\nThe \"Astroworld\" rapper t… [+757 chars]"
       },
       {
-         "url" : "https://www.cnn.com/2020/09/09/business/mcdonalds-reusable-mugs/index.html",
          "content" : null,
-         "title" : "McDonald's is testing reusable coffee mugs in the UK - CNN",
          "publishedAt" : "2020-09-09T16:16:00Z",
-         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200909081422-mcdonalds-uk-0724-restricted-super-tease.jpg",
-         "description" : "McDonald's will test out reusable cups in the United Kingdom next year in an effort to address the environmental toll of disposable cups and appeal to customers who are increasingly concerned with wasteful single-use packaging.",
          "source" : {
-            "name" : "CNN",
-            "id" : "cnn"
+            "id" : "cnn",
+            "name" : "CNN"
          },
+         "url" : "https://www.cnn.com/2020/09/09/business/mcdonalds-reusable-mugs/index.html",
+         "title" : "McDonald's is testing reusable coffee mugs in the UK - CNN",
+         "description" : "McDonald's will test out reusable cups in the United Kingdom next year in an effort to address the environmental toll of disposable cups and appeal to customers who are increasingly concerned with wasteful single-use packaging.",
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200909081422-mcdonalds-uk-0724-restricted-super-tease.jpg",
          "author" : "Danielle Wiener-Bronner, CNN Business"
       },
       {
+         "content" : "Warren Buffett\r\nGetty Images\r\n<ul><li>Warren Buffett's Berkshire Hathaway plans to invest about $570 million into Snowflake when the cloud-data platform goes public.</li><li>Berkshire is set to buy a… [+5483 chars]",
+         "publishedAt" : "2020-09-09T16:05:34Z",
          "source" : {
             "name" : "Business Insider",
             "id" : "business-insider"
          },
-         "author" : "Theron Mohamed",
+         "url" : "https://www.businessinsider.com/warre-buffett-berkshire-hathaway-570-million-snowflake-ipo-rare-unicorn-2020-9",
          "title" : "Why Warren Buffett's $570 million bet on Snowflake is rarer than any unicorn | Markets - Business Insider",
-         "publishedAt" : "2020-09-09T16:05:34Z",
          "description" : "Why Warren Buffett's $570 million bet on Snowflake is rarer than any unicorn",
          "urlToImage" : "https://i.insider.com/5f3e4d5f42f43f001ddfdf3f?format=jpeg",
-         "content" : "Warren Buffett\r\nGetty Images\r\n<ul><li>Warren Buffett's Berkshire Hathaway plans to invest about $570 million into Snowflake when the cloud-data platform goes public.</li><li>Berkshire is set to buy a… [+5483 chars]",
-         "url" : "https://www.businessinsider.com/warre-buffett-berkshire-hathaway-570-million-snowflake-ipo-rare-unicorn-2020-9"
+         "author" : "Theron Mohamed"
       },
       {
          "title" : "Tesla shares bounce after record plunge - Reuters",
-         "publishedAt" : "2020-09-09T16:05:00Z",
+         "author" : "Chuck Mikolajczak",
          "urlToImage" : "https://s4.reutersmedia.net/resources/r/?m=02&d=20200909&t=2&i=1532764368&w=1200&r=LYNXMPEG881HS",
          "description" : "Tesla Inc shares bounced on Wednesday, a day after the electric car maker suffered the biggest one-day percentage drop in the company's history.",
-         "url" : "https://www.reuters.com/article/us-usa-stocks-tesla-idUSKBN2602MB",
+         "publishedAt" : "2020-09-09T16:05:00Z",
          "content" : "NEW YORK (Reuters) - Tesla Inc (TSLA.O) shares bounced on Wednesday, a day after the electric car maker suffered the biggest one-day percentage drop in the company’s history. \r\nShares jumped 6.88% a … [+1008 chars]",
+         "url" : "https://www.reuters.com/article/us-usa-stocks-tesla-idUSKBN2602MB",
          "source" : {
             "id" : "reuters",
             "name" : "Reuters"
-         },
-         "author" : "Chuck Mikolajczak"
+         }
       }
    ],
    "totalResults" : 70,
