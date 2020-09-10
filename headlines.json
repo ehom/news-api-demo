@@ -1,266 +1,266 @@
 {
    "status" : "ok",
+   "totalResults" : 70,
    "articles" : [
       {
+         "publishedAt" : "2020-09-10T13:20:00Z",
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200910084940-jane-fraser-2019-file-restricted-01-super-tease.jpg",
+         "title" : "Citi names Jane Fraser as CEO, the first woman to lead a major US bank - CNN",
+         "content" : null,
+         "url" : "https://www.cnn.com/2020/09/10/business/citi-woman-ceo-jane-fraser/index.html",
          "description" : "Citigroup made history Thursday by naming Jane Fraser as its next CEO. She will become the first woman to lead a major US bank.",
          "author" : "Matt Egan, CNN Business",
-         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200910084940-jane-fraser-2019-file-restricted-01-super-tease.jpg",
-         "publishedAt" : "2020-09-10T13:20:00Z",
          "source" : {
             "id" : "cnn",
             "name" : "CNN"
-         },
-         "url" : "https://www.cnn.com/2020/09/10/business/citi-woman-ceo-jane-fraser/index.html",
-         "content" : null,
-         "title" : "Citi names Jane Fraser as CEO, the first woman to lead a major US bank - CNN"
+         }
       },
       {
-         "title" : "Discount retailer Century 21 files for Chapter 11 bankruptcy and is closing all of its 13 stores - CNBC",
+         "publishedAt" : "2020-09-10T13:20:00Z",
          "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106697230-1599741769052-gettyimages-819002968-CONSUMER_COMFORT.jpeg?v=1599741831",
-         "description" : "The discount department store chain Century 21 has filed for Chapter 11 bankruptcy protection and is closing all of its remaining 13 stores, it announced Thursday.",
-         "author" : "Lauren Thomas",
+         "title" : "Discount retailer Century 21 files for Chapter 11 bankruptcy and is closing all of its 13 stores - CNBC",
          "content" : "The discount department store chain Century 21 has filed for Chapter 11 bankruptcy protection and is closing all of its remaining 13 stores, it announced Thursday, joining the dozens of other retaile… [+2048 chars]",
          "url" : "https://www.cnbc.com/2020/09/10/discount-retailer-century-21-files-for-bankruptcy-to-close-all-stores.html",
+         "description" : "The discount department store chain Century 21 has filed for Chapter 11 bankruptcy protection and is closing all of its remaining 13 stores, it announced Thursday.",
+         "author" : "Lauren Thomas",
          "source" : {
             "name" : "CNBC",
             "id" : null
-         },
-         "publishedAt" : "2020-09-10T13:20:00Z"
+         }
       },
       {
-         "url" : "https://www.cnn.com/2020/09/10/business/starbucks-straw-free-lids-plastic-straws-sustainability/index.html",
          "content" : null,
+         "title" : "Starbucks has officially abandoned straws in favor of sippy cup lids ... well, mostly - CNN",
          "publishedAt" : "2020-09-10T13:17:00Z",
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200909170959-starbucks-lid-file-super-tease.jpg",
+         "url" : "https://www.cnn.com/2020/09/10/business/starbucks-straw-free-lids-plastic-straws-sustainability/index.html",
          "source" : {
             "name" : "CNN",
             "id" : "cnn"
          },
-         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200909170959-starbucks-lid-file-super-tease.jpg",
          "author" : "Jazmin Goodwin, CNN Business",
-         "description" : "Starbucks is finally ditching straws and ushering in its long-awaited \"sippy cup\" lids for iced beverages.",
-         "title" : "Starbucks has officially abandoned straws in favor of sippy cup lids ... well, mostly - CNN"
+         "description" : "Starbucks is finally ditching straws and ushering in its long-awaited \"sippy cup\" lids for iced beverages."
       },
       {
+         "content" : "Lucid has teased a new electric SUV to be based on the same platform as its newly launched Air electric sedan.\r\nWe already caught a glimpse of the electric SUV when it was spied on while filming some… [+1585 chars]",
          "title" : "Lucid teases electric SUV to be based on Air platform - Electrek.co",
-         "author" : null,
-         "description" : "Lucid has teased a new electric SUV to be based on the same platform as its newly launched Air electric sedan. We already caught a glimpse of the electric SUV when it was spied on while filming some media content last month. But now Lucid has made it official…",
-         "urlToImage" : "https://electrek.co/wp-content/uploads/sites/3/2020/09/Lucid-Air-Electric-SUV.jpg?quality=82&strip=all",
          "publishedAt" : "2020-09-10T13:01:00Z",
+         "urlToImage" : "https://electrek.co/wp-content/uploads/sites/3/2020/09/Lucid-Air-Electric-SUV.jpg?quality=82&strip=all",
+         "url" : "https://electrek.co/2020/09/10/lucid-teases-electric-suv/",
          "source" : {
             "id" : null,
             "name" : "Electrek"
          },
-         "url" : "https://electrek.co/2020/09/10/lucid-teases-electric-suv/",
-         "content" : "Lucid has teased a new electric SUV to be based on the same platform as its newly launched Air electric sedan.\r\nWe already caught a glimpse of the electric SUV when it was spied on while filming some… [+1585 chars]"
+         "author" : null,
+         "description" : "Lucid has teased a new electric SUV to be based on the same platform as its newly launched Air electric sedan. We already caught a glimpse of the electric SUV when it was spied on while filming some media content last month. But now Lucid has made it official…"
       },
       {
          "title" : "U.S. weekly jobless claims total 884000, vs 850000 expected - CNBC Television",
-         "urlToImage" : null,
-         "description" : null,
-         "author" : null,
          "content" : null,
+         "publishedAt" : "2020-09-10T12:49:12Z",
+         "urlToImage" : null,
          "url" : "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9Sml5WEp2ekZlMXPSAQA?oc=5",
          "source" : {
             "id" : "google-news",
             "name" : "Google News"
          },
-         "publishedAt" : "2020-09-10T12:49:12Z"
+         "description" : null,
+         "author" : null
       },
       {
-         "title" : "LVMH plans to sue Tiffany over troubled deal, alleges jeweler mismanaged coronavirus crisis - CNBC",
-         "content" : "Louis Vuitton owner LVMH said Thursday it intends to file a lawsuit against Tiffany, accusing the luxury jeweler of \"dishonesty\" and mismanaging the coronavirus crisis. \r\nThe announcement comes a day… [+2350 chars]",
-         "url" : "https://www.cnbc.com/2020/09/10/lvmh-says-it-plans-to-sue-tiffany-over-troubled-merger.html",
          "source" : {
             "id" : null,
             "name" : "CNBC"
          },
-         "publishedAt" : "2020-09-10T12:47:00Z",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/105718348-1549293189352gettyimages-107550037.jpeg?v=1599738989",
+         "description" : "Louis Vuitton owner LVMH accuses Tiffany of \"dishonesty\" and mismanaging the coronavirus crisis.",
          "author" : "Lauren Thomas",
-         "description" : "Louis Vuitton owner LVMH accuses Tiffany of \"dishonesty\" and mismanaging the coronavirus crisis."
+         "url" : "https://www.cnbc.com/2020/09/10/lvmh-says-it-plans-to-sue-tiffany-over-troubled-merger.html",
+         "title" : "LVMH plans to sue Tiffany over troubled deal, alleges jeweler mismanaged coronavirus crisis - CNBC",
+         "content" : "Louis Vuitton owner LVMH said Thursday it intends to file a lawsuit against Tiffany, accusing the luxury jeweler of \"dishonesty\" and mismanaging the coronavirus crisis. \r\nThe announcement comes a day… [+2350 chars]",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/105718348-1549293189352gettyimages-107550037.jpeg?v=1599738989",
+         "publishedAt" : "2020-09-10T12:47:00Z"
       },
       {
-         "url" : "https://www.foxbusiness.com/markets/manhattan-apartment-vacancies-record-coronavirus-exodus",
-         "content" : "Manhattan’s rental market was hit with a tidal wave of new inventory as New Yorkers continued to flee the borough in the wake of COVID-19.\r\nRental listings rose 14.5% from a year ago to a record 15,0… [+1510 chars]",
-         "publishedAt" : "2020-09-10T12:27:24Z",
+         "description" : "Manhattan rental listings were up 14.5% from a year ago as coronavirus caused New Yorkers to flee.",
+         "author" : "Jonathan Garber",
          "source" : {
             "name" : "Fox Business",
             "id" : null
          },
+         "url" : "https://www.foxbusiness.com/markets/manhattan-apartment-vacancies-record-coronavirus-exodus",
          "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/05/0/0/NYC-Skyline-8-Gary-Hershorn.jpg?ve=1&tl=1",
-         "description" : "Manhattan rental listings were up 14.5% from a year ago as coronavirus caused New Yorkers to flee.",
-         "author" : "Jonathan Garber",
-         "title" : "Manhattan apartment vacancies surge to record amid coronavirus exodus - Fox Business"
+         "publishedAt" : "2020-09-10T12:27:24Z",
+         "title" : "Manhattan apartment vacancies surge to record amid coronavirus exodus - Fox Business",
+         "content" : "Manhattan’s rental market was hit with a tidal wave of new inventory as New Yorkers continued to flee the borough in the wake of COVID-19.\r\nRental listings rose 14.5% from a year ago to a record 15,0… [+1510 chars]"
       },
       {
+         "url" : "https://www.fool.com/investing/2020/09/10/2-top-growth-stocks-to-buy-in-a-market-crash-20/",
+         "publishedAt" : "2020-09-10T12:20:00Z",
          "urlToImage" : "https://g.foolcdn.com/editorial/images/590865/buy-button.jpg",
+         "content" : "The first week of September wasn't a good one for the stock market. Fears of a rerun of the March crash reared their ugly head toward the end of the week, and major indices pulled back after a strong… [+4725 chars]",
+         "title" : "2 Top Growth Stocks to Buy in a Market Crash 2.0 - Motley Fool",
          "author" : "Harsh Chauhan",
          "description" : "Investors shouldn't miss an opportunity to scoop up these two companies if they fall victim to another broad market sell-off.",
-         "url" : "https://www.fool.com/investing/2020/09/10/2-top-growth-stocks-to-buy-in-a-market-crash-20/",
-         "content" : "The first week of September wasn't a good one for the stock market. Fears of a rerun of the March crash reared their ugly head toward the end of the week, and major indices pulled back after a strong… [+4725 chars]",
-         "publishedAt" : "2020-09-10T12:20:00Z",
          "source" : {
-            "name" : "Motley Fool",
-            "id" : null
-         },
-         "title" : "2 Top Growth Stocks to Buy in a Market Crash 2.0 - Motley Fool"
+            "id" : null,
+            "name" : "Motley Fool"
+         }
       },
       {
-         "title" : "Home Depot changes Black Friday shopping, offers 2 months of deals - Fox Business",
+         "publishedAt" : "2020-09-10T12:12:53Z",
          "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/07/0/0/home-depot-Getty.jpg?ve=1&tl=1",
-         "description" : "Rather than have a single day of deals, the home improvement retailer announced Wednesday it will offer sales throughout the holiday season.",
-         "author" : "Daniella Genovese",
+         "title" : "Home Depot changes Black Friday shopping, offers 2 months of deals - Fox Business",
          "content" : "Home Depot is joining a slate of retailers in \"reinventing\" Black Friday this year in an effort to prevent large crowds from gathering amid the COVID-19 pandemic.\r\nRather than have a single day of de… [+2161 chars]",
          "url" : "https://www.foxbusiness.com/lifestyle/home-depot-black-friday-coronavirus",
+         "description" : "Rather than have a single day of deals, the home improvement retailer announced Wednesday it will offer sales throughout the holiday season.",
+         "author" : "Daniella Genovese",
          "source" : {
             "id" : null,
             "name" : "Fox Business"
-         },
-         "publishedAt" : "2020-09-10T12:12:53Z"
+         }
       },
       {
-         "title" : "Papa John's agrees to open 49 new sites as sales surge during pandemic - CNBC",
-         "publishedAt" : "2020-09-10T12:01:00Z",
+         "author" : "Kate Rogers",
+         "description" : "Under the deal, franchisee HB Restaurant Group will more than double the number of its mid-Atlantic restaurants by 2028.",
          "source" : {
             "id" : null,
             "name" : "CNBC"
          },
          "url" : "https://www.cnbc.com/2020/09/10/papa-johns-hb-restaurant-group-agree-to-open-49-new-locations-.html",
+         "publishedAt" : "2020-09-10T12:01:00Z",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106633698-1595853004271-gettyimages-1012040072-PAPA_JOHNS_EARNS.jpeg?v=1599675457",
          "content" : "Papa John's is expanding its footprint in the Northeast as sales surge during the coronavirus pandemic with more consumers staying in and ordering out.\r\nThe company announced Thursday a deal in which… [+3015 chars]",
-         "author" : "Kate Rogers",
-         "description" : "Under the deal, franchisee HB Restaurant Group will more than double the number of its mid-Atlantic restaurants by 2028.",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106633698-1595853004271-gettyimages-1012040072-PAPA_JOHNS_EARNS.jpeg?v=1599675457"
+         "title" : "Papa John's agrees to open 49 new sites as sales surge during pandemic - CNBC"
       },
       {
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106581148-1592394973356gettyimages-1169413416.jpeg?v=1599737142",
-         "description" : "Companies have faced heightened scrutiny over their record on diversity since the George Floyd protests.",
-         "author" : "Melissa Repko",
-         "url" : "https://www.cnbc.com/2020/09/10/target-pledges-to-increase-number-of-black-employees-by-20percent.html",
-         "content" : "As companies across the country face heightened scrutiny of their record on racial diversity, Target pledged Thursday to increase representation of Black employees across its workforce by 20% over th… [+4650 chars]",
          "publishedAt" : "2020-09-10T12:00:00Z",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106581148-1592394973356gettyimages-1169413416.jpeg?v=1599737142",
+         "content" : "As companies across the country face heightened scrutiny of their record on racial diversity, Target pledged Thursday to increase representation of Black employees across its workforce by 20% over th… [+4650 chars]",
+         "title" : "Target pledges to increase number of Black employees by 20% as companies are pressured to take action - CNBC",
+         "url" : "https://www.cnbc.com/2020/09/10/target-pledges-to-increase-number-of-black-employees-by-20percent.html",
+         "author" : "Melissa Repko",
+         "description" : "Companies have faced heightened scrutiny over their record on diversity since the George Floyd protests.",
          "source" : {
-            "id" : null,
-            "name" : "CNBC"
-         },
-         "title" : "Target pledges to increase number of Black employees by 20% as companies are pressured to take action - CNBC"
+            "name" : "CNBC",
+            "id" : null
+         }
       },
       {
-         "title" : "Dozens of Amazon's own products have been reported as dangerous -- melting, exploding or even bursting into flames. Many are still on the market - CNN",
-         "content" : "The AmazonBasics items below have received three or more reviews describing potential dangers with customers using terms such as \"dangerous,\" \"fire hazard\" or \"unsafe.\" Some items have very similar, … [+353 chars]",
-         "url" : "https://www.cnn.com/2020/09/10/business/amazonbasics-electronics-fire-safety-invs/index.html",
+         "author" : "Blake Ellis and Melanie Hicken, CNN",
+         "description" : "When firefighters arrived at Austin Parra's home on January 12, 2017, they could see smoke and the charred remnants of an office chair outside.",
          "source" : {
             "name" : "CNN",
             "id" : "cnn"
          },
-         "publishedAt" : "2020-09-10T11:55:00Z",
          "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200312140044-20200312-amazon-basics-fires-t1-illustration-super-tease.jpg",
-         "description" : "When firefighters arrived at Austin Parra's home on January 12, 2017, they could see smoke and the charred remnants of an office chair outside.",
-         "author" : "Blake Ellis and Melanie Hicken, CNN"
+         "publishedAt" : "2020-09-10T11:55:00Z",
+         "content" : "The AmazonBasics items below have received three or more reviews describing potential dangers with customers using terms such as \"dangerous,\" \"fire hazard\" or \"unsafe.\" Some items have very similar, … [+353 chars]",
+         "title" : "Dozens of Amazon's own products have been reported as dangerous -- melting, exploding or even bursting into flames. Many are still on the market - CNN",
+         "url" : "https://www.cnn.com/2020/09/10/business/amazonbasics-electronics-fire-safety-invs/index.html"
       },
       {
-         "content" : null,
          "url" : "https://www.cnn.com/2020/09/10/investing/gamestop-store-closures/index.html",
-         "source" : {
-            "id" : "cnn",
-            "name" : "CNN"
-         },
+         "title" : "GameStop is closing hundreds more stores - CNN",
+         "content" : null,
          "publishedAt" : "2020-09-10T11:44:00Z",
          "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200910072556-restricted-gamestop-maryland-0326-super-tease.jpg",
-         "description" : "GameStop is closing about 100 more stores than it originally planned, with the struggling retailer warning of more closures next year.",
-         "author" : "Jordan Valinsky, CNN Business",
-         "title" : "GameStop is closing hundreds more stores - CNN"
-      },
-      {
-         "title" : "5 things to know before the stock market opens Thursday - CNBC",
-         "publishedAt" : "2020-09-10T11:40:00Z",
          "source" : {
-            "name" : "CNBC",
-            "id" : null
+            "name" : "CNN",
+            "id" : "cnn"
          },
-         "url" : "https://www.cnbc.com/2020/09/10/5-things-to-know-before-the-stock-market-opens-september-10-2020.html",
-         "content" : "1. Stock futures turn positive in continuing tech stock bounce\r\nU.S. stock futures turn positive Thursday morning, one day after a tech-led bounce clawed back some of the carnage of the previous thre… [+4350 chars]",
-         "description" : "U.S. stock futures turn positive Thursday, one day after a tech-led bounce clawed back some of the carnage of the previous three sessions.",
-         "author" : "Matthew J. Belvedere",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106615081-1594725929587gettyimages-1226959196.jpeg?v=1598996789"
+         "description" : "GameStop is closing about 100 more stores than it originally planned, with the struggling retailer warning of more closures next year.",
+         "author" : "Jordan Valinsky, CNN Business"
       },
       {
+         "author" : "Matthew J. Belvedere",
+         "description" : "U.S. stock futures turn positive Thursday, one day after a tech-led bounce clawed back some of the carnage of the previous three sessions.",
+         "source" : {
+            "id" : null,
+            "name" : "CNBC"
+         },
+         "publishedAt" : "2020-09-10T11:40:00Z",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106615081-1594725929587gettyimages-1226959196.jpeg?v=1598996789",
+         "content" : "1. Stock futures turn positive in continuing tech stock bounce\r\nU.S. stock futures turn positive Thursday morning, one day after a tech-led bounce clawed back some of the carnage of the previous thre… [+4350 chars]",
+         "title" : "5 things to know before the stock market opens Thursday - CNBC",
+         "url" : "https://www.cnbc.com/2020/09/10/5-things-to-know-before-the-stock-market-opens-september-10-2020.html"
+      },
+      {
+         "url" : "https://seekingalpha.com/article/4373479-j-c-penney-assets-are-being-bought-not-actual-company",
+         "content" : "At a fifteen-minute status conference on September 9, Joshua Sussberg, a lawyer representing J. C. Penney (OTCPK:JCPNQ), announced to the court that various parties had executed a non-binding letter … [+6466 chars]",
          "title" : "J. C. Penney Assets Are Being Bought But Not The Actual Company - Seeking Alpha",
-         "author" : "WYCO Researcher",
-         "description" : "Status conference was held on September 9. Simon and Brookfield to buy operations and first lien debt holders to own two REITs that will own stores and distribution centers.",
-         "urlToImage" : "https://static1.seekingalpha.com/uploads/2020/9/9/4193841-15996943740315337.png",
          "publishedAt" : "2020-09-10T11:35:00Z",
+         "urlToImage" : "https://static1.seekingalpha.com/uploads/2020/9/9/4193841-15996943740315337.png",
          "source" : {
             "id" : null,
             "name" : "Seeking Alpha"
          },
-         "url" : "https://seekingalpha.com/article/4373479-j-c-penney-assets-are-being-bought-not-actual-company",
-         "content" : "At a fifteen-minute status conference on September 9, Joshua Sussberg, a lawyer representing J. C. Penney (OTCPK:JCPNQ), announced to the court that various parties had executed a non-binding letter … [+6466 chars]"
+         "author" : "WYCO Researcher",
+         "description" : "Status conference was held on September 9. Simon and Brookfield to buy operations and first lien debt holders to own two REITs that will own stores and distribution centers."
       },
       {
-         "title" : "Martha Stewart launches CBD line in crowded market - CNN",
-         "author" : "Alicia Wallace, CNN Business",
          "description" : "Martha Stewart, OG of lifestyle branding, is now the latest celebrity with a CBD line.",
-         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200909141948-03-martha-stewart-cbd-line-super-tease.jpg",
+         "author" : "Alicia Wallace, CNN Business",
          "source" : {
             "id" : "cnn",
             "name" : "CNN"
          },
          "publishedAt" : "2020-09-10T11:22:00Z",
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200909141948-03-martha-stewart-cbd-line-super-tease.jpg",
+         "title" : "Martha Stewart launches CBD line in crowded market - CNN",
          "content" : null,
          "url" : "https://www.cnn.com/2020/09/10/business/martha-stewart-cbd-launch/index.html"
       },
       {
-         "urlToImage" : "https://images.mktw.net/im-230496/social",
-         "description" : "Critical information ahead of the U.S. trading day",
-         "author" : "Barbara Kollmeyer",
          "url" : "https://www.marketwatch.com/story/own-tesla-apple-beyond-meat-youd-better-believe-in-them-says-this-top-performing-fund-house-11599735605",
+         "title" : "Own Tesla, Apple, Beyond Meat? You'd better believe in them, says this top-performing fund house - MarketWatch",
          "content" : "Wall Street may be ready to give back Wednesdays stock gains as fast as it earned them, judging by futures, as investors also wait to hear from a European Central Bank press conference and weekly job… [+4985 chars]",
          "publishedAt" : "2020-09-10T11:00:00Z",
+         "urlToImage" : "https://images.mktw.net/im-230496/social",
          "source" : {
             "id" : null,
             "name" : "MarketWatch"
          },
-         "title" : "Own Tesla, Apple, Beyond Meat? You'd better believe in them, says this top-performing fund house - MarketWatch"
+         "description" : "Critical information ahead of the U.S. trading day",
+         "author" : "Barbara Kollmeyer"
       },
       {
-         "title" : "Ambani’s Reliance to Offer $20 Billion Stake in Retail Arm to Amazon - Yahoo Finance",
-         "url" : "https://finance.yahoo.com/news/ambani-reliance-offer-20-billion-064108539.html",
-         "content" : "Are the tides turning on Wall Street? Stocks fell in the past three trading sessions, as investors abandoned the tech heavyweights that have been at the forefront of the markets remarkable charge for… [+10748 chars]",
+         "urlToImage" : "https://s.yimg.com/uu/api/res/1.2/mzTRX2YIvTcZELHuj5rBCQ--~B/aD0xMzM0O3c9MjAwMDtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bloomberg_technology_68/6fc2d1ca1f64349e9fe75e19d6788e36",
          "publishedAt" : "2020-09-10T10:37:00Z",
+         "title" : "Ambani’s Reliance to Offer $20 Billion Stake in Retail Arm to Amazon - Yahoo Finance",
+         "content" : "Are the tides turning on Wall Street? Stocks fell in the past three trading sessions, as investors abandoned the tech heavyweights that have been at the forefront of the markets remarkable charge for… [+10748 chars]",
+         "url" : "https://finance.yahoo.com/news/ambani-reliance-offer-20-billion-064108539.html",
+         "description" : "(Bloomberg) -- Indian billionaire Mukesh Ambani’s Reliance Industries Ltd. is offering to sell a roughly $20 billion stake in its retail business to...",
+         "author" : "Anto Antony",
          "source" : {
             "id" : null,
             "name" : "Yahoo Entertainment"
-         },
-         "urlToImage" : "https://s.yimg.com/uu/api/res/1.2/mzTRX2YIvTcZELHuj5rBCQ--~B/aD0xMzM0O3c9MjAwMDtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bloomberg_technology_68/6fc2d1ca1f64349e9fe75e19d6788e36",
-         "description" : "(Bloomberg) -- Indian billionaire Mukesh Ambani’s Reliance Industries Ltd. is offering to sell a roughly $20 billion stake in its retail business to...",
-         "author" : "Anto Antony"
+         }
       },
       {
-         "title" : "Inquiry Begins Into AstraZeneca's Vaccine Trial - The New York Times",
-         "publishedAt" : "2020-09-10T10:34:00Z",
-         "source" : {
-            "id" : null,
-            "name" : "New York Times"
-         },
          "url" : "https://www.nytimes.com/2020/09/10/health/covid-astrazeneca-vaccine-trans.html",
+         "urlToImage" : "https://static01.nyt.com/images/2020/09/09/science/09VIRUS-ASTRAZENECA/09VIRUS-ASTRAZENECA-facebookJumbo.jpg",
+         "publishedAt" : "2020-09-10T10:34:00Z",
+         "title" : "Inquiry Begins Into AstraZeneca's Vaccine Trial - The New York Times",
          "content" : "A source familiar with the event, who spoke on the condition of anonymity, said in an interview on Tuesday that the afflicted volunteer had experienced symptoms consistent with a condition called tra… [+2072 chars]",
          "description" : "A participant in the company’s late-stage coronavirus vaccine trial reportedly developed severe neurological symptoms. Now experts must assess whether the vaccine was responsible.",
          "author" : "Katherine J. Wu",
-         "urlToImage" : "https://static01.nyt.com/images/2020/09/09/science/09VIRUS-ASTRAZENECA/09VIRUS-ASTRAZENECA-facebookJumbo.jpg"
+         "source" : {
+            "name" : "New York Times",
+            "id" : null
+         }
       },
       {
          "author" : "Quentin Fottrell",
          "description" : "‘Is it fair that I ask for a salary, or just help him grow the business if he continues to pay for everything?’",
-         "urlToImage" : "https://s.marketwatch.com/public/resources/images/MW-IA704_moneyi_ZG_20200221130839.jpg",
-         "publishedAt" : "2020-09-10T10:33:00Z",
          "source" : {
             "name" : "MarketWatch",
             "id" : null
          },
-         "url" : "https://www.marketwatch.com/story/my-fiance-wants-me-to-give-up-my-cushy-six-figure-job-to-work-at-his-landscaping-company-should-i-ask-him-to-pay-me-a-salary-2020-09-10",
+         "publishedAt" : "2020-09-10T10:33:00Z",
+         "urlToImage" : "https://s.marketwatch.com/public/resources/images/MW-IA704_moneyi_ZG_20200221130839.jpg",
          "content" : "My fiancé has a very successful landscaping company, which is about five years old. Ive been in corporate banking for 15 years. My fiancé and I are discussing me quitting my cushy six-figure job and … [+4190 chars]",
-         "title" : "My fiancé wants me to give up my cushy six-figure job to work at his landscaping company. Should I ask him to pay me a salary? - MarketWatch"
+         "title" : "My fiancé wants me to give up my cushy six-figure job to work at his landscaping company. Should I ask him to pay me a salary? - MarketWatch",
+         "url" : "https://www.marketwatch.com/story/my-fiance-wants-me-to-give-up-my-cushy-six-figure-job-to-work-at-his-landscaping-company-should-i-ask-him-to-pay-me-a-salary-2020-09-10"
       }
-   ],
-   "totalResults" : 70
+   ]
 }
