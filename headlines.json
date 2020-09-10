@@ -1,266 +1,266 @@
 {
-   "status" : "ok",
    "totalResults" : 70,
    "articles" : [
       {
+         "content" : "CarsPublished on September 10th, 2020 |\r\n by Frugal Moogal\r\n0\r\nSeptember 10th, 2020 by Frugal Moogal \r\nNote: Nothing below is investment advice.\r\nAt the end of the day on September 8th, I checked my … [+11318 chars]",
+         "title" : "Tesla [TSLA] Is Stressing Me Out - CleanTechnica",
          "url" : "https://cleantechnica.com/2020/09/10/tesla-tsla-is-stressing-me-out/",
-         "description" : "At the end of the day on September 8th, I checked my phone and learned that my stock portfolio had received it's largest single day hit in my entire life. My value on paper was down by five figures, larger than any single day drop I had experienced even at th…",
-         "urlToImage" : "https://cleantechnica.com/files/2019/12/2019.11.21-tesla-design-studio-cybertruck-unveiling-event-truck-KYLE-elon-musk-3-scaled.jpg",
          "source" : {
             "id" : null,
             "name" : "CleanTechnica"
          },
          "publishedAt" : "2020-09-10T06:33:14Z",
-         "author" : "Frugal Moogal",
-         "title" : "Tesla [TSLA] Is Stressing Me Out - CleanTechnica",
-         "content" : "CarsPublished on September 10th, 2020 |\r\n by Frugal Moogal\r\n0\r\nSeptember 10th, 2020 by Frugal Moogal \r\nNote: Nothing below is investment advice.\r\nAt the end of the day on September 8th, I checked my … [+11318 chars]"
+         "description" : "At the end of the day on September 8th, I checked my phone and learned that my stock portfolio had received it's largest single day hit in my entire life. My value on paper was down by five figures, larger than any single day drop I had experienced even at th…",
+         "urlToImage" : "https://cleantechnica.com/files/2019/12/2019.11.21-tesla-design-studio-cybertruck-unveiling-event-truck-KYLE-elon-musk-3-scaled.jpg",
+         "author" : "Frugal Moogal"
       },
       {
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106618504-1594879841873gettyimages-1212001168.jpeg?v=1594879951",
+         "author" : "Elliot Smith",
+         "description" : "European stocks fluctuated Thursday morning ahead of the European Central Bank's (ECB) latest meeting on monetary policy in the euro zone.",
+         "publishedAt" : "2020-09-10T05:16:00Z",
          "source" : {
             "id" : null,
             "name" : "CNBC"
          },
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106618504-1594879841873gettyimages-1212001168.jpeg?v=1594879951",
-         "description" : "European stocks fluctuated Thursday morning ahead of the European Central Bank's (ECB) latest meeting on monetary policy in the euro zone.",
-         "url" : "https://www.cnbc.com/2020/09/10/european-markets-head-for-choppy-open-ahead-of-ecb-meeting.html",
-         "content" : "European stocks fluctuated Thursday morning ahead of the European Central Bank's (ECB) latest meeting on monetary policy in the euro zone.\r\nGlobal markets are also looking ahead to the U.S. Labor Dep… [+632 chars]",
          "title" : "European markets pull back ahead of ECB meeting; Games Workshop up 12% - CNBC",
-         "author" : "Elliot Smith",
-         "publishedAt" : "2020-09-10T05:16:00Z"
+         "url" : "https://www.cnbc.com/2020/09/10/european-markets-head-for-choppy-open-ahead-of-ecb-meeting.html",
+         "content" : "European stocks fluctuated Thursday morning ahead of the European Central Bank's (ECB) latest meeting on monetary policy in the euro zone.\r\nGlobal markets are also looking ahead to the U.S. Labor Dep… [+632 chars]"
       },
       {
-         "publishedAt" : "2020-09-10T05:04:00Z",
-         "author" : "Lewis Krauskopf",
-         "content" : "NEW YORK (Reuters) - Some of Wall Street’s biggest players are viewing the stock market’s recent tech-led selloff as a bout of turbulence rather than the start of a longer slide and they don’t see it… [+3777 chars]",
-         "title" : "Wall Street sees a bright side in 'healthy' tech selloff - Reuters",
-         "url" : "https://www.reuters.com/article/us-usa-stocks-dip-analysis-idUSKBN2610L3",
-         "urlToImage" : "https://s4.reutersmedia.net/resources/r/?m=02&d=20200910&t=2&i=1532844277&w=1200&r=LYNXMPEG890C8",
          "description" : "Some of Wall Street’s biggest players are viewing the stock market's recent tech-led selloff as a bout of turbulence rather than the start of a longer slide -- and they don't see it as a reason to run for the door.",
+         "urlToImage" : "https://s4.reutersmedia.net/resources/r/?m=02&d=20200910&t=2&i=1532844277&w=1200&r=LYNXMPEG890C8",
+         "author" : "Lewis Krauskopf",
          "source" : {
             "name" : "Reuters",
             "id" : "reuters"
-         }
+         },
+         "publishedAt" : "2020-09-10T05:04:00Z",
+         "url" : "https://www.reuters.com/article/us-usa-stocks-dip-analysis-idUSKBN2610L3",
+         "title" : "Wall Street sees a bright side in 'healthy' tech selloff - Reuters",
+         "content" : "NEW YORK (Reuters) - Some of Wall Street’s biggest players are viewing the stock market’s recent tech-led selloff as a bout of turbulence rather than the start of a longer slide and they don’t see it… [+3777 chars]"
       },
       {
-         "author" : "Robert Frank",
-         "content" : "The number of empty rental apartments in Manhattan nearly tripled compared with last year, as more New Yorkers fled the city and prices declined.\r\nThere were more than 15,000 empty rental apartments … [+2324 chars]",
-         "title" : "Manhattan rental market plunges, leaving 15,000 empty apartments in August - CNBC",
          "publishedAt" : "2020-09-10T04:00:00Z",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106695987-1599675173186-gettyimages-1267239891-nyfacesmassexodusleavingthecityduringcovid-19pandemic011.jpeg?v=1599675249",
-         "description" : "Hopes for a rebound in the fall or the end of 2020 look increasingly unlikely. Although rental prices have come down, the discounts are not steep enough yet to lure new renters back to the city.",
          "source" : {
             "name" : "CNBC",
             "id" : null
          },
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106695987-1599675173186-gettyimages-1267239891-nyfacesmassexodusleavingthecityduringcovid-19pandemic011.jpeg?v=1599675249",
+         "author" : "Robert Frank",
+         "description" : "Hopes for a rebound in the fall or the end of 2020 look increasingly unlikely. Although rental prices have come down, the discounts are not steep enough yet to lure new renters back to the city.",
+         "content" : "The number of empty rental apartments in Manhattan nearly tripled compared with last year, as more New Yorkers fled the city and prices declined.\r\nThere were more than 15,000 empty rental apartments … [+2324 chars]",
+         "title" : "Manhattan rental market plunges, leaving 15,000 empty apartments in August - CNBC",
          "url" : "https://www.cnbc.com/2020/09/10/manhattan-rental-market-plunges-leaving-15000-empty-apartments.html"
       },
       {
-         "publishedAt" : "2020-09-10T03:58:09Z",
-         "author" : null,
-         "content" : null,
-         "title" : "Lucid Air unveiling in 10 minutes - Engadget",
-         "url" : "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9Snd6T2xQQmhlTzDSAQA?oc=5",
          "urlToImage" : null,
+         "author" : null,
          "description" : null,
+         "publishedAt" : "2020-09-10T03:58:09Z",
          "source" : {
             "name" : "Google News",
             "id" : "google-news"
-         }
-      },
-      {
-         "url" : "https://www.cnbc.com/2020/09/10/yum-china-shares-start-trading-in-hong-kong-in-secondary-listing.html",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/105110547-GettyImages-587165410.jpg?v=1599705940",
-         "description" : "Yum China, which operates fast food restaurants KFC, Taco Bell and Pizza Hut in China, raised $2.22 billion by selling 41.9 million shares at 412 Hong Kong dollars ($53.16) apiece.",
-         "source" : {
-            "name" : "CNBC",
-            "id" : null
          },
-         "publishedAt" : "2020-09-10T02:55:00Z",
-         "author" : "Weizhen Tan",
-         "content" : "SINGAPORE Shares of Yum China began trading in Hong Kong on Thursday, but lost more than 4% in early trade.\r\nYum China, which operates fast food restaurants KFC, Taco Bell and Pizza Hut in China, rai… [+1501 chars]",
-         "title" : "Yum China shares tumble more than 4% as it debuts in Hong Kong - CNBC"
+         "title" : "Lucid Air unveiling in 10 minutes - Engadget",
+         "url" : "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9Snd6T2xQQmhlTzDSAQA?oc=5",
+         "content" : null
       },
       {
-         "description" : "Bond deal comes as U.S. grapples with climate change threats",
-         "urlToImage" : "https://images.mktw.net/im-230438/social",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/105110547-GettyImages-587165410.jpg?v=1599705940",
+         "author" : "Weizhen Tan",
+         "description" : "Yum China, which operates fast food restaurants KFC, Taco Bell and Pizza Hut in China, raised $2.22 billion by selling 41.9 million shares at 412 Hong Kong dollars ($53.16) apiece.",
+         "publishedAt" : "2020-09-10T02:55:00Z",
+         "source" : {
+            "id" : null,
+            "name" : "CNBC"
+         },
+         "title" : "Yum China shares tumble more than 4% as it debuts in Hong Kong - CNBC",
+         "url" : "https://www.cnbc.com/2020/09/10/yum-china-shares-start-trading-in-hong-kong-in-secondary-listing.html",
+         "content" : "SINGAPORE Shares of Yum China began trading in Hong Kong on Thursday, but lost more than 4% in early trade.\r\nYum China, which operates fast food restaurants KFC, Taco Bell and Pizza Hut in China, rai… [+1501 chars]"
+      },
+      {
          "source" : {
             "id" : null,
             "name" : "MarketWatch"
          },
-         "url" : "https://www.marketwatch.com/story/jp-morgan-enters-green-bond-push-with-1-billion-debut-debt-deal-11599703139",
+         "publishedAt" : "2020-09-10T01:58:00Z",
+         "description" : "Bond deal comes as U.S. grapples with climate change threats",
+         "urlToImage" : "https://images.mktw.net/im-230438/social",
          "author" : "Joy Wiltermuth",
-         "title" : "JP Morgan enters green bond push with $1 billion debut debt deal - MarketWatch",
          "content" : "JP Morgan Chase &amp; Co. entered the green-bond world on Wednesday, offloading the banks first set of bonds specifically to fund projects with a sustainability bent.While the banking giant has arran… [+3701 chars]",
-         "publishedAt" : "2020-09-10T01:58:00Z"
+         "title" : "JP Morgan enters green bond push with $1 billion debut debt deal - MarketWatch",
+         "url" : "https://www.marketwatch.com/story/jp-morgan-enters-green-bond-push-with-1-billion-debut-debt-deal-11599703139"
       },
       {
          "url" : "https://www.hollywoodreporter.com/news/luxury-goods-giant-lvmh-cancels-14-5b-deal-for-tiffany",
+         "title" : "Luxury Goods Giant LVMH Cancels $14.5B Deal for Tiffany - Hollywood Reporter",
+         "content" : "Luxury goods giant LVMH is ending its takeover deal of jewelry retailer Tiffany &amp; Co., saying the French government had requested a delay to assess the threat of proposed U.S. tariffs.\r\nWednesday… [+4925 chars]",
+         "author" : "the Associated Press",
          "urlToImage" : null,
          "description" : "Wednesday's announcement came after the deal's value had been eroded by wider industry troubles caused by the coronavirus pandemic.",
-         "source" : {
-            "name" : "Hollywood Reporter",
-            "id" : null
-         },
          "publishedAt" : "2020-09-10T01:53:26Z",
-         "author" : "the Associated Press",
-         "content" : "Luxury goods giant LVMH is ending its takeover deal of jewelry retailer Tiffany &amp; Co., saying the French government had requested a delay to assess the threat of proposed U.S. tariffs.\r\nWednesday… [+4925 chars]",
-         "title" : "Luxury Goods Giant LVMH Cancels $14.5B Deal for Tiffany - Hollywood Reporter"
-      },
-      {
-         "publishedAt" : "2020-09-10T01:06:27Z",
-         "content" : "International travelers coming into the United States will no longer receive a COVID-19 health screening and will not be required to fly into one of 13 airports where the enhanced screening measures … [+3822 chars]",
-         "title" : "U.S. Airports Will No Longer Screen International Arrivals for COVID-19 - AFAR Media",
-         "author" : "Michelle Baran",
-         "url" : "https://www.afar.com/magazine/us-airports-to-no-longer-screen-international-arrivals-for-covid-19",
          "source" : {
             "id" : null,
-            "name" : "AFAR Media"
-         },
-         "urlToImage" : "https://afar-production.imgix.net/uploads/images/afar_post_headers/images/rfTZiPdMU9/original_shutterstock_1335911165.jpg?crop=top&fit=crop&w=600&h=330",
-         "description" : "Starting Monday, international flights will no longer be required to come into one of 13 airports where the enhanced coronavirus screening measures were being carried out."
+            "name" : "Hollywood Reporter"
+         }
       },
       {
-         "url" : "https://www.ft.com/content/31705aaf-af08-42ce-8b2e-5d56901cdb9c",
+         "content" : "International travelers coming into the United States will no longer receive a COVID-19 health screening and will not be required to fly into one of 13 airports where the enhanced screening measures … [+3822 chars]",
+         "title" : "U.S. Airports Will No Longer Screen International Arrivals for COVID-19 - AFAR Media",
+         "url" : "https://www.afar.com/magazine/us-airports-to-no-longer-screen-international-arrivals-for-covid-19",
+         "source" : {
+            "name" : "AFAR Media",
+            "id" : null
+         },
+         "publishedAt" : "2020-09-10T01:06:27Z",
+         "description" : "Starting Monday, international flights will no longer be required to come into one of 13 airports where the enhanced coronavirus screening measures were being carried out.",
+         "urlToImage" : "https://afar-production.imgix.net/uploads/images/afar_post_headers/images/rfTZiPdMU9/original_shutterstock_1335911165.jpg?crop=top&fit=crop&w=600&h=330",
+         "author" : "Michelle Baran"
+      },
+      {
          "source" : {
             "id" : "financial-times",
             "name" : "Financial Times"
          },
+         "publishedAt" : "2020-09-09T23:33:00Z",
          "description" : "News, analysis and comment from the Financial Times, the worldʼs leading global business publication",
          "urlToImage" : null,
-         "publishedAt" : "2020-09-09T23:33:00Z",
-         "title" : "JPMorgan fires employees who took Covid relief funds - Financial Times",
+         "author" : "Laura Noonan",
          "content" : "Keep abreast of significant corporate, financial and political developments around the world.\r\nStay informed and spot emerging risks and opportunities with independent global reporting, expert\r\ncomme… [+32 chars]",
-         "author" : "Laura Noonan"
+         "title" : "JPMorgan fires employees who took Covid relief funds - Financial Times",
+         "url" : "https://www.ft.com/content/31705aaf-af08-42ce-8b2e-5d56901cdb9c"
       },
       {
          "description" : "Amazon announced it will hold a Career Day on September 16 that is open to everyone seeking a job.",
          "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/180918163055-amazon-office-seattle-super-tease.jpg",
+         "author" : "Alexis Benveniste, CNN Business",
          "source" : {
             "id" : "cnn",
             "name" : "CNN"
          },
+         "publishedAt" : "2020-09-09T23:06:00Z",
          "url" : "https://www.cnn.com/2020/09/09/tech/amazon-career-day/index.html",
-         "author" : "Alexis Benveniste, CNN Business",
          "title" : "Amazon is hiring 33,000 new employees with an average compensation package worth $150,000 - CNN",
-         "content" : null,
-         "publishedAt" : "2020-09-09T23:06:00Z"
+         "content" : null
       },
       {
-         "author" : "Ben Mutzabaugh",
          "content" : "Overseas flights could be returning to more U.S. airports following reports the government is set to ease coronavirus-related restrictions on passengers arriving from abroad.\r\nThe U.S. had been requi… [+4048 chars]",
          "title" : "White House ending airport COVID screening, reports say; more international flights coming? - The Points Guy",
+         "url" : "http://thepointsguy.com/news/white-house-airport-covid-screening-international-flights/",
          "publishedAt" : "2020-09-09T23:01:10Z",
-         "urlToImage" : "https://i2.wp.com/thepointsguy.com/wp-content/uploads/2020/09/lax-health-screening-scaled.jpg?fit=2560%2C1712px&ssl=1",
-         "description" : "Overseas flights could be returning to more U.S. airports following reports the government is set to ease coronavirus-related restrictions on passengers arriving from abroad. The U.S. had been requiring passengers coming from certain high-risk countries — inc…",
          "source" : {
             "name" : "The Points Guy",
             "id" : null
          },
-         "url" : "http://thepointsguy.com/news/white-house-airport-covid-screening-international-flights/"
+         "urlToImage" : "https://i2.wp.com/thepointsguy.com/wp-content/uploads/2020/09/lax-health-screening-scaled.jpg?fit=2560%2C1712px&ssl=1",
+         "author" : "Ben Mutzabaugh",
+         "description" : "Overseas flights could be returning to more U.S. airports following reports the government is set to ease coronavirus-related restrictions on passengers arriving from abroad. The U.S. had been requiring passengers coming from certain high-risk countries — inc…"
       },
       {
-         "title" : "How Long Can Cooked Chicken Stay in the Fridge? (Hint: Not as Long as You Think) - Yahoo Lifestyle",
          "content" : "Whether slow-cooked, roasted, fried or grilled, we love tucking into a chicken dinner. This protein-rich ingredient is inexpensive, versatile and always satisfying. Best of all, you dont need to poss… [+4514 chars]",
-         "author" : "editor@purewow.com (PureWow)",
+         "title" : "How Long Can Cooked Chicken Stay in the Fridge? (Hint: Not as Long as You Think) - Yahoo Lifestyle",
+         "url" : "https://www.yahoo.com/lifestyle/long-cooked-chicken-stay-fridge-230000925.html",
          "publishedAt" : "2020-09-09T23:00:00Z",
          "source" : {
             "name" : "Yahoo Entertainment",
             "id" : null
          },
-         "description" : "Whether slow-cooked , roasted ,...",
+         "author" : "editor@purewow.com (PureWow)",
          "urlToImage" : "https://s.yimg.com/uu/api/res/1.2/lABd5etr2xEahFKSR8CTLg--~B/aD01MjQ7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en-us/purewow_185/cf3d761f95ebf051ec168b67598df1c5",
-         "url" : "https://www.yahoo.com/lifestyle/long-cooked-chicken-stay-fridge-230000925.html"
+         "description" : "Whether slow-cooked , roasted ,..."
       },
       {
+         "content" : "<ul><li>\"The recent sell-off could be a sign that this bull's getting long in the tooth,\" CNBC's Jim Cramer said, citing research from technical analyst Carley Garner.</li><li>\"Garner's betting that … [+2846 chars]",
+         "title" : "Jim Cramer breaks down how an S&P 500 climb could be followed by a 'truly savage sell-off' - CNBC",
          "url" : "https://www.cnbc.com/2020/09/09/jim-cramer-breaks-down-how-an-sp-500-climb-could-be-followed-by-a-truly-savage-sell-off.html",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/104928147-GettyImages-896245900.jpg?v=1598468015",
-         "description" : "\"The recent sell-off could be a sign that this bull's getting long in the tooth,\" the \"Mad Money\" host said, citing analysis from chartist Carley Garner.",
          "source" : {
             "id" : null,
             "name" : "CNBC"
          },
          "publishedAt" : "2020-09-09T22:49:00Z",
-         "author" : "Tyler Clifford",
-         "content" : "<ul><li>\"The recent sell-off could be a sign that this bull's getting long in the tooth,\" CNBC's Jim Cramer said, citing research from technical analyst Carley Garner.</li><li>\"Garner's betting that … [+2846 chars]",
-         "title" : "Jim Cramer breaks down how an S&P 500 climb could be followed by a 'truly savage sell-off' - CNBC"
+         "description" : "\"The recent sell-off could be a sign that this bull's getting long in the tooth,\" the \"Mad Money\" host said, citing analysis from chartist Carley Garner.",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/104928147-GettyImages-896245900.jpg?v=1598468015",
+         "author" : "Tyler Clifford"
       },
       {
          "url" : "https://www.foxnews.com/health/astrazeneca-coronavirus-vaccine-pause-dr-bob-lahita",
-         "source" : {
-            "name" : "Fox News",
-            "id" : "fox-news"
-         },
-         "description" : "AstraZeneca's decision to pause its global trials of a COVID-19 vaccine candidate over safety concerns should reassure skeptical Americans that \"they are looking very carefully at everybody who is getting the vaccine,\" New York Medical College Professor Dr. B…",
-         "urlToImage" : "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/AstraZeneca-Vaccine-iStock.jpg",
-         "publishedAt" : "2020-09-09T22:37:48Z",
          "title" : "AstraZeneca coronavirus vaccine trial pause 'a good thing': Dr. Bob Lahita - Fox News",
          "content" : "AstraZeneca's decision to pause its global trials of a COVID-19 vaccine candidate over safety concerns should reassure skeptical Americans that \"they are looking very carefully at everybody who is ge… [+1805 chars]",
-         "author" : "Yael Halon"
+         "urlToImage" : "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/AstraZeneca-Vaccine-iStock.jpg",
+         "author" : "Yael Halon",
+         "description" : "AstraZeneca's decision to pause its global trials of a COVID-19 vaccine candidate over safety concerns should reassure skeptical Americans that \"they are looking very carefully at everybody who is getting the vaccine,\" New York Medical College Professor Dr. B…",
+         "publishedAt" : "2020-09-09T22:37:48Z",
+         "source" : {
+            "id" : "fox-news",
+            "name" : "Fox News"
+         }
       },
       {
-         "author" : null,
          "title" : "Tesla Giga Press at Fremont Begins Making Model Y Parts with 3 Advantages - Torque News",
+         "url" : "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9WFg1MWFfWHpqOXfSAQA?oc=5",
          "content" : null,
-         "publishedAt" : "2020-09-09T22:32:05Z",
-         "description" : null,
          "urlToImage" : null,
+         "author" : null,
+         "description" : null,
+         "publishedAt" : "2020-09-09T22:32:05Z",
          "source" : {
             "id" : "google-news",
             "name" : "Google News"
-         },
-         "url" : "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9WFg1MWFfWHpqOXfSAQA?oc=5"
+         }
       },
       {
          "publishedAt" : "2020-09-09T22:23:00Z",
-         "title" : "Stock market news live updates: Stock futures hug the flat line, steadying after rebound rally - Yahoo Finance",
-         "content" : "Stock futures were little changed Wednesday evening, as investors assessed the regular-session rally and an at least temporary resurgence in technology shares.\r\nThe tech stocks pummeled over the past… [+2875 chars]",
-         "author" : "Emily McCormick",
-         "url" : "https://finance.yahoo.com/news/stock-market-news-live-september-10-2020-222314022.html",
          "source" : {
             "name" : "Yahoo Entertainment",
             "id" : null
          },
+         "urlToImage" : "https://s.yimg.com/uu/api/res/1.2/9qF7AKqtMCFWFg92q5XCZA--~B/aD0zODQwO3c9NTc2MDtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2020-09/3943b8b0-f2ea-11ea-9de7-e1b5f8d6ea7d",
+         "author" : "Emily McCormick",
          "description" : "Stock futures were little changed Wednesday evening, as investors assessed the regular-session rally and an at least temporary resurgence in technology shares.",
-         "urlToImage" : "https://s.yimg.com/uu/api/res/1.2/9qF7AKqtMCFWFg92q5XCZA--~B/aD0zODQwO3c9NTc2MDtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2020-09/3943b8b0-f2ea-11ea-9de7-e1b5f8d6ea7d"
+         "content" : "Stock futures were little changed Wednesday evening, as investors assessed the regular-session rally and an at least temporary resurgence in technology shares.\r\nThe tech stocks pummeled over the past… [+2875 chars]",
+         "url" : "https://finance.yahoo.com/news/stock-market-news-live-september-10-2020-222314022.html",
+         "title" : "Stock market news live updates: Stock futures hug the flat line, steadying after rebound rally - Yahoo Finance"
       },
       {
-         "source" : {
-            "id" : null,
-            "name" : "CNBC"
-         },
-         "description" : "In updated prospectus on Wednesday, Palantir said it has 1.64 billion shares outstanding as of Sept. 1, which indicates a valuation of about $10.5 billion.",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/104303936-GettyImages-479828890.jpg?v=1532563904",
-         "url" : "https://www.cnbc.com/2020/09/09/palantir-valued-at-about-10point5-billion-ahead-of-direct-listing.html",
-         "title" : "Palantir is being valued around $10.5 billion ahead of direct listing as investors question growth story - CNBC",
          "content" : "Alexander Karp, CEO of Palantir Technologies Inc.\r\nAs Palantir gears up for its stock market debut, the company has a long way to go to convince potential shareholders that it's worth the $20 billion… [+5000 chars]",
+         "title" : "Palantir is being valued around $10.5 billion ahead of direct listing as investors question growth story - CNBC",
+         "url" : "https://www.cnbc.com/2020/09/09/palantir-valued-at-about-10point5-billion-ahead-of-direct-listing.html",
+         "publishedAt" : "2020-09-09T22:12:00Z",
+         "source" : {
+            "name" : "CNBC",
+            "id" : null
+         },
          "author" : "Ari Levy",
-         "publishedAt" : "2020-09-09T22:12:00Z"
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/104303936-GettyImages-479828890.jpg?v=1532563904",
+         "description" : "In updated prospectus on Wednesday, Palantir said it has 1.64 billion shares outstanding as of Sept. 1, which indicates a valuation of about $10.5 billion."
       },
       {
-         "author" : "Associated Press",
          "title" : "Mall owners Simon, Brookfield close to buying J.C. Penney out of bankruptcy - MarketWatch",
+         "url" : "https://www.marketwatch.com/story/mall-owners-simon-brookfield-close-to-buying-j-c-penney-out-of-bankruptcy-11599689477",
          "content" : "NEW YORK Mall owners Simon Property Group and Brookfield Property Partners are close to a deal to buy department store chain J.C. Penney out of bankruptcy and keep the chain running. Penneys lawyer J… [+2083 chars]",
-         "publishedAt" : "2020-09-09T22:11:00Z",
-         "description" : "Deal would keep retail chain operating, have enterprise value of $1.75 billion",
          "urlToImage" : "https://images.mktw.net/im-230343/social",
+         "author" : "Associated Press",
+         "description" : "Deal would keep retail chain operating, have enterprise value of $1.75 billion",
+         "publishedAt" : "2020-09-09T22:11:00Z",
          "source" : {
             "name" : "MarketWatch",
             "id" : null
-         },
-         "url" : "https://www.marketwatch.com/story/mall-owners-simon-brookfield-close-to-buying-j-c-penney-out-of-bankruptcy-11599689477"
+         }
       },
       {
-         "url" : "https://www.fool.com/investing/2020/09/09/why-peloton-stock-popped-today/",
-         "description" : "Analysts are growing increasingly bullish on the fitness equipment maker's growth potential.",
          "urlToImage" : "https://g.foolcdn.com/editorial/images/591184/buy-gettyimages-986757634.jpg",
-         "source" : {
-            "name" : "Motley Fool",
-            "id" : null
-         },
-         "publishedAt" : "2020-09-09T21:53:00Z",
          "author" : "Joe Tenebruso",
+         "description" : "Analysts are growing increasingly bullish on the fitness equipment maker's growth potential.",
+         "publishedAt" : "2020-09-09T21:53:00Z",
+         "source" : {
+            "id" : null,
+            "name" : "Motley Fool"
+         },
+         "url" : "https://www.fool.com/investing/2020/09/09/why-peloton-stock-popped-today/",
          "title" : "Why Peloton Stock Popped Today - Motley Fool",
          "content" : "What happened\r\nShares of PelotonInteractive(NASDAQ:PTON) rose 6.5% on Wednesday, following a series of analyst price-target hikes.\r\nSo what\r\nOn Tuesday, Peloton announced a new, lower-priced treadmil… [+1393 chars]"
       }
-   ]
+   ],
+   "status" : "ok"
 }
