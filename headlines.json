@@ -1,266 +1,266 @@
 {
-   "totalResults" : 70,
    "status" : "ok",
    "articles" : [
       {
-         "url" : "https://finance.yahoo.com/news/black-friday-shopping-like-we-all-know-it-is-officially-over-because-of-covid-19-173121320.html",
-         "urlToImage" : "https://s.yimg.com/uu/api/res/1.2/MEkUyeerHHXnOEu4.eyiSQ--~B/aD0yMTM2O3c9MzIwMDtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-images/2019-11/2f8e7110-0cf0-11ea-bff7-c49be0f5f7f9",
-         "description" : "Say goodbye to Black Friday.",
-         "title" : "Black Friday shopping like we all know it is officially over because of COVID-19 - Yahoo Finance",
          "content" : "Enjoy your fresh roasted turkey on Thanksgiving and morning-after, leftover bird on whole wheat bread this year because Black Friday will be virtually non-existent.\r\nWhile the tradition of insane cro… [+3889 chars]",
          "author" : "Brian Sozzi",
          "source" : {
-            "id" : null,
-            "name" : "Yahoo Entertainment"
+            "name" : "Yahoo Entertainment",
+            "id" : null
          },
-         "publishedAt" : "2020-09-10T17:31:00Z"
+         "urlToImage" : "https://s.yimg.com/uu/api/res/1.2/MEkUyeerHHXnOEu4.eyiSQ--~B/aD0yMTM2O3c9MzIwMDtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-images/2019-11/2f8e7110-0cf0-11ea-bff7-c49be0f5f7f9",
+         "publishedAt" : "2020-09-10T17:31:00Z",
+         "title" : "Black Friday shopping like we all know it is officially over because of COVID-19 - Yahoo Finance",
+         "url" : "https://finance.yahoo.com/news/black-friday-shopping-like-we-all-know-it-is-officially-over-because-of-covid-19-173121320.html",
+         "description" : "Say goodbye to Black Friday."
       },
       {
          "author" : "Wayne Duggan",
-         "publishedAt" : "2020-09-10T17:30:19Z",
+         "content" : "Tesla Inc (NASDAQ: TSLA) shares recovered more of their losses on Thursday after the stock logged its worst day in history to open the week. Tesla shares dropped more than 21% on Tuesday due to S&amp… [+3066 chars]",
          "source" : {
-            "name" : "Benzinga",
-            "id" : null
+            "id" : null,
+            "name" : "Benzinga"
          },
+         "title" : "Analyst: S&P Passed On Tesla Because It's 'Profoundly Overvalued' - Benzinga",
+         "publishedAt" : "2020-09-10T17:30:19Z",
          "urlToImage" : "https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/images/story/2012/tesla-1738969_1920_25.jpg",
          "description" : "Tesla Inc (NASDAQ: TSLA) shares recovered more of their losses on Thursday after the stock logged its worst day in history to open the week. Tesla shares ...",
-         "title" : "Analyst: S&P Passed On Tesla Because It's 'Profoundly Overvalued' - Benzinga",
-         "url" : "https://www.benzinga.com/analyst-ratings/analyst-color/20/09/17455756/analyst-s-p-passed-on-tesla-because-its-profoundly-overvalued",
-         "content" : "Tesla Inc (NASDAQ: TSLA) shares recovered more of their losses on Thursday after the stock logged its worst day in history to open the week. Tesla shares dropped more than 21% on Tuesday due to S&amp… [+3066 chars]"
+         "url" : "https://www.benzinga.com/analyst-ratings/analyst-color/20/09/17455756/analyst-s-p-passed-on-tesla-because-its-profoundly-overvalued"
       },
       {
-         "content" : null,
-         "url" : "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9WXdyZFc1Q1AyeTTSAQA?oc=5",
+         "publishedAt" : "2020-09-10T17:25:06Z",
          "urlToImage" : null,
          "title" : "Netflix CEO Reed Hastings: Marriage counseling showed me I was a 'systematic liar' - CNN",
+         "url" : "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9WXdyZFc1Q1AyeTTSAQA?oc=5",
          "description" : null,
+         "content" : null,
+         "author" : null,
          "source" : {
             "id" : "google-news",
             "name" : "Google News"
-         },
-         "publishedAt" : "2020-09-10T17:25:06Z",
-         "author" : null
-      },
-      {
-         "content" : "The Department of Justice has charged 57 people since May with trying to steal more than $175 million from a federal rescue program designed to avert mass layoffs and keep small businesses afloat dur… [+2720 chars]",
-         "url" : "https://www.foxbusiness.com/economy/justice-department-paycheck-protection-program-fraud-charges",
-         "description" : "The Department of Justice has charged 57 people since May with trying to steal more than $175 million from the Paycheck Protection Program.",
-         "title" : "Feds ramp up probe into PPP fraud, charge 57 people with trying to steal $175M - Fox Business",
-         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/09/0/0/PPP-fraud-iStock.jpg?ve=1&tl=1",
-         "source" : {
-            "name" : "Fox Business",
-            "id" : null
-         },
-         "publishedAt" : "2020-09-10T16:58:54Z",
-         "author" : "Megan Henney"
-      },
-      {
-         "urlToImage" : "https://9to5mac.com/wp-content/uploads/sites/6/2020/07/Apple-Card-coming-to-the-UK.jpg?quality=82&strip=all",
-         "description" : "Apple Card has been available for just over a year now and looking back over the last 13 months, a new report highlights several aspects Apple and Goldman Sachs have nailed. However, that doesn’t mean there aren’t some areas ripe for improvement. An Apple Car…",
-         "title" : "Four wins and three misses for Apple Card in year one - 9to5Mac",
-         "url" : "https://9to5mac.com/2020/09/10/apple-card/",
-         "content" : "Apple Card has been available for just over a year now and looking back over the last 13 months, a new report highlights several aspects Apple and Goldman Sachs have nailed. However, that doesn’t mea… [+6154 chars]",
-         "author" : null,
-         "publishedAt" : "2020-09-10T16:57:00Z",
-         "source" : {
-            "name" : "9to5Mac",
-            "id" : null
          }
       },
       {
-         "url" : "https://www.keloland.com/keloland-com-original/smithfield-foods-fined-by-osha/",
-         "urlToImage" : "https://www.keloland.com/wp-content/uploads/sites/103/2020/04/49d7430a650d43c5a624aff3574fe0c8.jpg?w=1280",
-         "title" : "Smithfield Foods fined by OSHA - KELOLAND.com",
-         "description" : "SIOUX FALLS, S.D. (KELO) — The Smithfield Foods plant in Sioux Falls, which in April became the top coronavirus hotspot in America, has been fined by the U.S. Department of Labor.",
+         "source" : {
+            "id" : null,
+            "name" : "Fox Business"
+         },
+         "author" : "Megan Henney",
+         "content" : "The Department of Justice has charged 57 people since May with trying to steal more than $175 million from a federal rescue program designed to avert mass layoffs and keep small businesses afloat dur… [+2720 chars]",
+         "description" : "The Department of Justice has charged 57 people since May with trying to steal more than $175 million from the Paycheck Protection Program.",
+         "url" : "https://www.foxbusiness.com/economy/justice-department-paycheck-protection-program-fraud-charges",
+         "title" : "Feds ramp up probe into PPP fraud, charge 57 people with trying to steal $175M - Fox Business",
+         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/09/0/0/PPP-fraud-iStock.jpg?ve=1&tl=1",
+         "publishedAt" : "2020-09-10T16:58:54Z"
+      },
+      {
+         "author" : null,
+         "content" : "Apple Card has been available for just over a year now and looking back over the last 13 months, a new report highlights several aspects Apple and Goldman Sachs have nailed. However, that doesn’t mea… [+6154 chars]",
+         "source" : {
+            "name" : "9to5Mac",
+            "id" : null
+         },
+         "title" : "Four wins and three misses for Apple Card in year one - 9to5Mac",
+         "urlToImage" : "https://9to5mac.com/wp-content/uploads/sites/6/2020/07/Apple-Card-coming-to-the-UK.jpg?quality=82&strip=all",
+         "publishedAt" : "2020-09-10T16:57:00Z",
+         "description" : "Apple Card has been available for just over a year now and looking back over the last 13 months, a new report highlights several aspects Apple and Goldman Sachs have nailed. However, that doesn’t mean there aren’t some areas ripe for improvement. An Apple Car…",
+         "url" : "https://9to5mac.com/2020/09/10/apple-card/"
+      },
+      {
          "content" : "SIOUX FALLS, S.D. (KELO) — The Smithfield Foods plant in Sioux Falls, which in April became the top coronavirus hotspot in America, has been fined by the U.S. Department of Labor. \r\nThe Occupational … [+1504 chars]",
          "author" : "KELOLAND News",
          "source" : {
-            "id" : null,
-            "name" : "KELOLAND.com"
+            "name" : "KELOLAND.com",
+            "id" : null
          },
-         "publishedAt" : "2020-09-10T16:33:00Z"
+         "publishedAt" : "2020-09-10T16:33:00Z",
+         "urlToImage" : "https://www.keloland.com/wp-content/uploads/sites/103/2020/04/49d7430a650d43c5a624aff3574fe0c8.jpg?w=1280",
+         "title" : "Smithfield Foods fined by OSHA - KELOLAND.com",
+         "url" : "https://www.keloland.com/keloland-com-original/smithfield-foods-fined-by-osha/",
+         "description" : "SIOUX FALLS, S.D. (KELO) — The Smithfield Foods plant in Sioux Falls, which in April became the top coronavirus hotspot in America, has been fined by the U.S. Department of Labor."
       },
       {
-         "content" : "59 with 31 posters participating, including story author\r\n<ul><li>\r\n Maserati has high hopes for its new supercar, the MC20. \r\n</li><li>\r\n In time, there will be a battery-electric version of the MC2… [+4553 chars]",
+         "description" : "Hybrid and even battery versions may come, but first, twin combustion engines.",
          "url" : "https://arstechnica.com/cars/2020/09/maseratis-new-mc20-supercar-uses-f1-engine-efficiency-technology/",
          "title" : "Maserati’s new MC20 supercar uses F1 engine efficiency technology - Ars Technica",
-         "description" : "Hybrid and even battery versions may come, but first, twin combustion engines.",
+         "publishedAt" : "2020-09-10T16:00:00Z",
          "urlToImage" : "https://cdn.arstechnica.net/wp-content/uploads/2020/09/Large-16861-MaseratiMC20-760x380.png",
          "source" : {
             "name" : "Ars Technica",
             "id" : "ars-technica"
          },
-         "publishedAt" : "2020-09-10T16:00:00Z",
-         "author" : "Jonathan M. Gitlin"
+         "author" : "Jonathan M. Gitlin",
+         "content" : "59 with 31 posters participating, including story author\r\n<ul><li>\r\n Maserati has high hopes for its new supercar, the MC20. \r\n</li><li>\r\n In time, there will be a battery-electric version of the MC2… [+4553 chars]"
       },
       {
-         "urlToImage" : "https://cdn.arstechnica.net/wp-content/uploads/2020/09/GettyImages-92011247-760x380.jpg",
-         "title" : "Console options without disc drives could be GameStop’s final death knell - Ars Technica",
          "description" : "Or: What would happen if Tower Records tried to sell iPods?",
          "url" : "https://arstechnica.com/gaming/2020/09/console-options-without-disc-drives-could-be-gamestops-final-death-knell/",
-         "content" : "Enlarge/ Seems like an extreme reaction to buying a console without a disc drive, but OK...\r\n55 with 40 posters participating, including story author\r\nThe latest quarterly earnings report from GameSt… [+5875 chars]",
-         "author" : "Kyle Orland",
+         "title" : "Console options without disc drives could be GameStop’s final death knell - Ars Technica",
+         "urlToImage" : "https://cdn.arstechnica.net/wp-content/uploads/2020/09/GettyImages-92011247-760x380.jpg",
          "publishedAt" : "2020-09-10T15:50:00Z",
          "source" : {
             "name" : "Ars Technica",
             "id" : "ars-technica"
-         }
+         },
+         "author" : "Kyle Orland",
+         "content" : "Enlarge/ Seems like an extreme reaction to buying a console without a disc drive, but OK...\r\n55 with 40 posters participating, including story author\r\nThe latest quarterly earnings report from GameSt… [+5875 chars]"
       },
       {
-         "description" : "Plans for big warehouses and driverless delivery weren’t ready when the pandemic supercharged online demand",
+         "author" : "Jaewon Kang",
+         "content" : "Kroger Co. has spent yearsand hundreds of millions of dollarsinvesting in technology to give it a digital edge in the grocery business. But when the coronavirus changed customers buying habits overni… [+328 chars]",
+         "source" : {
+            "id" : "the-wall-street-journal",
+            "name" : "The Wall Street Journal"
+         },
          "title" : "Kroger Spent Heavily on Tech, but Grocery Delivery Is Still a Struggle - The Wall Street Journal",
          "urlToImage" : "https://images.wsj.net/im-228277/social",
-         "url" : "https://www.wsj.com/articles/krogers-tech-bets-fell-short-during-coronavirus-11599736720",
-         "content" : "Kroger Co. has spent yearsand hundreds of millions of dollarsinvesting in technology to give it a digital edge in the grocery business. But when the coronavirus changed customers buying habits overni… [+328 chars]",
-         "author" : "Jaewon Kang",
          "publishedAt" : "2020-09-10T15:48:00Z",
-         "source" : {
-            "name" : "The Wall Street Journal",
-            "id" : "the-wall-street-journal"
-         }
+         "description" : "Plans for big warehouses and driverless delivery weren’t ready when the pandemic supercharged online demand",
+         "url" : "https://www.wsj.com/articles/krogers-tech-bets-fell-short-during-coronavirus-11599736720"
       },
       {
+         "content" : "Nikola founder and executive chairman Trevor Milton.\r\nMassimo Pinca/Reuters\r\n<ul><li>Nikola plummeted on Thursday after a short-seller report from Hindenburg Research alleged that the company and CEO… [+3560 chars]",
          "author" : "Matthew Fox",
-         "publishedAt" : "2020-09-10T15:46:32Z",
          "source" : {
             "id" : "business-insider",
             "name" : "Business Insider"
          },
-         "title" : "Nikola plummets 13% after short-seller report alleges years of deception and false statements made by CEO | Markets - Business Insider",
-         "description" : "Nikola plummets 13% after short-seller report alleges years of deception and false statements made by CEO",
+         "publishedAt" : "2020-09-10T15:46:32Z",
          "urlToImage" : "https://i.insider.com/5f5a31237ed0ee001e25e731?format=jpeg",
+         "title" : "Nikola plummets 13% after short-seller report alleges years of deception and false statements made by CEO | Markets - Business Insider",
          "url" : "https://www.businessinsider.com/nikola-stock-price-short-seller-report-alleges-years-deception-hindenburg-2020-9",
-         "content" : "Nikola founder and executive chairman Trevor Milton.\r\nMassimo Pinca/Reuters\r\n<ul><li>Nikola plummeted on Thursday after a short-seller report from Hindenburg Research alleged that the company and CEO… [+3560 chars]"
+         "description" : "Nikola plummets 13% after short-seller report alleges years of deception and false statements made by CEO"
       },
       {
-         "content" : "Mall owners Simon Property Group and Brookfield Property Partners are close to striking a deal to buy J.C. Penney out of bankruptcy. Meanwhile department store Century 21 filed for bankruptcy. Yahoo … [+44 chars]",
-         "title" : "Retail shake-up: Century 21 files for bankruptcy, J.C. Penney's potential buyer - Yahoo Finance",
-         "description" : "Mall owners Simon Property Group and Brookfield Property Partners are close to striking a deal to buy J.C. Penney out of bankruptcy. Meanwhile department store Century 21 filed for bankruptcy. Yahoo Finance’s On The Move panel share the details.",
-         "urlToImage" : "https://s.yimg.com/uu/api/res/1.2/iQIcGkY2aGbSsck7nt8uTg--~B/aD0zMzgyO3c9NjAwMDtzbT0xO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/hd/cp-video-transcode/prod/2020-09/10/5f5a4824353d374b9d8ecdb9/5f5a4824353d374b9d8ecdba_o_U_v2.jpg",
-         "url" : "https://finance.yahoo.com/video/retail-shake-century-21-files-153708093.html",
          "publishedAt" : "2020-09-10T15:37:00Z",
+         "urlToImage" : "https://s.yimg.com/uu/api/res/1.2/iQIcGkY2aGbSsck7nt8uTg--~B/aD0zMzgyO3c9NjAwMDtzbT0xO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/hd/cp-video-transcode/prod/2020-09/10/5f5a4824353d374b9d8ecdb9/5f5a4824353d374b9d8ecdba_o_U_v2.jpg",
+         "title" : "Retail shake-up: Century 21 files for bankruptcy, J.C. Penney's potential buyer - Yahoo Finance",
+         "url" : "https://finance.yahoo.com/video/retail-shake-century-21-files-153708093.html",
+         "description" : "Mall owners Simon Property Group and Brookfield Property Partners are close to striking a deal to buy J.C. Penney out of bankruptcy. Meanwhile department store Century 21 filed for bankruptcy. Yahoo Finance’s On The Move panel share the details.",
+         "content" : "Mall owners Simon Property Group and Brookfield Property Partners are close to striking a deal to buy J.C. Penney out of bankruptcy. Meanwhile department store Century 21 filed for bankruptcy. Yahoo … [+44 chars]",
+         "author" : "Yahoo Finance Video",
          "source" : {
             "name" : "Yahoo Entertainment",
             "id" : null
-         },
-         "author" : "Yahoo Finance Video"
+         }
       },
       {
          "author" : "Robert Frank",
+         "content" : "Sotheby's is set to auction off a 102-carat diamond that could become the most expensive jewel ever sold to an online bidder.\r\nThe stone, a 102.39-carat D Colour Flawless Oval Diamond, could fetch $1… [+2629 chars]",
          "source" : {
             "name" : "CNBC",
             "id" : null
          },
-         "publishedAt" : "2020-09-10T15:27:00Z",
-         "url" : "https://www.cnbc.com/2020/09/10/102-carat-perfect-diamond-may-set-record-at-sothebys-online-auction.html",
          "title" : "A 102-carat ‘perfect’ diamond could become the most expensive jewel ever sold to online bidder at Sotheby’s - CNBC",
-         "description" : "The stone, a 102.39-carat D Colour Flawless Oval Diamond, could fetch $10 million to $30 million. Only seven flawless white diamonds of more than 100 carats have ever been sold at auction.",
+         "publishedAt" : "2020-09-10T15:27:00Z",
          "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106697030-1599737243141-gettyimages-1228434253-urn_newsml_dpa_com_20090101_200910-99-504088-2.jpeg?v=1599737320",
-         "content" : "Sotheby's is set to auction off a 102-carat diamond that could become the most expensive jewel ever sold to an online bidder.\r\nThe stone, a 102.39-carat D Colour Flawless Oval Diamond, could fetch $1… [+2629 chars]"
+         "description" : "The stone, a 102.39-carat D Colour Flawless Oval Diamond, could fetch $10 million to $30 million. Only seven flawless white diamonds of more than 100 carats have ever been sold at auction.",
+         "url" : "https://www.cnbc.com/2020/09/10/102-carat-perfect-diamond-may-set-record-at-sothebys-online-auction.html"
       },
       {
-         "publishedAt" : "2020-09-10T15:24:10Z",
-         "source" : {
-            "name" : "Motley Fool",
-            "id" : null
-         },
-         "author" : "John Rosevear",
          "content" : "Lucid Motors said that its Air sedan will be offered with over 1,000 horsepower and range of more than 500 miles when it goes into production in Arizona next spring. \r\nThe company revealed the produc… [+1711 chars]",
-         "description" : "The top-of-the-line Lucid Air will have over 1,000 horsepower when it ships next spring.",
-         "title" : "Lucid Motors' Electric Super Sedan Will Bring Tesla-Beating Power to Market Next Spring - Motley Fool",
+         "author" : "John Rosevear",
+         "source" : {
+            "id" : null,
+            "name" : "Motley Fool"
+         },
+         "publishedAt" : "2020-09-10T15:24:10Z",
          "urlToImage" : "https://g.foolcdn.com/editorial/images/591266/2021-lucid-air.jpg",
-         "url" : "https://www.fool.com/investing/2020/09/10/lucid-motors-electric-super-sedan-will-bring-tesla/"
+         "title" : "Lucid Motors' Electric Super Sedan Will Bring Tesla-Beating Power to Market Next Spring - Motley Fool",
+         "url" : "https://www.fool.com/investing/2020/09/10/lucid-motors-electric-super-sedan-will-bring-tesla/",
+         "description" : "The top-of-the-line Lucid Air will have over 1,000 horsepower when it ships next spring."
       },
       {
-         "author" : "Danielle Wiener-Bronner, CNN Business",
+         "description" : "Scientists have pointed to beef as one major culprit in climate change. But that doesn't mean all burgers are created equal.",
+         "url" : "https://www.cnn.com/2020/09/10/business/meat-climate-change/index.html",
+         "title" : "Hamburgers are hard on the planet. These cattle ranchers are trying to change that - CNN",
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200904101400-01-stemple-creek-ranch-super-tease.jpg",
          "publishedAt" : "2020-09-10T15:18:00Z",
          "source" : {
             "name" : "CNN",
             "id" : "cnn"
          },
-         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200904101400-01-stemple-creek-ranch-super-tease.jpg",
-         "description" : "Scientists have pointed to beef as one major culprit in climate change. But that doesn't mean all burgers are created equal.",
-         "title" : "Hamburgers are hard on the planet. These cattle ranchers are trying to change that - CNN",
-         "url" : "https://www.cnn.com/2020/09/10/business/meat-climate-change/index.html",
+         "author" : "Danielle Wiener-Bronner, CNN Business",
          "content" : null
       },
       {
-         "content" : "The 2020 presidential election is just weeks away, and the next president could very well decide the fate of Social Security. \r\nWith this popular and important entitlement program at risk of running … [+4078 chars]",
-         "title" : "6 Changes Joe Biden's VP Pick Would Make to Social Security - The Motley Fool",
          "description" : "Your benefits could change if Senator Harris has the President's ear.",
-         "urlToImage" : "https://g.foolcdn.com/editorial/images/589172/white-house.jpg",
          "url" : "https://www.fool.com/retirement/2020/09/10/6-changes-joe-bidens-vp-pick-would-make-to-social/",
+         "title" : "6 Changes Joe Biden's VP Pick Would Make to Social Security - The Motley Fool",
          "publishedAt" : "2020-09-10T15:16:00Z",
-         "source" : {
-            "name" : "Motley Fool",
-            "id" : null
-         },
-         "author" : "Christy Bieber"
-      },
-      {
+         "urlToImage" : "https://g.foolcdn.com/editorial/images/589172/white-house.jpg",
          "source" : {
             "id" : null,
-            "name" : "New York Post"
+            "name" : "Motley Fool"
          },
-         "publishedAt" : "2020-09-10T15:09:00Z",
-         "author" : "Jackie Salo",
-         "content" : "A Canadian flight was canceled after a feud with a family over their young children not wearing masks on a flight.\r\nSafwan Choudhry said crew members approached the family on the WestJet flight Tuesd… [+1705 chars]",
-         "url" : "https://nypost.com/2020/09/10/flight-canceled-after-feud-about-toddler-not-wearing-face-mask/",
-         "urlToImage" : "https://nypost.com/wp-content/uploads/sites/2/2020/09/200910-westjet-flight-mask.jpg?quality=90&strip=all&w=1200",
-         "description" : "A Canadian flight was canceled after a feud with a family over their young children not wearing masks on a flight. Safwan Choudhry said crew members approached the family on the WestJet flight Tues…",
-         "title" : "Flight canceled after feud about toddler not wearing face mask - New York Post "
+         "author" : "Christy Bieber",
+         "content" : "The 2020 presidential election is just weeks away, and the next president could very well decide the fate of Social Security. \r\nWith this popular and important entitlement program at risk of running … [+4078 chars]"
       },
       {
-         "url" : "https://www.marketwatch.com/story/forget-value-vs-growth-were-in-a-quarantine-vs-recovery-paradigm-now-this-analyst-says-11599750206",
+         "description" : "A Canadian flight was canceled after a feud with a family over their young children not wearing masks on a flight. Safwan Choudhry said crew members approached the family on the WestJet flight Tues…",
+         "url" : "https://nypost.com/2020/09/10/flight-canceled-after-feud-about-toddler-not-wearing-face-mask/",
+         "title" : "Flight canceled after feud about toddler not wearing face mask - New York Post ",
+         "urlToImage" : "https://nypost.com/wp-content/uploads/sites/2/2020/09/200910-westjet-flight-mask.jpg?quality=90&strip=all&w=1200",
+         "publishedAt" : "2020-09-10T15:09:00Z",
+         "source" : {
+            "name" : "New York Post",
+            "id" : null
+         },
+         "author" : "Jackie Salo",
+         "content" : "A Canadian flight was canceled after a feud with a family over their young children not wearing masks on a flight.\r\nSafwan Choudhry said crew members approached the family on the WestJet flight Tuesd… [+1705 chars]"
+      },
+      {
+         "publishedAt" : "2020-09-10T15:03:00Z",
          "urlToImage" : "https://images.mktw.net/im-230581/social",
-         "description" : "Many stocks straddle multiple categories",
          "title" : "Forget value vs. growth. We're in a quarantine vs. recovery paradigm now, this analyst says - MarketWatch",
+         "url" : "https://www.marketwatch.com/story/forget-value-vs-growth-were-in-a-quarantine-vs-recovery-paradigm-now-this-analyst-says-11599750206",
+         "description" : "Many stocks straddle multiple categories",
          "content" : "If youve been struggling to make sense of markets in recent\r\nweeks, youre not alone. Investors seem to want to embrace a value tilt stocks that will do well as an economic recovery gathers steam but … [+1819 chars]",
          "author" : "Andrea Riquier",
          "source" : {
             "id" : null,
             "name" : "MarketWatch"
-         },
-         "publishedAt" : "2020-09-10T15:03:00Z"
+         }
       },
       {
          "url" : "https://nypost.com/2020/09/09/transverse-myelitis-the-illness-that-halted-astrazeneca-vaccine-trial/",
-         "urlToImage" : "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/astrazeneca.jpg",
          "description" : "The COVID-19 vaccine participant whose unexpected illness put the AstraZeneca trials on pause came down with an inflammatory syndrome known as transverse myelitis, according to a report.",
+         "urlToImage" : "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/astrazeneca.jpg",
+         "publishedAt" : "2020-09-10T14:41:40Z",
          "title" : "What is transverse myelitis? The illness that halted AstraZeneca vaccine trial - Fox News",
-         "content" : "The COVID-19 vaccine participant whose unexpected illness put the AstraZeneca trials on pause came down with an inflammatory syndrome known as transverse myelitis, according to a report.\r\nThe individ… [+1300 chars]",
-         "author" : "New York Post",
          "source" : {
-            "id" : null,
-            "name" : "New York Post"
+            "name" : "New York Post",
+            "id" : null
          },
-         "publishedAt" : "2020-09-10T14:41:40Z"
+         "content" : "The COVID-19 vaccine participant whose unexpected illness put the AstraZeneca trials on pause came down with an inflammatory syndrome known as transverse myelitis, according to a report.\r\nThe individ… [+1300 chars]",
+         "author" : "New York Post"
       },
       {
-         "url" : "https://nypost.com/2020/09/10/amazon-is-hosting-a-virtual-career-day-to-fill-33k-us-jobs-jobs/",
-         "urlToImage" : "https://nypost.com/wp-content/uploads/sites/2/2020/09/Amazon-Logo.jpg?quality=90&strip=all&w=1200",
-         "description" : "Shares of Amazon were up 1.3 percent Thursday morning, with the stock trading at $3,311.99.",
-         "title" : "Amazon hosting virtual Career Day to fill 33,000 US jobs - New York Post ",
-         "content" : "Amazon wants the whole country to know it’s hiring.\r\nThe e-commerce juggernaut is hosting a virtual career day next week with the goal of filling 33,000 corporate and tech jobs nationwide.\r\nAmazon tr… [+1264 chars]",
-         "author" : "Nicolas Vega",
          "source" : {
             "id" : null,
             "name" : "New York Post"
          },
-         "publishedAt" : "2020-09-10T14:18:00Z"
+         "author" : "Nicolas Vega",
+         "content" : "Amazon wants the whole country to know it’s hiring.\r\nThe e-commerce juggernaut is hosting a virtual career day next week with the goal of filling 33,000 corporate and tech jobs nationwide.\r\nAmazon tr… [+1264 chars]",
+         "description" : "Shares of Amazon were up 1.3 percent Thursday morning, with the stock trading at $3,311.99.",
+         "url" : "https://nypost.com/2020/09/10/amazon-is-hosting-a-virtual-career-day-to-fill-33k-us-jobs-jobs/",
+         "title" : "Amazon hosting virtual Career Day to fill 33,000 US jobs - New York Post ",
+         "publishedAt" : "2020-09-10T14:18:00Z",
+         "urlToImage" : "https://nypost.com/wp-content/uploads/sites/2/2020/09/Amazon-Logo.jpg?quality=90&strip=all&w=1200"
       },
       {
          "description" : "\"This is revolutionary and we can't deny it,\" CNBC's Jim Cramer said Thursday, praising the appointment that will make Fraser the first woman to lead a U.S. megabank.",
+         "url" : "https://www.cnbc.com/2020/09/10/cramer-banking-glass-ceiling-cracking-with-jane-fraser-next-citi-ceo.html",
          "title" : "Cramer says banking glass ceiling 'finally cracking' with Jane Fraser named as next Citi CEO - CNBC",
          "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106202395-1599747822930-106202395-1571953506227gettyimages-1140271268.jpg?v=1599747855",
-         "url" : "https://www.cnbc.com/2020/09/10/cramer-banking-glass-ceiling-cracking-with-jane-fraser-next-citi-ceo.html",
-         "content" : "CNBC's Jim Cramer on Thursday praised the appointment of Jane Fraser as the next chief executive officer of Citigroup, making her the first woman to lead a U.S. megabank. \r\n\"The glass ceiling in bank… [+2196 chars]",
-         "author" : "Kevin Stankiewicz",
          "publishedAt" : "2020-09-10T14:12:00Z",
          "source" : {
             "name" : "CNBC",
             "id" : null
-         }
+         },
+         "author" : "Kevin Stankiewicz",
+         "content" : "CNBC's Jim Cramer on Thursday praised the appointment of Jane Fraser as the next chief executive officer of Citigroup, making her the first woman to lead a U.S. megabank. \r\n\"The glass ceiling in bank… [+2196 chars]"
       }
-   ]
+   ],
+   "totalResults" : 70
 }
