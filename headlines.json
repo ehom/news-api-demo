@@ -1,266 +1,266 @@
 {
-   "status" : "ok",
    "totalResults" : 70,
+   "status" : "ok",
    "articles" : [
       {
-         "urlToImage" : "https://s4.reutersmedia.net/resources/r/?m=02&d=20200910&t=2&i=1532844277&w=1200&r=LYNXMPEG890C8",
          "source" : {
             "name" : "Reuters",
             "id" : "reuters"
          },
-         "content" : "NEW YORK (Reuters) - Some of Wall Street’s biggest players are viewing the stock market’s recent tech-led selloff as a bout of turbulence rather than the start of a longer slide and they don’t see it… [+3777 chars]",
-         "title" : "Wall Street sees a bright side in 'healthy' tech selloff - Reuters",
-         "description" : "Some of Wall Street’s biggest players are viewing the stock market's recent tech-led selloff as a bout of turbulence rather than the start of a longer slide -- and they don't see it as a reason to run for the door.",
-         "publishedAt" : "2020-09-10T05:04:00Z",
          "author" : "Lewis Krauskopf",
-         "url" : "https://www.reuters.com/article/us-usa-stocks-dip-analysis-idUSKBN2610L3"
+         "title" : "Wall Street sees a bright side in 'healthy' tech selloff - Reuters",
+         "publishedAt" : "2020-09-10T05:04:00Z",
+         "content" : "NEW YORK (Reuters) - Some of Wall Street’s biggest players are viewing the stock market’s recent tech-led selloff as a bout of turbulence rather than the start of a longer slide and they don’t see it… [+3777 chars]",
+         "description" : "Some of Wall Street’s biggest players are viewing the stock market's recent tech-led selloff as a bout of turbulence rather than the start of a longer slide -- and they don't see it as a reason to run for the door.",
+         "url" : "https://www.reuters.com/article/us-usa-stocks-dip-analysis-idUSKBN2610L3",
+         "urlToImage" : "https://s4.reutersmedia.net/resources/r/?m=02&d=20200910&t=2&i=1532844277&w=1200&r=LYNXMPEG890C8"
       },
       {
+         "publishedAt" : "2020-09-10T04:00:00Z",
+         "title" : "Manhattan rental market plunges, leaving 15,000 empty apartments in August - CNBC",
          "content" : "The number of empty rental apartments in Manhattan nearly tripled compared with last year, as more New Yorkers fled the city and prices declined.\r\nThere were more than 15,000 empty rental apartments … [+2324 chars]",
+         "description" : "Hopes for a rebound in the fall or the end of 2020 look increasingly unlikely. Although rental prices have come down, the discounts are not steep enough yet to lure new renters back to the city.",
+         "url" : "https://www.cnbc.com/2020/09/10/manhattan-rental-market-plunges-leaving-15000-empty-apartments.html",
          "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106695987-1599675173186-gettyimages-1267239891-nyfacesmassexodusleavingthecityduringcovid-19pandemic011.jpeg?v=1599675249",
          "source" : {
-            "id" : null,
-            "name" : "CNBC"
+            "name" : "CNBC",
+            "id" : null
          },
-         "url" : "https://www.cnbc.com/2020/09/10/manhattan-rental-market-plunges-leaving-15000-empty-apartments.html",
-         "author" : "Robert Frank",
-         "publishedAt" : "2020-09-10T04:00:00Z",
-         "description" : "Hopes for a rebound in the fall or the end of 2020 look increasingly unlikely. Although rental prices have come down, the discounts are not steep enough yet to lure new renters back to the city.",
-         "title" : "Manhattan rental market plunges, leaving 15,000 empty apartments in August - CNBC"
+         "author" : "Robert Frank"
       },
       {
          "source" : {
             "name" : "Google News",
             "id" : "google-news"
          },
+         "author" : null,
+         "title" : "Lucid Air unveiling in 10 minutes - Engadget",
+         "publishedAt" : "2020-09-10T03:58:09Z",
+         "url" : "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9Snd6T2xQQmhlTzDSAQA?oc=5",
          "urlToImage" : null,
          "content" : null,
-         "description" : null,
-         "title" : "Lucid Air unveiling in 10 minutes - Engadget",
-         "url" : "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9Snd6T2xQQmhlTzDSAQA?oc=5",
-         "author" : null,
-         "publishedAt" : "2020-09-10T03:58:09Z"
+         "description" : null
       },
       {
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/105110547-GettyImages-587165410.jpg?v=1599705940",
+         "url" : "https://www.cnbc.com/2020/09/10/yum-china-shares-start-trading-in-hong-kong-in-secondary-listing.html",
          "description" : "Yum China, which operates fast food restaurants KFC, Taco Bell and Pizza Hut in China, raised $2.22 billion by selling 41.9 million shares at 412 Hong Kong dollars ($53.16) apiece.",
+         "content" : "SINGAPORE Shares of Yum China began trading in Hong Kong on Thursday, but lost more than 4% in early trade.\r\nYum China, which operates fast food restaurants KFC, Taco Bell and Pizza Hut in China, rai… [+1501 chars]",
          "title" : "Yum China shares tumble more than 4% as it debuts in Hong Kong - CNBC",
          "publishedAt" : "2020-09-10T02:55:00Z",
-         "url" : "https://www.cnbc.com/2020/09/10/yum-china-shares-start-trading-in-hong-kong-in-secondary-listing.html",
          "author" : "Weizhen Tan",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/105110547-GettyImages-587165410.jpg?v=1599705940",
          "source" : {
-            "id" : null,
-            "name" : "CNBC"
-         },
-         "content" : "SINGAPORE Shares of Yum China began trading in Hong Kong on Thursday, but lost more than 4% in early trade.\r\nYum China, which operates fast food restaurants KFC, Taco Bell and Pizza Hut in China, rai… [+1501 chars]"
+            "name" : "CNBC",
+            "id" : null
+         }
       },
       {
-         "content" : "JP Morgan Chase &amp; Co. entered the green-bond world on Wednesday, offloading the banks first set of bonds specifically to fund projects with a sustainability bent.While the banking giant has arran… [+3701 chars]",
+         "title" : "JP Morgan enters green bond push with $1 billion debut debt deal - MarketWatch",
+         "publishedAt" : "2020-09-10T01:58:00Z",
+         "url" : "https://www.marketwatch.com/story/jp-morgan-enters-green-bond-push-with-1-billion-debut-debt-deal-11599703139",
          "urlToImage" : "https://images.mktw.net/im-230438/social",
+         "content" : "JP Morgan Chase &amp; Co. entered the green-bond world on Wednesday, offloading the banks first set of bonds specifically to fund projects with a sustainability bent.While the banking giant has arran… [+3701 chars]",
+         "description" : "Bond deal comes as U.S. grapples with climate change threats",
          "source" : {
             "name" : "MarketWatch",
             "id" : null
          },
-         "author" : "Joy Wiltermuth",
-         "url" : "https://www.marketwatch.com/story/jp-morgan-enters-green-bond-push-with-1-billion-debut-debt-deal-11599703139",
-         "publishedAt" : "2020-09-10T01:58:00Z",
-         "title" : "JP Morgan enters green bond push with $1 billion debut debt deal - MarketWatch",
-         "description" : "Bond deal comes as U.S. grapples with climate change threats"
+         "author" : "Joy Wiltermuth"
       },
       {
-         "publishedAt" : "2020-09-10T01:53:26Z",
          "url" : "https://www.hollywoodreporter.com/news/luxury-goods-giant-lvmh-cancels-14-5b-deal-for-tiffany",
-         "author" : "the Associated Press",
+         "urlToImage" : null,
+         "content" : "Luxury goods giant LVMH is ending its takeover deal of jewelry retailer Tiffany &amp; Co., saying the French government had requested a delay to assess the threat of proposed U.S. tariffs.\r\nWednesday… [+4925 chars]",
          "description" : "Wednesday's announcement came after the deal's value had been eroded by wider industry troubles caused by the coronavirus pandemic.",
          "title" : "Luxury Goods Giant LVMH Cancels $14.5B Deal for Tiffany - Hollywood Reporter",
-         "content" : "Luxury goods giant LVMH is ending its takeover deal of jewelry retailer Tiffany &amp; Co., saying the French government had requested a delay to assess the threat of proposed U.S. tariffs.\r\nWednesday… [+4925 chars]",
-         "urlToImage" : null,
+         "publishedAt" : "2020-09-10T01:53:26Z",
+         "author" : "the Associated Press",
          "source" : {
             "id" : null,
             "name" : "Hollywood Reporter"
          }
       },
       {
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200909181304-gym-weights-0513-super-tease.jpg",
          "url" : "https://www.cnn.com/2020/09/09/business/nyc-fitness-studios-lawsuit-gym-reopening/index.html",
-         "author" : "Chauncey Alcorn CNN Business",
-         "publishedAt" : "2020-09-10T01:10:00Z",
          "description" : "The owners of hundreds of New York City indoor fitness studios are suing Mayor Bill de Blasio for barring them from reopening their businesses along with the rest of the city's gyms last week.",
-         "title" : "Fitness studio owners sue New York City for barring them from reopening with other gyms - CNN",
          "content" : null,
+         "publishedAt" : "2020-09-10T01:10:00Z",
+         "title" : "Fitness studio owners sue New York City for barring them from reopening with other gyms - CNN",
+         "author" : "Chauncey Alcorn CNN Business",
          "source" : {
-            "name" : "CNN",
-            "id" : "cnn"
-         },
-         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200909181304-gym-weights-0513-super-tease.jpg"
+            "id" : "cnn",
+            "name" : "CNN"
+         }
       },
       {
+         "title" : "Portland passes broadest facial recognition ban in the US - CNN",
+         "publishedAt" : "2020-09-10T00:06:00Z",
+         "content" : "(CNN Business)The city of Portland, Oregon, on Wednesday banned the use of facial-recognition technology by city departments including local police as well as public-facing businesses such as stores,… [+3058 chars]",
+         "description" : "The city of Portland, Oregon, on Wednesday banned the use of facial-recognition technology by city departments — including local police — as well as public-facing businesses such as stores, restaurants and hotels.",
+         "url" : "https://www.cnn.com/2020/09/09/tech/portland-facial-recognition-ban/index.html",
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200909180807-security-camera-stock-super-tease.jpg",
          "source" : {
             "id" : "cnn",
             "name" : "CNN"
          },
-         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200909180807-security-camera-stock-super-tease.jpg",
-         "content" : "(CNN Business)The city of Portland, Oregon, on Wednesday banned the use of facial-recognition technology by city departments including local police as well as public-facing businesses such as stores,… [+3058 chars]",
-         "description" : "The city of Portland, Oregon, on Wednesday banned the use of facial-recognition technology by city departments — including local police — as well as public-facing businesses such as stores, restaurants and hotels.",
-         "title" : "Portland passes broadest facial recognition ban in the US - CNN",
-         "publishedAt" : "2020-09-10T00:06:00Z",
-         "url" : "https://www.cnn.com/2020/09/09/tech/portland-facial-recognition-ban/index.html",
          "author" : "Rachel Metz, CNN Business"
       },
       {
-         "content" : "Keep abreast of significant corporate, financial and political developments around the world.\r\nStay informed and spot emerging risks and opportunities with independent global reporting, expert\r\ncomme… [+32 chars]",
          "source" : {
-            "id" : "financial-times",
-            "name" : "Financial Times"
+            "name" : "Financial Times",
+            "id" : "financial-times"
          },
+         "author" : "Laura Noonan",
+         "title" : "JPMorgan fires employees who took Covid relief funds - Financial Times",
+         "publishedAt" : "2020-09-09T23:33:00Z",
          "urlToImage" : null,
          "url" : "https://www.ft.com/content/31705aaf-af08-42ce-8b2e-5d56901cdb9c",
-         "author" : "Laura Noonan",
-         "publishedAt" : "2020-09-09T23:33:00Z",
          "description" : "News, analysis and comment from the Financial Times, the worldʼs leading global business publication",
-         "title" : "JPMorgan fires employees who took Covid relief funds - Financial Times"
+         "content" : "Keep abreast of significant corporate, financial and political developments around the world.\r\nStay informed and spot emerging risks and opportunities with independent global reporting, expert\r\ncomme… [+32 chars]"
       },
       {
-         "author" : "Alexis Benveniste, CNN Business",
-         "url" : "https://www.cnn.com/2020/09/09/tech/amazon-career-day/index.html",
-         "publishedAt" : "2020-09-09T23:06:00Z",
-         "title" : "Amazon is hiring 33,000 new employees with an average compensation package worth $150,000 - CNN",
-         "description" : "Amazon announced it will hold a Career Day on September 16 that is open to everyone seeking a job.",
-         "content" : null,
          "source" : {
             "id" : "cnn",
             "name" : "CNN"
          },
-         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/180918163055-amazon-office-seattle-super-tease.jpg"
+         "author" : "Alexis Benveniste, CNN Business",
+         "title" : "Amazon is hiring 33,000 new employees with an average compensation package worth $150,000 - CNN",
+         "publishedAt" : "2020-09-09T23:06:00Z",
+         "url" : "https://www.cnn.com/2020/09/09/tech/amazon-career-day/index.html",
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/180918163055-amazon-office-seattle-super-tease.jpg",
+         "content" : null,
+         "description" : "Amazon announced it will hold a Career Day on September 16 that is open to everyone seeking a job."
       },
       {
-         "publishedAt" : "2020-09-09T23:01:09Z",
-         "url" : "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9UVdsSGhZZS11MG_SAQA?oc=5",
-         "author" : null,
-         "description" : null,
-         "title" : "Jim Cramer: Charts show the bull run may be 'getting long in the tooth' - CNBC Television",
          "content" : null,
+         "description" : null,
+         "url" : "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9UVdsSGhZZS11MG_SAQA?oc=5",
+         "urlToImage" : null,
+         "title" : "Jim Cramer: Charts show the bull run may be 'getting long in the tooth' - CNBC Television",
+         "publishedAt" : "2020-09-09T23:01:09Z",
+         "author" : null,
+         "source" : {
+            "name" : "Google News",
+            "id" : "google-news"
+         }
+      },
+      {
+         "author" : "editor@purewow.com (PureWow)",
+         "source" : {
+            "name" : "Yahoo Entertainment",
+            "id" : null
+         },
+         "description" : "Whether slow-cooked , roasted ,...",
+         "content" : "Whether slow-cooked, roasted, fried or grilled, we love tucking into a chicken dinner. This protein-rich ingredient is inexpensive, versatile and always satisfying. Best of all, you dont need to poss… [+4514 chars]",
+         "urlToImage" : "https://s.yimg.com/uu/api/res/1.2/lABd5etr2xEahFKSR8CTLg--~B/aD01MjQ7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en-us/purewow_185/cf3d761f95ebf051ec168b67598df1c5",
+         "url" : "https://www.yahoo.com/lifestyle/long-cooked-chicken-stay-fridge-230000925.html",
+         "publishedAt" : "2020-09-09T23:00:00Z",
+         "title" : "How Long Can Cooked Chicken Stay in the Fridge? (Hint: Not as Long as You Think) - Yahoo Lifestyle"
+      },
+      {
+         "publishedAt" : "2020-09-09T22:37:48Z",
+         "title" : "AstraZeneca coronavirus vaccine trial pause 'a good thing': Dr. Bob Lahita - Fox News",
+         "content" : "AstraZeneca's decision to pause its global trials of a COVID-19 vaccine candidate over safety concerns should reassure skeptical Americans that \"they are looking very carefully at everybody who is ge… [+1805 chars]",
+         "description" : "AstraZeneca's decision to pause its global trials of a COVID-19 vaccine candidate over safety concerns should reassure skeptical Americans that \"they are looking very carefully at everybody who is getting the vaccine,\" New York Medical College Professor Dr. B…",
+         "url" : "https://www.foxnews.com/health/astrazeneca-coronavirus-vaccine-pause-dr-bob-lahita",
+         "urlToImage" : "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/AstraZeneca-Vaccine-iStock.jpg",
+         "source" : {
+            "name" : "Fox News",
+            "id" : "fox-news"
+         },
+         "author" : "Yael Halon"
+      },
+      {
+         "author" : null,
          "source" : {
             "name" : "Google News",
             "id" : "google-news"
          },
-         "urlToImage" : null
-      },
-      {
-         "publishedAt" : "2020-09-09T23:00:00Z",
-         "url" : "https://www.yahoo.com/lifestyle/long-cooked-chicken-stay-fridge-230000925.html",
-         "author" : "editor@purewow.com (PureWow)",
-         "description" : "Whether slow-cooked , roasted ,...",
-         "title" : "How Long Can Cooked Chicken Stay in the Fridge? (Hint: Not as Long as You Think) - Yahoo Lifestyle",
-         "content" : "Whether slow-cooked, roasted, fried or grilled, we love tucking into a chicken dinner. This protein-rich ingredient is inexpensive, versatile and always satisfying. Best of all, you dont need to poss… [+4514 chars]",
-         "urlToImage" : "https://s.yimg.com/uu/api/res/1.2/lABd5etr2xEahFKSR8CTLg--~B/aD01MjQ7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en-us/purewow_185/cf3d761f95ebf051ec168b67598df1c5",
-         "source" : {
-            "id" : null,
-            "name" : "Yahoo Entertainment"
-         }
-      },
-      {
-         "content" : "AstraZeneca's decision to pause its global trials of a COVID-19 vaccine candidate over safety concerns should reassure skeptical Americans that \"they are looking very carefully at everybody who is ge… [+1805 chars]",
-         "source" : {
-            "id" : "fox-news",
-            "name" : "Fox News"
-         },
-         "urlToImage" : "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/AstraZeneca-Vaccine-iStock.jpg",
-         "author" : "Yael Halon",
-         "url" : "https://www.foxnews.com/health/astrazeneca-coronavirus-vaccine-pause-dr-bob-lahita",
-         "publishedAt" : "2020-09-09T22:37:48Z",
-         "title" : "AstraZeneca coronavirus vaccine trial pause 'a good thing': Dr. Bob Lahita - Fox News",
-         "description" : "AstraZeneca's decision to pause its global trials of a COVID-19 vaccine candidate over safety concerns should reassure skeptical Americans that \"they are looking very carefully at everybody who is getting the vaccine,\" New York Medical College Professor Dr. B…"
-      },
-      {
-         "publishedAt" : "2020-09-09T22:32:05Z",
          "url" : "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9WFg1MWFfWHpqOXfSAQA?oc=5",
-         "author" : null,
+         "urlToImage" : null,
+         "content" : null,
          "description" : null,
          "title" : "Tesla Giga Press at Fremont Begins Making Model Y Parts with 3 Advantages - Torque News",
-         "content" : null,
-         "urlToImage" : null,
-         "source" : {
-            "id" : "google-news",
-            "name" : "Google News"
-         }
+         "publishedAt" : "2020-09-09T22:32:05Z"
       },
       {
          "source" : {
             "id" : null,
             "name" : "Yahoo Entertainment"
          },
-         "urlToImage" : "https://s.yimg.com/uu/api/res/1.2/9qF7AKqtMCFWFg92q5XCZA--~B/aD0zODQwO3c9NTc2MDtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2020-09/3943b8b0-f2ea-11ea-9de7-e1b5f8d6ea7d",
-         "content" : "Stock futures were little changed Wednesday evening, as investors assessed the regular-session rally and an at least temporary resurgence in technology shares.\r\nThe tech stocks pummeled over the past… [+2875 chars]",
-         "description" : "Stock futures were little changed Wednesday evening, as investors assessed the regular-session rally and an at least temporary resurgence in technology shares.",
+         "author" : "Emily McCormick",
          "title" : "Stock market news live updates: Stock futures hug the flat line, steadying after rebound rally - Yahoo Finance",
          "publishedAt" : "2020-09-09T22:23:00Z",
+         "urlToImage" : "https://s.yimg.com/uu/api/res/1.2/9qF7AKqtMCFWFg92q5XCZA--~B/aD0zODQwO3c9NTc2MDtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2020-09/3943b8b0-f2ea-11ea-9de7-e1b5f8d6ea7d",
          "url" : "https://finance.yahoo.com/news/stock-market-news-live-september-10-2020-222314022.html",
-         "author" : "Emily McCormick"
+         "description" : "Stock futures were little changed Wednesday evening, as investors assessed the regular-session rally and an at least temporary resurgence in technology shares.",
+         "content" : "Stock futures were little changed Wednesday evening, as investors assessed the regular-session rally and an at least temporary resurgence in technology shares.\r\nThe tech stocks pummeled over the past… [+2875 chars]"
       },
       {
+         "author" : "Ari Levy",
          "source" : {
             "name" : "CNBC",
             "id" : null
          },
          "urlToImage" : "https://image.cnbcfm.com/api/v1/image/104303936-GettyImages-479828890.jpg?v=1532563904",
+         "url" : "https://www.cnbc.com/2020/09/09/palantir-valued-at-about-10point5-billion-ahead-of-direct-listing.html",
+         "description" : "In updated prospectus on Wednesday, Palantir said it has 1.64 billion shares outstanding as of Sept. 1, which indicates a valuation of about $10.5 billion.",
          "content" : "Alexander Karp, CEO of Palantir Technologies Inc.\r\nAs Palantir gears up for its stock market debut, the company has a long way to go to convince potential shareholders that it's worth the $20 billion… [+5000 chars]",
          "title" : "Palantir is being valued around $10.5 billion ahead of direct listing as investors question growth story - CNBC",
-         "description" : "In updated prospectus on Wednesday, Palantir said it has 1.64 billion shares outstanding as of Sept. 1, which indicates a valuation of about $10.5 billion.",
-         "publishedAt" : "2020-09-09T22:12:00Z",
-         "author" : "Ari Levy",
-         "url" : "https://www.cnbc.com/2020/09/09/palantir-valued-at-about-10point5-billion-ahead-of-direct-listing.html"
+         "publishedAt" : "2020-09-09T22:12:00Z"
       },
       {
-         "title" : "Mall owners Simon, Brookfield close to buying J.C. Penney out of bankruptcy - MarketWatch",
+         "url" : "https://www.marketwatch.com/story/mall-owners-simon-brookfield-close-to-buying-j-c-penney-out-of-bankruptcy-11599689477",
+         "urlToImage" : "https://images.mktw.net/im-230343/social",
+         "content" : "NEW YORK Mall owners Simon Property Group and Brookfield Property Partners are close to a deal to buy department store chain J.C. Penney out of bankruptcy and keep the chain running. Penneys lawyer J… [+2083 chars]",
          "description" : "Deal would keep retail chain operating, have enterprise value of $1.75 billion",
+         "title" : "Mall owners Simon, Brookfield close to buying J.C. Penney out of bankruptcy - MarketWatch",
          "publishedAt" : "2020-09-09T22:11:00Z",
          "author" : "Associated Press",
-         "url" : "https://www.marketwatch.com/story/mall-owners-simon-brookfield-close-to-buying-j-c-penney-out-of-bankruptcy-11599689477",
          "source" : {
-            "id" : null,
-            "name" : "MarketWatch"
-         },
-         "urlToImage" : "https://images.mktw.net/im-230343/social",
-         "content" : "NEW YORK Mall owners Simon Property Group and Brookfield Property Partners are close to a deal to buy department store chain J.C. Penney out of bankruptcy and keep the chain running. Penneys lawyer J… [+2083 chars]"
+            "name" : "MarketWatch",
+            "id" : null
+         }
       },
       {
-         "content" : "FRANKFURT (Reuters) - The European Central Bank is all but certain to keep policy unchanged on Thursday but with the economic recovery losing momentum and a strong euro dampening already-anaemic infl… [+3634 chars]",
+         "author" : "Balazs Koranyi",
          "source" : {
             "name" : "Reuters",
             "id" : "reuters"
          },
+         "description" : "The European Central Bank is all but certain to keep policy unchanged on Thursday but with the economic recovery losing momentum and a strong euro dampening already-anaemic inflation expectations, it may set the stage for more stimulus later.",
+         "content" : "FRANKFURT (Reuters) - The European Central Bank is all but certain to keep policy unchanged on Thursday but with the economic recovery losing momentum and a strong euro dampening already-anaemic infl… [+3634 chars]",
          "urlToImage" : "https://s1.reutersmedia.net/resources/r/?m=02&d=20200910&t=2&i=1532820805&w=1200&r=LYNXMPEG89000",
          "url" : "https://www.reuters.com/article/us-ecb-policy-idUSKBN2603DZ",
-         "author" : "Balazs Koranyi",
          "publishedAt" : "2020-09-09T22:06:00Z",
-         "description" : "The European Central Bank is all but certain to keep policy unchanged on Thursday but with the economic recovery losing momentum and a strong euro dampening already-anaemic inflation expectations, it may set the stage for more stimulus later.",
          "title" : "ECB to take aim at strong euro with hints of more stimulus - Reuters"
       },
       {
-         "content" : "What happened\r\nShares of PelotonInteractive(NASDAQ:PTON) rose 6.5% on Wednesday, following a series of analyst price-target hikes.\r\nSo what\r\nOn Tuesday, Peloton announced a new, lower-priced treadmil… [+1393 chars]",
-         "urlToImage" : "https://g.foolcdn.com/editorial/images/591184/buy-gettyimages-986757634.jpg",
+         "author" : "Joe Tenebruso",
          "source" : {
             "name" : "Motley Fool",
             "id" : null
          },
          "url" : "https://www.fool.com/investing/2020/09/09/why-peloton-stock-popped-today/",
-         "author" : "Joe Tenebruso",
-         "publishedAt" : "2020-09-09T21:53:00Z",
+         "urlToImage" : "https://g.foolcdn.com/editorial/images/591184/buy-gettyimages-986757634.jpg",
+         "content" : "What happened\r\nShares of PelotonInteractive(NASDAQ:PTON) rose 6.5% on Wednesday, following a series of analyst price-target hikes.\r\nSo what\r\nOn Tuesday, Peloton announced a new, lower-priced treadmil… [+1393 chars]",
          "description" : "Analysts are growing increasingly bullish on the fitness equipment maker's growth potential.",
-         "title" : "Why Peloton Stock Popped Today - Motley Fool"
+         "title" : "Why Peloton Stock Popped Today - Motley Fool",
+         "publishedAt" : "2020-09-09T21:53:00Z"
       },
       {
-         "content" : null,
-         "urlToImage" : "https://content.fortune.com/wp-content/uploads/2020/09/GettyImages-451559688.jpg?resize=1200,600",
          "source" : {
-            "name" : "Fortune",
-            "id" : "fortune"
+            "id" : "fortune",
+            "name" : "Fortune"
          },
          "author" : "Nathan Crooks, Bloomberg",
-         "url" : "https://fortune.com/2020/09/09/elon-musk-trades-insults-with-robert-reich-over-tesla-pay-cuts/",
          "publishedAt" : "2020-09-09T21:45:00Z",
          "title" : "Elon Musk trades insults with Robert Reich over Tesla pay cuts - Fortune",
-         "description" : "Robert Reich, the Clinton-era labor secretary who is now at University of California, Berkeley, criticized the Tesla CEO over pay cuts earlier this year."
+         "content" : null,
+         "description" : "Robert Reich, the Clinton-era labor secretary who is now at University of California, Berkeley, criticized the Tesla CEO over pay cuts earlier this year.",
+         "url" : "https://fortune.com/2020/09/09/elon-musk-trades-insults-with-robert-reich-over-tesla-pay-cuts/",
+         "urlToImage" : "https://content.fortune.com/wp-content/uploads/2020/09/GettyImages-451559688.jpg?resize=1200,600"
       }
    ]
 }
