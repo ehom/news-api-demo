@@ -1,266 +1,266 @@
 {
-   "status" : "ok",
-   "totalResults" : 70,
    "articles" : [
       {
-         "urlToImage" : "https://images.wsj.net/im-230690/social",
-         "source" : {
-            "name" : "The Wall Street Journal",
-            "id" : "the-wall-street-journal"
-         },
-         "author" : "Julia-Ambra Verlaine",
-         "publishedAt" : "2020-09-10T19:21:00Z",
-         "url" : "https://www.wsj.com/articles/jpmorgan-top-brass-tell-trading-floor-staff-to-come-back-to-the-office-11599757313",
-         "content" : "One of Wall Streets biggest employers is calling its trading staff back to the office.\r\n JPMorgan Chase &amp; Co. executives told senior employees of the banks giant sales and trading operation that … [+146 chars]",
-         "title" : "JPMorgan Top Brass Tell Trading-Floor Staff to Come Back to the Office - The Wall Street Journal",
-         "description" : "The bank, which just notched a record trading quarter, told staffers they need to return by Sept. 21 unless they have child-care or medical issues"
-      },
-      {
-         "urlToImage" : "https://ewscripps.brightspotcdn.com/dims4/default/e56f4f5/2147483647/strip/true/crop/4378x2298+0+310/resize/1200x630!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2Ff7%2F67%2F61e6e7844dc09840a365c801e6cd%2Fap-20088746767903.jpg",
-         "author" : "Sarah Walsh",
-         "source" : {
-            "name" : "WCPO",
-            "id" : null
-         },
-         "title" : "FAQ: What you need to know about Cincinnati's plastic bag ban - WCPO",
-         "description" : "It doesn't start right away, and it doesn't apply to every business. Here's what you can expect when some of Cincinnati's largest businesses go plastic-bag-free beginning next year.",
-         "publishedAt" : "2020-09-10T18:19:00Z",
-         "url" : "https://www.wcpo.com/news/government/greater-cincinnati-government/faq-what-you-need-to-know-about-cincinnatis-plastic-bag-ban",
-         "content" : "CINCINNATI City Council voted Thursday to ban single-use plastic bags for many businesses in the city of Cincinnati, effective in January 2021. The new ordinance passed with a vote of 7-1.\r\nCincinnat… [+2698 chars]"
-      },
-      {
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/103900160-452533454r.jpg?v=1599759986",
-         "author" : "Diana Olick",
-         "source" : {
-            "id" : null,
-            "name" : "CNBC"
-         },
-         "title" : "A record number of borrowers can now save on a mortgage refinance, as rates set another historic low - CNBC",
-         "description" : "Mortgage rates just set another new low, according to Freddie Mac, and that means the number of borrowers who could benefit from a refinance hit a new all-time high.",
-         "content" : "Mortgage rates just set another new low, and that means the number of borrowers who could benefit from a refinance hit a new all-time high. \r\nThe average rate on the 30-year fixed mortgage fell to 2.… [+1261 chars]",
-         "publishedAt" : "2020-09-10T18:11:00Z",
-         "url" : "https://www.cnbc.com/2020/09/10/record-number-of-borrowers-can-save-on-a-mortgage-refinance-as-rates-set-historic-low.html"
-      },
-      {
-         "title" : "AmazonBasics products exploding, starting fires: report | TheHill - The Hill",
-         "description" : "Dozens of Amazon products sold under its AmazonBasics line have e...",
-         "content" : "Dozens of Amazon products sold under its AmazonBasics line have exploded and started fires, CNN reported Thursday, citing customer reviews and interviews. \r\nAt least 1,500 reviews, covering more than… [+3037 chars]",
-         "publishedAt" : "2020-09-10T18:07:56Z",
-         "url" : "https://thehill.com/policy/technology/515882-amazonbasics-products-exploding-staring-fires-report",
-         "urlToImage" : "https://thehill.com/sites/default/files/amazon_europe_1.jpg",
-         "author" : "Rebecca Klar",
-         "source" : {
-            "id" : "the-hill",
-            "name" : "The Hill"
-         }
-      },
-      {
-         "urlToImage" : "https://static.politico.com/30/0c/6b3e886348f7b04012e2d7882746/doj.png",
-         "source" : {
-            "name" : "Politico",
-            "id" : "politico"
-         },
-         "author" : "Kellie Mejdrich",
-         "title" : "DOJ investigating 'several hundred' small business loan fraud cases - POLITICO",
-         "description" : "The alleged fraud represents only a tiny fraction of the $525 billion in PPP loans that were given out to 5.2 million applicants in the program.",
-         "publishedAt" : "2020-09-10T17:50:00Z",
-         "url" : "https://www.politico.com/news/2020/09/10/doj-small-business-loan-fraud-411811",
-         "content" : "New details on potentially fraudulent applications for the loan program, which is credited with saving millions of jobs, show how the rush of aid during the early pandemic emergency has led to what p… [+2325 chars]"
-      },
-      {
-         "urlToImage" : "https://s.yimg.com/uu/api/res/1.2/MEkUyeerHHXnOEu4.eyiSQ--~B/aD0yMTM2O3c9MzIwMDtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-images/2019-11/2f8e7110-0cf0-11ea-bff7-c49be0f5f7f9",
-         "author" : "Brian Sozzi",
-         "source" : {
-            "id" : null,
-            "name" : "Yahoo Entertainment"
-         },
-         "title" : "Black Friday shopping like we all know it is officially over because of COVID-19 - Yahoo Finance",
-         "description" : "Say goodbye to Black Friday.",
-         "content" : "Enjoy your fresh roasted turkey on Thanksgiving and morning-after, leftover bird on whole wheat bread this year because Black Friday will be virtually non-existent.\r\nWhile the tradition of insane cro… [+3889 chars]",
-         "publishedAt" : "2020-09-10T17:31:00Z",
-         "url" : "https://finance.yahoo.com/news/black-friday-shopping-like-we-all-know-it-is-officially-over-because-of-covid-19-173121320.html"
-      },
-      {
-         "source" : {
-            "name" : "Google News",
-            "id" : "google-news"
-         },
-         "author" : null,
-         "urlToImage" : null,
-         "description" : null,
-         "title" : "Netflix CEO Reed Hastings: Marriage counseling showed me I was a 'systematic liar' - CNN",
-         "url" : "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9WXdyZFc1Q1AyeTTSAQA?oc=5",
-         "publishedAt" : "2020-09-10T17:25:06Z",
-         "content" : null
-      },
-      {
-         "urlToImage" : "https://www.investors.com/wp-content/uploads/2020/06/Stock-bearbullchart-02-adobe.jpg",
+         "author" : "Investor's Business Daily",
+         "url" : "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-why-stock-market-risky-nasdaq-apple-reverse-lower-peloton-earnings/",
+         "content" : "Dow Jones futures rose modestly late Thursday, along with S&amp;P 500 futures and Nasdaq futures. The stock market rally opened strong on Thursday but reversed sharply lower. The Nasdaq hit resistanc… [+6650 chars]",
+         "description" : "Dow Jones futures: The reversal for the Nasdaq, Apple and other top techs shows how risky the stock market rally is now. Peloton jumped late on earnings.",
+         "publishedAt" : "2020-09-10T22:07:00Z",
+         "urlToImage" : "https://www.investors.com/wp-content/uploads/2017/10/stock-sailing-rough-adobe.jpg",
+         "title" : "Riskier Than A Bear? Why This Market Is So Dangerous - Investor's Business Daily",
          "source" : {
             "name" : "Investor's Business Daily",
             "id" : null
-         },
-         "author" : "Investor's Business Daily",
-         "title" : "Dow Jones Turns Negative After Early Gains Fade - Investor's Business Daily",
-         "description" : "The Dow Jones traded lower, erasing gains from early morning trading. The blue-chip index began to rise Thursday before selling off over 100 points.",
-         "content" : "The Dow Jones Industrial Average turned lower in today's stock market, erasing strong gains from early morning trading. The blue-chip index began to rise Thursday before selling off over 100 points i… [+4738 chars]",
-         "publishedAt" : "2020-09-10T17:23:00Z",
-         "url" : "https://www.investors.com/market-trend/stock-market-today/dow-jones-turns-negative-after-early-gains-leaderboard-stocks-continue-finding-support/"
-      },
-      {
-         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/06/0/0/Trevor-Milton-Nikola-001.png?ve=1&tl=1",
-         "author" : "Jonathan Garber",
-         "source" : {
-            "name" : "Fox Business",
-            "id" : null
-         },
-         "title" : "Short-seller accuses GM-backed Nikola Motors of being 'intricate fraud' - Fox Business",
-         "description" : "Nikola Motors is built on lies, short-seller Hidenburg Research alleges.",
-         "publishedAt" : "2020-09-10T17:13:22Z",
-         "url" : "https://www.foxbusiness.com/markets/nikola-motors-intricate-fraud-short-seller",
-         "content" : "Nikola Corp. conned its way into a partnership with General Motors Co. to build its Badger pickup truck, according to new accusations from short-seller Hindenburg Research.\r\n\"We believe Nikola is an … [+3254 chars]"
-      },
-      {
-         "title" : "Travis Scott's McDonald's Collaboration Is Getting Hilarious Reactions From Fans Online - Showbiz Cheat Sheet",
-         "description" : "The internet has comical reactions to Travis Scott's McDonald's partnership.",
-         "publishedAt" : "2020-09-10T17:01:37Z",
-         "url" : "https://www.cheatsheet.com/entertainment/travis-scotts-mcdonalds-collaboration-is-getting-hilarious-reactions-from-fans-online.html/",
-         "content" : "Rap superstar Travis Scott is one of the most popular figures in music and pop culture. The massive success of his musical releases and brand collaborations has built him a significant following, and… [+3545 chars]",
-         "urlToImage" : "https://www.cheatsheet.com/wp-content/uploads/2019/05/scs-icon.png",
-         "source" : {
-            "name" : "Showbiz Cheat Sheet",
-            "id" : null
-         },
-         "author" : "Johnell Gipson"
-      },
-      {
-         "urlToImage" : "https://9to5mac.com/wp-content/uploads/sites/6/2020/07/Apple-Card-coming-to-the-UK.jpg?quality=82&strip=all",
-         "author" : null,
-         "source" : {
-            "id" : null,
-            "name" : "9to5Mac"
-         },
-         "title" : "Four wins and three misses for Apple Card in year one - 9to5Mac",
-         "description" : "Apple Card has been available for just over a year now and looking back over the last 13 months, a new report highlights several aspects Apple and Goldman Sachs have nailed. However, that doesn’t mean there aren’t some areas ripe for improvement. An Apple Car…",
-         "publishedAt" : "2020-09-10T16:57:00Z",
-         "url" : "https://9to5mac.com/2020/09/10/apple-card/",
-         "content" : "Apple Card has been available for just over a year now and looking back over the last 13 months, a new report highlights several aspects Apple and Goldman Sachs have nailed. However, that doesn’t mea… [+6154 chars]"
-      },
-      {
-         "title" : "Century 21 files for bankruptcy, will close all 13 locations - New York Daily News",
-         "description" : "The Manhattan location opened 59 years ago, with Century 21 announcing a going-out-of-business sale there and at stores in New Jersey, Pennsylvania and Florida.",
-         "publishedAt" : "2020-09-10T16:35:00Z",
-         "url" : "https://www.nydailynews.com/new-york/ny-century-21-bankruptcy-20200910-lryxbwvgvng5pfen4juiezu2he-story.html",
-         "content" : null,
-         "urlToImage" : "https://www.nydailynews.com/resizer/bzCaQ0fpHL7j_U57YY0UwcGmJOg=/1200x0/left/middle/cloudfront-us-east-1.images.arcpublishing.com/tronc/CN27B6IQCRFXHI5O33TO4EUJQI.jpg",
-         "author" : "Larry McShane",
-         "source" : {
-            "id" : null,
-            "name" : "New York Daily News"
          }
       },
       {
          "source" : {
-            "name" : "Investor's Business Daily",
+            "name" : "Yahoo Entertainment",
             "id" : null
          },
-         "author" : "Investor's Business Daily",
-         "urlToImage" : "https://www.investors.com/wp-content/uploads/2020/03/stock-coronavirus-06-adobe.jpg",
-         "description" : "AstraZeneca's delays in key Covid vaccine testing boosted MRNA stock and NVAX stock for a second day amid the push to end the pandemic.",
-         "title" : "MRNA Stock, NVAX Stock Rally Second Day After AZN Covid Vaccine Pause - Investor's Business Daily",
-         "url" : "https://www.investors.com/news/technology/mrna-stock-nvax-stock-rally-second-day-after-azn-covid-vaccine-pause/",
-         "publishedAt" : "2020-09-10T16:32:00Z",
-         "content" : "AstraZeneca's coronavirus vaccine setback boosted the fortunes of rivals Moderna (MRNA) and Novavax (NVAX) Thursday. MRNA stock and NVAX stock climbed higher for a second day.\r\nXOn the stock market t… [+3210 chars]"
+         "title" : "Peloton stock roars as earnings smash estimates, posts first ever profit on coronavirus boost - Yahoo Finance",
+         "author" : "Melody Hahm",
+         "publishedAt" : "2020-09-10T21:54:00Z",
+         "urlToImage" : "https://s.yimg.com/uu/api/res/1.2/KUqA4uRTKlAEom2aodIOig--~B/aD0zMjU2O3c9NDg4NDtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-images/2020-02/097d3ac0-48f9-11ea-b47b-7f32a559bc2c",
+         "description" : "Peloton reported fiscal fourth-quarter earnings after the bell Thursday.",
+         "content" : "Peloton (PTON) on Thursday reported earnings that demolished Wall Streets expectations, with the company bolstered by the COVID-19 outbreak that shuttered gyms and kept fitness conscious consumers wo… [+2858 chars]",
+         "url" : "https://finance.yahoo.com/news/peloton-new-highs-q4-earnings-and-revenue-202044922.html"
+      },
+      {
+         "author" : "Jay Peters",
+         "urlToImage" : "https://cdn.vox-cdn.com/thumbor/hExLPjc5LVoWsyEpRvtGsNXwNGs=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/13443462/acastro_181114_1777_amazon_hq2_0005.jpg",
+         "publishedAt" : "2020-09-10T21:39:50Z",
+         "description" : "Many AmazonBasics products that have been reported as fire hazards are still for sale on Amazon, according to an extensive investigation by CNN. CNN counted at least 1,500 reviews since 2016 for more than 70 items that described “products exploding, catching …",
+         "url" : "https://www.theverge.com/2020/9/10/21431085/amazon-basics-amazonbasics-dangerous-flammable-products",
+         "content" : "CNN found reviews for more than 70 products describing safety risks\r\nIllustration by Alex Castro / The Verge\r\nMany AmazonBasics products that have been reported as fire hazards are still for sale on … [+2684 chars]",
+         "title" : "AmazonBasics products are going up in flames, but not enough for Amazon to stop selling them - The Verge",
+         "source" : {
+            "id" : "the-verge",
+            "name" : "The Verge"
+         }
+      },
+      {
+         "title" : "Former employees of Tanya Zuckerbrot's popular F-Factor diet say she fat-shamed colleagues and policed their eating, causing terrified staffers to snack in secret - Business Insider",
+         "source" : {
+            "name" : "Business Insider",
+            "id" : "business-insider"
+         },
+         "content" : "It was Sarah's first day of work at F-Factor, and she packed a homemade lunch of whole-wheat pasta and turkey meatballs.\r\n\"I thought I was being really responsible,\" Sarah, a dietitian, told Insider.… [+16452 chars]",
+         "url" : "https://www.businessinsider.com/past-f-factor-employees-speak-about-workplace-pressure-to-restrict-eating-2020-9",
+         "urlToImage" : "https://i.insider.com/5f58d8a07ed0ee001e25e24e?width=1200&format=jpeg",
+         "publishedAt" : "2020-09-10T21:38:33Z",
+         "description" : "Ex-employees said they hid food from their boss, Tanya Zuckerbrot, and were subject to jokes and stringent clothing guidelines meant to show off their bodies.",
+         "author" : "Dana Schuster"
+      },
+      {
+         "title" : "New North Carolina CVS drive-thru testing sites opening, minimum testing age lowered to 12 - WXII12 Winston-Salem",
+         "source" : {
+            "name" : "WXII12 Winston-Salem",
+            "id" : null
+         },
+         "author" : "WXII12.com Web Staff",
+         "publishedAt" : "2020-09-10T21:28:00Z",
+         "urlToImage" : "https://kubrick.htvapps.com/htv-prod/ibmig/cms/image/wxii/24302072-24302072.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
+         "description" : "CVS Health announced Thursday morning that 31 new testing sites are launching Friday and the testing age at the centers is being lowered to 12 years of age or older.",
+         "content" : "WINSTON-SALEM, N.C. —CVS Health announced Thursday morning that 31 new testing sites are launching Friday and the testing age at the centers is being lowered to 12 years of age or older.\r\nWith school… [+1200 chars]",
+         "url" : "https://www.wxii12.com/article/coronavirus-cvs-drive-thru-testing-sites-opening-age/33983670"
+      },
+      {
+         "content" : "JPMorgan Chase &amp; Co. executives instructed its senior trading-floor managers to return to the office by Sept. 21 in Wednesday calls, a person familiar with the plans told The Hill. \r\nOfficials at… [+2024 chars]",
+         "url" : "https://thehill.com/policy/finance/515926-jpmorgan-telling-senior-trading-floor-managers-to-come-back-to-office-by",
+         "urlToImage" : "https://thehill.com/sites/default/files/jpmorgan.jpg",
+         "publishedAt" : "2020-09-10T21:04:46Z",
+         "description" : "JPMorgan Chase & Co. executives instructed its senior trading...",
+         "author" : "Justine Coleman",
+         "title" : "JPMorgan telling senior trading-floor managers to come back to office by September 21 | TheHill - The Hill",
+         "source" : {
+            "name" : "The Hill",
+            "id" : "the-hill"
+         }
       },
       {
          "source" : {
             "id" : "cnn",
             "name" : "CNN"
          },
-         "author" : "Anna Bahney, CNN Business",
-         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200910081337-new-york-rentals-0819-restricted-super-tease.jpg",
-         "url" : "https://www.cnn.com/2020/09/10/success/manhattan-rental-apartment-vacancy-rate/index.html",
-         "publishedAt" : "2020-09-10T16:04:00Z",
-         "content" : null,
-         "description" : "The number of vacant apartments in Manhattan climbed to a record 15,025 in August, as the fallout from the coronavirus pandemic continued to prompt more people to leave the city.",
-         "title" : "Manhattan had 15,000 empty apartments in August -- a new record - CNN"
+         "title" : "Elizabeth Holmes may attempt to claim 'mental disease' in Theranos criminal case - CNN",
+         "url" : "https://www.cnn.com/2020/09/10/tech/theranos-holmes-mental-disease/index.html",
+         "content" : "(CNN Business)Elizabeth Holmes, the founder and former CEO of Theranos, may seek a \"mental disease\" defense in her criminal fraud trial, according to a new court document.\r\nHolmes, whose failed biote… [+1980 chars]",
+         "publishedAt" : "2020-09-10T20:45:00Z",
+         "description" : "Elizabeth Holmes, the founder and former CEO of Theranos, may seek a \"mental disease\" defense in her criminal fraud trial, according to a new court document.",
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200910142929-elizabeth-holmes-theranos-trial-hearing-file-super-tease.jpg",
+         "author" : "Sara Ashley O'Brien, CNN Business"
       },
       {
-         "content" : "59 with 31 posters participating, including story author\r\n<ul><li>\r\n Maserati has high hopes for its new supercar, the MC20. \r\n</li><li>\r\n In time, there will be a battery-electric version of the MC2… [+4553 chars]",
-         "publishedAt" : "2020-09-10T16:00:00Z",
-         "url" : "https://arstechnica.com/cars/2020/09/maseratis-new-mc20-supercar-uses-f1-engine-efficiency-technology/",
-         "title" : "Maserati’s new MC20 supercar uses F1 engine efficiency technology - Ars Technica",
-         "description" : "Hybrid and even battery versions may come, but first, twin combustion engines.",
-         "urlToImage" : "https://cdn.arstechnica.net/wp-content/uploads/2020/09/Large-16861-MaseratiMC20-760x380.png",
+         "description" : "The fashion designer and his wife fully restored the 13,344-square-foot home over six years.",
+         "publishedAt" : "2020-09-10T20:26:30Z",
+         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/09/0/0/Tommy-Hilfiger-s-home.jpg?ve=1&tl=1",
+         "content" : "Fashion designer Tommy Hilfiger has listed his Greenwich, Connecticut home for $47.5 million.\r\nThe European-style estate encompasses 22.4 parklike acres at the highest point in Greenwich. The propert… [+2029 chars]",
+         "url" : "https://www.foxbusiness.com/real-estate/tommy-hilfigers-connecticut-home-listed-for-sale",
+         "author" : "James Leggate",
+         "title" : "Tommy Hilfiger's Connecticut home listed for sale - Fox Business",
          "source" : {
-            "id" : "ars-technica",
-            "name" : "Ars Technica"
-         },
-         "author" : "Jonathan M. Gitlin"
+            "name" : "Fox Business",
+            "id" : null
+         }
       },
       {
-         "description" : "Or: What would happen if Tower Records tried to sell iPods?",
-         "title" : "Console options without disc drives could be GameStop’s final death knell - Ars Technica",
-         "url" : "https://arstechnica.com/gaming/2020/09/console-options-without-disc-drives-could-be-gamestops-final-death-knell/",
-         "publishedAt" : "2020-09-10T15:50:00Z",
-         "content" : "Enlarge/ Seems like an extreme reaction to buying a console without a disc drive, but OK...\r\n55 with 40 posters participating, including story author\r\nThe latest quarterly earnings report from GameSt… [+5875 chars]",
-         "author" : "Kyle Orland",
-         "source" : {
-            "name" : "Ars Technica",
-            "id" : "ars-technica"
-         },
-         "urlToImage" : "https://cdn.arstechnica.net/wp-content/uploads/2020/09/GettyImages-92011247-760x380.jpg"
-      },
-      {
-         "urlToImage" : "https://images.wsj.net/im-228277/social",
-         "source" : {
-            "id" : "the-wall-street-journal",
-            "name" : "The Wall Street Journal"
-         },
-         "author" : "Jaewon Kang",
-         "title" : "Kroger Spent Heavily on Tech, but Grocery Delivery Is Still a Struggle - The Wall Street Journal",
-         "description" : "Plans for big warehouses and driverless delivery weren’t ready when the pandemic supercharged online demand",
-         "publishedAt" : "2020-09-10T15:48:00Z",
-         "url" : "https://www.wsj.com/articles/krogers-tech-bets-fell-short-during-coronavirus-11599736720",
-         "content" : "Kroger Co. has spent yearsand hundreds of millions of dollarsinvesting in technology to give it a digital edge in the grocery business. But when the coronavirus changed customers buying habits overni… [+328 chars]"
-      },
-      {
-         "urlToImage" : "https://s.yimg.com/uu/api/res/1.2/iQIcGkY2aGbSsck7nt8uTg--~B/aD0zMzgyO3c9NjAwMDtzbT0xO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/hd/cp-video-transcode/prod/2020-09/10/5f5a4824353d374b9d8ecdb9/5f5a4824353d374b9d8ecdba_o_U_v2.jpg",
          "source" : {
             "id" : null,
-            "name" : "Yahoo Entertainment"
+            "name" : "MarketWatch"
          },
-         "author" : "Yahoo Finance Video",
-         "content" : "Mall owners Simon Property Group and Brookfield Property Partners are close to striking a deal to buy J.C. Penney out of bankruptcy. Meanwhile department store Century 21 filed for bankruptcy. Yahoo … [+44 chars]",
-         "publishedAt" : "2020-09-10T15:37:00Z",
-         "url" : "https://finance.yahoo.com/video/retail-shake-century-21-files-153708093.html",
-         "title" : "Retail shake-up: Century 21 files for bankruptcy, J.C. Penney's potential buyer - Yahoo Finance",
-         "description" : "Mall owners Simon Property Group and Brookfield Property Partners are close to striking a deal to buy J.C. Penney out of bankruptcy. Meanwhile department store Century 21 filed for bankruptcy. Yahoo Finance’s On The Move panel share the details."
+         "title" : "Netflix Inc. stock falls Thursday, underperforms market - MarketWatch",
+         "author" : "MarketWatch Automation",
+         "url" : "https://www.marketwatch.com/story/netflix-inc-stock-falls-thursday-underperforms-market-01599769524",
+         "content" : "Shares of Netflix Inc. \r\n NFLX, \r\n -3.90%\r\nslid 3.90% to $480.67 Thursday, on what proved to be an all-around rough trading session for the stock market, with the S&amp;P 500 Index \r\n SPX, \r\n -1.75%\r… [+816 chars]",
+         "publishedAt" : "2020-09-10T20:25:00Z",
+         "description" : "",
+         "urlToImage" : "https://images.mktw.net/im-215085/social"
       },
       {
-         "content" : "Sotheby's is set to auction off a 102-carat diamond that could become the most expensive jewel ever sold to an online bidder.\r\nThe stone, a 102.39-carat D Colour Flawless Oval Diamond, could fetch $1… [+2629 chars]",
-         "publishedAt" : "2020-09-10T15:27:00Z",
-         "url" : "https://www.cnbc.com/2020/09/10/102-carat-perfect-diamond-may-set-record-at-sothebys-online-auction.html",
-         "title" : "A 102-carat ‘perfect’ diamond could become the most expensive jewel ever sold to online bidder at Sotheby’s - CNBC",
-         "description" : "The stone, a 102.39-carat D Colour Flawless Oval Diamond, could fetch $10 million to $30 million. Only seven flawless white diamonds of more than 100 carats have ever been sold at auction.",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106697030-1599737243141-gettyimages-1228434253-urn_newsml_dpa_com_20090101_200910-99-504088-2.jpeg?v=1599737320",
+         "title" : "Dave & Buster's shares drop 5% on 85% drop in revenue - MarketWatch",
+         "source" : {
+            "id" : null,
+            "name" : "MarketWatch"
+         },
+         "author" : "Jon Swartz",
+         "url" : "https://www.marketwatch.com/story/dave-busters-shares-drop-5-on-85-drop-in-revenue-2020-09-10",
+         "content" : "Dave &amp; Buster's Entertainment Inc. \r\n PLAY, \r\n -2.27%\r\nshares initially were down 5% in after-hours trading Thursday after the restaurant chain reported fiscal second-quarter revenue that whiffed… [+661 chars]",
+         "publishedAt" : "2020-09-10T20:23:00Z",
+         "urlToImage" : "https://s.wsj.net/public/resources/MWimages/MW-GP644_MicroS_ZG_20180906154215.jpg",
+         "description" : ""
+      },
+      {
+         "source" : {
+            "id" : null,
+            "name" : "MarketWatch"
+         },
+         "title" : "Peloton produces profit for the first time amid pandemic-demand spike, stock pushes toward new record - MarketWatch",
+         "author" : "Jeremy C. Owens",
+         "urlToImage" : "https://images.mktw.net/im-230797/social",
+         "publishedAt" : "2020-09-10T20:16:00Z",
+         "description" : "Connected fitness-equipment company roughly doubled its revenue and subscriber total in just-completed fiscal year, and predicts it will happen again",
+         "url" : "https://www.marketwatch.com/story/peloton-produces-profit-for-the-first-time-amid-pandemic-demand-spike-stock-heads-toward-new-high-11599768987",
+         "content" : "A year after its initial public offering, Peloton Interactive Inc. is pedaling toward new highs amid a pandemic that is forcing people into their homes and away from gyms, creating demand for at-home… [+4510 chars]"
+      },
+      {
+         "title" : "UPDATE: JetBlue adding daily, nonstop flights from Richmond to L.A., Las Vegas and Tampa - Richmond.com",
+         "source" : {
+            "id" : null,
+            "name" : "Richmond.com"
+         },
+         "author" : "JOHN REID BLACKWELL Richmond Times-Dispatch",
+         "description" : "After years of trying, Richmond International Airport is finally getting some flights to the U.S. West Coast.",
+         "publishedAt" : "2020-09-10T20:15:00Z",
+         "urlToImage" : "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/assets/v3/editorial/e/68/e686408f-dd2f-56f2-8c89-757b54bf8cb6/5f5a8aea47ba7.image.jpg?crop=1662%2C935%2C0%2C156&resize=1120%2C630&order=crop%2Cresize",
+         "content" : "The new Richmond service announcements were part of a larger JetBlue initiative introducing 24 new routes. That includes five new destinations from Raleigh-Durham International Airport in North Carol… [+1158 chars]",
+         "url" : "https://richmond.com/business/update-jetblue-adding-daily-nonstop-flights-from-richmond-to-l-a-las-vegas-and-tampa/article_02a85566-eb48-5574-848c-d310c55718d7.html"
+      },
+      {
+         "title" : "Oracle's stock jumps as company returns to growth - CNBC",
          "source" : {
             "id" : null,
             "name" : "CNBC"
          },
-         "author" : "Robert Frank"
+         "description" : "The software maker delivered revenue growth even during the first full quarter of business during the coronavirus pandemic.",
+         "publishedAt" : "2020-09-10T20:13:00Z",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106697699-1599757928107-gettyimages-1175291304-img_6674_20190917114602510.jpeg?v=1599758210",
+         "content" : "Oracle shares rose as much as 6% in extended trading on Thursday after the software maker reported fiscal first-quarter earnings and quarterly guidance that were better than analysts had expected.\r\nH… [+2751 chars]",
+         "url" : "https://www.cnbc.com/2020/09/10/oracle-orcl-earnings-q1-2021.html",
+         "author" : "Jordan Novet"
       },
       {
-         "urlToImage" : "https://g.foolcdn.com/editorial/images/591271/tsla-tesla-stock.jpg",
-         "author" : "Daniel Sparks",
+         "author" : "Patti Domm",
+         "url" : "https://www.cnbc.com/2020/09/10/goldman-forecasts-a-much-higher-35percent-jump-in-q3-gdp-growth-based-on-strong-consumer.html",
+         "content" : "Goldman Sachs economists said they see third quarter GDP growth tracking at 35%, driven in large part by the surprising strength of consumer spending.\r\nGoldman said its tracking forecast is now 14 pe… [+2194 chars]",
+         "publishedAt" : "2020-09-10T19:31:00Z",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106662870-1597353249156-gettyimages-1265304940-nng_9676_2020081163224422.jpeg?v=1598324668",
+         "description" : "Goldman economists said third quarter GDP growth is tracking at 35%, driven in large part by the surprising strength of consumer spending.",
+         "title" : "Goldman now sees a 35% jump in Q3 GDP, much higher than the rest of Wall Street - CNBC",
          "source" : {
             "id" : null,
-            "name" : "Motley Fool"
+            "name" : "CNBC"
+         }
+      },
+      {
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106617686-1594835451245gettyimages-1194878414.jpeg?v=1594835571",
+         "publishedAt" : "2020-09-10T19:10:00Z",
+         "description" : "The latest measure comes as the Search giant gears up for an expected controversial presidential election.",
+         "url" : "https://www.cnbc.com/2020/09/10/google-to-block-autocomplete-for-searches-that-suggest-election-outcomes.html",
+         "content" : "Google said Thursday that it will remove search autocomplete predictions that \"could be interpreted as claims for or against any candidate or political party.\" It'll also remove statements about voti… [+1545 chars]",
+         "author" : "Jennifer Elias",
+         "title" : "Google says it will block autocomplete for searches that suggest voting outcomes - CNBC",
+         "source" : {
+            "id" : null,
+            "name" : "CNBC"
+         }
+      },
+      {
+         "content" : "DALLAS (WJHL) – Officials with Chick-fil-A have announced two new menu items coming to restaurants nationwide starting September 14.\r\nTaco Bell is removing Mexican Pizza, other items from menu\r\nThe f… [+763 chars]",
+         "url" : "https://fox8.com/news/featured/chick-fil-a-adding-new-items-to-menus-nationwide/",
+         "description" : "Officials with Chick-fil-A have announced two new menu items coming to restaurants nationwide starting September 14.",
+         "publishedAt" : "2020-09-10T19:05:00Z",
+         "urlToImage" : "https://fox8.com/wp-content/uploads/sites/12/2020/09/sourcechickfila.jpg?w=1280",
+         "author" : "Nexstar Media Wire",
+         "source" : {
+            "name" : "fox8.com",
+            "id" : null
          },
-         "title" : "Why Tesla Stock Jumped Again on Thursday - Motley Fool",
-         "description" : "Following a sharp decline in early September, the stock's rebound has extended to another trading day. But shares are still down sharply for the month.",
-         "content" : "What happened\r\nOn Thursday, shares of electric-car maker Tesla(NASDAQ:TSLA) continued to rebound from their worst one-day sell-off on record earlier this week. The stock jumped as much as 8.9%, but a… [+1176 chars]",
-         "publishedAt" : "2020-09-10T15:22:00Z",
-         "url" : "https://www.fool.com/investing/2020/09/10/why-tesla-stock-jumped-again-on-thursday/"
+         "title" : "Chick-fil-A adding new items to menus nationwide - WJW FOX 8 News Cleveland"
+      },
+      {
+         "title" : "Mortgage rates have fallen to a record low -- for the 9th time this year - CNN",
+         "source" : {
+            "name" : "CNN",
+            "id" : "cnn"
+         },
+         "author" : "Anna Bahney, CNN Business",
+         "publishedAt" : "2020-09-10T19:00:00Z",
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200910130758-san-diego-neighborhood-houses-0901-restricted-super-tease.jpg",
+         "description" : "Mortgage rates fell to yet another record low, according to the weekly survey of rates from Freddie Mac. This is the ninth record low since March.",
+         "url" : "https://www.cnn.com/2020/09/10/success/mortgage-rates-september-10-record-low/index.html",
+         "content" : null
+      },
+      {
+         "source" : {
+            "id" : null,
+            "name" : "Bloomberglaw.com"
+         },
+         "title" : "Smithfield Fined $13,494 by OSHA After Worker Infections, Deaths - Bloomberg Law",
+         "author" : null,
+         "url" : "https://news.bloomberglaw.com/safety/smithfield-fined-13-494-by-osha-after-worker-infections-deaths",
+         "content" : null,
+         "publishedAt" : "2020-09-10T18:45:00Z",
+         "urlToImage" : "https://db0ip7zd23b50.cloudfront.net/dims4/default/b1650a4/2147483647/crop/3980x1530%2B10%2B941/resize/960x369%3E/quality/90/?url=http%3A%2F%2Fbloomberg-bna-brightspot.s3.amazonaws.com%2F34%2F2e%2F8f3935254029a1057dd2d1f4a900%2F361362697.jpg",
+         "description" : "Smithfield Foods has been fined $13,494 for its failure to mitigate worker exposure to the coronavirus, the first such meatpacking company sanction imposed by OSHA during the pandemic."
+      },
+      {
+         "title" : "Citigroup names Jane Fraser as first woman CEO - Times of India",
+         "source" : {
+            "name" : "The Times of India",
+            "id" : "the-times-of-india"
+         },
+         "content" : null,
+         "url" : "https://timesofindia.indiatimes.com/business/international-business/citigroup-names-jane-fraser-as-first-woman-ceo/articleshow/78046302.cms",
+         "description" : "International Business News: Citigroup named Jane Fraser as its next chief executive on Thursday, tapping a woman to lead a giant Wall Street bank for the first time. She will tak",
+         "publishedAt" : "2020-09-10T18:00:00Z",
+         "urlToImage" : "https://static.toiimg.com/thumb/msid-78046297,width-1070,height-580,imgsize-117221,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+         "author" : "AFP"
+      },
+      {
+         "urlToImage" : "https://s.yimg.com/uu/api/res/1.2/MEkUyeerHHXnOEu4.eyiSQ--~B/aD0yMTM2O3c9MzIwMDtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-images/2019-11/2f8e7110-0cf0-11ea-bff7-c49be0f5f7f9",
+         "publishedAt" : "2020-09-10T17:31:00Z",
+         "description" : "Say goodbye to Black Friday.",
+         "content" : "Enjoy your fresh roasted turkey on Thanksgiving and morning-after, leftover bird on whole wheat bread this year because Black Friday will be virtually non-existent.\r\nWhile the tradition of insane cro… [+3889 chars]",
+         "url" : "https://finance.yahoo.com/news/black-friday-shopping-like-we-all-know-it-is-officially-over-because-of-covid-19-173121320.html",
+         "author" : "Brian Sozzi",
+         "title" : "Black Friday shopping like we all know it is officially over because of COVID-19 - Yahoo Finance",
+         "source" : {
+            "id" : null,
+            "name" : "Yahoo Entertainment"
+         }
       }
-   ]
+   ],
+   "status" : "ok",
+   "totalResults" : 70
 }
