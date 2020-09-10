@@ -3,128 +3,128 @@
    "totalResults" : 70,
    "articles" : [
       {
-         "author" : "Julia-Ambra Verlaine",
-         "source" : {
-            "id" : "the-wall-street-journal",
-            "name" : "The Wall Street Journal"
-         },
          "urlToImage" : "https://images.wsj.net/im-230690/social",
-         "title" : "JPMorgan Top Brass Tell Trading-Floor Staff to Come Back to the Office - The Wall Street Journal",
-         "description" : "The bank, which just notched a record trading quarter, told staffers they need to return by Sept. 21 unless they have child-care or medical issues",
-         "content" : "One of Wall Streets biggest employers is calling its trading staff back to the office.\r\n JPMorgan Chase &amp; Co. executives told senior employees of the banks giant sales and trading operation that … [+146 chars]",
+         "source" : {
+            "name" : "The Wall Street Journal",
+            "id" : "the-wall-street-journal"
+         },
+         "author" : "Julia-Ambra Verlaine",
          "publishedAt" : "2020-09-10T19:21:00Z",
-         "url" : "https://www.wsj.com/articles/jpmorgan-top-brass-tell-trading-floor-staff-to-come-back-to-the-office-11599757313"
+         "url" : "https://www.wsj.com/articles/jpmorgan-top-brass-tell-trading-floor-staff-to-come-back-to-the-office-11599757313",
+         "content" : "One of Wall Streets biggest employers is calling its trading staff back to the office.\r\n JPMorgan Chase &amp; Co. executives told senior employees of the banks giant sales and trading operation that … [+146 chars]",
+         "title" : "JPMorgan Top Brass Tell Trading-Floor Staff to Come Back to the Office - The Wall Street Journal",
+         "description" : "The bank, which just notched a record trading quarter, told staffers they need to return by Sept. 21 unless they have child-care or medical issues"
       },
       {
-         "content" : "CINCINNATI City Council voted Thursday to ban single-use plastic bags for many businesses in the city of Cincinnati, effective in January 2021. The new ordinance passed with a vote of 7-1.\r\nCincinnat… [+2698 chars]",
-         "title" : "FAQ: What you need to know about Cincinnati's plastic bag ban - WCPO",
-         "description" : "It doesn't start right away, and it doesn't apply to every business. Here's what you can expect when some of Cincinnati's largest businesses go plastic-bag-free beginning next year.",
-         "author" : "Sarah Walsh",
          "urlToImage" : "https://ewscripps.brightspotcdn.com/dims4/default/e56f4f5/2147483647/strip/true/crop/4378x2298+0+310/resize/1200x630!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2Ff7%2F67%2F61e6e7844dc09840a365c801e6cd%2Fap-20088746767903.jpg",
+         "author" : "Sarah Walsh",
          "source" : {
             "name" : "WCPO",
             "id" : null
          },
+         "title" : "FAQ: What you need to know about Cincinnati's plastic bag ban - WCPO",
+         "description" : "It doesn't start right away, and it doesn't apply to every business. Here's what you can expect when some of Cincinnati's largest businesses go plastic-bag-free beginning next year.",
+         "publishedAt" : "2020-09-10T18:19:00Z",
          "url" : "https://www.wcpo.com/news/government/greater-cincinnati-government/faq-what-you-need-to-know-about-cincinnatis-plastic-bag-ban",
-         "publishedAt" : "2020-09-10T18:19:00Z"
+         "content" : "CINCINNATI City Council voted Thursday to ban single-use plastic bags for many businesses in the city of Cincinnati, effective in January 2021. The new ordinance passed with a vote of 7-1.\r\nCincinnat… [+2698 chars]"
       },
       {
-         "publishedAt" : "2020-09-10T18:11:00Z",
-         "url" : "https://www.cnbc.com/2020/09/10/record-number-of-borrowers-can-save-on-a-mortgage-refinance-as-rates-set-historic-low.html",
          "urlToImage" : "https://image.cnbcfm.com/api/v1/image/103900160-452533454r.jpg?v=1599759986",
+         "author" : "Diana Olick",
          "source" : {
             "id" : null,
             "name" : "CNBC"
          },
-         "author" : "Diana Olick",
          "title" : "A record number of borrowers can now save on a mortgage refinance, as rates set another historic low - CNBC",
          "description" : "Mortgage rates just set another new low, according to Freddie Mac, and that means the number of borrowers who could benefit from a refinance hit a new all-time high.",
-         "content" : "Mortgage rates just set another new low, and that means the number of borrowers who could benefit from a refinance hit a new all-time high. \r\nThe average rate on the 30-year fixed mortgage fell to 2.… [+1261 chars]"
+         "content" : "Mortgage rates just set another new low, and that means the number of borrowers who could benefit from a refinance hit a new all-time high. \r\nThe average rate on the 30-year fixed mortgage fell to 2.… [+1261 chars]",
+         "publishedAt" : "2020-09-10T18:11:00Z",
+         "url" : "https://www.cnbc.com/2020/09/10/record-number-of-borrowers-can-save-on-a-mortgage-refinance-as-rates-set-historic-low.html"
       },
       {
-         "content" : "Dozens of Amazon products sold under its AmazonBasics line have exploded and started fires, CNN reported Thursday, citing customer reviews and interviews. \r\nAt least 1,500 reviews, covering more than… [+3037 chars]",
-         "description" : "Dozens of Amazon products sold under its AmazonBasics line have e...",
          "title" : "AmazonBasics products exploding, starting fires: report | TheHill - The Hill",
+         "description" : "Dozens of Amazon products sold under its AmazonBasics line have e...",
+         "content" : "Dozens of Amazon products sold under its AmazonBasics line have exploded and started fires, CNN reported Thursday, citing customer reviews and interviews. \r\nAt least 1,500 reviews, covering more than… [+3037 chars]",
+         "publishedAt" : "2020-09-10T18:07:56Z",
+         "url" : "https://thehill.com/policy/technology/515882-amazonbasics-products-exploding-staring-fires-report",
          "urlToImage" : "https://thehill.com/sites/default/files/amazon_europe_1.jpg",
+         "author" : "Rebecca Klar",
          "source" : {
             "id" : "the-hill",
             "name" : "The Hill"
-         },
-         "author" : "Rebecca Klar",
-         "url" : "https://thehill.com/policy/technology/515882-amazonbasics-products-exploding-staring-fires-report",
-         "publishedAt" : "2020-09-10T18:07:56Z"
+         }
       },
       {
-         "publishedAt" : "2020-09-10T17:50:00Z",
-         "url" : "https://www.politico.com/news/2020/09/10/doj-small-business-loan-fraud-411811",
-         "author" : "Kellie Mejdrich",
+         "urlToImage" : "https://static.politico.com/30/0c/6b3e886348f7b04012e2d7882746/doj.png",
          "source" : {
             "name" : "Politico",
             "id" : "politico"
          },
-         "urlToImage" : "https://static.politico.com/30/0c/6b3e886348f7b04012e2d7882746/doj.png",
-         "content" : "New details on potentially fraudulent applications for the loan program, which is credited with saving millions of jobs, show how the rush of aid during the early pandemic emergency has led to what p… [+2325 chars]",
+         "author" : "Kellie Mejdrich",
          "title" : "DOJ investigating 'several hundred' small business loan fraud cases - POLITICO",
-         "description" : "The alleged fraud represents only a tiny fraction of the $525 billion in PPP loans that were given out to 5.2 million applicants in the program."
+         "description" : "The alleged fraud represents only a tiny fraction of the $525 billion in PPP loans that were given out to 5.2 million applicants in the program.",
+         "publishedAt" : "2020-09-10T17:50:00Z",
+         "url" : "https://www.politico.com/news/2020/09/10/doj-small-business-loan-fraud-411811",
+         "content" : "New details on potentially fraudulent applications for the loan program, which is credited with saving millions of jobs, show how the rush of aid during the early pandemic emergency has led to what p… [+2325 chars]"
       },
       {
-         "url" : "https://finance.yahoo.com/news/black-friday-shopping-like-we-all-know-it-is-officially-over-because-of-covid-19-173121320.html",
-         "publishedAt" : "2020-09-10T17:31:00Z",
-         "content" : "Enjoy your fresh roasted turkey on Thanksgiving and morning-after, leftover bird on whole wheat bread this year because Black Friday will be virtually non-existent.\r\nWhile the tradition of insane cro… [+3889 chars]",
-         "description" : "Say goodbye to Black Friday.",
-         "title" : "Black Friday shopping like we all know it is officially over because of COVID-19 - Yahoo Finance",
+         "urlToImage" : "https://s.yimg.com/uu/api/res/1.2/MEkUyeerHHXnOEu4.eyiSQ--~B/aD0yMTM2O3c9MzIwMDtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-images/2019-11/2f8e7110-0cf0-11ea-bff7-c49be0f5f7f9",
+         "author" : "Brian Sozzi",
          "source" : {
             "id" : null,
             "name" : "Yahoo Entertainment"
          },
-         "urlToImage" : "https://s.yimg.com/uu/api/res/1.2/MEkUyeerHHXnOEu4.eyiSQ--~B/aD0yMTM2O3c9MzIwMDtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-images/2019-11/2f8e7110-0cf0-11ea-bff7-c49be0f5f7f9",
-         "author" : "Brian Sozzi"
+         "title" : "Black Friday shopping like we all know it is officially over because of COVID-19 - Yahoo Finance",
+         "description" : "Say goodbye to Black Friday.",
+         "content" : "Enjoy your fresh roasted turkey on Thanksgiving and morning-after, leftover bird on whole wheat bread this year because Black Friday will be virtually non-existent.\r\nWhile the tradition of insane cro… [+3889 chars]",
+         "publishedAt" : "2020-09-10T17:31:00Z",
+         "url" : "https://finance.yahoo.com/news/black-friday-shopping-like-we-all-know-it-is-officially-over-because-of-covid-19-173121320.html"
       },
       {
-         "content" : null,
-         "title" : "Netflix CEO Reed Hastings: Marriage counseling showed me I was a 'systematic liar' - CNN",
-         "description" : null,
+         "source" : {
+            "name" : "Google News",
+            "id" : "google-news"
+         },
          "author" : null,
          "urlToImage" : null,
-         "source" : {
-            "id" : "google-news",
-            "name" : "Google News"
-         },
+         "description" : null,
+         "title" : "Netflix CEO Reed Hastings: Marriage counseling showed me I was a 'systematic liar' - CNN",
          "url" : "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9WXdyZFc1Q1AyeTTSAQA?oc=5",
-         "publishedAt" : "2020-09-10T17:25:06Z"
+         "publishedAt" : "2020-09-10T17:25:06Z",
+         "content" : null
       },
       {
-         "author" : "Investor's Business Daily",
          "urlToImage" : "https://www.investors.com/wp-content/uploads/2020/06/Stock-bearbullchart-02-adobe.jpg",
          "source" : {
             "name" : "Investor's Business Daily",
             "id" : null
          },
-         "content" : "The Dow Jones Industrial Average turned lower in today's stock market, erasing strong gains from early morning trading. The blue-chip index began to rise Thursday before selling off over 100 points i… [+4738 chars]",
+         "author" : "Investor's Business Daily",
          "title" : "Dow Jones Turns Negative After Early Gains Fade - Investor's Business Daily",
          "description" : "The Dow Jones traded lower, erasing gains from early morning trading. The blue-chip index began to rise Thursday before selling off over 100 points.",
+         "content" : "The Dow Jones Industrial Average turned lower in today's stock market, erasing strong gains from early morning trading. The blue-chip index began to rise Thursday before selling off over 100 points i… [+4738 chars]",
          "publishedAt" : "2020-09-10T17:23:00Z",
          "url" : "https://www.investors.com/market-trend/stock-market-today/dow-jones-turns-negative-after-early-gains-leaderboard-stocks-continue-finding-support/"
       },
       {
-         "content" : "Nikola Corp. conned its way into a partnership with General Motors Co. to build its Badger pickup truck, according to new accusations from short-seller Hindenburg Research.\r\n\"We believe Nikola is an … [+3254 chars]",
-         "description" : "Nikola Motors is built on lies, short-seller Hidenburg Research alleges.",
-         "title" : "Short-seller accuses GM-backed Nikola Motors of being 'intricate fraud' - Fox Business",
-         "author" : "Jonathan Garber",
          "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/06/0/0/Trevor-Milton-Nikola-001.png?ve=1&tl=1",
+         "author" : "Jonathan Garber",
          "source" : {
             "name" : "Fox Business",
             "id" : null
          },
+         "title" : "Short-seller accuses GM-backed Nikola Motors of being 'intricate fraud' - Fox Business",
+         "description" : "Nikola Motors is built on lies, short-seller Hidenburg Research alleges.",
+         "publishedAt" : "2020-09-10T17:13:22Z",
          "url" : "https://www.foxbusiness.com/markets/nikola-motors-intricate-fraud-short-seller",
-         "publishedAt" : "2020-09-10T17:13:22Z"
+         "content" : "Nikola Corp. conned its way into a partnership with General Motors Co. to build its Badger pickup truck, according to new accusations from short-seller Hindenburg Research.\r\n\"We believe Nikola is an … [+3254 chars]"
       },
       {
-         "url" : "https://www.cheatsheet.com/entertainment/travis-scotts-mcdonalds-collaboration-is-getting-hilarious-reactions-from-fans-online.html/",
-         "publishedAt" : "2020-09-10T17:01:37Z",
-         "content" : "Rap superstar Travis Scott is one of the most popular figures in music and pop culture. The massive success of his musical releases and brand collaborations has built him a significant following, and… [+3545 chars]",
-         "description" : "The internet has comical reactions to Travis Scott's McDonald's partnership.",
          "title" : "Travis Scott's McDonald's Collaboration Is Getting Hilarious Reactions From Fans Online - Showbiz Cheat Sheet",
+         "description" : "The internet has comical reactions to Travis Scott's McDonald's partnership.",
+         "publishedAt" : "2020-09-10T17:01:37Z",
+         "url" : "https://www.cheatsheet.com/entertainment/travis-scotts-mcdonalds-collaboration-is-getting-hilarious-reactions-from-fans-online.html/",
+         "content" : "Rap superstar Travis Scott is one of the most popular figures in music and pop culture. The massive success of his musical releases and brand collaborations has built him a significant following, and… [+3545 chars]",
          "urlToImage" : "https://www.cheatsheet.com/wp-content/uploads/2019/05/scs-icon.png",
          "source" : {
             "name" : "Showbiz Cheat Sheet",
@@ -133,134 +133,134 @@
          "author" : "Johnell Gipson"
       },
       {
-         "url" : "https://9to5mac.com/2020/09/10/apple-card/",
-         "publishedAt" : "2020-09-10T16:57:00Z",
-         "title" : "Four wins and three misses for Apple Card in year one - 9to5Mac",
-         "description" : "Apple Card has been available for just over a year now and looking back over the last 13 months, a new report highlights several aspects Apple and Goldman Sachs have nailed. However, that doesn’t mean there aren’t some areas ripe for improvement. An Apple Car…",
-         "content" : "Apple Card has been available for just over a year now and looking back over the last 13 months, a new report highlights several aspects Apple and Goldman Sachs have nailed. However, that doesn’t mea… [+6154 chars]",
-         "author" : null,
          "urlToImage" : "https://9to5mac.com/wp-content/uploads/sites/6/2020/07/Apple-Card-coming-to-the-UK.jpg?quality=82&strip=all",
+         "author" : null,
          "source" : {
             "id" : null,
             "name" : "9to5Mac"
-         }
+         },
+         "title" : "Four wins and three misses for Apple Card in year one - 9to5Mac",
+         "description" : "Apple Card has been available for just over a year now and looking back over the last 13 months, a new report highlights several aspects Apple and Goldman Sachs have nailed. However, that doesn’t mean there aren’t some areas ripe for improvement. An Apple Car…",
+         "publishedAt" : "2020-09-10T16:57:00Z",
+         "url" : "https://9to5mac.com/2020/09/10/apple-card/",
+         "content" : "Apple Card has been available for just over a year now and looking back over the last 13 months, a new report highlights several aspects Apple and Goldman Sachs have nailed. However, that doesn’t mea… [+6154 chars]"
       },
       {
          "title" : "Century 21 files for bankruptcy, will close all 13 locations - New York Daily News",
          "description" : "The Manhattan location opened 59 years ago, with Century 21 announcing a going-out-of-business sale there and at stores in New Jersey, Pennsylvania and Florida.",
+         "publishedAt" : "2020-09-10T16:35:00Z",
+         "url" : "https://www.nydailynews.com/new-york/ny-century-21-bankruptcy-20200910-lryxbwvgvng5pfen4juiezu2he-story.html",
          "content" : null,
+         "urlToImage" : "https://www.nydailynews.com/resizer/bzCaQ0fpHL7j_U57YY0UwcGmJOg=/1200x0/left/middle/cloudfront-us-east-1.images.arcpublishing.com/tronc/CN27B6IQCRFXHI5O33TO4EUJQI.jpg",
+         "author" : "Larry McShane",
          "source" : {
             "id" : null,
             "name" : "New York Daily News"
-         },
-         "urlToImage" : "https://www.nydailynews.com/resizer/bzCaQ0fpHL7j_U57YY0UwcGmJOg=/1200x0/left/middle/cloudfront-us-east-1.images.arcpublishing.com/tronc/CN27B6IQCRFXHI5O33TO4EUJQI.jpg",
-         "author" : "Larry McShane",
-         "url" : "https://www.nydailynews.com/new-york/ny-century-21-bankruptcy-20200910-lryxbwvgvng5pfen4juiezu2he-story.html",
-         "publishedAt" : "2020-09-10T16:35:00Z"
+         }
       },
       {
+         "source" : {
+            "name" : "Investor's Business Daily",
+            "id" : null
+         },
+         "author" : "Investor's Business Daily",
+         "urlToImage" : "https://www.investors.com/wp-content/uploads/2020/03/stock-coronavirus-06-adobe.jpg",
          "description" : "AstraZeneca's delays in key Covid vaccine testing boosted MRNA stock and NVAX stock for a second day amid the push to end the pandemic.",
          "title" : "MRNA Stock, NVAX Stock Rally Second Day After AZN Covid Vaccine Pause - Investor's Business Daily",
-         "content" : "AstraZeneca's coronavirus vaccine setback boosted the fortunes of rivals Moderna (MRNA) and Novavax (NVAX) Thursday. MRNA stock and NVAX stock climbed higher for a second day.\r\nXOn the stock market t… [+3210 chars]",
-         "source" : {
-            "id" : null,
-            "name" : "Investor's Business Daily"
-         },
-         "urlToImage" : "https://www.investors.com/wp-content/uploads/2020/03/stock-coronavirus-06-adobe.jpg",
-         "author" : "Investor's Business Daily",
          "url" : "https://www.investors.com/news/technology/mrna-stock-nvax-stock-rally-second-day-after-azn-covid-vaccine-pause/",
-         "publishedAt" : "2020-09-10T16:32:00Z"
+         "publishedAt" : "2020-09-10T16:32:00Z",
+         "content" : "AstraZeneca's coronavirus vaccine setback boosted the fortunes of rivals Moderna (MRNA) and Novavax (NVAX) Thursday. MRNA stock and NVAX stock climbed higher for a second day.\r\nXOn the stock market t… [+3210 chars]"
       },
       {
-         "publishedAt" : "2020-09-10T16:04:00Z",
-         "url" : "https://www.cnn.com/2020/09/10/success/manhattan-rental-apartment-vacancy-rate/index.html",
-         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200910081337-new-york-rentals-0819-restricted-super-tease.jpg",
          "source" : {
-            "name" : "CNN",
-            "id" : "cnn"
+            "id" : "cnn",
+            "name" : "CNN"
          },
          "author" : "Anna Bahney, CNN Business",
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200910081337-new-york-rentals-0819-restricted-super-tease.jpg",
+         "url" : "https://www.cnn.com/2020/09/10/success/manhattan-rental-apartment-vacancy-rate/index.html",
+         "publishedAt" : "2020-09-10T16:04:00Z",
+         "content" : null,
          "description" : "The number of vacant apartments in Manhattan climbed to a record 15,025 in August, as the fallout from the coronavirus pandemic continued to prompt more people to leave the city.",
-         "title" : "Manhattan had 15,000 empty apartments in August -- a new record - CNN",
-         "content" : null
+         "title" : "Manhattan had 15,000 empty apartments in August -- a new record - CNN"
       },
       {
          "content" : "59 with 31 posters participating, including story author\r\n<ul><li>\r\n Maserati has high hopes for its new supercar, the MC20. \r\n</li><li>\r\n In time, there will be a battery-electric version of the MC2… [+4553 chars]",
-         "description" : "Hybrid and even battery versions may come, but first, twin combustion engines.",
-         "title" : "Maserati’s new MC20 supercar uses F1 engine efficiency technology - Ars Technica",
-         "source" : {
-            "name" : "Ars Technica",
-            "id" : "ars-technica"
-         },
-         "urlToImage" : "https://cdn.arstechnica.net/wp-content/uploads/2020/09/Large-16861-MaseratiMC20-760x380.png",
-         "author" : "Jonathan M. Gitlin",
+         "publishedAt" : "2020-09-10T16:00:00Z",
          "url" : "https://arstechnica.com/cars/2020/09/maseratis-new-mc20-supercar-uses-f1-engine-efficiency-technology/",
-         "publishedAt" : "2020-09-10T16:00:00Z"
-      },
-      {
-         "content" : "Enlarge/ Seems like an extreme reaction to buying a console without a disc drive, but OK...\r\n55 with 40 posters participating, including story author\r\nThe latest quarterly earnings report from GameSt… [+5875 chars]",
-         "title" : "Console options without disc drives could be GameStop’s final death knell - Ars Technica",
-         "description" : "Or: What would happen if Tower Records tried to sell iPods?",
+         "title" : "Maserati’s new MC20 supercar uses F1 engine efficiency technology - Ars Technica",
+         "description" : "Hybrid and even battery versions may come, but first, twin combustion engines.",
+         "urlToImage" : "https://cdn.arstechnica.net/wp-content/uploads/2020/09/Large-16861-MaseratiMC20-760x380.png",
          "source" : {
             "id" : "ars-technica",
             "name" : "Ars Technica"
          },
-         "urlToImage" : "https://cdn.arstechnica.net/wp-content/uploads/2020/09/GettyImages-92011247-760x380.jpg",
-         "author" : "Kyle Orland",
-         "url" : "https://arstechnica.com/gaming/2020/09/console-options-without-disc-drives-could-be-gamestops-final-death-knell/",
-         "publishedAt" : "2020-09-10T15:50:00Z"
+         "author" : "Jonathan M. Gitlin"
       },
       {
-         "publishedAt" : "2020-09-10T15:48:00Z",
-         "url" : "https://www.wsj.com/articles/krogers-tech-bets-fell-short-during-coronavirus-11599736720",
+         "description" : "Or: What would happen if Tower Records tried to sell iPods?",
+         "title" : "Console options without disc drives could be GameStop’s final death knell - Ars Technica",
+         "url" : "https://arstechnica.com/gaming/2020/09/console-options-without-disc-drives-could-be-gamestops-final-death-knell/",
+         "publishedAt" : "2020-09-10T15:50:00Z",
+         "content" : "Enlarge/ Seems like an extreme reaction to buying a console without a disc drive, but OK...\r\n55 with 40 posters participating, including story author\r\nThe latest quarterly earnings report from GameSt… [+5875 chars]",
+         "author" : "Kyle Orland",
+         "source" : {
+            "name" : "Ars Technica",
+            "id" : "ars-technica"
+         },
+         "urlToImage" : "https://cdn.arstechnica.net/wp-content/uploads/2020/09/GettyImages-92011247-760x380.jpg"
+      },
+      {
+         "urlToImage" : "https://images.wsj.net/im-228277/social",
          "source" : {
             "id" : "the-wall-street-journal",
             "name" : "The Wall Street Journal"
          },
-         "urlToImage" : "https://images.wsj.net/im-228277/social",
          "author" : "Jaewon Kang",
          "title" : "Kroger Spent Heavily on Tech, but Grocery Delivery Is Still a Struggle - The Wall Street Journal",
          "description" : "Plans for big warehouses and driverless delivery weren’t ready when the pandemic supercharged online demand",
+         "publishedAt" : "2020-09-10T15:48:00Z",
+         "url" : "https://www.wsj.com/articles/krogers-tech-bets-fell-short-during-coronavirus-11599736720",
          "content" : "Kroger Co. has spent yearsand hundreds of millions of dollarsinvesting in technology to give it a digital edge in the grocery business. But when the coronavirus changed customers buying habits overni… [+328 chars]"
       },
       {
-         "content" : "Mall owners Simon Property Group and Brookfield Property Partners are close to striking a deal to buy J.C. Penney out of bankruptcy. Meanwhile department store Century 21 filed for bankruptcy. Yahoo … [+44 chars]",
-         "description" : "Mall owners Simon Property Group and Brookfield Property Partners are close to striking a deal to buy J.C. Penney out of bankruptcy. Meanwhile department store Century 21 filed for bankruptcy. Yahoo Finance’s On The Move panel share the details.",
-         "title" : "Retail shake-up: Century 21 files for bankruptcy, J.C. Penney's potential buyer - Yahoo Finance",
-         "source" : {
-            "name" : "Yahoo Entertainment",
-            "id" : null
-         },
          "urlToImage" : "https://s.yimg.com/uu/api/res/1.2/iQIcGkY2aGbSsck7nt8uTg--~B/aD0zMzgyO3c9NjAwMDtzbT0xO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/hd/cp-video-transcode/prod/2020-09/10/5f5a4824353d374b9d8ecdb9/5f5a4824353d374b9d8ecdba_o_U_v2.jpg",
+         "source" : {
+            "id" : null,
+            "name" : "Yahoo Entertainment"
+         },
          "author" : "Yahoo Finance Video",
+         "content" : "Mall owners Simon Property Group and Brookfield Property Partners are close to striking a deal to buy J.C. Penney out of bankruptcy. Meanwhile department store Century 21 filed for bankruptcy. Yahoo … [+44 chars]",
+         "publishedAt" : "2020-09-10T15:37:00Z",
          "url" : "https://finance.yahoo.com/video/retail-shake-century-21-files-153708093.html",
-         "publishedAt" : "2020-09-10T15:37:00Z"
+         "title" : "Retail shake-up: Century 21 files for bankruptcy, J.C. Penney's potential buyer - Yahoo Finance",
+         "description" : "Mall owners Simon Property Group and Brookfield Property Partners are close to striking a deal to buy J.C. Penney out of bankruptcy. Meanwhile department store Century 21 filed for bankruptcy. Yahoo Finance’s On The Move panel share the details."
       },
       {
-         "author" : "Robert Frank",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106697030-1599737243141-gettyimages-1228434253-urn_newsml_dpa_com_20090101_200910-99-504088-2.jpeg?v=1599737320",
-         "source" : {
-            "name" : "CNBC",
-            "id" : null
-         },
-         "title" : "A 102-carat ‘perfect’ diamond could become the most expensive jewel ever sold to online bidder at Sotheby’s - CNBC",
-         "description" : "The stone, a 102.39-carat D Colour Flawless Oval Diamond, could fetch $10 million to $30 million. Only seven flawless white diamonds of more than 100 carats have ever been sold at auction.",
          "content" : "Sotheby's is set to auction off a 102-carat diamond that could become the most expensive jewel ever sold to an online bidder.\r\nThe stone, a 102.39-carat D Colour Flawless Oval Diamond, could fetch $1… [+2629 chars]",
          "publishedAt" : "2020-09-10T15:27:00Z",
-         "url" : "https://www.cnbc.com/2020/09/10/102-carat-perfect-diamond-may-set-record-at-sothebys-online-auction.html"
+         "url" : "https://www.cnbc.com/2020/09/10/102-carat-perfect-diamond-may-set-record-at-sothebys-online-auction.html",
+         "title" : "A 102-carat ‘perfect’ diamond could become the most expensive jewel ever sold to online bidder at Sotheby’s - CNBC",
+         "description" : "The stone, a 102.39-carat D Colour Flawless Oval Diamond, could fetch $10 million to $30 million. Only seven flawless white diamonds of more than 100 carats have ever been sold at auction.",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106697030-1599737243141-gettyimages-1228434253-urn_newsml_dpa_com_20090101_200910-99-504088-2.jpeg?v=1599737320",
+         "source" : {
+            "id" : null,
+            "name" : "CNBC"
+         },
+         "author" : "Robert Frank"
       },
       {
-         "url" : "https://www.fool.com/investing/2020/09/10/why-tesla-stock-jumped-again-on-thursday/",
-         "publishedAt" : "2020-09-10T15:22:00Z",
+         "urlToImage" : "https://g.foolcdn.com/editorial/images/591271/tsla-tesla-stock.jpg",
+         "author" : "Daniel Sparks",
+         "source" : {
+            "id" : null,
+            "name" : "Motley Fool"
+         },
          "title" : "Why Tesla Stock Jumped Again on Thursday - Motley Fool",
          "description" : "Following a sharp decline in early September, the stock's rebound has extended to another trading day. But shares are still down sharply for the month.",
          "content" : "What happened\r\nOn Thursday, shares of electric-car maker Tesla(NASDAQ:TSLA) continued to rebound from their worst one-day sell-off on record earlier this week. The stock jumped as much as 8.9%, but a… [+1176 chars]",
-         "source" : {
-            "name" : "Motley Fool",
-            "id" : null
-         },
-         "urlToImage" : "https://g.foolcdn.com/editorial/images/591271/tsla-tesla-stock.jpg",
-         "author" : "Daniel Sparks"
+         "publishedAt" : "2020-09-10T15:22:00Z",
+         "url" : "https://www.fool.com/investing/2020/09/10/why-tesla-stock-jumped-again-on-thursday/"
       }
    ]
 }
