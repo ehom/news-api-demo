@@ -1,266 +1,266 @@
 {
+   "status" : "ok",
    "totalResults" : 70,
    "articles" : [
       {
          "description" : "Vaping by U.S. teenagers fell dramatically this year, according to a federal report.",
-         "urlToImage" : "https://media4.s-nbcnews.com/j/newscms/2018_37/2563461/180912-e-cigarette-mc-1457_19fcc29be1be109ba7dfdffbb5435575.nbcnews-fp-1200-630.JPG",
-         "title" : "Big drop reported in vaping by U.S. teenagers - NBC News",
          "publishedAt" : "2020-09-10T12:05:00Z",
          "author" : "The Associated Press",
+         "urlToImage" : "https://media4.s-nbcnews.com/j/newscms/2018_37/2563461/180912-e-cigarette-mc-1457_19fcc29be1be109ba7dfdffbb5435575.nbcnews-fp-1200-630.JPG",
          "content" : "Vaping by U.S. teenagers fell dramatically this year, especially among middle schoolers, according to a federal report released Wednesday.\r\nExperts think last years outbreak of vaping-related illness… [+3692 chars]",
+         "title" : "Big drop reported in vaping by U.S. teenagers - NBC News",
          "url" : "https://www.nbcnews.com/health/vaping/big-drop-reported-vaping-u-s-teenagers-n1239723",
          "source" : {
-            "name" : "NBC News",
-            "id" : "nbc-news"
+            "id" : "nbc-news",
+            "name" : "NBC News"
          }
       },
       {
-         "urlToImage" : "https://www.wsbtv.com/resizer/78AmSUVZ5BKWCJ7WQ2-_dR3nG14=/1200x628/d1hfln2sfez66z.cloudfront.net/09-10-2020/t_5463566cbfeb4c7a9aeb345f3eeb2dd2_name_Waffle_house_shooting.JPG",
-         "description" : "We’re working to learn more about the shooting, and the search for suspects, on Channel 2 Action News",
-         "title" : "Shootout leaves 3 people injured at DeKalb County Waffle House - WSB Atlanta",
          "author" : "WSBTV.com News Staff",
          "publishedAt" : "2020-09-10T12:01:06Z",
+         "description" : "We’re working to learn more about the shooting, and the search for suspects, on Channel 2 Action News",
          "source" : {
-            "id" : null,
-            "name" : "WSB Atlanta"
+            "name" : "WSB Atlanta",
+            "id" : null
          },
+         "title" : "Shootout leaves 3 people injured at DeKalb County Waffle House - WSB Atlanta",
          "url" : "https://www.wsbtv.com/news/local/3-people-shot-dekalb-county-waffle-house/ECDCO2UYAJDGHB2BSYC2SNCKVQ/",
-         "content" : "DEKALB COUNTY, Ga. — Police are investigating a shootout that erupted at a DeKalb County Waffle House early Thursday morning.\r\nChannel 2s Steve Gehlbach at the scene said police told him an argument … [+1376 chars]"
+         "content" : "DEKALB COUNTY, Ga. — Police are investigating a shootout that erupted at a DeKalb County Waffle House early Thursday morning.\r\nChannel 2s Steve Gehlbach at the scene said police told him an argument … [+1376 chars]",
+         "urlToImage" : "https://www.wsbtv.com/resizer/78AmSUVZ5BKWCJ7WQ2-_dR3nG14=/1200x628/d1hfln2sfez66z.cloudfront.net/09-10-2020/t_5463566cbfeb4c7a9aeb345f3eeb2dd2_name_Waffle_house_shooting.JPG"
       },
       {
-         "title" : "European Central Bank keeps rates and stimulus program unchanged, despite stronger euro - CNBC",
          "description" : "The euro, which is closely watched by the central bank, has risen over 5% against the the dollar since the start of July and hit a session high after the ECB's decision.",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106354120-1579884106653rts2zk7p.jpg?v=1579884172",
+         "publishedAt" : "2020-09-10T11:46:00Z",
+         "author" : "Silvia Amaro",
          "content" : "The European Central Bank announced Thursday it was keeping its interest rates and coronavirus-stimulus program unchanged, despite a stronger euro putting pressure on the policymakers.\r\nThe euro, whi… [+1544 chars]",
+         "title" : "European Central Bank keeps rates and stimulus program unchanged, despite stronger euro - CNBC",
          "url" : "https://www.cnbc.com/2020/09/10/ecb-rate-decision-and-economic-forecasts-september-2020.html",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106354120-1579884106653rts2zk7p.jpg?v=1579884172",
          "source" : {
             "name" : "CNBC",
             "id" : null
-         },
-         "publishedAt" : "2020-09-10T11:46:00Z",
-         "author" : "Silvia Amaro"
+         }
       },
       {
-         "urlToImage" : "https://images.mktw.net/im-230496/social",
-         "description" : "Critical information ahead of the U.S. trading day",
-         "title" : "Own Tesla, Apple, Beyond Meat? You'd better believe in them, says this top-performing fund house - MarketWatch",
-         "publishedAt" : "2020-09-10T11:00:00Z",
          "author" : "Barbara Kollmeyer",
+         "publishedAt" : "2020-09-10T11:00:00Z",
+         "description" : "Critical information ahead of the U.S. trading day",
          "source" : {
             "name" : "MarketWatch",
             "id" : null
          },
+         "title" : "Own Tesla, Apple, Beyond Meat? You'd better believe in them, says this top-performing fund house - MarketWatch",
+         "url" : "https://www.marketwatch.com/story/own-tesla-apple-beyond-meat-youd-better-believe-in-them-says-this-top-performing-fund-house-11599735605",
          "content" : "Wall Street may be ready to give back Wednesdays stock gains as fast as it earned them, judging by futures, as investors also wait to hear from a European Central Bank press conference and weekly job… [+4985 chars]",
-         "url" : "https://www.marketwatch.com/story/own-tesla-apple-beyond-meat-youd-better-believe-in-them-says-this-top-performing-fund-house-11599735605"
+         "urlToImage" : "https://images.mktw.net/im-230496/social"
       },
       {
-         "publishedAt" : "2020-09-10T10:46:00Z",
-         "author" : "Michelle Toh, CNN Business",
+         "title" : "Warren Buffett and Marc Benioff are getting in on Snowflake's IPO - CNN",
+         "url" : "https://www.cnn.com/2020/09/10/tech/snowflake-ipo-buffett-benioff-intl-hnk/index.html",
+         "content" : null,
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200910095810-snowflake-cloud-data-file-super-tease.jpg",
          "source" : {
             "name" : "CNN",
             "id" : "cnn"
          },
-         "content" : null,
-         "url" : "https://www.cnn.com/2020/09/10/tech/snowflake-ipo-buffett-benioff-intl-hnk/index.html",
-         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200910095810-snowflake-cloud-data-file-super-tease.jpg",
+         "publishedAt" : "2020-09-10T10:46:00Z",
          "description" : "Cloud computing firm Snowflake has just won itself two big-name backers on its road to go public: Berkshire Hathaway and Salesforce.",
-         "title" : "Warren Buffett and Marc Benioff are getting in on Snowflake's IPO - CNN"
+         "author" : "Michelle Toh, CNN Business"
       },
       {
-         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/09/0/0/AstraZeneca-Vaccine-iStock.jpg?ve=1&tl=1",
-         "description" : "AstraZeneca should still know before the end of the year whether its experimental vaccine protects people against COVID-19, the drugmaker’s chief executive Pascal Soriot said on Thursday, as long as it can resume trials soon.",
-         "title" : "AstraZeneca should know by year-end whether coronavirus vaccine works if trials restart - Fox Business",
          "author" : "Reuters",
          "publishedAt" : "2020-09-10T10:34:09Z",
+         "description" : "AstraZeneca should still know before the end of the year whether its experimental vaccine protects people against COVID-19, the drugmaker’s chief executive Pascal Soriot said on Thursday, as long as it can resume trials soon.",
          "source" : {
-            "id" : null,
-            "name" : "Fox Business"
+            "name" : "Fox Business",
+            "id" : null
          },
+         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/09/0/0/AstraZeneca-Vaccine-iStock.jpg?ve=1&tl=1",
          "url" : "https://www.foxbusiness.com/markets/astrazeneca-coronavirus-vaccine-end-of-year",
+         "title" : "AstraZeneca should know by year-end whether coronavirus vaccine works if trials restart - Fox Business",
          "content" : "ZURICH/FRANKFURT (Reuters) - AstraZeneca should still know before the end of the year whether its experimental vaccine protects people against COVID-19, the drugmaker’s chief executive Pascal Soriot … [+2140 chars]"
       },
       {
-         "description" : "‘Is it fair that I ask for a salary, or just help him grow the business if he continues to pay for everything?’",
-         "urlToImage" : "https://s.marketwatch.com/public/resources/images/MW-IA704_moneyi_ZG_20200221130839.jpg",
          "title" : "My fiancé wants me to give up my cushy six-figure job to work at his landscaping company. Should I ask him to pay me a salary? - MarketWatch",
-         "author" : "Quentin Fottrell",
-         "publishedAt" : "2020-09-10T10:33:00Z",
          "url" : "https://www.marketwatch.com/story/my-fiance-wants-me-to-give-up-my-cushy-six-figure-job-to-work-at-his-landscaping-company-should-i-ask-him-to-pay-me-a-salary-2020-09-10",
          "content" : "My fiancé has a very successful landscaping company, which is about five years old. Ive been in corporate banking for 15 years. My fiancé and I are discussing me quitting my cushy six-figure job and … [+4190 chars]",
+         "urlToImage" : "https://s.marketwatch.com/public/resources/images/MW-IA704_moneyi_ZG_20200221130839.jpg",
          "source" : {
             "id" : null,
             "name" : "MarketWatch"
-         }
+         },
+         "publishedAt" : "2020-09-10T10:33:00Z",
+         "description" : "‘Is it fair that I ask for a salary, or just help him grow the business if he continues to pay for everything?’",
+         "author" : "Quentin Fottrell"
       },
       {
-         "author" : "Caitlin Ostroff",
-         "publishedAt" : "2020-09-10T10:18:00Z",
-         "url" : "https://www.wsj.com/articles/global-stock-markets-dow-update-09-10-2020-11599729928",
-         "content" : "U.S. stock futures fell Thursday as a rebound in technology stocks looked set to lose steam.\r\nFutures tied to the S&amp;P 500 slid 0.3% and futures linked to the tech-heavy Nasdaq fell 0.2%, indicati… [+145 chars]",
          "source" : {
             "id" : "the-wall-street-journal",
             "name" : "The Wall Street Journal"
          },
          "urlToImage" : "https://images.wsj.net/im-230481/social",
+         "content" : "U.S. stock futures fell Thursday as a rebound in technology stocks looked set to lose steam.\r\nFutures tied to the S&amp;P 500 slid 0.3% and futures linked to the tech-heavy Nasdaq fell 0.2%, indicati… [+145 chars]",
+         "url" : "https://www.wsj.com/articles/global-stock-markets-dow-update-09-10-2020-11599729928",
+         "title" : "U.S. Stock Futures Stabilize as Tech Rally Fades - The Wall Street Journal",
+         "author" : "Caitlin Ostroff",
          "description" : "Nasdaq futures edge down as investors remain wary about tech shares",
-         "title" : "U.S. Stock Futures Stabilize as Tech Rally Fades - The Wall Street Journal"
+         "publishedAt" : "2020-09-10T10:18:00Z"
       },
       {
          "source" : {
-            "id" : null,
-            "name" : "Motley Fool"
+            "name" : "Motley Fool",
+            "id" : null
          },
          "content" : "Pfizer(NYSE:PFE) hasn't been bashful about playing up the prospects for its coronavirus vaccine candidate, BNT162b2, co-developed with BioNTech(NASDAQ:BNTX). The company even predicted that it would … [+3654 chars]",
          "url" : "https://www.fool.com/investing/2020/09/10/pfizers-latest-stealthy-move-could-help-it-win-the/",
-         "publishedAt" : "2020-09-10T10:09:00Z",
-         "author" : "Keith Speights",
          "title" : "Pfizer's Latest Stealthy Move Could Help It Win the Coronavirus Vaccine Race - Motley Fool",
+         "urlToImage" : "https://g.foolcdn.com/editorial/images/590802/coronavirus-vaccine-bottles.jpg",
+         "author" : "Keith Speights",
          "description" : "The big drugmaker is taking a quiet but smart step with its COVID-19 vaccine program.",
-         "urlToImage" : "https://g.foolcdn.com/editorial/images/590802/coronavirus-vaccine-bottles.jpg"
+         "publishedAt" : "2020-09-10T10:09:00Z"
       },
       {
-         "publishedAt" : "2020-09-10T10:04:00Z",
-         "author" : null,
          "source" : {
             "name" : "Motley Fool",
             "id" : null
          },
          "content" : "Social Security benefits are a vital source of income for millions of retirees. In fact, nearly one-quarter of married couples and close to half of unmarried beneficiaries say their benefits make up … [+4842 chars]",
+         "title" : "How a Roth IRA Could Help You Keep More of Your Social Security Benefits - MSN Money",
          "url" : "https://www.fool.com/retirement/2020/09/10/how-roth-ira-could-help-keep-more-social-security/?source=eptmsmlnk0000001&amp;utm_source=msnrss&amp;utm_medium=feed&amp;utm_campaign=article",
          "urlToImage" : "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB18Tt8L.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg",
+         "author" : null,
          "description" : "You could save serious cash in retirement by taking advantage of a Roth IRA.",
-         "title" : "How a Roth IRA Could Help You Keep More of Your Social Security Benefits - MSN Money"
+         "publishedAt" : "2020-09-10T10:04:00Z"
       },
       {
-         "description" : "Young investors should use corrections as opportunities to pounce on high-quality companies.",
-         "urlToImage" : "https://g.foolcdn.com/editorial/images/590860/financial-newspaper-dollar-sign-stock-quotes-invest-getty.jpg",
-         "title" : "3 Stocks for Robinhood Investors to Buy During a Stock Market Crash - Motley Fool",
-         "publishedAt" : "2020-09-10T09:51:00Z",
-         "author" : "Sean Williams",
          "source" : {
             "name" : "Motley Fool",
             "id" : null
          },
+         "urlToImage" : "https://g.foolcdn.com/editorial/images/590860/financial-newspaper-dollar-sign-stock-quotes-invest-getty.jpg",
+         "title" : "3 Stocks for Robinhood Investors to Buy During a Stock Market Crash - Motley Fool",
+         "url" : "https://www.fool.com/investing/2020/09/10/3-stocks-for-robinhood-investors-to-buy-during-a-s/",
          "content" : "This has been a year like none other for the investment community. In a roughly six-month span, Wall Street crammed in the steepest and quickest bear market decline in history, as well as the fastest… [+6703 chars]",
-         "url" : "https://www.fool.com/investing/2020/09/10/3-stocks-for-robinhood-investors-to-buy-during-a-s/"
+         "author" : "Sean Williams",
+         "publishedAt" : "2020-09-10T09:51:00Z",
+         "description" : "Young investors should use corrections as opportunities to pounce on high-quality companies."
       },
       {
-         "title" : "Walmart launches a drone delivery program in North Carolina - Engadget",
+         "publishedAt" : "2020-09-10T09:25:20Z",
          "description" : "Shortly after receiving final FAA approval for drone deliveries, Amazon already has a rival. Walmart announced that it will start a pilot program with drone company Flytrex to deliver groceries and other household essentials from its superstore in Fayettevill…",
-         "urlToImage" : "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-09%2F8b346160-f33a-11ea-b9b5-a5f7a7badd50&client=amp-blogside-v2&signature=d6ac55c0ae194ee4503ea4c83852809458727e83",
-         "content" : "Shortly after receiving final FAA approval for drone deliveries, Amazon already has a rival. Walmart announced that it will start a pilot program with drone company Flytrex to deliver groceries and o… [+547 chars]",
+         "author" : "",
+         "title" : "Walmart launches a drone delivery program in North Carolina - Engadget",
          "url" : "https://www.engadget.com/walmart-faa-drone-delivery-pilot-092519813.html",
+         "content" : "Shortly after receiving final FAA approval for drone deliveries, Amazon already has a rival. Walmart announced that it will start a pilot program with drone company Flytrex to deliver groceries and o… [+547 chars]",
+         "urlToImage" : "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-09%2F8b346160-f33a-11ea-b9b5-a5f7a7badd50&client=amp-blogside-v2&signature=d6ac55c0ae194ee4503ea4c83852809458727e83",
          "source" : {
             "name" : "Engadget",
             "id" : "engadget"
-         },
-         "publishedAt" : "2020-09-10T09:25:20Z",
-         "author" : ""
+         }
       },
       {
+         "publishedAt" : "2020-09-10T09:05:00Z",
+         "description" : "(Bloomberg) -- ByteDance Ltd. is increasingly likely to miss a Trump administration deadline for the sale of its TikTok U.S. operations after new Chinese regulations complicated negotiations with bidders Microsoft Corp. and Oracle Corp., according to people f…",
+         "author" : "Bloomberg News",
+         "title" : "ByteDance Is Poised to Miss U.S. Deadline for TikTok Sale - Yahoo Finance",
          "url" : "https://finance.yahoo.com/news/bytedance-poised-miss-u-deadline-090526147.html",
          "content" : "(Bloomberg) -- ByteDance Ltd. is increasingly likely to miss a Trump administration deadline for the sale of its TikTok U.S. operations after new Chinese regulations complicated negotiations with bid… [+5435 chars]",
+         "urlToImage" : "https://s.yimg.com/uu/api/res/1.2/pW_7Tp.CFRPix9A3T7fHHw--~B/aD0xMzMzO3c9MjAwMDtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bloomberg_markets_842/15f65f981e783cad35dfaaa5b0e3b3fa",
          "source" : {
             "id" : null,
             "name" : "Yahoo Entertainment"
-         },
-         "author" : "Bloomberg News",
-         "publishedAt" : "2020-09-10T09:05:00Z",
-         "title" : "ByteDance Is Poised to Miss U.S. Deadline for TikTok Sale - Yahoo Finance",
-         "description" : "(Bloomberg) -- ByteDance Ltd. is increasingly likely to miss a Trump administration deadline for the sale of its TikTok U.S. operations after new Chinese regulations complicated negotiations with bidders Microsoft Corp. and Oracle Corp., according to people f…",
-         "urlToImage" : "https://s.yimg.com/uu/api/res/1.2/pW_7Tp.CFRPix9A3T7fHHw--~B/aD0xMzMzO3c9MjAwMDtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bloomberg_markets_842/15f65f981e783cad35dfaaa5b0e3b3fa"
+         }
       },
       {
-         "publishedAt" : "2020-09-10T09:05:00Z",
-         "author" : "Hanna Ziady, CNN Business",
-         "source" : {
-            "name" : "CNN",
-            "id" : "cnn"
-         },
          "content" : "London (CNN Business)BP is moving into offshore wind power for the first time with a $1.1 billion investment in the United States, as the company pushes into clean energy following a century of oil e… [+1711 chars]",
          "url" : "https://www.cnn.com/2020/09/10/business/bp-offshore-wind-equinor/index.html",
-         "description" : "BP is moving into offshore wind power for the first time with a $1.1 billion investment in the United States, as the company pushes into clean energy following a century of oil exploration.",
+         "title" : "BP invests in offshore wind to power 2 million American homes - CNN",
          "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200910092955-bp-ceo-bernard-looney-file-super-tease.jpg",
-         "title" : "BP invests in offshore wind to power 2 million American homes - CNN"
+         "source" : {
+            "id" : "cnn",
+            "name" : "CNN"
+         },
+         "description" : "BP is moving into offshore wind power for the first time with a $1.1 billion investment in the United States, as the company pushes into clean energy following a century of oil exploration.",
+         "publishedAt" : "2020-09-10T09:05:00Z",
+         "author" : "Hanna Ziady, CNN Business"
       },
       {
-         "author" : "Eshe Nelson",
-         "publishedAt" : "2020-09-10T09:00:00Z",
+         "urlToImage" : "https://static01.nyt.com/images/2020/09/10/business/10uk-offices-1/09uk-offices-1-facebookJumbo.jpg",
          "url" : "https://www.nytimes.com/2020/09/10/business/london-offices-.html",
+         "title" : "London Offices Aren’t Refilling Fast Enough for Shops Relying on Them - The New York Times",
          "content" : "A short walk away, James Shoe Care is running at a loss. An employee, Robert Cane, said he was worried that hed be without a job once the governments furlough program which provides him wage subsidie… [+1426 chars]",
          "source" : {
             "name" : "New York Times",
             "id" : null
          },
-         "urlToImage" : "https://static01.nyt.com/images/2020/09/10/business/10uk-offices-1/09uk-offices-1-facebookJumbo.jpg",
+         "publishedAt" : "2020-09-10T09:00:00Z",
          "description" : "The British government and business lobby want workers to return to support surrounding businesses, but some city offices are only 15 percent full.",
-         "title" : "London Offices Aren’t Refilling Fast Enough for Shops Relying on Them - The New York Times"
+         "author" : "Eshe Nelson"
       },
       {
-         "publishedAt" : "2020-09-10T07:45:00Z",
-         "author" : "Elliot Smith",
-         "content" : "Insurance marketplace Lloyd's of London posted a first-half pre-tax loss of £400 million ($520.08 million) on Thursday, on the back of £2.4 billion in coronavirus-related payouts so far this year.\r\nT… [+1831 chars]",
-         "url" : "https://www.cnbc.com/2020/09/10/lloyds-of-london-h1-earnings.html",
          "source" : {
             "id" : null,
             "name" : "CNBC"
          },
          "urlToImage" : "https://image.cnbcfm.com/api/v1/image/105078816-GettyImages-524874296.jpg?v=1532563666",
-         "description" : "Insurance marketplace Lloyd's of London posted a first-half pre-tax loss of £400 million ($520.08 million) on Thursday, on the back of £2.4 billion in coronavirus-related payouts so far this year.",
-         "title" : "Insurance market Lloyd’s of London swings to loss after $3 billion in coronavirus claims - CNBC"
+         "url" : "https://www.cnbc.com/2020/09/10/lloyds-of-london-h1-earnings.html",
+         "title" : "Insurance market Lloyd’s of London swings to loss after $3 billion in coronavirus claims - CNBC",
+         "content" : "Insurance marketplace Lloyd's of London posted a first-half pre-tax loss of £400 million ($520.08 million) on Thursday, on the back of £2.4 billion in coronavirus-related payouts so far this year.\r\nT… [+1831 chars]",
+         "author" : "Elliot Smith",
+         "publishedAt" : "2020-09-10T07:45:00Z",
+         "description" : "Insurance marketplace Lloyd's of London posted a first-half pre-tax loss of £400 million ($520.08 million) on Thursday, on the back of £2.4 billion in coronavirus-related payouts so far this year."
       },
       {
-         "title" : "Unemployment Benefits Are at Heart of a Debate Over Hiring - The New York Times",
-         "urlToImage" : "https://static01.nyt.com/images/2020/09/03/business/03virus-hiring-01/00virus-hiring-01-facebookJumbo.jpg",
+         "author" : "Patricia Cohen",
+         "publishedAt" : "2020-09-10T07:00:00Z",
          "description" : "A $600-a-week supplement that expired in July has been credited with bolstering the economy. Its impact on hiring is central to a political fight.",
-         "content" : "Within two or three days of the benefits expiration, he said, applications tripled. When the government approved the $300 replacement, he said, the numbers began to dwindle, even though most states h… [+1690 chars]",
-         "url" : "https://www.nytimes.com/2020/09/10/business/economy/unemployment-benefits-hiring.html",
          "source" : {
             "id" : null,
             "name" : "New York Times"
          },
-         "publishedAt" : "2020-09-10T07:00:00Z",
-         "author" : "Patricia Cohen"
+         "url" : "https://www.nytimes.com/2020/09/10/business/economy/unemployment-benefits-hiring.html",
+         "title" : "Unemployment Benefits Are at Heart of a Debate Over Hiring - The New York Times",
+         "content" : "Within two or three days of the benefits expiration, he said, applications tripled. When the government approved the $300 replacement, he said, the numbers began to dwindle, even though most states h… [+1690 chars]",
+         "urlToImage" : "https://static01.nyt.com/images/2020/09/03/business/03virus-hiring-01/00virus-hiring-01-facebookJumbo.jpg"
       },
       {
-         "content" : "NEW DELHI/DUBAI (Reuters) - India’s Reliance Industries Ltd (RELI.NS) has approached investors in its digital business about potentially buying stakes in its retail arm, two sources with direct knowl… [+4020 chars]",
-         "url" : "https://www.reuters.com/article/us-reliance-investment-amazon-com-idUSKBN2610V7",
-         "source" : {
-            "name" : "Reuters",
-            "id" : "reuters"
-         },
          "publishedAt" : "2020-09-10T06:53:00Z",
+         "description" : "India's Reliance Industries Ltd has approached investors in its digital business about potentially buying stakes in its retail arm, two sources with direct knowledge of the matter said on Thursday.",
          "author" : "Aditya Kalra",
+         "url" : "https://www.reuters.com/article/us-reliance-investment-amazon-com-idUSKBN2610V7",
          "title" : "India's Reliance offers Amazon $20 billion stake in retail arm: Bloomberg News - Reuters",
+         "content" : "NEW DELHI/DUBAI (Reuters) - India’s Reliance Industries Ltd (RELI.NS) has approached investors in its digital business about potentially buying stakes in its retail arm, two sources with direct knowl… [+4020 chars]",
          "urlToImage" : "https://s1.reutersmedia.net/resources/r/?m=02&d=20200910&t=2&i=1532895281&w=1200&r=LYNXMPEG8914A",
-         "description" : "India's Reliance Industries Ltd has approached investors in its digital business about potentially buying stakes in its retail arm, two sources with direct knowledge of the matter said on Thursday."
+         "source" : {
+            "id" : "reuters",
+            "name" : "Reuters"
+         }
       },
       {
          "publishedAt" : "2020-09-10T05:04:00Z",
+         "description" : "Some of Wall Street’s biggest players are viewing the stock market's recent tech-led selloff as a bout of turbulence rather than the start of a longer slide -- and they don't see it as a reason to run for the door.",
          "author" : "Lewis Krauskopf",
-         "content" : "NEW YORK (Reuters) - Some of Wall Street’s biggest players are viewing the stock market’s recent tech-led selloff as a bout of turbulence rather than the start of a longer slide and they don’t see it… [+3777 chars]",
+         "urlToImage" : "https://s4.reutersmedia.net/resources/r/?m=02&d=20200910&t=2&i=1532844709&w=1200&r=LYNXMPEG890C8",
+         "title" : "Wall Street sees a bright side in 'healthy' tech selloff - Reuters",
          "url" : "https://www.reuters.com/article/us-usa-stocks-dip-analysis-idUSKBN2610L3",
+         "content" : "NEW YORK (Reuters) - Some of Wall Street’s biggest players are viewing the stock market’s recent tech-led selloff as a bout of turbulence rather than the start of a longer slide and they don’t see it… [+3777 chars]",
          "source" : {
             "name" : "Reuters",
             "id" : "reuters"
-         },
-         "description" : "Some of Wall Street’s biggest players are viewing the stock market's recent tech-led selloff as a bout of turbulence rather than the start of a longer slide -- and they don't see it as a reason to run for the door.",
-         "urlToImage" : "https://s4.reutersmedia.net/resources/r/?m=02&d=20200910&t=2&i=1532844709&w=1200&r=LYNXMPEG890C8",
-         "title" : "Wall Street sees a bright side in 'healthy' tech selloff - Reuters"
+         }
       },
       {
-         "title" : "Soybean futures have been surging on Chinese demand, trade group CEO says buying could continue - CNBC",
-         "description" : "On Tuesday, prices of U.S. soybean futures rose to their highest levels since 2018 after the U.S. Department of Agriculture said that Chinese buyers purchased 664,000 tonnes, the largest daily total since July 22.",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/105911788-1557831591319gettyimages-1142701429.jpeg?v=1599708083",
-         "content" : "Global soybean demand has been robust recently, with new American crop sales at record levels, said Jim Sutter, CEO of the U.S. Soybean Export Council.\r\nOn Tuesday, prices of U.S. soybean futures ros… [+1785 chars]",
-         "url" : "https://www.cnbc.com/2020/09/10/soybeans-have-been-surging-on-chinese-demand-and-purchases-could-continue.html",
-         "source" : {
-            "name" : "CNBC",
-            "id" : null
-         },
+         "author" : "Huileng Tan",
          "publishedAt" : "2020-09-10T05:03:00Z",
-         "author" : "Huileng Tan"
+         "description" : "On Tuesday, prices of U.S. soybean futures rose to their highest levels since 2018 after the U.S. Department of Agriculture said that Chinese buyers purchased 664,000 tonnes, the largest daily total since July 22.",
+         "source" : {
+            "id" : null,
+            "name" : "CNBC"
+         },
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/105911788-1557831591319gettyimages-1142701429.jpeg?v=1599708083",
+         "title" : "Soybean futures have been surging on Chinese demand, trade group CEO says buying could continue - CNBC",
+         "url" : "https://www.cnbc.com/2020/09/10/soybeans-have-been-surging-on-chinese-demand-and-purchases-could-continue.html",
+         "content" : "Global soybean demand has been robust recently, with new American crop sales at record levels, said Jim Sutter, CEO of the U.S. Soybean Export Council.\r\nOn Tuesday, prices of U.S. soybean futures ros… [+1785 chars]"
       }
-   ],
-   "status" : "ok"
+   ]
 }
