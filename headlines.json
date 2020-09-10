@@ -1,266 +1,266 @@
 {
+   "status" : "ok",
+   "totalResults" : 70,
    "articles" : [
       {
-         "publishedAt" : "2020-09-09T21:46:01Z",
-         "url" : "https://www.theverge.com/2020/9/9/21429462/white-house-trump-covid-airport-screening-security-temperature-check",
-         "author" : "Nicole Wetsman",
-         "title" : "White House reportedly moves to eliminate COVID-19 security theater at airports - The Verge",
-         "content" : "Its another sign the Trump administration is pushing the pandemic out of sight\r\nPhoto by Eduardo Munoz Alvarez/Getty Images\r\nInternational travelers arriving in the United States will reportedly no l… [+3379 chars]",
-         "urlToImage" : "https://cdn.vox-cdn.com/thumbor/C4jlcZF6UgaqUDB3uA_-5VbLgEc=/0x252:3500x2084/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/21867690/1228409263.jpg.jpg",
+         "source" : {
+            "id" : "buzzfeed",
+            "name" : "Buzzfeed"
+         },
+         "description" : "\"Don't talk to me until I've had my morning Travis Scott burger.\"",
+         "title" : "The Travis Scott Meal Just Released At McDonald’s, And The Internet's Reaction Has Me Rolling - BuzzFeed",
+         "author" : "[{\"@type\":\"Person\",\"name\":\"Liz Richardson\",\"url\":\"https://www.buzzfeed.com/lizmrichardson\",\"jobTitle\":\"BuzzFeed Staff\"}]",
+         "content" : null,
+         "url" : "https://www.buzzfeed.com/lizmrichardson/travis-scott-meal-mcdonalds-reactions",
+         "publishedAt" : "2020-09-09T23:14:49Z",
+         "urlToImage" : "https://img.buzzfeed.com/buzzfeed-static/static/2020-09/9/20/enhanced/130b722bf474/original-2452-1599683724-16.jpg?crop=1246:652;1,56%26downsize=1250:*"
+      },
+      {
+         "publishedAt" : "2020-09-09T23:07:00Z",
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200528131338-jcpenney-store-0515-super-tease.jpg",
+         "author" : "Nathaniel Meyersohn and Chris Isidore, CNN Business",
+         "url" : "https://www.cnn.com/2020/09/09/business/jcpenney-simon-property-brookfield/index.html",
+         "content" : "New York (CNN Business)Mall owners Simon Property Group and Brookfield Property Group have an agreement to buy JCPenney out of bankruptcy, the companies said Wednesday.\r\nSimon and Brookfield intend t… [+1589 chars]",
+         "source" : {
+            "id" : "cnn",
+            "name" : "CNN"
+         },
+         "title" : "Mall owners set to buy JCPenney out of bankruptcy - CNN",
+         "description" : "Mall owners Simon Property Group and Brookfield Property Group have an agreement to buy JCPenney out of bankruptcy, the companies said Wednesday."
+      },
+      {
+         "urlToImage" : "https://cdn.vox-cdn.com/thumbor/qnVUAwMPVdisoTLaogVOcPpJ8Dg=/0x358:5000x2976/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/21867153/8.jpg",
+         "publishedAt" : "2020-09-09T23:00:00Z",
+         "author" : "Andrew J. Hawkins",
+         "content" : "Lucid Motors unveiled its first vehicle, the Lucid Air electric sedan, at a virtual event from the companys Silicon Valley headquarters. The sedan will get up to 517 miles of range, can hit a quarter… [+11068 chars]",
+         "url" : "https://www.theverge.com/2020/9/9/21429319/lucid-motors-air-electric-sedan-price-specs-range-reveal",
          "source" : {
             "id" : "the-verge",
             "name" : "The Verge"
          },
-         "description" : "The Trump administration is reportedly eliminating enhanced COVID-19 health screenings for international travelers entering the United States. The screenings catch very few infected travelers."
+         "title" : "The Lucid Air is a luxury electric sedan with the speed and power to rival Tesla - The Verge",
+         "description" : "The Lucid Air, the new electric sedan from Silicon Valley-based startup Lucid Motors, was finally revealed after years of delays. The luxury vehicle starts at $80,000, can get up to 517 miles of range, and boasts a 0-60 mph sprint in 2.5 seconds. The startup …"
       },
       {
-         "publishedAt" : "2020-09-09T21:39:00Z",
-         "title" : "JPMorgan Finds Some Workers Improperly Pocketed Relief Funds - Bloomberg",
-         "author" : null,
-         "url" : "https://www.bloomberg.com/tosv2.html?vid=&uuid=b14c3ad0-f2ef-11ea-8fa1-997c8ea5f83f&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wOS0wOS9qcG1vcmdhbi1maW5kcy1zb21lLXdvcmtlcnMtaW1wcm9wZXJseS1wb2NrZXRlZC1yZWxpZWYtZnVuZHM=",
-         "content" : "To continue, please click the box below to let us know you're not a robot.",
-         "urlToImage" : null,
-         "description" : null,
          "source" : {
-            "name" : "Bloomberg",
-            "id" : "bloomberg"
+            "id" : null,
+            "name" : "CNBC"
+         },
+         "title" : "Jim Cramer breaks down how an S&P 500 climb could be followed by a 'truly savage sell-off' - CNBC",
+         "description" : "\"The recent sell-off could be a sign that this bull's getting long in the tooth,\" the \"Mad Money\" host said, citing analysis from chartist Carley Garner.",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/104928147-GettyImages-896245900.jpg?v=1598468015",
+         "publishedAt" : "2020-09-09T22:49:00Z",
+         "author" : "Tyler Clifford",
+         "content" : "Investors may want to approach the market with caution, despite the three-day sell-off that hit Wall Street, according to analysis from a trusted source of Jim Cramer.\r\nCarley Garner, technical analy… [+2369 chars]",
+         "url" : "https://www.cnbc.com/2020/09/09/jim-cramer-breaks-down-how-an-sp-500-climb-could-be-followed-by-a-truly-savage-sell-off.html"
+      },
+      {
+         "description" : "AstraZeneca's COVID-19 vaccine candidate are on temporary hold while the company investigates if a report of a patient with a serious side effect is linked to the shot.",
+         "title" : "Coronavirus Chicago: AstraZeneca COVID-19 vaccine study paused worldwide after patient reports serious side effects - WLS-TV",
+         "source" : {
+            "id" : null,
+            "name" : "WLS-TV"
+         },
+         "publishedAt" : "2020-09-09T22:30:00Z",
+         "urlToImage" : "https://cdn.abcotvs.com/dip/images/6416073_090920-wls-ravi-vaccine-trial-430-vid.jpg?w=1600",
+         "content" : "CHICAGO (WLS) -- AstraZeneca's COVID-19 vaccine trial is on hold after a patient overseas reported serious side effects. It's not yet known if they are related to the vaccine.Three Chicago hospitals,… [+3118 chars]",
+         "url" : "https://abc7chicago.com/astrazeneca-covid-vaccine-paused-19-pauses-trial/6415174/",
+         "author" : "Ravi Baichwal"
+      },
+      {
+         "source" : {
+            "id" : null,
+            "name" : "CNBC"
+         },
+         "title" : "Palantir is being valued around $10.5 billion ahead of direct listing as investors question growth story - CNBC",
+         "description" : "In updated prospectus on Wednesday, Palantir said it has 1.64 billion shares outstanding as of Sept. 1, which indicates a valuation of about $10.5 billion.",
+         "author" : "Ari Levy",
+         "url" : "https://www.cnbc.com/2020/09/09/palantir-valued-at-about-10point5-billion-ahead-of-direct-listing.html",
+         "content" : "Alexander Karp, CEO of Palantir Technologies Inc.\r\nAs Palantir gears up for its stock market debut, the company has a long way to go to convince potential shareholders that it's worth the $20 billion… [+5000 chars]",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/104303936-GettyImages-479828890.jpg?v=1532563904",
+         "publishedAt" : "2020-09-09T22:12:00Z"
+      },
+      {
+         "source" : {
+            "id" : null,
+            "name" : "CNBC"
+         },
+         "description" : "U.S. stock futures hovered near the flat line after a market rebound on Wednesday.",
+         "title" : "Stock futures rise slightly following tech rebound - CNBC",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106690973-1599223873163-gettyimages-1270333554-dscf9532_2020090275914162.jpeg?v=1599687783",
+         "publishedAt" : "2020-09-09T22:05:00Z",
+         "author" : "Jesse Pound",
+         "content" : "U.S. stock futures were little changed higher on Wednesday night following a rebound during market hours that stopped a three-day skid. \r\nFutures for the Dow Jones Industrial Average fell about 20 po… [+2148 chars]",
+         "url" : "https://www.cnbc.com/2020/09/09/stock-market-futures-open-to-close-newshtml.html"
+      },
+      {
+         "content" : "From lighting to sound, here are 5 tips to prepare for a virtual job interview.\r\nUSA TODAY\r\nNEW YORK Amazon is on a hiring spree.\r\nIn the latest sign of how it's prospering while others are faltering… [+4205 chars]",
+         "url" : "https://www.usatoday.com/story/money/2020/09/09/amazon-online-career-fair-2020-resume-help/5764220002/",
+         "author" : "Joseph Pisani",
+         "publishedAt" : "2020-09-09T21:51:10Z",
+         "urlToImage" : "https://www.gannett-cdn.com/presto/2020/09/09/USAT/418f436f-cf93-4a08-acdf-f06fc1368c29-AP20253465591194.jpg?crop=3071,1727,x0,y156&width=1600&height=800&fit=bounds",
+         "title" : "Looking for a job? Amazon hiring 33,000 workers for corporate and tech roles with average pay of $150,000 - USA TODAY",
+         "description" : "Amazon said Wednesday it is seeking to bring aboard 33,000 people for corporate and tech roles in the next few months.",
+         "source" : {
+            "name" : "USA Today",
+            "id" : "usa-today"
          }
       },
       {
-         "publishedAt" : "2020-09-09T21:38:54Z",
-         "title" : "Tesla is 'profoundly overvalued,' and its exclusion from the S&P 500 was a 'brave' decision by the index committee, DataTrek says | Markets - Business Insider",
-         "author" : "Matthew Fox",
-         "url" : "https://www.businessinsider.com/tesla-stock-sp500-exclusion-index-overvalued-profoundly-datatrek-committee-why-2020-9",
-         "content" : "Elon Musk.\r\nAP Photo/Susan Walsh\r\n<ul><li>Tesla's exclusion from the S&amp;P 500 index on Friday was a \"brave\" decision by the index committee, DataTrek said in a note on Wednesday.</li><li>The note … [+2530 chars]",
-         "urlToImage" : "https://i.insider.com/5f591791e6ff30001d4e7cf9?format=jpeg",
          "source" : {
-            "id" : "business-insider",
-            "name" : "Business Insider"
+            "name" : "Fox News",
+            "id" : "fox-news"
          },
-         "description" : "Tesla is 'profoundly overvalued,' and its exclusion from the S&P 500 was a 'brave' decision by the index committee, DataTrek says"
+         "title" : "Halloween candy slide may help trick-or-treating stay socially distanced - Fox News",
+         "description" : "Here’s a handy trick to help safely hand out treats this Halloween.",
+         "publishedAt" : "2020-09-09T21:47:48Z",
+         "urlToImage" : "https://static.foxnews.com/foxnews.com/content/uploads/2020/07/pumpkin-candy.jpg",
+         "author" : "James Leggate",
+         "content" : "Here’s a handy trick to help safely hand out treats this Halloween.\r\nThe coronavirus pandemic will likely spoil a lot of Halloween traditions this year. But for people who still want to try to make t… [+2160 chars]",
+         "url" : "https://www.foxnews.com/lifestyle/candy-slide-trick-or-treating-socially-distanced-halloween"
+      },
+      {
+         "source" : {
+            "name" : "One Mile at a Time",
+            "id" : null
+         },
+         "title" : "US Ends International Traveler COVID-19 Screenings - One Mile at a Time",
+         "description" : "The US will stop performing additional health screenings on international travelers arriving from \"high risk\" countries. Here's why.",
+         "urlToImage" : "https://onemileatatime.com/wp-content/uploads/2017/11/Aer-Lingus-A330-Business-Class-1.jpg",
+         "publishedAt" : "2020-09-09T21:41:00Z",
+         "author" : "",
+         "content" : "Here’s a development that a lot of airports, airlines, and passengers, will be excited about…\r\nCDC will stop screening arriving international travelers\r\nEarlier I shared my experience clearing US imm… [+4489 chars]",
+         "url" : "https://onemileatatime.com/us-ends-international-traveler-covid-19-screenings/"
+      },
+      {
+         "urlToImage" : null,
+         "publishedAt" : "2020-09-09T21:39:00Z",
+         "author" : null,
+         "url" : "https://www.bloomberg.com/tosv2.html?vid=&uuid=b14c3ad0-f2ef-11ea-8fa1-997c8ea5f83f&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wOS0wOS9qcG1vcmdhbi1maW5kcy1zb21lLXdvcmtlcnMtaW1wcm9wZXJseS1wb2NrZXRlZC1yZWxpZWYtZnVuZHM=",
+         "content" : "To continue, please click the box below to let us know you're not a robot.",
+         "source" : {
+            "id" : "bloomberg",
+            "name" : "Bloomberg"
+         },
+         "title" : "JPMorgan Finds Some Workers Improperly Pocketed Relief Funds - Bloomberg",
+         "description" : null
       },
       {
          "title" : "Cancer-detection company Grail, which counts Jeff Bezos among its investors, files to go public - CNBC",
-         "author" : "Christina Farr",
-         "url" : "https://www.cnbc.com/2020/09/09/-grail-which-counts-jeff-bezos-among-investors-files-for-ipo.html",
-         "publishedAt" : "2020-09-09T21:18:00Z",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/102861872-20150724-0710-1480.jpg?v=1599685060",
-         "content" : "Grail, a start-up trying to develop a blood test to detect early-stage cancer, has filed for an initial public offering of stock. The company seeks to join the Nasdaq and trade under the symbol \"GRAL… [+3332 chars]",
+         "description" : "Grail spun out of Illumina in 2015 and has a long-term agreement that requires Grail to give a small percentage of its revenue, whenever it comes, to Illumina.",
          "source" : {
             "name" : "CNBC",
             "id" : null
          },
-         "description" : "Grail spun out of Illumina in 2015 and has a long-term agreement that requires Grail to give a small percentage of its revenue, whenever it comes, to Illumina."
+         "url" : "https://www.cnbc.com/2020/09/09/-grail-which-counts-jeff-bezos-among-investors-files-for-ipo.html",
+         "content" : "Grail, a start-up trying to develop a blood test to detect early-stage cancer, has filed for an initial public offering of stock. The company seeks to join the Nasdaq and trade under the symbol \"GRAL… [+3332 chars]",
+         "author" : "Christina Farr",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/102861872-20150724-0710-1480.jpg?v=1599685060",
+         "publishedAt" : "2020-09-09T21:18:00Z"
       },
       {
-         "author" : "Annie Palmer",
-         "title" : "Amazon adds former National Security Agency director to board after JEDI fight - CNBC",
-         "url" : "https://www.cnbc.com/2020/09/09/amazon-adds-former-nsa-director-to-board-after-jedi-fight.html",
-         "publishedAt" : "2020-09-09T20:57:00Z",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/104470663-GettyImages-456871242.jpg?v=1532563844",
-         "content" : "Amazon announced on Wednesday that Keith Alexander, a former National Security Agency director, has been named to the company's board of directors. \r\nAlexander will bring considerable national securi… [+2496 chars]",
-         "description" : "Alexander's appointment comes at a critical time for Amazon, which is still locked in a battle with Microsoft over the Pentagon's JEDI cloud contract.",
+         "url" : "https://www.foxbusiness.com/economy/no-fun-at-gamestop-after-big-drop-in-sales",
+         "content" : "Videogame and collectibles retailer GameStop Corp. reported a larger-than-expected 27% sales drop and a wider adjusted loss for the second quarter amid the pandemic.\r\nShares in aftermarket trading dr… [+1573 chars]",
+         "author" : "Dow Jones Newswires",
+         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/03/0/0/Game-Stop-iStock.jpg?ve=1&tl=1",
+         "publishedAt" : "2020-09-09T20:57:23Z",
+         "description" : "Videogame and collectibles retailer GameStop Corp. reported a larger-than-expected 27% sales drop and a wider adjusted loss for the second quarter amid the pandemic.",
+         "title" : "No fun at Gamestop after big sales drop - Fox Business",
          "source" : {
             "id" : null,
-            "name" : "CNBC"
+            "name" : "Fox Business"
          }
       },
       {
-         "description" : "A surprise build in crude oil inventories increased downward pressure on oil prices on Wednesday, threatening to erase earlier gains",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/104470663-GettyImages-456871242.jpg?v=1532563844",
+         "publishedAt" : "2020-09-09T20:57:00Z",
+         "author" : "Annie Palmer",
+         "url" : "https://www.cnbc.com/2020/09/09/amazon-adds-former-nsa-director-to-board-after-jedi-fight.html",
+         "content" : "Amazon announced on Wednesday that Keith Alexander, a former National Security Agency director, has been named to the company's board of directors. \r\nAlexander will bring considerable national securi… [+2496 chars]",
          "source" : {
-            "id" : null,
-            "name" : "OilPrice.com"
+            "name" : "CNBC",
+            "id" : null
          },
-         "content" : "Fitch Ratings has lowered its…\r\nA U.S. startup says its…\r\nBy Julianne Geiger - Sep 09, 2020, 3:45 PM CDTThe American Petroleum Institute (API) reported on Tuesday a build in crude oil inventories of … [+1730 chars]",
-         "urlToImage" : "https://d32r1sh890xpii.cloudfront.net/news/718x300/2020-09-09_0tftlhh4fq.jpg",
-         "publishedAt" : "2020-09-09T20:45:00Z",
-         "author" : "Julianne Geiger",
-         "url" : "https://oilprice.com/Latest-Energy-News/World-News/Surprise-Crude-Oil-Build-Thwarts-Price-Rally.html",
-         "title" : "Surprise Crude Oil Build Thwarts Price Rally - OilPrice.com"
+         "description" : "Alexander's appointment comes at a critical time for Amazon, which is still locked in a battle with Microsoft over the Pentagon's JEDI cloud contract.",
+         "title" : "Amazon adds former National Security Agency director to board after JEDI fight - CNBC"
       },
       {
-         "description" : "",
+         "source" : {
+            "name" : "OilPrice.com",
+            "id" : null
+         },
+         "description" : "A surprise build in crude oil inventories increased downward pressure on oil prices on Wednesday, threatening to erase earlier gains",
+         "title" : "Surprise Crude Oil Build Thwarts Price Rally - OilPrice.com",
+         "publishedAt" : "2020-09-09T20:45:00Z",
+         "urlToImage" : "https://d32r1sh890xpii.cloudfront.net/news/718x300/2020-09-09_0tftlhh4fq.jpg",
+         "author" : "Julianne Geiger",
+         "url" : "https://oilprice.com/Latest-Energy-News/World-News/Surprise-Crude-Oil-Build-Thwarts-Price-Rally.html",
+         "content" : "Fitch Ratings has lowered its…\r\nA U.S. startup says its…\r\nBy Julianne Geiger - Sep 09, 2020, 3:45 PM CDTThe American Petroleum Institute (API) reported on Tuesday a build in crude oil inventories of … [+1730 chars]"
+      },
+      {
+         "author" : "MarketWatch Automation",
+         "url" : "https://www.marketwatch.com/story/apple-inc-stock-outperforms-market-on-strong-trading-day-01599683126",
+         "content" : "Shares of Apple Inc. \r\n AAPL, \r\n +3.98%\r\nrallied 3.99% to $117.32 Wednesday, on what proved to be an all-around positive trading session for the stock market, with the NASDAQ Composite Index \r\n COMP,… [+810 chars]",
+         "publishedAt" : "2020-09-09T20:25:00Z",
+         "urlToImage" : "https://images.mktw.net/im-213861/social",
          "source" : {
             "name" : "MarketWatch",
             "id" : null
          },
-         "content" : "Shares of Apple Inc. \r\n AAPL, \r\n +3.98%\r\nrallied 3.99% to $117.32 Wednesday, on what proved to be an all-around positive trading session for the stock market, with the NASDAQ Composite Index \r\n COMP,… [+810 chars]",
-         "urlToImage" : "https://images.mktw.net/im-213861/social",
-         "publishedAt" : "2020-09-09T20:25:00Z",
-         "url" : "https://www.marketwatch.com/story/apple-inc-stock-outperforms-market-on-strong-trading-day-01599683126",
-         "title" : "Apple Inc. stock outperforms market on strong trading day - MarketWatch",
-         "author" : "MarketWatch Automation"
+         "description" : "",
+         "title" : "Apple Inc. stock outperforms market on strong trading day - MarketWatch"
       },
       {
-         "urlToImage" : "https://nypost.com/wp-content/uploads/sites/2/2020/09/infectious-disease-expert.jpg?quality=90&strip=all&w=1200",
-         "content" : "The COVID-19 vaccine participant whose unexpected illness put the AstraZeneca trials on pause came down with an inflammatory syndrome known as transverse myelitis, according to a report.\r\nThe individ… [+973 chars]",
-         "description" : "The COVID-19 vaccine participant whose unexpected illness put the AstraZeneca trials on pause came down with an inflammatory syndrome known as transverse myelitis, according to a report. The indivi…",
-         "source" : {
-            "id" : null,
-            "name" : "New York Post"
-         },
-         "url" : "https://nypost.com/2020/09/09/transverse-myelitis-the-illness-that-halted-astrazeneca-vaccine-trial/",
-         "author" : "Jackie Salo",
-         "title" : "What is transverse myelitis? The illness that halted AstraZeneca vaccine trial - New York Post ",
-         "publishedAt" : "2020-09-09T20:23:00Z"
-      },
-      {
-         "url" : "https://www.wsj.com/articles/tiktok-u-s-discuss-ways-to-avoid-sale-11599680388",
          "title" : "TikTok, U.S. Discuss Ways to Avoid Sale - The Wall Street Journal",
+         "description" : "Talks have been under way for months but gained prominence amid geopolitical wrangling",
+         "source" : {
+            "id" : "the-wall-street-journal",
+            "name" : "The Wall Street Journal"
+         },
+         "url" : "https://www.wsj.com/articles/tiktok-u-s-discuss-ways-to-avoid-sale-11599680388",
+         "content" : "TikToks Chinese parent, ByteDance Ltd., is discussing with the U.S. government possible arrangements that would allow the popular video-sharing app to avoid a full sale of its U.S. operations, accord… [+1090 chars]",
          "author" : "Miriam Gottfried, Georgia Wells, Kate Davidson",
          "publishedAt" : "2020-09-09T20:18:00Z",
-         "urlToImage" : "https://images.wsj.net/im-230189/social",
-         "content" : "TikToks Chinese parent, ByteDance Ltd., is discussing with the U.S. government possible arrangements that would allow the popular video-sharing app to avoid a full sale of its U.S. operations, accord… [+1090 chars]",
-         "source" : {
-            "name" : "The Wall Street Journal",
-            "id" : "the-wall-street-journal"
-         },
-         "description" : "Talks have been under way for months but gained prominence amid geopolitical wrangling"
+         "urlToImage" : "https://images.wsj.net/im-230189/social"
       },
       {
+         "source" : {
+            "name" : "MarketWatch",
+            "id" : null
+         },
+         "title" : "Zscaler earnings and forecast blow by expectations, but stock dips in after-hours trading - MarketWatch",
+         "description" : "Cloud-security company’s stock has more than tripled in past three months; revenue expected to grow roughly 35% in new fiscal year after 42% growth in the past year",
+         "urlToImage" : "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
          "publishedAt" : "2020-09-09T20:18:00Z",
          "author" : "Jeremy C. Owens",
-         "title" : "Zscaler earnings and forecast blow by expectations, but stock dips in after-hours trading - MarketWatch",
          "url" : "https://www.marketwatch.com/story/zscaler-earnings-and-forecast-blow-by-expectations-but-stock-dips-in-after-hours-trading-11599682736",
-         "content" : "Zscaler Inc. wrapped up its fiscal year by topping all expectations with its fourth-quarter performance and forecast for its new fiscal year, but shares still sank a bit in late trading after a huge … [+1841 chars]",
-         "urlToImage" : "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-         "description" : "Cloud-security company’s stock has more than tripled in past three months; revenue expected to grow roughly 35% in new fiscal year after 42% growth in the past year",
+         "content" : "Zscaler Inc. wrapped up its fiscal year by topping all expectations with its fourth-quarter performance and forecast for its new fiscal year, but shares still sank a bit in late trading after a huge … [+1841 chars]"
+      },
+      {
          "source" : {
             "id" : null,
             "name" : "MarketWatch"
-         }
+         },
+         "description" : "Average price target falls 10%, as analysts cite billings miss and competition concerns",
+         "title" : "Slack stock suffers second-biggest selloff on record as analysts slash targets in wake of disappointing results - MarketWatch",
+         "publishedAt" : "2020-09-09T20:18:00Z",
+         "urlToImage" : "https://s.marketwatch.com/public/resources/images/MW-IO142_Slack__ZG_20200909121145.jpg",
+         "author" : "Tomi Kilgore",
+         "url" : "https://www.marketwatch.com/story/slack-stock-sinks-toward-record-selloff-as-analysts-slash-targets-in-wake-of-disappointing-results-2020-09-09",
+         "content" : "Shares of Slack Technologies Inc. sank Wednesday to their second-biggest selloff on record, as a host of analysts cut their price targets after the workforce communications software company reported … [+4011 chars]"
       },
       {
-         "content" : "As Beyond Meat plans a major push into the Chinese market, the company isn't letting the coronavirus pandemic slow down its expansion.\r\n\"When you see an obstacle like Covid, you don't say you're not … [+1554 chars]",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106420644-1583188506361brown_ethan_mm_200302_050.jpg?v=1583188658",
-         "description" : "As Beyond Meat plans a major push into the Chinese market, the company isn't letting the coronavirus pandemic slow down its expansion.",
-         "source" : {
-            "id" : null,
-            "name" : "CNBC"
-         },
-         "publishedAt" : "2020-09-09T20:17:00Z",
          "author" : "Amelia Lucas",
-         "title" : "Beyond Meat pushes ahead with Chinese expansion despite pandemic - CNBC",
-         "url" : "https://www.cnbc.com/2020/09/09/beyond-meat-pushes-ahead-with-chinese-expansion-despite-pandemic.html"
-      },
-      {
-         "publishedAt" : "2020-09-09T20:15:00Z",
-         "author" : "Clark Schultz",
-         "url" : "https://seekingalpha.com/news/3612684-gamestopminus-3-after-earnings-fall-short-of-expectations",
-         "title" : "GameStop -3% after earnings fall short of expectations - Seeking Alpha",
-         "source" : {
-            "id" : null,
-            "name" : "Seeking Alpha"
-         },
-         "description" : "GameStop (NYSE:GME) reports sales fell 26.7% in Q2 even as a 800% pop as a 800% global e-commerce sales helped to partially offset lost sales due to stores being closed.",
-         "content" : "GameStop (NYSE:GME) reports sales fell 26.7% in Q2 even as a 800% pop as a 800% global e-commerce sales helped to partially offset lost sales due to stores being closed.\r\nRevenue breakdown: Hardware … [+789 chars]",
-         "urlToImage" : "https://static3.seekingalpha.com/assets/og_image_192-59bfd51c9fe6af025b2f9f96c807e46f8e2f06c5ae787b15bf1423e6c676d4db.png"
-      },
-      {
-         "publishedAt" : "2020-09-09T19:51:00Z",
-         "author" : "Kate Cox",
-         "url" : "https://arstechnica.com/tech-policy/2020/09/climate-change-may-wreck-economy-unless-we-act-soon-federal-report-warns/",
-         "title" : "Climate change may wreck economy unless we act soon, federal report warns - Ars Technica",
-         "source" : {
-            "name" : "Ars Technica",
-            "id" : "ars-technica"
-         },
-         "description" : "Fires and floods are expensive and disruptive and we're not ready, report finds.",
-         "content" : "Enlarge/ A boat motors by as the Bidwell Bar Bridge is surrounded by fire in Lake Oroville during the Bear fire in Oroville, California, on September 9, 2020. \r\n75 with 58 posters participating\r\nThe … [+4803 chars]",
-         "urlToImage" : "https://cdn.arstechnica.net/wp-content/uploads/2020/09/GettyImages-1228423382-760x380.jpg"
-      },
-      {
-         "author" : "Lauren Thomas",
-         "title" : "Mall owners Simon, Brookfield set to rescue JC Penney from bankruptcy in $800 million deal - CNBC",
-         "url" : "https://www.cnbc.com/2020/09/09/simon-brookfield-to-save-jc-penney-from-bankruptcy-keep-650-shops.html",
-         "publishedAt" : "2020-09-09T19:19:00Z",
+         "content" : "As Beyond Meat plans a major push into the Chinese market, the company isn't letting the coronavirus pandemic slow down its expansion.\r\n\"When you see an obstacle like Covid, you don't say you're not … [+1554 chars]",
+         "url" : "https://www.cnbc.com/2020/09/09/beyond-meat-pushes-ahead-with-chinese-expansion-despite-pandemic.html",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106420644-1583188506361brown_ethan_mm_200302_050.jpg?v=1583188658",
+         "publishedAt" : "2020-09-09T20:17:00Z",
          "source" : {
             "name" : "CNBC",
             "id" : null
          },
-         "description" : "Bankrupt department store chain J.C. Penney is expected to be rescued by its landlords, mall owners Simon and Brookfield.",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/102883660-IMG_6962r.jpg?v=1596034830",
-         "content" : "U.S. mall owners Simon Property Group and Brookfield Property Partners are close to finalizing an $800 million deal to rescue the embattled department store chain J.C. Penney from bankruptcy, avoidin… [+3410 chars]"
-      },
-      {
-         "author" : "Parija Kavilanz, CNN Business",
-         "title" : "Home Depot cancels Black Friday - CNN",
-         "url" : "https://www.cnn.com/2020/09/09/business/home-depot-black-friday/index.html",
-         "publishedAt" : "2020-09-09T19:19:00Z",
-         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200909121700-home-depot-shopper-0814-restricted-super-tease.jpg",
-         "content" : null,
-         "description" : "Black Friday as you know it is gone this year at Home Depot.",
-         "source" : {
-            "id" : "cnn",
-            "name" : "CNN"
-         }
-      },
-      {
-         "title" : "Maserati unveils its first supercar in 15 years - CNN",
-         "author" : "Peter Valdes-Dapena, CNN Business",
-         "url" : "https://www.cnn.com/2020/09/09/success/maserati-mc20-supercar/index.html",
-         "publishedAt" : "2020-09-09T19:15:00Z",
-         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200908134553-01-maserati-mc20-super-tease.jpg",
-         "content" : null,
-         "description" : "Maserati unveiled its first supercar in 15 years Wednesday. With a body made largely from lightweight carbon fiber and aluminum, the new MC20 can hit a top speed of 202 miles an hour and go from 0 to 60 in under three seconds.",
-         "source" : {
-            "name" : "CNN",
-            "id" : "cnn"
-         }
-      },
-      {
-         "source" : {
-            "name" : "CNBC",
-            "id" : null
-         },
-         "description" : "\"When you're putting these vaccines into healthy people, you have to do everything possible to ensure that these vaccines are both safe and effective,\" Merck Chief Executive Kenneth Frazier said.",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/105486383-1538594745579rts23zr4.jpg?v=1591386775",
-         "content" : "Merck CEO Kenneth Frazier on Wednesday emphasized the need for patience and strict adherence to scientific principles in the global push to develop a vaccine to prevent the coronavirus. \r\n\"I know the… [+4622 chars]",
-         "title" : "‘You can’t rush science’ — Merck CEO stresses need for careful approach to coronavirus vaccine - CNBC",
-         "url" : "https://www.cnbc.com/2020/09/09/merck-ken-frazier-you-cant-rush-science-for-coronavirus-vaccine.html",
-         "author" : "Kevin Stankiewicz",
-         "publishedAt" : "2020-09-09T18:52:00Z"
-      },
-      {
-         "content" : null,
-         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200908132325-03-mercedes-benz-virtual-remote-support-hololens-super-tease.jpg",
-         "description" : "The next time you get your car repaired, an augmented-reality headset might help the mechanic figure out what's wrong.",
-         "source" : {
-            "id" : "cnn",
-            "name" : "CNN"
-         },
-         "publishedAt" : "2020-09-09T18:33:00Z",
-         "author" : "Rachel Metz, CNN Business",
-         "title" : "If you own a Mercedes, HoloLens might be used to help fix it - CNN",
-         "url" : "https://www.cnn.com/2020/09/09/tech/hololens-mercedes-repair/index.html"
-      },
-      {
-         "description" : "The Delaware River Waterfront Corporation said it chose the Durst plan because of its compatibility with the master plan for the public waterfront.",
-         "source" : {
-            "name" : "WHYY",
-            "id" : null
-         },
-         "content" : "Company representatives hailed the selection.\r\nWe are honored DRWC has selected us for this transformative project that will provide Philadelphians’ extraordinary access to the waterfront,” said Jona… [+3766 chars]",
-         "urlToImage" : "https://whyy.org/wp-content/uploads/2020/09/XGCIXDT6OBELNBMCNLEOQYKWEI.jpg",
-         "publishedAt" : "2020-09-09T18:11:15Z",
-         "author" : "Ryan Briggs",
-         "url" : "http://whyy.org/articles/76ers-rejected-n-y-developer-durst-selected-for-penns-landing-site/",
-         "title" : "76ers rejected: N.Y. developer Durst selected for Penn's Landing site - WHYY"
-      },
-      {
-         "source" : {
-            "id" : null,
-            "name" : "BuzzFeed News"
-         },
-         "description" : "“I worry it will be Armageddon for the vaping industry.”",
-         "content" : "Most vape shops might end up being, well, vaporized following the passing of an FDA deadline on Wednesday for legalizing some 400 million varieties of nicotine-laced liquids nationwide.\r\nVaping liqui… [+5010 chars]",
-         "urlToImage" : "https://img.buzzfeed.com/buzzfeed-static/static/2020-09/9/17/asset/130b722bf474/sub-buzz-2081-1599673086-24.jpg?crop=1024:536;0,73",
-         "publishedAt" : "2020-09-09T17:55:00Z",
-         "title" : "An FDA Deadline For Vape Shops Is Today. No One Knows What Comes Next. - BuzzFeed News",
-         "author" : "Dan Vergano",
-         "url" : "https://www.buzzfeednews.com/article/danvergano/vaping-shops-close-fda-deadline"
+         "description" : "As Beyond Meat plans a major push into the Chinese market, the company isn't letting the coronavirus pandemic slow down its expansion.",
+         "title" : "Beyond Meat pushes ahead with Chinese expansion despite pandemic - CNBC"
       }
-   ],
-   "totalResults" : 70,
-   "status" : "ok"
+   ]
 }
