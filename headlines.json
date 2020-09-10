@@ -1,266 +1,266 @@
 {
-   "totalResults" : 70,
+   "status" : "ok",
    "articles" : [
       {
-         "content" : "CarsPublished on September 10th, 2020 |\r\n by Frugal Moogal\r\n0\r\nSeptember 10th, 2020 by Frugal Moogal \r\nNote: Nothing below is investment advice.\r\nAt the end of the day on September 8th, I checked my … [+11318 chars]",
-         "title" : "Tesla [TSLA] Is Stressing Me Out - CleanTechnica",
-         "url" : "https://cleantechnica.com/2020/09/10/tesla-tsla-is-stressing-me-out/",
          "source" : {
-            "id" : null,
-            "name" : "CleanTechnica"
+            "id" : "the-wall-street-journal",
+            "name" : "The Wall Street Journal"
          },
-         "publishedAt" : "2020-09-10T06:33:14Z",
-         "description" : "At the end of the day on September 8th, I checked my phone and learned that my stock portfolio had received it's largest single day hit in my entire life. My value on paper was down by five figures, larger than any single day drop I had experienced even at th…",
-         "urlToImage" : "https://cleantechnica.com/files/2019/12/2019.11.21-tesla-design-studio-cybertruck-unveiling-event-truck-KYLE-elon-musk-3-scaled.jpg",
-         "author" : "Frugal Moogal"
+         "content" : "U.S. stock futures fell Thursday as a rebound in technology stocks looked set to lose steam.\r\nFutures tied to the S&amp;P 500 slid 0.3% and futures linked to the tech-heavy Nasdaq fell 0.2%, indicati… [+145 chars]",
+         "title" : "U.S. Stock Futures Stabilize as Tech Rally Fades - The Wall Street Journal",
+         "description" : "Nasdaq futures edge down as investors remain wary about tech shares",
+         "url" : "https://www.wsj.com/articles/global-stock-markets-dow-update-09-10-2020-11599729928",
+         "urlToImage" : "https://images.wsj.net/im-230481/social",
+         "author" : "Caitlin Ostroff",
+         "publishedAt" : "2020-09-10T10:18:00Z"
       },
       {
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106618504-1594879841873gettyimages-1212001168.jpeg?v=1594879951",
+         "source" : {
+            "name" : "CNN",
+            "id" : "cnn"
+         },
+         "content" : "London (CNN Business)BP is moving into offshore wind power for the first time with a $1.1 billion investment in the United States, as the company pushes into clean energy following a century of oil e… [+1711 chars]",
+         "author" : "Hanna Ziady, CNN Business",
+         "publishedAt" : "2020-09-10T09:05:00Z",
+         "description" : "BP is moving into offshore wind power for the first time with a $1.1 billion investment in the United States, as the company pushes into clean energy following a century of oil exploration.",
+         "title" : "BP invests in offshore wind to power 2 million American homes - CNN",
+         "url" : "https://www.cnn.com/2020/09/10/business/bp-offshore-wind-equinor/index.html",
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200910092955-bp-ceo-bernard-looney-file-super-tease.jpg"
+      },
+      {
          "author" : "Elliot Smith",
-         "description" : "European stocks fluctuated Thursday morning ahead of the European Central Bank's (ECB) latest meeting on monetary policy in the euro zone.",
-         "publishedAt" : "2020-09-10T05:16:00Z",
-         "source" : {
-            "id" : null,
-            "name" : "CNBC"
-         },
-         "title" : "European markets pull back ahead of ECB meeting; Games Workshop up 12% - CNBC",
-         "url" : "https://www.cnbc.com/2020/09/10/european-markets-head-for-choppy-open-ahead-of-ecb-meeting.html",
-         "content" : "European stocks fluctuated Thursday morning ahead of the European Central Bank's (ECB) latest meeting on monetary policy in the euro zone.\r\nGlobal markets are also looking ahead to the U.S. Labor Dep… [+632 chars]"
-      },
-      {
-         "description" : "Some of Wall Street’s biggest players are viewing the stock market's recent tech-led selloff as a bout of turbulence rather than the start of a longer slide -- and they don't see it as a reason to run for the door.",
-         "urlToImage" : "https://s4.reutersmedia.net/resources/r/?m=02&d=20200910&t=2&i=1532844277&w=1200&r=LYNXMPEG890C8",
-         "author" : "Lewis Krauskopf",
-         "source" : {
-            "name" : "Reuters",
-            "id" : "reuters"
-         },
-         "publishedAt" : "2020-09-10T05:04:00Z",
-         "url" : "https://www.reuters.com/article/us-usa-stocks-dip-analysis-idUSKBN2610L3",
-         "title" : "Wall Street sees a bright side in 'healthy' tech selloff - Reuters",
-         "content" : "NEW YORK (Reuters) - Some of Wall Street’s biggest players are viewing the stock market’s recent tech-led selloff as a bout of turbulence rather than the start of a longer slide and they don’t see it… [+3777 chars]"
-      },
-      {
-         "publishedAt" : "2020-09-10T04:00:00Z",
+         "publishedAt" : "2020-09-10T07:45:00Z",
+         "description" : "Insurance marketplace Lloyd's of London posted a first-half pre-tax loss of £400 million ($520.08 million) on Thursday, on the back of £2.4 billion in coronavirus-related payouts so far this year.",
+         "title" : "Insurance market Lloyd’s of London swings to loss after $3 billion in coronavirus claims - CNBC",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/105078816-GettyImages-524874296.jpg?v=1532563666",
+         "url" : "https://www.cnbc.com/2020/09/10/lloyds-of-london-h1-earnings.html",
          "source" : {
             "name" : "CNBC",
             "id" : null
          },
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106695987-1599675173186-gettyimages-1267239891-nyfacesmassexodusleavingthecityduringcovid-19pandemic011.jpeg?v=1599675249",
-         "author" : "Robert Frank",
-         "description" : "Hopes for a rebound in the fall or the end of 2020 look increasingly unlikely. Although rental prices have come down, the discounts are not steep enough yet to lure new renters back to the city.",
-         "content" : "The number of empty rental apartments in Manhattan nearly tripled compared with last year, as more New Yorkers fled the city and prices declined.\r\nThere were more than 15,000 empty rental apartments … [+2324 chars]",
-         "title" : "Manhattan rental market plunges, leaving 15,000 empty apartments in August - CNBC",
-         "url" : "https://www.cnbc.com/2020/09/10/manhattan-rental-market-plunges-leaving-15000-empty-apartments.html"
+         "content" : "Insurance marketplace Lloyd's of London posted a first-half pre-tax loss of £400 million ($520.08 million) on Thursday, on the back of £2.4 billion in coronavirus-related payouts so far this year.\r\nT… [+1831 chars]"
       },
       {
-         "urlToImage" : null,
-         "author" : null,
-         "description" : null,
-         "publishedAt" : "2020-09-10T03:58:09Z",
          "source" : {
-            "name" : "Google News",
-            "id" : "google-news"
+            "name" : "MarketWatch",
+            "id" : null
          },
-         "title" : "Lucid Air unveiling in 10 minutes - Engadget",
-         "url" : "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9Snd6T2xQQmhlTzDSAQA?oc=5",
-         "content" : null
+         "content" : "European stocks edged lower on Thursday, ahead of a European Central Bank decision and press conference in which expectations are for the central bank to raise concerns about the rise of the euro.U.S… [+1395 chars]",
+         "author" : "Steve Goldstein",
+         "publishedAt" : "2020-09-10T07:19:00Z",
+         "title" : "After U.S. tech gains, European stocks pause as ECB decision awaits - MarketWatch",
+         "description" : "",
+         "urlToImage" : "https://images.mktw.net/im-230472/social",
+         "url" : "https://www.marketwatch.com/story/after-u-s-tech-gains-european-stocks-pause-as-ecb-decision-awaits-11599722345"
       },
       {
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/105110547-GettyImages-587165410.jpg?v=1599705940",
-         "author" : "Weizhen Tan",
-         "description" : "Yum China, which operates fast food restaurants KFC, Taco Bell and Pizza Hut in China, raised $2.22 billion by selling 41.9 million shares at 412 Hong Kong dollars ($53.16) apiece.",
-         "publishedAt" : "2020-09-10T02:55:00Z",
+         "content" : "Within two or three days of the benefits expiration, he said, applications tripled. When the government approved the $300 replacement, he said, the numbers began to dwindle, even though most states h… [+1690 chars]",
+         "source" : {
+            "name" : "New York Times",
+            "id" : null
+         },
+         "publishedAt" : "2020-09-10T07:00:00Z",
+         "author" : "Patricia Cohen",
+         "url" : "https://www.nytimes.com/2020/09/10/business/economy/unemployment-benefits-hiring.html",
+         "urlToImage" : "https://static01.nyt.com/images/2020/09/03/business/03virus-hiring-01/00virus-hiring-01-facebookJumbo.jpg",
+         "description" : "A $600-a-week supplement that expired in July has been credited with bolstering the economy. Its impact on hiring is central to a political fight.",
+         "title" : "Unemployment Benefits Are at Heart of a Debate Over Hiring - The New York Times"
+      },
+      {
+         "publishedAt" : "2020-09-10T06:33:14Z",
+         "author" : "Frugal Moogal",
+         "url" : "https://cleantechnica.com/2020/09/10/tesla-tsla-is-stressing-me-out/",
+         "urlToImage" : "https://cleantechnica.com/files/2019/12/2019.11.21-tesla-design-studio-cybertruck-unveiling-event-truck-KYLE-elon-musk-3-scaled.jpg",
+         "title" : "Tesla [TSLA] Is Stressing Me Out - CleanTechnica",
+         "description" : "At the end of the day on September 8th, I checked my phone and learned that my stock portfolio had received it's largest single day hit in my entire life. My value on paper was down by five figures, larger than any single day drop I had experienced even at th…",
+         "content" : "CarsPublished on September 10th, 2020 |\r\n by Frugal Moogal\r\n0\r\nSeptember 10th, 2020 by Frugal Moogal \r\nNote: Nothing below is investment advice.\r\nAt the end of the day on September 8th, I checked my … [+11318 chars]",
          "source" : {
             "id" : null,
-            "name" : "CNBC"
-         },
-         "title" : "Yum China shares tumble more than 4% as it debuts in Hong Kong - CNBC",
-         "url" : "https://www.cnbc.com/2020/09/10/yum-china-shares-start-trading-in-hong-kong-in-secondary-listing.html",
-         "content" : "SINGAPORE Shares of Yum China began trading in Hong Kong on Thursday, but lost more than 4% in early trade.\r\nYum China, which operates fast food restaurants KFC, Taco Bell and Pizza Hut in China, rai… [+1501 chars]"
+            "name" : "CleanTechnica"
+         }
       },
       {
          "source" : {
             "id" : null,
             "name" : "MarketWatch"
          },
-         "publishedAt" : "2020-09-10T01:58:00Z",
-         "description" : "Bond deal comes as U.S. grapples with climate change threats",
-         "urlToImage" : "https://images.mktw.net/im-230438/social",
-         "author" : "Joy Wiltermuth",
+         "content" : "Investors worldwide are racing to understand what the looming U.S. presidential election will mean for their portfolios, while also juggling a concoction of factors and risks in the meantime. The rec… [+6080 chars]",
+         "author" : "Callum Keown, Lina Saigol",
+         "publishedAt" : "2020-09-10T06:00:00Z",
+         "description" : "Top fund managers discuss the risks and opportunities in the months ahead",
+         "title" : "Here’s how top fund managers see the market ahead of the U.S. election - MarketWatch",
+         "urlToImage" : "https://images.mktw.net/im-230022/social",
+         "url" : "https://www.marketwatch.com/story/heres-how-top-fund-managers-see-the-market-ahead-of-the-u-s-election-11599663710"
+      },
+      {
+         "url" : "https://www.cnbc.com/2020/09/10/soybeans-have-been-surging-on-chinese-demand-and-purchases-could-continue.html",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/105911788-1557831591319gettyimages-1142701429.jpeg?v=1599708083",
+         "description" : "On Tuesday, prices of U.S. soybean futures rose to their highest levels since 2018 after the U.S. Department of Agriculture said that Chinese buyers purchased 664,000 tonnes, the largest daily total since July 22.",
+         "title" : "Soybean futures have been surging on Chinese demand, trade group CEO says buying could continue - CNBC",
+         "publishedAt" : "2020-09-10T05:03:00Z",
+         "author" : "Huileng Tan",
+         "content" : "Global soybean demand has been robust recently, with new American crop sales at record levels, said Jim Sutter, CEO of the U.S. Soybean Export Council.\r\nOn Tuesday, prices of U.S. soybean futures ros… [+1785 chars]",
+         "source" : {
+            "id" : null,
+            "name" : "CNBC"
+         }
+      },
+      {
+         "content" : null,
+         "source" : {
+            "id" : "google-news",
+            "name" : "Google News"
+         },
+         "publishedAt" : "2020-09-10T03:58:09Z",
+         "author" : null,
+         "url" : "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9Snd6T2xQQmhlTzDSAQA?oc=5",
+         "urlToImage" : null,
+         "description" : null,
+         "title" : "Lucid Air unveiling in 10 minutes - Engadget"
+      },
+      {
+         "content" : "TikToks Chinese parent, ByteDance Ltd., is discussing with the U.S. government possible arrangements that would allow the popular video-sharing app to avoid a full sale of its U.S. operations, accord… [+331 chars]",
+         "source" : {
+            "id" : "the-wall-street-journal",
+            "name" : "The Wall Street Journal"
+         },
+         "url" : "https://www.wsj.com/articles/tiktok-u-s-discuss-ways-to-avoid-sale-11599680388",
+         "urlToImage" : "https://images.wsj.net/im-230189/social",
+         "title" : "TikTok, US discuss ways to avoid sale - Fox Business",
+         "description" : "It isn’t clear whether any alternative would satisfy President Trump’s concerns about Chinese-owned video-sharing app",
+         "publishedAt" : "2020-09-10T03:27:37Z",
+         "author" : "Miriam Gottfried, Georgia Wells, Kate Davidson"
+      },
+      {
+         "content" : "Bitcoin investors have been accumulating the digital asset at a rapid pace throughout the past several days and weeks, with the cryptocurrency seeing massive inflows of capital in August while its pr… [+2390 chars]",
+         "source" : {
+            "name" : "newsBTC",
+            "id" : null
+         },
+         "url" : "https://www.newsbtc.com/2020/09/10/the-number-of-bitcoin-wholecoiners-just-hit-a-fresh-all-time-high/",
+         "urlToImage" : "https://www.newsbtc.com/wp-content/uploads/2020/09/andre-francois-mckenzie-vBYVj-yycwQ-unsplash-3-scaled.jpg",
+         "description" : "Data regarding the number of addresses holding over 1 Bitcoin shows that investors have been accumulating heavily in recent times.",
+         "title" : "The Number of Bitcoin “Wholecoiners” Just Hit a Fresh All-Time High - NewsBTC",
+         "publishedAt" : "2020-09-10T02:17:41Z",
+         "author" : null
+      },
+      {
          "content" : "JP Morgan Chase &amp; Co. entered the green-bond world on Wednesday, offloading the banks first set of bonds specifically to fund projects with a sustainability bent.While the banking giant has arran… [+3701 chars]",
+         "source" : {
+            "id" : null,
+            "name" : "MarketWatch"
+         },
+         "urlToImage" : "https://images.mktw.net/im-230438/social",
+         "url" : "https://www.marketwatch.com/story/jp-morgan-enters-green-bond-push-with-1-billion-debut-debt-deal-11599703139",
          "title" : "JP Morgan enters green bond push with $1 billion debut debt deal - MarketWatch",
-         "url" : "https://www.marketwatch.com/story/jp-morgan-enters-green-bond-push-with-1-billion-debut-debt-deal-11599703139"
+         "description" : "Bond deal comes as U.S. grapples with climate change threats",
+         "publishedAt" : "2020-09-10T01:58:00Z",
+         "author" : "Joy Wiltermuth"
       },
       {
          "url" : "https://www.hollywoodreporter.com/news/luxury-goods-giant-lvmh-cancels-14-5b-deal-for-tiffany",
-         "title" : "Luxury Goods Giant LVMH Cancels $14.5B Deal for Tiffany - Hollywood Reporter",
-         "content" : "Luxury goods giant LVMH is ending its takeover deal of jewelry retailer Tiffany &amp; Co., saying the French government had requested a delay to assess the threat of proposed U.S. tariffs.\r\nWednesday… [+4925 chars]",
-         "author" : "the Associated Press",
          "urlToImage" : null,
          "description" : "Wednesday's announcement came after the deal's value had been eroded by wider industry troubles caused by the coronavirus pandemic.",
+         "title" : "Luxury Goods Giant LVMH Cancels $14.5B Deal for Tiffany - Hollywood Reporter",
          "publishedAt" : "2020-09-10T01:53:26Z",
+         "author" : "the Associated Press",
+         "content" : "Luxury goods giant LVMH is ending its takeover deal of jewelry retailer Tiffany &amp; Co., saying the French government had requested a delay to assess the threat of proposed U.S. tariffs.\r\nWednesday… [+4925 chars]",
          "source" : {
             "id" : null,
             "name" : "Hollywood Reporter"
          }
       },
       {
-         "content" : "International travelers coming into the United States will no longer receive a COVID-19 health screening and will not be required to fly into one of 13 airports where the enhanced screening measures … [+3822 chars]",
-         "title" : "U.S. Airports Will No Longer Screen International Arrivals for COVID-19 - AFAR Media",
-         "url" : "https://www.afar.com/magazine/us-airports-to-no-longer-screen-international-arrivals-for-covid-19",
+         "url" : "https://www.reuters.com/article/us-health-coronavirus-jpmorgan-idUSKBN261052",
+         "urlToImage" : "https://s2.reutersmedia.net/resources/r/?m=02&d=20200910&t=2&i=1532828544&w=1200&r=LYNXMPEG8902H",
+         "description" : "JPMorgan Chase & Co on Wednesday dismissed several employees who allegedly misused funds that were supposed to help businesses dealing with the COVID-19 pandemic, the Financial Times reported, citing a person familiar with the situation.",
+         "title" : "JPMorgan dismisses employees for misuse of COVID-19 relief funds: Financial Times - Reuters",
+         "publishedAt" : "2020-09-10T01:36:00Z",
+         "author" : "Reuters Editorial",
+         "content" : "(Reuters) - JPMorgan Chase &amp; Co (JPM.N) on Wednesday dismissed several employees who allegedly misused funds that were supposed to help businesses dealing with the COVID-19 pandemic, the Financia… [+1135 chars]",
          "source" : {
-            "name" : "AFAR Media",
+            "id" : "reuters",
+            "name" : "Reuters"
+         }
+      },
+      {
+         "content" : "Image copyrightSubmitted photo\r\nA Canadian flight was cancelled and police were called because a child was not wearing a mask.\r\nSafwan Choudhry says WestJet wanted his 19-month-old to wear a mask, bu… [+3820 chars]",
+         "source" : {
+            "name" : "BBC News",
             "id" : null
          },
+         "urlToImage" : "https://ichef.bbci.co.uk/news/1024/branded_news/174DA/production/_114305459_30e15d37-a1dd-4736-a01b-1439f37c30b8.jpg",
+         "url" : "https://www.bbc.com/news/world-us-canada-54096061",
+         "title" : "WestJet cancels flight because of mask dispute with child - BBC News",
+         "description" : "All passengers were told to disembark the WestJet flight because a young girl was not wearing her mask.",
+         "publishedAt" : "2020-09-10T01:24:27Z",
+         "author" : "https://www.facebook.com/bbcnews"
+      },
+      {
+         "author" : "Michelle Baran",
          "publishedAt" : "2020-09-10T01:06:27Z",
+         "title" : "U.S. Airports Will No Longer Screen International Arrivals for COVID-19 - AFAR Media",
          "description" : "Starting Monday, international flights will no longer be required to come into one of 13 airports where the enhanced coronavirus screening measures were being carried out.",
+         "url" : "https://www.afar.com/magazine/us-airports-to-no-longer-screen-international-arrivals-for-covid-19",
          "urlToImage" : "https://afar-production.imgix.net/uploads/images/afar_post_headers/images/rfTZiPdMU9/original_shutterstock_1335911165.jpg?crop=top&fit=crop&w=600&h=330",
-         "author" : "Michelle Baran"
-      },
-      {
          "source" : {
-            "id" : "financial-times",
-            "name" : "Financial Times"
+            "id" : null,
+            "name" : "AFAR Media"
          },
-         "publishedAt" : "2020-09-09T23:33:00Z",
-         "description" : "News, analysis and comment from the Financial Times, the worldʼs leading global business publication",
-         "urlToImage" : null,
-         "author" : "Laura Noonan",
-         "content" : "Keep abreast of significant corporate, financial and political developments around the world.\r\nStay informed and spot emerging risks and opportunities with independent global reporting, expert\r\ncomme… [+32 chars]",
-         "title" : "JPMorgan fires employees who took Covid relief funds - Financial Times",
-         "url" : "https://www.ft.com/content/31705aaf-af08-42ce-8b2e-5d56901cdb9c"
+         "content" : "International travelers coming into the United States will no longer receive a COVID-19 health screening and will not be required to fly into one of 13 airports where the enhanced screening measures … [+3822 chars]"
       },
       {
-         "description" : "Amazon announced it will hold a Career Day on September 16 that is open to everyone seeking a job.",
-         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/180918163055-amazon-office-seattle-super-tease.jpg",
-         "author" : "Alexis Benveniste, CNN Business",
+         "publishedAt" : "2020-09-10T00:55:00Z",
+         "author" : "Scott Rutt",
+         "url" : "https://www.thestreet.com/jim-cramer/buyers-are-back-cramers-mad-money-recap-sept-9",
+         "urlToImage" : "https://www.thestreet.com/.image/t_share/MTY4NjQ3NDk4MjI4NDQyNzU5/canadian-tennis-player-milos-raonic-visits-the-nyse-and-says-hes-ready-for-the-us-open.jpg",
+         "title" : "Buyers Are Back: Cramer's 'Mad Money' Recap (Wed. 9/9/20) - TheStreet",
+         "description" : "Jim Cramer explains the broad base for this rally -- a rally for both the COVID-19 stocks and the recovery stocks.",
+         "content" : "The market was hit with a huge wave of selling over the past few days, Jim Cramer told his Mad Money viewers Wednesday. But today, that selling suddenly stopped and the bulls ran right back in and st… [+6977 chars]",
          "source" : {
-            "id" : "cnn",
-            "name" : "CNN"
-         },
-         "publishedAt" : "2020-09-09T23:06:00Z",
-         "url" : "https://www.cnn.com/2020/09/09/tech/amazon-career-day/index.html",
-         "title" : "Amazon is hiring 33,000 new employees with an average compensation package worth $150,000 - CNN",
-         "content" : null
+            "name" : "TheStreet",
+            "id" : null
+         }
       },
       {
-         "content" : "Overseas flights could be returning to more U.S. airports following reports the government is set to ease coronavirus-related restrictions on passengers arriving from abroad.\r\nThe U.S. had been requi… [+4048 chars]",
-         "title" : "White House ending airport COVID screening, reports say; more international flights coming? - The Points Guy",
-         "url" : "http://thepointsguy.com/news/white-house-airport-covid-screening-international-flights/",
-         "publishedAt" : "2020-09-09T23:01:10Z",
          "source" : {
             "name" : "The Points Guy",
             "id" : null
          },
-         "urlToImage" : "https://i2.wp.com/thepointsguy.com/wp-content/uploads/2020/09/lax-health-screening-scaled.jpg?fit=2560%2C1712px&ssl=1",
+         "content" : "Overseas flights could be returning to more U.S. airports following reports the government is set to ease coronavirus-related restrictions on passengers arriving from abroad.\r\nThe U.S. had been requi… [+4048 chars]",
          "author" : "Ben Mutzabaugh",
-         "description" : "Overseas flights could be returning to more U.S. airports following reports the government is set to ease coronavirus-related restrictions on passengers arriving from abroad. The U.S. had been requiring passengers coming from certain high-risk countries — inc…"
+         "publishedAt" : "2020-09-09T23:01:10Z",
+         "title" : "White House ending airport COVID screening, reports say; more international flights coming? - The Points Guy",
+         "description" : "Overseas flights could be returning to more U.S. airports following reports the government is set to ease coronavirus-related restrictions on passengers arriving from abroad. The U.S. had been requiring passengers coming from certain high-risk countries — inc…",
+         "urlToImage" : "https://i2.wp.com/thepointsguy.com/wp-content/uploads/2020/09/lax-health-screening-scaled.jpg?fit=2560%2C1712px&ssl=1",
+         "url" : "http://thepointsguy.com/news/white-house-airport-covid-screening-international-flights/"
       },
       {
-         "content" : "Whether slow-cooked, roasted, fried or grilled, we love tucking into a chicken dinner. This protein-rich ingredient is inexpensive, versatile and always satisfying. Best of all, you dont need to poss… [+4514 chars]",
-         "title" : "How Long Can Cooked Chicken Stay in the Fridge? (Hint: Not as Long as You Think) - Yahoo Lifestyle",
-         "url" : "https://www.yahoo.com/lifestyle/long-cooked-chicken-stay-fridge-230000925.html",
-         "publishedAt" : "2020-09-09T23:00:00Z",
-         "source" : {
-            "name" : "Yahoo Entertainment",
-            "id" : null
-         },
-         "author" : "editor@purewow.com (PureWow)",
-         "urlToImage" : "https://s.yimg.com/uu/api/res/1.2/lABd5etr2xEahFKSR8CTLg--~B/aD01MjQ7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en-us/purewow_185/cf3d761f95ebf051ec168b67598df1c5",
-         "description" : "Whether slow-cooked , roasted ,..."
-      },
-      {
-         "content" : "<ul><li>\"The recent sell-off could be a sign that this bull's getting long in the tooth,\" CNBC's Jim Cramer said, citing research from technical analyst Carley Garner.</li><li>\"Garner's betting that … [+2846 chars]",
-         "title" : "Jim Cramer breaks down how an S&P 500 climb could be followed by a 'truly savage sell-off' - CNBC",
-         "url" : "https://www.cnbc.com/2020/09/09/jim-cramer-breaks-down-how-an-sp-500-climb-could-be-followed-by-a-truly-savage-sell-off.html",
-         "source" : {
-            "id" : null,
-            "name" : "CNBC"
-         },
-         "publishedAt" : "2020-09-09T22:49:00Z",
-         "description" : "\"The recent sell-off could be a sign that this bull's getting long in the tooth,\" the \"Mad Money\" host said, citing analysis from chartist Carley Garner.",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/104928147-GettyImages-896245900.jpg?v=1598468015",
-         "author" : "Tyler Clifford"
-      },
-      {
-         "url" : "https://www.foxnews.com/health/astrazeneca-coronavirus-vaccine-pause-dr-bob-lahita",
-         "title" : "AstraZeneca coronavirus vaccine trial pause 'a good thing': Dr. Bob Lahita - Fox News",
-         "content" : "AstraZeneca's decision to pause its global trials of a COVID-19 vaccine candidate over safety concerns should reassure skeptical Americans that \"they are looking very carefully at everybody who is ge… [+1805 chars]",
-         "urlToImage" : "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/AstraZeneca-Vaccine-iStock.jpg",
          "author" : "Yael Halon",
-         "description" : "AstraZeneca's decision to pause its global trials of a COVID-19 vaccine candidate over safety concerns should reassure skeptical Americans that \"they are looking very carefully at everybody who is getting the vaccine,\" New York Medical College Professor Dr. B…",
          "publishedAt" : "2020-09-09T22:37:48Z",
+         "title" : "AstraZeneca coronavirus vaccine trial pause 'a good thing': Dr. Bob Lahita - Fox News",
+         "description" : "AstraZeneca's decision to pause its global trials of a COVID-19 vaccine candidate over safety concerns should reassure skeptical Americans that \"they are looking very carefully at everybody who is getting the vaccine,\" New York Medical College Professor Dr. B…",
+         "url" : "https://www.foxnews.com/health/astrazeneca-coronavirus-vaccine-pause-dr-bob-lahita",
+         "urlToImage" : "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/AstraZeneca-Vaccine-iStock.jpg",
          "source" : {
-            "id" : "fox-news",
-            "name" : "Fox News"
-         }
+            "name" : "Fox News",
+            "id" : "fox-news"
+         },
+         "content" : "AstraZeneca's decision to pause its global trials of a COVID-19 vaccine candidate over safety concerns should reassure skeptical Americans that \"they are looking very carefully at everybody who is ge… [+1805 chars]"
       },
       {
-         "title" : "Tesla Giga Press at Fremont Begins Making Model Y Parts with 3 Advantages - Torque News",
          "url" : "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9WFg1MWFfWHpqOXfSAQA?oc=5",
-         "content" : null,
          "urlToImage" : null,
-         "author" : null,
+         "title" : "Tesla Giga Press at Fremont Begins Making Model Y Parts with 3 Advantages - Torque News",
          "description" : null,
          "publishedAt" : "2020-09-09T22:32:05Z",
+         "author" : null,
+         "content" : null,
          "source" : {
             "id" : "google-news",
             "name" : "Google News"
          }
-      },
-      {
-         "publishedAt" : "2020-09-09T22:23:00Z",
-         "source" : {
-            "name" : "Yahoo Entertainment",
-            "id" : null
-         },
-         "urlToImage" : "https://s.yimg.com/uu/api/res/1.2/9qF7AKqtMCFWFg92q5XCZA--~B/aD0zODQwO3c9NTc2MDtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2020-09/3943b8b0-f2ea-11ea-9de7-e1b5f8d6ea7d",
-         "author" : "Emily McCormick",
-         "description" : "Stock futures were little changed Wednesday evening, as investors assessed the regular-session rally and an at least temporary resurgence in technology shares.",
-         "content" : "Stock futures were little changed Wednesday evening, as investors assessed the regular-session rally and an at least temporary resurgence in technology shares.\r\nThe tech stocks pummeled over the past… [+2875 chars]",
-         "url" : "https://finance.yahoo.com/news/stock-market-news-live-september-10-2020-222314022.html",
-         "title" : "Stock market news live updates: Stock futures hug the flat line, steadying after rebound rally - Yahoo Finance"
-      },
-      {
-         "content" : "Alexander Karp, CEO of Palantir Technologies Inc.\r\nAs Palantir gears up for its stock market debut, the company has a long way to go to convince potential shareholders that it's worth the $20 billion… [+5000 chars]",
-         "title" : "Palantir is being valued around $10.5 billion ahead of direct listing as investors question growth story - CNBC",
-         "url" : "https://www.cnbc.com/2020/09/09/palantir-valued-at-about-10point5-billion-ahead-of-direct-listing.html",
-         "publishedAt" : "2020-09-09T22:12:00Z",
-         "source" : {
-            "name" : "CNBC",
-            "id" : null
-         },
-         "author" : "Ari Levy",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/104303936-GettyImages-479828890.jpg?v=1532563904",
-         "description" : "In updated prospectus on Wednesday, Palantir said it has 1.64 billion shares outstanding as of Sept. 1, which indicates a valuation of about $10.5 billion."
-      },
-      {
-         "title" : "Mall owners Simon, Brookfield close to buying J.C. Penney out of bankruptcy - MarketWatch",
-         "url" : "https://www.marketwatch.com/story/mall-owners-simon-brookfield-close-to-buying-j-c-penney-out-of-bankruptcy-11599689477",
-         "content" : "NEW YORK Mall owners Simon Property Group and Brookfield Property Partners are close to a deal to buy department store chain J.C. Penney out of bankruptcy and keep the chain running. Penneys lawyer J… [+2083 chars]",
-         "urlToImage" : "https://images.mktw.net/im-230343/social",
-         "author" : "Associated Press",
-         "description" : "Deal would keep retail chain operating, have enterprise value of $1.75 billion",
-         "publishedAt" : "2020-09-09T22:11:00Z",
-         "source" : {
-            "name" : "MarketWatch",
-            "id" : null
-         }
-      },
-      {
-         "urlToImage" : "https://g.foolcdn.com/editorial/images/591184/buy-gettyimages-986757634.jpg",
-         "author" : "Joe Tenebruso",
-         "description" : "Analysts are growing increasingly bullish on the fitness equipment maker's growth potential.",
-         "publishedAt" : "2020-09-09T21:53:00Z",
-         "source" : {
-            "id" : null,
-            "name" : "Motley Fool"
-         },
-         "url" : "https://www.fool.com/investing/2020/09/09/why-peloton-stock-popped-today/",
-         "title" : "Why Peloton Stock Popped Today - Motley Fool",
-         "content" : "What happened\r\nShares of PelotonInteractive(NASDAQ:PTON) rose 6.5% on Wednesday, following a series of analyst price-target hikes.\r\nSo what\r\nOn Tuesday, Peloton announced a new, lower-priced treadmil… [+1393 chars]"
       }
    ],
-   "status" : "ok"
+   "totalResults" : 70
 }
