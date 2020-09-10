@@ -1,264 +1,264 @@
 {
    "articles" : [
       {
-         "publishedAt" : "2020-09-10T16:07:30Z",
          "title" : "Covid-19 News: Live Updates - The New York Times",
-         "url" : "https://www.nytimes.com/2020/09/10/world/covid-19-coronavirus.html",
          "source" : {
             "name" : "New York Times",
             "id" : null
          },
+         "description" : "The Senate is set to vote on the Republicans’ “skinny” stimulus bill, but it’s expected to fall short of the 60-vote threshold. The U.S. extradition hearing of Julian Assange in London was abruptly halted so a lawyer could be tested for the virus.",
          "urlToImage" : "https://static01.nyt.com/images/2020/08/03/us/us-briefing-promo-image-print/us-briefing-promo-image-facebookJumbo.jpg",
          "content" : "We will pull the emergency brake, which means we are forced to re-implement large-scale social restrictions like in the early days of the pandemic, Jakartas governor, Anies Baswedan, told reporters o… [+1378 chars]",
-         "description" : "The Senate is set to vote on the Republicans’ “skinny” stimulus bill, but it’s expected to fall short of the 60-vote threshold. The U.S. extradition hearing of Julian Assange in London was abruptly halted so a lawyer could be tested for the virus.",
-         "author" : null
+         "author" : null,
+         "url" : "https://www.nytimes.com/2020/09/10/world/covid-19-coronavirus.html",
+         "publishedAt" : "2020-09-10T16:07:30Z"
       },
       {
-         "title" : "Console options without disc drives could be GameStop’s final death knell - Ars Technica",
          "publishedAt" : "2020-09-10T15:50:00Z",
+         "url" : "https://arstechnica.com/gaming/2020/09/console-options-without-disc-drives-could-be-gamestops-final-death-knell/",
+         "author" : "Kyle Orland",
          "content" : "Enlarge/ Seems like an extreme reaction to buying a console without a disc drive, but OK...\r\n55 with 40 posters participating, including story author\r\nThe latest quarterly earnings report from GameSt… [+5875 chars]",
+         "description" : "Or: What would happen if Tower Records tried to sell iPods?",
          "urlToImage" : "https://cdn.arstechnica.net/wp-content/uploads/2020/09/GettyImages-92011247-760x380.jpg",
          "source" : {
-            "id" : "ars-technica",
-            "name" : "Ars Technica"
+            "name" : "Ars Technica",
+            "id" : "ars-technica"
          },
-         "url" : "https://arstechnica.com/gaming/2020/09/console-options-without-disc-drives-could-be-gamestops-final-death-knell/",
-         "description" : "Or: What would happen if Tower Records tried to sell iPods?",
-         "author" : "Kyle Orland"
+         "title" : "Console options without disc drives could be GameStop’s final death knell - Ars Technica"
       },
       {
          "description" : "Plans for big warehouses and driverless delivery weren’t ready when the pandemic supercharged online demand",
-         "author" : "Jaewon Kang",
-         "title" : "Kroger Spent Heavily on Tech, but Grocery Delivery Is Still a Struggle - The Wall Street Journal",
-         "publishedAt" : "2020-09-10T15:48:00Z",
-         "content" : "Kroger Co. has spent yearsand hundreds of millions of dollarsinvesting in technology to give it a digital edge in the grocery business. But when the coronavirus changed customers buying habits overni… [+328 chars]",
          "urlToImage" : "https://images.wsj.net/im-228277/social",
-         "url" : "https://www.wsj.com/articles/krogers-tech-bets-fell-short-during-coronavirus-11599736720",
+         "title" : "Kroger Spent Heavily on Tech, but Grocery Delivery Is Still a Struggle - The Wall Street Journal",
          "source" : {
             "id" : "the-wall-street-journal",
             "name" : "The Wall Street Journal"
-         }
+         },
+         "publishedAt" : "2020-09-10T15:48:00Z",
+         "url" : "https://www.wsj.com/articles/krogers-tech-bets-fell-short-during-coronavirus-11599736720",
+         "author" : "Jaewon Kang",
+         "content" : "Kroger Co. has spent yearsand hundreds of millions of dollarsinvesting in technology to give it a digital edge in the grocery business. But when the coronavirus changed customers buying habits overni… [+328 chars]"
       },
       {
-         "title" : "Nikola plummets 13% after short-seller report alleges years of deception and false statements made by CEO | Markets - Business Insider",
-         "publishedAt" : "2020-09-10T15:46:32Z",
          "urlToImage" : "https://i.insider.com/5f5a31237ed0ee001e25e731?format=jpeg",
-         "content" : "Nikola founder and executive chairman Trevor Milton.\r\nMassimo Pinca/Reuters\r\n<ul><li>Nikola plummeted on Thursday after a short-seller report from Hindenburg Research alleged that the company and CEO… [+3560 chars]",
-         "source" : {
-            "name" : "Business Insider",
-            "id" : "business-insider"
-         },
-         "url" : "https://www.businessinsider.com/nikola-stock-price-short-seller-report-alleges-years-deception-hindenburg-2020-9",
          "description" : "Nikola plummets 13% after short-seller report alleges years of deception and false statements made by CEO",
+         "source" : {
+            "id" : "business-insider",
+            "name" : "Business Insider"
+         },
+         "title" : "Nikola plummets 13% after short-seller report alleges years of deception and false statements made by CEO | Markets - Business Insider",
+         "url" : "https://www.businessinsider.com/nikola-stock-price-short-seller-report-alleges-years-deception-hindenburg-2020-9",
+         "publishedAt" : "2020-09-10T15:46:32Z",
+         "content" : "Nikola founder and executive chairman Trevor Milton.\r\nMassimo Pinca/Reuters\r\n<ul><li>Nikola plummeted on Thursday after a short-seller report from Hindenburg Research alleged that the company and CEO… [+3560 chars]",
          "author" : "Matthew Fox"
       },
       {
          "description" : "The accounting effect of options awards for Tesla’s CEO could push it into a loss and disqualify the company from S&P 500 index inclusion for a long time",
-         "author" : "Charley Grant",
-         "publishedAt" : "2020-09-10T15:17:00Z",
+         "urlToImage" : "https://images.wsj.net/im-229532/social",
          "title" : "Elon Musk’s Payday Could Cost Tesla Shareholders Dearly - The Wall Street Journal",
          "source" : {
             "name" : "The Wall Street Journal",
             "id" : "the-wall-street-journal"
          },
+         "publishedAt" : "2020-09-10T15:17:00Z",
          "url" : "https://www.wsj.com/articles/elon-musks-payday-could-cost-tesla-shareholders-dearly-11599751042",
-         "urlToImage" : "https://images.wsj.net/im-229532/social",
+         "author" : "Charley Grant",
          "content" : "Thanks to Teslas meteoric share-price rise, Elon Musk is set to cash in on a huge bonus package. Shareholders counting on their own tidy fortunes should know how Mr. Musks payday might dent their pro… [+335 chars]"
       },
       {
-         "author" : "Jackie Salo",
          "description" : "A Canadian flight was canceled after a feud with a family over their young children not wearing masks on a flight. Safwan Choudhry said crew members approached the family on the WestJet flight Tues…",
-         "source" : {
-            "name" : "New York Post",
-            "id" : null
-         },
-         "url" : "https://nypost.com/2020/09/10/flight-canceled-after-feud-about-toddler-not-wearing-face-mask/",
          "urlToImage" : "https://nypost.com/wp-content/uploads/sites/2/2020/09/200910-westjet-flight-mask.jpg?quality=90&strip=all&w=1200",
-         "content" : "A Canadian flight was canceled after a feud with a family over their young children not wearing masks on a flight.\r\nSafwan Choudhry said crew members approached the family on the WestJet flight Tuesd… [+1705 chars]",
+         "source" : {
+            "id" : null,
+            "name" : "New York Post"
+         },
+         "title" : "Flight canceled after feud about toddler not wearing face mask - New York Post ",
+         "url" : "https://nypost.com/2020/09/10/flight-canceled-after-feud-about-toddler-not-wearing-face-mask/",
          "publishedAt" : "2020-09-10T15:09:00Z",
-         "title" : "Flight canceled after feud about toddler not wearing face mask - New York Post "
+         "content" : "A Canadian flight was canceled after a feud with a family over their young children not wearing masks on a flight.\r\nSafwan Choudhry said crew members approached the family on the WestJet flight Tuesd… [+1705 chars]",
+         "author" : "Jackie Salo"
       },
       {
          "source" : {
             "id" : null,
             "name" : "New York Post"
          },
-         "url" : "https://nypost.com/2020/09/09/transverse-myelitis-the-illness-that-halted-astrazeneca-vaccine-trial/",
-         "content" : "The COVID-19 vaccine participant whose unexpected illness put the AstraZeneca trials on pause came down with an inflammatory syndrome known as transverse myelitis, according to a report.\r\nThe individ… [+1300 chars]",
-         "urlToImage" : "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/astrazeneca.jpg",
-         "publishedAt" : "2020-09-10T14:41:40Z",
          "title" : "What is transverse myelitis? The illness that halted AstraZeneca vaccine trial - Fox News",
+         "description" : "The COVID-19 vaccine participant whose unexpected illness put the AstraZeneca trials on pause came down with an inflammatory syndrome known as transverse myelitis, according to a report.",
+         "urlToImage" : "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/astrazeneca.jpg",
+         "content" : "The COVID-19 vaccine participant whose unexpected illness put the AstraZeneca trials on pause came down with an inflammatory syndrome known as transverse myelitis, according to a report.\r\nThe individ… [+1300 chars]",
          "author" : "New York Post",
-         "description" : "The COVID-19 vaccine participant whose unexpected illness put the AstraZeneca trials on pause came down with an inflammatory syndrome known as transverse myelitis, according to a report."
+         "url" : "https://nypost.com/2020/09/09/transverse-myelitis-the-illness-that-halted-astrazeneca-vaccine-trial/",
+         "publishedAt" : "2020-09-10T14:41:40Z"
       },
       {
-         "description" : "\"This is revolutionary and we can't deny it,\" CNBC's Jim Cramer said Thursday, praising the appointment that will make Fraser the first woman to lead a U.S. megabank.",
-         "author" : "Kevin Stankiewicz",
-         "title" : "Cramer says banking glass ceiling 'finally cracking' with Jane Fraser named as next Citi CEO - CNBC",
-         "publishedAt" : "2020-09-10T14:12:00Z",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106202395-1599747822930-106202395-1571953506227gettyimages-1140271268.jpg?v=1599747855",
-         "content" : "CNBC's Jim Cramer on Thursday praised the appointment of Jane Fraser as the next chief executive officer of Citigroup, making her the first woman to lead a U.S. megabank. \r\n\"The glass ceiling in bank… [+2196 chars]",
-         "url" : "https://www.cnbc.com/2020/09/10/cramer-banking-glass-ceiling-cracking-with-jane-fraser-next-citi-ceo.html",
-         "source" : {
-            "name" : "CNBC",
-            "id" : null
-         }
-      },
-      {
-         "publishedAt" : "2020-09-10T13:43:18Z",
-         "title" : "JetBlue continues push beyond focus cities, challenges Delta, United with 24 new routes - The Points Guy",
          "source" : {
             "id" : null,
-            "name" : "The Points Guy"
+            "name" : "CNBC"
          },
-         "url" : "http://thepointsguy.com/news/jetblue-24-new-routes-los-angeles-newark-raleigh/",
-         "content" : "The coronavirus pandemic has upended airline network planning.\r\nOut are the disciplined strategies of connecting destinations solely with hubs or focus cities; in is a fly-anywhere-people-are-going s… [+4748 chars]",
-         "urlToImage" : "https://i0.wp.com/thepointsguy.com/wp-content/uploads/2020/05/JetBlue-A320-Newark.jpeg?fit=1600%2C1067px&ssl=1",
-         "description" : "The coronavirus pandemic has upended airline network planning. Out are the disciplined strategies of connecting destinations solely with hubs or focus cities; in is a fly-anywhere-people-are-going strategy that is seeing carriers like JetBlue Airways push int…",
-         "author" : "Edward Russell"
+         "title" : "Cramer says banking glass ceiling 'finally cracking' with Jane Fraser named as next Citi CEO - CNBC",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106202395-1599747822930-106202395-1571953506227gettyimages-1140271268.jpg?v=1599747855",
+         "description" : "\"This is revolutionary and we can't deny it,\" CNBC's Jim Cramer said Thursday, praising the appointment that will make Fraser the first woman to lead a U.S. megabank.",
+         "content" : "CNBC's Jim Cramer on Thursday praised the appointment of Jane Fraser as the next chief executive officer of Citigroup, making her the first woman to lead a U.S. megabank. \r\n\"The glass ceiling in bank… [+2196 chars]",
+         "author" : "Kevin Stankiewicz",
+         "url" : "https://www.cnbc.com/2020/09/10/cramer-banking-glass-ceiling-cracking-with-jane-fraser-next-citi-ceo.html",
+         "publishedAt" : "2020-09-10T14:12:00Z"
       },
       {
-         "description" : "Off-price clothing retailer Century 21 — a mecca for generations of fashion-minded bargain hunters — filed for bankruptcy on Thursday and said it will shutter all of its stores for good…",
-         "author" : "Lisa Fickenscher",
-         "publishedAt" : "2020-09-10T13:36:00Z",
-         "title" : "Fashion retailer Century 21 files for bankruptcy, to shut all stores - New York Post ",
-         "url" : "https://nypost.com/2020/09/10/fashion-retailer-century-21-files-for-bankruptcy/",
+         "author" : "Edward Russell",
+         "content" : "The coronavirus pandemic has upended airline network planning.\r\nOut are the disciplined strategies of connecting destinations solely with hubs or focus cities; in is a fly-anywhere-people-are-going s… [+4748 chars]",
+         "publishedAt" : "2020-09-10T13:43:18Z",
+         "url" : "http://thepointsguy.com/news/jetblue-24-new-routes-los-angeles-newark-raleigh/",
          "source" : {
-            "name" : "New York Post",
+            "name" : "The Points Guy",
             "id" : null
          },
-         "content" : "Off-price clothing retailer Century 21 — a mecca for generations of fashion-minded bargain hunters — filed for bankruptcy on Thursday and said it will shutter all of its stores for good, blaming insu… [+2524 chars]",
-         "urlToImage" : "https://nypost.com/wp-content/uploads/sites/2/2020/09/century-21-bankruptcy.jpg?quality=90&strip=all&w=1200"
+         "title" : "JetBlue continues push beyond focus cities, challenges Delta, United with 24 new routes - The Points Guy",
+         "description" : "The coronavirus pandemic has upended airline network planning. Out are the disciplined strategies of connecting destinations solely with hubs or focus cities; in is a fly-anywhere-people-are-going strategy that is seeing carriers like JetBlue Airways push int…",
+         "urlToImage" : "https://i0.wp.com/thepointsguy.com/wp-content/uploads/2020/05/JetBlue-A320-Newark.jpeg?fit=1600%2C1067px&ssl=1"
       },
       {
-         "author" : "Scott Wise",
-         "description" : "JetBlue airline announced Thursday it would add direct flights from Richmond International Airport to Las Vegas, Los Angeles, and Tampa, Florida.",
-         "content" : "RICHMOND, Va. -- Vegas baby, Vegas! JetBlue airline announced Thursday it would add direct flights from Richmond International Airport to Las Vegas, Los Angeles, and Tampa, Florida.\r\nIt's part of the… [+1180 chars]",
-         "urlToImage" : "https://ewscripps.brightspotcdn.com/dims4/default/c8838e8/2147483647/strip/true/crop/1920x1008+0+21/resize/1200x630!/quality/90/?url=https%3A%2F%2Fmediaassets.wtvr.com%2Ftribune-network%2Ftribwtvr-files-wordpress%2F2014%2F12%2Fjetblue.jpeg",
+         "title" : "Fashion retailer Century 21 files for bankruptcy, to shut all stores - New York Post ",
+         "source" : {
+            "id" : null,
+            "name" : "New York Post"
+         },
+         "urlToImage" : "https://nypost.com/wp-content/uploads/sites/2/2020/09/century-21-bankruptcy.jpg?quality=90&strip=all&w=1200",
+         "description" : "Off-price clothing retailer Century 21 — a mecca for generations of fashion-minded bargain hunters — filed for bankruptcy on Thursday and said it will shutter all of its stores for good…",
+         "content" : "Off-price clothing retailer Century 21 — a mecca for generations of fashion-minded bargain hunters — filed for bankruptcy on Thursday and said it will shutter all of its stores for good, blaming insu… [+2524 chars]",
+         "author" : "Lisa Fickenscher",
+         "url" : "https://nypost.com/2020/09/10/fashion-retailer-century-21-files-for-bankruptcy/",
+         "publishedAt" : "2020-09-10T13:36:00Z"
+      },
+      {
          "source" : {
             "name" : "wtvr.com",
             "id" : null
          },
-         "url" : "https://www.wtvr.com/news/local-news/richmond-gets-direct-flights-to-vegas-los-angeles",
          "title" : "Richmond gets new direct flights to Vegas, Los Angeles - wtvr.com",
+         "description" : "JetBlue airline announced Thursday it would add direct flights from Richmond International Airport to Las Vegas, Los Angeles, and Tampa, Florida.",
+         "urlToImage" : "https://ewscripps.brightspotcdn.com/dims4/default/c8838e8/2147483647/strip/true/crop/1920x1008+0+21/resize/1200x630!/quality/90/?url=https%3A%2F%2Fmediaassets.wtvr.com%2Ftribune-network%2Ftribwtvr-files-wordpress%2F2014%2F12%2Fjetblue.jpeg",
+         "content" : "RICHMOND, Va. -- Vegas baby, Vegas! JetBlue airline announced Thursday it would add direct flights from Richmond International Airport to Las Vegas, Los Angeles, and Tampa, Florida.\r\nIt's part of the… [+1180 chars]",
+         "author" : "Scott Wise",
+         "url" : "https://www.wtvr.com/news/local-news/richmond-gets-direct-flights-to-vegas-los-angeles",
          "publishedAt" : "2020-09-10T13:19:00Z"
       },
       {
          "author" : "Jazmin Goodwin, CNN Business",
-         "description" : "Starbucks is finally ditching straws and ushering in its long-awaited \"sippy cup\" lids for iced beverages.",
+         "content" : null,
+         "publishedAt" : "2020-09-10T13:17:00Z",
          "url" : "https://www.cnn.com/2020/09/10/business/starbucks-straw-free-lids-plastic-straws-sustainability/index.html",
          "source" : {
             "name" : "CNN",
             "id" : "cnn"
          },
-         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200909170959-starbucks-lid-file-super-tease.jpg",
-         "content" : null,
-         "publishedAt" : "2020-09-10T13:17:00Z",
-         "title" : "Starbucks has officially abandoned straws in favor of sippy cup lids ... well, mostly - CNN"
+         "title" : "Starbucks has officially abandoned straws in favor of sippy cup lids ... well, mostly - CNN",
+         "description" : "Starbucks is finally ditching straws and ushering in its long-awaited \"sippy cup\" lids for iced beverages.",
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200909170959-starbucks-lid-file-super-tease.jpg"
       },
       {
-         "title" : "AMC's CEO describes coronavirus precautions, including upgraded air filtration at reopened theaters - CNBC",
+         "url" : "https://www.cnbc.com/2020/09/10/amc-ceo-adam-aron-on-new-coronavirus-precautions-at-movie-theaters.html",
          "publishedAt" : "2020-09-10T13:13:00Z",
          "content" : "AMC Entertainment CEO Adam Aron told CNBC on Thursday that the company has been pleased with the reopening of its movie theaters following coronavirus-induced closures, citing positive reactions from… [+2973 chars]",
+         "author" : "Kevin Stankiewicz",
+         "description" : "\"We've invested literally millions and millions in high-tech solutions\" to mitigate coronavirus risk. AMC Chief Executive Adam Aron told CNBC on Thursday.",
          "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106666274-1597669066699-gettyimages-1266666832-_jj_4913_2020081652440657.jpeg?v=1597669108",
-         "url" : "https://www.cnbc.com/2020/09/10/amc-ceo-adam-aron-on-new-coronavirus-precautions-at-movie-theaters.html",
          "source" : {
             "id" : null,
             "name" : "CNBC"
          },
-         "description" : "\"We've invested literally millions and millions in high-tech solutions\" to mitigate coronavirus risk. AMC Chief Executive Adam Aron told CNBC on Thursday.",
-         "author" : "Kevin Stankiewicz"
+         "title" : "AMC's CEO describes coronavirus precautions, including upgraded air filtration at reopened theaters - CNBC"
       },
       {
          "publishedAt" : "2020-09-10T13:01:00Z",
-         "title" : "Lucid teases electric SUV to be based on Air platform - Electrek.co",
          "url" : "https://electrek.co/2020/09/10/lucid-teases-electric-suv/",
-         "source" : {
-            "name" : "Electrek",
-            "id" : null
-         },
-         "urlToImage" : "https://electrek.co/wp-content/uploads/sites/3/2020/09/Lucid-Air-Electric-SUV.jpg?quality=82&strip=all",
-         "content" : "Lucid has teased a new electric SUV to be based on the same platform as its newly launched Air electric sedan.\r\nWe already caught a glimpse of the electric SUV when it was spied on while filming some… [+1585 chars]",
-         "description" : "Lucid has teased a new electric SUV to be based on the same platform as its newly launched Air electric sedan. We already caught a glimpse of the electric SUV when it was spied on while filming some media content last month. But now Lucid has made it official…",
-         "author" : null
-      },
-      {
-         "author" : "Alex Frangos",
-         "description" : "S&P 500 futures turned up heading into Thursday’s market open",
-         "url" : "https://www.wsj.com/articles/nasdaq-flat-tesla-up-what-to-watch-when-the-stock-market-opens-today-11599735524",
-         "source" : {
-            "id" : "the-wall-street-journal",
-            "name" : "The Wall Street Journal"
-         },
-         "content" : "Heres what we are watching as markets kick into gear Thursday.\r\n Trending higher. Stock-index futures are exuding calm premarket. Nasdaq futures are up 0.8%. S&amp;P 500 turned positive, up 0.2% afte… [+145 chars]",
-         "urlToImage" : "https://images.wsj.net/im-230493/social",
-         "publishedAt" : "2020-09-10T12:58:00Z",
-         "title" : "Nasdaq and Tesla Up: What to Watch When the Stock Market Opens Today - The Wall Street Journal"
-      },
-      {
-         "description" : null,
          "author" : null,
-         "publishedAt" : "2020-09-10T12:49:12Z",
-         "title" : "U.S. weekly jobless claims total 884000, vs 850000 expected - CNBC Television",
-         "url" : "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9Sml5WEp2ekZlMXPSAQA?oc=5",
+         "content" : "Lucid has teased a new electric SUV to be based on the same platform as its newly launched Air electric sedan.\r\nWe already caught a glimpse of the electric SUV when it was spied on while filming some… [+1585 chars]",
+         "urlToImage" : "https://electrek.co/wp-content/uploads/sites/3/2020/09/Lucid-Air-Electric-SUV.jpg?quality=82&strip=all",
+         "description" : "Lucid has teased a new electric SUV to be based on the same platform as its newly launched Air electric sedan. We already caught a glimpse of the electric SUV when it was spied on while filming some media content last month. But now Lucid has made it official…",
+         "title" : "Lucid teases electric SUV to be based on Air platform - Electrek.co",
+         "source" : {
+            "id" : null,
+            "name" : "Electrek"
+         }
+      },
+      {
+         "urlToImage" : "https://images.wsj.net/im-230493/social",
+         "description" : "S&P 500 futures turned up heading into Thursday’s market open",
+         "source" : {
+            "name" : "The Wall Street Journal",
+            "id" : "the-wall-street-journal"
+         },
+         "title" : "Nasdaq and Tesla Up: What to Watch When the Stock Market Opens Today - The Wall Street Journal",
+         "url" : "https://www.wsj.com/articles/nasdaq-flat-tesla-up-what-to-watch-when-the-stock-market-opens-today-11599735524",
+         "publishedAt" : "2020-09-10T12:58:00Z",
+         "content" : "Heres what we are watching as markets kick into gear Thursday.\r\n Trending higher. Stock-index futures are exuding calm premarket. Nasdaq futures are up 0.8%. S&amp;P 500 turned positive, up 0.2% afte… [+145 chars]",
+         "author" : "Alex Frangos"
+      },
+      {
          "source" : {
             "name" : "Google News",
             "id" : "google-news"
          },
+         "title" : "U.S. weekly jobless claims total 884000, vs 850000 expected - CNBC Television",
+         "description" : null,
          "urlToImage" : null,
-         "content" : null
+         "author" : null,
+         "content" : null,
+         "publishedAt" : "2020-09-10T12:49:12Z",
+         "url" : "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9Sml5WEp2ekZlMXPSAQA?oc=5"
       },
       {
-         "title" : "LVMH plans to sue Tiffany over troubled deal, alleges jeweler mismanaged coronavirus crisis - CNBC",
-         "publishedAt" : "2020-09-10T12:47:00Z",
-         "content" : "Louis Vuitton owner LVMH said Thursday it intends to file a lawsuit against Tiffany, accusing the luxury jeweler of \"dishonesty\" and mismanaging the coronavirus crisis. \r\nThe announcement comes a day… [+2350 chars]",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/105718348-1549293189352gettyimages-107550037.jpeg?v=1599738989",
-         "url" : "https://www.cnbc.com/2020/09/10/lvmh-says-it-plans-to-sue-tiffany-over-troubled-merger.html",
          "source" : {
             "name" : "CNBC",
             "id" : null
          },
+         "title" : "LVMH plans to sue Tiffany over troubled deal, alleges jeweler mismanaged coronavirus crisis - CNBC",
          "description" : "Louis Vuitton owner LVMH accuses Tiffany of \"dishonesty\" and mismanaging the coronavirus crisis.",
-         "author" : "Lauren Thomas"
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/105718348-1549293189352gettyimages-107550037.jpeg?v=1599738989",
+         "author" : "Lauren Thomas",
+         "content" : "Louis Vuitton owner LVMH said Thursday it intends to file a lawsuit against Tiffany, accusing the luxury jeweler of \"dishonesty\" and mismanaging the coronavirus crisis. \r\nThe announcement comes a day… [+2350 chars]",
+         "publishedAt" : "2020-09-10T12:47:00Z",
+         "url" : "https://www.cnbc.com/2020/09/10/lvmh-says-it-plans-to-sue-tiffany-over-troubled-merger.html"
       },
       {
+         "url" : "https://www.foxbusiness.com/markets/manhattan-apartment-vacancies-record-coronavirus-exodus",
+         "publishedAt" : "2020-09-10T12:27:24Z",
          "content" : "Manhattan’s rental market was hit with a tidal wave of new inventory as New Yorkers continued to flee the borough in the wake of COVID-19.\r\nRental listings rose 14.5% from a year ago to a record 15,0… [+1510 chars]",
+         "author" : "Jonathan Garber",
          "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/05/0/0/NYC-Skyline-8-Gary-Hershorn.jpg?ve=1&tl=1",
+         "description" : "Manhattan rental listings were up 14.5% from a year ago as coronavirus caused New Yorkers to flee.",
+         "title" : "Manhattan apartment vacancies surge to record amid coronavirus exodus - Fox Business",
+         "source" : {
+            "name" : "Fox Business",
+            "id" : null
+         }
+      },
+      {
+         "title" : "2 Top Growth Stocks to Buy in a Market Crash 2.0 - Motley Fool",
+         "source" : {
+            "id" : null,
+            "name" : "Motley Fool"
+         },
+         "description" : "Investors shouldn't miss an opportunity to scoop up these two companies if they fall victim to another broad market sell-off.",
+         "urlToImage" : "https://g.foolcdn.com/editorial/images/590865/buy-button.jpg",
+         "content" : "The first week of September wasn't a good one for the stock market. Fears of a rerun of the March crash reared their ugly head toward the end of the week, and major indices pulled back after a strong… [+4725 chars]",
+         "author" : "Harsh Chauhan",
+         "url" : "https://www.fool.com/investing/2020/09/10/2-top-growth-stocks-to-buy-in-a-market-crash-20/",
+         "publishedAt" : "2020-09-10T12:20:00Z"
+      },
+      {
+         "content" : "Home Depot is joining a slate of retailers in \"reinventing\" Black Friday this year in an effort to prevent large crowds from gathering amid the COVID-19 pandemic.\r\nRather than have a single day of de… [+2161 chars]",
+         "author" : "Daniella Genovese",
+         "url" : "https://www.foxbusiness.com/lifestyle/home-depot-black-friday-coronavirus",
+         "publishedAt" : "2020-09-10T12:12:53Z",
+         "title" : "Home Depot changes Black Friday shopping, offers 2 months of deals - Fox Business",
          "source" : {
             "name" : "Fox Business",
             "id" : null
          },
-         "url" : "https://www.foxbusiness.com/markets/manhattan-apartment-vacancies-record-coronavirus-exodus",
-         "title" : "Manhattan apartment vacancies surge to record amid coronavirus exodus - Fox Business",
-         "publishedAt" : "2020-09-10T12:27:24Z",
-         "author" : "Jonathan Garber",
-         "description" : "Manhattan rental listings were up 14.5% from a year ago as coronavirus caused New Yorkers to flee."
-      },
-      {
-         "description" : "Investors shouldn't miss an opportunity to scoop up these two companies if they fall victim to another broad market sell-off.",
-         "author" : "Harsh Chauhan",
-         "title" : "2 Top Growth Stocks to Buy in a Market Crash 2.0 - Motley Fool",
-         "publishedAt" : "2020-09-10T12:20:00Z",
-         "content" : "The first week of September wasn't a good one for the stock market. Fears of a rerun of the March crash reared their ugly head toward the end of the week, and major indices pulled back after a strong… [+4725 chars]",
-         "urlToImage" : "https://g.foolcdn.com/editorial/images/590865/buy-button.jpg",
-         "url" : "https://www.fool.com/investing/2020/09/10/2-top-growth-stocks-to-buy-in-a-market-crash-20/",
-         "source" : {
-            "name" : "Motley Fool",
-            "id" : null
-         }
-      },
-      {
          "description" : "Rather than have a single day of deals, the home improvement retailer announced Wednesday it will offer sales throughout the holiday season.",
-         "author" : "Daniella Genovese",
-         "title" : "Home Depot changes Black Friday shopping, offers 2 months of deals - Fox Business",
-         "publishedAt" : "2020-09-10T12:12:53Z",
-         "content" : "Home Depot is joining a slate of retailers in \"reinventing\" Black Friday this year in an effort to prevent large crowds from gathering amid the COVID-19 pandemic.\r\nRather than have a single day of de… [+2161 chars]",
-         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/07/0/0/home-depot-Getty.jpg?ve=1&tl=1",
-         "url" : "https://www.foxbusiness.com/lifestyle/home-depot-black-friday-coronavirus",
-         "source" : {
-            "id" : null,
-            "name" : "Fox Business"
-         }
+         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/07/0/0/home-depot-Getty.jpg?ve=1&tl=1"
       }
    ],
    "totalResults" : 70,
