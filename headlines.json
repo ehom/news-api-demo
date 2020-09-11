@@ -1,21 +1,125 @@
 {
    "articles" : [
       {
-         "description" : "As Boeing struggles to regain altitude after its high profile difficulties with the grounding of its 737 Max and the coronavirus pandemic, new documents obtained exclusively by KOMO News Radio show the company could be be facing new questions about the struct…",
-         "author" : "Charlie Harger, KOMO News Radio reporter",
-         "publishedAt" : "2020-09-10T22:38:00Z",
+         "description" : "Just three days after reports about quality control lapses at a Boeing's Dreamliner plant in South Carolina comes word of a new problem with its flagship jet.",
+         "author" : "Reuters",
+         "title" : "Boeing in talks with FAA about Dreamliner structural issue - Fox Business",
+         "content" : "Boeing Co said late on Thursday it was in discussions with U.S. safety regulators about a new manufacturing issue in its 787 Dreamliner that was found last year.\r\nFAA REVIEWS BOEING QUALITY CONTROL L… [+532 chars]",
+         "publishedAt" : "2020-09-11T01:14:28Z",
+         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/09/0/0/iStock-Boeing-787-.jpg?ve=1&tl=1",
          "source" : {
-            "name" : "KOMO News",
-            "id" : null
+            "id" : null,
+            "name" : "Fox Business"
          },
-         "title" : "Report raises new questions about structural integrity of Boeing 787 Dreamliner - KOMO News",
-         "url" : "http://komonews.com/news/local/report-raises-new-questions-about-structural-integrity-of-boeing-787-dreamliner",
-         "urlToImage" : "http://static-41.sinclairstoryline.com/resources/media/85786946-20b1-4437-8f28-c54f1980d340-large16x9_Boeing_First_Flight_787_10__sssundekomonews.com_7.jpg?1599776964233",
-         "content" : null
+         "url" : "https://www.foxbusiness.com/industrials/boeing-in-talks-with-faa-about-dreamliner-structural-issue"
       },
       {
+         "description" : "Jean-Sebastien Jacques and other senior executives will step down after the miner blew up sacred sites.",
+         "author" : "https://www.facebook.com/bbcnews",
+         "title" : "Rio Tinto chief Jean-Sebastien Jacques to quit over Aboriginal cave destruction - BBC News",
+         "publishedAt" : "2020-09-11T00:49:00Z",
+         "content" : null,
+         "urlToImage" : "https://ichef.bbci.co.uk/news/1024/branded_news/6CA9/production/_112571872_mediaitem112571871.jpg",
+         "url" : "https://www.bbc.com/news/world-australia-54112991",
+         "source" : {
+            "id" : null,
+            "name" : "BBC News"
+         }
+      },
+      {
+         "urlToImage" : "https://thehill.com/sites/default/files/coronavirus_smithfield_sd_042020getty_food-plants.jpg",
+         "content" : "The Occupational Safety and Health Administration (OSHA) has cited pork producer Smithfield Foods for failing to protect workers from coronavirus exposure, the agency announced Thursday. \r\nIt propose… [+3871 chars]",
+         "publishedAt" : "2020-09-11T00:44:18Z",
+         "source" : {
+            "id" : "the-hill",
+            "name" : "The Hill"
+         },
+         "url" : "https://thehill.com/regulation/labor/515967-trump-administration-issues-first-covid-19-fine-to-smithfield-for-failing-to",
+         "description" : "The Occupational Safety and Health Administration (OSHA) has cited pork producer Smithfield Foods for failing to protect workers from coronavirus exposure, the agency announced on Thursday.",
+         "title" : "Trump administration issues first COVID-19 fine to Smithfield for failing to protect workers | TheHill - The Hill",
+         "author" : "Alex Gangitano"
+      },
+      {
+         "description" : "CNN's Brian Stelter reports how Fox News is covering journalist Bob Woodward's audio recordings of President Donald Trump calling coronavirus \"deadly\" and saying he downplays it to avoid a panic.",
+         "author" : null,
+         "title" : "How Fox News covered the Woodward recordings of Trump - CNN",
+         "content" : "Chat with us in Facebook Messenger. Find out what's happening in the world as it unfolds.",
+         "publishedAt" : "2020-09-11T00:04:41Z",
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200905102123-01-fox-news-file-super-tease.jpg",
+         "source" : {
+            "name" : "CNN",
+            "id" : "cnn"
+         },
+         "url" : "https://www.cnn.com/videos/media/2020/09/11/donald-trump-fox-news-bob-woodward-stelter-dnt-ebof-vpx.cnn"
+      },
+      {
+         "title" : "Trump says he won't extend deadline for US TikTok sale - CNN",
+         "author" : "Paul LeBlanc, CNN",
+         "description" : "President Donald Trump said Thursday he will not extend the fast-approaching September 20 deadline he set for ByteDance, the Chinese-owned parent company of Tiktok, to sell the popular app or have it be banned.",
+         "url" : "https://www.cnn.com/2020/09/10/politics/trump-tiktok-extension-executive-order/index.html",
+         "source" : {
+            "id" : "cnn",
+            "name" : "CNN"
+         },
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200910100552-02-trump-wh-0907-super-tease.jpg",
+         "publishedAt" : "2020-09-10T23:39:00Z",
+         "content" : "(CNN)President Donald Trump said Thursday he will not extend the fast-approaching September 20 deadline he set for ByteDance, the Chinese-owned parent company of Tiktok, to sell the popular app or ha… [+2463 chars]"
+      },
+      {
+         "title" : "Nikola Motor labeled “an intricate fraud” by Hindenburg Research - Teslarati",
+         "author" : "Joey Klender",
+         "description" : "Nikola Motor is under fire after an analyst firm called Hindenburg Research labeled the automaker as “an intricate fraud built on dozens of lies.” Hindenberg said that had “gathered extensive evidence – including recorded phone calls, text messages, private e…",
+         "source" : {
+            "name" : "Teslarati",
+            "id" : null
+         },
+         "url" : "https://www.teslarati.com/nikola-motor-hindenburg-research/",
+         "urlToImage" : "https://www.teslarati.com/wp-content/uploads/2019/04/nikola-world-1aa-1024x500.jpg",
+         "content" : "Nikola Motor is under fire after an analyst firm called Hindenburg Research labeled the automaker as “an intricate fraud built on dozens of lies.”\r\nHindenberg said that had “gathered extensive eviden… [+3175 chars]",
+         "publishedAt" : "2020-09-10T23:31:35Z"
+      },
+      {
+         "author" : "Jeffery Martin",
+         "title" : "As Monica Lewinsky Considers Buying a Tesla, Elon Musk Gives Her an Offer She Can't Refuse - Newsweek",
+         "description" : "\"Can't decide between a Subaru or a Tesla,\" tweeted Monica Lewinsky on Thursday, prompting a response from Tesla founder Elon Musk.",
+         "url" : "https://www.newsweek.com/monica-lewinsky-considers-buying-tesla-elon-musk-gives-her-offer-she-cant-refuse-1531159",
+         "source" : {
+            "name" : "Newsweek",
+            "id" : "newsweek"
+         },
+         "publishedAt" : "2020-09-10T23:29:28Z",
+         "content" : "Subaru or Tesla? When activist Monica Lewinsky tweeted Thursday that she couldn't decide which automobile to purchase, Tesla co-founder Elon Musk responded by offering Lewinsky a sweet deal.\r\nThe sho… [+3105 chars]",
+         "urlToImage" : "https://d.newsweek.com/en/full/1635255/elon-musk.jpg"
+      },
+      {
+         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/09/0/0/Coffee_Brownie1.jpg?ve=1&tl=1",
+         "publishedAt" : "2020-09-10T23:14:29Z",
+         "content" : "Chick-fil-A’s about to get some new treats on the menu.\r\nThe popular fast food chain announced Thursday that it would be adding chocolate fudge brownies, a mocha cream cold brew and a new hot coffee … [+1348 chars]",
+         "url" : "https://www.foxbusiness.com/lifestyle/chick-fil-a-adds-brownies-coffee-drinks-menu",
+         "source" : {
+            "id" : null,
+            "name" : "Fox Business"
+         },
+         "description" : "Chick-fil-A announced three new menu items on Thursday.",
+         "title" : "Chick-fil-A adds brownies, coffee drinks to its menu - Fox Business",
+         "author" : "Ann Schmidt"
+      },
+      {
+         "urlToImage" : "https://www.wwlp.com/wp-content/uploads/sites/26/2020/01/Logan-Airport-generic-1-nbc-boston.jpg?w=1280",
+         "content" : "BOSTON (WWLP) – A JetBlue flight from Bostons Logan International Airport to Los Angeles safely returned an hour after takeoff late Thurssday afternoon due to issues with the airplanes hydraulic syst… [+504 chars]",
+         "publishedAt" : "2020-09-10T22:49:00Z",
+         "source" : {
+            "id" : null,
+            "name" : "WWLP.com"
+         },
+         "url" : "https://www.wwlp.com/news/massachusetts/jetblue-flight-from-bostons-logan-airport-to-lax-returns-an-hour-after-take-off/",
+         "description" : "A JetBlue flight from Boston’s Logan International Airport to Los Angeles safely returned an hour after takeoff Tuesday due to issues with the airplane’s hydraulic system.",
+         "title" : "JetBlue flight from Boston’s Logan Airport to LAX returns an hour after take-off - WWLP.com",
+         "author" : "Nancy Asiamah"
+      },
+      {
+         "publishedAt" : "2020-09-10T22:32:29Z",
          "content" : "Image copyrightGetty Images\r\nPeloton, which won an early celebrity fanbase for its exercise bikes and remote workout classes, has seen demand surge during the pandemic.\r\nThe firm's global membership … [+1859 chars]",
-         "title" : "Peloton sales surge as virus boosts home workouts - BBC News",
          "urlToImage" : "https://ichef.bbci.co.uk/news/1024/branded_news/D6CF/production/_114319945_gettyimages-1217255156.jpg",
          "url" : "https://www.bbc.com/news/business-54112461",
          "source" : {
@@ -24,243 +128,139 @@
          },
          "description" : "The exercise bike firm's revenues jumped 172% amid gym closures due to the pandemic.",
          "author" : "https://www.facebook.com/bbcnews",
-         "publishedAt" : "2020-09-10T22:32:29Z"
+         "title" : "Peloton sales surge as virus boosts home workouts - BBC News"
       },
       {
          "source" : {
-            "name" : "Engadget",
-            "id" : "engadget"
+            "id" : "engadget",
+            "name" : "Engadget"
          },
-         "publishedAt" : "2020-09-10T22:24:17Z",
-         "author" : "",
-         "description" : "It might be a good idea to carefully read the reviews before you buy another Amazon Basics product.",
-         "content" : "The affected products include USB charging cables, battery chargers, office equipment and other inexpensive accessories. One particularly problematic product, according to CNN, was a voice-enabled mi… [+1062 chars]",
-         "title" : "Dozens of AmazonBasics products could pose a safety risk, report says - Engadget",
+         "url" : "https://www.engadget.com/amazon-basics-products-could-be-fire-safety-risk-214942687.html",
          "urlToImage" : "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2019-08%2Ffe58aaf0-c1a1-11e9-bf7f-2209a4c633e5&client=amp-blogside-v2&signature=ac1ffc24609367e85536b5c2421dd6e621712ce8",
-         "url" : "https://www.engadget.com/amazon-basics-products-could-be-fire-safety-risk-214942687.html"
+         "content" : "The affected products include USB charging cables, battery chargers, office equipment and other inexpensive accessories. One particularly problematic product, according to CNN, was a voice-enabled mi… [+1062 chars]",
+         "publishedAt" : "2020-09-10T22:24:17Z",
+         "title" : "Dozens of AmazonBasics products could pose a safety risk, report says - Engadget",
+         "author" : "",
+         "description" : "It might be a good idea to carefully read the reviews before you buy another Amazon Basics product."
       },
       {
-         "description" : "Filings for benefits reflect continued layoffs and a sluggish recovery. “The numbers are going in the wrong direction,” one economist said.",
-         "author" : "Nelson D. Schwartz, Gillian Friedman",
-         "publishedAt" : "2020-09-10T22:16:00Z",
+         "description" : "More worries in the oil patch, and investors turning back to selling Big Tech has stocks swinging wildly again.",
+         "author" : "Jason Hall",
+         "title" : "S&P 500 Drops 60 Points on Volatile Day: Oil Stocks Fall Sharply, Apple Leads Tech Stocks Down Again - Motley Fool",
+         "content" : "The S&amp;P 500 Index (SNPINDEX:^SPX) has been doing its best yo-yo impression over the past week. Today's close was almost 1.8% lower, giving up almost 60 points after gaining 67 points, or 2%, yest… [+5711 chars]",
+         "publishedAt" : "2020-09-10T22:21:40Z",
+         "urlToImage" : "https://g.foolcdn.com/editorial/images/591328/arrows-up-and-down.jpg",
          "source" : {
-            "name" : "New York Times",
-            "id" : null
+            "id" : null,
+            "name" : "Motley Fool"
+         },
+         "url" : "https://www.fool.com/investing/2020/09/10/sp-500-drops-60-points-on-volatile-day-oil-stocks/"
+      },
+      {
+         "source" : {
+            "id" : null,
+            "name" : "New York Times"
          },
          "url" : "https://www.nytimes.com/2020/09/10/business/economy/unemployment-claims.html",
-         "title" : "Unemployment Claims Send Another Worrisome Note - The New York Times",
          "urlToImage" : "https://static01.nyt.com/images/2020/09/04/business/10virus-jobless1/00office-space4b-facebookJumbo.jpg",
-         "content" : "Perpetrators are often using stolen identity information from national and global data breaches, as well as exploiting expedited payment efforts, she said.\r\nIn August, 21 current and former inmates o… [+1050 chars]"
+         "content" : "Perpetrators are often using stolen identity information from national and global data breaches, as well as exploiting expedited payment efforts, she said.\r\nIn August, 21 current and former inmates o… [+1050 chars]",
+         "publishedAt" : "2020-09-10T22:16:00Z",
+         "title" : "Unemployment Claims Send Another Worrisome Note - The New York Times",
+         "author" : "Nelson D. Schwartz, Gillian Friedman",
+         "description" : "Filings for benefits reflect continued layoffs and a sluggish recovery. “The numbers are going in the wrong direction,” one economist said."
       },
       {
-         "url" : "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-why-stock-market-risky-nasdaq-apple-reverse-lower-peloton-earnings/",
-         "title" : "Riskier Than A Bear? Why This Market Is So Dangerous - Investor's Business Daily",
-         "urlToImage" : "https://www.investors.com/wp-content/uploads/2017/10/stock-sailing-rough-adobe.jpg",
-         "content" : "Dow Jones futures rose modestly late Thursday, along with S&amp;P 500 futures and Nasdaq futures. The stock market rally opened strong on Thursday but reversed sharply lower. The Nasdaq hit resistanc… [+6650 chars]",
-         "author" : "Investor's Business Daily",
-         "publishedAt" : "2020-09-10T22:07:00Z",
-         "description" : "Dow Jones futures: The reversal for the Nasdaq, Apple and other top techs shows how risky the stock market rally is now. Peloton jumped late on earnings.",
          "source" : {
             "id" : null,
-            "name" : "Investor's Business Daily"
-         }
+            "name" : "NPR"
+         },
+         "url" : "https://www.npr.org/sections/coronavirus-live-updates/2020/09/10/911670617/new-york-city-public-transit-riders-who-dont-mask-up-will-face-fines-starting-mo",
+         "content" : "New York City public transit passengers who refuse to wear masks will be fined $50 starting Sept. 14.\r\nSpencer Platt/Getty Images\r\nStarting Monday, New Yorkers who refuse to wear a mask on public tra… [+3054 chars]",
+         "publishedAt" : "2020-09-10T22:10:37Z",
+         "urlToImage" : "https://media.npr.org/assets/img/2020/09/10/gettyimages-1271794319_wide-b4a4d911549b0f224dfe5b0d5833d888885b9f96.jpg?s=1400",
+         "author" : "Rachel Treisman",
+         "title" : "New York City Public Transit Riders Who Don't Mask Up Will Face Fines Starting Monday - NPR",
+         "description" : "Riders are already required to wear face coverings on subways, buses and railroads. Officials hope the new penalty will improve compliance and bring hesitant would-be passengers back on board."
       },
       {
-         "publishedAt" : "2020-09-10T22:00:29Z",
+         "urlToImage" : "https://www.teslarati.com/wp-content/uploads/2020/04/tesla-cybertruck-factory.jpg",
+         "publishedAt" : "2020-09-10T22:08:02Z",
+         "content" : "Lucid hosted an impressive unveiling event of the Air on September 9th, showing the vehicle’s four different configurations and the remarkable performance specifications of the Dream Edition. With 51… [+3250 chars]",
+         "url" : "https://www.teslarati.com/tesla-cybertruck-lucid-air-perfect-answer/",
+         "source" : {
+            "id" : null,
+            "name" : "Teslarati"
+         },
+         "description" : "Lucid hosted an impressive unveiling event of the Air on September 9th, showing the vehicle’s four different configurations and the remarkable performance specifications of the Dream Edition. With 517 miles of range and some of the fastest acceleration rates …",
+         "title" : "The Cybertruck is Tesla’s perfect answer to the Lucid Air - Teslarati",
+         "author" : "Joey Klender"
+      },
+      {
+         "source" : {
+            "id" : "the-verge",
+            "name" : "The Verge"
+         },
+         "url" : "https://www.theverge.com/2020/9/10/21431214/google-search-autocomplete-suggestion-policy-change-2020-election",
+         "content" : "Will it police them itself?\r\nIllustration by Alex Castro / The Verge\r\nGoogle has sometimes gotten in trouble for the phrases that automatically appear when youre trying to type in a new search. Even … [+2277 chars]",
+         "publishedAt" : "2020-09-10T22:06:19Z",
+         "urlToImage" : "https://cdn.vox-cdn.com/thumbor/zecX0cPldoJGxd8xivCIx07sXlA=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/10745895/acastro_180427_1777_0001.jpg",
+         "author" : "Sean Hollister",
+         "title" : "Google promises to remove search suggestions that might seem political — even if they’re true - The Verge",
+         "description" : "In the buildup to the 2020 US presidential election, Google is changing its autocomplete policies to theoretically weed out one particular category of suggestion: “Election related predictions” that could be interpreted as favoring a particular candidate or p…"
+      },
+      {
          "author" : "James Leggate",
+         "title" : "Fight on Canadian plane over child refusing to wear mask cancels flight - Fox News",
          "description" : "Canadian airline WestJet said it had to cancel the flight early Tuesday because two parents on the plane refused to put a mask on their 3-year-old child, according to a report.",
+         "url" : "https://www.foxnews.com/travel/fight-canadian-plane-child-refusing-mask-flight",
          "source" : {
             "id" : "fox-news",
             "name" : "Fox News"
          },
-         "urlToImage" : "https://static.foxnews.com/foxnews.com/content/uploads/2018/11/WestJet-iStock.jpg",
-         "url" : "https://www.foxnews.com/travel/fight-canadian-plane-child-refusing-mask-flight",
-         "title" : "Fight on Canadian plane over child refusing to wear mask cancels flight - Fox News",
-         "content" : "A flight from Calgary to Toronto was canceled this week after a dispute over an unmasked child.\r\nCanadian airline WestJet said it had to cancel the flight early Tuesday because two parents on the pla… [+2627 chars]"
+         "publishedAt" : "2020-09-10T22:00:29Z",
+         "content" : "A flight from Calgary to Toronto was canceled this week after a dispute over an unmasked child.\r\nCanadian airline WestJet said it had to cancel the flight early Tuesday because two parents on the pla… [+2627 chars]",
+         "urlToImage" : "https://static.foxnews.com/foxnews.com/content/uploads/2018/11/WestJet-iStock.jpg"
       },
       {
-         "title" : "Retreating Oil Prices Force OPEC To Reconsider Easing Cuts - OilPrice.com",
-         "urlToImage" : "https://d32r1sh890xpii.cloudfront.net/article/718x300/2020-09-10_yktc4xfesz.jpg",
-         "url" : "https://oilprice.com/Energy/Energy-General/Retreating-Oil-Prices-Force-OPEC-To-Reconsider-Easing-Cuts.html",
-         "content" : "The Trump Administration is proposing…\r\nNikola, a maker of electric…\r\nOil prices crashed at the…\r\nBy Tsvetana Paraskova - Sep 10, 2020, 5:00 PM CDTThe record oil production cuts that OPEC+ initiated … [+6005 chars]",
-         "description" : "OPEC is once again caught between a rock and a hard place as the cartel would like to further ease output cuts, but finds that adding more supply will only sour the marketplace",
-         "author" : "Tsvetana Paraskova",
-         "publishedAt" : "2020-09-10T22:00:00Z",
-         "source" : {
-            "id" : null,
-            "name" : "OilPrice.com"
-         }
-      },
-      {
-         "source" : {
-            "id" : null,
-            "name" : "Yahoo Entertainment"
-         },
-         "author" : "Melody Hahm",
-         "publishedAt" : "2020-09-10T21:54:00Z",
-         "description" : "Peloton reported fiscal fourth-quarter earnings after the bell Thursday.",
-         "content" : "Peloton (PTON) on Thursday reported earnings that demolished Wall Streets expectations, with the company bolstered by the COVID-19 outbreak that shuttered gyms and kept fitness conscious consumers wo… [+2858 chars]",
-         "title" : "Peloton stock roars as earnings smash estimates, posts first ever profit on coronavirus boost - Yahoo Finance",
-         "urlToImage" : "https://s.yimg.com/uu/api/res/1.2/KUqA4uRTKlAEom2aodIOig--~B/aD0zMjU2O3c9NDg4NDtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-images/2020-02/097d3ac0-48f9-11ea-b47b-7f32a559bc2c",
-         "url" : "https://finance.yahoo.com/news/peloton-new-highs-q4-earnings-and-revenue-202044922.html"
-      },
-      {
-         "content" : "OSHA has recommended but not mandated guidance employers can take to protect workers from the coronavirus, such as social distancing measures and the use of physical barriers, face shields and face c… [+1492 chars]",
-         "urlToImage" : "https://static.politico.com/82/a0/463f025040679bb0d3e620d4918c/ap20108597341893.jpg",
-         "title" : "U.S. issues first Covid-19 fine to meatpacking plant totaling $13,500 - POLITICO",
-         "url" : "https://www.politico.com/news/2020/09/10/osha-smithfield-coronavirus-fine-411925",
-         "source" : {
-            "name" : "Politico",
-            "id" : "politico"
-         },
-         "author" : "Ximena Bustillo",
-         "publishedAt" : "2020-09-10T21:53:00Z",
-         "description" : "The penalty of about $13,500 is likely to be seen as inadequate by worker groups."
-      },
-      {
-         "urlToImage" : "https://i.insider.com/5f58d8a07ed0ee001e25e24e?width=1200&format=jpeg",
-         "title" : "Former employees of Tanya Zuckerbrot's popular F-Factor diet say she fat-shamed colleagues and policed their eating, causing terrified staffers to snack in secret - Business Insider",
-         "url" : "https://www.businessinsider.com/past-f-factor-employees-speak-about-workplace-pressure-to-restrict-eating-2020-9",
-         "content" : "It was Sarah's first day of work at F-Factor, and she packed a homemade lunch of whole-wheat pasta and turkey meatballs.\r\n\"I thought I was being really responsible,\" Sarah, a dietitian, told Insider.… [+16452 chars]",
-         "author" : "Dana Schuster",
          "publishedAt" : "2020-09-10T21:38:33Z",
+         "content" : "It was Sarah's first day of work at F-Factor, and she packed a homemade lunch of whole-wheat pasta and turkey meatballs.\r\n\"I thought I was being really responsible,\" Sarah, a dietitian, told Insider.… [+16452 chars]",
+         "urlToImage" : "https://i.insider.com/5f58d8a07ed0ee001e25e24e?width=1200&format=jpeg",
+         "url" : "https://www.businessinsider.com/past-f-factor-employees-speak-about-workplace-pressure-to-restrict-eating-2020-9",
+         "source" : {
+            "name" : "Business Insider",
+            "id" : "business-insider"
+         },
          "description" : "Ex-employees said they hid food from their boss, Tanya Zuckerbrot, and were subject to jokes and stringent clothing guidelines meant to show off their bodies.",
-         "source" : {
-            "id" : "business-insider",
-            "name" : "Business Insider"
-         }
+         "author" : "Dana Schuster",
+         "title" : "Former employees of Tanya Zuckerbrot's popular F-Factor diet say she fat-shamed colleagues and policed their eating, causing terrified staffers to snack in secret - Business Insider"
       },
       {
-         "url" : "https://www.cnbc.com/2020/09/10/sandy-weill-on-citigroups-decision-to-name-jane-fraser-its-next-ceo.html",
-         "title" : "Sandy Weill says Citi has 'an unbelievable opportunity' to grow with Jane Fraser as next CEO - CNBC",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/101628016-20140430-6964-617.jpg?v=1584566083",
-         "content" : "Former Citigroup CEO Sandy Weill told CNBC on Thursday that he was bullish about the bank's future after it tapped Jane Fraser to be its next top executive, calling her a \"natural leader\" who can bri… [+2345 chars]",
          "author" : "Kevin Stankiewicz",
-         "publishedAt" : "2020-09-10T21:35:00Z",
+         "title" : "Sandy Weill says Citi has 'an unbelievable opportunity' to grow with Jane Fraser as next CEO - CNBC",
          "description" : "\"She also knows a lot about how to run the businesses hands on and she has empathy for people,\" former Citigroup CEO Sandy Weill told CNBC.",
+         "url" : "https://www.cnbc.com/2020/09/10/sandy-weill-on-citigroups-decision-to-name-jane-fraser-its-next-ceo.html",
          "source" : {
-            "name" : "CNBC",
-            "id" : null
-         }
+            "id" : null,
+            "name" : "CNBC"
+         },
+         "publishedAt" : "2020-09-10T21:35:00Z",
+         "content" : "Former Citigroup CEO Sandy Weill told CNBC on Thursday that he was bullish about the bank's future after it tapped Jane Fraser to be its next top executive, calling her a \"natural leader\" who can bri… [+2345 chars]",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/101628016-20140430-6964-617.jpg?v=1584566083"
       },
       {
-         "publishedAt" : "2020-09-10T21:28:00Z",
          "author" : "WXII12.com Web Staff",
+         "title" : "New North Carolina CVS drive-thru testing sites opening, minimum testing age lowered to 12 - WXII12 Winston-Salem",
          "description" : "CVS Health announced Thursday morning that 31 new testing sites are launching Friday and the testing age at the centers is being lowered to 12 years of age or older.",
          "source" : {
-            "id" : null,
-            "name" : "WXII12 Winston-Salem"
-         },
-         "title" : "New North Carolina CVS drive-thru testing sites opening, minimum testing age lowered to 12 - WXII12 Winston-Salem",
-         "url" : "https://www.wxii12.com/article/coronavirus-cvs-drive-thru-testing-sites-opening-age/33983670",
-         "urlToImage" : "https://kubrick.htvapps.com/htv-prod/ibmig/cms/image/wxii/24302072-24302072.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
-         "content" : "WINSTON-SALEM, N.C. —CVS Health announced Thursday morning that 31 new testing sites are launching Friday and the testing age at the centers is being lowered to 12 years of age or older.\r\nWith school… [+1200 chars]"
-      },
-      {
-         "description" : "JPMorgan Chase & Co. executives instructed its senior trading...",
-         "author" : "Justine Coleman",
-         "publishedAt" : "2020-09-10T21:04:46Z",
-         "source" : {
-            "id" : "the-hill",
-            "name" : "The Hill"
-         },
-         "urlToImage" : "https://thehill.com/sites/default/files/jpmorgan.jpg",
-         "title" : "JPMorgan telling senior trading-floor managers to come back to office by September 21 | TheHill - The Hill",
-         "url" : "https://thehill.com/policy/finance/515926-jpmorgan-telling-senior-trading-floor-managers-to-come-back-to-office-by",
-         "content" : "JPMorgan Chase &amp; Co. executives instructed its senior trading-floor managers to return to the office by Sept. 21 in Wednesday calls, a person familiar with the plans told The Hill. \r\nOfficials at… [+2024 chars]"
-      },
-      {
-         "title" : "Economic Rebound Becomes More Fragile With U.S. Aid on Brink - Bloomberg",
-         "urlToImage" : "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ihUbwgYQa47k/v0/1200x800.jpg",
-         "url" : "https://www.bloomberg.com/news/articles/2020-09-10/economic-rebound-becomes-more-fragile-with-u-s-aid-on-brink",
-         "content" : "Photographer: Spencer Platt/Getty Images\r\nAmerica’s economic rebound is about to get a lot tougher after an initial series of gains from the depths of the pandemic. \r\nApplications for regular state u… [+4397 chars]",
-         "description" : "America’s economic rebound is about to get a lot tougher after an initial series of gains from the depths of the pandemic.",
-         "publishedAt" : "2020-09-10T20:50:00Z",
-         "author" : "Reade Pickert, Jarrell Dillard",
-         "source" : {
-            "name" : "Bloomberg",
-            "id" : "bloomberg"
-         }
-      },
-      {
-         "author" : "Sara Ashley O'Brien, CNN Business",
-         "publishedAt" : "2020-09-10T20:45:00Z",
-         "description" : "Elizabeth Holmes, the founder and former CEO of Theranos, may seek a \"mental disease\" defense in her criminal fraud trial, according to a new court document.",
-         "source" : {
-            "name" : "CNN",
-            "id" : "cnn"
-         },
-         "title" : "Elizabeth Holmes may attempt to claim 'mental disease' in Theranos criminal case - CNN",
-         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200910142929-elizabeth-holmes-theranos-trial-hearing-file-super-tease.jpg",
-         "url" : "https://www.cnn.com/2020/09/10/tech/theranos-holmes-mental-disease/index.html",
-         "content" : "(CNN Business)Elizabeth Holmes, the founder and former CEO of Theranos, may seek a \"mental disease\" defense in her criminal fraud trial, according to a new court document.\r\nHolmes, whose failed biote… [+1980 chars]"
-      },
-      {
-         "source" : {
-            "name" : "MarketWatch",
+            "name" : "WXII12 Winston-Salem",
             "id" : null
          },
-         "publishedAt" : "2020-09-10T20:25:00Z",
-         "author" : "MarketWatch Automation",
-         "description" : "",
-         "content" : "Shares of Netflix Inc. \r\n NFLX, \r\n -3.90%\r\nslid 3.90% to $480.67 Thursday, on what proved to be an all-around rough trading session for the stock market, with the S&amp;P 500 Index \r\n SPX, \r\n -1.75%\r… [+816 chars]",
-         "url" : "https://www.marketwatch.com/story/netflix-inc-stock-falls-thursday-underperforms-market-01599769524",
-         "title" : "Netflix Inc. stock falls Thursday, underperforms market - MarketWatch",
-         "urlToImage" : "https://images.mktw.net/im-215085/social"
-      },
-      {
-         "content" : "Dave &amp; Buster's Entertainment Inc. \r\n PLAY, \r\n -2.27%\r\nshares initially were down 5% in after-hours trading Thursday after the restaurant chain reported fiscal second-quarter revenue that whiffed… [+661 chars]",
-         "title" : "Dave & Buster's shares drop 5% on 85% drop in revenue - MarketWatch",
-         "url" : "https://www.marketwatch.com/story/dave-busters-shares-drop-5-on-85-drop-in-revenue-2020-09-10",
-         "urlToImage" : "https://s.wsj.net/public/resources/MWimages/MW-GP644_MicroS_ZG_20180906154215.jpg",
-         "source" : {
-            "id" : null,
-            "name" : "MarketWatch"
-         },
-         "author" : "Jon Swartz",
-         "publishedAt" : "2020-09-10T20:23:00Z",
-         "description" : ""
-      },
-      {
-         "publishedAt" : "2020-09-10T20:19:00Z",
-         "author" : null,
-         "description" : null,
-         "source" : {
-            "id" : "google-news",
-            "name" : "Google News"
-         },
-         "title" : "MRNA Stock, NVAX Stock Rally Second Day After AZN Covid Vaccine Pause - Investor's Business Daily",
-         "urlToImage" : null,
-         "url" : "https://news.google.com/__i/rss/rd/articles/CBMib2h0dHBzOi8vd3d3LmludmVzdG9ycy5jb20vbmV3cy90ZWNobm9sb2d5L21ybmEtc3RvY2stbnZheC1zdG9jay1yYWxseS1zZWNvbmQtZGF5LWFmdGVyLWF6bi1jb3ZpZC12YWNjaW5lLXBhdXNlL9IBAA?oc=5",
-         "content" : null
-      },
-      {
-         "source" : {
-            "id" : null,
-            "name" : "MarketWatch"
-         },
-         "author" : "Wallace Witkowski",
-         "publishedAt" : "2020-09-10T20:09:00Z",
-         "description" : "Revenue from Zoom Video more than doubles",
-         "content" : "Oracle Corp. shares rallied in the extended session Thursday after the database software companys results and outlook topped Wall Street estimates. On a conference call, Oracle \r\n ORCL, \r\n +0.66%\r\nCh… [+1839 chars]",
-         "urlToImage" : "https://images.mktw.net/im-230767/social",
-         "title" : "Oracle stock rallies as results, outlook top Wall Street estimates - MarketWatch",
-         "url" : "https://www.marketwatch.com/story/oracle-stock-rallies-as-results-top-wall-street-estimates-11599768559"
-      },
-      {
-         "url" : "https://www.foxnews.com/us/new-york-city-subway-bus-mask-fine",
-         "title" : "New York City subway, bus riders who don't wear masks risk $50 fines - Fox News",
-         "urlToImage" : "https://static.foxnews.com/foxnews.com/content/uploads/2020/04/homeless-nyc-5-getty-images.jpg",
-         "content" : "New York City subway and bus riders who are caught not wearing a mask will soon face $50 fines, Gov. Andrew Cuomo and transit officials announced Thursday.\r\nThe New York Police Department and the Met… [+1444 chars]",
-         "description" : "New York City subway and bus riders who are caught not wearing a mask will soon face $50 fines, Gov. Andrew Cuomo and transit officials announced Thursday.",
-         "publishedAt" : "2020-09-10T20:05:49Z",
-         "author" : "Greg Norman",
-         "source" : {
-            "id" : "fox-news",
-            "name" : "Fox News"
-         }
+         "url" : "https://www.wxii12.com/article/coronavirus-cvs-drive-thru-testing-sites-opening-age/33983670",
+         "content" : "WINSTON-SALEM, N.C. —CVS Health announced Thursday morning that 31 new testing sites are launching Friday and the testing age at the centers is being lowered to 12 years of age or older.\r\nWith school… [+1200 chars]",
+         "publishedAt" : "2020-09-10T21:28:00Z",
+         "urlToImage" : "https://kubrick.htvapps.com/htv-prod/ibmig/cms/image/wxii/24302072-24302072.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*"
       }
    ],
-   "status" : "ok",
-   "totalResults" : 70
+   "totalResults" : 70,
+   "status" : "ok"
 }
