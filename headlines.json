@@ -1,266 +1,266 @@
 {
-   "totalResults" : 70,
-   "status" : "ok",
    "articles" : [
       {
-         "description" : "Tesla's stock price could fall another 5-10% if a negative 'herd mentality' prompts 'massive selling'",
-         "title" : "Tesla's stock price could fall another 5-10% if a negative 'herd mentality' prompts 'massive selling' | Markets - Business Insider",
-         "author" : "Saloni Sardana",
-         "url" : "https://www.businessinsider.com/tesla-stock-forecast-massive-selloff-2020-9",
-         "publishedAt" : "2020-09-11T09:00:41Z",
+         "title" : "Drugmaker AbbVie pressures reluctant employees to return to work, raising safety questions - CNBC",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/104321344-RTR4S7O9.jpg?v=1580163570",
+         "description" : "Even if employees have demonstrated an ability to do their jobs from home, the company expects them to report to the office to foster creativity and innovation under its phased-in return-to-work plan.",
          "source" : {
-            "name" : "Business Insider",
-            "id" : "business-insider"
+            "id" : null,
+            "name" : "CNBC"
          },
-         "content" : "BRENDAN SMIALOWSKI/AFP via Getty Images\r\n<ul><li>Tesla has lost 10% in the last week due to a number of events, but a strategist is forecasting further pain ahead for the stock. </li><li>Ticker Tocke… [+2866 chars]",
-         "urlToImage" : "https://i.insider.com/5f5107e0e6ff30001d4e6d96?format=jpeg"
+         "url" : "https://www.cnbc.com/2020/09/11/pharmacabbvie-employees-raise-safety-concerns-with-return-to-work-plans.html",
+         "publishedAt" : "2020-09-11T12:00:00Z",
+         "content" : "A \"critical part\" of pharmaceutical company AbbVie's success is \"face-to-face\" interaction, CEO Richard Gonzalez explained in an Aug. 27 email outlining its process for bringing thousands of U.S.-bas… [+7905 chars]",
+         "author" : "Christina Farr"
+      },
+      {
+         "author" : "Matthew J. Belvedere",
+         "publishedAt" : "2020-09-11T11:21:00Z",
+         "content" : "1. Wall Street tries to end a rough week on an up note\r\nU.S. stock futures were pointing to gains at Friday's open after early strong advances Thursday turned into steep losses by the close. The Dow … [+4659 chars]",
+         "url" : "https://www.cnbc.com/2020/09/11/5-things-to-know-before-the-stock-market-opens-september-11-2020.html",
+         "source" : {
+            "id" : null,
+            "name" : "CNBC"
+         },
+         "description" : "U.S. stock futures pointed to gains at Friday's open after early strong advances Thursday turned into steep losses by the close.",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106673835-1598039867023-the-raging-bull-sculpture-on-wall-st-in-lower-manhattan-new-york-city-daytime-rltheis_t20_yw4m90.jpg?v=1598039956",
+         "title" : "5 things to know before the stock market opens Friday - CNBC"
+      },
+      {
+         "urlToImage" : "https://g.foolcdn.com/editorial/images/591145/man-with-money.jpg",
+         "title" : "Did You Sell Apple, Tesla, or Other Tech Stocks for a Profit? Here's What It Could Mean for Your Tax Bill - Motley Fool",
+         "description" : "If you cashed in on some high-flying tech stocks, here's what you should know about the tax implications.",
+         "source" : {
+            "id" : null,
+            "name" : "Motley Fool"
+         },
+         "url" : "https://www.fool.com/taxes/2020/09/11/did-you-sell-apple-tesla-or-other-tech-stocks-for/",
+         "publishedAt" : "2020-09-11T10:48:00Z",
+         "content" : "To say that the stock market's rally has been impressive over the past few months would be a huge understatement. That's especially true when it comes to some of the most popular tech stocks in the m… [+4137 chars]",
+         "author" : "Matthew Frankel, CFP"
+      },
+      {
+         "author" : "Jon Porter",
+         "url" : "https://www.theverge.com/2020/9/11/21431962/public-citizen-amazon-price-gouging-coronavirus-covid-19-hand-sanitizer-masks-soap-toilet-paper",
+         "content" : "Items sold by Amazon reportedly increased in price by up to 1,000 percent\r\nIllustration by Alex Castro / The Verge\r\nAmazon has been accused of price gouging on essential items like toilet paper and a… [+3947 chars]",
+         "publishedAt" : "2020-09-11T10:23:23Z",
+         "description" : "Amazon has been accused of price gouging on essential items like toilet paper and antibacterial soap in a new report. It analyzed products sold by third-party sellers as well as those listed as “sold by Amazon.”",
+         "source" : {
+            "name" : "The Verge",
+            "id" : "the-verge"
+         },
+         "urlToImage" : "https://cdn.vox-cdn.com/thumbor/ANbApt8_hpnu2eYB5cWXLfhac_g=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/13443461/acastro_181114_1777_amazon_hq2_0002.jpg",
+         "title" : "Amazon sold items at inflated prices during pandemic according to consumer watchdog - The Verge"
+      },
+      {
+         "source" : {
+            "id" : null,
+            "name" : "NPR"
+         },
+         "description" : "An NPR and PBS Frontline investigation reveals how the oil and gas industry used the promise of recycling to sell more plastic, even when they knew it would never work on a large scale.",
+         "title" : "Is Plastic Recycling A Lie? Oil Companies Touted Recycling To Sell More Plastic - NPR",
+         "urlToImage" : "https://media.npr.org/assets/img/2020/08/03/img_6898_wide-e700091be064053c78df9e3f833f115b3b999596.jpg?s=1400",
+         "author" : "",
+         "content" : "Landfill workers bury all plastic except soda bottles and milk jugs at Rogue Disposal &amp; Recycling in southern Oregon.\r\nLaura Sullivan/NPR\r\nLaura Leebrick, a manager at Rogue Disposal &amp; Recycl… [+19789 chars]",
+         "publishedAt" : "2020-09-11T09:00:12Z",
+         "url" : "https://www.npr.org/2020/09/11/897692090/how-big-oil-misled-the-public-into-believing-plastic-would-be-recycled"
       },
       {
          "author" : "Meridith McGraw",
+         "publishedAt" : "2020-09-11T08:30:00Z",
+         "content" : "Essentially, Trump has backed himself into a corner. His moves against TikTok are part of a broader tough-on-China push he has made a centerpiece of his reelection campaign, an outlet to deflect blam… [+9735 chars]",
          "url" : "https://www.politico.com/news/2020/09/11/trumps-tiktok-china-412053",
+         "source" : {
+            "id" : "politico",
+            "name" : "Politico"
+         },
          "description" : "When the president has faced off with China, he often ends up in a jam. And the solution to the TikTok stalemate isn't clear.",
          "title" : "Trump's first TikTok move: A China quagmire of his own making - POLITICO",
-         "content" : "Essentially, Trump has backed himself into a corner. His moves against TikTok are part of a broader tough-on-China push he has made a centerpiece of his reelection campaign, an outlet to deflect blam… [+9735 chars]",
-         "urlToImage" : "https://static.politico.com/5f/2e/ddf7147b4160941186e8b4153667/tiktok-ap-773.jpg",
-         "publishedAt" : "2020-09-11T08:30:00Z",
-         "source" : {
-            "name" : "Politico",
-            "id" : "politico"
-         }
+         "urlToImage" : "https://static.politico.com/5f/2e/ddf7147b4160941186e8b4153667/tiktok-ap-773.jpg"
       },
       {
-         "publishedAt" : "2020-09-11T07:55:00Z",
-         "source" : {
-            "name" : "MarketWatch",
-            "id" : null
-         },
-         "content" : "European stocks traded mixed on Friday, as investors searched for direction, eyeing a tense Brexit standoff and a warning from the European Central Bank over getting too complacent about a recovery i… [+1979 chars]",
          "urlToImage" : "https://images.mktw.net/im-230996/social",
-         "author" : "Barbara Kollmeyer",
-         "url" : "https://www.marketwatch.com/story/european-stocks-struggle-for-direction-as-ecb-economist-warns-over-complacency-11599810922",
+         "title" : "European stocks struggle for direction as ECB economist warns over complacency - MarketWatch",
          "description" : "Altice shares soar on buyout offer",
-         "title" : "European stocks struggle for direction as ECB economist warns over complacency - MarketWatch"
+         "source" : {
+            "id" : null,
+            "name" : "MarketWatch"
+         },
+         "url" : "https://www.marketwatch.com/story/european-stocks-struggle-for-direction-as-ecb-economist-warns-over-complacency-11599810922",
+         "publishedAt" : "2020-09-11T07:55:00Z",
+         "content" : "European stocks traded mixed on Friday, as investors searched for direction, eyeing a tense Brexit standoff and a warning from the European Central Bank over getting too complacent about a recovery i… [+1979 chars]",
+         "author" : "Barbara Kollmeyer"
       },
       {
-         "url" : "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9N09POHZSa3hteUXSAQA?oc=5",
-         "author" : null,
-         "title" : "CNN goes inside critical Phase 3 trials of Russian vaccine - CNN",
          "description" : null,
-         "urlToImage" : null,
-         "content" : null,
-         "publishedAt" : "2020-09-11T07:42:41Z",
          "source" : {
             "id" : "google-news",
             "name" : "Google News"
-         }
+         },
+         "title" : "CNN goes inside critical Phase 3 trials of Russian vaccine - CNN",
+         "urlToImage" : null,
+         "author" : null,
+         "url" : "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9N09POHZSa3hteUXSAQA?oc=5",
+         "content" : null,
+         "publishedAt" : "2020-09-11T07:42:41Z"
       },
       {
+         "author" : "Associated Press",
+         "url" : "https://www.foxbusiness.com/markets/china-becoming-battleground-for-plant-based-meat-makers",
+         "content" : "China has become a battleground for plant-based meat companies looking to tap into the world’s largest market for meat-consumption.\r\nAmerican plant-based meat company Impossible Foods Inc. said Thurs… [+4059 chars]",
+         "publishedAt" : "2020-09-11T06:58:44Z",
+         "description" : "Impossible Foods' products include plant-based beef, pork and sausage",
+         "source" : {
+            "id" : null,
+            "name" : "Fox Business"
+         },
+         "title" : "China becoming battleground for plant-based meat makers - Fox Business",
+         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/08/0/0/impossible-foods-burger-AP.png?ve=1&tl=1"
+      },
+      {
+         "content" : "The U.K. economy grew 6.6% in July on a monthly basis, according to initial estimates published Friday, as the economy seeks to recover from the sharp downturn caused by coronavirus-induced lockdown … [+1688 chars]",
+         "publishedAt" : "2020-09-11T06:07:00Z",
+         "url" : "https://www.cnbc.com/2020/09/11/uk-economy-recovered-6point6percent-in-july.html",
+         "author" : "Elliot Smith",
+         "title" : "UK economy grew 6.6% in July as gradual recovery continues - CNBC",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106575421-1591961424651gettyimages-1206590116.jpeg?v=1591961630",
+         "source" : {
+            "id" : null,
+            "name" : "CNBC"
+         },
+         "description" : "The U.K. economy grew 6.6% in July on a monthly basis, according to initial estimates published Friday."
+      },
+      {
+         "description" : "The list of victims runs for more than 170 pages of a 225-page civil complaint seeking compensation and punitive damages from MGM Resorts",
          "source" : {
             "name" : "Fox Business",
             "id" : null
          },
-         "publishedAt" : "2020-09-11T06:58:44Z",
-         "content" : "China has become a battleground for plant-based meat companies looking to tap into the world’s largest market for meat-consumption.\r\nAmerican plant-based meat company Impossible Foods Inc. said Thurs… [+4059 chars]",
-         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/08/0/0/impossible-foods-burger-AP.png?ve=1&tl=1",
+         "title" : "Las Vegas shooting victims closer to getting $800M payout - Fox Business",
+         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/09/0/0/Mandalay.jpg?ve=1&tl=1",
          "author" : "Associated Press",
-         "url" : "https://www.foxbusiness.com/markets/china-becoming-battleground-for-plant-based-meat-makers",
-         "description" : "Impossible Foods' products include plant-based beef, pork and sausage",
-         "title" : "China becoming battleground for plant-based meat makers - Fox Business"
+         "url" : "https://www.foxbusiness.com/lifestyle/las-vegas-shooting-victims-closer-to-getting-800m-payout",
+         "publishedAt" : "2020-09-11T05:36:08Z",
+         "content" : "More than 4,400 relatives and victims of the deadliest mass shooting in recent U.S. history could receive a total of $800 million in payouts from MGM Resorts International and its insurers by January… [+3767 chars]"
       },
       {
-         "publishedAt" : "2020-09-11T06:07:00Z",
          "source" : {
-            "name" : "CNBC",
+            "id" : null,
+            "name" : "FX Empire"
+         },
+         "description" : "Our analysis remains on track for a 6-month low and subsequent buying opportunity by late September or early October.",
+         "title" : "Gold Forecast – Gold Pattern Supports A Breakdown Below $1900 - FX Empire",
+         "urlToImage" : "https://responsive.fxempire.com/width/600/webp-lossy-70.q50/_fxempire_/2020/07/Gold-_-Silver.jpg",
+         "author" : null,
+         "content" : "-GOLD- Gold continues to grind out a B-wave triangle before its decline towards $1750 – $1800. Technically, prices could bounce a little higher to tag the upper triangle boundary near $1985, but it’s… [+140 chars]",
+         "publishedAt" : "2020-09-11T05:30:07Z",
+         "url" : "https://www.fxempire.com/forecasts/article/gold-forecast-gold-pattern-supports-a-breakdown-below-1900-671899"
+      },
+      {
+         "author" : "Associated Press",
+         "publishedAt" : "2020-09-11T03:47:00Z",
+         "content" : "Asian shares were mixed Friday following a selloff of technology shares on Wall Street. Big tech stocks might have seemed like safe havens, but they have found themselves at the center of a brutal se… [+3220 chars]",
+         "url" : "https://www.marketwatch.com/story/asian-markets-mixed-after-latest-tech-selloff-on-wall-street-2020-09-10",
+         "source" : {
+            "name" : "MarketWatch",
             "id" : null
          },
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106575421-1591961424651gettyimages-1206590116.jpeg?v=1591961630",
-         "content" : "The U.K. economy grew 6.6% in July on a monthly basis, according to initial estimates published Friday, as the economy seeks to recover from the sharp downturn caused by coronavirus-induced lockdown … [+1688 chars]",
-         "url" : "https://www.cnbc.com/2020/09/11/uk-economy-recovered-6point6percent-in-july.html",
-         "author" : "Elliot Smith",
-         "title" : "UK economy grew 6.6% in July as gradual recovery continues - CNBC",
-         "description" : "The U.K. economy grew 6.6% in July on a monthly basis, according to initial estimates published Friday."
+         "description" : "Stocks inch up in Tokyo, Hong Kong, but fall in Seoul, Sydney",
+         "urlToImage" : "https://s.marketwatch.com/public/resources/images/MW-IM946_hk0820_ZG_20200820234328.jpg",
+         "title" : "Asian markets mixed after latest tech selloff on Wall Street - MarketWatch"
       },
       {
-         "title" : "Rio Tinto CEO resigns after destruction of 46,000-year-old sacred Indigenous site - CNN",
          "description" : "Rio Tinto CEO Jean-Sébastien Jacques has resigned as the mining giant continues to face pressure from investors for blowing up a 46,000-year-old sacred indigenous site in Australia to expand an iron ore mine.",
-         "url" : "https://www.cnn.com/2020/09/10/business/rio-tinto-ceo-intl-hnk/index.html",
-         "author" : "Laura He and Angus Watson, CNN Business",
-         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200910214349-jean-sebastien-jacques-restricted-super-tease.jpg",
-         "content" : "Hong Kong / Sydney (CNN Business)Rio Tinto(RIO) CEO Jean-Sébastien Jacques has resigned as the mining giant continues to face pressure from investors for blowing up a 46,000-year-old sacred Indigenou… [+2895 chars]",
-         "publishedAt" : "2020-09-11T02:20:00Z",
          "source" : {
             "id" : "cnn",
             "name" : "CNN"
-         }
-      },
-      {
-         "description" : "KOMO News Radio in Seattle reported the issue involved the vertical tail fin on the 787, citing federal records, and could affect 680 airplanes.  Asked about...",
-         "title" : "Boeing in talks with FAA about new reported 787 production issue - Yahoo Finance",
-         "author" : "David Shepardson",
-         "url" : "https://finance.yahoo.com/news/boeing-talks-faa-reported-787-014149814.html",
-         "content" : "Are the tides turning on Wall Street? Stocks fell in the past three trading sessions, as investors abandoned the tech heavyweights that have been at the forefront of the markets remarkable charge for… [+10748 chars]",
-         "urlToImage" : "https://s.yimg.com/uu/api/res/1.2/gadUYN.uqB1TdyybJQ6yeQ--~B/aD01MzM7dz04MDA7c209MTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en-US/reuters.com/fa31854200374c74b74652cb9f43079b",
-         "source" : {
-            "name" : "Yahoo Entertainment",
-            "id" : null
          },
-         "publishedAt" : "2020-09-11T01:44:16Z"
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200910214349-jean-sebastien-jacques-restricted-super-tease.jpg",
+         "title" : "Rio Tinto CEO resigns after destruction of 46,000-year-old sacred Indigenous site - CNN",
+         "author" : "Laura He and Angus Watson, CNN Business",
+         "url" : "https://www.cnn.com/2020/09/10/business/rio-tinto-ceo-intl-hnk/index.html",
+         "content" : "Hong Kong / Sydney (CNN Business)Rio Tinto(RIO) CEO Jean-Sébastien Jacques has resigned as the mining giant continues to face pressure from investors for blowing up a 46,000-year-old sacred Indigenou… [+2895 chars]",
+         "publishedAt" : "2020-09-11T02:20:00Z"
       },
       {
-         "content" : "(Reuters) - Citigroup Inc C.N named consumer banking head Jane Fraser as its next chief executive on Thursday, making her the first woman to lead a major Wall Street bank.\r\nFraser, 53, has been a ris… [+4278 chars]",
-         "urlToImage" : "https://static.reuters.com/resources/r/?m=02&d=20200911&t=2&i=1532986404&r=LYNXMPEG891B6&w=800",
-         "publishedAt" : "2020-09-11T01:30:00Z",
-         "source" : {
-            "name" : "Reuters",
-            "id" : "reuters"
-         },
-         "author" : "C Nivedita, Noor Zainab Hussain",
-         "url" : "https://www.reuters.com/article/uk-citigroup-ceo-idUKKBN2612B7",
-         "description" : "Citigroup Inc <C.N> named consumer banking head Jane Fraser as its next chief executive on Thursday, making her the first woman to lead a major Wall Street bank.",
-         "title" : "Citigroup's Fraser to be first woman CEO of Wall Street bank - Reuters"
-      },
-      {
-         "title" : "Las Vegas shooting victims could get $800M payouts from MGM Resorts by January - News3LV",
-         "description" : "LAS VEGAS (AP) &mdash; More than 4,400 relatives and victims of the deadliest mass shooting in recent U. S. history could receive about $800 million in payouts from MGM Resorts International and its insurers by January, the casino giant and attorneys said Thu…",
-         "url" : "http://news3lv.com/news/local/las-vegas-shooting-victims-could-get-800m-payouts-from-mgm-resorts-by-january",
-         "author" : "KEN RITTER",
-         "publishedAt" : "2020-09-11T01:12:39Z",
-         "source" : {
-            "name" : "News3LV",
-            "id" : null
-         },
-         "urlToImage" : "http://static-10.sinclairstoryline.com/resources/media/df3a6d89-118b-4129-8055-d31247005793-large16x9_41720MandalayBay.png?1599785913863",
-         "content" : null
-      },
-      {
-         "author" : "Alex Gangitano",
-         "url" : "https://thehill.com/regulation/labor/515967-trump-administration-issues-first-covid-19-fine-to-smithfield-for-failing-to",
-         "description" : "The Occupational Safety and Health Administration (OSHA) has cited pork producer Smithfield Foods for failing to protect workers from coronavirus exposure, the agency announced on Thursday.",
-         "title" : "Trump administration issues first COVID-19 fine to Smithfield for failing to protect workers | TheHill - The Hill",
-         "publishedAt" : "2020-09-11T00:44:18Z",
-         "source" : {
-            "id" : "the-hill",
-            "name" : "The Hill"
-         },
-         "content" : "The Occupational Safety and Health Administration (OSHA) has cited pork producer Smithfield Foods for failing to protect workers from coronavirus exposure, the agency announced Thursday. \r\nIt propose… [+3871 chars]",
-         "urlToImage" : "https://thehill.com/sites/default/files/coronavirus_smithfield_sd_042020getty_food-plants.jpg"
-      },
-      {
-         "publishedAt" : "2020-09-11T00:21:00Z",
          "source" : {
             "id" : null,
             "name" : "The Mercury News"
          },
-         "content" : "A federal court judge granted a sweeping list of requests by Theranos founder Elizabeth Holmes for records of how the grand jury that recently indicted her for fraud was selected. She has said in a c… [+2845 chars]",
-         "urlToImage" : "https://www.mercurynews.com/wp-content/uploads/2019/01/SJM-L-HOLMES-0115-1.jpg?w=1024&h=682",
          "description" : "Founder of defunct Palo Alto blood-testing startup plans to challenge the way her grand jury was selected.",
+         "urlToImage" : "https://www.mercurynews.com/wp-content/uploads/2019/01/SJM-L-HOLMES-0115-1.jpg?w=1024&h=682",
          "title" : "Theranos founder Holmes wins fight to learn how grand jury was selected amid coronavirus pandemic - The Mercury News",
          "author" : "Ethan Baron",
+         "publishedAt" : "2020-09-11T00:21:00Z",
+         "content" : "A federal court judge granted a sweeping list of requests by Theranos founder Elizabeth Holmes for records of how the grand jury that recently indicted her for fraud was selected. She has said in a c… [+2845 chars]",
          "url" : "http://www.mercurynews.com/2020/09/10/theranos-founder-holmes-wins-fight-to-learn-how-grand-jury-was-selected-amid-coronavirus-pandemic/"
       },
       {
-         "url" : "https://www.cnn.com/videos/media/2020/09/11/donald-trump-fox-news-bob-woodward-stelter-dnt-ebof-vpx.cnn",
-         "author" : null,
-         "title" : "How Fox News covered the Woodward recordings of Trump - CNN",
-         "description" : "CNN's Brian Stelter reports how Fox News is covering journalist Bob Woodward's audio recordings of President Donald Trump calling coronavirus \"deadly\" and saying he downplays it to avoid a panic.",
-         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200905102123-01-fox-news-file-super-tease.jpg",
-         "content" : "Chat with us in Facebook Messenger. Find out what's happening in the world as it unfolds.",
-         "publishedAt" : "2020-09-11T00:04:41Z",
-         "source" : {
-            "id" : "cnn",
-            "name" : "CNN"
-         }
-      },
-      {
-         "publishedAt" : "2020-09-10T23:56:00Z",
+         "description" : "The Airbus A321 aircraft was approximately an hour into its cross-country flight, when a warning indication related to the airplane’s hydraulic system came on.",
          "source" : {
             "name" : "WCVB Boston",
             "id" : null
          },
          "urlToImage" : "https://kubrick.htvapps.com/vidthumb/8dd6e777-d359-4934-bbf7-c9247c589530/8dd6e777-d359-4934-bbf7-c9247c589530_image.jpeg?crop=1xw:1.0xh;center,top&resize=1200:*",
-         "content" : "BOSTON —A JetBlue plane bound for Los Angeles from Boston's Logan International Airport was forced to return to Boston Thursday afternoon after a warning indicator light came on in flight.\r\nJetBlue F… [+635 chars]",
-         "url" : "https://www.wcvb.com/article/los-angeles-bound-jetblue-plane-forced-to-return-to-boston/33986514",
-         "author" : null,
          "title" : "Los Angeles bound JetBlue plane forced to return to Boston - WCVB Boston",
-         "description" : "The Airbus A321 aircraft was approximately an hour into its cross-country flight, when a warning indication related to the airplane’s hydraulic system came on."
+         "author" : null,
+         "url" : "https://www.wcvb.com/article/los-angeles-bound-jetblue-plane-forced-to-return-to-boston/33986514",
+         "content" : "BOSTON —A JetBlue plane bound for Los Angeles from Boston's Logan International Airport was forced to return to Boston Thursday afternoon after a warning indicator light came on in flight.\r\nJetBlue F… [+635 chars]",
+         "publishedAt" : "2020-09-10T23:56:00Z"
+      },
+      {
+         "description" : "EU residents are becoming more comfortable with digital and contactless payments.",
+         "source" : {
+            "id" : null,
+            "name" : "Cointelegraph"
+         },
+         "urlToImage" : "https://s3.eu-central-1.amazonaws.com/s3.cointelegraph.com/uploads/2020-09/e169a1e4-0506-4603-b805-ec1b0c843afc.jpg",
+         "title" : "Pandemic has accelerated adoption of digital currency: ECB President - Cointelegraph",
+         "author" : "Turner Wright",
+         "url" : "https://cointelegraph.com/news/pandemic-has-accelerated-adoption-of-digital-currency-ecb-president",
+         "content" : "The pandemic has seen consumers adopt digital payments in increasing numbers and the trend was accelerating, said the President of the European Central Bank (ECB) Christine Lagarde. \r\nShe also indica… [+1737 chars]",
+         "publishedAt" : "2020-09-10T23:53:34Z"
       },
       {
          "author" : "Joey Klender",
          "url" : "https://www.teslarati.com/nikola-motor-hindenburg-research/",
-         "description" : "Nikola Motor is under fire after an analyst firm called Hindenburg Research labeled the automaker as “an intricate fraud built on dozens of lies.” Hindenberg said that had “gathered extensive evidence – including recorded phone calls, text messages, private e…",
-         "title" : "Nikola Motor labeled “an intricate fraud” by Hindenburg Research - Teslarati",
+         "content" : "Nikola Motor is under fire after an analyst firm called Hindenburg Research labeled the automaker as “an intricate fraud built on dozens of lies.”\r\nHindenberg said that had “gathered extensive eviden… [+3175 chars]",
          "publishedAt" : "2020-09-10T23:31:35Z",
+         "description" : "Nikola Motor is under fire after an analyst firm called Hindenburg Research labeled the automaker as “an intricate fraud built on dozens of lies.” Hindenberg said that had “gathered extensive evidence – including recorded phone calls, text messages, private e…",
          "source" : {
             "name" : "Teslarati",
             "id" : null
          },
-         "content" : "Nikola Motor is under fire after an analyst firm called Hindenburg Research labeled the automaker as “an intricate fraud built on dozens of lies.”\r\nHindenberg said that had “gathered extensive eviden… [+3175 chars]",
+         "title" : "Nikola Motor labeled “an intricate fraud” by Hindenburg Research - Teslarati",
          "urlToImage" : "https://www.teslarati.com/wp-content/uploads/2019/04/nikola-world-1aa-1024x500.jpg"
       },
       {
+         "author" : "Jeffery Martin",
+         "url" : "https://www.newsweek.com/monica-lewinsky-considers-buying-tesla-elon-musk-gives-her-offer-she-cant-refuse-1531159",
+         "content" : "Subaru or Tesla? When activist Monica Lewinsky tweeted Thursday that she couldn't decide which automobile to purchase, Tesla co-founder Elon Musk responded by offering Lewinsky a sweet deal.\r\nThe sho… [+3105 chars]",
          "publishedAt" : "2020-09-10T23:29:28Z",
+         "description" : "\"Can't decide between a Subaru or a Tesla,\" tweeted Monica Lewinsky on Thursday, prompting a response from Tesla founder Elon Musk.",
          "source" : {
             "name" : "Newsweek",
             "id" : "newsweek"
          },
          "urlToImage" : "https://d.newsweek.com/en/full/1635255/elon-musk.jpg",
-         "content" : "Subaru or Tesla? When activist Monica Lewinsky tweeted Thursday that she couldn't decide which automobile to purchase, Tesla co-founder Elon Musk responded by offering Lewinsky a sweet deal.\r\nThe sho… [+3105 chars]",
-         "title" : "As Monica Lewinsky Considers Buying a Tesla, Elon Musk Gives Her an Offer She Can't Refuse - Newsweek",
-         "description" : "\"Can't decide between a Subaru or a Tesla,\" tweeted Monica Lewinsky on Thursday, prompting a response from Tesla founder Elon Musk.",
-         "url" : "https://www.newsweek.com/monica-lewinsky-considers-buying-tesla-elon-musk-gives-her-offer-she-cant-refuse-1531159",
-         "author" : "Jeffery Martin"
+         "title" : "As Monica Lewinsky Considers Buying a Tesla, Elon Musk Gives Her an Offer She Can't Refuse - Newsweek"
       },
       {
-         "url" : "https://www.cnet.com/roadshow/news/lucid-motors-configurator-live/",
-         "author" : "Kyle Hyatt",
-         "title" : "Lucid Air configurator is now live - CNET",
          "description" : "It's not the most detailed configurator out there, but Lucid Motors' one for the Air is a little more in-depth than Tesla's.",
-         "publishedAt" : "2020-09-10T23:28:00Z",
          "source" : {
             "id" : null,
             "name" : "CNET"
          },
+         "title" : "Lucid Air configurator is now live - CNET",
          "urlToImage" : "https://cnet2.cbsistatic.com/img/4502Hg-UpvqKvDO6DyWWAVG74Ug=/1200x630/2020/09/09/774e0ad8-4157-4f6b-b94a-577167c1e8a3/ogi-2021-lucid-air-8.jpg",
+         "author" : "Kyle Hyatt",
+         "url" : "https://www.cnet.com/roadshow/news/lucid-motors-configurator-live/",
+         "publishedAt" : "2020-09-10T23:28:00Z",
          "content" : "What does your perfect Air look like?\r\nLucid Motors\r\nWell, now we've all seen the production version of the Lucid Air and it's certainly a cool car. We also know how much the three initial trim level… [+783 chars]"
-      },
-      {
-         "publishedAt" : "2020-09-10T23:14:29Z",
-         "source" : {
-            "id" : null,
-            "name" : "Fox Business"
-         },
-         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/09/0/0/Coffee_Brownie1.jpg?ve=1&tl=1",
-         "content" : "Chick-fil-A’s about to get some new treats on the menu.\r\nThe popular fast food chain announced Thursday that it would be adding chocolate fudge brownies, a mocha cream cold brew and a new hot coffee … [+1348 chars]",
-         "url" : "https://www.foxbusiness.com/lifestyle/chick-fil-a-adds-brownies-coffee-drinks-menu",
-         "author" : "Ann Schmidt",
-         "title" : "Chick-fil-A adds brownies, coffee drinks to its menu - Fox Business",
-         "description" : "Chick-fil-A announced three new menu items on Thursday."
-      },
-      {
-         "urlToImage" : "https://ichef.bbci.co.uk/news/1024/branded_news/D6CF/production/_114319945_gettyimages-1217255156.jpg",
-         "content" : "Image copyrightGetty Images\r\nPeloton, which won an early celebrity fanbase for its exercise bikes and remote workout classes, has seen demand surge during the pandemic.\r\nThe firm's global membership … [+1859 chars]",
-         "source" : {
-            "id" : null,
-            "name" : "BBC News"
-         },
-         "publishedAt" : "2020-09-10T22:32:29Z",
-         "url" : "https://www.bbc.com/news/business-54112461",
-         "author" : "https://www.facebook.com/bbcnews",
-         "title" : "Peloton sales surge as virus boosts home workouts - BBC News",
-         "description" : "The exercise bike firm's revenues jumped 172% amid gym closures due to the pandemic."
-      },
-      {
-         "title" : "S&P 500 Drops 60 Points on Volatile Day: Oil Stocks Fall Sharply, Apple Leads Tech Stocks Down Again - Motley Fool",
-         "description" : "More worries in the oil patch, and investors turning back to selling Big Tech has stocks swinging wildly again.",
-         "url" : "https://www.fool.com/investing/2020/09/10/sp-500-drops-60-points-on-volatile-day-oil-stocks/",
-         "author" : "Jason Hall",
-         "source" : {
-            "id" : null,
-            "name" : "Motley Fool"
-         },
-         "publishedAt" : "2020-09-10T22:21:40Z",
-         "urlToImage" : "https://g.foolcdn.com/editorial/images/591328/arrows-up-and-down.jpg",
-         "content" : "The S&amp;P 500 Index (SNPINDEX:^SPX) has been doing its best yo-yo impression over the past week. Today's close was almost 1.8% lower, giving up almost 60 points after gaining 67 points, or 2%, yest… [+5711 chars]"
       }
-   ]
+   ],
+   "status" : "ok",
+   "totalResults" : 70
 }
