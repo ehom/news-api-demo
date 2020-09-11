@@ -1,153 +1,257 @@
 {
-   "totalResults" : 70,
+   "status" : "ok",
    "articles" : [
       {
-         "url" : "https://www.marketwatch.com/story/its-a-five-alarm-fire-a-100-year-fiscal-tsunami-2020-09-11",
-         "description" : "N.Y. Transit boss tells subway riders: It’s safe. Come back.",
+         "source" : {
+            "name" : "CNN",
+            "id" : "cnn"
+         },
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200911152000-burnt-chair-amazonbasics-super-tease.jpg",
+         "publishedAt" : "2020-09-11T20:53:00Z",
+         "content" : null,
+         "title" : "Senators demand recalls after CNN report finds Amazon's own products are being flagged as fire hazards - CNN",
+         "author" : "Blake Ellis and Melanie Hicken, CNN",
+         "description" : "Three senators are demanding the recall of any hazardous products branded with Amazon's name after a CNN investigation found that dozens of AmazonBasics electronics remained for sale despite customers reporting the products had melted, exploded or burst into …",
+         "url" : "https://www.cnn.com/2020/09/11/business/amazonbasics-lawmakers-demand-recalls-dangerous-invs/index.html"
+      },
+      {
          "source" : {
             "id" : null,
             "name" : "MarketWatch"
          },
-         "urlToImage" : "https://s.marketwatch.com/public/resources/images/MW-IO370_city_N_ZG_20200911154327.jpg",
+         "content" : "Shares of Tesla Inc. \r\n TSLA, \r\n +0.37%\r\ninched 0.37% higher to $372.72 Friday, on what proved to be an all-around mixed trading session for the stock market, with the Dow Jones Industrial Average \r\n… [+822 chars]",
+         "publishedAt" : "2020-09-11T20:25:00Z",
+         "title" : "Tesla Inc. stock outperforms market on strong trading day - MarketWatch",
+         "urlToImage" : "https://images.mktw.net/im-215076/social",
+         "author" : "MarketWatch Automation",
+         "url" : "https://www.marketwatch.com/story/tesla-inc-stock-outperforms-market-on-strong-trading-day-01599855924",
+         "description" : ""
+      },
+      {
+         "source" : {
+            "name" : "Kitco NEWS",
+            "id" : null
+         },
+         "content" : "Editor's Note: Get caught up in minutes with our speedy summary of today's must-read news stories and expert opinions that moved the precious metals and financial markets. Sign up here!\r\n(Kitco News)… [+2180 chars]",
+         "publishedAt" : "2020-09-11T20:16:00Z",
+         "title" : "The calm before the storm - Kitco NEWS",
+         "urlToImage" : "https://www.kitco.com/news/2020-09-11/images/Daily_300x250_T.gif",
+         "author" : "http://www.facebook.com/kitconews",
+         "description" : "Kitco News' general-interest stories takes a look at what is making headlines in the marketplace and how that is impacting precious metals prices",
+         "url" : "https://www.kitco.com/news/2020-09-11/The-calm-before-the-storm.html"
+      },
+      {
          "author" : "Ellis Henican",
+         "url" : "https://www.marketwatch.com/story/its-a-five-alarm-fire-a-100-year-fiscal-tsunami-2020-09-11",
+         "description" : "N.Y. Transit boss tells subway riders: It’s safe. Come back.",
+         "source" : {
+            "name" : "MarketWatch",
+            "id" : null
+         },
+         "urlToImage" : "https://s.marketwatch.com/public/resources/images/MW-IO370_city_N_ZG_20200911154327.jpg",
          "title" : "‘It’s a five-alarm fire, a 100-year fiscal tsunami’ - MarketWatch",
          "content" : "As fall descends on their virus-weary city, New Yorkers have some fresh reasons for optimism.More people are out on the sidewalks. Gyms are open again. Though Broadways still dark and Manhattan CEOs … [+4875 chars]",
          "publishedAt" : "2020-09-11T20:02:00Z"
       },
       {
-         "content" : "Louis Vuitton wants fashionistas to fend off the virus in style.\r\nThe fashion house is launching a plastic face shield stamped with its signature LV print for those with $961 to splurge on the luxury… [+1639 chars]",
-         "publishedAt" : "2020-09-11T19:20:12Z",
-         "title" : "Louis Vuitton's coronavirus-inspired face shield to sell for just under $1G - Fox News",
-         "author" : "Jeanette Settembre",
-         "urlToImage" : "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/Face-Shield-Louis-Vuitton.jpg",
+         "url" : "https://www.usatoday.com/story/money/2020/09/11/sur-la-table-bankruptcy-store-closures-2020-list-chapter-11/3470551001/",
+         "description" : "Going-out-of-business liquidation sales are underway at 17 additional Sur La Table stores as part of the retailer's bankruptcy amid COVID-19.",
+         "author" : "Kelly Tyko",
+         "urlToImage" : "https://www.gannett-cdn.com/presto/2020/01/28/PAPP/ca525112-000a-4337-b773-76bf3f0971d5-IMG_3142.JPG?crop=4031,2268,x0,y373&width=3200&height=1680&fit=bounds",
+         "publishedAt" : "2020-09-11T19:18:31Z",
+         "content" : "Consumers are scared to go out and retailers are floundering. Is there a future for the traditional indoor shopping mall?\r\nWochit\r\nGoing-out-of-business liquidation sales are now underway at 17 addit… [+3115 chars]",
+         "title" : "Is your Sur La Table closing? The kitchen goods retailer is liquidating more stores by the end of September - USA TODAY",
          "source" : {
-            "name" : "Fox News",
-            "id" : "fox-news"
-         },
-         "url" : "https://www.foxnews.com/lifestyle/louis-vuittons-coronavirus-face-shield",
-         "description" : "Louis Vuitton is debuting designer face shield made with gold studs."
-      },
-      {
-         "urlToImage" : null,
-         "url" : "https://news.google.com/__i/rss/rd/articles/CBMiZGh0dHBzOi8vd3d3LmludmVzdG9ycy5jb20vbmV3cy90ZWNobm9sb2d5L3Rpa3Rvay1kZWFsLWhlYWRzLXRvd2FyZC11cy1zaHV0ZG93bi10cnVtcC1iYWNrcy1kZWFkbGluZS_SAQA?oc=5",
-         "description" : null,
-         "source" : {
-            "name" : "Google News",
-            "id" : "google-news"
-         },
-         "content" : null,
-         "publishedAt" : "2020-09-11T19:05:00Z",
-         "author" : null,
-         "title" : "TikTok Deal Heads Toward US Shutdown As Trump Backs Deadline - Investor's Business Daily"
+            "name" : "USA Today",
+            "id" : "usa-today"
+         }
       },
       {
          "source" : {
             "id" : null,
             "name" : "MarketWatch"
          },
-         "description" : "Facebook and Microsoft are mad at Apple, Google and Amazon are being targeted by high-profile tech execs, and everybody wonders why Microsoft is avoiding any scrutiny",
-         "url" : "https://www.marketwatch.com/story/big-tech-is-turning-on-one-another-amid-antitrust-probes-and-litigation-2020-09-11",
          "urlToImage" : "https://s.marketwatch.com/public/resources/images/MW-IO268_big_te_ZG_20200910143358.jpg",
          "title" : "Big Tech is turning on one another amid antitrust probes and litigation - MarketWatch",
-         "author" : "Jon Swartz",
+         "content" : "Battle royale evokes images of professional wrestlers engaged in a free-for-all brawl in which combatants eventually turn on one another until there is an eventual winner. With apologies to Hulk Hoga… [+12687 chars]",
          "publishedAt" : "2020-09-11T19:04:00Z",
-         "content" : "Battle royale evokes images of professional wrestlers engaged in a free-for-all brawl in which combatants eventually turn on one another until there is an eventual winner. With apologies to Hulk Hoga… [+12687 chars]"
-      },
-      {
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106599488-15936067892020-06-30t183836z_2063746967_rc2ujh99qdrb_rtrmadp_0_health-coronavirus-usa-fed.jpeg?v=1593606885",
-         "source" : {
-            "name" : "CNBC",
-            "id" : null
-         },
-         "description" : "Markets are looking to the Fed as a soothing force when it meets in the week ahead, but there's a risk it could disappoint.",
-         "url" : "https://www.cnbc.com/2020/09/11/investors-will-look-to-the-fed-to-soothe-the-market-next-week-but-that-may-be-a-tall-order.html",
-         "publishedAt" : "2020-09-11T18:17:00Z",
-         "content" : "Federal Reserve Chairman Jerome Powell, wearing a face mask, testifies before the House of Representatives Financial Services Committee during a hearing on oversight of the Treasury Department and Fe… [+6219 chars]",
-         "title" : "Investors will look to the Fed to soothe the market next week, but that may be a tall order - CNBC",
-         "author" : "Patti Domm"
-      },
-      {
-         "url" : "https://www.businessinsider.com/social-capital-spac-opendoor-advanced-talks-merger-palihapitiya-blank-check-2020-9",
-         "description" : "Social Capital SPAC led by billionaire investor Chamath Palihapitiya in advanced talks to merge with Opendoor, report says",
-         "source" : {
-            "name" : "Business Insider",
-            "id" : "business-insider"
-         },
-         "urlToImage" : "https://i.insider.com/5f5b7fa77ed0ee001e25ebe9?format=jpeg",
-         "author" : "Matthew Fox",
-         "title" : "Social Capital SPAC led by billionaire investor Chamath Palihapitiya in advanced talks to merge with Opendoor, report says | Markets - Business Insider",
-         "content" : "Reuters\r\n<ul><li>Opendoor is in advanced talks to go public via a merger with Social Capital Hedosophia Holdings Corp. II, a \"blank check\" company, or SPAC, led by billionaire investor Chamath Paliha… [+2594 chars]",
-         "publishedAt" : "2020-09-11T18:08:05Z"
-      },
-      {
-         "author" : "Alan Rappeport",
-         "title" : "Budget Deficit Crosses $3 Trillion: Live Updates - The New York Times",
-         "content" : "LiveUpdated Sept. 11, 2020, 2:03 p.m. ET\r\nSept. 11, 2020, 2:03 p.m. ET\r\nThe latest economic and business news during the coronavirus pandemic.\r\nHeres what you need to know:\r\nThe United States budget … [+19675 chars]",
-         "publishedAt" : "2020-09-11T18:00:00Z",
-         "url" : "https://www.nytimes.com/live/2020/09/11/business/stock-market-today-coronavirus",
-         "description" : "The latest economic and business news during the coronavirus pandemic.",
-         "source" : {
-            "name" : "New York Times",
-            "id" : null
-         },
-         "urlToImage" : "https://static01.nyt.com/images/2020/09/11/business/11markets-brf-deficit/11markets-brf-deficit-facebookJumbo.jpg"
-      },
-      {
-         "url" : "https://www.investors.com/market-trend/stock-market-today/nasdaq-leaders-apple-amd-paypal-nvidia-take-big-hits/",
-         "description" : "The Nasdaq reversed sharply lower in afternoon trading Friday as top stocks like Apple, AMD, PayPal and Nvidia were down sharply.",
-         "source" : {
-            "id" : null,
-            "name" : "Investor's Business Daily"
-         },
-         "urlToImage" : "https://www.investors.com/wp-content/uploads/2018/02/stock-bear-night-05-adobe.jpg",
-         "author" : "Investor's Business Daily",
-         "title" : "Nasdaq Leaders Apple, AMD, PayPal, Nvidia Take Big Hits; Dow Jones Erases 294-Point Intraday Gain - Investor's Business Daily",
-         "content" : "The Dow Jones Industrial Average outperformed Friday with a mostly flat performance in afternoon trading. But the Nasdaq composite reversed sharply lower after a bearish reversal Thursday brought the… [+3904 chars]",
-         "publishedAt" : "2020-09-11T17:44:00Z"
-      },
-      {
-         "title" : "A postcard arrived in Michigan almost 100 years after it went in the mail - CNN",
-         "author" : "David Williams, CNN",
-         "publishedAt" : "2020-09-11T17:40:00Z",
-         "content" : null,
-         "source" : {
-            "id" : "cnn",
-            "name" : "CNN"
-         },
-         "description" : "A Michigan woman got quite a surprise when she went to her mailbox this week -- amid her regular bills and junk mail was a postcard that had been mailed almost 100 years ago.",
-         "url" : "https://www.cnn.com/2020/09/11/us/michigan-old-postcard-delivered-trnd/index.html",
-         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200911114213-01-old-post-card-delivered-super-tease.jpg"
-      },
-      {
-         "urlToImage" : "https://cdn.arstechnica.net/wp-content/uploads/2020/01/GettyImages-696675012-760x380.jpg",
-         "description" : "Problems aren't just in Marketplace but also in Amazon's first-party listings.",
-         "url" : "https://arstechnica.com/tech-policy/2020/09/amazon-products-marked-up-more-than-1000-during-pandemic-report-finds/",
-         "source" : {
-            "name" : "Ars Technica",
-            "id" : "ars-technica"
-         },
-         "publishedAt" : "2020-09-11T17:31:00Z",
-         "content" : "Enlarge/ Amazon's orange-yellow logo wall.\r\n53 with 43 posters participating\r\nNew reports released this week serve as a cautionary tale for consumers who shop at Amazon, by far the largest online ret… [+6627 chars]",
-         "author" : "Kate Cox",
-         "title" : "Price gouging and defective products rampant on Amazon, reports find - Ars Technica"
+         "author" : "Jon Swartz",
+         "description" : "Facebook and Microsoft are mad at Apple, Google and Amazon are being targeted by high-profile tech execs, and everybody wonders why Microsoft is avoiding any scrutiny",
+         "url" : "https://www.marketwatch.com/story/big-tech-is-turning-on-one-another-amid-antitrust-probes-and-litigation-2020-09-11"
       },
       {
          "source" : {
             "name" : "Bloomberg",
             "id" : "bloomberg"
          },
-         "description" : "The hundreds of billions of dollars in trades that zip through the data centers scattered across northern New Jersey usually do so quietly. At least, until the state wants a slice.",
-         "url" : "https://www.bloomberg.com/news/articles/2020-09-11/trading-powerhouses-join-exchanges-in-fighting-n-j-tax-plan",
-         "urlToImage" : "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iW.aKkWJRTvc/v0/1200x800.jpg",
-         "title" : "Trading Powerhouses Join Exchanges in Fighting New Jersey Tax Plan - Bloomberg",
-         "author" : "Lananh Nguyen",
-         "publishedAt" : "2020-09-11T16:59:00Z",
-         "content" : "The hundreds of billions of dollars in trades that zip through the data centers scattered across northern New Jersey usually do so quietly. At least, until the state wants a slice.\r\nThe biggest U.S. … [+3570 chars]"
+         "content" : "Over the past few months, investors poured billions into hundreds of so-called decentralized-finance apps, which let users lend, borrow and trade cryptocurrencies without intermediaries like banks. T… [+3701 chars]",
+         "publishedAt" : "2020-09-11T18:37:00Z",
+         "title" : "Crypto Exchange Gets Millions After Copy-Paste of a Rival's Code - Bloomberg",
+         "urlToImage" : "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iwcRmf8BcUJQ/v0/1200x800.jpg",
+         "author" : "Olga Kharif",
+         "url" : "https://www.bloomberg.com/news/articles/2020-09-11/-come-to-jesus-moment-for-crypto-finance-apps-rocks-valuations",
+         "description" : "Over the past few months, investors poured billions into hundreds of so-called decentralized-finance apps, which let users lend, borrow and trade cryptocurrencies without intermediaries like banks. Then Sushi happened."
       },
       {
-         "title" : "Elon Musk says Tesla will ‘one day’ produce ‘super efficient home HVAC’ with HEPA filtering - TechCrunch",
-         "author" : "Darrell Etherington",
+         "description" : "The federal budget deficit surpassed $3 trillion through August, according to official Treasury...",
+         "url" : "https://thehill.com/policy/finance/516057-us-deficit-officially-hits-3-trillion-amid-pandemic",
+         "author" : "Niv Elis",
+         "content" : "The federal budget deficit surpassed $3 trillion through August, according to official Treasury data released Friday, and is expected to hit $3.3 trillion when the fiscal year wraps up at the end of … [+1266 chars]",
+         "publishedAt" : "2020-09-11T18:36:10Z",
+         "title" : "US deficit officially hits $3 trillion amid pandemic | TheHill - The Hill",
+         "urlToImage" : "https://thehill.com/sites/default/files/article_images/moneyprinting_getty.jpg",
+         "source" : {
+            "name" : "The Hill",
+            "id" : "the-hill"
+         }
+      },
+      {
+         "source" : {
+            "name" : "MarketWatch",
+            "id" : null
+         },
+         "urlToImage" : "https://images.mktw.net/im-231071/social",
+         "publishedAt" : "2020-09-11T18:36:00Z",
+         "content" : "The immense fiscal cost needed to limit the damage wrought by the COVID-19 pandemic isnt frightening bond investors. Even as the mountain of government debt has continue to pile up, the cost of borro… [+4490 chars]",
+         "title" : "Here's why markets aren't worried over the U.S. government's mountain of debt - MarketWatch",
+         "author" : "Sunny Oh",
+         "description" : "The U.S. federal government’s cost of borrowing is forecast to hit its lowest since World War II in 2025",
+         "url" : "https://www.marketwatch.com/story/heres-why-markets-arent-worried-over-the-u-s-governments-mountain-of-debt-11599849361"
+      },
+      {
+         "title" : "Chinese government reportedly would rather TikTok shut down than be sold - Engadget",
+         "content" : "It also comes just days ahead of Donald Trump’s Sept. 15 deadline for TikTok to find a new home with an American company. Experts have said it’s unlikely a deal could materialize that quickly, but Tr… [+864 chars]",
+         "publishedAt" : "2020-09-11T18:35:12Z",
+         "urlToImage" : "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-08%2F523028f0-e943-11ea-aef4-a38ddcc6b11b&client=amp-blogside-v2&signature=46f15aaa4bf35f6af1b428bcb569504551880d8d",
+         "source" : {
+            "name" : "Engadget",
+            "id" : "engadget"
+         },
+         "url" : "https://www.engadget.com/china-opposes-tiktok-sale-report-175142220.html",
+         "description" : "China could throw yet another wrench in TikTok’s attempts to secure its future in the US.",
+         "author" : ""
+      },
+      {
+         "url" : "https://www.foxnews.com/health/china-approves-human-trials-for-nasal-spray-coronavirus-vaccine",
+         "description" : "China approved the first phase of human trials for a potential COVID-19 vaccine on Wednesday.",
+         "author" : "Julia Musto",
+         "content" : "China has approved the first phase of human trials for a potential COVID-19 vaccine administered through a nasal spray.\r\nThe inoculation is being developed by researchers at Xiamen University, Hong K… [+2400 chars]",
+         "title" : "China OKs human trials for nasal spray coronavirus vaccine - Fox News",
+         "publishedAt" : "2020-09-11T18:30:11Z",
+         "urlToImage" : "https://static.foxnews.com/foxnews.com/content/uploads/2020/07/AP20182021640545.jpg",
+         "source" : {
+            "id" : "fox-news",
+            "name" : "Fox News"
+         }
+      },
+      {
+         "description" : "Markets are looking to the Fed as a soothing force when it meets in the week ahead, but there's a risk it could disappoint.",
+         "url" : "https://www.cnbc.com/2020/09/11/investors-will-look-to-the-fed-to-soothe-the-market-next-week-but-that-may-be-a-tall-order.html",
+         "author" : "Patti Domm",
+         "publishedAt" : "2020-09-11T18:17:00Z",
+         "content" : "Federal Reserve Chairman Jerome Powell, wearing a face mask, testifies before the House of Representatives Financial Services Committee during a hearing on oversight of the Treasury Department and Fe… [+6219 chars]",
+         "title" : "Investors will look to the Fed to soothe the market next week, but that may be a tall order - CNBC",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106599488-15936067892020-06-30t183836z_2063746967_rc2ujh99qdrb_rtrmadp_0_health-coronavirus-usa-fed.jpeg?v=1593606885",
+         "source" : {
+            "name" : "CNBC",
+            "id" : null
+         }
+      },
+      {
+         "content" : "Reuters\r\n<ul><li>Opendoor is in advanced talks to go public via a merger with Social Capital Hedosophia Holdings Corp. II, a \"blank check\" company, or SPAC, led by billionaire investor Chamath Paliha… [+2594 chars]",
+         "title" : "Social Capital SPAC led by billionaire investor Chamath Palihapitiya in advanced talks to merge with Opendoor, report says | Markets - Business Insider",
+         "publishedAt" : "2020-09-11T18:08:05Z",
+         "urlToImage" : "https://i.insider.com/5f5b7fa77ed0ee001e25ebe9?format=jpeg",
+         "source" : {
+            "id" : "business-insider",
+            "name" : "Business Insider"
+         },
+         "description" : "Social Capital SPAC led by billionaire investor Chamath Palihapitiya in advanced talks to merge with Opendoor, report says",
+         "url" : "https://www.businessinsider.com/social-capital-spac-opendoor-advanced-talks-merger-palihapitiya-blank-check-2020-9",
+         "author" : "Matthew Fox"
+      },
+      {
+         "url" : "https://www.investors.com/market-trend/stock-market-today/nasdaq-leaders-apple-amd-paypal-nvidia-take-big-hits/",
+         "description" : "The Nasdaq reversed sharply lower in afternoon trading Friday as top stocks like Apple, AMD, PayPal and Nvidia were down sharply.",
+         "author" : "Investor's Business Daily",
+         "publishedAt" : "2020-09-11T17:44:00Z",
+         "content" : "The Dow Jones Industrial Average outperformed Friday with a mostly flat performance in afternoon trading. But the Nasdaq composite reversed sharply lower after a bearish reversal Thursday brought the… [+3904 chars]",
+         "title" : "Nasdaq Leaders Apple, AMD, PayPal, Nvidia Take Big Hits; Dow Jones Erases 294-Point Intraday Gain - Investor's Business Daily",
+         "urlToImage" : "https://www.investors.com/wp-content/uploads/2018/02/stock-bear-night-05-adobe.jpg",
+         "source" : {
+            "id" : null,
+            "name" : "Investor's Business Daily"
+         }
+      },
+      {
+         "author" : "David Williams, CNN",
+         "description" : "A Michigan woman got quite a surprise when she went to her mailbox this week -- amid her regular bills and junk mail was a postcard that had been mailed almost 100 years ago.",
+         "url" : "https://www.cnn.com/2020/09/11/us/michigan-old-postcard-delivered-trnd/index.html",
+         "source" : {
+            "name" : "CNN",
+            "id" : "cnn"
+         },
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200911114213-01-old-post-card-delivered-super-tease.jpg",
+         "publishedAt" : "2020-09-11T17:40:00Z",
+         "content" : null,
+         "title" : "A postcard arrived in Michigan almost 100 years after it went in the mail - CNN"
+      },
+      {
+         "author" : "Kate Cox",
+         "description" : "Problems aren't just in Marketplace but also in Amazon's first-party listings.",
+         "url" : "https://arstechnica.com/tech-policy/2020/09/amazon-products-marked-up-more-than-1000-during-pandemic-report-finds/",
+         "source" : {
+            "id" : "ars-technica",
+            "name" : "Ars Technica"
+         },
+         "urlToImage" : "https://cdn.arstechnica.net/wp-content/uploads/2020/01/GettyImages-696675012-760x380.jpg",
+         "content" : "Enlarge/ Amazon's orange-yellow logo wall.\r\n53 with 43 posters participating\r\nNew reports released this week serve as a cautionary tale for consumers who shop at Amazon, by far the largest online ret… [+6627 chars]",
+         "title" : "Price gouging and defective products rampant on Amazon, reports find - Ars Technica",
+         "publishedAt" : "2020-09-11T17:31:00Z"
+      },
+      {
+         "author" : "Ethan Baron",
+         "description" : "Experts selected by prosecutors will examine and test Holmes for 14 hours over two days, judge rules.",
+         "url" : "http://www.mercurynews.com/2020/09/11/theranos-founder-holmes-to-claim-mental-condition-affecting-issue-of-guilt/",
+         "source" : {
+            "id" : null,
+            "name" : "The Mercury News"
+         },
+         "urlToImage" : "https://www.mercurynews.com/wp-content/uploads/2018/03/ssjm07xxquinn02.jpg?w=1024&h=723",
+         "publishedAt" : "2020-09-11T17:00:00Z",
+         "content" : "Theranos founder Elizabeth Holmes, charged with a dozen felony fraud counts over her defunct Palo Alto blood-testing startup, plans to introduce evidence of a mental condition that affects the issue … [+2559 chars]",
+         "title" : "Theranos founder Holmes to claim mental condition affecting ‘issue of guilt’ - The Mercury News"
+      },
+      {
+         "author" : "Hanna Flanagan",
+         "description" : "The department store said the decision followed nonpayment on its business interruption insurance",
+         "url" : "https://www.yahoo.com/entertainment/century-21-files-bankruptcy-announces-163634664.html",
+         "source" : {
+            "name" : "Yahoo Entertainment",
+            "id" : null
+         },
+         "urlToImage" : "https://s.yimg.com/uu/api/res/1.2/m1UMXUN65GN9hDG454gLfA--~B/aD0xMDAxO3c9MTUwMDtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/people_218/87796f06d1c413be9167ed06d21ecf47",
+         "content" : "Century 21 has filed for Chapter 11 bankruptcy, joining other department stores including JCPenney, Neiman Marcus and Lord &amp; Taylor.\r\nAfter offering designer apparel, footwear, cosmetics and déco… [+2197 chars]",
+         "title" : "Century 21 Files for Bankruptcy and Announces It Will Close All 13 Stores - Yahoo Entertainment",
+         "publishedAt" : "2020-09-11T16:36:00Z"
+      },
+      {
+         "description" : "While you might at first blush think that everything is included in your cruise fare, that’s not actually true on many lines. Unless you’re sailing a top-notch luxury cruise line that generally does include nearly everything you can imagine — from gourmet res…",
+         "url" : "http://thepointsguy.com/guide/cruise-ship-specialty-restaurants/",
+         "author" : "Andrea M. Rotondo",
+         "title" : "5 reasons you should splurge on a cruise ship specialty restaurant - The Points Guy",
+         "content" : "While you might at first blush think that everything is included in your cruise fare, that’s not actually true on many lines. Unless you’re sailing a top-notch luxury cruise line that generally does … [+10439 chars]",
+         "publishedAt" : "2020-09-11T16:04:09Z",
+         "urlToImage" : "https://i2.wp.com/thepointsguy.com/wp-content/uploads/2020/09/celebrity-cruises-tuscan-grille-scaled.jpg?fit=2560%2C1096px&ssl=1",
+         "source" : {
+            "name" : "The Points Guy",
+            "id" : null
+         }
+      },
+      {
+         "urlToImage" : "https://techcrunch.com/wp-content/uploads/2020/02/Screen-Shot-2020-02-10-at-12.06.01-PM.jpg?w=546",
          "content" : "Elon Musk has previously touted the “Bioweapon Defense Mode” boasted by Tesla’s vehicles, which are designed to provide excellent air quality inside the car even in the face of disastrous conditions … [+2194 chars]",
+         "title" : "Elon Musk says Tesla will ‘one day’ produce ‘super efficient home HVAC’ with HEPA filtering - TechCrunch",
          "publishedAt" : "2020-09-11T16:00:40Z",
          "source" : {
             "name" : "TechCrunch",
@@ -155,112 +259,8 @@
          },
          "url" : "http://techcrunch.com/2020/09/11/elon-musk-says-tesla-will-one-day-produce-super-efficient-home-hvac-with-hepa-filtering/",
          "description" : "Elon Musk has previously touted the “Bioweapon Defense Mode” boasted by Tesla’s vehicles, which are designed to provide excellent air quality inside the car even in the face of disastrous conditions without, thanks in part to high-efficiency HEPA air filtrati…",
-         "urlToImage" : "https://techcrunch.com/wp-content/uploads/2020/02/Screen-Shot-2020-02-10-at-12.06.01-PM.jpg?w=546"
-      },
-      {
-         "publishedAt" : "2020-09-11T15:42:41Z",
-         "content" : "Protesters rallied outside the Rio Tinto office in June in Perth, Australia, after the destruction of Indigenous heritage sites the month before.\r\nRichard Wainwright/AP\r\nMining giant Rio Tinto is par… [+3536 chars]",
-         "title" : "Rio Tinto CEO Stepping Down Over Destruction Of Ancient Aboriginal Site - NPR",
-         "author" : "",
-         "urlToImage" : "https://media.npr.org/assets/img/2020/09/11/ap_20255038022671_wide-596ea0e92888e43839df2142116953fbcb8d1ec8.jpg?s=1400",
-         "source" : {
-            "id" : null,
-            "name" : "NPR"
-         },
-         "description" : "In May, mining giant Rio Tinto blasted through two ancient rock shelters in Western Australia in order to mine iron ore. The company has been under rising pressure to hold executives accountable.",
-         "url" : "https://www.npr.org/2020/09/11/911866159/a-mining-company-blew-up-a-46-000-year-old-aboriginal-site-its-ceo-is-resigning"
-      },
-      {
-         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/09/0/0/marth-stewartCBD2.jpg?ve=1&tl=1",
-         "source" : {
-            "name" : "Fox Business",
-            "id" : null
-         },
-         "description" : "As if reruns of “The Martha Stewart Show” weren’t already designed to lull viewers into a state of deep, complacent relaxation, the homemaker and business mogul is now releasing her own line of “gourmet” CBD products.",
-         "url" : "https://www.foxbusiness.com/lifestyle/martha-stewart-cbd-product-line-gourmet-gummies",
-         "publishedAt" : "2020-09-11T15:12:17Z",
-         "content" : "As if reruns of “The Martha Stewart Show” weren’t already designed to lull viewers into a state of deep, complacent relaxation, the homemaker and business mogul is now releasing her own line of “gour… [+2203 chars]",
-         "title" : "Martha Stewart launches CBD product line featuring 'gourmet-flavored' gummies and oils - Fox Business",
-         "author" : "Michael Bartiromo"
-      },
-      {
-         "source" : {
-            "id" : null,
-            "name" : "Cointelegraph"
-         },
-         "url" : "https://cointelegraph.com/news/chef-nomi-has-returned-all-funds-back-to-the-sushiswap-community",
-         "description" : "Who would have thought an alleged exit scam could have a happy ending?",
-         "urlToImage" : "https://s3.eu-central-1.amazonaws.com/s3.cointelegraph.com/uploads/2020-09/b62bd9a5-30af-4c35-bca8-8c242ae3057c.jpg",
-         "title" : "Chef Nomi has returned all funds to the SushiSwap community - Cointelegraph",
-         "author" : "Benjamin Pirus",
-         "content" : "In a surprising turn of events, SushiSwap's former head, anonymously known as Chef Nomi on Twitter, has apologized for their mistakes and returned $14M to the project's development fund.\r\nNomi said i… [+1721 chars]",
-         "publishedAt" : "2020-09-11T15:02:20Z"
-      },
-      {
-         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/07/0/0/RT-Trevor-Milton.jpg?ve=1&tl=1",
-         "url" : "https://www.foxbusiness.com/markets/nikola-motors-hires-outside-counsel-short-seller-claims",
-         "description" : "Nikola Motors hired law firm Kirkland & Ellis to defend against a short-seller's claims the company has misled partners about its technology.",
-         "source" : {
-            "id" : null,
-            "name" : "Fox Business"
-         },
-         "content" : "Nikola Corp. has hired outside counsel to fight back against a short-seller's claims the electric-truck maker conned its way into a partnership with General Motors.\r\nCEO Trevor Milton called the alle… [+2470 chars]",
-         "publishedAt" : "2020-09-11T14:56:19Z",
-         "author" : "Jonathan Garber",
-         "title" : "Nikola Motors lawyers up to combat 'false and deceptive' short-seller claims - Fox Business"
-      },
-      {
-         "urlToImage" : "https://cdn.motor1.com/images/mgl/ZXKV3/s1/tesla-model-3-production-china.jpg",
-         "description" : "Model 3 vehicles are collecting in the factory lot, and we also see car carriers loading up and heading out, so many of these cars are already spoken for.",
-         "url" : "https://insideevs.com/news/443605/video-tesla-gigafactory-china-model-3-production-ramp/",
-         "source" : {
-            "name" : "InsideEVs ",
-            "id" : null
-         },
-         "publishedAt" : "2020-09-11T14:18:57Z",
-         "content" : "Our most recent coverage of Tesla's Shanghai Gigafactory production facility focused on Phase 2 construction and the upcoming Model Y. While that's big news, the factory is currently only manufacturi… [+1645 chars]",
-         "author" : "Steven Loveday",
-         "title" : "Tesla's Shanghai Gigafactory Teeming With Model 3s To Boost Q3 Deliveries - InsideEVs "
-      },
-      {
-         "source" : {
-            "name" : "Cruise Radio",
-            "id" : null
-         },
-         "url" : "https://cruiseradio.net/cruise-line-miami-return-to-sailing-cdc/",
-         "description" : "Executives representing several major cruise lines met with the Miami-Dade Tourism and Ports Commission to address issues regarding when the industry might return to service. At several points, officials urged the Centers for Disease Control and Prevention to…",
-         "urlToImage" : "https://cruiseradio.net/wp-content/uploads/2020/09/CARNIVAL-VISTA-1166-1000x600.jpg",
-         "title" : "Cruise Line Execs, Miami Port Reps tell CDC “Enough is Enough!” - Cruise Radio",
-         "author" : "Richard Simms",
-         "content" : "Executives representing several major cruise lines met with the Miami-Dade Tourism and Ports Commission to address issues regarding when the industry might return to service.\r\nAt several points, offi… [+3926 chars]",
-         "publishedAt" : "2020-09-11T14:01:03Z"
-      },
-      {
-         "author" : "Sean Szymkowski",
-         "title" : "Hyundai recalls 180,000 Tucson SUVs over fire risk - CNET",
-         "content" : "180,000 of these could feature the defect.\r\nHyundai\r\nA total of 180,000 Hyundai Tucson SUVs from the 2019-2021 model years will need to go back to the dealer after the automaker issued a new recall f… [+1402 chars]",
-         "publishedAt" : "2020-09-11T13:41:00Z",
-         "url" : "https://www.cnet.com/roadshow/news/hyundai-tucson-recall-suv-fire/",
-         "description" : "It's the third time in three years that Hyundai has named an ABS module as the source of a problem.",
-         "source" : {
-            "name" : "CNET",
-            "id" : null
-         },
-         "urlToImage" : "https://cnet4.cbsistatic.com/img/Zy9t-7-WECvngPAptqaWYl4Fk5g=/1200x630/2020/09/11/5161f47e-65d6-4631-9053-ff8c668fb2e0/ogi-tucson.jpg"
-      },
-      {
-         "source" : {
-            "name" : "Cointelegraph",
-            "id" : null
-         },
-         "description" : "An analyst says the Tesla stock chart looks similar to the weekly fractal of Bitcoin in 2017 when it achieved $20,000",
-         "url" : "https://cointelegraph.com/news/tesla-stock-tsla-chart-resembles-bitcoin-bubble-in-2017-says-analyst",
-         "urlToImage" : "https://s3.cointelegraph.com/storage/uploads/view/0925a04668b20a25046b30afb5abaec5.jpg",
-         "title" : "Tesla stock TSLA chart resembles Bitcoin bubble in 2017, says analyst - Cointelegraph",
-         "author" : "Joseph Young",
-         "publishedAt" : "2020-09-11T13:30:00Z",
-         "content" : "Julian Bridgen, the co-founder of the macroeconomic research firm MI2 Partners, believes Tesla stock (TSLA) shows signs of a bubble. He compared the stock Bitcoin (BTC) in 2017 when it hit $20,000 an… [+3297 chars]"
+         "author" : "Darrell Etherington"
       }
    ],
-   "status" : "ok"
+   "totalResults" : 70
 }
