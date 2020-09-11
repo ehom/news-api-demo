@@ -1,266 +1,266 @@
 {
-   "totalResults" : 70,
    "articles" : [
       {
-         "title" : "U.S. consumer prices surge for third month as cost of used cars soar, but inflation still low and expected to stay that way - MarketWatch",
-         "author" : "Jeffry Bartash",
+         "publishedAt" : "2020-09-11T16:28:44Z",
+         "url" : "https://www.businessinsider.com/nikola-stock-price-citron-hindenburg-allegations-investor-selling-short-report-2020-9",
+         "content" : "Trevor Milton, the CEO and founder of Nikola.\r\nREUTERS/Massimo Pinca\r\n<ul><li>Nikola shares sank as much as 18% on Friday after Citron Research followed Hindenburg Research in accusing the automaker … [+3296 chars]",
+         "source" : {
+            "id" : "business-insider",
+            "name" : "Business Insider"
+         },
+         "description" : "Nikola sinks another 18% as Citron Research calls it a 'total fraud' and investors shun a rebuttal of the original short-seller report",
+         "title" : "Nikola sinks another 18% as Citron Research calls it a 'total fraud' and investors shun a rebuttal of the original short-seller report | Markets - Business Insider",
+         "urlToImage" : "https://i.insider.com/5f5b850a7ed0ee001e25ec1a?format=jpeg",
+         "author" : "Ben Winck"
+      },
+      {
+         "description" : "In May, mining giant Rio Tinto blasted through two ancient rock shelters in Western Australia in order to mine iron ore. The company has been under rising pressure to hold executives accountable.",
+         "source" : {
+            "name" : "NPR",
+            "id" : null
+         },
+         "content" : "Protesters rallied outside the Rio Tinto office in June in Perth, Australia, after the destruction of Indigenous heritage sites the month before.\r\nRichard Wainwright/AP\r\nMining giant Rio Tinto is par… [+3536 chars]",
+         "author" : "",
+         "urlToImage" : "https://media.npr.org/assets/img/2020/09/11/ap_20255038022671_wide-596ea0e92888e43839df2142116953fbcb8d1ec8.jpg?s=1400",
+         "title" : "Rio Tinto CEO Stepping Down Over Destruction Of Ancient Aboriginal Site - NPR",
+         "url" : "https://www.npr.org/2020/09/11/911866159/a-mining-company-blew-up-a-46-000-year-old-aboriginal-site-its-ceo-is-resigning",
+         "publishedAt" : "2020-09-11T15:42:41Z"
+      },
+      {
+         "url" : "https://abcnews.go.com/US/wireStory/hyundai-warns-owners-park-recalls-180000-suvs-72945721",
+         "publishedAt" : "2020-09-11T14:51:57Z",
+         "title" : "Hyundai warns owners to park outside, recalls 180,000 SUVs - ABC News",
+         "author" : "TOM KRISHER AP Auto Writer",
+         "urlToImage" : "https://s.abcnews.com/images/US/WireAP_0b467e2e04fc43b2adb8aba865247b52_16x9_992.jpg",
+         "source" : {
+            "id" : "abc-news",
+            "name" : "ABC News"
+         },
+         "content" : "DETROIT -- For the second time this month, Hyundai is telling some SUV owners to park outdoors because an electrical short in a computer could cause vehicles to catch fire.\r\nThe Korean automaker is r… [+4205 chars]",
+         "description" : ""
+      },
+      {
+         "urlToImage" : "https://s.marketwatch.com/public/resources/images/MW-IN911_nerd_d_ZG_20200904132803.jpg",
+         "author" : "Liz Weston",
+         "title" : "The two things that are most likely wrecking your retirement savings - MarketWatch",
+         "description" : "Those who saved less spent more on housing, transportation, and food and beverage, researchers found",
+         "content" : "If you earn a decent income but have trouble saving, the culprits could be the roof over your head and the car in your driveway.Retirement savers who contribute more to their 401(k)s often spend less… [+4678 chars]",
          "source" : {
             "name" : "MarketWatch",
             "id" : null
          },
-         "urlToImage" : "https://s.marketwatch.com/public/resources/images/MW-GY665_capex__ZG_20181115153808.jpg",
-         "publishedAt" : "2020-09-11T14:22:00Z",
-         "content" : "The numbers: The cost of U.S. goods and services rose sharply in August for the third month in a row, but the increase mostly stemmed from a rebound in prices after a steep decline early in the coron… [+3231 chars]",
-         "description" : "Consumer price index rises 0.4% in August; used car prices rev up",
-         "url" : "https://www.marketwatch.com/story/consumer-prices-rise-sharply-for-third-month-in-a-row-but-inflation-still-low-and-expected-to-stay-that-way-2020-09-11"
+         "publishedAt" : "2020-09-11T14:24:00Z",
+         "url" : "https://www.marketwatch.com/story/the-two-things-that-are-most-likely-wrecking-your-retirement-savings-2020-09-11"
       },
       {
+         "source" : {
+            "id" : null,
+            "name" : "Investor's Business Daily"
+         },
+         "content" : "The Dow Jones, S&amp;P 500 and Nasdaq composite opened higher Friday, as the stock market rally tries to rebound after Thursday's ugly reversal. But gains are fading.\r\nXApple (AAPL), Amazon.com (AMZN… [+5241 chars]",
+         "description" : "The Dow Jones today opened higher but the stock market rally rebound faded. Peloton and Oracle rose. Tesla plans to export made-in-China electric cars.",
          "title" : "Dow Jones Up But Stock Market Rally Fades Despite Peloton, Oracle Gains; Tesla To Export Made-In-China Cars - Investor's Business Daily",
-         "author" : null,
-         "source" : {
-            "id" : "google-news",
-            "name" : "Google News"
-         },
-         "urlToImage" : null,
-         "publishedAt" : "2020-09-11T14:04:00Z",
-         "description" : null,
-         "content" : null,
-         "url" : "https://news.google.com/__i/rss/rd/articles/CBMigAFodHRwczovL3d3dy5pbnZlc3RvcnMuY29tL21hcmtldC10cmVuZC9zdG9jay1tYXJrZXQtdG9kYXkvZG93LWpvbmVzLXNpZ25hbC1zdG9jay1tYXJrZXQtcmFsbHktYXBwbGUtcGVsb3Rvbi10ZXNsYS1jaGluYS1leHBvcnRzL9IBAA?oc=5"
+         "author" : "Investor's Business Daily",
+         "urlToImage" : "https://www.investors.com/wp-content/uploads/2018/06/stock-tesla-model3-04-company.jpg",
+         "url" : "https://www.investors.com/market-trend/stock-market-today/dow-jones-signal-stock-market-rally-apple-peloton-tesla-china-exports/",
+         "publishedAt" : "2020-09-11T14:04:00Z"
       },
       {
-         "content" : "After a blowout quarter, Peloton is considering ways to make its expensive, high-tech workout equipment more affordable and accessible to a larger audience, according to its CEO. \r\nOne way it might g… [+2853 chars]",
-         "description" : "Peloton CEO John Foley hinted at customers being able to rent Peloton bikes and treadmills one day, and also being able to buy a used version.",
-         "url" : "https://www.cnbc.com/2020/09/11/you-might-be-able-to-rent-a-peloton-bike-one-day-ceo-john-foley-says.html",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106150479-1569505012946ap_19269469570472.jpg?v=1599775127",
+         "title" : "Used car sales are booming, and that's pushing up inflation - CNN",
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200911084314-used-car-lot-0520-restricted-super-tease.jpg",
+         "author" : "Anneken Tappe, CNN Business",
+         "content" : null,
          "source" : {
-            "name" : "CNBC",
-            "id" : null
+            "name" : "CNN",
+            "id" : "cnn"
          },
+         "description" : "Remember when city-dwellers weren't interested in owning cars? Those days are over. Used car sales are booming so much they pushed up consumer price inflation last month.",
+         "publishedAt" : "2020-09-11T13:39:00Z",
+         "url" : "https://www.cnn.com/2020/09/11/economy/inflation-used-cars/index.html"
+      },
+      {
+         "publishedAt" : "2020-09-11T13:30:00Z",
+         "url" : "https://cointelegraph.com/news/tesla-stock-tsla-chart-resembles-bitcoin-bubble-in-2017-says-analyst",
+         "urlToImage" : "https://s3.cointelegraph.com/storage/uploads/view/0925a04668b20a25046b30afb5abaec5.jpg",
+         "author" : "Joseph Young",
+         "title" : "Tesla stock TSLA chart resembles Bitcoin bubble in 2017, says analyst - Cointelegraph",
+         "description" : "An analyst says the Tesla stock chart looks similar to the weekly fractal of Bitcoin in 2017 when it achieved $20,000",
+         "content" : "Julian Bridgen, the co-founder of the macroeconomic research firm MI2 Partners, believes Tesla stock (TSLA) shows signs of a bubble. He compared the stock Bitcoin (BTC) in 2017 when it hit $20,000 an… [+3297 chars]",
+         "source" : {
+            "name" : "Cointelegraph",
+            "id" : null
+         }
+      },
+      {
+         "url" : "https://www.cnbc.com/2020/09/11/you-might-be-able-to-rent-a-peloton-bike-one-day-ceo-john-foley-says.html",
          "publishedAt" : "2020-09-11T13:21:00Z",
          "author" : "Lauren Thomas",
-         "title" : "You might be able to rent a Peloton bike one day, CEO John Foley says - CNBC"
-      },
-      {
-         "author" : "Chris Neiger, Danny Vena, and Brian Withers",
-         "title" : "Forget Tesla, Buy These 3 High-Growth Tech Stocks Instead - Motley Fool",
-         "content" : "Despite its share-price slide earlier this week, Tesla's (NASDAQ: TSLA) stock has been on a tear this year. The electric-vehicle maker has seen its share price climb an impressive 340% year to date, … [+7713 chars]",
-         "description" : "Tesla is flying high, but these fast-growing companies are helping investors build wealth too.",
-         "url" : "https://www.fool.com/investing/2020/09/11/forget-tesla-buy-these-3-high-growth-tech-stocks-i/",
-         "urlToImage" : "https://g.foolcdn.com/editorial/images/591332/gettyimages-1152654511.jpg",
-         "source" : {
-            "id" : null,
-            "name" : "Motley Fool"
-         },
-         "publishedAt" : "2020-09-11T12:25:00Z"
-      },
-      {
-         "title" : "Rio Tinto CEO to leave company after destruction of sacred sites - NBC News",
-         "author" : "The Associated Press",
-         "publishedAt" : "2020-09-11T11:46:00Z",
-         "urlToImage" : "https://media4.s-nbcnews.com/j/newscms/2020_37/3411364/200911-rio-tinto-mc-1149_ebc6f55c507d4766f5d7ed70db375910.nbcnews-fp-1200-630.JPG",
-         "source" : {
-            "id" : "nbc-news",
-            "name" : "NBC News"
-         },
-         "url" : "https://www.nbcnews.com/news/world/rio-tinto-ceo-leave-company-after-destruction-sacred-sites-n1239847",
-         "description" : "Rio Tinto chief executive Jean-Sebastien Jacques to leave company after destruction of sacred aboriginal sites in Juukan George in Western Australia",
-         "content" : "Rio Tinto chief executive Jean-Sebastien Jacques will leave the Anglo-Australian mining giant by March over the destruction of Australian Indigenous sacred sites to access iron ore, the company said … [+2281 chars]"
-      },
-      {
-         "content" : "Shares of Peloton Interactive Inc. \r\n PTON, \r\n +2.96%\r\nsoared 13.6% in premarket trading Friday, putting them on track to open in record territory, after the the at-home fitness company reported bett… [+1125 chars]",
-         "description" : "",
-         "url" : "https://www.marketwatch.com/story/pelotons-stock-soars-as-a-host-of-wall-street-analysts-boost-targets-after-first-quarterly-profit-2020-09-11",
-         "source" : {
-            "id" : null,
-            "name" : "MarketWatch"
-         },
-         "urlToImage" : "https://s.wsj.net/public/resources/MWimages/MW-GP644_MicroS_ZG_20180906154215.jpg",
-         "publishedAt" : "2020-09-11T11:42:00Z",
-         "author" : "Tomi Kilgore",
-         "title" : "Peloton's stock soars as a host of Wall Street analysts boost targets after first quarterly profit - MarketWatch"
-      },
-      {
-         "urlToImage" : "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/09/11/2aa5f91e-f419-11ea-a6e4-441c407efa8e_image_hires_190502.jpg?itok=63xUjz5d&v=1599822316",
-         "source" : {
-            "id" : null,
-            "name" : "Post Magazine"
-         },
-         "publishedAt" : "2020-09-11T10:59:18Z",
-         "description" : "Manufacturing and technology projects deemed critical to China’s economy are getting a boost under President Xi Jinping’s new ‘dual circulation’ strategy of self-reliance, as China looks to further insulate itself amid trade and tech wars with the United Stat…",
-         "content" : "Published: 6:59pm, 11 Sep, 2020\r\nUpdated: 7:05pm, 11 Sep, 2020",
-         "url" : "https://www.scmp.com/economy/china-economy/article/3101218/china-pump-hundreds-billions-yuan-key-industry-projects-no",
-         "title" : "China splashing out billions on key industry projects with unbound ambition - South China Morning Post",
-         "author" : null
-      },
-      {
-         "urlToImage" : "https://images.mktw.net/im-231002/social",
-         "source" : {
-            "name" : "MarketWatch",
-            "id" : null
-         },
-         "publishedAt" : "2020-09-11T10:48:00Z",
-         "content" : "Thursday delivered the fourth ugly finish in five sessions, with the Nasdaq Composite \r\n COMP, \r\n +0.64%\r\nskidding 2%, and the other major indexes backtracking as well.Andrea Cicione, head of strateg… [+4082 chars]",
-         "description" : "Critical information for the U.S. trading day",
-         "url" : "https://www.marketwatch.com/story/the-current-sell-off-may-end-up-emboldening-the-bulls-if-the-last-tech-bubble-is-a-guide-11599821324",
-         "title" : "The current sell-off may end up emboldening the bulls, if the last tech bubble is a guide - MarketWatch",
-         "author" : "Steve Goldstein"
-      },
-      {
-         "url" : "https://www.theverge.com/2020/9/11/21431962/public-citizen-amazon-price-gouging-coronavirus-covid-19-hand-sanitizer-masks-soap-toilet-paper",
-         "description" : "Amazon has been accused of price gouging on essential items like toilet paper and antibacterial soap in a new report. It analyzed products sold by third-party sellers as well as those listed as “sold by Amazon.”",
-         "content" : "Items sold by Amazon reportedly increased in price by up to 1,000 percent\r\nIllustration by Alex Castro / The Verge\r\nAmazon has been accused of price gouging on essential items like toilet paper and a… [+3947 chars]",
-         "publishedAt" : "2020-09-11T10:23:23Z",
-         "source" : {
-            "id" : "the-verge",
-            "name" : "The Verge"
-         },
-         "urlToImage" : "https://cdn.vox-cdn.com/thumbor/ANbApt8_hpnu2eYB5cWXLfhac_g=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/13443461/acastro_181114_1777_amazon_hq2_0002.jpg",
-         "author" : "Jon Porter",
-         "title" : "Amazon sold items at inflated prices during pandemic according to consumer watchdog - The Verge"
-      },
-      {
-         "author" : null,
-         "title" : "Tesla to export Model 3 made-in-China cars, something Elon Musk said they wouldn’t do - Electrek",
-         "url" : "https://electrek.co/2020/09/11/tesla-export-model-3-made-in-china-cars/",
-         "description" : "Tesla is preparing to export its made-in-China Model 3 cars to Europe and other markets, according to two new reports, despite Elon Musk saying that Tesla wasn’t going to do just that. When Tesla started building its Gigafactory in Shanghai, in an attempt to …",
-         "content" : "Tesla is preparing to export its made-in-China Model 3 cars to Europe and other markets, according to two new reports, despite Elon Musk saying that Tesla wasn’t going to do just that.\r\nWhen Tesla st… [+3447 chars]",
-         "publishedAt" : "2020-09-11T10:07:00Z",
-         "urlToImage" : "https://electrek.co/wp-content/uploads/sites/3/2020/02/Tesla-Model-3-Long-Range-RWD-china.jpg?quality=82&strip=all",
-         "source" : {
-            "name" : "Electrek",
-            "id" : null
-         }
-      },
-      {
-         "urlToImage" : "https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/images/story/2012/dan-gold-karzusymfra-unsplash_0.jpg",
-         "source" : {
-            "id" : null,
-            "name" : "Benzinga"
-         },
-         "publishedAt" : "2020-09-11T09:43:07Z",
-         "content" : "Tesla Inc (NASDAQ: TSLA)  CEO Elon Musk gave activist and fashion designer Monica Lewinsky some advice on choosing a car Thursday, when she appeared undecided on whether to opt for an electric vehicl… [+1471 chars]",
-         "description" : "Tesla Inc (NASDAQ: TSLA)  CEO Elon Musk gave activist and fashion designer Monica Lewinsky some advice on choosing a car Thursday, when she ...",
-         "url" : "https://www.benzinga.com/news/20/09/17465905/monica-lewinsky-cant-decide-on-a-car-to-buy-and-elon-musk-has-the-answer",
-         "title" : "Monica Lewinsky Can't Decide On A Car To Buy, And Elon Musk Has The Answer - Benzinga",
-         "author" : "Shivdeep Dhaliwal"
-      },
-      {
-         "author" : "Meridith McGraw",
-         "title" : "Trump's first TikTok move: A China quagmire of his own making - POLITICO",
-         "description" : "When the president has faced off with China, he often ends up in a jam. And the solution to the TikTok stalemate isn't clear.",
-         "content" : "Essentially, Trump has backed himself into a corner. His moves against TikTok are part of a broader tough-on-China push he has made a centerpiece of his reelection campaign, an outlet to deflect blam… [+9735 chars]",
-         "url" : "https://www.politico.com/news/2020/09/11/trumps-tiktok-china-412053",
-         "urlToImage" : "https://static.politico.com/5f/2e/ddf7147b4160941186e8b4153667/tiktok-ap-773.jpg",
-         "source" : {
-            "name" : "Politico",
-            "id" : "politico"
-         },
-         "publishedAt" : "2020-09-11T08:30:00Z"
-      },
-      {
-         "author" : "Sui-Lee Wee",
-         "title" : "From Asia to Africa, China Promotes Its Vaccines to Win Friends - The New York Times",
-         "url" : "https://www.nytimes.com/2020/09/11/business/china-vaccine-diplomacy.html",
-         "content" : "The Foreign Ministry in Beijing has emphasized that China will not seek to establish a monopoly on vaccine supply. State news media reports have also rejected accusations that China is using vaccines… [+1121 chars]",
-         "description" : "With pledges of a coronavirus vaccine, China is on a charm offensive to repair strained diplomatic ties and bolster engagement with other countries.",
-         "publishedAt" : "2020-09-11T07:00:00Z",
-         "urlToImage" : "https://static01.nyt.com/images/2020/09/11/world/00vaccine-diplomacy-print/00vaccine-diplomacy-1-facebookJumbo.jpg",
-         "source" : {
-            "id" : null,
-            "name" : "New York Times"
-         }
-      },
-      {
-         "author" : "Associated Press",
-         "title" : "China becoming battleground for plant-based meat makers - Fox Business",
-         "url" : "https://www.foxbusiness.com/markets/china-becoming-battleground-for-plant-based-meat-makers",
-         "description" : "Impossible Foods' products include plant-based beef, pork and sausage",
-         "content" : "China has become a battleground for plant-based meat companies looking to tap into the world’s largest market for meat-consumption.\r\nAmerican plant-based meat company Impossible Foods Inc. said Thurs… [+4059 chars]",
-         "publishedAt" : "2020-09-11T06:58:44Z",
-         "source" : {
-            "name" : "Fox Business",
-            "id" : null
-         },
-         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/08/0/0/impossible-foods-burger-AP.png?ve=1&tl=1"
-      },
-      {
-         "title" : "UK economy grew 6.6% in July as gradual recovery continues - CNBC",
-         "author" : "Elliot Smith",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106575421-1591961424651gettyimages-1206590116.jpeg?v=1591961630",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106150479-1569505012946ap_19269469570472.jpg?v=1599775127",
+         "title" : "You might be able to rent a Peloton bike one day, CEO John Foley says - CNBC",
+         "description" : "Peloton CEO John Foley hinted at customers being able to rent Peloton bikes and treadmills one day, and also being able to buy a used version.",
          "source" : {
             "id" : null,
             "name" : "CNBC"
          },
-         "publishedAt" : "2020-09-11T06:07:00Z",
-         "content" : "The U.K. economy grew 6.6% in July on a monthly basis, according to initial estimates published Friday, as the economy seeks to recover from the sharp downturn caused by coronavirus-induced lockdown … [+1688 chars]",
-         "description" : "The U.K. economy grew 6.6% in July on a monthly basis, according to initial estimates published Friday.",
-         "url" : "https://www.cnbc.com/2020/09/11/uk-economy-recovered-6point6percent-in-july.html"
+         "content" : "After a blowout quarter, Peloton is considering ways to make its expensive, high-tech workout equipment more affordable and accessible to a larger audience, according to its CEO. \r\nOne way it might g… [+2853 chars]"
       },
       {
+         "url" : "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9VW5ienVBMTVtTjjSAQA?oc=5",
+         "publishedAt" : "2020-09-11T12:59:51Z",
+         "title" : "Can AstraZeneca Coronavirus Vaccine Still Be Ready By Year-End Despite Sick Patient? | NBC News NOW - NBC News",
          "author" : null,
-         "title" : "Gold Forecast – Gold Pattern Supports A Breakdown Below $1900 - FX Empire",
-         "url" : "https://www.fxempire.com/forecasts/article/gold-forecast-gold-pattern-supports-a-breakdown-below-1900-671899",
-         "description" : "Our analysis remains on track for a 6-month low and subsequent buying opportunity by late September or early October.",
-         "content" : "-GOLD- Gold continues to grind out a B-wave triangle before its decline towards $1750 – $1800. Technically, prices could bounce a little higher to tag the upper triangle boundary near $1985, but it’s… [+140 chars]",
-         "publishedAt" : "2020-09-11T05:30:07Z",
+         "urlToImage" : null,
          "source" : {
-            "id" : null,
-            "name" : "FX Empire"
+            "id" : "google-news",
+            "name" : "Google News"
          },
-         "urlToImage" : "https://responsive.fxempire.com/width/600/webp-lossy-70.q50/_fxempire_/2020/07/Gold-_-Silver.jpg"
+         "content" : null,
+         "description" : null
       },
       {
-         "content" : "With the 2020 presidential election looming close on the horizon, Googles nixing autocomplete suggestions that could be interpreted as claims for or against any candidate or political party, the comp… [+2188 chars]",
-         "description" : "With the 2020 presidential election looming close on the horizon, Google’s nixing autocomplete suggestions that “could be interpreted as claims for or against any candidate or political party,” the company said in a blog post Thursday.",
-         "url" : "https://gizmodo.com/google-says-its-getting-rid-of-search-suggestions-about-1845021302",
-         "urlToImage" : "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/v4hx8vdvkhleplbxiwzw.jpg",
+         "publishedAt" : "2020-09-11T12:55:00Z",
+         "url" : "https://www.marketwatch.com/story/this-1-big-change-in-the-market-means-higher-stock-prices-are-likely-over-the-next-few-weeks-2020-09-11",
+         "title" : "This 1 big change in the market means higher stock prices are likely over the next few weeks - MarketWatch",
+         "urlToImage" : "https://s.marketwatch.com/public/resources/images/MW-GR669_climbe_ZG_20181011205720.jpg",
+         "author" : "Mark Hulbert",
+         "content" : "The U.S. bull market is receiving a new lease on life from a surprising source: stock-market timers. In recent trading sessions, the timers have beaten one of their most rapid retreats Ive seen in mo… [+3197 chars]",
          "source" : {
-            "id" : null,
-            "name" : "Gizmodo.com"
-         },
-         "publishedAt" : "2020-09-11T04:10:00Z",
-         "author" : "Alyse Stanley",
-         "title" : "Google Says It's Getting Rid of Search Suggestions About Candidates and Voting - Gizmodo"
-      },
-      {
-         "title" : "Colorado deals with widespread fraud in unemployment claims - KKTV",
-         "author" : "Associated Press",
-         "urlToImage" : "https://gray-kktv-prod.cdn.arcpublishing.com/resizer/2fTGtpn50S7lsnGCiIZPtCh_vQ4=/980x0/smart/cloudfront-us-east-1.images.arcpublishing.com/gray/U47YWFLVDBBJ7LFDXEPRVQKBZI.jpg",
-         "source" : {
-            "id" : null,
-            "name" : "KKTV 11 News"
-         },
-         "publishedAt" : "2020-09-11T02:55:00Z",
-         "content" : "DENVER (AP) - More than 75% of Colorado claims for a federal unemployment assistance program for self-employed workers and independent contractors since July 18 were determined to be fraudulent. \r\nSt… [+504 chars]",
-         "description" : "More than 75% of Colorado claims for a federal unemployment assistance program for self-employed workers and independent contractors since July 18 were determined to be fraudulent.",
-         "url" : "https://www.kktv.com/2020/09/11/colorado-deals-with-widespread-fraud-in-unemployment-claims/"
-      },
-      {
-         "title" : "AMC to open theaters in some Orange County locations, while ‘Tenet’ is set to play at LA drive-ins - Fox Business",
-         "author" : "Julius Young",
-         "publishedAt" : "2020-09-11T02:35:25Z",
-         "source" : {
-            "name" : "Fox Business",
+            "name" : "MarketWatch",
             "id" : null
          },
-         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/08/0/0/AMC-tickets-istock.jpg?ve=1&tl=1",
-         "url" : "https://www.foxbusiness.com/lifestyle/amc-to-open-theaters-in-some-orange-county-locations-while-tenet-is-set-to-play-at-la-drive-ins",
-         "content" : "AMC Theaters is full steam ahead on reopening more locations after the company opened its venues in San Diego, Calif. and saw promising numbers for the summer blockbuster “Tenet,” according to report… [+3712 chars]",
-         "description" : "Orange County, California announced earlier this week its new threshold allows for greater business openings."
+         "description" : "Short-term market timers are bearish and that’s bullish for the rest of us"
       },
       {
-         "description" : "Citigroup Inc <C.N> named consumer banking head Jane Fraser as its next chief executive on Thursday, making her the first woman to lead a major Wall Street bank.",
-         "content" : "(Reuters) - Citigroup Inc C.N named consumer banking head Jane Fraser as its next chief executive on Thursday, making her the first woman to lead a major Wall Street bank.\r\nFraser, 53, has been a ris… [+4278 chars]",
-         "url" : "https://www.reuters.com/article/uk-citigroup-ceo-idUKKBN2612B7",
+         "url" : "https://www.marketwatch.com/story/pelotons-stock-soars-as-a-host-of-wall-street-analysts-boost-targets-after-first-quarterly-profit-2020-09-11",
+         "publishedAt" : "2020-09-11T11:42:00Z",
+         "author" : "Tomi Kilgore",
+         "urlToImage" : "https://s.wsj.net/public/resources/MWimages/MW-GP644_MicroS_ZG_20180906154215.jpg",
+         "title" : "Peloton's stock soars as a host of Wall Street analysts boost targets after first quarterly profit - MarketWatch",
+         "description" : "",
          "source" : {
-            "id" : "reuters",
-            "name" : "Reuters"
+            "id" : null,
+            "name" : "MarketWatch"
          },
-         "urlToImage" : "https://static.reuters.com/resources/r/?m=02&d=20200911&t=2&i=1532986404&r=LYNXMPEG891B6&w=800",
-         "publishedAt" : "2020-09-11T01:30:00Z",
-         "author" : "C Nivedita, Noor Zainab Hussain",
-         "title" : "Citigroup's Fraser to be first woman CEO of Wall Street bank - Reuters"
+         "content" : "Shares of Peloton Interactive Inc. \r\n PTON, \r\n +2.96%\r\nsoared 13.6% in premarket trading Friday, putting them on track to open in record territory, after the the at-home fitness company reported bett… [+1125 chars]"
+      },
+      {
+         "publishedAt" : "2020-09-11T11:41:00Z",
+         "url" : "https://wgntv.com/news/the-powerful-9-11-budweiser-commercial-that-only-aired-once/",
+         "title" : "The powerful 9/11 Budweiser commercial that only aired once - WGN TV Chicago",
+         "urlToImage" : "https://wgntv.com/wp-content/uploads/sites/5/2020/09/clydesdale-1.jpeg?w=1280",
+         "author" : "Joe Millitzer and Nexstar Media Wire",
+         "content" : "ST. LOUIS, Mo. (KTVI) — On the 19th anniversary of the 9/11 terror attacks, one of the most powerful tributes to the victims remains an emotional ad featuring the Budweiser Clydesdales — and it has a… [+1386 chars]",
+         "source" : {
+            "id" : null,
+            "name" : "WGN TV Chicago"
+         },
+         "description" : "On the 19th anniversary of the 9/11 terror attacks, one of the most powerful tributes to the victims remains an emotional ad featuring the Budweiser Clydesdales — and it has aired only once."
+      },
+      {
+         "url" : "https://boingboing.net/2020/09/11/test-of-amazonbasics-gear-find.html",
+         "publishedAt" : "2020-09-11T11:33:00Z",
+         "title" : "Reviewers of AmazonBasics gear complain of dangerous items - Boing Boing",
+         "author" : null,
+         "urlToImage" : "https://i2.wp.com/boingboing.net/wp-content/uploads/2020/09/amazonbasics.jpg?fit=1200%2C623&ssl=1",
+         "source" : {
+            "id" : null,
+            "name" : "Boing Boing"
+         },
+         "content" : "A CNN investigation into the AmazonBasics lineup of inexpensive yet seemingly good-enough electronics gear found dozens of products that melted, exploded or started fires: \"Dozens of AmazonBasics pro… [+3513 chars]",
+         "description" : "A CNN investigation into the AmazonBasics lineup of inexpensive yet seemingly good-enough electronics gear found dozens of products that melted, exploded or started fires: “Dozens of AmazonBa…"
+      },
+      {
+         "url" : "https://www.scmp.com/economy/china-economy/article/3101218/china-pump-hundreds-billions-yuan-key-industry-projects-no",
+         "publishedAt" : "2020-09-11T10:59:18Z",
+         "author" : null,
+         "urlToImage" : "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/09/11/2aa5f91e-f419-11ea-a6e4-441c407efa8e_image_hires_190502.jpg?itok=63xUjz5d&v=1599822316",
+         "title" : "China splashing out billions on key industry projects with unbound ambition - South China Morning Post",
+         "description" : "Manufacturing and technology projects deemed critical to China’s economy are getting a boost under President Xi Jinping’s new ‘dual circulation’ strategy of self-reliance, as China looks to further insulate itself amid trade and tech wars with the United Stat…",
+         "source" : {
+            "id" : null,
+            "name" : "Post Magazine"
+         },
+         "content" : "Published: 6:59pm, 11 Sep, 2020\r\nUpdated: 7:05pm, 11 Sep, 2020"
+      },
+      {
+         "publishedAt" : "2020-09-11T10:50:35Z",
+         "url" : "https://www.foxbusiness.com/politics/trump-praises-jpmorgan-for-telling-trading-staff-to-return-to-the-office",
+         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/09/0/0/donald-trump-jp-morgan-chase-AP-iStock.jpg?ve=1&tl=1",
+         "author" : "Megan Henney",
+         "title" : "Trump praises JPMorgan for telling trading staff to return to the office - Fox Business",
+         "description" : "President Trump on Friday lauded JPMorgan and Chase for calling its top trading staff back to the office after months of remote work.",
+         "content" : "President Trump on Friday lauded the nation's biggest bank for calling its top trading staff back to the office after months of remote work.\r\n\"Congratulations to JPMorgan Chase for ordering everyone … [+2875 chars]",
+         "source" : {
+            "id" : null,
+            "name" : "Fox Business"
+         }
+      },
+      {
+         "source" : {
+            "id" : "the-verge",
+            "name" : "The Verge"
+         },
+         "content" : "Items sold by Amazon reportedly increased in price by up to 1,000 percent\r\nIllustration by Alex Castro / The Verge\r\nAmazon has been accused of price gouging on essential items like toilet paper and a… [+3947 chars]",
+         "description" : "Amazon has been accused of price gouging on essential items like toilet paper and antibacterial soap in a new report. It analyzed products sold by third-party sellers as well as those listed as “sold by Amazon.”",
+         "title" : "Amazon sold items at inflated prices during pandemic according to consumer watchdog - The Verge",
+         "author" : "Jon Porter",
+         "urlToImage" : "https://cdn.vox-cdn.com/thumbor/ANbApt8_hpnu2eYB5cWXLfhac_g=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/13443461/acastro_181114_1777_amazon_hq2_0002.jpg",
+         "url" : "https://www.theverge.com/2020/9/11/21431962/public-citizen-amazon-price-gouging-coronavirus-covid-19-hand-sanitizer-masks-soap-toilet-paper",
+         "publishedAt" : "2020-09-11T10:23:23Z"
+      },
+      {
+         "source" : {
+            "name" : "Electrek",
+            "id" : null
+         },
+         "content" : "Tesla is preparing to export its made-in-China Model 3 cars to Europe and other markets, according to two new reports, despite Elon Musk saying that Tesla wasn’t going to do just that.\r\nWhen Tesla st… [+3447 chars]",
+         "description" : "Tesla is preparing to export its made-in-China Model 3 cars to Europe and other markets, according to two new reports, despite Elon Musk saying that Tesla wasn’t going to do just that. When Tesla started building its Gigafactory in Shanghai, in an attempt to …",
+         "title" : "Tesla to export Model 3 made-in-China cars, something Elon Musk said they wouldn’t do - Electrek",
+         "author" : null,
+         "urlToImage" : "https://electrek.co/wp-content/uploads/sites/3/2020/02/Tesla-Model-3-Long-Range-RWD-china.jpg?quality=82&strip=all",
+         "url" : "https://electrek.co/2020/09/11/tesla-export-model-3-made-in-china-cars/",
+         "publishedAt" : "2020-09-11T10:07:00Z"
+      },
+      {
+         "publishedAt" : "2020-09-11T09:43:07Z",
+         "url" : "https://www.benzinga.com/news/20/09/17465905/monica-lewinsky-cant-decide-on-a-car-to-buy-and-elon-musk-has-the-answer",
+         "title" : "Monica Lewinsky Can't Decide On A Car To Buy, And Elon Musk Has The Answer - Benzinga",
+         "urlToImage" : "https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/images/story/2012/dan-gold-karzusymfra-unsplash_0.jpg",
+         "author" : "Shivdeep Dhaliwal",
+         "content" : "Tesla Inc (NASDAQ: TSLA)  CEO Elon Musk gave activist and fashion designer Monica Lewinsky some advice on choosing a car Thursday, when she appeared undecided on whether to opt for an electric vehicl… [+1471 chars]",
+         "source" : {
+            "id" : null,
+            "name" : "Benzinga"
+         },
+         "description" : "Tesla Inc (NASDAQ: TSLA)  CEO Elon Musk gave activist and fashion designer Monica Lewinsky some advice on choosing a car Thursday, when she ..."
+      },
+      {
+         "url" : "https://www.motorsport.com/f1/news/mclaren-factory-sale-woking-impact/4872259/",
+         "publishedAt" : "2020-09-11T09:09:00Z",
+         "description" : "McLaren team principal Andreas Seidl says a planned sale of the outfit’s Woking factory will have zero impact on the Formula 1 operation.",
+         "source" : {
+            "name" : "Motorsport.com",
+            "id" : null
+         },
+         "content" : "A report on Sky News this week revealed that McLaren aimed to boost its cashflow by selling the McLaren Technology Centre and then leasing it back. It is hoped that the move could raise around £200 m… [+2092 chars]",
+         "author" : "Jonathan Noble",
+         "urlToImage" : "https://cdn-1.motorsport.com/images/amp/0oAdv3aY/s6/f1-visit-at-the-mclaren-techno.jpg",
+         "title" : "Seidl assures McLaren factory sale won't impact F1 team - Motorsport"
+      },
+      {
+         "description" : "An NPR and PBS Frontline investigation reveals how the oil and gas industry used the promise of recycling to sell more plastic, even when they knew it would never work on a large scale.",
+         "source" : {
+            "id" : null,
+            "name" : "NPR"
+         },
+         "content" : "Landfill workers bury all plastic except soda bottles and milk jugs at Rogue Disposal &amp; Recycling in southern Oregon.\r\nLaura Sullivan/NPR\r\nLaura Leebrick, a manager at Rogue Disposal &amp; Recycl… [+19863 chars]",
+         "author" : "",
+         "urlToImage" : "https://media.npr.org/assets/img/2020/08/03/img_6898_wide-e700091be064053c78df9e3f833f115b3b999596.jpg?s=1400",
+         "title" : "Is Plastic Recycling A Lie? Oil Companies Touted Recycling To Sell More Plastic - NPR",
+         "url" : "https://www.npr.org/2020/09/11/897692090/how-big-oil-misled-the-public-into-believing-plastic-would-be-recycled",
+         "publishedAt" : "2020-09-11T09:00:12Z"
       }
    ],
+   "totalResults" : 70,
    "status" : "ok"
 }
