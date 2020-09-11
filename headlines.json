@@ -1,266 +1,266 @@
 {
-   "totalResults" : 70,
-   "status" : "ok",
    "articles" : [
       {
-         "publishedAt" : "2020-09-10T22:38:00Z",
-         "urlToImage" : "http://static-41.sinclairstoryline.com/resources/media/85786946-20b1-4437-8f28-c54f1980d340-large16x9_Boeing_First_Flight_787_10__sssundekomonews.com_7.jpg?1599776964233",
          "description" : "As Boeing struggles to regain altitude after its high profile difficulties with the grounding of its 737 Max and the coronavirus pandemic, new documents obtained exclusively by KOMO News Radio show the company could be be facing new questions about the struct…",
-         "title" : "Report raises new questions about structural integrity of Boeing 787 Dreamliner - KOMO News",
          "author" : "Charlie Harger, KOMO News Radio reporter",
+         "publishedAt" : "2020-09-10T22:38:00Z",
          "source" : {
-            "id" : null,
-            "name" : "KOMO News"
+            "name" : "KOMO News",
+            "id" : null
          },
+         "title" : "Report raises new questions about structural integrity of Boeing 787 Dreamliner - KOMO News",
          "url" : "http://komonews.com/news/local/report-raises-new-questions-about-structural-integrity-of-boeing-787-dreamliner",
+         "urlToImage" : "http://static-41.sinclairstoryline.com/resources/media/85786946-20b1-4437-8f28-c54f1980d340-large16x9_Boeing_First_Flight_787_10__sssundekomonews.com_7.jpg?1599776964233",
          "content" : null
       },
       {
-         "description" : "The exercise bike firm's revenues jumped 172% amid gym closures due to the pandemic.",
-         "title" : "Peloton sales surge as virus boosts home workouts - BBC News",
-         "publishedAt" : "2020-09-10T22:32:29Z",
-         "urlToImage" : "https://ichef.bbci.co.uk/news/1024/branded_news/D6CF/production/_114319945_gettyimages-1217255156.jpg",
          "content" : "Image copyrightGetty Images\r\nPeloton, which won an early celebrity fanbase for its exercise bikes and remote workout classes, has seen demand surge during the pandemic.\r\nThe firm's global membership … [+1859 chars]",
-         "author" : "https://www.facebook.com/bbcnews",
+         "title" : "Peloton sales surge as virus boosts home workouts - BBC News",
+         "urlToImage" : "https://ichef.bbci.co.uk/news/1024/branded_news/D6CF/production/_114319945_gettyimages-1217255156.jpg",
+         "url" : "https://www.bbc.com/news/business-54112461",
          "source" : {
             "id" : null,
             "name" : "BBC News"
          },
-         "url" : "https://www.bbc.com/news/business-54112461"
+         "description" : "The exercise bike firm's revenues jumped 172% amid gym closures due to the pandemic.",
+         "author" : "https://www.facebook.com/bbcnews",
+         "publishedAt" : "2020-09-10T22:32:29Z"
       },
       {
-         "author" : "",
          "source" : {
             "name" : "Engadget",
             "id" : "engadget"
          },
-         "url" : "https://www.engadget.com/amazon-basics-products-could-be-fire-safety-risk-214942687.html",
-         "content" : "The affected products include USB charging cables, battery chargers, office equipment and other inexpensive accessories. One particularly problematic product, according to CNN, was a voice-enabled mi… [+1062 chars]",
          "publishedAt" : "2020-09-10T22:24:17Z",
-         "urlToImage" : "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2019-08%2Ffe58aaf0-c1a1-11e9-bf7f-2209a4c633e5&client=amp-blogside-v2&signature=ac1ffc24609367e85536b5c2421dd6e621712ce8",
+         "author" : "",
          "description" : "It might be a good idea to carefully read the reviews before you buy another Amazon Basics product.",
-         "title" : "Dozens of AmazonBasics products could pose a safety risk, report says - Engadget"
+         "content" : "The affected products include USB charging cables, battery chargers, office equipment and other inexpensive accessories. One particularly problematic product, according to CNN, was a voice-enabled mi… [+1062 chars]",
+         "title" : "Dozens of AmazonBasics products could pose a safety risk, report says - Engadget",
+         "urlToImage" : "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2019-08%2Ffe58aaf0-c1a1-11e9-bf7f-2209a4c633e5&client=amp-blogside-v2&signature=ac1ffc24609367e85536b5c2421dd6e621712ce8",
+         "url" : "https://www.engadget.com/amazon-basics-products-could-be-fire-safety-risk-214942687.html"
       },
       {
+         "description" : "Filings for benefits reflect continued layoffs and a sluggish recovery. “The numbers are going in the wrong direction,” one economist said.",
          "author" : "Nelson D. Schwartz, Gillian Friedman",
-         "url" : "https://www.nytimes.com/2020/09/10/business/economy/unemployment-claims.html",
+         "publishedAt" : "2020-09-10T22:16:00Z",
          "source" : {
             "name" : "New York Times",
             "id" : null
          },
-         "content" : "Perpetrators are often using stolen identity information from national and global data breaches, as well as exploiting expedited payment efforts, she said.\r\nIn August, 21 current and former inmates o… [+1050 chars]",
+         "url" : "https://www.nytimes.com/2020/09/10/business/economy/unemployment-claims.html",
+         "title" : "Unemployment Claims Send Another Worrisome Note - The New York Times",
          "urlToImage" : "https://static01.nyt.com/images/2020/09/04/business/10virus-jobless1/00office-space4b-facebookJumbo.jpg",
-         "publishedAt" : "2020-09-10T22:16:00Z",
-         "description" : "Filings for benefits reflect continued layoffs and a sluggish recovery. “The numbers are going in the wrong direction,” one economist said.",
-         "title" : "Unemployment Claims Send Another Worrisome Note - The New York Times"
+         "content" : "Perpetrators are often using stolen identity information from national and global data breaches, as well as exploiting expedited payment efforts, she said.\r\nIn August, 21 current and former inmates o… [+1050 chars]"
       },
       {
-         "source" : {
-            "name" : "Investor's Business Daily",
-            "id" : null
-         },
          "url" : "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-why-stock-market-risky-nasdaq-apple-reverse-lower-peloton-earnings/",
-         "author" : "Investor's Business Daily",
-         "content" : "Dow Jones futures rose modestly late Thursday, along with S&amp;P 500 futures and Nasdaq futures. The stock market rally opened strong on Thursday but reversed sharply lower. The Nasdaq hit resistanc… [+6650 chars]",
-         "publishedAt" : "2020-09-10T22:07:00Z",
-         "urlToImage" : "https://www.investors.com/wp-content/uploads/2017/10/stock-sailing-rough-adobe.jpg",
          "title" : "Riskier Than A Bear? Why This Market Is So Dangerous - Investor's Business Daily",
-         "description" : "Dow Jones futures: The reversal for the Nasdaq, Apple and other top techs shows how risky the stock market rally is now. Peloton jumped late on earnings."
+         "urlToImage" : "https://www.investors.com/wp-content/uploads/2017/10/stock-sailing-rough-adobe.jpg",
+         "content" : "Dow Jones futures rose modestly late Thursday, along with S&amp;P 500 futures and Nasdaq futures. The stock market rally opened strong on Thursday but reversed sharply lower. The Nasdaq hit resistanc… [+6650 chars]",
+         "author" : "Investor's Business Daily",
+         "publishedAt" : "2020-09-10T22:07:00Z",
+         "description" : "Dow Jones futures: The reversal for the Nasdaq, Apple and other top techs shows how risky the stock market rally is now. Peloton jumped late on earnings.",
+         "source" : {
+            "id" : null,
+            "name" : "Investor's Business Daily"
+         }
       },
       {
-         "title" : "Fight on Canadian plane over child refusing to wear mask cancels flight - Fox News",
-         "description" : "Canadian airline WestJet said it had to cancel the flight early Tuesday because two parents on the plane refused to put a mask on their 3-year-old child, according to a report.",
-         "urlToImage" : "https://static.foxnews.com/foxnews.com/content/uploads/2018/11/WestJet-iStock.jpg",
          "publishedAt" : "2020-09-10T22:00:29Z",
-         "content" : "A flight from Calgary to Toronto was canceled this week after a dispute over an unmasked child.\r\nCanadian airline WestJet said it had to cancel the flight early Tuesday because two parents on the pla… [+2627 chars]",
-         "url" : "https://www.foxnews.com/travel/fight-canadian-plane-child-refusing-mask-flight",
+         "author" : "James Leggate",
+         "description" : "Canadian airline WestJet said it had to cancel the flight early Tuesday because two parents on the plane refused to put a mask on their 3-year-old child, according to a report.",
          "source" : {
             "id" : "fox-news",
             "name" : "Fox News"
          },
-         "author" : "James Leggate"
+         "urlToImage" : "https://static.foxnews.com/foxnews.com/content/uploads/2018/11/WestJet-iStock.jpg",
+         "url" : "https://www.foxnews.com/travel/fight-canadian-plane-child-refusing-mask-flight",
+         "title" : "Fight on Canadian plane over child refusing to wear mask cancels flight - Fox News",
+         "content" : "A flight from Calgary to Toronto was canceled this week after a dispute over an unmasked child.\r\nCanadian airline WestJet said it had to cancel the flight early Tuesday because two parents on the pla… [+2627 chars]"
       },
       {
-         "content" : "The Trump Administration is proposing…\r\nNikola, a maker of electric…\r\nOil prices crashed at the…\r\nBy Tsvetana Paraskova - Sep 10, 2020, 5:00 PM CDTThe record oil production cuts that OPEC+ initiated … [+6005 chars]",
-         "url" : "https://oilprice.com/Energy/Energy-General/Retreating-Oil-Prices-Force-OPEC-To-Reconsider-Easing-Cuts.html",
-         "source" : {
-            "name" : "OilPrice.com",
-            "id" : null
-         },
-         "author" : "Tsvetana Paraskova",
          "title" : "Retreating Oil Prices Force OPEC To Reconsider Easing Cuts - OilPrice.com",
-         "description" : "OPEC is once again caught between a rock and a hard place as the cartel would like to further ease output cuts, but finds that adding more supply will only sour the marketplace",
          "urlToImage" : "https://d32r1sh890xpii.cloudfront.net/article/718x300/2020-09-10_yktc4xfesz.jpg",
-         "publishedAt" : "2020-09-10T22:00:00Z"
+         "url" : "https://oilprice.com/Energy/Energy-General/Retreating-Oil-Prices-Force-OPEC-To-Reconsider-Easing-Cuts.html",
+         "content" : "The Trump Administration is proposing…\r\nNikola, a maker of electric…\r\nOil prices crashed at the…\r\nBy Tsvetana Paraskova - Sep 10, 2020, 5:00 PM CDTThe record oil production cuts that OPEC+ initiated … [+6005 chars]",
+         "description" : "OPEC is once again caught between a rock and a hard place as the cartel would like to further ease output cuts, but finds that adding more supply will only sour the marketplace",
+         "author" : "Tsvetana Paraskova",
+         "publishedAt" : "2020-09-10T22:00:00Z",
+         "source" : {
+            "id" : null,
+            "name" : "OilPrice.com"
+         }
       },
       {
-         "author" : "Melody Hahm",
-         "url" : "https://finance.yahoo.com/news/peloton-new-highs-q4-earnings-and-revenue-202044922.html",
          "source" : {
-            "name" : "Yahoo Entertainment",
-            "id" : null
+            "id" : null,
+            "name" : "Yahoo Entertainment"
          },
-         "content" : "Peloton (PTON) on Thursday reported earnings that demolished Wall Streets expectations, with the company bolstered by the COVID-19 outbreak that shuttered gyms and kept fitness conscious consumers wo… [+2858 chars]",
-         "urlToImage" : "https://s.yimg.com/uu/api/res/1.2/KUqA4uRTKlAEom2aodIOig--~B/aD0zMjU2O3c9NDg4NDtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-images/2020-02/097d3ac0-48f9-11ea-b47b-7f32a559bc2c",
+         "author" : "Melody Hahm",
          "publishedAt" : "2020-09-10T21:54:00Z",
          "description" : "Peloton reported fiscal fourth-quarter earnings after the bell Thursday.",
-         "title" : "Peloton stock roars as earnings smash estimates, posts first ever profit on coronavirus boost - Yahoo Finance"
+         "content" : "Peloton (PTON) on Thursday reported earnings that demolished Wall Streets expectations, with the company bolstered by the COVID-19 outbreak that shuttered gyms and kept fitness conscious consumers wo… [+2858 chars]",
+         "title" : "Peloton stock roars as earnings smash estimates, posts first ever profit on coronavirus boost - Yahoo Finance",
+         "urlToImage" : "https://s.yimg.com/uu/api/res/1.2/KUqA4uRTKlAEom2aodIOig--~B/aD0zMjU2O3c9NDg4NDtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-images/2020-02/097d3ac0-48f9-11ea-b47b-7f32a559bc2c",
+         "url" : "https://finance.yahoo.com/news/peloton-new-highs-q4-earnings-and-revenue-202044922.html"
       },
       {
          "content" : "OSHA has recommended but not mandated guidance employers can take to protect workers from the coronavirus, such as social distancing measures and the use of physical barriers, face shields and face c… [+1492 chars]",
+         "urlToImage" : "https://static.politico.com/82/a0/463f025040679bb0d3e620d4918c/ap20108597341893.jpg",
+         "title" : "U.S. issues first Covid-19 fine to meatpacking plant totaling $13,500 - POLITICO",
+         "url" : "https://www.politico.com/news/2020/09/10/osha-smithfield-coronavirus-fine-411925",
          "source" : {
             "name" : "Politico",
             "id" : "politico"
          },
-         "url" : "https://www.politico.com/news/2020/09/10/osha-smithfield-coronavirus-fine-411925",
          "author" : "Ximena Bustillo",
-         "title" : "U.S. issues first Covid-19 fine to meatpacking plant totaling $13,500 - POLITICO",
-         "description" : "The penalty of about $13,500 is likely to be seen as inadequate by worker groups.",
          "publishedAt" : "2020-09-10T21:53:00Z",
-         "urlToImage" : "https://static.politico.com/82/a0/463f025040679bb0d3e620d4918c/ap20108597341893.jpg"
+         "description" : "The penalty of about $13,500 is likely to be seen as inadequate by worker groups."
       },
       {
-         "author" : "Dana Schuster",
-         "url" : "https://www.businessinsider.com/past-f-factor-employees-speak-about-workplace-pressure-to-restrict-eating-2020-9",
-         "source" : {
-            "name" : "Business Insider",
-            "id" : "business-insider"
-         },
-         "content" : "It was Sarah's first day of work at F-Factor, and she packed a homemade lunch of whole-wheat pasta and turkey meatballs.\r\n\"I thought I was being really responsible,\" Sarah, a dietitian, told Insider.… [+16452 chars]",
          "urlToImage" : "https://i.insider.com/5f58d8a07ed0ee001e25e24e?width=1200&format=jpeg",
+         "title" : "Former employees of Tanya Zuckerbrot's popular F-Factor diet say she fat-shamed colleagues and policed their eating, causing terrified staffers to snack in secret - Business Insider",
+         "url" : "https://www.businessinsider.com/past-f-factor-employees-speak-about-workplace-pressure-to-restrict-eating-2020-9",
+         "content" : "It was Sarah's first day of work at F-Factor, and she packed a homemade lunch of whole-wheat pasta and turkey meatballs.\r\n\"I thought I was being really responsible,\" Sarah, a dietitian, told Insider.… [+16452 chars]",
+         "author" : "Dana Schuster",
          "publishedAt" : "2020-09-10T21:38:33Z",
          "description" : "Ex-employees said they hid food from their boss, Tanya Zuckerbrot, and were subject to jokes and stringent clothing guidelines meant to show off their bodies.",
-         "title" : "Former employees of Tanya Zuckerbrot's popular F-Factor diet say she fat-shamed colleagues and policed their eating, causing terrified staffers to snack in secret - Business Insider"
+         "source" : {
+            "id" : "business-insider",
+            "name" : "Business Insider"
+         }
       },
       {
+         "url" : "https://www.cnbc.com/2020/09/10/sandy-weill-on-citigroups-decision-to-name-jane-fraser-its-next-ceo.html",
+         "title" : "Sandy Weill says Citi has 'an unbelievable opportunity' to grow with Jane Fraser as next CEO - CNBC",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/101628016-20140430-6964-617.jpg?v=1584566083",
          "content" : "Former Citigroup CEO Sandy Weill told CNBC on Thursday that he was bullish about the bank's future after it tapped Jane Fraser to be its next top executive, calling her a \"natural leader\" who can bri… [+2345 chars]",
          "author" : "Kevin Stankiewicz",
+         "publishedAt" : "2020-09-10T21:35:00Z",
+         "description" : "\"She also knows a lot about how to run the businesses hands on and she has empathy for people,\" former Citigroup CEO Sandy Weill told CNBC.",
          "source" : {
             "name" : "CNBC",
             "id" : null
-         },
-         "url" : "https://www.cnbc.com/2020/09/10/sandy-weill-on-citigroups-decision-to-name-jane-fraser-its-next-ceo.html",
-         "description" : "\"She also knows a lot about how to run the businesses hands on and she has empathy for people,\" former Citigroup CEO Sandy Weill told CNBC.",
-         "title" : "Sandy Weill says Citi has 'an unbelievable opportunity' to grow with Jane Fraser as next CEO - CNBC",
-         "publishedAt" : "2020-09-10T21:35:00Z",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/101628016-20140430-6964-617.jpg?v=1584566083"
+         }
       },
       {
          "publishedAt" : "2020-09-10T21:28:00Z",
-         "urlToImage" : "https://kubrick.htvapps.com/htv-prod/ibmig/cms/image/wxii/24302072-24302072.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
-         "title" : "New North Carolina CVS drive-thru testing sites opening, minimum testing age lowered to 12 - WXII12 Winston-Salem",
+         "author" : "WXII12.com Web Staff",
          "description" : "CVS Health announced Thursday morning that 31 new testing sites are launching Friday and the testing age at the centers is being lowered to 12 years of age or older.",
          "source" : {
             "id" : null,
             "name" : "WXII12 Winston-Salem"
          },
+         "title" : "New North Carolina CVS drive-thru testing sites opening, minimum testing age lowered to 12 - WXII12 Winston-Salem",
          "url" : "https://www.wxii12.com/article/coronavirus-cvs-drive-thru-testing-sites-opening-age/33983670",
-         "author" : "WXII12.com Web Staff",
+         "urlToImage" : "https://kubrick.htvapps.com/htv-prod/ibmig/cms/image/wxii/24302072-24302072.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
          "content" : "WINSTON-SALEM, N.C. —CVS Health announced Thursday morning that 31 new testing sites are launching Friday and the testing age at the centers is being lowered to 12 years of age or older.\r\nWith school… [+1200 chars]"
       },
       {
-         "title" : "JPMorgan telling senior trading-floor managers to come back to office by September 21 | TheHill - The Hill",
          "description" : "JPMorgan Chase & Co. executives instructed its senior trading...",
-         "urlToImage" : "https://thehill.com/sites/default/files/jpmorgan.jpg",
+         "author" : "Justine Coleman",
          "publishedAt" : "2020-09-10T21:04:46Z",
-         "content" : "JPMorgan Chase &amp; Co. executives instructed its senior trading-floor managers to return to the office by Sept. 21 in Wednesday calls, a person familiar with the plans told The Hill. \r\nOfficials at… [+2024 chars]",
-         "url" : "https://thehill.com/policy/finance/515926-jpmorgan-telling-senior-trading-floor-managers-to-come-back-to-office-by",
          "source" : {
-            "name" : "The Hill",
-            "id" : "the-hill"
+            "id" : "the-hill",
+            "name" : "The Hill"
          },
-         "author" : "Justine Coleman"
+         "urlToImage" : "https://thehill.com/sites/default/files/jpmorgan.jpg",
+         "title" : "JPMorgan telling senior trading-floor managers to come back to office by September 21 | TheHill - The Hill",
+         "url" : "https://thehill.com/policy/finance/515926-jpmorgan-telling-senior-trading-floor-managers-to-come-back-to-office-by",
+         "content" : "JPMorgan Chase &amp; Co. executives instructed its senior trading-floor managers to return to the office by Sept. 21 in Wednesday calls, a person familiar with the plans told The Hill. \r\nOfficials at… [+2024 chars]"
       },
       {
          "title" : "Economic Rebound Becomes More Fragile With U.S. Aid on Brink - Bloomberg",
+         "urlToImage" : "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ihUbwgYQa47k/v0/1200x800.jpg",
+         "url" : "https://www.bloomberg.com/news/articles/2020-09-10/economic-rebound-becomes-more-fragile-with-u-s-aid-on-brink",
+         "content" : "Photographer: Spencer Platt/Getty Images\r\nAmerica’s economic rebound is about to get a lot tougher after an initial series of gains from the depths of the pandemic. \r\nApplications for regular state u… [+4397 chars]",
          "description" : "America’s economic rebound is about to get a lot tougher after an initial series of gains from the depths of the pandemic.",
          "publishedAt" : "2020-09-10T20:50:00Z",
-         "urlToImage" : "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ihUbwgYQa47k/v0/1200x800.jpg",
-         "content" : "Photographer: Spencer Platt/Getty Images\r\nAmerica’s economic rebound is about to get a lot tougher after an initial series of gains from the depths of the pandemic. \r\nApplications for regular state u… [+4397 chars]",
+         "author" : "Reade Pickert, Jarrell Dillard",
          "source" : {
             "name" : "Bloomberg",
             "id" : "bloomberg"
-         },
-         "url" : "https://www.bloomberg.com/news/articles/2020-09-10/economic-rebound-becomes-more-fragile-with-u-s-aid-on-brink",
-         "author" : "Reade Pickert, Jarrell Dillard"
-      },
-      {
-         "url" : "https://www.cnn.com/2020/09/10/tech/theranos-holmes-mental-disease/index.html",
-         "source" : {
-            "id" : "cnn",
-            "name" : "CNN"
-         },
-         "author" : "Sara Ashley O'Brien, CNN Business",
-         "content" : "(CNN Business)Elizabeth Holmes, the founder and former CEO of Theranos, may seek a \"mental disease\" defense in her criminal fraud trial, according to a new court document.\r\nHolmes, whose failed biote… [+1980 chars]",
-         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200910142929-elizabeth-holmes-theranos-trial-hearing-file-super-tease.jpg",
-         "publishedAt" : "2020-09-10T20:45:00Z",
-         "title" : "Elizabeth Holmes may attempt to claim 'mental disease' in Theranos criminal case - CNN",
-         "description" : "Elizabeth Holmes, the founder and former CEO of Theranos, may seek a \"mental disease\" defense in her criminal fraud trial, according to a new court document."
-      },
-      {
-         "description" : "",
-         "title" : "Netflix Inc. stock falls Thursday, underperforms market - MarketWatch",
-         "urlToImage" : "https://images.mktw.net/im-215085/social",
-         "publishedAt" : "2020-09-10T20:25:00Z",
-         "content" : "Shares of Netflix Inc. \r\n NFLX, \r\n -3.90%\r\nslid 3.90% to $480.67 Thursday, on what proved to be an all-around rough trading session for the stock market, with the S&amp;P 500 Index \r\n SPX, \r\n -1.75%\r… [+816 chars]",
-         "author" : "MarketWatch Automation",
-         "url" : "https://www.marketwatch.com/story/netflix-inc-stock-falls-thursday-underperforms-market-01599769524",
-         "source" : {
-            "name" : "MarketWatch",
-            "id" : null
          }
       },
       {
-         "title" : "Dave & Buster's shares drop 5% on 85% drop in revenue - MarketWatch",
+         "author" : "Sara Ashley O'Brien, CNN Business",
+         "publishedAt" : "2020-09-10T20:45:00Z",
+         "description" : "Elizabeth Holmes, the founder and former CEO of Theranos, may seek a \"mental disease\" defense in her criminal fraud trial, according to a new court document.",
+         "source" : {
+            "name" : "CNN",
+            "id" : "cnn"
+         },
+         "title" : "Elizabeth Holmes may attempt to claim 'mental disease' in Theranos criminal case - CNN",
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200910142929-elizabeth-holmes-theranos-trial-hearing-file-super-tease.jpg",
+         "url" : "https://www.cnn.com/2020/09/10/tech/theranos-holmes-mental-disease/index.html",
+         "content" : "(CNN Business)Elizabeth Holmes, the founder and former CEO of Theranos, may seek a \"mental disease\" defense in her criminal fraud trial, according to a new court document.\r\nHolmes, whose failed biote… [+1980 chars]"
+      },
+      {
+         "source" : {
+            "name" : "MarketWatch",
+            "id" : null
+         },
+         "publishedAt" : "2020-09-10T20:25:00Z",
+         "author" : "MarketWatch Automation",
          "description" : "",
-         "publishedAt" : "2020-09-10T20:23:00Z",
-         "urlToImage" : "https://s.wsj.net/public/resources/MWimages/MW-GP644_MicroS_ZG_20180906154215.jpg",
+         "content" : "Shares of Netflix Inc. \r\n NFLX, \r\n -3.90%\r\nslid 3.90% to $480.67 Thursday, on what proved to be an all-around rough trading session for the stock market, with the S&amp;P 500 Index \r\n SPX, \r\n -1.75%\r… [+816 chars]",
+         "url" : "https://www.marketwatch.com/story/netflix-inc-stock-falls-thursday-underperforms-market-01599769524",
+         "title" : "Netflix Inc. stock falls Thursday, underperforms market - MarketWatch",
+         "urlToImage" : "https://images.mktw.net/im-215085/social"
+      },
+      {
          "content" : "Dave &amp; Buster's Entertainment Inc. \r\n PLAY, \r\n -2.27%\r\nshares initially were down 5% in after-hours trading Thursday after the restaurant chain reported fiscal second-quarter revenue that whiffed… [+661 chars]",
-         "source" : {
-            "id" : null,
-            "name" : "MarketWatch"
-         },
+         "title" : "Dave & Buster's shares drop 5% on 85% drop in revenue - MarketWatch",
          "url" : "https://www.marketwatch.com/story/dave-busters-shares-drop-5-on-85-drop-in-revenue-2020-09-10",
-         "author" : "Jon Swartz"
-      },
-      {
-         "url" : "https://news.google.com/__i/rss/rd/articles/CBMib2h0dHBzOi8vd3d3LmludmVzdG9ycy5jb20vbmV3cy90ZWNobm9sb2d5L21ybmEtc3RvY2stbnZheC1zdG9jay1yYWxseS1zZWNvbmQtZGF5LWFmdGVyLWF6bi1jb3ZpZC12YWNjaW5lLXBhdXNlL9IBAA?oc=5",
-         "source" : {
-            "name" : "Google News",
-            "id" : "google-news"
-         },
-         "author" : null,
-         "content" : null,
-         "urlToImage" : null,
-         "publishedAt" : "2020-09-10T20:19:00Z",
-         "title" : "MRNA Stock, NVAX Stock Rally Second Day After AZN Covid Vaccine Pause - Investor's Business Daily",
-         "description" : null
-      },
-      {
-         "author" : "Wallace Witkowski",
-         "url" : "https://www.marketwatch.com/story/oracle-stock-rallies-as-results-top-wall-street-estimates-11599768559",
+         "urlToImage" : "https://s.wsj.net/public/resources/MWimages/MW-GP644_MicroS_ZG_20180906154215.jpg",
          "source" : {
             "id" : null,
             "name" : "MarketWatch"
          },
-         "content" : "Oracle Corp. shares rallied in the extended session Thursday after the database software companys results and outlook topped Wall Street estimates. On a conference call, Oracle \r\n ORCL, \r\n +0.66%\r\nCh… [+1839 chars]",
-         "urlToImage" : "https://images.mktw.net/im-230767/social",
+         "author" : "Jon Swartz",
+         "publishedAt" : "2020-09-10T20:23:00Z",
+         "description" : ""
+      },
+      {
+         "publishedAt" : "2020-09-10T20:19:00Z",
+         "author" : null,
+         "description" : null,
+         "source" : {
+            "id" : "google-news",
+            "name" : "Google News"
+         },
+         "title" : "MRNA Stock, NVAX Stock Rally Second Day After AZN Covid Vaccine Pause - Investor's Business Daily",
+         "urlToImage" : null,
+         "url" : "https://news.google.com/__i/rss/rd/articles/CBMib2h0dHBzOi8vd3d3LmludmVzdG9ycy5jb20vbmV3cy90ZWNobm9sb2d5L21ybmEtc3RvY2stbnZheC1zdG9jay1yYWxseS1zZWNvbmQtZGF5LWFmdGVyLWF6bi1jb3ZpZC12YWNjaW5lLXBhdXNlL9IBAA?oc=5",
+         "content" : null
+      },
+      {
+         "source" : {
+            "id" : null,
+            "name" : "MarketWatch"
+         },
+         "author" : "Wallace Witkowski",
          "publishedAt" : "2020-09-10T20:09:00Z",
          "description" : "Revenue from Zoom Video more than doubles",
-         "title" : "Oracle stock rallies as results, outlook top Wall Street estimates - MarketWatch"
+         "content" : "Oracle Corp. shares rallied in the extended session Thursday after the database software companys results and outlook topped Wall Street estimates. On a conference call, Oracle \r\n ORCL, \r\n +0.66%\r\nCh… [+1839 chars]",
+         "urlToImage" : "https://images.mktw.net/im-230767/social",
+         "title" : "Oracle stock rallies as results, outlook top Wall Street estimates - MarketWatch",
+         "url" : "https://www.marketwatch.com/story/oracle-stock-rallies-as-results-top-wall-street-estimates-11599768559"
       },
       {
          "url" : "https://www.foxnews.com/us/new-york-city-subway-bus-mask-fine",
-         "source" : {
-            "name" : "Fox News",
-            "id" : "fox-news"
-         },
-         "author" : "Greg Norman",
-         "content" : "New York City subway and bus riders who are caught not wearing a mask will soon face $50 fines, Gov. Andrew Cuomo and transit officials announced Thursday.\r\nThe New York Police Department and the Met… [+1444 chars]",
-         "urlToImage" : "https://static.foxnews.com/foxnews.com/content/uploads/2020/04/homeless-nyc-5-getty-images.jpg",
-         "publishedAt" : "2020-09-10T20:05:49Z",
          "title" : "New York City subway, bus riders who don't wear masks risk $50 fines - Fox News",
-         "description" : "New York City subway and bus riders who are caught not wearing a mask will soon face $50 fines, Gov. Andrew Cuomo and transit officials announced Thursday."
+         "urlToImage" : "https://static.foxnews.com/foxnews.com/content/uploads/2020/04/homeless-nyc-5-getty-images.jpg",
+         "content" : "New York City subway and bus riders who are caught not wearing a mask will soon face $50 fines, Gov. Andrew Cuomo and transit officials announced Thursday.\r\nThe New York Police Department and the Met… [+1444 chars]",
+         "description" : "New York City subway and bus riders who are caught not wearing a mask will soon face $50 fines, Gov. Andrew Cuomo and transit officials announced Thursday.",
+         "publishedAt" : "2020-09-10T20:05:49Z",
+         "author" : "Greg Norman",
+         "source" : {
+            "id" : "fox-news",
+            "name" : "Fox News"
+         }
       }
-   ]
+   ],
+   "status" : "ok",
+   "totalResults" : 70
 }
