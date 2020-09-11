@@ -1,266 +1,266 @@
 {
-   "status" : "ok",
    "totalResults" : 70,
    "articles" : [
       {
-         "urlToImage" : "https://s.marketwatch.com/public/resources/images/MW-GY665_capex__ZG_20181115153808.jpg",
-         "content" : "The numbers: The cost of U.S. goods and services rose sharply in August for the third month in a row, but the increase mostly stemmed from a rebound in prices after a steep decline early in the coron… [+3231 chars]",
          "title" : "U.S. consumer prices surge for third month as cost of used cars soar, but inflation still low and expected to stay that way - MarketWatch",
-         "source" : {
-            "id" : null,
-            "name" : "MarketWatch"
-         },
          "author" : "Jeffry Bartash",
+         "source" : {
+            "name" : "MarketWatch",
+            "id" : null
+         },
+         "urlToImage" : "https://s.marketwatch.com/public/resources/images/MW-GY665_capex__ZG_20181115153808.jpg",
          "publishedAt" : "2020-09-11T14:22:00Z",
+         "content" : "The numbers: The cost of U.S. goods and services rose sharply in August for the third month in a row, but the increase mostly stemmed from a rebound in prices after a steep decline early in the coron… [+3231 chars]",
          "description" : "Consumer price index rises 0.4% in August; used car prices rev up",
          "url" : "https://www.marketwatch.com/story/consumer-prices-rise-sharply-for-third-month-in-a-row-but-inflation-still-low-and-expected-to-stay-that-way-2020-09-11"
       },
       {
-         "author" : null,
-         "publishedAt" : "2020-09-11T14:04:00Z",
-         "urlToImage" : null,
-         "content" : null,
          "title" : "Dow Jones Up But Stock Market Rally Fades Despite Peloton, Oracle Gains; Tesla To Export Made-In-China Cars - Investor's Business Daily",
+         "author" : null,
          "source" : {
-            "name" : "Google News",
-            "id" : "google-news"
+            "id" : "google-news",
+            "name" : "Google News"
          },
-         "url" : "https://news.google.com/__i/rss/rd/articles/CBMigAFodHRwczovL3d3dy5pbnZlc3RvcnMuY29tL21hcmtldC10cmVuZC9zdG9jay1tYXJrZXQtdG9kYXkvZG93LWpvbmVzLXNpZ25hbC1zdG9jay1tYXJrZXQtcmFsbHktYXBwbGUtcGVsb3Rvbi10ZXNsYS1jaGluYS1leHBvcnRzL9IBAA?oc=5",
-         "description" : null
+         "urlToImage" : null,
+         "publishedAt" : "2020-09-11T14:04:00Z",
+         "description" : null,
+         "content" : null,
+         "url" : "https://news.google.com/__i/rss/rd/articles/CBMigAFodHRwczovL3d3dy5pbnZlc3RvcnMuY29tL21hcmtldC10cmVuZC9zdG9jay1tYXJrZXQtdG9kYXkvZG93LWpvbmVzLXNpZ25hbC1zdG9jay1tYXJrZXQtcmFsbHktYXBwbGUtcGVsb3Rvbi10ZXNsYS1jaGluYS1leHBvcnRzL9IBAA?oc=5"
       },
       {
-         "author" : "Lauren Thomas",
-         "publishedAt" : "2020-09-11T13:21:00Z",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106150479-1569505012946ap_19269469570472.jpg?v=1599775127",
          "content" : "After a blowout quarter, Peloton is considering ways to make its expensive, high-tech workout equipment more affordable and accessible to a larger audience, according to its CEO. \r\nOne way it might g… [+2853 chars]",
-         "title" : "You might be able to rent a Peloton bike one day, CEO John Foley says - CNBC",
+         "description" : "Peloton CEO John Foley hinted at customers being able to rent Peloton bikes and treadmills one day, and also being able to buy a used version.",
+         "url" : "https://www.cnbc.com/2020/09/11/you-might-be-able-to-rent-a-peloton-bike-one-day-ceo-john-foley-says.html",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106150479-1569505012946ap_19269469570472.jpg?v=1599775127",
          "source" : {
             "name" : "CNBC",
             "id" : null
          },
-         "url" : "https://www.cnbc.com/2020/09/11/you-might-be-able-to-rent-a-peloton-bike-one-day-ceo-john-foley-says.html",
-         "description" : "Peloton CEO John Foley hinted at customers being able to rent Peloton bikes and treadmills one day, and also being able to buy a used version."
+         "publishedAt" : "2020-09-11T13:21:00Z",
+         "author" : "Lauren Thomas",
+         "title" : "You might be able to rent a Peloton bike one day, CEO John Foley says - CNBC"
       },
       {
-         "url" : "https://www.fool.com/investing/2020/09/11/forget-tesla-buy-these-3-high-growth-tech-stocks-i/",
-         "description" : "Tesla is flying high, but these fast-growing companies are helping investors build wealth too.",
          "author" : "Chris Neiger, Danny Vena, and Brian Withers",
-         "publishedAt" : "2020-09-11T12:25:00Z",
          "title" : "Forget Tesla, Buy These 3 High-Growth Tech Stocks Instead - Motley Fool",
          "content" : "Despite its share-price slide earlier this week, Tesla's (NASDAQ: TSLA) stock has been on a tear this year. The electric-vehicle maker has seen its share price climb an impressive 340% year to date, … [+7713 chars]",
+         "description" : "Tesla is flying high, but these fast-growing companies are helping investors build wealth too.",
+         "url" : "https://www.fool.com/investing/2020/09/11/forget-tesla-buy-these-3-high-growth-tech-stocks-i/",
+         "urlToImage" : "https://g.foolcdn.com/editorial/images/591332/gettyimages-1152654511.jpg",
          "source" : {
             "id" : null,
             "name" : "Motley Fool"
          },
-         "urlToImage" : "https://g.foolcdn.com/editorial/images/591332/gettyimages-1152654511.jpg"
+         "publishedAt" : "2020-09-11T12:25:00Z"
       },
       {
+         "title" : "Rio Tinto CEO to leave company after destruction of sacred sites - NBC News",
          "author" : "The Associated Press",
          "publishedAt" : "2020-09-11T11:46:00Z",
          "urlToImage" : "https://media4.s-nbcnews.com/j/newscms/2020_37/3411364/200911-rio-tinto-mc-1149_ebc6f55c507d4766f5d7ed70db375910.nbcnews-fp-1200-630.JPG",
-         "content" : "Rio Tinto chief executive Jean-Sebastien Jacques will leave the Anglo-Australian mining giant by March over the destruction of Australian Indigenous sacred sites to access iron ore, the company said … [+2281 chars]",
-         "title" : "Rio Tinto CEO to leave company after destruction of sacred sites - NBC News",
          "source" : {
             "id" : "nbc-news",
             "name" : "NBC News"
          },
          "url" : "https://www.nbcnews.com/news/world/rio-tinto-ceo-leave-company-after-destruction-sacred-sites-n1239847",
-         "description" : "Rio Tinto chief executive Jean-Sebastien Jacques to leave company after destruction of sacred aboriginal sites in Juukan George in Western Australia"
+         "description" : "Rio Tinto chief executive Jean-Sebastien Jacques to leave company after destruction of sacred aboriginal sites in Juukan George in Western Australia",
+         "content" : "Rio Tinto chief executive Jean-Sebastien Jacques will leave the Anglo-Australian mining giant by March over the destruction of Australian Indigenous sacred sites to access iron ore, the company said … [+2281 chars]"
       },
       {
+         "content" : "Shares of Peloton Interactive Inc. \r\n PTON, \r\n +2.96%\r\nsoared 13.6% in premarket trading Friday, putting them on track to open in record territory, after the the at-home fitness company reported bett… [+1125 chars]",
          "description" : "",
          "url" : "https://www.marketwatch.com/story/pelotons-stock-soars-as-a-host-of-wall-street-analysts-boost-targets-after-first-quarterly-profit-2020-09-11",
          "source" : {
-            "name" : "MarketWatch",
-            "id" : null
+            "id" : null,
+            "name" : "MarketWatch"
          },
-         "content" : "Shares of Peloton Interactive Inc. \r\n PTON, \r\n +2.96%\r\nsoared 13.6% in premarket trading Friday, putting them on track to open in record territory, after the the at-home fitness company reported bett… [+1125 chars]",
-         "title" : "Peloton's stock soars as a host of Wall Street analysts boost targets after first quarterly profit - MarketWatch",
          "urlToImage" : "https://s.wsj.net/public/resources/MWimages/MW-GP644_MicroS_ZG_20180906154215.jpg",
          "publishedAt" : "2020-09-11T11:42:00Z",
-         "author" : "Tomi Kilgore"
+         "author" : "Tomi Kilgore",
+         "title" : "Peloton's stock soars as a host of Wall Street analysts boost targets after first quarterly profit - MarketWatch"
       },
       {
+         "urlToImage" : "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/09/11/2aa5f91e-f419-11ea-a6e4-441c407efa8e_image_hires_190502.jpg?itok=63xUjz5d&v=1599822316",
+         "source" : {
+            "id" : null,
+            "name" : "Post Magazine"
+         },
+         "publishedAt" : "2020-09-11T10:59:18Z",
          "description" : "Manufacturing and technology projects deemed critical to China’s economy are getting a boost under President Xi Jinping’s new ‘dual circulation’ strategy of self-reliance, as China looks to further insulate itself amid trade and tech wars with the United Stat…",
+         "content" : "Published: 6:59pm, 11 Sep, 2020\r\nUpdated: 7:05pm, 11 Sep, 2020",
          "url" : "https://www.scmp.com/economy/china-economy/article/3101218/china-pump-hundreds-billions-yuan-key-industry-projects-no",
          "title" : "China splashing out billions on key industry projects with unbound ambition - South China Morning Post",
-         "content" : "Published: 6:59pm, 11 Sep, 2020\r\nUpdated: 7:05pm, 11 Sep, 2020",
-         "source" : {
-            "name" : "Post Magazine",
-            "id" : null
-         },
-         "urlToImage" : "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/09/11/2aa5f91e-f419-11ea-a6e4-441c407efa8e_image_hires_190502.jpg?itok=63xUjz5d&v=1599822316",
-         "author" : null,
-         "publishedAt" : "2020-09-11T10:59:18Z"
+         "author" : null
       },
       {
          "urlToImage" : "https://images.mktw.net/im-231002/social",
-         "content" : "Thursday delivered the fourth ugly finish in five sessions, with the Nasdaq Composite \r\n COMP, \r\n +0.64%\r\nskidding 2%, and the other major indexes backtracking as well.Andrea Cicione, head of strateg… [+4082 chars]",
-         "title" : "The current sell-off may end up emboldening the bulls, if the last tech bubble is a guide - MarketWatch",
          "source" : {
             "name" : "MarketWatch",
             "id" : null
          },
-         "author" : "Steve Goldstein",
          "publishedAt" : "2020-09-11T10:48:00Z",
+         "content" : "Thursday delivered the fourth ugly finish in five sessions, with the Nasdaq Composite \r\n COMP, \r\n +0.64%\r\nskidding 2%, and the other major indexes backtracking as well.Andrea Cicione, head of strateg… [+4082 chars]",
          "description" : "Critical information for the U.S. trading day",
-         "url" : "https://www.marketwatch.com/story/the-current-sell-off-may-end-up-emboldening-the-bulls-if-the-last-tech-bubble-is-a-guide-11599821324"
+         "url" : "https://www.marketwatch.com/story/the-current-sell-off-may-end-up-emboldening-the-bulls-if-the-last-tech-bubble-is-a-guide-11599821324",
+         "title" : "The current sell-off may end up emboldening the bulls, if the last tech bubble is a guide - MarketWatch",
+         "author" : "Steve Goldstein"
       },
       {
+         "url" : "https://www.theverge.com/2020/9/11/21431962/public-citizen-amazon-price-gouging-coronavirus-covid-19-hand-sanitizer-masks-soap-toilet-paper",
+         "description" : "Amazon has been accused of price gouging on essential items like toilet paper and antibacterial soap in a new report. It analyzed products sold by third-party sellers as well as those listed as “sold by Amazon.”",
          "content" : "Items sold by Amazon reportedly increased in price by up to 1,000 percent\r\nIllustration by Alex Castro / The Verge\r\nAmazon has been accused of price gouging on essential items like toilet paper and a… [+3947 chars]",
-         "title" : "Amazon sold items at inflated prices during pandemic according to consumer watchdog - The Verge",
+         "publishedAt" : "2020-09-11T10:23:23Z",
          "source" : {
             "id" : "the-verge",
             "name" : "The Verge"
          },
          "urlToImage" : "https://cdn.vox-cdn.com/thumbor/ANbApt8_hpnu2eYB5cWXLfhac_g=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/13443461/acastro_181114_1777_amazon_hq2_0002.jpg",
          "author" : "Jon Porter",
-         "publishedAt" : "2020-09-11T10:23:23Z",
-         "description" : "Amazon has been accused of price gouging on essential items like toilet paper and antibacterial soap in a new report. It analyzed products sold by third-party sellers as well as those listed as “sold by Amazon.”",
-         "url" : "https://www.theverge.com/2020/9/11/21431962/public-citizen-amazon-price-gouging-coronavirus-covid-19-hand-sanitizer-masks-soap-toilet-paper"
+         "title" : "Amazon sold items at inflated prices during pandemic according to consumer watchdog - The Verge"
       },
       {
+         "author" : null,
+         "title" : "Tesla to export Model 3 made-in-China cars, something Elon Musk said they wouldn’t do - Electrek",
          "url" : "https://electrek.co/2020/09/11/tesla-export-model-3-made-in-china-cars/",
          "description" : "Tesla is preparing to export its made-in-China Model 3 cars to Europe and other markets, according to two new reports, despite Elon Musk saying that Tesla wasn’t going to do just that. When Tesla started building its Gigafactory in Shanghai, in an attempt to …",
-         "author" : null,
-         "publishedAt" : "2020-09-11T10:07:00Z",
-         "title" : "Tesla to export Model 3 made-in-China cars, something Elon Musk said they wouldn’t do - Electrek",
          "content" : "Tesla is preparing to export its made-in-China Model 3 cars to Europe and other markets, according to two new reports, despite Elon Musk saying that Tesla wasn’t going to do just that.\r\nWhen Tesla st… [+3447 chars]",
+         "publishedAt" : "2020-09-11T10:07:00Z",
+         "urlToImage" : "https://electrek.co/wp-content/uploads/sites/3/2020/02/Tesla-Model-3-Long-Range-RWD-china.jpg?quality=82&strip=all",
          "source" : {
-            "id" : null,
-            "name" : "Electrek"
-         },
-         "urlToImage" : "https://electrek.co/wp-content/uploads/sites/3/2020/02/Tesla-Model-3-Long-Range-RWD-china.jpg?quality=82&strip=all"
+            "name" : "Electrek",
+            "id" : null
+         }
       },
       {
-         "description" : "Tesla Inc (NASDAQ: TSLA)  CEO Elon Musk gave activist and fashion designer Monica Lewinsky some advice on choosing a car Thursday, when she ...",
-         "url" : "https://www.benzinga.com/news/20/09/17465905/monica-lewinsky-cant-decide-on-a-car-to-buy-and-elon-musk-has-the-answer",
          "urlToImage" : "https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/images/story/2012/dan-gold-karzusymfra-unsplash_0.jpg",
-         "title" : "Monica Lewinsky Can't Decide On A Car To Buy, And Elon Musk Has The Answer - Benzinga",
-         "content" : "Tesla Inc (NASDAQ: TSLA)  CEO Elon Musk gave activist and fashion designer Monica Lewinsky some advice on choosing a car Thursday, when she appeared undecided on whether to opt for an electric vehicl… [+1471 chars]",
          "source" : {
             "id" : null,
             "name" : "Benzinga"
          },
-         "author" : "Shivdeep Dhaliwal",
-         "publishedAt" : "2020-09-11T09:43:07Z"
+         "publishedAt" : "2020-09-11T09:43:07Z",
+         "content" : "Tesla Inc (NASDAQ: TSLA)  CEO Elon Musk gave activist and fashion designer Monica Lewinsky some advice on choosing a car Thursday, when she appeared undecided on whether to opt for an electric vehicl… [+1471 chars]",
+         "description" : "Tesla Inc (NASDAQ: TSLA)  CEO Elon Musk gave activist and fashion designer Monica Lewinsky some advice on choosing a car Thursday, when she ...",
+         "url" : "https://www.benzinga.com/news/20/09/17465905/monica-lewinsky-cant-decide-on-a-car-to-buy-and-elon-musk-has-the-answer",
+         "title" : "Monica Lewinsky Can't Decide On A Car To Buy, And Elon Musk Has The Answer - Benzinga",
+         "author" : "Shivdeep Dhaliwal"
       },
       {
-         "source" : {
-            "id" : "politico",
-            "name" : "Politico"
-         },
-         "title" : "Trump's first TikTok move: A China quagmire of his own making - POLITICO",
-         "content" : "Essentially, Trump has backed himself into a corner. His moves against TikTok are part of a broader tough-on-China push he has made a centerpiece of his reelection campaign, an outlet to deflect blam… [+9735 chars]",
-         "urlToImage" : "https://static.politico.com/5f/2e/ddf7147b4160941186e8b4153667/tiktok-ap-773.jpg",
-         "publishedAt" : "2020-09-11T08:30:00Z",
          "author" : "Meridith McGraw",
+         "title" : "Trump's first TikTok move: A China quagmire of his own making - POLITICO",
          "description" : "When the president has faced off with China, he often ends up in a jam. And the solution to the TikTok stalemate isn't clear.",
-         "url" : "https://www.politico.com/news/2020/09/11/trumps-tiktok-china-412053"
+         "content" : "Essentially, Trump has backed himself into a corner. His moves against TikTok are part of a broader tough-on-China push he has made a centerpiece of his reelection campaign, an outlet to deflect blam… [+9735 chars]",
+         "url" : "https://www.politico.com/news/2020/09/11/trumps-tiktok-china-412053",
+         "urlToImage" : "https://static.politico.com/5f/2e/ddf7147b4160941186e8b4153667/tiktok-ap-773.jpg",
+         "source" : {
+            "name" : "Politico",
+            "id" : "politico"
+         },
+         "publishedAt" : "2020-09-11T08:30:00Z"
       },
       {
+         "author" : "Sui-Lee Wee",
+         "title" : "From Asia to Africa, China Promotes Its Vaccines to Win Friends - The New York Times",
          "url" : "https://www.nytimes.com/2020/09/11/business/china-vaccine-diplomacy.html",
+         "content" : "The Foreign Ministry in Beijing has emphasized that China will not seek to establish a monopoly on vaccine supply. State news media reports have also rejected accusations that China is using vaccines… [+1121 chars]",
          "description" : "With pledges of a coronavirus vaccine, China is on a charm offensive to repair strained diplomatic ties and bolster engagement with other countries.",
          "publishedAt" : "2020-09-11T07:00:00Z",
-         "author" : "Sui-Lee Wee",
+         "urlToImage" : "https://static01.nyt.com/images/2020/09/11/world/00vaccine-diplomacy-print/00vaccine-diplomacy-1-facebookJumbo.jpg",
          "source" : {
             "id" : null,
             "name" : "New York Times"
-         },
-         "content" : "The Foreign Ministry in Beijing has emphasized that China will not seek to establish a monopoly on vaccine supply. State news media reports have also rejected accusations that China is using vaccines… [+1121 chars]",
-         "title" : "From Asia to Africa, China Promotes Its Vaccines to Win Friends - The New York Times",
-         "urlToImage" : "https://static01.nyt.com/images/2020/09/11/world/00vaccine-diplomacy-print/00vaccine-diplomacy-1-facebookJumbo.jpg"
+         }
       },
       {
          "author" : "Associated Press",
-         "publishedAt" : "2020-09-11T06:58:44Z",
-         "content" : "China has become a battleground for plant-based meat companies looking to tap into the world’s largest market for meat-consumption.\r\nAmerican plant-based meat company Impossible Foods Inc. said Thurs… [+4059 chars]",
          "title" : "China becoming battleground for plant-based meat makers - Fox Business",
+         "url" : "https://www.foxbusiness.com/markets/china-becoming-battleground-for-plant-based-meat-makers",
+         "description" : "Impossible Foods' products include plant-based beef, pork and sausage",
+         "content" : "China has become a battleground for plant-based meat companies looking to tap into the world’s largest market for meat-consumption.\r\nAmerican plant-based meat company Impossible Foods Inc. said Thurs… [+4059 chars]",
+         "publishedAt" : "2020-09-11T06:58:44Z",
          "source" : {
             "name" : "Fox Business",
             "id" : null
          },
-         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/08/0/0/impossible-foods-burger-AP.png?ve=1&tl=1",
-         "url" : "https://www.foxbusiness.com/markets/china-becoming-battleground-for-plant-based-meat-makers",
-         "description" : "Impossible Foods' products include plant-based beef, pork and sausage"
+         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/08/0/0/impossible-foods-burger-AP.png?ve=1&tl=1"
       },
       {
-         "description" : "The U.K. economy grew 6.6% in July on a monthly basis, according to initial estimates published Friday.",
-         "url" : "https://www.cnbc.com/2020/09/11/uk-economy-recovered-6point6percent-in-july.html",
-         "content" : "The U.K. economy grew 6.6% in July on a monthly basis, according to initial estimates published Friday, as the economy seeks to recover from the sharp downturn caused by coronavirus-induced lockdown … [+1688 chars]",
          "title" : "UK economy grew 6.6% in July as gradual recovery continues - CNBC",
-         "source" : {
-            "name" : "CNBC",
-            "id" : null
-         },
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106575421-1591961424651gettyimages-1206590116.jpeg?v=1591961630",
          "author" : "Elliot Smith",
-         "publishedAt" : "2020-09-11T06:07:00Z"
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106575421-1591961424651gettyimages-1206590116.jpeg?v=1591961630",
+         "source" : {
+            "id" : null,
+            "name" : "CNBC"
+         },
+         "publishedAt" : "2020-09-11T06:07:00Z",
+         "content" : "The U.K. economy grew 6.6% in July on a monthly basis, according to initial estimates published Friday, as the economy seeks to recover from the sharp downturn caused by coronavirus-induced lockdown … [+1688 chars]",
+         "description" : "The U.K. economy grew 6.6% in July on a monthly basis, according to initial estimates published Friday.",
+         "url" : "https://www.cnbc.com/2020/09/11/uk-economy-recovered-6point6percent-in-july.html"
       },
       {
-         "publishedAt" : "2020-09-11T05:30:07Z",
          "author" : null,
+         "title" : "Gold Forecast – Gold Pattern Supports A Breakdown Below $1900 - FX Empire",
+         "url" : "https://www.fxempire.com/forecasts/article/gold-forecast-gold-pattern-supports-a-breakdown-below-1900-671899",
+         "description" : "Our analysis remains on track for a 6-month low and subsequent buying opportunity by late September or early October.",
+         "content" : "-GOLD- Gold continues to grind out a B-wave triangle before its decline towards $1750 – $1800. Technically, prices could bounce a little higher to tag the upper triangle boundary near $1985, but it’s… [+140 chars]",
+         "publishedAt" : "2020-09-11T05:30:07Z",
          "source" : {
             "id" : null,
             "name" : "FX Empire"
          },
-         "content" : "-GOLD- Gold continues to grind out a B-wave triangle before its decline towards $1750 – $1800. Technically, prices could bounce a little higher to tag the upper triangle boundary near $1985, but it’s… [+140 chars]",
-         "title" : "Gold Forecast – Gold Pattern Supports A Breakdown Below $1900 - FX Empire",
-         "urlToImage" : "https://responsive.fxempire.com/width/600/webp-lossy-70.q50/_fxempire_/2020/07/Gold-_-Silver.jpg",
-         "url" : "https://www.fxempire.com/forecasts/article/gold-forecast-gold-pattern-supports-a-breakdown-below-1900-671899",
-         "description" : "Our analysis remains on track for a 6-month low and subsequent buying opportunity by late September or early October."
+         "urlToImage" : "https://responsive.fxempire.com/width/600/webp-lossy-70.q50/_fxempire_/2020/07/Gold-_-Silver.jpg"
       },
       {
-         "url" : "https://gizmodo.com/google-says-its-getting-rid-of-search-suggestions-about-1845021302",
+         "content" : "With the 2020 presidential election looming close on the horizon, Googles nixing autocomplete suggestions that could be interpreted as claims for or against any candidate or political party, the comp… [+2188 chars]",
          "description" : "With the 2020 presidential election looming close on the horizon, Google’s nixing autocomplete suggestions that “could be interpreted as claims for or against any candidate or political party,” the company said in a blog post Thursday.",
-         "publishedAt" : "2020-09-11T04:10:00Z",
-         "author" : "Alyse Stanley",
+         "url" : "https://gizmodo.com/google-says-its-getting-rid-of-search-suggestions-about-1845021302",
+         "urlToImage" : "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/v4hx8vdvkhleplbxiwzw.jpg",
          "source" : {
             "id" : null,
             "name" : "Gizmodo.com"
          },
-         "content" : "With the 2020 presidential election looming close on the horizon, Googles nixing autocomplete suggestions that could be interpreted as claims for or against any candidate or political party, the comp… [+2188 chars]",
-         "title" : "Google Says It's Getting Rid of Search Suggestions About Candidates and Voting - Gizmodo",
-         "urlToImage" : "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/v4hx8vdvkhleplbxiwzw.jpg"
+         "publishedAt" : "2020-09-11T04:10:00Z",
+         "author" : "Alyse Stanley",
+         "title" : "Google Says It's Getting Rid of Search Suggestions About Candidates and Voting - Gizmodo"
       },
       {
-         "url" : "https://www.kktv.com/2020/09/11/colorado-deals-with-widespread-fraud-in-unemployment-claims/",
-         "description" : "More than 75% of Colorado claims for a federal unemployment assistance program for self-employed workers and independent contractors since July 18 were determined to be fraudulent.",
-         "publishedAt" : "2020-09-11T02:55:00Z",
+         "title" : "Colorado deals with widespread fraud in unemployment claims - KKTV",
          "author" : "Associated Press",
          "urlToImage" : "https://gray-kktv-prod.cdn.arcpublishing.com/resizer/2fTGtpn50S7lsnGCiIZPtCh_vQ4=/980x0/smart/cloudfront-us-east-1.images.arcpublishing.com/gray/U47YWFLVDBBJ7LFDXEPRVQKBZI.jpg",
          "source" : {
             "id" : null,
             "name" : "KKTV 11 News"
          },
-         "title" : "Colorado deals with widespread fraud in unemployment claims - KKTV",
-         "content" : "DENVER (AP) - More than 75% of Colorado claims for a federal unemployment assistance program for self-employed workers and independent contractors since July 18 were determined to be fraudulent. \r\nSt… [+504 chars]"
+         "publishedAt" : "2020-09-11T02:55:00Z",
+         "content" : "DENVER (AP) - More than 75% of Colorado claims for a federal unemployment assistance program for self-employed workers and independent contractors since July 18 were determined to be fraudulent. \r\nSt… [+504 chars]",
+         "description" : "More than 75% of Colorado claims for a federal unemployment assistance program for self-employed workers and independent contractors since July 18 were determined to be fraudulent.",
+         "url" : "https://www.kktv.com/2020/09/11/colorado-deals-with-widespread-fraud-in-unemployment-claims/"
       },
       {
-         "url" : "https://www.foxbusiness.com/lifestyle/amc-to-open-theaters-in-some-orange-county-locations-while-tenet-is-set-to-play-at-la-drive-ins",
-         "description" : "Orange County, California announced earlier this week its new threshold allows for greater business openings.",
-         "publishedAt" : "2020-09-11T02:35:25Z",
-         "author" : "Julius Young",
-         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/08/0/0/AMC-tickets-istock.jpg?ve=1&tl=1",
-         "source" : {
-            "id" : null,
-            "name" : "Fox Business"
-         },
          "title" : "AMC to open theaters in some Orange County locations, while ‘Tenet’ is set to play at LA drive-ins - Fox Business",
-         "content" : "AMC Theaters is full steam ahead on reopening more locations after the company opened its venues in San Diego, Calif. and saw promising numbers for the summer blockbuster “Tenet,” according to report… [+3712 chars]"
+         "author" : "Julius Young",
+         "publishedAt" : "2020-09-11T02:35:25Z",
+         "source" : {
+            "name" : "Fox Business",
+            "id" : null
+         },
+         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/08/0/0/AMC-tickets-istock.jpg?ve=1&tl=1",
+         "url" : "https://www.foxbusiness.com/lifestyle/amc-to-open-theaters-in-some-orange-county-locations-while-tenet-is-set-to-play-at-la-drive-ins",
+         "content" : "AMC Theaters is full steam ahead on reopening more locations after the company opened its venues in San Diego, Calif. and saw promising numbers for the summer blockbuster “Tenet,” according to report… [+3712 chars]",
+         "description" : "Orange County, California announced earlier this week its new threshold allows for greater business openings."
       },
       {
-         "author" : "C Nivedita, Noor Zainab Hussain",
-         "publishedAt" : "2020-09-11T01:30:00Z",
-         "title" : "Citigroup's Fraser to be first woman CEO of Wall Street bank - Reuters",
+         "description" : "Citigroup Inc <C.N> named consumer banking head Jane Fraser as its next chief executive on Thursday, making her the first woman to lead a major Wall Street bank.",
          "content" : "(Reuters) - Citigroup Inc C.N named consumer banking head Jane Fraser as its next chief executive on Thursday, making her the first woman to lead a major Wall Street bank.\r\nFraser, 53, has been a ris… [+4278 chars]",
+         "url" : "https://www.reuters.com/article/uk-citigroup-ceo-idUKKBN2612B7",
          "source" : {
-            "name" : "Reuters",
-            "id" : "reuters"
+            "id" : "reuters",
+            "name" : "Reuters"
          },
          "urlToImage" : "https://static.reuters.com/resources/r/?m=02&d=20200911&t=2&i=1532986404&r=LYNXMPEG891B6&w=800",
-         "url" : "https://www.reuters.com/article/uk-citigroup-ceo-idUKKBN2612B7",
-         "description" : "Citigroup Inc <C.N> named consumer banking head Jane Fraser as its next chief executive on Thursday, making her the first woman to lead a major Wall Street bank."
+         "publishedAt" : "2020-09-11T01:30:00Z",
+         "author" : "C Nivedita, Noor Zainab Hussain",
+         "title" : "Citigroup's Fraser to be first woman CEO of Wall Street bank - Reuters"
       }
-   ]
+   ],
+   "status" : "ok"
 }
