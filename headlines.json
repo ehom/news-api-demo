@@ -1,155 +1,157 @@
 {
+   "totalResults" : 70,
+   "status" : "ok",
    "articles" : [
       {
-         "description" : "Just three days after reports about quality control lapses at a Boeing's Dreamliner plant in South Carolina comes word of a new problem with its flagship jet.",
-         "author" : "Reuters",
-         "title" : "Boeing in talks with FAA about Dreamliner structural issue - Fox Business",
          "content" : "Boeing Co said late on Thursday it was in discussions with U.S. safety regulators about a new manufacturing issue in its 787 Dreamliner that was found last year.\r\nFAA REVIEWS BOEING QUALITY CONTROL L… [+532 chars]",
-         "publishedAt" : "2020-09-11T01:14:28Z",
-         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/09/0/0/iStock-Boeing-787-.jpg?ve=1&tl=1",
+         "description" : "Just three days after reports about quality control lapses at a Boeing's Dreamliner plant in South Carolina comes word of a new problem with its flagship jet.",
+         "title" : "Boeing in talks with FAA about Dreamliner structural issue - Fox Business",
          "source" : {
-            "id" : null,
-            "name" : "Fox Business"
+            "name" : "Fox Business",
+            "id" : null
          },
-         "url" : "https://www.foxbusiness.com/industrials/boeing-in-talks-with-faa-about-dreamliner-structural-issue"
+         "url" : "https://www.foxbusiness.com/industrials/boeing-in-talks-with-faa-about-dreamliner-structural-issue",
+         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/09/0/0/iStock-Boeing-787-.jpg?ve=1&tl=1",
+         "publishedAt" : "2020-09-11T01:14:28Z",
+         "author" : "Reuters"
       },
       {
-         "description" : "Jean-Sebastien Jacques and other senior executives will step down after the miner blew up sacred sites.",
-         "author" : "https://www.facebook.com/bbcnews",
-         "title" : "Rio Tinto chief Jean-Sebastien Jacques to quit over Aboriginal cave destruction - BBC News",
-         "publishedAt" : "2020-09-11T00:49:00Z",
-         "content" : null,
-         "urlToImage" : "https://ichef.bbci.co.uk/news/1024/branded_news/6CA9/production/_112571872_mediaitem112571871.jpg",
          "url" : "https://www.bbc.com/news/world-australia-54112991",
+         "title" : "Rio Tinto chief Jean-Sebastien Jacques to quit over Aboriginal cave destruction - BBC News",
+         "description" : "Jean-Sebastien Jacques and other senior executives will step down after the miner blew up sacred sites.",
+         "content" : null,
          "source" : {
             "id" : null,
             "name" : "BBC News"
-         }
+         },
+         "author" : "https://www.facebook.com/bbcnews",
+         "publishedAt" : "2020-09-11T00:49:00Z",
+         "urlToImage" : "https://ichef.bbci.co.uk/news/1024/branded_news/6CA9/production/_112571872_mediaitem112571871.jpg"
       },
       {
-         "urlToImage" : "https://thehill.com/sites/default/files/coronavirus_smithfield_sd_042020getty_food-plants.jpg",
-         "content" : "The Occupational Safety and Health Administration (OSHA) has cited pork producer Smithfield Foods for failing to protect workers from coronavirus exposure, the agency announced Thursday. \r\nIt propose… [+3871 chars]",
          "publishedAt" : "2020-09-11T00:44:18Z",
+         "urlToImage" : "https://thehill.com/sites/default/files/coronavirus_smithfield_sd_042020getty_food-plants.jpg",
+         "author" : "Alex Gangitano",
          "source" : {
             "id" : "the-hill",
             "name" : "The Hill"
          },
-         "url" : "https://thehill.com/regulation/labor/515967-trump-administration-issues-first-covid-19-fine-to-smithfield-for-failing-to",
-         "description" : "The Occupational Safety and Health Administration (OSHA) has cited pork producer Smithfield Foods for failing to protect workers from coronavirus exposure, the agency announced on Thursday.",
          "title" : "Trump administration issues first COVID-19 fine to Smithfield for failing to protect workers | TheHill - The Hill",
-         "author" : "Alex Gangitano"
+         "description" : "The Occupational Safety and Health Administration (OSHA) has cited pork producer Smithfield Foods for failing to protect workers from coronavirus exposure, the agency announced on Thursday.",
+         "content" : "The Occupational Safety and Health Administration (OSHA) has cited pork producer Smithfield Foods for failing to protect workers from coronavirus exposure, the agency announced Thursday. \r\nIt propose… [+3871 chars]",
+         "url" : "https://thehill.com/regulation/labor/515967-trump-administration-issues-first-covid-19-fine-to-smithfield-for-failing-to"
       },
       {
-         "description" : "CNN's Brian Stelter reports how Fox News is covering journalist Bob Woodward's audio recordings of President Donald Trump calling coronavirus \"deadly\" and saying he downplays it to avoid a panic.",
-         "author" : null,
-         "title" : "How Fox News covered the Woodward recordings of Trump - CNN",
-         "content" : "Chat with us in Facebook Messenger. Find out what's happening in the world as it unfolds.",
-         "publishedAt" : "2020-09-11T00:04:41Z",
-         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200905102123-01-fox-news-file-super-tease.jpg",
-         "source" : {
-            "name" : "CNN",
-            "id" : "cnn"
-         },
-         "url" : "https://www.cnn.com/videos/media/2020/09/11/donald-trump-fox-news-bob-woodward-stelter-dnt-ebof-vpx.cnn"
-      },
-      {
-         "title" : "Trump says he won't extend deadline for US TikTok sale - CNN",
-         "author" : "Paul LeBlanc, CNN",
-         "description" : "President Donald Trump said Thursday he will not extend the fast-approaching September 20 deadline he set for ByteDance, the Chinese-owned parent company of Tiktok, to sell the popular app or have it be banned.",
-         "url" : "https://www.cnn.com/2020/09/10/politics/trump-tiktok-extension-executive-order/index.html",
          "source" : {
             "id" : "cnn",
             "name" : "CNN"
          },
+         "content" : "Chat with us in Facebook Messenger. Find out what's happening in the world as it unfolds.",
+         "title" : "How Fox News covered the Woodward recordings of Trump - CNN",
+         "description" : "CNN's Brian Stelter reports how Fox News is covering journalist Bob Woodward's audio recordings of President Donald Trump calling coronavirus \"deadly\" and saying he downplays it to avoid a panic.",
+         "url" : "https://www.cnn.com/videos/media/2020/09/11/donald-trump-fox-news-bob-woodward-stelter-dnt-ebof-vpx.cnn",
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200905102123-01-fox-news-file-super-tease.jpg",
+         "publishedAt" : "2020-09-11T00:04:41Z",
+         "author" : null
+      },
+      {
+         "author" : "Paul LeBlanc, CNN",
          "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200910100552-02-trump-wh-0907-super-tease.jpg",
          "publishedAt" : "2020-09-10T23:39:00Z",
-         "content" : "(CNN)President Donald Trump said Thursday he will not extend the fast-approaching September 20 deadline he set for ByteDance, the Chinese-owned parent company of Tiktok, to sell the popular app or ha… [+2463 chars]"
+         "url" : "https://www.cnn.com/2020/09/10/politics/trump-tiktok-extension-executive-order/index.html",
+         "content" : "(CNN)President Donald Trump said Thursday he will not extend the fast-approaching September 20 deadline he set for ByteDance, the Chinese-owned parent company of Tiktok, to sell the popular app or ha… [+2463 chars]",
+         "title" : "Trump says he won't extend deadline for US TikTok sale - CNN",
+         "description" : "President Donald Trump said Thursday he will not extend the fast-approaching September 20 deadline he set for ByteDance, the Chinese-owned parent company of Tiktok, to sell the popular app or have it be banned.",
+         "source" : {
+            "name" : "CNN",
+            "id" : "cnn"
+         }
       },
       {
-         "title" : "Nikola Motor labeled “an intricate fraud” by Hindenburg Research - Teslarati",
          "author" : "Joey Klender",
-         "description" : "Nikola Motor is under fire after an analyst firm called Hindenburg Research labeled the automaker as “an intricate fraud built on dozens of lies.” Hindenberg said that had “gathered extensive evidence – including recorded phone calls, text messages, private e…",
-         "source" : {
-            "name" : "Teslarati",
-            "id" : null
-         },
-         "url" : "https://www.teslarati.com/nikola-motor-hindenburg-research/",
          "urlToImage" : "https://www.teslarati.com/wp-content/uploads/2019/04/nikola-world-1aa-1024x500.jpg",
-         "content" : "Nikola Motor is under fire after an analyst firm called Hindenburg Research labeled the automaker as “an intricate fraud built on dozens of lies.”\r\nHindenberg said that had “gathered extensive eviden… [+3175 chars]",
-         "publishedAt" : "2020-09-10T23:31:35Z"
-      },
-      {
-         "author" : "Jeffery Martin",
-         "title" : "As Monica Lewinsky Considers Buying a Tesla, Elon Musk Gives Her an Offer She Can't Refuse - Newsweek",
-         "description" : "\"Can't decide between a Subaru or a Tesla,\" tweeted Monica Lewinsky on Thursday, prompting a response from Tesla founder Elon Musk.",
-         "url" : "https://www.newsweek.com/monica-lewinsky-considers-buying-tesla-elon-musk-gives-her-offer-she-cant-refuse-1531159",
-         "source" : {
-            "name" : "Newsweek",
-            "id" : "newsweek"
-         },
-         "publishedAt" : "2020-09-10T23:29:28Z",
-         "content" : "Subaru or Tesla? When activist Monica Lewinsky tweeted Thursday that she couldn't decide which automobile to purchase, Tesla co-founder Elon Musk responded by offering Lewinsky a sweet deal.\r\nThe sho… [+3105 chars]",
-         "urlToImage" : "https://d.newsweek.com/en/full/1635255/elon-musk.jpg"
-      },
-      {
-         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/09/0/0/Coffee_Brownie1.jpg?ve=1&tl=1",
-         "publishedAt" : "2020-09-10T23:14:29Z",
-         "content" : "Chick-fil-A’s about to get some new treats on the menu.\r\nThe popular fast food chain announced Thursday that it would be adding chocolate fudge brownies, a mocha cream cold brew and a new hot coffee … [+1348 chars]",
-         "url" : "https://www.foxbusiness.com/lifestyle/chick-fil-a-adds-brownies-coffee-drinks-menu",
+         "publishedAt" : "2020-09-10T23:31:35Z",
+         "url" : "https://www.teslarati.com/nikola-motor-hindenburg-research/",
          "source" : {
             "id" : null,
-            "name" : "Fox Business"
+            "name" : "Teslarati"
          },
-         "description" : "Chick-fil-A announced three new menu items on Thursday.",
-         "title" : "Chick-fil-A adds brownies, coffee drinks to its menu - Fox Business",
-         "author" : "Ann Schmidt"
+         "content" : "Nikola Motor is under fire after an analyst firm called Hindenburg Research labeled the automaker as “an intricate fraud built on dozens of lies.”\r\nHindenberg said that had “gathered extensive eviden… [+3175 chars]",
+         "description" : "Nikola Motor is under fire after an analyst firm called Hindenburg Research labeled the automaker as “an intricate fraud built on dozens of lies.” Hindenberg said that had “gathered extensive evidence – including recorded phone calls, text messages, private e…",
+         "title" : "Nikola Motor labeled “an intricate fraud” by Hindenburg Research - Teslarati"
       },
       {
-         "urlToImage" : "https://www.wwlp.com/wp-content/uploads/sites/26/2020/01/Logan-Airport-generic-1-nbc-boston.jpg?w=1280",
+         "url" : "https://www.newsweek.com/monica-lewinsky-considers-buying-tesla-elon-musk-gives-her-offer-she-cant-refuse-1531159",
+         "content" : "Subaru or Tesla? When activist Monica Lewinsky tweeted Thursday that she couldn't decide which automobile to purchase, Tesla co-founder Elon Musk responded by offering Lewinsky a sweet deal.\r\nThe sho… [+3105 chars]",
+         "description" : "\"Can't decide between a Subaru or a Tesla,\" tweeted Monica Lewinsky on Thursday, prompting a response from Tesla founder Elon Musk.",
+         "title" : "As Monica Lewinsky Considers Buying a Tesla, Elon Musk Gives Her an Offer She Can't Refuse - Newsweek",
+         "source" : {
+            "id" : "newsweek",
+            "name" : "Newsweek"
+         },
+         "author" : "Jeffery Martin",
+         "urlToImage" : "https://d.newsweek.com/en/full/1635255/elon-musk.jpg",
+         "publishedAt" : "2020-09-10T23:29:28Z"
+      },
+      {
+         "author" : "Ann Schmidt",
+         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/09/0/0/Coffee_Brownie1.jpg?ve=1&tl=1",
+         "publishedAt" : "2020-09-10T23:14:29Z",
+         "url" : "https://www.foxbusiness.com/lifestyle/chick-fil-a-adds-brownies-coffee-drinks-menu",
+         "source" : {
+            "name" : "Fox Business",
+            "id" : null
+         },
+         "content" : "Chick-fil-A’s about to get some new treats on the menu.\r\nThe popular fast food chain announced Thursday that it would be adding chocolate fudge brownies, a mocha cream cold brew and a new hot coffee … [+1348 chars]",
+         "title" : "Chick-fil-A adds brownies, coffee drinks to its menu - Fox Business",
+         "description" : "Chick-fil-A announced three new menu items on Thursday."
+      },
+      {
+         "title" : "JetBlue flight from Boston’s Logan Airport to LAX returns an hour after take-off - WWLP.com",
+         "description" : "A JetBlue flight from Boston’s Logan International Airport to Los Angeles safely returned an hour after takeoff Tuesday due to issues with the airplane’s hydraulic system.",
          "content" : "BOSTON (WWLP) – A JetBlue flight from Bostons Logan International Airport to Los Angeles safely returned an hour after takeoff late Thurssday afternoon due to issues with the airplanes hydraulic syst… [+504 chars]",
-         "publishedAt" : "2020-09-10T22:49:00Z",
          "source" : {
             "id" : null,
             "name" : "WWLP.com"
          },
          "url" : "https://www.wwlp.com/news/massachusetts/jetblue-flight-from-bostons-logan-airport-to-lax-returns-an-hour-after-take-off/",
-         "description" : "A JetBlue flight from Boston’s Logan International Airport to Los Angeles safely returned an hour after takeoff Tuesday due to issues with the airplane’s hydraulic system.",
-         "title" : "JetBlue flight from Boston’s Logan Airport to LAX returns an hour after take-off - WWLP.com",
+         "publishedAt" : "2020-09-10T22:49:00Z",
+         "urlToImage" : "https://www.wwlp.com/wp-content/uploads/sites/26/2020/01/Logan-Airport-generic-1-nbc-boston.jpg?w=1280",
          "author" : "Nancy Asiamah"
       },
       {
-         "publishedAt" : "2020-09-10T22:32:29Z",
+         "description" : "The exercise bike firm's revenues jumped 172% amid gym closures due to the pandemic.",
+         "title" : "Peloton sales surge as virus boosts home workouts - BBC News",
          "content" : "Image copyrightGetty Images\r\nPeloton, which won an early celebrity fanbase for its exercise bikes and remote workout classes, has seen demand surge during the pandemic.\r\nThe firm's global membership … [+1859 chars]",
-         "urlToImage" : "https://ichef.bbci.co.uk/news/1024/branded_news/D6CF/production/_114319945_gettyimages-1217255156.jpg",
-         "url" : "https://www.bbc.com/news/business-54112461",
          "source" : {
             "id" : null,
             "name" : "BBC News"
          },
-         "description" : "The exercise bike firm's revenues jumped 172% amid gym closures due to the pandemic.",
-         "author" : "https://www.facebook.com/bbcnews",
-         "title" : "Peloton sales surge as virus boosts home workouts - BBC News"
+         "url" : "https://www.bbc.com/news/business-54112461",
+         "publishedAt" : "2020-09-10T22:32:29Z",
+         "urlToImage" : "https://ichef.bbci.co.uk/news/1024/branded_news/D6CF/production/_114319945_gettyimages-1217255156.jpg",
+         "author" : "https://www.facebook.com/bbcnews"
       },
       {
+         "url" : "https://www.engadget.com/amazon-basics-products-could-be-fire-safety-risk-214942687.html",
          "source" : {
             "id" : "engadget",
             "name" : "Engadget"
          },
-         "url" : "https://www.engadget.com/amazon-basics-products-could-be-fire-safety-risk-214942687.html",
-         "urlToImage" : "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2019-08%2Ffe58aaf0-c1a1-11e9-bf7f-2209a4c633e5&client=amp-blogside-v2&signature=ac1ffc24609367e85536b5c2421dd6e621712ce8",
-         "content" : "The affected products include USB charging cables, battery chargers, office equipment and other inexpensive accessories. One particularly problematic product, according to CNN, was a voice-enabled mi… [+1062 chars]",
-         "publishedAt" : "2020-09-10T22:24:17Z",
          "title" : "Dozens of AmazonBasics products could pose a safety risk, report says - Engadget",
+         "description" : "It might be a good idea to carefully read the reviews before you buy another Amazon Basics product.",
+         "content" : "The affected products include USB charging cables, battery chargers, office equipment and other inexpensive accessories. One particularly problematic product, according to CNN, was a voice-enabled mi… [+1062 chars]",
          "author" : "",
-         "description" : "It might be a good idea to carefully read the reviews before you buy another Amazon Basics product."
+         "publishedAt" : "2020-09-10T22:24:17Z",
+         "urlToImage" : "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2019-08%2Ffe58aaf0-c1a1-11e9-bf7f-2209a4c633e5&client=amp-blogside-v2&signature=ac1ffc24609367e85536b5c2421dd6e621712ce8"
       },
       {
-         "description" : "More worries in the oil patch, and investors turning back to selling Big Tech has stocks swinging wildly again.",
-         "author" : "Jason Hall",
-         "title" : "S&P 500 Drops 60 Points on Volatile Day: Oil Stocks Fall Sharply, Apple Leads Tech Stocks Down Again - Motley Fool",
-         "content" : "The S&amp;P 500 Index (SNPINDEX:^SPX) has been doing its best yo-yo impression over the past week. Today's close was almost 1.8% lower, giving up almost 60 points after gaining 67 points, or 2%, yest… [+5711 chars]",
          "publishedAt" : "2020-09-10T22:21:40Z",
          "urlToImage" : "https://g.foolcdn.com/editorial/images/591328/arrows-up-and-down.jpg",
+         "author" : "Jason Hall",
+         "title" : "S&P 500 Drops 60 Points on Volatile Day: Oil Stocks Fall Sharply, Apple Leads Tech Stocks Down Again - Motley Fool",
+         "description" : "More worries in the oil patch, and investors turning back to selling Big Tech has stocks swinging wildly again.",
+         "content" : "The S&amp;P 500 Index (SNPINDEX:^SPX) has been doing its best yo-yo impression over the past week. Today's close was almost 1.8% lower, giving up almost 60 points after gaining 67 points, or 2%, yest… [+5711 chars]",
          "source" : {
             "id" : null,
             "name" : "Motley Fool"
@@ -158,109 +160,107 @@
       },
       {
          "source" : {
-            "id" : null,
-            "name" : "New York Times"
+            "name" : "New York Times",
+            "id" : null
          },
+         "content" : "Perpetrators are often using stolen identity information from national and global data breaches, as well as exploiting expedited payment efforts, she said.\r\nIn August, 21 current and former inmates o… [+1050 chars]",
+         "description" : "Filings for benefits reflect continued layoffs and a sluggish recovery. “The numbers are going in the wrong direction,” one economist said.",
+         "title" : "Unemployment Claims Send Another Worrisome Note - The New York Times",
          "url" : "https://www.nytimes.com/2020/09/10/business/economy/unemployment-claims.html",
          "urlToImage" : "https://static01.nyt.com/images/2020/09/04/business/10virus-jobless1/00office-space4b-facebookJumbo.jpg",
-         "content" : "Perpetrators are often using stolen identity information from national and global data breaches, as well as exploiting expedited payment efforts, she said.\r\nIn August, 21 current and former inmates o… [+1050 chars]",
          "publishedAt" : "2020-09-10T22:16:00Z",
-         "title" : "Unemployment Claims Send Another Worrisome Note - The New York Times",
-         "author" : "Nelson D. Schwartz, Gillian Friedman",
-         "description" : "Filings for benefits reflect continued layoffs and a sluggish recovery. “The numbers are going in the wrong direction,” one economist said."
+         "author" : "Nelson D. Schwartz, Gillian Friedman"
       },
       {
+         "author" : "Rachel Treisman",
+         "publishedAt" : "2020-09-10T22:10:37Z",
+         "urlToImage" : "https://media.npr.org/assets/img/2020/09/10/gettyimages-1271794319_wide-b4a4d911549b0f224dfe5b0d5833d888885b9f96.jpg?s=1400",
+         "url" : "https://www.npr.org/sections/coronavirus-live-updates/2020/09/10/911670617/new-york-city-public-transit-riders-who-dont-mask-up-will-face-fines-starting-mo",
          "source" : {
             "id" : null,
             "name" : "NPR"
          },
-         "url" : "https://www.npr.org/sections/coronavirus-live-updates/2020/09/10/911670617/new-york-city-public-transit-riders-who-dont-mask-up-will-face-fines-starting-mo",
-         "content" : "New York City public transit passengers who refuse to wear masks will be fined $50 starting Sept. 14.\r\nSpencer Platt/Getty Images\r\nStarting Monday, New Yorkers who refuse to wear a mask on public tra… [+3054 chars]",
-         "publishedAt" : "2020-09-10T22:10:37Z",
-         "urlToImage" : "https://media.npr.org/assets/img/2020/09/10/gettyimages-1271794319_wide-b4a4d911549b0f224dfe5b0d5833d888885b9f96.jpg?s=1400",
-         "author" : "Rachel Treisman",
+         "description" : "Riders are already required to wear face coverings on subways, buses and railroads. Officials hope the new penalty will improve compliance and bring hesitant would-be passengers back on board.",
          "title" : "New York City Public Transit Riders Who Don't Mask Up Will Face Fines Starting Monday - NPR",
-         "description" : "Riders are already required to wear face coverings on subways, buses and railroads. Officials hope the new penalty will improve compliance and bring hesitant would-be passengers back on board."
+         "content" : "New York City public transit passengers who refuse to wear masks will be fined $50 starting Sept. 14.\r\nSpencer Platt/Getty Images\r\nStarting Monday, New Yorkers who refuse to wear a mask on public tra… [+3054 chars]"
       },
       {
-         "urlToImage" : "https://www.teslarati.com/wp-content/uploads/2020/04/tesla-cybertruck-factory.jpg",
-         "publishedAt" : "2020-09-10T22:08:02Z",
-         "content" : "Lucid hosted an impressive unveiling event of the Air on September 9th, showing the vehicle’s four different configurations and the remarkable performance specifications of the Dream Edition. With 51… [+3250 chars]",
-         "url" : "https://www.teslarati.com/tesla-cybertruck-lucid-air-perfect-answer/",
          "source" : {
             "id" : null,
             "name" : "Teslarati"
          },
-         "description" : "Lucid hosted an impressive unveiling event of the Air on September 9th, showing the vehicle’s four different configurations and the remarkable performance specifications of the Dream Edition. With 517 miles of range and some of the fastest acceleration rates …",
+         "content" : "Lucid hosted an impressive unveiling event of the Air on September 9th, showing the vehicle’s four different configurations and the remarkable performance specifications of the Dream Edition. With 51… [+3250 chars]",
          "title" : "The Cybertruck is Tesla’s perfect answer to the Lucid Air - Teslarati",
+         "description" : "Lucid hosted an impressive unveiling event of the Air on September 9th, showing the vehicle’s four different configurations and the remarkable performance specifications of the Dream Edition. With 517 miles of range and some of the fastest acceleration rates …",
+         "url" : "https://www.teslarati.com/tesla-cybertruck-lucid-air-perfect-answer/",
+         "urlToImage" : "https://www.teslarati.com/wp-content/uploads/2020/04/tesla-cybertruck-factory.jpg",
+         "publishedAt" : "2020-09-10T22:08:02Z",
          "author" : "Joey Klender"
       },
       {
+         "author" : "Sean Hollister",
+         "urlToImage" : "https://cdn.vox-cdn.com/thumbor/zecX0cPldoJGxd8xivCIx07sXlA=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/10745895/acastro_180427_1777_0001.jpg",
+         "publishedAt" : "2020-09-10T22:06:19Z",
+         "url" : "https://www.theverge.com/2020/9/10/21431214/google-search-autocomplete-suggestion-policy-change-2020-election",
+         "content" : "Will it police them itself?\r\nIllustration by Alex Castro / The Verge\r\nGoogle has sometimes gotten in trouble for the phrases that automatically appear when youre trying to type in a new search. Even … [+2277 chars]",
+         "description" : "In the buildup to the 2020 US presidential election, Google is changing its autocomplete policies to theoretically weed out one particular category of suggestion: “Election related predictions” that could be interpreted as favoring a particular candidate or p…",
+         "title" : "Google promises to remove search suggestions that might seem political — even if they’re true - The Verge",
          "source" : {
             "id" : "the-verge",
             "name" : "The Verge"
-         },
-         "url" : "https://www.theverge.com/2020/9/10/21431214/google-search-autocomplete-suggestion-policy-change-2020-election",
-         "content" : "Will it police them itself?\r\nIllustration by Alex Castro / The Verge\r\nGoogle has sometimes gotten in trouble for the phrases that automatically appear when youre trying to type in a new search. Even … [+2277 chars]",
-         "publishedAt" : "2020-09-10T22:06:19Z",
-         "urlToImage" : "https://cdn.vox-cdn.com/thumbor/zecX0cPldoJGxd8xivCIx07sXlA=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/10745895/acastro_180427_1777_0001.jpg",
-         "author" : "Sean Hollister",
-         "title" : "Google promises to remove search suggestions that might seem political — even if they’re true - The Verge",
-         "description" : "In the buildup to the 2020 US presidential election, Google is changing its autocomplete policies to theoretically weed out one particular category of suggestion: “Election related predictions” that could be interpreted as favoring a particular candidate or p…"
+         }
       },
       {
+         "publishedAt" : "2020-09-10T22:00:29Z",
+         "urlToImage" : "https://static.foxnews.com/foxnews.com/content/uploads/2018/11/WestJet-iStock.jpg",
          "author" : "James Leggate",
+         "source" : {
+            "name" : "Fox News",
+            "id" : "fox-news"
+         },
          "title" : "Fight on Canadian plane over child refusing to wear mask cancels flight - Fox News",
          "description" : "Canadian airline WestJet said it had to cancel the flight early Tuesday because two parents on the plane refused to put a mask on their 3-year-old child, according to a report.",
-         "url" : "https://www.foxnews.com/travel/fight-canadian-plane-child-refusing-mask-flight",
-         "source" : {
-            "id" : "fox-news",
-            "name" : "Fox News"
-         },
-         "publishedAt" : "2020-09-10T22:00:29Z",
          "content" : "A flight from Calgary to Toronto was canceled this week after a dispute over an unmasked child.\r\nCanadian airline WestJet said it had to cancel the flight early Tuesday because two parents on the pla… [+2627 chars]",
-         "urlToImage" : "https://static.foxnews.com/foxnews.com/content/uploads/2018/11/WestJet-iStock.jpg"
+         "url" : "https://www.foxnews.com/travel/fight-canadian-plane-child-refusing-mask-flight"
       },
       {
-         "publishedAt" : "2020-09-10T21:38:33Z",
-         "content" : "It was Sarah's first day of work at F-Factor, and she packed a homemade lunch of whole-wheat pasta and turkey meatballs.\r\n\"I thought I was being really responsible,\" Sarah, a dietitian, told Insider.… [+16452 chars]",
-         "urlToImage" : "https://i.insider.com/5f58d8a07ed0ee001e25e24e?width=1200&format=jpeg",
          "url" : "https://www.businessinsider.com/past-f-factor-employees-speak-about-workplace-pressure-to-restrict-eating-2020-9",
-         "source" : {
-            "name" : "Business Insider",
-            "id" : "business-insider"
-         },
+         "title" : "Former employees of Tanya Zuckerbrot's popular F-Factor diet say she fat-shamed colleagues and policed their eating, causing terrified staffers to snack in secret - Business Insider",
          "description" : "Ex-employees said they hid food from their boss, Tanya Zuckerbrot, and were subject to jokes and stringent clothing guidelines meant to show off their bodies.",
+         "content" : "It was Sarah's first day of work at F-Factor, and she packed a homemade lunch of whole-wheat pasta and turkey meatballs.\r\n\"I thought I was being really responsible,\" Sarah, a dietitian, told Insider.… [+16452 chars]",
+         "source" : {
+            "id" : "business-insider",
+            "name" : "Business Insider"
+         },
          "author" : "Dana Schuster",
-         "title" : "Former employees of Tanya Zuckerbrot's popular F-Factor diet say she fat-shamed colleagues and policed their eating, causing terrified staffers to snack in secret - Business Insider"
+         "publishedAt" : "2020-09-10T21:38:33Z",
+         "urlToImage" : "https://i.insider.com/5f58d8a07ed0ee001e25e24e?width=1200&format=jpeg"
       },
       {
-         "author" : "Kevin Stankiewicz",
-         "title" : "Sandy Weill says Citi has 'an unbelievable opportunity' to grow with Jane Fraser as next CEO - CNBC",
-         "description" : "\"She also knows a lot about how to run the businesses hands on and she has empathy for people,\" former Citigroup CEO Sandy Weill told CNBC.",
          "url" : "https://www.cnbc.com/2020/09/10/sandy-weill-on-citigroups-decision-to-name-jane-fraser-its-next-ceo.html",
          "source" : {
             "id" : null,
             "name" : "CNBC"
          },
-         "publishedAt" : "2020-09-10T21:35:00Z",
+         "description" : "\"She also knows a lot about how to run the businesses hands on and she has empathy for people,\" former Citigroup CEO Sandy Weill told CNBC.",
+         "title" : "Sandy Weill says Citi has 'an unbelievable opportunity' to grow with Jane Fraser as next CEO - CNBC",
          "content" : "Former Citigroup CEO Sandy Weill told CNBC on Thursday that he was bullish about the bank's future after it tapped Jane Fraser to be its next top executive, calling her a \"natural leader\" who can bri… [+2345 chars]",
+         "author" : "Kevin Stankiewicz",
+         "publishedAt" : "2020-09-10T21:35:00Z",
          "urlToImage" : "https://image.cnbcfm.com/api/v1/image/101628016-20140430-6964-617.jpg?v=1584566083"
       },
       {
-         "author" : "WXII12.com Web Staff",
-         "title" : "New North Carolina CVS drive-thru testing sites opening, minimum testing age lowered to 12 - WXII12 Winston-Salem",
-         "description" : "CVS Health announced Thursday morning that 31 new testing sites are launching Friday and the testing age at the centers is being lowered to 12 years of age or older.",
-         "source" : {
-            "name" : "WXII12 Winston-Salem",
-            "id" : null
-         },
-         "url" : "https://www.wxii12.com/article/coronavirus-cvs-drive-thru-testing-sites-opening-age/33983670",
-         "content" : "WINSTON-SALEM, N.C. —CVS Health announced Thursday morning that 31 new testing sites are launching Friday and the testing age at the centers is being lowered to 12 years of age or older.\r\nWith school… [+1200 chars]",
          "publishedAt" : "2020-09-10T21:28:00Z",
-         "urlToImage" : "https://kubrick.htvapps.com/htv-prod/ibmig/cms/image/wxii/24302072-24302072.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*"
+         "urlToImage" : "https://kubrick.htvapps.com/htv-prod/ibmig/cms/image/wxii/24302072-24302072.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
+         "author" : "WXII12.com Web Staff",
+         "source" : {
+            "id" : null,
+            "name" : "WXII12 Winston-Salem"
+         },
+         "description" : "CVS Health announced Thursday morning that 31 new testing sites are launching Friday and the testing age at the centers is being lowered to 12 years of age or older.",
+         "title" : "New North Carolina CVS drive-thru testing sites opening, minimum testing age lowered to 12 - WXII12 Winston-Salem",
+         "content" : "WINSTON-SALEM, N.C. —CVS Health announced Thursday morning that 31 new testing sites are launching Friday and the testing age at the centers is being lowered to 12 years of age or older.\r\nWith school… [+1200 chars]",
+         "url" : "https://www.wxii12.com/article/coronavirus-cvs-drive-thru-testing-sites-opening-age/33983670"
       }
-   ],
-   "totalResults" : 70,
-   "status" : "ok"
+   ]
 }
