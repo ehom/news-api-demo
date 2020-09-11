@@ -1,266 +1,266 @@
 {
+   "totalResults" : 70,
    "articles" : [
       {
+         "url" : "https://www.marketwatch.com/story/its-a-five-alarm-fire-a-100-year-fiscal-tsunami-2020-09-11",
+         "description" : "N.Y. Transit boss tells subway riders: It’s safe. Come back.",
          "source" : {
             "id" : null,
             "name" : "MarketWatch"
          },
-         "description" : "N.Y. Transit boss tells subway riders: It’s safe. Come back.",
-         "content" : "As fall descends on their virus-weary city, New Yorkers have some fresh reasons for optimism.More people are out on the sidewalks. Gyms are open again. Though Broadways still dark and Manhattan CEOs … [+4875 chars]",
-         "publishedAt" : "2020-09-11T20:02:00Z",
-         "url" : "https://www.marketwatch.com/story/its-a-five-alarm-fire-a-100-year-fiscal-tsunami-2020-09-11",
-         "author" : "Ellis Henican",
          "urlToImage" : "https://s.marketwatch.com/public/resources/images/MW-IO370_city_N_ZG_20200911154327.jpg",
-         "title" : "‘It’s a five-alarm fire, a 100-year fiscal tsunami’ - MarketWatch"
+         "author" : "Ellis Henican",
+         "title" : "‘It’s a five-alarm fire, a 100-year fiscal tsunami’ - MarketWatch",
+         "content" : "As fall descends on their virus-weary city, New Yorkers have some fresh reasons for optimism.More people are out on the sidewalks. Gyms are open again. Though Broadways still dark and Manhattan CEOs … [+4875 chars]",
+         "publishedAt" : "2020-09-11T20:02:00Z"
       },
       {
          "content" : "Louis Vuitton wants fashionistas to fend off the virus in style.\r\nThe fashion house is launching a plastic face shield stamped with its signature LV print for those with $961 to splurge on the luxury… [+1639 chars]",
-         "description" : "Louis Vuitton is debuting designer face shield made with gold studs.",
+         "publishedAt" : "2020-09-11T19:20:12Z",
+         "title" : "Louis Vuitton's coronavirus-inspired face shield to sell for just under $1G - Fox News",
+         "author" : "Jeanette Settembre",
+         "urlToImage" : "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/Face-Shield-Louis-Vuitton.jpg",
          "source" : {
             "name" : "Fox News",
             "id" : "fox-news"
          },
-         "publishedAt" : "2020-09-11T19:20:12Z",
          "url" : "https://www.foxnews.com/lifestyle/louis-vuittons-coronavirus-face-shield",
-         "author" : "Jeanette Settembre",
-         "urlToImage" : "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/Face-Shield-Louis-Vuitton.jpg",
-         "title" : "Louis Vuitton's coronavirus-inspired face shield to sell for just under $1G - Fox News"
+         "description" : "Louis Vuitton is debuting designer face shield made with gold studs."
       },
       {
-         "author" : null,
-         "url" : "https://news.google.com/__i/rss/rd/articles/CBMiZGh0dHBzOi8vd3d3LmludmVzdG9ycy5jb20vbmV3cy90ZWNobm9sb2d5L3Rpa3Rvay1kZWFsLWhlYWRzLXRvd2FyZC11cy1zaHV0ZG93bi10cnVtcC1iYWNrcy1kZWFkbGluZS_SAQA?oc=5",
          "urlToImage" : null,
-         "title" : "TikTok Deal Heads Toward US Shutdown As Trump Backs Deadline - Investor's Business Daily",
+         "url" : "https://news.google.com/__i/rss/rd/articles/CBMiZGh0dHBzOi8vd3d3LmludmVzdG9ycy5jb20vbmV3cy90ZWNobm9sb2d5L3Rpa3Rvay1kZWFsLWhlYWRzLXRvd2FyZC11cy1zaHV0ZG93bi10cnVtcC1iYWNrcy1kZWFkbGluZS_SAQA?oc=5",
+         "description" : null,
          "source" : {
             "name" : "Google News",
             "id" : "google-news"
          },
          "content" : null,
-         "description" : null,
-         "publishedAt" : "2020-09-11T19:05:00Z"
+         "publishedAt" : "2020-09-11T19:05:00Z",
+         "author" : null,
+         "title" : "TikTok Deal Heads Toward US Shutdown As Trump Backs Deadline - Investor's Business Daily"
       },
       {
-         "publishedAt" : "2020-09-11T19:04:00Z",
          "source" : {
             "id" : null,
             "name" : "MarketWatch"
          },
-         "content" : "Battle royale evokes images of professional wrestlers engaged in a free-for-all brawl in which combatants eventually turn on one another until there is an eventual winner. With apologies to Hulk Hoga… [+12687 chars]",
          "description" : "Facebook and Microsoft are mad at Apple, Google and Amazon are being targeted by high-profile tech execs, and everybody wonders why Microsoft is avoiding any scrutiny",
-         "title" : "Big Tech is turning on one another amid antitrust probes and litigation - MarketWatch",
-         "urlToImage" : "https://s.marketwatch.com/public/resources/images/MW-IO268_big_te_ZG_20200910143358.jpg",
          "url" : "https://www.marketwatch.com/story/big-tech-is-turning-on-one-another-amid-antitrust-probes-and-litigation-2020-09-11",
-         "author" : "Jon Swartz"
+         "urlToImage" : "https://s.marketwatch.com/public/resources/images/MW-IO268_big_te_ZG_20200910143358.jpg",
+         "title" : "Big Tech is turning on one another amid antitrust probes and litigation - MarketWatch",
+         "author" : "Jon Swartz",
+         "publishedAt" : "2020-09-11T19:04:00Z",
+         "content" : "Battle royale evokes images of professional wrestlers engaged in a free-for-all brawl in which combatants eventually turn on one another until there is an eventual winner. With apologies to Hulk Hoga… [+12687 chars]"
       },
       {
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106599488-15936067892020-06-30t183836z_2063746967_rc2ujh99qdrb_rtrmadp_0_health-coronavirus-usa-fed.jpeg?v=1593606885",
+         "source" : {
+            "name" : "CNBC",
+            "id" : null
+         },
+         "description" : "Markets are looking to the Fed as a soothing force when it meets in the week ahead, but there's a risk it could disappoint.",
+         "url" : "https://www.cnbc.com/2020/09/11/investors-will-look-to-the-fed-to-soothe-the-market-next-week-but-that-may-be-a-tall-order.html",
          "publishedAt" : "2020-09-11T18:17:00Z",
          "content" : "Federal Reserve Chairman Jerome Powell, wearing a face mask, testifies before the House of Representatives Financial Services Committee during a hearing on oversight of the Treasury Department and Fe… [+6219 chars]",
-         "description" : "Markets are looking to the Fed as a soothing force when it meets in the week ahead, but there's a risk it could disappoint.",
-         "source" : {
-            "id" : null,
-            "name" : "CNBC"
-         },
          "title" : "Investors will look to the Fed to soothe the market next week, but that may be a tall order - CNBC",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106599488-15936067892020-06-30t183836z_2063746967_rc2ujh99qdrb_rtrmadp_0_health-coronavirus-usa-fed.jpeg?v=1593606885",
-         "author" : "Patti Domm",
-         "url" : "https://www.cnbc.com/2020/09/11/investors-will-look-to-the-fed-to-soothe-the-market-next-week-but-that-may-be-a-tall-order.html"
+         "author" : "Patti Domm"
       },
       {
          "url" : "https://www.businessinsider.com/social-capital-spac-opendoor-advanced-talks-merger-palihapitiya-blank-check-2020-9",
-         "author" : "Matthew Fox",
-         "title" : "Social Capital SPAC led by billionaire investor Chamath Palihapitiya in advanced talks to merge with Opendoor, report says | Markets - Business Insider",
-         "urlToImage" : "https://i.insider.com/5f5b7fa77ed0ee001e25ebe9?format=jpeg",
+         "description" : "Social Capital SPAC led by billionaire investor Chamath Palihapitiya in advanced talks to merge with Opendoor, report says",
          "source" : {
             "name" : "Business Insider",
             "id" : "business-insider"
          },
-         "description" : "Social Capital SPAC led by billionaire investor Chamath Palihapitiya in advanced talks to merge with Opendoor, report says",
+         "urlToImage" : "https://i.insider.com/5f5b7fa77ed0ee001e25ebe9?format=jpeg",
+         "author" : "Matthew Fox",
+         "title" : "Social Capital SPAC led by billionaire investor Chamath Palihapitiya in advanced talks to merge with Opendoor, report says | Markets - Business Insider",
          "content" : "Reuters\r\n<ul><li>Opendoor is in advanced talks to go public via a merger with Social Capital Hedosophia Holdings Corp. II, a \"blank check\" company, or SPAC, led by billionaire investor Chamath Paliha… [+2594 chars]",
          "publishedAt" : "2020-09-11T18:08:05Z"
       },
       {
-         "urlToImage" : "https://static01.nyt.com/images/2020/09/11/business/11markets-brf-deficit/11markets-brf-deficit-facebookJumbo.jpg",
-         "title" : "Budget Deficit Crosses $3 Trillion: Live Updates - The New York Times",
          "author" : "Alan Rappeport",
-         "url" : "https://www.nytimes.com/live/2020/09/11/business/stock-market-today-coronavirus",
-         "publishedAt" : "2020-09-11T18:00:00Z",
-         "source" : {
-            "id" : null,
-            "name" : "New York Times"
-         },
+         "title" : "Budget Deficit Crosses $3 Trillion: Live Updates - The New York Times",
          "content" : "LiveUpdated Sept. 11, 2020, 2:03 p.m. ET\r\nSept. 11, 2020, 2:03 p.m. ET\r\nThe latest economic and business news during the coronavirus pandemic.\r\nHeres what you need to know:\r\nThe United States budget … [+19675 chars]",
-         "description" : "The latest economic and business news during the coronavirus pandemic."
+         "publishedAt" : "2020-09-11T18:00:00Z",
+         "url" : "https://www.nytimes.com/live/2020/09/11/business/stock-market-today-coronavirus",
+         "description" : "The latest economic and business news during the coronavirus pandemic.",
+         "source" : {
+            "name" : "New York Times",
+            "id" : null
+         },
+         "urlToImage" : "https://static01.nyt.com/images/2020/09/11/business/11markets-brf-deficit/11markets-brf-deficit-facebookJumbo.jpg"
       },
       {
-         "publishedAt" : "2020-09-11T17:44:00Z",
+         "url" : "https://www.investors.com/market-trend/stock-market-today/nasdaq-leaders-apple-amd-paypal-nvidia-take-big-hits/",
+         "description" : "The Nasdaq reversed sharply lower in afternoon trading Friday as top stocks like Apple, AMD, PayPal and Nvidia were down sharply.",
          "source" : {
             "id" : null,
             "name" : "Investor's Business Daily"
          },
-         "description" : "The Nasdaq reversed sharply lower in afternoon trading Friday as top stocks like Apple, AMD, PayPal and Nvidia were down sharply.",
-         "content" : "The Dow Jones Industrial Average outperformed Friday with a mostly flat performance in afternoon trading. But the Nasdaq composite reversed sharply lower after a bearish reversal Thursday brought the… [+3904 chars]",
          "urlToImage" : "https://www.investors.com/wp-content/uploads/2018/02/stock-bear-night-05-adobe.jpg",
+         "author" : "Investor's Business Daily",
          "title" : "Nasdaq Leaders Apple, AMD, PayPal, Nvidia Take Big Hits; Dow Jones Erases 294-Point Intraday Gain - Investor's Business Daily",
-         "url" : "https://www.investors.com/market-trend/stock-market-today/nasdaq-leaders-apple-amd-paypal-nvidia-take-big-hits/",
-         "author" : "Investor's Business Daily"
+         "content" : "The Dow Jones Industrial Average outperformed Friday with a mostly flat performance in afternoon trading. But the Nasdaq composite reversed sharply lower after a bearish reversal Thursday brought the… [+3904 chars]",
+         "publishedAt" : "2020-09-11T17:44:00Z"
       },
       {
+         "title" : "A postcard arrived in Michigan almost 100 years after it went in the mail - CNN",
+         "author" : "David Williams, CNN",
          "publishedAt" : "2020-09-11T17:40:00Z",
+         "content" : null,
          "source" : {
-            "name" : "CNN",
-            "id" : "cnn"
+            "id" : "cnn",
+            "name" : "CNN"
          },
          "description" : "A Michigan woman got quite a surprise when she went to her mailbox this week -- amid her regular bills and junk mail was a postcard that had been mailed almost 100 years ago.",
-         "content" : null,
-         "title" : "A postcard arrived in Michigan almost 100 years after it went in the mail - CNN",
-         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200911114213-01-old-post-card-delivered-super-tease.jpg",
          "url" : "https://www.cnn.com/2020/09/11/us/michigan-old-postcard-delivered-trnd/index.html",
-         "author" : "David Williams, CNN"
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200911114213-01-old-post-card-delivered-super-tease.jpg"
       },
       {
-         "publishedAt" : "2020-09-11T17:31:00Z",
-         "content" : "Enlarge/ Amazon's orange-yellow logo wall.\r\n53 with 43 posters participating\r\nNew reports released this week serve as a cautionary tale for consumers who shop at Amazon, by far the largest online ret… [+6627 chars]",
+         "urlToImage" : "https://cdn.arstechnica.net/wp-content/uploads/2020/01/GettyImages-696675012-760x380.jpg",
          "description" : "Problems aren't just in Marketplace but also in Amazon's first-party listings.",
+         "url" : "https://arstechnica.com/tech-policy/2020/09/amazon-products-marked-up-more-than-1000-during-pandemic-report-finds/",
          "source" : {
             "name" : "Ars Technica",
             "id" : "ars-technica"
          },
-         "urlToImage" : "https://cdn.arstechnica.net/wp-content/uploads/2020/01/GettyImages-696675012-760x380.jpg",
-         "title" : "Price gouging and defective products rampant on Amazon, reports find - Ars Technica",
+         "publishedAt" : "2020-09-11T17:31:00Z",
+         "content" : "Enlarge/ Amazon's orange-yellow logo wall.\r\n53 with 43 posters participating\r\nNew reports released this week serve as a cautionary tale for consumers who shop at Amazon, by far the largest online ret… [+6627 chars]",
          "author" : "Kate Cox",
-         "url" : "https://arstechnica.com/tech-policy/2020/09/amazon-products-marked-up-more-than-1000-during-pandemic-report-finds/"
+         "title" : "Price gouging and defective products rampant on Amazon, reports find - Ars Technica"
       },
       {
-         "urlToImage" : "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iW.aKkWJRTvc/v0/1200x800.jpg",
-         "title" : "Trading Powerhouses Join Exchanges in Fighting New Jersey Tax Plan - Bloomberg",
-         "url" : "https://www.bloomberg.com/news/articles/2020-09-11/trading-powerhouses-join-exchanges-in-fighting-n-j-tax-plan",
-         "author" : "Lananh Nguyen",
-         "publishedAt" : "2020-09-11T16:59:00Z",
-         "description" : "The hundreds of billions of dollars in trades that zip through the data centers scattered across northern New Jersey usually do so quietly. At least, until the state wants a slice.",
-         "content" : "The hundreds of billions of dollars in trades that zip through the data centers scattered across northern New Jersey usually do so quietly. At least, until the state wants a slice.\r\nThe biggest U.S. … [+3570 chars]",
          "source" : {
             "name" : "Bloomberg",
             "id" : "bloomberg"
-         }
+         },
+         "description" : "The hundreds of billions of dollars in trades that zip through the data centers scattered across northern New Jersey usually do so quietly. At least, until the state wants a slice.",
+         "url" : "https://www.bloomberg.com/news/articles/2020-09-11/trading-powerhouses-join-exchanges-in-fighting-n-j-tax-plan",
+         "urlToImage" : "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iW.aKkWJRTvc/v0/1200x800.jpg",
+         "title" : "Trading Powerhouses Join Exchanges in Fighting New Jersey Tax Plan - Bloomberg",
+         "author" : "Lananh Nguyen",
+         "publishedAt" : "2020-09-11T16:59:00Z",
+         "content" : "The hundreds of billions of dollars in trades that zip through the data centers scattered across northern New Jersey usually do so quietly. At least, until the state wants a slice.\r\nThe biggest U.S. … [+3570 chars]"
       },
       {
          "title" : "Elon Musk says Tesla will ‘one day’ produce ‘super efficient home HVAC’ with HEPA filtering - TechCrunch",
-         "urlToImage" : "https://techcrunch.com/wp-content/uploads/2020/02/Screen-Shot-2020-02-10-at-12.06.01-PM.jpg?w=546",
-         "url" : "http://techcrunch.com/2020/09/11/elon-musk-says-tesla-will-one-day-produce-super-efficient-home-hvac-with-hepa-filtering/",
          "author" : "Darrell Etherington",
-         "publishedAt" : "2020-09-11T16:00:40Z",
-         "description" : "Elon Musk has previously touted the “Bioweapon Defense Mode” boasted by Tesla’s vehicles, which are designed to provide excellent air quality inside the car even in the face of disastrous conditions without, thanks in part to high-efficiency HEPA air filtrati…",
          "content" : "Elon Musk has previously touted the “Bioweapon Defense Mode” boasted by Tesla’s vehicles, which are designed to provide excellent air quality inside the car even in the face of disastrous conditions … [+2194 chars]",
+         "publishedAt" : "2020-09-11T16:00:40Z",
          "source" : {
             "name" : "TechCrunch",
             "id" : "techcrunch"
-         }
+         },
+         "url" : "http://techcrunch.com/2020/09/11/elon-musk-says-tesla-will-one-day-produce-super-efficient-home-hvac-with-hepa-filtering/",
+         "description" : "Elon Musk has previously touted the “Bioweapon Defense Mode” boasted by Tesla’s vehicles, which are designed to provide excellent air quality inside the car even in the face of disastrous conditions without, thanks in part to high-efficiency HEPA air filtrati…",
+         "urlToImage" : "https://techcrunch.com/wp-content/uploads/2020/02/Screen-Shot-2020-02-10-at-12.06.01-PM.jpg?w=546"
       },
       {
-         "url" : "https://www.npr.org/2020/09/11/911866159/a-mining-company-blew-up-a-46-000-year-old-aboriginal-site-its-ceo-is-resigning",
+         "publishedAt" : "2020-09-11T15:42:41Z",
+         "content" : "Protesters rallied outside the Rio Tinto office in June in Perth, Australia, after the destruction of Indigenous heritage sites the month before.\r\nRichard Wainwright/AP\r\nMining giant Rio Tinto is par… [+3536 chars]",
+         "title" : "Rio Tinto CEO Stepping Down Over Destruction Of Ancient Aboriginal Site - NPR",
          "author" : "",
          "urlToImage" : "https://media.npr.org/assets/img/2020/09/11/ap_20255038022671_wide-596ea0e92888e43839df2142116953fbcb8d1ec8.jpg?s=1400",
-         "title" : "Rio Tinto CEO Stepping Down Over Destruction Of Ancient Aboriginal Site - NPR",
          "source" : {
             "id" : null,
             "name" : "NPR"
          },
-         "content" : "Protesters rallied outside the Rio Tinto office in June in Perth, Australia, after the destruction of Indigenous heritage sites the month before.\r\nRichard Wainwright/AP\r\nMining giant Rio Tinto is par… [+3536 chars]",
          "description" : "In May, mining giant Rio Tinto blasted through two ancient rock shelters in Western Australia in order to mine iron ore. The company has been under rising pressure to hold executives accountable.",
-         "publishedAt" : "2020-09-11T15:42:41Z"
+         "url" : "https://www.npr.org/2020/09/11/911866159/a-mining-company-blew-up-a-46-000-year-old-aboriginal-site-its-ceo-is-resigning"
       },
       {
-         "publishedAt" : "2020-09-11T15:12:17Z",
+         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/09/0/0/marth-stewartCBD2.jpg?ve=1&tl=1",
          "source" : {
             "name" : "Fox Business",
             "id" : null
          },
-         "content" : "As if reruns of “The Martha Stewart Show” weren’t already designed to lull viewers into a state of deep, complacent relaxation, the homemaker and business mogul is now releasing her own line of “gour… [+2203 chars]",
          "description" : "As if reruns of “The Martha Stewart Show” weren’t already designed to lull viewers into a state of deep, complacent relaxation, the homemaker and business mogul is now releasing her own line of “gourmet” CBD products.",
+         "url" : "https://www.foxbusiness.com/lifestyle/martha-stewart-cbd-product-line-gourmet-gummies",
+         "publishedAt" : "2020-09-11T15:12:17Z",
+         "content" : "As if reruns of “The Martha Stewart Show” weren’t already designed to lull viewers into a state of deep, complacent relaxation, the homemaker and business mogul is now releasing her own line of “gour… [+2203 chars]",
          "title" : "Martha Stewart launches CBD product line featuring 'gourmet-flavored' gummies and oils - Fox Business",
-         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/09/0/0/marth-stewartCBD2.jpg?ve=1&tl=1",
-         "author" : "Michael Bartiromo",
-         "url" : "https://www.foxbusiness.com/lifestyle/martha-stewart-cbd-product-line-gourmet-gummies"
+         "author" : "Michael Bartiromo"
       },
       {
-         "author" : "Benjamin Pirus",
+         "source" : {
+            "id" : null,
+            "name" : "Cointelegraph"
+         },
          "url" : "https://cointelegraph.com/news/chef-nomi-has-returned-all-funds-back-to-the-sushiswap-community",
+         "description" : "Who would have thought an alleged exit scam could have a happy ending?",
          "urlToImage" : "https://s3.eu-central-1.amazonaws.com/s3.cointelegraph.com/uploads/2020-09/b62bd9a5-30af-4c35-bca8-8c242ae3057c.jpg",
          "title" : "Chef Nomi has returned all funds to the SushiSwap community - Cointelegraph",
+         "author" : "Benjamin Pirus",
          "content" : "In a surprising turn of events, SushiSwap's former head, anonymously known as Chef Nomi on Twitter, has apologized for their mistakes and returned $14M to the project's development fund.\r\nNomi said i… [+1721 chars]",
-         "description" : "Who would have thought an alleged exit scam could have a happy ending?",
-         "source" : {
-            "name" : "Cointelegraph",
-            "id" : null
-         },
          "publishedAt" : "2020-09-11T15:02:20Z"
       },
       {
-         "publishedAt" : "2020-09-11T14:56:19Z",
+         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/07/0/0/RT-Trevor-Milton.jpg?ve=1&tl=1",
+         "url" : "https://www.foxbusiness.com/markets/nikola-motors-hires-outside-counsel-short-seller-claims",
          "description" : "Nikola Motors hired law firm Kirkland & Ellis to defend against a short-seller's claims the company has misled partners about its technology.",
-         "content" : "Nikola Corp. has hired outside counsel to fight back against a short-seller's claims the electric-truck maker conned its way into a partnership with General Motors.\r\nCEO Trevor Milton called the alle… [+2470 chars]",
          "source" : {
             "id" : null,
             "name" : "Fox Business"
          },
-         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/07/0/0/RT-Trevor-Milton.jpg?ve=1&tl=1",
-         "title" : "Nikola Motors lawyers up to combat 'false and deceptive' short-seller claims - Fox Business",
+         "content" : "Nikola Corp. has hired outside counsel to fight back against a short-seller's claims the electric-truck maker conned its way into a partnership with General Motors.\r\nCEO Trevor Milton called the alle… [+2470 chars]",
+         "publishedAt" : "2020-09-11T14:56:19Z",
          "author" : "Jonathan Garber",
-         "url" : "https://www.foxbusiness.com/markets/nikola-motors-hires-outside-counsel-short-seller-claims"
+         "title" : "Nikola Motors lawyers up to combat 'false and deceptive' short-seller claims - Fox Business"
       },
       {
-         "title" : "Tesla's Shanghai Gigafactory Teeming With Model 3s To Boost Q3 Deliveries - InsideEVs ",
          "urlToImage" : "https://cdn.motor1.com/images/mgl/ZXKV3/s1/tesla-model-3-production-china.jpg",
-         "author" : "Steven Loveday",
-         "url" : "https://insideevs.com/news/443605/video-tesla-gigafactory-china-model-3-production-ramp/",
-         "publishedAt" : "2020-09-11T14:18:57Z",
-         "source" : {
-            "id" : null,
-            "name" : "InsideEVs "
-         },
          "description" : "Model 3 vehicles are collecting in the factory lot, and we also see car carriers loading up and heading out, so many of these cars are already spoken for.",
-         "content" : "Our most recent coverage of Tesla's Shanghai Gigafactory production facility focused on Phase 2 construction and the upcoming Model Y. While that's big news, the factory is currently only manufacturi… [+1645 chars]"
+         "url" : "https://insideevs.com/news/443605/video-tesla-gigafactory-china-model-3-production-ramp/",
+         "source" : {
+            "name" : "InsideEVs ",
+            "id" : null
+         },
+         "publishedAt" : "2020-09-11T14:18:57Z",
+         "content" : "Our most recent coverage of Tesla's Shanghai Gigafactory production facility focused on Phase 2 construction and the upcoming Model Y. While that's big news, the factory is currently only manufacturi… [+1645 chars]",
+         "author" : "Steven Loveday",
+         "title" : "Tesla's Shanghai Gigafactory Teeming With Model 3s To Boost Q3 Deliveries - InsideEVs "
       },
       {
+         "source" : {
+            "name" : "Cruise Radio",
+            "id" : null
+         },
+         "url" : "https://cruiseradio.net/cruise-line-miami-return-to-sailing-cdc/",
+         "description" : "Executives representing several major cruise lines met with the Miami-Dade Tourism and Ports Commission to address issues regarding when the industry might return to service. At several points, officials urged the Centers for Disease Control and Prevention to…",
          "urlToImage" : "https://cruiseradio.net/wp-content/uploads/2020/09/CARNIVAL-VISTA-1166-1000x600.jpg",
          "title" : "Cruise Line Execs, Miami Port Reps tell CDC “Enough is Enough!” - Cruise Radio",
-         "url" : "https://cruiseradio.net/cruise-line-miami-return-to-sailing-cdc/",
          "author" : "Richard Simms",
-         "publishedAt" : "2020-09-11T14:01:03Z",
          "content" : "Executives representing several major cruise lines met with the Miami-Dade Tourism and Ports Commission to address issues regarding when the industry might return to service.\r\nAt several points, offi… [+3926 chars]",
-         "description" : "Executives representing several major cruise lines met with the Miami-Dade Tourism and Ports Commission to address issues regarding when the industry might return to service. At several points, officials urged the Centers for Disease Control and Prevention to…",
-         "source" : {
-            "id" : null,
-            "name" : "Cruise Radio"
-         }
+         "publishedAt" : "2020-09-11T14:01:03Z"
       },
       {
          "author" : "Sean Szymkowski",
-         "url" : "https://www.cnet.com/roadshow/news/hyundai-tucson-recall-suv-fire/",
          "title" : "Hyundai recalls 180,000 Tucson SUVs over fire risk - CNET",
-         "urlToImage" : "https://cnet4.cbsistatic.com/img/Zy9t-7-WECvngPAptqaWYl4Fk5g=/1200x630/2020/09/11/5161f47e-65d6-4631-9053-ff8c668fb2e0/ogi-tucson.jpg",
+         "content" : "180,000 of these could feature the defect.\r\nHyundai\r\nA total of 180,000 Hyundai Tucson SUVs from the 2019-2021 model years will need to go back to the dealer after the automaker issued a new recall f… [+1402 chars]",
+         "publishedAt" : "2020-09-11T13:41:00Z",
+         "url" : "https://www.cnet.com/roadshow/news/hyundai-tucson-recall-suv-fire/",
+         "description" : "It's the third time in three years that Hyundai has named an ABS module as the source of a problem.",
          "source" : {
             "name" : "CNET",
             "id" : null
          },
-         "description" : "It's the third time in three years that Hyundai has named an ABS module as the source of a problem.",
-         "content" : "180,000 of these could feature the defect.\r\nHyundai\r\nA total of 180,000 Hyundai Tucson SUVs from the 2019-2021 model years will need to go back to the dealer after the automaker issued a new recall f… [+1402 chars]",
-         "publishedAt" : "2020-09-11T13:41:00Z"
+         "urlToImage" : "https://cnet4.cbsistatic.com/img/Zy9t-7-WECvngPAptqaWYl4Fk5g=/1200x630/2020/09/11/5161f47e-65d6-4631-9053-ff8c668fb2e0/ogi-tucson.jpg"
       },
       {
-         "content" : "Julian Bridgen, the co-founder of the macroeconomic research firm MI2 Partners, believes Tesla stock (TSLA) shows signs of a bubble. He compared the stock Bitcoin (BTC) in 2017 when it hit $20,000 an… [+3297 chars]",
-         "description" : "An analyst says the Tesla stock chart looks similar to the weekly fractal of Bitcoin in 2017 when it achieved $20,000",
          "source" : {
             "name" : "Cointelegraph",
             "id" : null
          },
-         "publishedAt" : "2020-09-11T13:30:00Z",
+         "description" : "An analyst says the Tesla stock chart looks similar to the weekly fractal of Bitcoin in 2017 when it achieved $20,000",
          "url" : "https://cointelegraph.com/news/tesla-stock-tsla-chart-resembles-bitcoin-bubble-in-2017-says-analyst",
-         "author" : "Joseph Young",
          "urlToImage" : "https://s3.cointelegraph.com/storage/uploads/view/0925a04668b20a25046b30afb5abaec5.jpg",
-         "title" : "Tesla stock TSLA chart resembles Bitcoin bubble in 2017, says analyst - Cointelegraph"
+         "title" : "Tesla stock TSLA chart resembles Bitcoin bubble in 2017, says analyst - Cointelegraph",
+         "author" : "Joseph Young",
+         "publishedAt" : "2020-09-11T13:30:00Z",
+         "content" : "Julian Bridgen, the co-founder of the macroeconomic research firm MI2 Partners, believes Tesla stock (TSLA) shows signs of a bubble. He compared the stock Bitcoin (BTC) in 2017 when it hit $20,000 an… [+3297 chars]"
       }
    ],
-   "totalResults" : 70,
    "status" : "ok"
 }
