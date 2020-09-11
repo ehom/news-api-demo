@@ -1,266 +1,266 @@
 {
+   "status" : "ok",
    "articles" : [
       {
-         "author" : "Investor's Business Daily",
-         "url" : "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-why-stock-market-risky-nasdaq-apple-reverse-lower-peloton-earnings/",
-         "content" : "Dow Jones futures rose modestly late Thursday, along with S&amp;P 500 futures and Nasdaq futures. The stock market rally opened strong on Thursday but reversed sharply lower. The Nasdaq hit resistanc… [+6650 chars]",
          "description" : "Dow Jones futures: The reversal for the Nasdaq, Apple and other top techs shows how risky the stock market rally is now. Peloton jumped late on earnings.",
-         "publishedAt" : "2020-09-10T22:07:00Z",
+         "content" : "Dow Jones futures rose modestly late Thursday, along with S&amp;P 500 futures and Nasdaq futures. The stock market rally opened strong on Thursday but reversed sharply lower. The Nasdaq hit resistanc… [+6650 chars]",
+         "url" : "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-why-stock-market-risky-nasdaq-apple-reverse-lower-peloton-earnings/",
          "urlToImage" : "https://www.investors.com/wp-content/uploads/2017/10/stock-sailing-rough-adobe.jpg",
-         "title" : "Riskier Than A Bear? Why This Market Is So Dangerous - Investor's Business Daily",
          "source" : {
             "name" : "Investor's Business Daily",
             "id" : null
-         }
+         },
+         "title" : "Riskier Than A Bear? Why This Market Is So Dangerous - Investor's Business Daily",
+         "author" : "Investor's Business Daily",
+         "publishedAt" : "2020-09-10T22:07:00Z"
       },
       {
-         "source" : {
-            "name" : "Yahoo Entertainment",
-            "id" : null
-         },
-         "title" : "Peloton stock roars as earnings smash estimates, posts first ever profit on coronavirus boost - Yahoo Finance",
+         "content" : "Peloton (PTON) on Thursday reported earnings that demolished Wall Streets expectations, with the company bolstered by the COVID-19 outbreak that shuttered gyms and kept fitness conscious consumers wo… [+2858 chars]",
+         "url" : "https://finance.yahoo.com/news/peloton-new-highs-q4-earnings-and-revenue-202044922.html",
+         "description" : "Peloton reported fiscal fourth-quarter earnings after the bell Thursday.",
          "author" : "Melody Hahm",
          "publishedAt" : "2020-09-10T21:54:00Z",
-         "urlToImage" : "https://s.yimg.com/uu/api/res/1.2/KUqA4uRTKlAEom2aodIOig--~B/aD0zMjU2O3c9NDg4NDtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-images/2020-02/097d3ac0-48f9-11ea-b47b-7f32a559bc2c",
-         "description" : "Peloton reported fiscal fourth-quarter earnings after the bell Thursday.",
-         "content" : "Peloton (PTON) on Thursday reported earnings that demolished Wall Streets expectations, with the company bolstered by the COVID-19 outbreak that shuttered gyms and kept fitness conscious consumers wo… [+2858 chars]",
-         "url" : "https://finance.yahoo.com/news/peloton-new-highs-q4-earnings-and-revenue-202044922.html"
+         "title" : "Peloton stock roars as earnings smash estimates, posts first ever profit on coronavirus boost - Yahoo Finance",
+         "source" : {
+            "id" : null,
+            "name" : "Yahoo Entertainment"
+         },
+         "urlToImage" : "https://s.yimg.com/uu/api/res/1.2/KUqA4uRTKlAEom2aodIOig--~B/aD0zMjU2O3c9NDg4NDtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-images/2020-02/097d3ac0-48f9-11ea-b47b-7f32a559bc2c"
       },
       {
-         "author" : "Jay Peters",
-         "urlToImage" : "https://cdn.vox-cdn.com/thumbor/hExLPjc5LVoWsyEpRvtGsNXwNGs=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/13443462/acastro_181114_1777_amazon_hq2_0005.jpg",
-         "publishedAt" : "2020-09-10T21:39:50Z",
-         "description" : "Many AmazonBasics products that have been reported as fire hazards are still for sale on Amazon, according to an extensive investigation by CNN. CNN counted at least 1,500 reviews since 2016 for more than 70 items that described “products exploding, catching …",
-         "url" : "https://www.theverge.com/2020/9/10/21431085/amazon-basics-amazonbasics-dangerous-flammable-products",
          "content" : "CNN found reviews for more than 70 products describing safety risks\r\nIllustration by Alex Castro / The Verge\r\nMany AmazonBasics products that have been reported as fire hazards are still for sale on … [+2684 chars]",
+         "url" : "https://www.theverge.com/2020/9/10/21431085/amazon-basics-amazonbasics-dangerous-flammable-products",
+         "description" : "Many AmazonBasics products that have been reported as fire hazards are still for sale on Amazon, according to an extensive investigation by CNN. CNN counted at least 1,500 reviews since 2016 for more than 70 items that described “products exploding, catching …",
          "title" : "AmazonBasics products are going up in flames, but not enough for Amazon to stop selling them - The Verge",
          "source" : {
-            "id" : "the-verge",
-            "name" : "The Verge"
-         }
+            "name" : "The Verge",
+            "id" : "the-verge"
+         },
+         "author" : "Jay Peters",
+         "publishedAt" : "2020-09-10T21:39:50Z",
+         "urlToImage" : "https://cdn.vox-cdn.com/thumbor/hExLPjc5LVoWsyEpRvtGsNXwNGs=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/13443462/acastro_181114_1777_amazon_hq2_0005.jpg"
       },
       {
-         "title" : "Former employees of Tanya Zuckerbrot's popular F-Factor diet say she fat-shamed colleagues and policed their eating, causing terrified staffers to snack in secret - Business Insider",
+         "url" : "https://www.businessinsider.com/past-f-factor-employees-speak-about-workplace-pressure-to-restrict-eating-2020-9",
+         "content" : "It was Sarah's first day of work at F-Factor, and she packed a homemade lunch of whole-wheat pasta and turkey meatballs.\r\n\"I thought I was being really responsible,\" Sarah, a dietitian, told Insider.… [+16452 chars]",
+         "description" : "Ex-employees said they hid food from their boss, Tanya Zuckerbrot, and were subject to jokes and stringent clothing guidelines meant to show off their bodies.",
+         "author" : "Dana Schuster",
+         "publishedAt" : "2020-09-10T21:38:33Z",
          "source" : {
             "name" : "Business Insider",
             "id" : "business-insider"
          },
-         "content" : "It was Sarah's first day of work at F-Factor, and she packed a homemade lunch of whole-wheat pasta and turkey meatballs.\r\n\"I thought I was being really responsible,\" Sarah, a dietitian, told Insider.… [+16452 chars]",
-         "url" : "https://www.businessinsider.com/past-f-factor-employees-speak-about-workplace-pressure-to-restrict-eating-2020-9",
-         "urlToImage" : "https://i.insider.com/5f58d8a07ed0ee001e25e24e?width=1200&format=jpeg",
-         "publishedAt" : "2020-09-10T21:38:33Z",
-         "description" : "Ex-employees said they hid food from their boss, Tanya Zuckerbrot, and were subject to jokes and stringent clothing guidelines meant to show off their bodies.",
-         "author" : "Dana Schuster"
+         "title" : "Former employees of Tanya Zuckerbrot's popular F-Factor diet say she fat-shamed colleagues and policed their eating, causing terrified staffers to snack in secret - Business Insider",
+         "urlToImage" : "https://i.insider.com/5f58d8a07ed0ee001e25e24e?width=1200&format=jpeg"
       },
       {
+         "publishedAt" : "2020-09-10T21:28:00Z",
+         "author" : "WXII12.com Web Staff",
          "title" : "New North Carolina CVS drive-thru testing sites opening, minimum testing age lowered to 12 - WXII12 Winston-Salem",
          "source" : {
             "name" : "WXII12 Winston-Salem",
             "id" : null
          },
-         "author" : "WXII12.com Web Staff",
-         "publishedAt" : "2020-09-10T21:28:00Z",
          "urlToImage" : "https://kubrick.htvapps.com/htv-prod/ibmig/cms/image/wxii/24302072-24302072.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
-         "description" : "CVS Health announced Thursday morning that 31 new testing sites are launching Friday and the testing age at the centers is being lowered to 12 years of age or older.",
          "content" : "WINSTON-SALEM, N.C. —CVS Health announced Thursday morning that 31 new testing sites are launching Friday and the testing age at the centers is being lowered to 12 years of age or older.\r\nWith school… [+1200 chars]",
-         "url" : "https://www.wxii12.com/article/coronavirus-cvs-drive-thru-testing-sites-opening-age/33983670"
+         "url" : "https://www.wxii12.com/article/coronavirus-cvs-drive-thru-testing-sites-opening-age/33983670",
+         "description" : "CVS Health announced Thursday morning that 31 new testing sites are launching Friday and the testing age at the centers is being lowered to 12 years of age or older."
       },
       {
-         "content" : "JPMorgan Chase &amp; Co. executives instructed its senior trading-floor managers to return to the office by Sept. 21 in Wednesday calls, a person familiar with the plans told The Hill. \r\nOfficials at… [+2024 chars]",
-         "url" : "https://thehill.com/policy/finance/515926-jpmorgan-telling-senior-trading-floor-managers-to-come-back-to-office-by",
-         "urlToImage" : "https://thehill.com/sites/default/files/jpmorgan.jpg",
-         "publishedAt" : "2020-09-10T21:04:46Z",
-         "description" : "JPMorgan Chase & Co. executives instructed its senior trading...",
-         "author" : "Justine Coleman",
-         "title" : "JPMorgan telling senior trading-floor managers to come back to office by September 21 | TheHill - The Hill",
          "source" : {
-            "name" : "The Hill",
-            "id" : "the-hill"
-         }
+            "id" : "the-hill",
+            "name" : "The Hill"
+         },
+         "title" : "JPMorgan telling senior trading-floor managers to come back to office by September 21 | TheHill - The Hill",
+         "author" : "Justine Coleman",
+         "publishedAt" : "2020-09-10T21:04:46Z",
+         "urlToImage" : "https://thehill.com/sites/default/files/jpmorgan.jpg",
+         "url" : "https://thehill.com/policy/finance/515926-jpmorgan-telling-senior-trading-floor-managers-to-come-back-to-office-by",
+         "content" : "JPMorgan Chase &amp; Co. executives instructed its senior trading-floor managers to return to the office by Sept. 21 in Wednesday calls, a person familiar with the plans told The Hill. \r\nOfficials at… [+2024 chars]",
+         "description" : "JPMorgan Chase & Co. executives instructed its senior trading..."
       },
       {
+         "description" : "Elizabeth Holmes, the founder and former CEO of Theranos, may seek a \"mental disease\" defense in her criminal fraud trial, according to a new court document.",
+         "content" : "(CNN Business)Elizabeth Holmes, the founder and former CEO of Theranos, may seek a \"mental disease\" defense in her criminal fraud trial, according to a new court document.\r\nHolmes, whose failed biote… [+1980 chars]",
+         "url" : "https://www.cnn.com/2020/09/10/tech/theranos-holmes-mental-disease/index.html",
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200910142929-elizabeth-holmes-theranos-trial-hearing-file-super-tease.jpg",
+         "publishedAt" : "2020-09-10T20:45:00Z",
+         "author" : "Sara Ashley O'Brien, CNN Business",
+         "title" : "Elizabeth Holmes may attempt to claim 'mental disease' in Theranos criminal case - CNN",
          "source" : {
             "id" : "cnn",
             "name" : "CNN"
-         },
-         "title" : "Elizabeth Holmes may attempt to claim 'mental disease' in Theranos criminal case - CNN",
-         "url" : "https://www.cnn.com/2020/09/10/tech/theranos-holmes-mental-disease/index.html",
-         "content" : "(CNN Business)Elizabeth Holmes, the founder and former CEO of Theranos, may seek a \"mental disease\" defense in her criminal fraud trial, according to a new court document.\r\nHolmes, whose failed biote… [+1980 chars]",
-         "publishedAt" : "2020-09-10T20:45:00Z",
-         "description" : "Elizabeth Holmes, the founder and former CEO of Theranos, may seek a \"mental disease\" defense in her criminal fraud trial, according to a new court document.",
-         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200910142929-elizabeth-holmes-theranos-trial-hearing-file-super-tease.jpg",
-         "author" : "Sara Ashley O'Brien, CNN Business"
+         }
       },
       {
-         "description" : "The fashion designer and his wife fully restored the 13,344-square-foot home over six years.",
-         "publishedAt" : "2020-09-10T20:26:30Z",
-         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/09/0/0/Tommy-Hilfiger-s-home.jpg?ve=1&tl=1",
-         "content" : "Fashion designer Tommy Hilfiger has listed his Greenwich, Connecticut home for $47.5 million.\r\nThe European-style estate encompasses 22.4 parklike acres at the highest point in Greenwich. The propert… [+2029 chars]",
-         "url" : "https://www.foxbusiness.com/real-estate/tommy-hilfigers-connecticut-home-listed-for-sale",
-         "author" : "James Leggate",
          "title" : "Tommy Hilfiger's Connecticut home listed for sale - Fox Business",
          "source" : {
             "name" : "Fox Business",
             "id" : null
-         }
+         },
+         "author" : "James Leggate",
+         "publishedAt" : "2020-09-10T20:26:30Z",
+         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/09/0/0/Tommy-Hilfiger-s-home.jpg?ve=1&tl=1",
+         "content" : "Fashion designer Tommy Hilfiger has listed his Greenwich, Connecticut home for $47.5 million.\r\nThe European-style estate encompasses 22.4 parklike acres at the highest point in Greenwich. The propert… [+2029 chars]",
+         "url" : "https://www.foxbusiness.com/real-estate/tommy-hilfigers-connecticut-home-listed-for-sale",
+         "description" : "The fashion designer and his wife fully restored the 13,344-square-foot home over six years."
       },
       {
-         "source" : {
-            "id" : null,
-            "name" : "MarketWatch"
-         },
-         "title" : "Netflix Inc. stock falls Thursday, underperforms market - MarketWatch",
-         "author" : "MarketWatch Automation",
          "url" : "https://www.marketwatch.com/story/netflix-inc-stock-falls-thursday-underperforms-market-01599769524",
          "content" : "Shares of Netflix Inc. \r\n NFLX, \r\n -3.90%\r\nslid 3.90% to $480.67 Thursday, on what proved to be an all-around rough trading session for the stock market, with the S&amp;P 500 Index \r\n SPX, \r\n -1.75%\r… [+816 chars]",
-         "publishedAt" : "2020-09-10T20:25:00Z",
          "description" : "",
+         "title" : "Netflix Inc. stock falls Thursday, underperforms market - MarketWatch",
+         "source" : {
+            "name" : "MarketWatch",
+            "id" : null
+         },
+         "publishedAt" : "2020-09-10T20:25:00Z",
+         "author" : "MarketWatch Automation",
          "urlToImage" : "https://images.mktw.net/im-215085/social"
       },
       {
+         "description" : "",
+         "content" : "Dave &amp; Buster's Entertainment Inc. \r\n PLAY, \r\n -2.27%\r\nshares initially were down 5% in after-hours trading Thursday after the restaurant chain reported fiscal second-quarter revenue that whiffed… [+661 chars]",
+         "url" : "https://www.marketwatch.com/story/dave-busters-shares-drop-5-on-85-drop-in-revenue-2020-09-10",
+         "urlToImage" : "https://s.wsj.net/public/resources/MWimages/MW-GP644_MicroS_ZG_20180906154215.jpg",
          "title" : "Dave & Buster's shares drop 5% on 85% drop in revenue - MarketWatch",
          "source" : {
             "id" : null,
             "name" : "MarketWatch"
          },
          "author" : "Jon Swartz",
-         "url" : "https://www.marketwatch.com/story/dave-busters-shares-drop-5-on-85-drop-in-revenue-2020-09-10",
-         "content" : "Dave &amp; Buster's Entertainment Inc. \r\n PLAY, \r\n -2.27%\r\nshares initially were down 5% in after-hours trading Thursday after the restaurant chain reported fiscal second-quarter revenue that whiffed… [+661 chars]",
-         "publishedAt" : "2020-09-10T20:23:00Z",
-         "urlToImage" : "https://s.wsj.net/public/resources/MWimages/MW-GP644_MicroS_ZG_20180906154215.jpg",
-         "description" : ""
+         "publishedAt" : "2020-09-10T20:23:00Z"
       },
       {
+         "urlToImage" : "https://images.mktw.net/im-230797/social",
+         "author" : "Jeremy C. Owens",
+         "publishedAt" : "2020-09-10T20:16:00Z",
          "source" : {
             "id" : null,
             "name" : "MarketWatch"
          },
          "title" : "Peloton produces profit for the first time amid pandemic-demand spike, stock pushes toward new record - MarketWatch",
-         "author" : "Jeremy C. Owens",
-         "urlToImage" : "https://images.mktw.net/im-230797/social",
-         "publishedAt" : "2020-09-10T20:16:00Z",
          "description" : "Connected fitness-equipment company roughly doubled its revenue and subscriber total in just-completed fiscal year, and predicts it will happen again",
-         "url" : "https://www.marketwatch.com/story/peloton-produces-profit-for-the-first-time-amid-pandemic-demand-spike-stock-heads-toward-new-high-11599768987",
-         "content" : "A year after its initial public offering, Peloton Interactive Inc. is pedaling toward new highs amid a pandemic that is forcing people into their homes and away from gyms, creating demand for at-home… [+4510 chars]"
+         "content" : "A year after its initial public offering, Peloton Interactive Inc. is pedaling toward new highs amid a pandemic that is forcing people into their homes and away from gyms, creating demand for at-home… [+4510 chars]",
+         "url" : "https://www.marketwatch.com/story/peloton-produces-profit-for-the-first-time-amid-pandemic-demand-spike-stock-heads-toward-new-high-11599768987"
       },
       {
+         "content" : "The new Richmond service announcements were part of a larger JetBlue initiative introducing 24 new routes. That includes five new destinations from Raleigh-Durham International Airport in North Carol… [+1158 chars]",
+         "url" : "https://richmond.com/business/update-jetblue-adding-daily-nonstop-flights-from-richmond-to-l-a-las-vegas-and-tampa/article_02a85566-eb48-5574-848c-d310c55718d7.html",
+         "description" : "After years of trying, Richmond International Airport is finally getting some flights to the U.S. West Coast.",
          "title" : "UPDATE: JetBlue adding daily, nonstop flights from Richmond to L.A., Las Vegas and Tampa - Richmond.com",
          "source" : {
-            "id" : null,
-            "name" : "Richmond.com"
+            "name" : "Richmond.com",
+            "id" : null
          },
          "author" : "JOHN REID BLACKWELL Richmond Times-Dispatch",
-         "description" : "After years of trying, Richmond International Airport is finally getting some flights to the U.S. West Coast.",
          "publishedAt" : "2020-09-10T20:15:00Z",
-         "urlToImage" : "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/assets/v3/editorial/e/68/e686408f-dd2f-56f2-8c89-757b54bf8cb6/5f5a8aea47ba7.image.jpg?crop=1662%2C935%2C0%2C156&resize=1120%2C630&order=crop%2Cresize",
-         "content" : "The new Richmond service announcements were part of a larger JetBlue initiative introducing 24 new routes. That includes five new destinations from Raleigh-Durham International Airport in North Carol… [+1158 chars]",
-         "url" : "https://richmond.com/business/update-jetblue-adding-daily-nonstop-flights-from-richmond-to-l-a-las-vegas-and-tampa/article_02a85566-eb48-5574-848c-d310c55718d7.html"
+         "urlToImage" : "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/assets/v3/editorial/e/68/e686408f-dd2f-56f2-8c89-757b54bf8cb6/5f5a8aea47ba7.image.jpg?crop=1662%2C935%2C0%2C156&resize=1120%2C630&order=crop%2Cresize"
       },
       {
-         "title" : "Oracle's stock jumps as company returns to growth - CNBC",
+         "publishedAt" : "2020-09-10T20:13:00Z",
+         "author" : "Jordan Novet",
          "source" : {
             "id" : null,
             "name" : "CNBC"
          },
-         "description" : "The software maker delivered revenue growth even during the first full quarter of business during the coronavirus pandemic.",
-         "publishedAt" : "2020-09-10T20:13:00Z",
+         "title" : "Oracle's stock jumps as company returns to growth - CNBC",
          "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106697699-1599757928107-gettyimages-1175291304-img_6674_20190917114602510.jpeg?v=1599758210",
          "content" : "Oracle shares rose as much as 6% in extended trading on Thursday after the software maker reported fiscal first-quarter earnings and quarterly guidance that were better than analysts had expected.\r\nH… [+2751 chars]",
          "url" : "https://www.cnbc.com/2020/09/10/oracle-orcl-earnings-q1-2021.html",
-         "author" : "Jordan Novet"
+         "description" : "The software maker delivered revenue growth even during the first full quarter of business during the coronavirus pandemic."
       },
       {
-         "author" : "Patti Domm",
-         "url" : "https://www.cnbc.com/2020/09/10/goldman-forecasts-a-much-higher-35percent-jump-in-q3-gdp-growth-based-on-strong-consumer.html",
-         "content" : "Goldman Sachs economists said they see third quarter GDP growth tracking at 35%, driven in large part by the surprising strength of consumer spending.\r\nGoldman said its tracking forecast is now 14 pe… [+2194 chars]",
-         "publishedAt" : "2020-09-10T19:31:00Z",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106662870-1597353249156-gettyimages-1265304940-nng_9676_2020081163224422.jpeg?v=1598324668",
          "description" : "Goldman economists said third quarter GDP growth is tracking at 35%, driven in large part by the surprising strength of consumer spending.",
-         "title" : "Goldman now sees a 35% jump in Q3 GDP, much higher than the rest of Wall Street - CNBC",
+         "content" : "Goldman Sachs economists said they see third quarter GDP growth tracking at 35%, driven in large part by the surprising strength of consumer spending.\r\nGoldman said its tracking forecast is now 14 pe… [+2194 chars]",
+         "url" : "https://www.cnbc.com/2020/09/10/goldman-forecasts-a-much-higher-35percent-jump-in-q3-gdp-growth-based-on-strong-consumer.html",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106662870-1597353249156-gettyimages-1265304940-nng_9676_2020081163224422.jpeg?v=1598324668",
          "source" : {
             "id" : null,
             "name" : "CNBC"
-         }
+         },
+         "title" : "Goldman now sees a 35% jump in Q3 GDP, much higher than the rest of Wall Street - CNBC",
+         "author" : "Patti Domm",
+         "publishedAt" : "2020-09-10T19:31:00Z"
       },
       {
          "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106617686-1594835451245gettyimages-1194878414.jpeg?v=1594835571",
-         "publishedAt" : "2020-09-10T19:10:00Z",
-         "description" : "The latest measure comes as the Search giant gears up for an expected controversial presidential election.",
-         "url" : "https://www.cnbc.com/2020/09/10/google-to-block-autocomplete-for-searches-that-suggest-election-outcomes.html",
-         "content" : "Google said Thursday that it will remove search autocomplete predictions that \"could be interpreted as claims for or against any candidate or political party.\" It'll also remove statements about voti… [+1545 chars]",
-         "author" : "Jennifer Elias",
-         "title" : "Google says it will block autocomplete for searches that suggest voting outcomes - CNBC",
          "source" : {
             "id" : null,
             "name" : "CNBC"
-         }
+         },
+         "title" : "Google says it will block autocomplete for searches that suggest voting outcomes - CNBC",
+         "author" : "Jennifer Elias",
+         "publishedAt" : "2020-09-10T19:10:00Z",
+         "description" : "The latest measure comes as the Search giant gears up for an expected controversial presidential election.",
+         "content" : "Google said Thursday that it will remove search autocomplete predictions that \"could be interpreted as claims for or against any candidate or political party.\" It'll also remove statements about voti… [+1545 chars]",
+         "url" : "https://www.cnbc.com/2020/09/10/google-to-block-autocomplete-for-searches-that-suggest-election-outcomes.html"
       },
       {
-         "content" : "DALLAS (WJHL) – Officials with Chick-fil-A have announced two new menu items coming to restaurants nationwide starting September 14.\r\nTaco Bell is removing Mexican Pizza, other items from menu\r\nThe f… [+763 chars]",
-         "url" : "https://fox8.com/news/featured/chick-fil-a-adding-new-items-to-menus-nationwide/",
-         "description" : "Officials with Chick-fil-A have announced two new menu items coming to restaurants nationwide starting September 14.",
-         "publishedAt" : "2020-09-10T19:05:00Z",
          "urlToImage" : "https://fox8.com/wp-content/uploads/sites/12/2020/09/sourcechickfila.jpg?w=1280",
-         "author" : "Nexstar Media Wire",
          "source" : {
             "name" : "fox8.com",
             "id" : null
          },
-         "title" : "Chick-fil-A adding new items to menus nationwide - WJW FOX 8 News Cleveland"
+         "title" : "Chick-fil-A adding new items to menus nationwide - WJW FOX 8 News Cleveland",
+         "publishedAt" : "2020-09-10T19:05:00Z",
+         "author" : "Nexstar Media Wire",
+         "description" : "Officials with Chick-fil-A have announced two new menu items coming to restaurants nationwide starting September 14.",
+         "url" : "https://fox8.com/news/featured/chick-fil-a-adding-new-items-to-menus-nationwide/",
+         "content" : "DALLAS (WJHL) – Officials with Chick-fil-A have announced two new menu items coming to restaurants nationwide starting September 14.\r\nTaco Bell is removing Mexican Pizza, other items from menu\r\nThe f… [+763 chars]"
       },
       {
-         "title" : "Mortgage rates have fallen to a record low -- for the 9th time this year - CNN",
-         "source" : {
-            "name" : "CNN",
-            "id" : "cnn"
-         },
+         "url" : "https://www.cnn.com/2020/09/10/success/mortgage-rates-september-10-record-low/index.html",
+         "content" : null,
+         "description" : "Mortgage rates fell to yet another record low, according to the weekly survey of rates from Freddie Mac. This is the ninth record low since March.",
          "author" : "Anna Bahney, CNN Business",
          "publishedAt" : "2020-09-10T19:00:00Z",
-         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200910130758-san-diego-neighborhood-houses-0901-restricted-super-tease.jpg",
-         "description" : "Mortgage rates fell to yet another record low, according to the weekly survey of rates from Freddie Mac. This is the ninth record low since March.",
-         "url" : "https://www.cnn.com/2020/09/10/success/mortgage-rates-september-10-record-low/index.html",
-         "content" : null
+         "title" : "Mortgage rates have fallen to a record low -- for the 9th time this year - CNN",
+         "source" : {
+            "id" : "cnn",
+            "name" : "CNN"
+         },
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200910130758-san-diego-neighborhood-houses-0901-restricted-super-tease.jpg"
       },
       {
+         "description" : "Smithfield Foods has been fined $13,494 for its failure to mitigate worker exposure to the coronavirus, the first such meatpacking company sanction imposed by OSHA during the pandemic.",
+         "content" : null,
+         "url" : "https://news.bloomberglaw.com/safety/smithfield-fined-13-494-by-osha-after-worker-infections-deaths",
+         "urlToImage" : "https://db0ip7zd23b50.cloudfront.net/dims4/default/b1650a4/2147483647/crop/3980x1530%2B10%2B941/resize/960x369%3E/quality/90/?url=http%3A%2F%2Fbloomberg-bna-brightspot.s3.amazonaws.com%2F34%2F2e%2F8f3935254029a1057dd2d1f4a900%2F361362697.jpg",
+         "publishedAt" : "2020-09-10T18:45:00Z",
+         "author" : null,
+         "title" : "Smithfield Fined $13,494 by OSHA After Worker Infections, Deaths - Bloomberg Law",
          "source" : {
             "id" : null,
             "name" : "Bloomberglaw.com"
-         },
-         "title" : "Smithfield Fined $13,494 by OSHA After Worker Infections, Deaths - Bloomberg Law",
-         "author" : null,
-         "url" : "https://news.bloomberglaw.com/safety/smithfield-fined-13-494-by-osha-after-worker-infections-deaths",
-         "content" : null,
-         "publishedAt" : "2020-09-10T18:45:00Z",
-         "urlToImage" : "https://db0ip7zd23b50.cloudfront.net/dims4/default/b1650a4/2147483647/crop/3980x1530%2B10%2B941/resize/960x369%3E/quality/90/?url=http%3A%2F%2Fbloomberg-bna-brightspot.s3.amazonaws.com%2F34%2F2e%2F8f3935254029a1057dd2d1f4a900%2F361362697.jpg",
-         "description" : "Smithfield Foods has been fined $13,494 for its failure to mitigate worker exposure to the coronavirus, the first such meatpacking company sanction imposed by OSHA during the pandemic."
+         }
       },
       {
+         "description" : "International Business News: Citigroup named Jane Fraser as its next chief executive on Thursday, tapping a woman to lead a giant Wall Street bank for the first time. She will tak",
+         "content" : null,
+         "url" : "https://timesofindia.indiatimes.com/business/international-business/citigroup-names-jane-fraser-as-first-woman-ceo/articleshow/78046302.cms",
+         "urlToImage" : "https://static.toiimg.com/thumb/msid-78046297,width-1070,height-580,imgsize-117221,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
          "title" : "Citigroup names Jane Fraser as first woman CEO - Times of India",
          "source" : {
             "name" : "The Times of India",
             "id" : "the-times-of-india"
          },
-         "content" : null,
-         "url" : "https://timesofindia.indiatimes.com/business/international-business/citigroup-names-jane-fraser-as-first-woman-ceo/articleshow/78046302.cms",
-         "description" : "International Business News: Citigroup named Jane Fraser as its next chief executive on Thursday, tapping a woman to lead a giant Wall Street bank for the first time. She will tak",
-         "publishedAt" : "2020-09-10T18:00:00Z",
-         "urlToImage" : "https://static.toiimg.com/thumb/msid-78046297,width-1070,height-580,imgsize-117221,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-         "author" : "AFP"
+         "author" : "AFP",
+         "publishedAt" : "2020-09-10T18:00:00Z"
       },
       {
-         "urlToImage" : "https://s.yimg.com/uu/api/res/1.2/MEkUyeerHHXnOEu4.eyiSQ--~B/aD0yMTM2O3c9MzIwMDtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-images/2019-11/2f8e7110-0cf0-11ea-bff7-c49be0f5f7f9",
-         "publishedAt" : "2020-09-10T17:31:00Z",
-         "description" : "Say goodbye to Black Friday.",
-         "content" : "Enjoy your fresh roasted turkey on Thanksgiving and morning-after, leftover bird on whole wheat bread this year because Black Friday will be virtually non-existent.\r\nWhile the tradition of insane cro… [+3889 chars]",
-         "url" : "https://finance.yahoo.com/news/black-friday-shopping-like-we-all-know-it-is-officially-over-because-of-covid-19-173121320.html",
-         "author" : "Brian Sozzi",
          "title" : "Black Friday shopping like we all know it is officially over because of COVID-19 - Yahoo Finance",
          "source" : {
             "id" : null,
             "name" : "Yahoo Entertainment"
-         }
+         },
+         "author" : "Brian Sozzi",
+         "publishedAt" : "2020-09-10T17:31:00Z",
+         "urlToImage" : "https://s.yimg.com/uu/api/res/1.2/MEkUyeerHHXnOEu4.eyiSQ--~B/aD0yMTM2O3c9MzIwMDtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-images/2019-11/2f8e7110-0cf0-11ea-bff7-c49be0f5f7f9",
+         "url" : "https://finance.yahoo.com/news/black-friday-shopping-like-we-all-know-it-is-officially-over-because-of-covid-19-173121320.html",
+         "content" : "Enjoy your fresh roasted turkey on Thanksgiving and morning-after, leftover bird on whole wheat bread this year because Black Friday will be virtually non-existent.\r\nWhile the tradition of insane cro… [+3889 chars]",
+         "description" : "Say goodbye to Black Friday."
       }
    ],
-   "status" : "ok",
    "totalResults" : 70
 }
