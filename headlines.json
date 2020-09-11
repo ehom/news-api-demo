@@ -1,139 +1,139 @@
 {
-   "totalResults" : 70,
    "status" : "ok",
+   "totalResults" : 70,
    "articles" : [
       {
-         "author" : "Elliot Smith",
-         "description" : "The U.K. economy grew 6.6% in July on a monthly basis, according to initial estimates published Friday.",
-         "content" : "The U.K. economy grew 6.6% in July on a monthly basis, according to initial estimates published Friday, as the economy seeks to recover from the sharp downturn caused by coronavirus-induced lockdown … [+1688 chars]",
          "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106575421-1591961424651gettyimages-1206590116.jpeg?v=1591961630",
-         "publishedAt" : "2020-09-11T06:07:00Z",
-         "url" : "https://www.cnbc.com/2020/09/11/uk-economy-recovered-6point6percent-in-july.html",
          "title" : "UK economy grew 6.6% in July as gradual recovery continues - CNBC",
          "source" : {
-            "id" : null,
-            "name" : "CNBC"
-         }
+            "name" : "CNBC",
+            "id" : null
+         },
+         "author" : "Elliot Smith",
+         "description" : "The U.K. economy grew 6.6% in July on a monthly basis, according to initial estimates published Friday.",
+         "publishedAt" : "2020-09-11T06:07:00Z",
+         "url" : "https://www.cnbc.com/2020/09/11/uk-economy-recovered-6point6percent-in-july.html",
+         "content" : "The U.K. economy grew 6.6% in July on a monthly basis, according to initial estimates published Friday, as the economy seeks to recover from the sharp downturn caused by coronavirus-induced lockdown … [+1688 chars]"
       },
       {
-         "publishedAt" : "2020-09-11T05:30:07Z",
-         "urlToImage" : "https://responsive.fxempire.com/width/600/webp-lossy-70.q50/_fxempire_/2020/07/Gold-_-Silver.jpg",
          "content" : "-GOLD- Gold continues to grind out a B-wave triangle before its decline towards $1750 – $1800. Technically, prices could bounce a little higher to tag the upper triangle boundary near $1985, but it’s… [+140 chars]",
-         "description" : "Our analysis remains on track for a 6-month low and subsequent buying opportunity by late September or early October.",
-         "author" : null,
-         "source" : {
-            "id" : null,
-            "name" : "FX Empire"
-         },
+         "urlToImage" : "https://responsive.fxempire.com/width/600/webp-lossy-70.q50/_fxempire_/2020/07/Gold-_-Silver.jpg",
          "title" : "Gold Forecast – Gold Pattern Supports A Breakdown Below $1900 - FX Empire",
-         "url" : "https://www.fxempire.com/forecasts/article/gold-forecast-gold-pattern-supports-a-breakdown-below-1900-671899"
-      },
-      {
          "source" : {
-            "name" : "Ars Technica",
-            "id" : "ars-technica"
+            "name" : "FX Empire",
+            "id" : null
          },
-         "url" : "https://arstechnica.com/tech-policy/2020/09/trump-vows-not-to-extend-tiktok-deadline-beyond-september-15/",
-         "title" : "Trump vows not to extend TikTok deadline beyond September 15 - Ars Technica",
-         "urlToImage" : "https://cdn.arstechnica.net/wp-content/uploads/2020/09/GettyImages-1228443357-760x380.jpg",
-         "publishedAt" : "2020-09-11T03:43:03Z",
-         "description" : "TikTok could face a US ban if it doesn't find a US buyer in the next five days.",
-         "author" : "Timothy B. Lee",
-         "content" : "Enlarge/ Trump speaks at Andrews Air Force Base on September 10, 2020, before boarding a flight for a campaign rally in Michigan.\r\n25 with 24 posters participating\r\nByteDance, the Chinese company tha… [+2655 chars]"
+         "author" : null,
+         "description" : "Our analysis remains on track for a 6-month low and subsequent buying opportunity by late September or early October.",
+         "url" : "https://www.fxempire.com/forecasts/article/gold-forecast-gold-pattern-supports-a-breakdown-below-1900-671899",
+         "publishedAt" : "2020-09-11T05:30:07Z"
       },
       {
-         "title" : "Rio Tinto CEO resigns after destruction of 46,000-year-old sacred Indigenous site - CNN",
-         "url" : "https://www.cnn.com/2020/09/10/business/rio-tinto-ceo-intl-hnk/index.html",
+         "content" : "Enlarge/ Trump speaks at Andrews Air Force Base on September 10, 2020, before boarding a flight for a campaign rally in Michigan.\r\n25 with 24 posters participating\r\nByteDance, the Chinese company tha… [+2655 chars]",
+         "urlToImage" : "https://cdn.arstechnica.net/wp-content/uploads/2020/09/GettyImages-1228443357-760x380.jpg",
+         "title" : "Trump vows not to extend TikTok deadline beyond September 15 - Ars Technica",
+         "author" : "Timothy B. Lee",
+         "source" : {
+            "id" : "ars-technica",
+            "name" : "Ars Technica"
+         },
+         "description" : "TikTok could face a US ban if it doesn't find a US buyer in the next five days.",
+         "publishedAt" : "2020-09-11T03:43:03Z",
+         "url" : "https://arstechnica.com/tech-policy/2020/09/trump-vows-not-to-extend-tiktok-deadline-beyond-september-15/"
+      },
+      {
+         "author" : "Laura He and Angus Watson, CNN Business",
          "source" : {
             "name" : "CNN",
             "id" : "cnn"
          },
-         "content" : "Hong Kong / Sydney (CNN Business)Rio Tinto(RIO) CEO Jean-Sébastien Jacques has resigned as the mining giant continues to face pressure from investors for blowing up a 46,000-year-old sacred Indigenou… [+2895 chars]",
-         "description" : "Rio Tinto CEO Jean-Sébastien Jacques has resigned as the mining giant continues to face pressure from investors for blowing up a 46,000-year-old sacred indigenous site in Australia to expand an iron ore mine.",
-         "author" : "Laura He and Angus Watson, CNN Business",
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200910214349-jean-sebastien-jacques-restricted-super-tease.jpg",
+         "title" : "Rio Tinto CEO resigns after destruction of 46,000-year-old sacred Indigenous site - CNN",
          "publishedAt" : "2020-09-11T02:20:00Z",
-         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200910214349-jean-sebastien-jacques-restricted-super-tease.jpg"
+         "url" : "https://www.cnn.com/2020/09/10/business/rio-tinto-ceo-intl-hnk/index.html",
+         "description" : "Rio Tinto CEO Jean-Sébastien Jacques has resigned as the mining giant continues to face pressure from investors for blowing up a 46,000-year-old sacred indigenous site in Australia to expand an iron ore mine.",
+         "content" : "Hong Kong / Sydney (CNN Business)Rio Tinto(RIO) CEO Jean-Sébastien Jacques has resigned as the mining giant continues to face pressure from investors for blowing up a 46,000-year-old sacred Indigenou… [+2895 chars]"
       },
       {
-         "title" : "Citigroup's Fraser to be first woman CEO of Wall Street bank - Reuters",
-         "url" : "https://www.reuters.com/article/uk-citigroup-ceo-idUKKBN2612B7",
+         "content" : "(Reuters) - Citigroup Inc C.N named consumer banking head Jane Fraser as its next chief executive on Thursday, making her the first woman to lead a major Wall Street bank.\r\nFraser, 53, has been a ris… [+4278 chars]",
          "source" : {
             "name" : "Reuters",
             "id" : "reuters"
          },
-         "content" : "(Reuters) - Citigroup Inc C.N named consumer banking head Jane Fraser as its next chief executive on Thursday, making her the first woman to lead a major Wall Street bank.\r\nFraser, 53, has been a ris… [+4278 chars]",
-         "description" : "Citigroup Inc <C.N> named consumer banking head Jane Fraser as its next chief executive on Thursday, making her the first woman to lead a major Wall Street bank.",
          "author" : "C Nivedita, Noor Zainab Hussain",
+         "urlToImage" : "https://static.reuters.com/resources/r/?m=02&d=20200911&t=2&i=1532986404&r=LYNXMPEG891B6&w=800",
+         "title" : "Citigroup's Fraser to be first woman CEO of Wall Street bank - Reuters",
          "publishedAt" : "2020-09-11T01:30:00Z",
-         "urlToImage" : "https://static.reuters.com/resources/r/?m=02&d=20200911&t=2&i=1532986404&r=LYNXMPEG891B6&w=800"
+         "url" : "https://www.reuters.com/article/uk-citigroup-ceo-idUKKBN2612B7",
+         "description" : "Citigroup Inc <C.N> named consumer banking head Jane Fraser as its next chief executive on Thursday, making her the first woman to lead a major Wall Street bank."
       },
       {
-         "content" : "Boeing Co said late on Thursday it was in discussions with U.S. safety regulators about a new manufacturing issue in its 787 Dreamliner that was found last year.\r\nFAA REVIEWS BOEING QUALITY CONTROL L… [+532 chars]",
-         "author" : "Reuters",
-         "description" : "Just three days after reports about quality control lapses at a Boeing's Dreamliner plant in South Carolina comes word of a new problem with its flagship jet.",
          "publishedAt" : "2020-09-11T01:14:28Z",
-         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/09/0/0/iStock-Boeing-787-.jpg?ve=1&tl=1",
-         "title" : "Boeing in talks with FAA about Dreamliner structural issue - Fox Business",
          "url" : "https://www.foxbusiness.com/industrials/boeing-in-talks-with-faa-about-dreamliner-structural-issue",
+         "description" : "Just three days after reports about quality control lapses at a Boeing's Dreamliner plant in South Carolina comes word of a new problem with its flagship jet.",
          "source" : {
             "name" : "Fox Business",
             "id" : null
-         }
+         },
+         "author" : "Reuters",
+         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/09/0/0/iStock-Boeing-787-.jpg?ve=1&tl=1",
+         "title" : "Boeing in talks with FAA about Dreamliner structural issue - Fox Business",
+         "content" : "Boeing Co said late on Thursday it was in discussions with U.S. safety regulators about a new manufacturing issue in its 787 Dreamliner that was found last year.\r\nFAA REVIEWS BOEING QUALITY CONTROL L… [+532 chars]"
       },
       {
+         "urlToImage" : "https://thehill.com/sites/default/files/coronavirus_smithfield_sd_042020getty_food-plants.jpg",
+         "title" : "Trump administration issues first COVID-19 fine to Smithfield for failing to protect workers | TheHill - The Hill",
          "source" : {
             "id" : "the-hill",
             "name" : "The Hill"
          },
-         "url" : "https://thehill.com/regulation/labor/515967-trump-administration-issues-first-covid-19-fine-to-smithfield-for-failing-to",
-         "title" : "Trump administration issues first COVID-19 fine to Smithfield for failing to protect workers | TheHill - The Hill",
-         "urlToImage" : "https://thehill.com/sites/default/files/coronavirus_smithfield_sd_042020getty_food-plants.jpg",
-         "publishedAt" : "2020-09-11T00:44:18Z",
          "author" : "Alex Gangitano",
          "description" : "The Occupational Safety and Health Administration (OSHA) has cited pork producer Smithfield Foods for failing to protect workers from coronavirus exposure, the agency announced on Thursday.",
+         "url" : "https://thehill.com/regulation/labor/515967-trump-administration-issues-first-covid-19-fine-to-smithfield-for-failing-to",
+         "publishedAt" : "2020-09-11T00:44:18Z",
          "content" : "The Occupational Safety and Health Administration (OSHA) has cited pork producer Smithfield Foods for failing to protect workers from coronavirus exposure, the agency announced Thursday. \r\nIt propose… [+3871 chars]"
       },
       {
-         "urlToImage" : "https://www.mercurynews.com/wp-content/uploads/2019/01/SJM-L-HOLMES-0115-1.jpg?w=1024&h=682",
-         "publishedAt" : "2020-09-11T00:21:00Z",
-         "author" : "Ethan Baron",
-         "description" : "Founder of defunct Palo Alto blood-testing startup plans to challenge the way her grand jury was selected.",
          "content" : "A federal court judge granted a sweeping list of requests by Theranos founder Elizabeth Holmes for records of how the grand jury that recently indicted her for fraud was selected. She has said in a c… [+2845 chars]",
+         "description" : "Founder of defunct Palo Alto blood-testing startup plans to challenge the way her grand jury was selected.",
+         "url" : "http://www.mercurynews.com/2020/09/10/theranos-founder-holmes-wins-fight-to-learn-how-grand-jury-was-selected-amid-coronavirus-pandemic/",
+         "publishedAt" : "2020-09-11T00:21:00Z",
+         "title" : "Theranos founder Holmes wins fight to learn how grand jury was selected amid coronavirus pandemic - The Mercury News",
+         "urlToImage" : "https://www.mercurynews.com/wp-content/uploads/2019/01/SJM-L-HOLMES-0115-1.jpg?w=1024&h=682",
+         "author" : "Ethan Baron",
          "source" : {
             "id" : null,
             "name" : "The Mercury News"
-         },
-         "url" : "http://www.mercurynews.com/2020/09/10/theranos-founder-holmes-wins-fight-to-learn-how-grand-jury-was-selected-amid-coronavirus-pandemic/",
-         "title" : "Theranos founder Holmes wins fight to learn how grand jury was selected amid coronavirus pandemic - The Mercury News"
+         }
       },
       {
-         "source" : {
-            "name" : "CNN",
-            "id" : "cnn"
-         },
-         "url" : "https://www.cnn.com/videos/media/2020/09/11/donald-trump-fox-news-bob-woodward-stelter-dnt-ebof-vpx.cnn",
-         "title" : "How Fox News covered the Woodward recordings of Trump - CNN",
-         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200905102123-01-fox-news-file-super-tease.jpg",
          "publishedAt" : "2020-09-11T00:04:41Z",
-         "author" : null,
+         "url" : "https://www.cnn.com/videos/media/2020/09/11/donald-trump-fox-news-bob-woodward-stelter-dnt-ebof-vpx.cnn",
          "description" : "CNN's Brian Stelter reports how Fox News is covering journalist Bob Woodward's audio recordings of President Donald Trump calling coronavirus \"deadly\" and saying he downplays it to avoid a panic.",
+         "source" : {
+            "id" : "cnn",
+            "name" : "CNN"
+         },
+         "author" : null,
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200905102123-01-fox-news-file-super-tease.jpg",
+         "title" : "How Fox News covered the Woodward recordings of Trump - CNN",
          "content" : "Chat with us in Facebook Messenger. Find out what's happening in the world as it unfolds."
       },
       {
-         "source" : {
-            "name" : "WCVB Boston",
-            "id" : null
-         },
-         "title" : "Los Angeles bound JetBlue plane forced to return to Boston - WCVB Boston",
-         "url" : "https://www.wcvb.com/article/los-angeles-bound-jetblue-plane-forced-to-return-to-boston/33986514",
-         "publishedAt" : "2020-09-10T23:56:00Z",
-         "urlToImage" : "https://kubrick.htvapps.com/vidthumb/8dd6e777-d359-4934-bbf7-c9247c589530/8dd6e777-d359-4934-bbf7-c9247c589530_image.jpeg?crop=1xw:1.0xh;center,top&resize=1200:*",
          "content" : "BOSTON —A JetBlue plane bound for Los Angeles from Boston's Logan International Airport was forced to return to Boston Thursday afternoon after a warning indicator light came on in flight.\r\nJetBlue F… [+635 chars]",
          "author" : null,
+         "source" : {
+            "id" : null,
+            "name" : "WCVB Boston"
+         },
+         "title" : "Los Angeles bound JetBlue plane forced to return to Boston - WCVB Boston",
+         "urlToImage" : "https://kubrick.htvapps.com/vidthumb/8dd6e777-d359-4934-bbf7-c9247c589530/8dd6e777-d359-4934-bbf7-c9247c589530_image.jpeg?crop=1xw:1.0xh;center,top&resize=1200:*",
+         "publishedAt" : "2020-09-10T23:56:00Z",
+         "url" : "https://www.wcvb.com/article/los-angeles-bound-jetblue-plane-forced-to-return-to-boston/33986514",
          "description" : "The Airbus A321 aircraft was approximately an hour into its cross-country flight, when a warning indication related to the airplane’s hydraulic system came on."
       },
       {
-         "url" : "https://cointelegraph.com/news/pandemic-has-accelerated-adoption-of-digital-currency-ecb-president",
+         "urlToImage" : "https://s3.eu-central-1.amazonaws.com/s3.cointelegraph.com/uploads/2020-09/e169a1e4-0506-4603-b805-ec1b0c843afc.jpg",
          "title" : "Pandemic has accelerated adoption of digital currency: ECB President - Cointelegraph",
          "source" : {
             "name" : "Cointelegraph",
@@ -141,126 +141,126 @@
          },
          "author" : "Turner Wright",
          "description" : "EU residents are becoming more comfortable with digital and contactless payments.",
-         "content" : "The pandemic has seen consumers adopt digital payments in increasing numbers and the trend was accelerating, said the President of the European Central Bank (ECB) Christine Lagarde. \r\nShe also indica… [+1737 chars]",
-         "urlToImage" : "https://s3.eu-central-1.amazonaws.com/s3.cointelegraph.com/uploads/2020-09/e169a1e4-0506-4603-b805-ec1b0c843afc.jpg",
-         "publishedAt" : "2020-09-10T23:53:34Z"
+         "url" : "https://cointelegraph.com/news/pandemic-has-accelerated-adoption-of-digital-currency-ecb-president",
+         "publishedAt" : "2020-09-10T23:53:34Z",
+         "content" : "The pandemic has seen consumers adopt digital payments in increasing numbers and the trend was accelerating, said the President of the European Central Bank (ECB) Christine Lagarde. \r\nShe also indica… [+1737 chars]"
       },
       {
          "content" : "Nikola Motor is under fire after an analyst firm called Hindenburg Research labeled the automaker as “an intricate fraud built on dozens of lies.”\r\nHindenberg said that had “gathered extensive eviden… [+3175 chars]",
-         "description" : "Nikola Motor is under fire after an analyst firm called Hindenburg Research labeled the automaker as “an intricate fraud built on dozens of lies.” Hindenberg said that had “gathered extensive evidence – including recorded phone calls, text messages, private e…",
-         "author" : "Joey Klender",
-         "publishedAt" : "2020-09-10T23:31:35Z",
          "urlToImage" : "https://www.teslarati.com/wp-content/uploads/2019/04/nikola-world-1aa-1024x500.jpg",
          "title" : "Nikola Motor labeled “an intricate fraud” by Hindenburg Research - Teslarati",
-         "url" : "https://www.teslarati.com/nikola-motor-hindenburg-research/",
          "source" : {
             "name" : "Teslarati",
             "id" : null
-         }
+         },
+         "author" : "Joey Klender",
+         "description" : "Nikola Motor is under fire after an analyst firm called Hindenburg Research labeled the automaker as “an intricate fraud built on dozens of lies.” Hindenberg said that had “gathered extensive evidence – including recorded phone calls, text messages, private e…",
+         "publishedAt" : "2020-09-10T23:31:35Z",
+         "url" : "https://www.teslarati.com/nikola-motor-hindenburg-research/"
       },
       {
-         "urlToImage" : "https://d.newsweek.com/en/full/1635255/elon-musk.jpg",
-         "publishedAt" : "2020-09-10T23:29:28Z",
-         "description" : "\"Can't decide between a Subaru or a Tesla,\" tweeted Monica Lewinsky on Thursday, prompting a response from Tesla founder Elon Musk.",
-         "author" : "Jeffery Martin",
          "content" : "Subaru or Tesla? When activist Monica Lewinsky tweeted Thursday that she couldn't decide which automobile to purchase, Tesla co-founder Elon Musk responded by offering Lewinsky a sweet deal.\r\nThe sho… [+3105 chars]",
+         "urlToImage" : "https://d.newsweek.com/en/full/1635255/elon-musk.jpg",
+         "title" : "As Monica Lewinsky Considers Buying a Tesla, Elon Musk Gives Her an Offer She Can't Refuse - Newsweek",
          "source" : {
             "name" : "Newsweek",
             "id" : "newsweek"
          },
-         "url" : "https://www.newsweek.com/monica-lewinsky-considers-buying-tesla-elon-musk-gives-her-offer-she-cant-refuse-1531159",
-         "title" : "As Monica Lewinsky Considers Buying a Tesla, Elon Musk Gives Her an Offer She Can't Refuse - Newsweek"
+         "author" : "Jeffery Martin",
+         "description" : "\"Can't decide between a Subaru or a Tesla,\" tweeted Monica Lewinsky on Thursday, prompting a response from Tesla founder Elon Musk.",
+         "publishedAt" : "2020-09-10T23:29:28Z",
+         "url" : "https://www.newsweek.com/monica-lewinsky-considers-buying-tesla-elon-musk-gives-her-offer-she-cant-refuse-1531159"
       },
       {
          "title" : "Lucid Air configurator is now live - CNET",
-         "url" : "https://www.cnet.com/roadshow/news/lucid-motors-configurator-live/",
+         "urlToImage" : "https://cnet2.cbsistatic.com/img/4502Hg-UpvqKvDO6DyWWAVG74Ug=/1200x630/2020/09/09/774e0ad8-4157-4f6b-b94a-577167c1e8a3/ogi-2021-lucid-air-8.jpg",
+         "author" : "Kyle Hyatt",
          "source" : {
             "name" : "CNET",
             "id" : null
          },
-         "content" : "What does your perfect Air look like?\r\nLucid Motors\r\nWell, now we've all seen the production version of the Lucid Air and it's certainly a cool car. We also know how much the three initial trim level… [+783 chars]",
-         "author" : "Kyle Hyatt",
          "description" : "It's not the most detailed configurator out there, but Lucid Motors' one for the Air is a little more in-depth than Tesla's.",
+         "url" : "https://www.cnet.com/roadshow/news/lucid-motors-configurator-live/",
          "publishedAt" : "2020-09-10T23:28:00Z",
-         "urlToImage" : "https://cnet2.cbsistatic.com/img/4502Hg-UpvqKvDO6DyWWAVG74Ug=/1200x630/2020/09/09/774e0ad8-4157-4f6b-b94a-577167c1e8a3/ogi-2021-lucid-air-8.jpg"
+         "content" : "What does your perfect Air look like?\r\nLucid Motors\r\nWell, now we've all seen the production version of the Lucid Air and it's certainly a cool car. We also know how much the three initial trim level… [+783 chars]"
       },
       {
          "description" : "Chick-fil-A announced three new menu items on Thursday.",
-         "author" : "Ann Schmidt",
-         "content" : "Chick-fil-A’s about to get some new treats on the menu.\r\nThe popular fast food chain announced Thursday that it would be adding chocolate fudge brownies, a mocha cream cold brew and a new hot coffee … [+1348 chars]",
-         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/09/0/0/Coffee_Brownie1.jpg?ve=1&tl=1",
          "publishedAt" : "2020-09-10T23:14:29Z",
          "url" : "https://www.foxbusiness.com/lifestyle/chick-fil-a-adds-brownies-coffee-drinks-menu",
          "title" : "Chick-fil-A adds brownies, coffee drinks to its menu - Fox Business",
+         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/09/0/0/Coffee_Brownie1.jpg?ve=1&tl=1",
+         "author" : "Ann Schmidt",
          "source" : {
             "id" : null,
             "name" : "Fox Business"
-         }
+         },
+         "content" : "Chick-fil-A’s about to get some new treats on the menu.\r\nThe popular fast food chain announced Thursday that it would be adding chocolate fudge brownies, a mocha cream cold brew and a new hot coffee … [+1348 chars]"
       },
       {
-         "publishedAt" : "2020-09-10T22:32:29Z",
-         "urlToImage" : "https://ichef.bbci.co.uk/news/1024/branded_news/D6CF/production/_114319945_gettyimages-1217255156.jpg",
          "content" : "Image copyrightGetty Images\r\nPeloton, which won an early celebrity fanbase for its exercise bikes and remote workout classes, has seen demand surge during the pandemic.\r\nThe firm's global membership … [+1859 chars]",
-         "author" : "https://www.facebook.com/bbcnews",
-         "description" : "The exercise bike firm's revenues jumped 172% amid gym closures due to the pandemic.",
-         "source" : {
-            "id" : null,
-            "name" : "BBC News"
-         },
+         "urlToImage" : "https://ichef.bbci.co.uk/news/1024/branded_news/D6CF/production/_114319945_gettyimages-1217255156.jpg",
          "title" : "Peloton sales surge as virus boosts home workouts - BBC News",
+         "author" : "https://www.facebook.com/bbcnews",
+         "source" : {
+            "name" : "BBC News",
+            "id" : null
+         },
+         "description" : "The exercise bike firm's revenues jumped 172% amid gym closures due to the pandemic.",
+         "publishedAt" : "2020-09-10T22:32:29Z",
          "url" : "https://www.bbc.com/news/business-54112461"
       },
       {
+         "content" : "The S&amp;P 500 Index (SNPINDEX:^SPX) has been doing its best yo-yo impression over the past week. Today's close was almost 1.8% lower, giving up almost 60 points after gaining 67 points, or 2%, yest… [+5711 chars]",
+         "url" : "https://www.fool.com/investing/2020/09/10/sp-500-drops-60-points-on-volatile-day-oil-stocks/",
+         "publishedAt" : "2020-09-10T22:21:40Z",
+         "description" : "More worries in the oil patch, and investors turning back to selling Big Tech has stocks swinging wildly again.",
+         "author" : "Jason Hall",
          "source" : {
             "id" : null,
             "name" : "Motley Fool"
          },
-         "url" : "https://www.fool.com/investing/2020/09/10/sp-500-drops-60-points-on-volatile-day-oil-stocks/",
          "title" : "S&P 500 Drops 60 Points on Volatile Day: Oil Stocks Fall Sharply, Apple Leads Tech Stocks Down Again - Motley Fool",
-         "urlToImage" : "https://g.foolcdn.com/editorial/images/591328/arrows-up-and-down.jpg",
-         "publishedAt" : "2020-09-10T22:21:40Z",
-         "description" : "More worries in the oil patch, and investors turning back to selling Big Tech has stocks swinging wildly again.",
-         "author" : "Jason Hall",
-         "content" : "The S&amp;P 500 Index (SNPINDEX:^SPX) has been doing its best yo-yo impression over the past week. Today's close was almost 1.8% lower, giving up almost 60 points after gaining 67 points, or 2%, yest… [+5711 chars]"
+         "urlToImage" : "https://g.foolcdn.com/editorial/images/591328/arrows-up-and-down.jpg"
       },
       {
-         "content" : null,
+         "publishedAt" : "2020-09-10T22:15:00Z",
+         "url" : "https://www.cnn.com/2020/09/10/business/jpmorgan-back-to-work/index.html",
          "description" : "Executives at America's largest bank are calling its senior managers back into the office after months of remote work, according to a person familiar with the plans.",
          "author" : "Alexis Benveniste, CNN Business",
-         "publishedAt" : "2020-09-10T22:15:00Z",
-         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200910164105-jp-morgan-office-restricted-super-tease.jpg",
-         "title" : "JPMorgan is asking senior sales and trading staff to come back to the office - CNN",
-         "url" : "https://www.cnn.com/2020/09/10/business/jpmorgan-back-to-work/index.html",
          "source" : {
             "id" : "cnn",
             "name" : "CNN"
-         }
+         },
+         "title" : "JPMorgan is asking senior sales and trading staff to come back to the office - CNN",
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200910164105-jp-morgan-office-restricted-super-tease.jpg",
+         "content" : null
       },
       {
+         "content" : "New York City public transit passengers who refuse to wear masks will be fined $50 starting Sept. 14.\r\nSpencer Platt/Getty Images\r\nStarting Monday, New Yorkers who refuse to wear a mask on public tra… [+3054 chars]",
+         "urlToImage" : "https://media.npr.org/assets/img/2020/09/10/gettyimages-1271794319_wide-b4a4d911549b0f224dfe5b0d5833d888885b9f96.jpg?s=1400",
          "title" : "New York City Public Transit Riders Who Don't Mask Up Will Face Fines Starting Monday - NPR",
-         "url" : "https://www.npr.org/sections/coronavirus-live-updates/2020/09/10/911670617/new-york-city-public-transit-riders-who-dont-mask-up-will-face-fines-starting-mo",
          "source" : {
             "id" : null,
             "name" : "NPR"
          },
-         "content" : "New York City public transit passengers who refuse to wear masks will be fined $50 starting Sept. 14.\r\nSpencer Platt/Getty Images\r\nStarting Monday, New Yorkers who refuse to wear a mask on public tra… [+3054 chars]",
-         "description" : "Riders are already required to wear face coverings on subways, buses and railroads. Officials hope the new penalty will improve compliance and bring hesitant would-be passengers back on board.",
          "author" : "Rachel Treisman",
-         "publishedAt" : "2020-09-10T22:10:37Z",
-         "urlToImage" : "https://media.npr.org/assets/img/2020/09/10/gettyimages-1271794319_wide-b4a4d911549b0f224dfe5b0d5833d888885b9f96.jpg?s=1400"
+         "description" : "Riders are already required to wear face coverings on subways, buses and railroads. Officials hope the new penalty will improve compliance and bring hesitant would-be passengers back on board.",
+         "url" : "https://www.npr.org/sections/coronavirus-live-updates/2020/09/10/911670617/new-york-city-public-transit-riders-who-dont-mask-up-will-face-fines-starting-mo",
+         "publishedAt" : "2020-09-10T22:10:37Z"
       },
       {
-         "urlToImage" : "https://s.hdnux.com/photos/40/62/11/8593988/5/rawImage.jpg",
-         "publishedAt" : "2020-09-10T22:10:00Z",
          "description" : "The master of Houston's fine dining scene has passed away at the age of 75.",
-         "author" : "Marcy de Luna",
-         "content" : "Tony Vallone is celebrating his 50th anniversary with a year-long series of wine dinners at Tony's. He has amassed more than $1 million worth of inventory.\r\nTony Vallone is celebrating his 50th anniv… [+3941 chars]",
-         "source" : {
-            "name" : "Chron.com",
-            "id" : null
-         },
+         "publishedAt" : "2020-09-10T22:10:00Z",
          "url" : "https://www.chron.com/news/article/Houston-restaurateur-Tony-Vallone-dead-at-75-15556825.php",
-         "title" : "Houston restaurateur Tony Vallone dead at 75 - Chron.com"
+         "title" : "Houston restaurateur Tony Vallone dead at 75 - Chron.com",
+         "urlToImage" : "https://s.hdnux.com/photos/40/62/11/8593988/5/rawImage.jpg",
+         "author" : "Marcy de Luna",
+         "source" : {
+            "id" : null,
+            "name" : "Chron.com"
+         },
+         "content" : "Tony Vallone is celebrating his 50th anniversary with a year-long series of wine dinners at Tony's. He has amassed more than $1 million worth of inventory.\r\nTony Vallone is celebrating his 50th anniv… [+3941 chars]"
       }
    ]
 }
