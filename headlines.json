@@ -1,266 +1,266 @@
 {
-   "totalResults" : 70,
-   "status" : "ok",
    "articles" : [
       {
-         "publishedAt" : "2020-09-12T13:38:00Z",
+         "description" : "AstraZeneca paused trials earlier this week due to a potentially unexplained illness in a woman in the U.K.",
          "source" : {
-            "id" : null,
-            "name" : "CNBC"
+            "name" : "CNBC",
+            "id" : null
          },
          "author" : "Will Feuer",
+         "content" : "Phase three trials for AstraZeneca's coronavirus vaccine have resumed in the U.K. after they were halted earlier this week over safety concerns, the company announced Saturday.\r\nAstraZeneca said it r… [+2464 chars]",
+         "publishedAt" : "2020-09-12T13:38:00Z",
          "url" : "https://www.cnbc.com/2020/09/12/astrazeneca-coronavirus-vaccine-clinical-trials-resume-in-uk-after-pause-over-safety-concerns.html",
          "title" : "AstraZeneca coronavirus vaccine clinical trials resume in U.K. after pause over safety concerns - CNBC",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106694515-15996045482020-09-08t223400z_990095756_rc2mui9fv6y5_rtrmadp_0_health-coronavirus-usa-vaccine.jpeg?v=1599604595",
-         "content" : "Phase three trials for AstraZeneca's coronavirus vaccine have resumed in the U.K. after they were halted earlier this week over safety concerns, the company announced Saturday.\r\nAstraZeneca said it r… [+2464 chars]",
-         "description" : "AstraZeneca paused trials earlier this week due to a potentially unexplained illness in a woman in the U.K."
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106694515-15996045482020-09-08t223400z_990095756_rc2mui9fv6y5_rtrmadp_0_health-coronavirus-usa-vaccine.jpeg?v=1599604595"
       },
       {
-         "description" : "A ban on widely-used mobile payment app WeChat would cut off a vital revenue stream for U.S. companies operating in China.",
-         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/08/0/0/iPhone-WeChat-ban-AdobeStock.png?ve=1&tl=1",
          "content" : "With time running out for Bytedance Inc. to sell social media app TikTok's U.S operations or have them shut down, American firms operating in China are focusing on a potentially far more devastating … [+3039 chars]",
-         "title" : "Trump's WeChat ban endangers US businesses in China - Fox Business",
          "author" : "Jonathan Garber",
-         "url" : "https://www.foxbusiness.com/markets/wechat-poses-looming-threat-for-us-businesses-in-china",
-         "publishedAt" : "2020-09-12T13:30:33Z",
+         "description" : "A ban on widely-used mobile payment app WeChat would cut off a vital revenue stream for U.S. companies operating in China.",
          "source" : {
             "id" : null,
             "name" : "Fox Business"
-         }
+         },
+         "title" : "Trump's WeChat ban endangers US businesses in China - Fox Business",
+         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/08/0/0/iPhone-WeChat-ban-AdobeStock.png?ve=1&tl=1",
+         "publishedAt" : "2020-09-12T13:30:33Z",
+         "url" : "https://www.foxbusiness.com/markets/wechat-poses-looming-threat-for-us-businesses-in-china"
       },
       {
          "description" : "U.S. economic recovery is widening the gulf among Americans",
-         "title" : "The numbers tell us the economy is better, but millions of Americans aren’t feeling it - MarketWatch",
-         "urlToImage" : "https://s.marketwatch.com/public/resources/images/MW-IO364_econom_ZG_20200911141117.jpg",
-         "content" : "The U.S. economy has kept growing despite a summer spike in coronavirus cases and the end of massive federal aid, but millions of Americans are either being left out or in are danger of being left be… [+4481 chars]",
+         "source" : {
+            "name" : "MarketWatch",
+            "id" : null
+         },
          "author" : "Jeffry Bartash",
+         "content" : "The U.S. economy has kept growing despite a summer spike in coronavirus cases and the end of massive federal aid, but millions of Americans are either being left out or in are danger of being left be… [+4481 chars]",
          "url" : "https://www.marketwatch.com/story/the-numbers-tell-us-the-economy-is-better-but-millions-of-americans-arent-feeling-it-2020-09-12",
          "publishedAt" : "2020-09-12T12:50:00Z",
-         "source" : {
-            "id" : null,
-            "name" : "MarketWatch"
-         }
+         "urlToImage" : "https://s.marketwatch.com/public/resources/images/MW-IO364_econom_ZG_20200911141117.jpg",
+         "title" : "The numbers tell us the economy is better, but millions of Americans aren’t feeling it - MarketWatch"
       },
       {
-         "description" : "These two ETFs track the best of the best when it comes to dividend stocks.",
-         "title" : "The 2 Best ETFs for Dividends - Motley Fool",
-         "content" : "Many investors enjoy the dividend income that stocks produce on a quarterly -- or in some cases, monthly -- basis. What some investors may not realize is that exchange-traded funds (ETFs), which are … [+4811 chars]",
-         "urlToImage" : "https://g.foolcdn.com/editorial/images/590993/gettyimages-1163546252.jpg",
-         "author" : "Dave Kovaleski",
-         "url" : "https://www.fool.com/investing/2020/09/12/the-2-best-etfs-for-dividends/",
-         "publishedAt" : "2020-09-12T12:31:00Z",
          "source" : {
             "name" : "Motley Fool",
             "id" : null
-         }
+         },
+         "description" : "These two ETFs track the best of the best when it comes to dividend stocks.",
+         "author" : "Dave Kovaleski",
+         "content" : "Many investors enjoy the dividend income that stocks produce on a quarterly -- or in some cases, monthly -- basis. What some investors may not realize is that exchange-traded funds (ETFs), which are … [+4811 chars]",
+         "url" : "https://www.fool.com/investing/2020/09/12/the-2-best-etfs-for-dividends/",
+         "publishedAt" : "2020-09-12T12:31:00Z",
+         "urlToImage" : "https://g.foolcdn.com/editorial/images/590993/gettyimages-1163546252.jpg",
+         "title" : "The 2 Best ETFs for Dividends - Motley Fool"
       },
       {
-         "title" : "United Airlines Being Sued Over NFL Charter Staffing - One Mile at a Time",
-         "content" : "Two United Airlines flight attendants filed a lawsuit against the airline yesterday in California, alleging that United takes a “despicable” approach to staffing sports team charter flights.\r\nUnited’… [+3482 chars]",
-         "urlToImage" : "https://onemileatatime.com/wp-content/uploads/2019/11/United-Polaris-767-8.jpg",
          "description" : "United Airlines is facing a lawsuit for violating its seniority system to staff NFL charter flights with young, blonde flight attendants.",
-         "publishedAt" : "2020-09-12T12:22:00Z",
          "source" : {
             "name" : "One Mile at a Time",
             "id" : null
          },
+         "content" : "Two United Airlines flight attendants filed a lawsuit against the airline yesterday in California, alleging that United takes a “despicable” approach to staffing sports team charter flights.\r\nUnited’… [+3482 chars]",
          "author" : "",
-         "url" : "https://onemileatatime.com/united-airlines-lawsuit-nfl/"
+         "publishedAt" : "2020-09-12T12:22:00Z",
+         "url" : "https://onemileatatime.com/united-airlines-lawsuit-nfl/",
+         "title" : "United Airlines Being Sued Over NFL Charter Staffing - One Mile at a Time",
+         "urlToImage" : "https://onemileatatime.com/wp-content/uploads/2019/11/United-Polaris-767-8.jpg"
       },
       {
-         "description" : "Reed Hastings tried to sell Netflix for $50 million to Blockbuster in 2000. Twenty years later, the streaming giant has an astounding market cap of $223.5 billion.",
-         "title" : "Netflix's Reed Hastings: ‘Thank God’ Blockbuster didn’t want to buy us - Yahoo Finance",
-         "content" : "Its hard to remember a time when Netflix (NFLX) didnt dominate the streaming  and now entertainment at large industry. But for co-CEO Reed Hastings, who co-founded Netflix in 1997, the early years ar… [+3050 chars]",
-         "urlToImage" : "https://s.yimg.com/uu/api/res/1.2/6guLyiCQD.zCSJWT6UbZng--~B/aD0zMjE3O3c9NDg1ODtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2020-09/faa873f0-f36d-11ea-bfed-45035b5cdba0",
-         "author" : "Melody Hahm",
          "url" : "https://finance.yahoo.com/news/netflix-reed-hastings-streaming-wars-blockbuster-120914436.html",
          "publishedAt" : "2020-09-12T12:09:00Z",
+         "urlToImage" : "https://s.yimg.com/uu/api/res/1.2/6guLyiCQD.zCSJWT6UbZng--~B/aD0zMjE3O3c9NDg1ODtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2020-09/faa873f0-f36d-11ea-bfed-45035b5cdba0",
+         "title" : "Netflix's Reed Hastings: ‘Thank God’ Blockbuster didn’t want to buy us - Yahoo Finance",
+         "description" : "Reed Hastings tried to sell Netflix for $50 million to Blockbuster in 2000. Twenty years later, the streaming giant has an astounding market cap of $223.5 billion.",
          "source" : {
-            "name" : "Yahoo Entertainment",
-            "id" : null
-         }
+            "id" : null,
+            "name" : "Yahoo Entertainment"
+         },
+         "content" : "Its hard to remember a time when Netflix (NFLX) didnt dominate the streaming  and now entertainment at large industry. But for co-CEO Reed Hastings, who co-founded Netflix in 1997, the early years ar… [+3050 chars]",
+         "author" : "Melody Hahm"
       },
       {
          "url" : "https://www.businessinsider.com/warren-buffett-snowflake-570-million-bet-trusts-deputies-jake-taylor-2020-9",
-         "author" : "Theron Mohamed",
-         "source" : {
-            "id" : "business-insider",
-            "name" : "Business Insider"
-         },
          "publishedAt" : "2020-09-12T11:07:01Z",
-         "description" : "Warren Buffett's $570 million bet on Snowflake shows he completely trusts his deputies, investor Jake Taylor says",
+         "urlToImage" : "https://i.insider.com/5f4c5e417ffa48002894d157?format=jpeg",
          "title" : "Warren Buffett's $570 million bet on Snowflake shows he completely trusts his deputies, investor Jake Taylor says | Markets - Business Insider",
-         "content" : "Bill Pugliano/Getty\r\n<ul><li>Berkshire Hathaway's $570 million bet on Snowflake shows CEO Warren Buffett completely trusts his two portfolio managers, Todd Combs and Ted Weschler, one fund manager sa… [+3052 chars]",
-         "urlToImage" : "https://i.insider.com/5f4c5e417ffa48002894d157?format=jpeg"
+         "description" : "Warren Buffett's $570 million bet on Snowflake shows he completely trusts his deputies, investor Jake Taylor says",
+         "source" : {
+            "name" : "Business Insider",
+            "id" : "business-insider"
+         },
+         "author" : "Theron Mohamed",
+         "content" : "Bill Pugliano/Getty\r\n<ul><li>Berkshire Hathaway's $570 million bet on Snowflake shows CEO Warren Buffett completely trusts his two portfolio managers, Todd Combs and Ted Weschler, one fund manager sa… [+3052 chars]"
       },
       {
-         "title" : "Claiming Social Security Early? 3 Pros and Cons You Need to Know - The Motley Fool",
-         "content" : "For more than 80 years, Social Security has been providing a financial foundation for retired workers. Data from the Social Security Administration finds that 62% of all current retirees rely on the … [+6035 chars]",
-         "urlToImage" : "https://g.foolcdn.com/editorial/images/590734/social-security-benefit-application-form-retire-claiming-age-getty.jpg",
          "description" : "A majority of retired workers take their Social Security payout before reaching full retirement age.",
          "source" : {
-            "name" : "Motley Fool",
-            "id" : null
+            "id" : null,
+            "name" : "Motley Fool"
          },
+         "content" : "For more than 80 years, Social Security has been providing a financial foundation for retired workers. Data from the Social Security Administration finds that 62% of all current retirees rely on the … [+6035 chars]",
+         "author" : "Sean Williams",
          "publishedAt" : "2020-09-12T10:06:00Z",
          "url" : "https://www.fool.com/retirement/2020/09/12/claiming-social-security-early-3-pros-and-cons-you/",
-         "author" : "Sean Williams"
+         "title" : "Claiming Social Security Early? 3 Pros and Cons You Need to Know - The Motley Fool",
+         "urlToImage" : "https://g.foolcdn.com/editorial/images/590734/social-security-benefit-application-form-retire-claiming-age-getty.jpg"
       },
       {
-         "title" : "TEN 307 - Lucid Air Revealed, Nikola Hindenburg Report, Elon Musk Drives ID3 - Transport Evolved",
-         "content" : null,
-         "urlToImage" : null,
-         "description" : null,
          "publishedAt" : "2020-09-12T06:13:38Z",
+         "url" : "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9LVlWTEltb3JsbTTSAQA?oc=5",
+         "title" : "TEN 307 - Lucid Air Revealed, Nikola Hindenburg Report, Elon Musk Drives ID3 - Transport Evolved",
+         "urlToImage" : null,
          "source" : {
             "id" : "google-news",
             "name" : "Google News"
          },
+         "description" : null,
          "author" : null,
-         "url" : "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9LVlWTEltb3JsbTTSAQA?oc=5"
+         "content" : null
       },
       {
-         "description" : "The DeFi cryptocurrency space is attempting to rebound after an eventful week that saw Bitcoin price recover above $10,000",
-         "title" : "Rumors of DeFi’s demise have been greatly exaggerated: weekly recap - Cointelegraph",
-         "content" : "DeFi projects have been dominating headlines as of late, and the unexpected departure by a high-profile founder had ripple effects throughout crypto markets. Here are the top stories from the past we… [+3887 chars]",
-         "urlToImage" : "https://s3.cointelegraph.com/storage/uploads/view/85a4be93bd1b599a21031f68027dbcf8.jpg",
-         "url" : "https://cointelegraph.com/news/rumors-of-defis-demise-have-been-greatly-exaggerated-weekly-recap",
          "author" : "Denis Vinokourov",
+         "content" : "DeFi projects have been dominating headlines as of late, and the unexpected departure by a high-profile founder had ripple effects throughout crypto markets. Here are the top stories from the past we… [+3887 chars]",
          "source" : {
             "id" : null,
             "name" : "Cointelegraph"
          },
+         "description" : "The DeFi cryptocurrency space is attempting to rebound after an eventful week that saw Bitcoin price recover above $10,000",
+         "urlToImage" : "https://s3.cointelegraph.com/storage/uploads/view/85a4be93bd1b599a21031f68027dbcf8.jpg",
+         "title" : "Rumors of DeFi’s demise have been greatly exaggerated: weekly recap - Cointelegraph",
+         "url" : "https://cointelegraph.com/news/rumors-of-defis-demise-have-been-greatly-exaggerated-weekly-recap",
          "publishedAt" : "2020-09-12T06:13:00Z"
       },
       {
+         "urlToImage" : "https://cdn.mos.cms.futurecdn.net/NDWPUGsU8igfctRPxTtYAZ-1200-80.jpg",
+         "title" : "Astra's 1st orbital test launch fails during first-stage engine burn - Space.com",
          "url" : "https://www.space.com/astra-launches-first-orbital-mission.html",
+         "publishedAt" : "2020-09-12T04:58:00Z",
          "author" : "Mike Wall",
+         "content" : "Astra's first orbital mission got off the ground, but it soon came back down again. \r\nThe California-based spaceflight startup launched its first orbital test flight\r\n tonight (Sept. 11), sending its… [+4413 chars]",
+         "description" : "But Astra wasn't expecting perfection.",
          "source" : {
             "id" : null,
             "name" : "Space.com"
-         },
-         "publishedAt" : "2020-09-12T04:58:00Z",
-         "description" : "But Astra wasn't expecting perfection.",
-         "title" : "Astra's 1st orbital test launch fails during first-stage engine burn - Space.com",
-         "urlToImage" : "https://cdn.mos.cms.futurecdn.net/NDWPUGsU8igfctRPxTtYAZ-1200-80.jpg",
-         "content" : "Astra's first orbital mission got off the ground, but it soon came back down again. \r\nThe California-based spaceflight startup launched its first orbital test flight\r\n tonight (Sept. 11), sending its… [+4413 chars]"
+         }
       },
       {
-         "title" : "Singapore Airlines Plans Flights to Nowhere, Reports Say - Bloomberg",
-         "urlToImage" : null,
-         "content" : "To continue, please click the box below to let us know you're not a robot.",
-         "description" : null,
+         "url" : "https://www.bloomberg.com/tosv2.html?vid=&uuid=f84cc6d0-f4c4-11ea-9966-2d7338b55a12&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wOS0xMi9zaW5nYXBvcmUtYWlybGluZXMtcGxhbnMtZmxpZ2h0cy10by1ub3doZXJlLXN0cmFpdHMtdGltZXMtc2F5cw==",
          "publishedAt" : "2020-09-12T04:18:00Z",
+         "urlToImage" : null,
+         "title" : "Singapore Airlines Plans Flights to Nowhere, Reports Say - Bloomberg",
+         "description" : null,
          "source" : {
             "name" : "Bloomberg",
             "id" : "bloomberg"
          },
-         "author" : null,
-         "url" : "https://www.bloomberg.com/tosv2.html?vid=&uuid=f84cc6d0-f4c4-11ea-9966-2d7338b55a12&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wOS0xMi9zaW5nYXBvcmUtYWlybGluZXMtcGxhbnMtZmxpZ2h0cy10by1ub3doZXJlLXN0cmFpdHMtdGltZXMtc2F5cw=="
+         "content" : "To continue, please click the box below to let us know you're not a robot.",
+         "author" : null
       },
       {
          "url" : "https://www.newsweek.com/us-budget-deficit-hits-record-days-after-china-says-it-may-dump-american-debt-1531462",
-         "author" : "Christina Zhao",
-         "source" : {
-            "name" : "Newsweek",
-            "id" : "newsweek"
-         },
          "publishedAt" : "2020-09-12T03:56:42Z",
-         "description" : "The $3 trillion deficit between October and August, worsened by coronavirus relief spending, more than doubles the previous all-time high shortfall of $1.37 trillion set in 2009.",
          "urlToImage" : "https://d.newsweek.com/en/full/1635647/us-chinese-money.jpg",
+         "title" : "U.S. Budget Deficit Hits Record, Days After China Says It May Dump American Debt - Newsweek",
+         "source" : {
+            "id" : "newsweek",
+            "name" : "Newsweek"
+         },
+         "description" : "The $3 trillion deficit between October and August, worsened by coronavirus relief spending, more than doubles the previous all-time high shortfall of $1.37 trillion set in 2009.",
          "content" : "The U.S. Treasury Department on Friday said the budget deficit soared to a record high of $3 trillion through the first 11 months of this financial year. The announcement came just days after China i… [+2816 chars]",
-         "title" : "U.S. Budget Deficit Hits Record, Days After China Says It May Dump American Debt - Newsweek"
+         "author" : "Christina Zhao"
       },
       {
-         "title" : "Mega Millions lottery: Did you win Friday’s $108M Mega Millions drawing? Results, winning numbers (09/11/2020) - NJ.com",
          "urlToImage" : "https://www.nj.com/resizer/VXfSarDs6EXon0_CQUEYuVDBcnE=/1280x0/filters:focal(322x187:332x177)/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/SXTMOK7H45GGNKILPQ6BBXRTBU.jpg",
-         "content" : "The Mega Millions jackpot for Fridays lottery drawing has climbed to $108 million with a cash option of $86 million.\r\nNo one across the country hit Tuesdays $97 million jackpot and no second-prize, $… [+1541 chars]",
-         "description" : "The winning Mega Millions lottery numbers were drawn Friday, Sept. 11, 2020, at 11 p.m. The Mega Millions jackpot drawing for (09/11/2020) was worth an estimated $108 million for a single winner.",
+         "title" : "Mega Millions lottery: Did you win Friday’s $108M Mega Millions drawing? Results, winning numbers (09/11/2020) - NJ.com",
+         "url" : "https://www.nj.com/lottery/2020/09/mega-millions-lottery-did-you-win-fridays-108m-mega-millions-drawing-results-winning-numbers-09112020.html",
          "publishedAt" : "2020-09-12T03:34:00Z",
-         "source" : {
-            "id" : null,
-            "name" : "nj.com"
-         },
+         "content" : "The Mega Millions jackpot for Fridays lottery drawing has climbed to $108 million with a cash option of $86 million.\r\nNo one across the country hit Tuesdays $97 million jackpot and no second-prize, $… [+1541 chars]",
          "author" : "Jeff Goldman | NJ Advance Media for NJ.com, Chris Sheldon | NJ Advance Media for NJ.com",
-         "url" : "https://www.nj.com/lottery/2020/09/mega-millions-lottery-did-you-win-fridays-108m-mega-millions-drawing-results-winning-numbers-09112020.html"
+         "source" : {
+            "name" : "nj.com",
+            "id" : null
+         },
+         "description" : "The winning Mega Millions lottery numbers were drawn Friday, Sept. 11, 2020, at 11 p.m. The Mega Millions jackpot drawing for (09/11/2020) was worth an estimated $108 million for a single winner."
       },
       {
-         "urlToImage" : "https://media.tegna-media.com/assets/WBNS/images/b1ee5212-e556-4bba-b424-dbd71ee608d2/b1ee5212-e556-4bba-b424-dbd71ee608d2_1140x641.jpg",
-         "content" : "COLUMBUS, Ohio Columbus police say a pedestrian has died after being hit by a vehicle Friday night on the city's north side.\r\nIt happened in the 5300 block of North High Street.\r\nA 911 call was recei… [+243 chars]",
          "title" : "Pedestrian killed after being hit by vehicle in north Columbus - 10TV",
-         "description" : "The victim's name has not been released.",
+         "urlToImage" : "https://media.tegna-media.com/assets/WBNS/images/b1ee5212-e556-4bba-b424-dbd71ee608d2/b1ee5212-e556-4bba-b424-dbd71ee608d2_1140x641.jpg",
          "publishedAt" : "2020-09-12T03:13:00Z",
-         "source" : {
-            "id" : null,
-            "name" : "10TV"
-         },
+         "url" : "https://www.10tv.com/article/news/local/pedestrian-dies-after-being-hit-by-vehicle-in-north-columbus/530-5b3c1189-2775-4a84-a3f3-ed6060732c3f",
          "author" : "10TV Web Staff",
-         "url" : "https://www.10tv.com/article/news/local/pedestrian-dies-after-being-hit-by-vehicle-in-north-columbus/530-5b3c1189-2775-4a84-a3f3-ed6060732c3f"
+         "content" : "COLUMBUS, Ohio Columbus police say a pedestrian has died after being hit by a vehicle Friday night on the city's north side.\r\nIt happened in the 5300 block of North High Street.\r\nA 911 call was recei… [+243 chars]",
+         "description" : "The victim's name has not been released.",
+         "source" : {
+            "name" : "10TV",
+            "id" : null
+         }
       },
       {
          "source" : {
             "id" : null,
             "name" : "Eatthis.com"
          },
+         "description" : "Three new Chick-fil-A menu items are here just in time for fall, even though the two coffee drinks and new dessert aren't pumpkin flavored.",
+         "author" : null,
+         "content" : "Several fast-food restaurant chains have announced new menu items as summer ends and fall begins. Taco Bell has a new drink and a new entree. Wendy's has a brand new cheeseburger (complete with a pre… [+3370 chars]",
          "publishedAt" : "2020-09-12T01:21:00Z",
          "url" : "https://www.eatthis.com/new-chick-fil-a-menu-items/",
-         "author" : null,
-         "urlToImage" : "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BBX0COh.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg",
-         "content" : "Several fast-food restaurant chains have announced new menu items as summer ends and fall begins. Taco Bell has a new drink and a new entree. Wendy's has a brand new cheeseburger (complete with a pre… [+3370 chars]",
          "title" : "Chick-fil-A Just Added These Three New Menu Items - msnNOW",
-         "description" : "Three new Chick-fil-A menu items are here just in time for fall, even though the two coffee drinks and new dessert aren't pumpkin flavored."
+         "urlToImage" : "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BBX0COh.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
       },
       {
+         "url" : "https://www.ktnv.com/news/crime/wynn-las-vegas-files-lawsuit-after-labor-day-weekend-violence-at-property",
+         "publishedAt" : "2020-09-11T23:59:00Z",
+         "urlToImage" : "https://ewscripps.brightspotcdn.com/dims4/default/fe96d2c/2147483647/strip/true/crop/4032x2117+0+454/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2Fb0%2F0b%2Ff2dde1bd4240835b7abbc8889206%2Fwynn.JPG",
+         "title" : "Wynn Las Vegas files lawsuit after Labor Day weekend violence at property - KTNV Las Vegas",
+         "description" : "The Wynn Las Vegas has filed a lawsuit after fights broke out at the property over Labor Day weekend.",
          "source" : {
             "name" : "KTNV Las Vegas",
             "id" : null
          },
-         "publishedAt" : "2020-09-11T23:59:00Z",
-         "url" : "https://www.ktnv.com/news/crime/wynn-las-vegas-files-lawsuit-after-labor-day-weekend-violence-at-property",
-         "author" : "Jordan Gartner",
-         "urlToImage" : "https://ewscripps.brightspotcdn.com/dims4/default/fe96d2c/2147483647/strip/true/crop/4032x2117+0+454/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2Fb0%2F0b%2Ff2dde1bd4240835b7abbc8889206%2Fwynn.JPG",
          "content" : "LAS VEGAS (KTNV) The Wynn Las Vegas has filed a lawsuit after fights broke out at the property over Labor Day weekend.\r\nThe resort filed the lawsuit on Friday against the individuals who were involve… [+3025 chars]",
-         "title" : "Wynn Las Vegas files lawsuit after Labor Day weekend violence at property - KTNV Las Vegas",
-         "description" : "The Wynn Las Vegas has filed a lawsuit after fights broke out at the property over Labor Day weekend."
+         "author" : "Jordan Gartner"
       },
       {
-         "title" : "Three Senators Urge Amazon To Stop Selling Products Alleged To Be Fire Hazards - Forbes",
-         "content" : "Democratic Senators Richard Blumenthal, Bob Menendez and Edward Markey wrote a letter to Amazon CEO Jeff Bezos on Friday calling on the company to immediately stop the sale of private-label AmazonBas… [+2469 chars]",
-         "urlToImage" : "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f5c09fbe4db0d2831dfcbb7%2F0x0.jpg",
          "description" : "A recent CNN report found that dozens of Amazon products sold under its AmazonBasics line have exploded and started fires.",
-         "publishedAt" : "2020-09-11T23:39:00Z",
          "source" : {
-            "name" : "Forbes",
-            "id" : null
+            "id" : null,
+            "name" : "Forbes"
          },
+         "content" : "Democratic Senators Richard Blumenthal, Bob Menendez and Edward Markey wrote a letter to Amazon CEO Jeff Bezos on Friday calling on the company to immediately stop the sale of private-label AmazonBas… [+2469 chars]",
          "author" : "Elana Lyn Gross",
-         "url" : "https://www.forbes.com/sites/elanagross/2020/09/11/three-senators-urge-amazon-to-stop-selling-products-alleged-to-be-fire-hazards/"
+         "url" : "https://www.forbes.com/sites/elanagross/2020/09/11/three-senators-urge-amazon-to-stop-selling-products-alleged-to-be-fire-hazards/",
+         "publishedAt" : "2020-09-11T23:39:00Z",
+         "urlToImage" : "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f5c09fbe4db0d2831dfcbb7%2F0x0.jpg",
+         "title" : "Three Senators Urge Amazon To Stop Selling Products Alleged To Be Fire Hazards - Forbes"
       },
       {
-         "author" : "Matthew Ismael Ruiz",
-         "url" : "https://pitchfork.com/news/ti-charged-by-sec-with-promoting-fraudulent-cryptocurrency-agrees-to-settlement/",
-         "publishedAt" : "2020-09-11T23:27:31Z",
-         "source" : {
-            "name" : "Pitchfork",
-            "id" : null
-         },
-         "description" : "The Securities and Exchange Commission has ordered the rapper/actor to pay a $75,000 fine and not participate in future Initial Coin Offerings",
-         "content" : "The Securities and Exchange Commission has charged T.I. with promoting fraudulent initial coin offerings (ICOs) in connection with a company called FLiK. The Atlanta rapper and actor agreed to pay a … [+1205 chars]",
+         "title" : "T.I. Charged by SEC With Promoting Fraudulent Cryptocurrency, Agrees to Settlement - Pitchfork",
          "urlToImage" : "https://media.pitchfork.com/photos/5f5beab12beefca0f77f6325/16:9/w_1280,c_limit/GettyImages-1252292408.jpg",
-         "title" : "T.I. Charged by SEC With Promoting Fraudulent Cryptocurrency, Agrees to Settlement - Pitchfork"
+         "publishedAt" : "2020-09-11T23:27:31Z",
+         "url" : "https://pitchfork.com/news/ti-charged-by-sec-with-promoting-fraudulent-cryptocurrency-agrees-to-settlement/",
+         "author" : "Matthew Ismael Ruiz",
+         "content" : "The Securities and Exchange Commission has charged T.I. with promoting fraudulent initial coin offerings (ICOs) in connection with a company called FLiK. The Atlanta rapper and actor agreed to pay a … [+1205 chars]",
+         "description" : "The Securities and Exchange Commission has ordered the rapper/actor to pay a $75,000 fine and not participate in future Initial Coin Offerings",
+         "source" : {
+            "id" : null,
+            "name" : "Pitchfork"
+         }
       },
       {
-         "description" : "In March, the airlines agreed to retain some degree of service to every domestic airport that had commercial service prior to the pandemic. That agreement expires at the end of September.",
-         "title" : "American Airlines to Cut Service to These U.S. Cities—Will There Be More? - AFAR Media",
-         "urlToImage" : "https://afar-production.imgix.net/uploads/images/afar_post_headers/images/dDWVF9XcbG/original_shutterstock_1204609633.jpg?crop=top&fit=crop&w=600&h=330",
          "content" : "In March, the airlines agreed to retain some degree of service to every domestic airport that had commercial service prior to the pandemic. That agreement expires at the end of September.\r\nLast month… [+8155 chars]",
          "author" : "Michelle Baran",
-         "url" : "https://www.afar.com/magazine/american-airlines-to-cut-service-to-these-us-cities-will-there-be-more",
-         "publishedAt" : "2020-09-11T22:58:25Z",
          "source" : {
-            "name" : "AFAR Media",
-            "id" : null
-         }
+            "id" : null,
+            "name" : "AFAR Media"
+         },
+         "description" : "In March, the airlines agreed to retain some degree of service to every domestic airport that had commercial service prior to the pandemic. That agreement expires at the end of September.",
+         "urlToImage" : "https://afar-production.imgix.net/uploads/images/afar_post_headers/images/dDWVF9XcbG/original_shutterstock_1204609633.jpg?crop=top&fit=crop&w=600&h=330",
+         "title" : "American Airlines to Cut Service to These U.S. Cities—Will There Be More? - AFAR Media",
+         "url" : "https://www.afar.com/magazine/american-airlines-to-cut-service-to-these-us-cities-will-there-be-more",
+         "publishedAt" : "2020-09-11T22:58:25Z"
       }
-   ]
+   ],
+   "status" : "ok",
+   "totalResults" : 70
 }
