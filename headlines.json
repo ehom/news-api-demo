@@ -1,266 +1,266 @@
 {
+   "totalResults" : 70,
+   "status" : "ok",
    "articles" : [
       {
-         "source" : {
-            "id" : null,
-            "name" : "MarketWatch"
-         },
-         "content" : "The U.S. economy has kept growing despite a summer spike in coronavirus cases and the end of massive federal aid, but millions of Americans are either being left out or in are danger of being left be… [+4481 chars]",
-         "urlToImage" : "https://s.marketwatch.com/public/resources/images/MW-IO364_econom_ZG_20200911141117.jpg",
-         "url" : "https://www.marketwatch.com/story/the-numbers-tell-us-the-economy-is-better-but-millions-of-americans-arent-feeling-it-2020-09-12",
-         "description" : "U.S. economic recovery is widening the gulf among Americans",
-         "author" : "Jeffry Bartash",
          "publishedAt" : "2020-09-12T17:38:00Z",
-         "title" : "The numbers tell us the economy is better, but millions of Americans aren't feeling it - msnNOW"
+         "content" : "The U.S. economy has kept growing despite a summer spike in coronavirus cases and the end of massive federal aid, but millions of Americans are either being left out or in are danger of being left be… [+4481 chars]",
+         "source" : {
+            "name" : "MarketWatch",
+            "id" : null
+         },
+         "description" : "U.S. economic recovery is widening the gulf among Americans",
+         "urlToImage" : "https://s.marketwatch.com/public/resources/images/MW-IO364_econom_ZG_20200911141117.jpg",
+         "title" : "The numbers tell us the economy is better, but millions of Americans aren't feeling it - msnNOW",
+         "author" : "Jeffry Bartash",
+         "url" : "https://www.marketwatch.com/story/the-numbers-tell-us-the-economy-is-better-but-millions-of-americans-arent-feeling-it-2020-09-12"
       },
       {
          "url" : "https://www.npr.org/sections/coronavirus-live-updates/2020/09/12/912281381/astrazeneca-resumes-its-covid-19-vaccine-trials-in-the-u-k",
-         "content" : "Earlier in the week, AstraZeneca had paused worldwide studies of its candidate vaccine after one U.K. participant developed symptoms consistent with the spinal cord inflammation known as transverse m… [+2922 chars]",
+         "author" : "",
+         "title" : "AstraZeneca Resumes Its COVID-19 Vaccine Trials In The U.K. - NPR",
+         "urlToImage" : "https://media.npr.org/assets/img/2020/09/12/ap_20202505945262-1-_wide-6de5977ab9f6217655efc63e62347fb83fa03714.jpg?s=1400",
+         "description" : "The company had placed its worldwide vaccine trials on hold for several days. It now says a safety review by regulators and reviewers is complete. No word on when studies in the U.S. might resume.",
          "source" : {
             "id" : null,
             "name" : "NPR"
          },
-         "urlToImage" : "https://media.npr.org/assets/img/2020/09/12/ap_20202505945262-1-_wide-6de5977ab9f6217655efc63e62347fb83fa03714.jpg?s=1400",
-         "description" : "The company had placed its worldwide vaccine trials on hold for several days. It now says a safety review by regulators and reviewers is complete. No word on when studies in the U.S. might resume.",
-         "author" : "",
-         "publishedAt" : "2020-09-12T17:00:00Z",
-         "title" : "AstraZeneca Resumes Its COVID-19 Vaccine Trials In The U.K. - NPR"
+         "content" : "Earlier in the week, AstraZeneca had paused worldwide studies of its candidate vaccine after one U.K. participant developed symptoms consistent with the spinal cord inflammation known as transverse m… [+2922 chars]",
+         "publishedAt" : "2020-09-12T17:00:00Z"
       },
       {
-         "title" : "Market Rally Livin' On The Edge; Take These 3 Steps Now - Investor's Business Daily",
-         "publishedAt" : "2020-09-12T16:16:00Z",
-         "author" : "Investor's Business Daily",
          "description" : "Dow Jones futures: The stock market rally is under growing pressure after further violent selling. It's time to be defensive and prepare for a correction.",
-         "url" : "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-stock-market-rally-livin-on-edge-take-these-steps/",
          "source" : {
             "id" : null,
             "name" : "Investor's Business Daily"
          },
+         "urlToImage" : "https://www.investors.com/wp-content/uploads/2018/05/Stock-sharkTightrope-01-adobe.jpg",
+         "publishedAt" : "2020-09-12T16:16:00Z",
          "content" : "Dow Jones futures will resume trading Sunday evening, along with S&amp;P 500 futures and Nasdaq futures. The stock market rally is still in force, but it's livin' on the edge following a second week … [+7735 chars]",
-         "urlToImage" : "https://www.investors.com/wp-content/uploads/2018/05/Stock-sharkTightrope-01-adobe.jpg"
+         "author" : "Investor's Business Daily",
+         "title" : "Market Rally Livin' On The Edge; Take These 3 Steps Now - Investor's Business Daily",
+         "url" : "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-stock-market-rally-livin-on-edge-take-these-steps/"
       },
       {
          "url" : "https://ktla.com/news/nationworld/amazons-33000-job-openings-average-150k-in-pay-will-begin-as-remote-positions/",
-         "content" : "Amazon plans to hire 33,000 people for corporate and tech roles in the next few months and those available positions can begin as work-from-home jobs, according to CBS New York.\r\nThe new hires will w… [+1491 chars]",
-         "urlToImage" : "https://ktla.com/wp-content/uploads/sites/4/2020/09/GettyImages-696679794.jpg?w=1280",
-         "source" : {
-            "name" : "KTLA Los Angeles",
-            "id" : null
-         },
-         "description" : "Amazon plans to hire 33,000 people for corporate and tech roles in the next few months and those available positions can begin as work-from-home jobs, according to CBS New York. The new hires will work from home and eventually be asked to work in an office, t…",
-         "publishedAt" : "2020-09-12T16:10:00Z",
+         "author" : "Nexstar Media Wire",
          "title" : "Amazon’s 33,000 job openings average $150K in pay, will begin as remote positions - KTLA Los Angeles",
-         "author" : "Nexstar Media Wire"
+         "content" : "Amazon plans to hire 33,000 people for corporate and tech roles in the next few months and those available positions can begin as work-from-home jobs, according to CBS New York.\r\nThe new hires will w… [+1491 chars]",
+         "publishedAt" : "2020-09-12T16:10:00Z",
+         "urlToImage" : "https://ktla.com/wp-content/uploads/sites/4/2020/09/GettyImages-696679794.jpg?w=1280",
+         "description" : "Amazon plans to hire 33,000 people for corporate and tech roles in the next few months and those available positions can begin as work-from-home jobs, according to CBS New York. The new hires will work from home and eventually be asked to work in an office, t…",
+         "source" : {
+            "id" : null,
+            "name" : "KTLA Los Angeles"
+         }
       },
       {
-         "publishedAt" : "2020-09-12T16:09:00Z",
-         "title" : "$50,000 reward offered after USPS employee is critically injured in shooting - CNN",
-         "author" : "Melissa Alonso, CNN",
-         "description" : "After a postal worker in Chicago was shot and critically injured, the US Postal Inspection Service offered a $50,000 reward for information.",
-         "url" : "https://www.cnn.com/2020/09/12/us/usps-employee-chicago-shooting-trnd/index.html",
-         "content" : "(CNN)After a postal worker in Chicago was shot and critically injured, the US Postal Inspection Service offered a $50,000 reward for information.\r\nThe 24-year-old female letter carrier was \"shot mult… [+725 chars]",
          "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200912111000-01-chicago-postal-worker-shot-trnd-super-tease.jpg",
          "source" : {
             "id" : "cnn",
             "name" : "CNN"
-         }
+         },
+         "description" : "After a postal worker in Chicago was shot and critically injured, the US Postal Inspection Service offered a $50,000 reward for information.",
+         "content" : "(CNN)After a postal worker in Chicago was shot and critically injured, the US Postal Inspection Service offered a $50,000 reward for information.\r\nThe 24-year-old female letter carrier was \"shot mult… [+725 chars]",
+         "publishedAt" : "2020-09-12T16:09:00Z",
+         "url" : "https://www.cnn.com/2020/09/12/us/usps-employee-chicago-shooting-trnd/index.html",
+         "title" : "$50,000 reward offered after USPS employee is critically injured in shooting - CNN",
+         "author" : "Melissa Alonso, CNN"
       },
       {
          "publishedAt" : "2020-09-12T16:01:00Z",
-         "title" : "Shhh -- Here's the Secret to How Millions Can Pay No Tax on Stock Profits - Motley Fool",
-         "author" : "Dan Caplinger",
-         "description" : "Buried in the tax laws, you'll find a tax break that can cut or even eliminate income tax.",
-         "url" : "https://www.fool.com/taxes/2020/09/12/shhh-secret-millions-can-pay-no-tax-stock-profits/",
-         "source" : {
-            "name" : "Motley Fool",
-            "id" : null
-         },
          "content" : "Stock investors have been highly successful over the past decade. Even the coronavirus bear market in early 2020 didn't hold the market down for long.\r\nThe only downside to having big profits in stoc… [+3541 chars]",
-         "urlToImage" : "https://g.foolcdn.com/editorial/images/590959/secret-gettyimages-1147978420.jpg"
-      },
-      {
-         "content" : "Singapore Airlines is planning trips that start and end at the same airport in a bid to boost business after passenger traffic drops amid the coronavirus pandemic. \r\nThe flights 'to nowhere' are set … [+2976 chars]",
-         "urlToImage" : "https://i.dailymail.co.uk/1s/2020/09/12/16/33095170-0-image-a-75_1599923854967.jpg",
+         "description" : "Buried in the tax laws, you'll find a tax break that can cut or even eliminate income tax.",
          "source" : {
             "id" : null,
-            "name" : "Daily Mail"
+            "name" : "Motley Fool"
          },
-         "url" : "https://www.dailymail.co.uk/news/article-8725811/Singapore-Airlines-planning-trips-start-end-airport-boost-business.html",
-         "author" : "By Kate Dennett For Mailonline",
-         "title" : "Singapore Airlines is planning trips that start and end at the SAME airport to boost business - Daily Mail",
-         "publishedAt" : "2020-09-12T15:52:59Z",
-         "description" : "Singapore Airlines Group is reportedly planning to start flights to nowhere by the end of October, which would both take off and land at Singapore's Changi Airport in a three-hour round trip."
+         "urlToImage" : "https://g.foolcdn.com/editorial/images/590959/secret-gettyimages-1147978420.jpg",
+         "author" : "Dan Caplinger",
+         "title" : "Shhh -- Here's the Secret to How Millions Can Pay No Tax on Stock Profits - Motley Fool",
+         "url" : "https://www.fool.com/taxes/2020/09/12/shhh-secret-millions-can-pay-no-tax-stock-profits/"
       },
       {
-         "url" : "https://www.cnbc.com/2020/09/12/pfizer-proposes-expansion-of-late-stage-coronavirus-vaccine-trial.html",
+         "urlToImage" : "https://i.dailymail.co.uk/1s/2020/09/12/16/33095170-0-image-a-75_1599923854967.jpg",
+         "source" : {
+            "name" : "Daily Mail",
+            "id" : null
+         },
+         "description" : "Singapore Airlines Group is reportedly planning to start flights to nowhere by the end of October, which would both take off and land at Singapore's Changi Airport in a three-hour round trip.",
+         "content" : "Singapore Airlines is planning trips that start and end at the same airport in a bid to boost business after passenger traffic drops amid the coronavirus pandemic. \r\nThe flights 'to nowhere' are set … [+2976 chars]",
+         "publishedAt" : "2020-09-12T15:52:59Z",
+         "url" : "https://www.dailymail.co.uk/news/article-8725811/Singapore-Airlines-planning-trips-start-end-airport-boost-business.html",
+         "title" : "Singapore Airlines is planning trips that start and end at the SAME airport to boost business - Daily Mail",
+         "author" : "By Kate Dennett For Mailonline"
+      },
+      {
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106627050-1595417572663-gettyimages-1158411787-775381928.jpeg?v=1595936001",
+         "description" : "The companies, which are developing the vaccine together, said in a statement that the trial is proceeding as planned and they expect to have enrolled 30,000 participants by next week.",
          "source" : {
             "name" : "CNBC",
             "id" : null
          },
          "content" : "Pfizer and German biotech firm BioNTechannounced Saturday that they have submitted a proposal to the U.S. Food and Drug Administration to expand the phase-three trial of its coronavirus vaccine to in… [+2792 chars]",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106627050-1595417572663-gettyimages-1158411787-775381928.jpeg?v=1595936001",
-         "author" : "Will Feuer",
-         "title" : "Pfizer proposes expansion of late-stage coronavirus vaccine trial - CNBC",
          "publishedAt" : "2020-09-12T14:46:00Z",
-         "description" : "The companies, which are developing the vaccine together, said in a statement that the trial is proceeding as planned and they expect to have enrolled 30,000 participants by next week."
+         "url" : "https://www.cnbc.com/2020/09/12/pfizer-proposes-expansion-of-late-stage-coronavirus-vaccine-trial.html",
+         "author" : "Will Feuer",
+         "title" : "Pfizer proposes expansion of late-stage coronavirus vaccine trial - CNBC"
       },
       {
          "url" : "https://www.wsj.com/articles/hospitals-oppose-positive-covid-19-test-requirement-for-more-medicare-funding-11599903000",
-         "content" : "Many health-care companies and hospital industry groups are fighting a Trump administration policy tying extra federal coronavirus reimbursements to test results proving that patients are positive fo… [+7072 chars]",
+         "title" : "Hospitals oppose positive COVID-19 test requirement for more Medicare funding - Fox Business",
+         "author" : "The Wall Street Journal",
+         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/07/0/0/AP20211606943791.jpg?ve=1&tl=1",
          "source" : {
             "id" : "the-wall-street-journal",
             "name" : "The Wall Street Journal"
          },
-         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/07/0/0/AP20211606943791.jpg?ve=1&tl=1",
-         "author" : "The Wall Street Journal",
-         "publishedAt" : "2020-09-12T13:55:11Z",
-         "title" : "Hospitals oppose positive COVID-19 test requirement for more Medicare funding - Fox Business",
-         "description" : "Many health-care companies and hospital industry groups are fighting a Trump administration policy tying extra federal coronavirus reimbursements to test results proving that patients are positive for Covid-19."
+         "description" : "Many health-care companies and hospital industry groups are fighting a Trump administration policy tying extra federal coronavirus reimbursements to test results proving that patients are positive for Covid-19.",
+         "content" : "Many health-care companies and hospital industry groups are fighting a Trump administration policy tying extra federal coronavirus reimbursements to test results proving that patients are positive fo… [+7072 chars]",
+         "publishedAt" : "2020-09-12T13:55:11Z"
       },
       {
-         "content" : "For millions of retirees, Social Security benefits make the difference between enjoying a comfortable lifestyle and struggling to make ends meet. In fact, nearly one-quarter of married couples and cl… [+4043 chars]",
+         "url" : "https://www.fool.com/retirement/2020/09/12/social-security-benefits-could-be-cut-by-2031-here/",
+         "title" : "Social Security Benefits Could Be Cut by 2031. Here's What That Means for Retirees - The Motley Fool",
+         "author" : "Katie Brockman",
          "urlToImage" : "https://g.foolcdn.com/editorial/images/591241/social-security-card.jpg",
          "source" : {
             "name" : "Motley Fool",
             "id" : null
          },
-         "url" : "https://www.fool.com/retirement/2020/09/12/social-security-benefits-could-be-cut-by-2031-here/",
-         "title" : "Social Security Benefits Could Be Cut by 2031. Here's What That Means for Retirees - The Motley Fool",
-         "publishedAt" : "2020-09-12T13:32:00Z",
-         "author" : "Katie Brockman",
-         "description" : "Don't let Social Security cuts wreck your retirement plans."
+         "description" : "Don't let Social Security cuts wreck your retirement plans.",
+         "content" : "For millions of retirees, Social Security benefits make the difference between enjoying a comfortable lifestyle and struggling to make ends meet. In fact, nearly one-quarter of married couples and cl… [+4043 chars]",
+         "publishedAt" : "2020-09-12T13:32:00Z"
       },
       {
-         "url" : "https://www.foxbusiness.com/markets/wechat-poses-looming-threat-for-us-businesses-in-china",
-         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/08/0/0/iPhone-WeChat-ban-AdobeStock.png?ve=1&tl=1",
-         "content" : "With time running out for Bytedance Inc. to sell social media app TikTok's U.S operations or have them shut down, American firms operating in China are focusing on a potentially far more devastating … [+3039 chars]",
          "source" : {
             "id" : null,
             "name" : "Fox Business"
          },
          "description" : "A ban on widely-used mobile payment app WeChat would cut off a vital revenue stream for U.S. companies operating in China.",
-         "title" : "Trump's WeChat ban endangers US businesses in China - Fox Business",
+         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/08/0/0/iPhone-WeChat-ban-AdobeStock.png?ve=1&tl=1",
          "publishedAt" : "2020-09-12T13:30:33Z",
-         "author" : "Jonathan Garber"
+         "content" : "With time running out for Bytedance Inc. to sell social media app TikTok's U.S operations or have them shut down, American firms operating in China are focusing on a potentially far more devastating … [+3039 chars]",
+         "title" : "Trump's WeChat ban endangers US businesses in China - Fox Business",
+         "author" : "Jonathan Garber",
+         "url" : "https://www.foxbusiness.com/markets/wechat-poses-looming-threat-for-us-businesses-in-china"
       },
       {
-         "url" : "https://www.wsj.com/articles/a-california-law-was-supposed-to-give-uber-drivers-new-protections-instead-comedians-lost-work-11599883243?mod=tech_lead_pos2",
-         "source" : {
-            "id" : "the-wall-street-journal",
-            "name" : "The Wall Street Journal"
-         },
-         "content" : "Early this year, the organizers of a small Bay Area theater told Alicia Dattner they wouldn't be able to pay her for an upcoming comedy act. The reason: A new California law that reclassified gig-eco… [+9031 chars]",
-         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/08/0/0/Lyft-Uber-suspensions-istock.jpg?ve=1&tl=1",
-         "description" : "Many small businesses have opted to cut back on their use of independent workers.",
          "title" : "How relief for Uber drivers went awry - Fox Business",
+         "author" : "The Wall Street Journal",
+         "url" : "https://www.wsj.com/articles/a-california-law-was-supposed-to-give-uber-drivers-new-protections-instead-comedians-lost-work-11599883243?mod=tech_lead_pos2",
          "publishedAt" : "2020-09-12T12:58:54Z",
-         "author" : "The Wall Street Journal"
+         "content" : "Early this year, the organizers of a small Bay Area theater told Alicia Dattner they wouldn't be able to pay her for an upcoming comedy act. The reason: A new California law that reclassified gig-eco… [+9031 chars]",
+         "source" : {
+            "name" : "The Wall Street Journal",
+            "id" : "the-wall-street-journal"
+         },
+         "description" : "Many small businesses have opted to cut back on their use of independent workers.",
+         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/08/0/0/Lyft-Uber-suspensions-istock.jpg?ve=1&tl=1"
       },
       {
-         "urlToImage" : "https://g.foolcdn.com/editorial/images/590993/gettyimages-1163546252.jpg",
-         "content" : "Many investors enjoy the dividend income that stocks produce on a quarterly -- or in some cases, monthly -- basis. What some investors may not realize is that exchange-traded funds (ETFs), which are … [+4811 chars]",
+         "description" : "These two ETFs track the best of the best when it comes to dividend stocks.",
          "source" : {
             "id" : null,
             "name" : "Motley Fool"
          },
-         "url" : "https://www.fool.com/investing/2020/09/12/the-2-best-etfs-for-dividends/",
-         "description" : "These two ETFs track the best of the best when it comes to dividend stocks.",
+         "urlToImage" : "https://g.foolcdn.com/editorial/images/590993/gettyimages-1163546252.jpg",
          "publishedAt" : "2020-09-12T12:31:00Z",
+         "content" : "Many investors enjoy the dividend income that stocks produce on a quarterly -- or in some cases, monthly -- basis. What some investors may not realize is that exchange-traded funds (ETFs), which are … [+4811 chars]",
+         "author" : "Dave Kovaleski",
          "title" : "The 2 Best ETFs for Dividends - Motley Fool",
-         "author" : "Dave Kovaleski"
+         "url" : "https://www.fool.com/investing/2020/09/12/the-2-best-etfs-for-dividends/"
       },
       {
-         "url" : "https://www.bloomberg.com/tosv2.html?vid=&uuid=fe477ea0-f518-11ea-9f19-b34c11f22c1c&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wOS0xMi9uaWtvbGEtcy1oaXN0b3J5LW9mLWRpc2NyZXBhbmNpZXMtaGFzLWJlZW4taGlkaW5nLWluLXBsYWluLXNpZ2h0",
-         "content" : "To continue, please click the box below to let us know you're not a robot.",
          "urlToImage" : null,
          "source" : {
             "name" : "Bloomberg",
             "id" : "bloomberg"
          },
-         "author" : null,
-         "title" : "Nikola EVs and Short Sellers: Latest News, Analysis on Why It's Under Scrutiny - Bloomberg",
+         "description" : null,
+         "content" : "To continue, please click the box below to let us know you're not a robot.",
          "publishedAt" : "2020-09-12T12:30:00Z",
-         "description" : null
+         "url" : "https://www.bloomberg.com/tosv2.html?vid=&uuid=fe477ea0-f518-11ea-9f19-b34c11f22c1c&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wOS0xMi9uaWtvbGEtcy1oaXN0b3J5LW9mLWRpc2NyZXBhbmNpZXMtaGFzLWJlZW4taGlkaW5nLWluLXBsYWluLXNpZ2h0",
+         "title" : "Nikola EVs and Short Sellers: Latest News, Analysis on Why It's Under Scrutiny - Bloomberg",
+         "author" : null
       },
       {
-         "title" : "Warren Buffett's $570 million bet on Snowflake shows he completely trusts his deputies, investor Jake Taylor says | Markets - Business Insider",
-         "publishedAt" : "2020-09-12T11:07:01Z",
-         "author" : "Theron Mohamed",
-         "description" : "Warren Buffett's $570 million bet on Snowflake shows he completely trusts his deputies, investor Jake Taylor says",
-         "content" : "Bill Pugliano/Getty\r\n<ul><li>Berkshire Hathaway's $570 million bet on Snowflake shows CEO Warren Buffett completely trusts his two portfolio managers, Todd Combs and Ted Weschler, one fund manager sa… [+3052 chars]",
-         "urlToImage" : "https://i.insider.com/5f4c5e417ffa48002894d157?format=jpeg",
          "source" : {
             "id" : "business-insider",
             "name" : "Business Insider"
          },
+         "description" : "Warren Buffett's $570 million bet on Snowflake shows he completely trusts his deputies, investor Jake Taylor says",
+         "urlToImage" : "https://i.insider.com/5f4c5e417ffa48002894d157?format=jpeg",
+         "publishedAt" : "2020-09-12T11:07:01Z",
+         "content" : "Bill Pugliano/Getty\r\n<ul><li>Berkshire Hathaway's $570 million bet on Snowflake shows CEO Warren Buffett completely trusts his two portfolio managers, Todd Combs and Ted Weschler, one fund manager sa… [+3052 chars]",
+         "title" : "Warren Buffett's $570 million bet on Snowflake shows he completely trusts his deputies, investor Jake Taylor says | Markets - Business Insider",
+         "author" : "Theron Mohamed",
          "url" : "https://www.businessinsider.com/warren-buffett-snowflake-570-million-bet-trusts-deputies-jake-taylor-2020-9"
       },
       {
-         "url" : "https://spaceflightnow.com/2020/09/12/astras-first-orbital-launch-attempt-falters-during-first-stage-burn/",
          "content" : "Astra’s Rocket 3.1 takes off from Kodiak Island, Alaska. Credit: Astra / John Kraus\r\nAstra’s privately-developed small satellite launcher crashed shortly after liftoff from Alaska Friday evening on t… [+7150 chars]",
+         "publishedAt" : "2020-09-12T07:31:21Z",
          "urlToImage" : null,
+         "description" : null,
          "source" : {
             "name" : "Spaceflight Now",
             "id" : null
          },
-         "description" : null,
-         "title" : "Astra launch falters during first stage burn – Spaceflight Now - Spaceflight Now",
-         "publishedAt" : "2020-09-12T07:31:21Z",
-         "author" : null
+         "url" : "https://spaceflightnow.com/2020/09/12/astras-first-orbital-launch-attempt-falters-during-first-stage-burn/",
+         "author" : null,
+         "title" : "Astra launch falters during first stage burn – Spaceflight Now - Spaceflight Now"
       },
       {
-         "url" : "https://www.nytimes.com/2020/09/12/your-money/stock-trading-robinhood-teens.html",
          "content" : "If youre under 18, you cant have your own brokerage account and trade without supervision.\r\nIt may be tempting to simply open a regular account and trade with your kids, but a better option may be a … [+1634 chars]",
+         "publishedAt" : "2020-09-12T07:00:15Z",
          "urlToImage" : "https://static01.nyt.com/images/2020/09/12/business/11money/11money-facebookJumbo.jpg",
          "source" : {
             "id" : null,
             "name" : "New York Times"
          },
          "description" : "Gunslinging young investors are making stock ownership seem like a terrible idea for novices. But owning equities, with limits and guardrails, can teach kids plenty.",
-         "author" : "Ron Lieber",
-         "publishedAt" : "2020-09-12T07:00:15Z",
-         "title" : "Teen Stock Trading Seems Dangerous. It Doesn’t Have to Be. - The New York Times"
+         "url" : "https://www.nytimes.com/2020/09/12/your-money/stock-trading-robinhood-teens.html",
+         "title" : "Teen Stock Trading Seems Dangerous. It Doesn’t Have to Be. - The New York Times",
+         "author" : "Ron Lieber"
       },
       {
-         "description" : "The DeFi cryptocurrency space is attempting to rebound after an eventful week that saw Bitcoin price recover above $10,000",
-         "author" : "Denis Vinokourov",
-         "publishedAt" : "2020-09-12T06:13:00Z",
          "title" : "Rumors of DeFi’s demise have been greatly exaggerated: weekly recap - Cointelegraph",
-         "content" : "DeFi projects have been dominating headlines as of late, and the unexpected departure by a high-profile founder had ripple effects throughout crypto markets. Here are the top stories from the past we… [+3887 chars]",
+         "author" : "Denis Vinokourov",
+         "url" : "https://cointelegraph.com/news/rumors-of-defis-demise-have-been-greatly-exaggerated-weekly-recap",
          "source" : {
-            "id" : null,
-            "name" : "Cointelegraph"
+            "name" : "Cointelegraph",
+            "id" : null
          },
+         "description" : "The DeFi cryptocurrency space is attempting to rebound after an eventful week that saw Bitcoin price recover above $10,000",
          "urlToImage" : "https://s3.cointelegraph.com/storage/uploads/view/85a4be93bd1b599a21031f68027dbcf8.jpg",
-         "url" : "https://cointelegraph.com/news/rumors-of-defis-demise-have-been-greatly-exaggerated-weekly-recap"
+         "publishedAt" : "2020-09-12T06:13:00Z",
+         "content" : "DeFi projects have been dominating headlines as of late, and the unexpected departure by a high-profile founder had ripple effects throughout crypto markets. Here are the top stories from the past we… [+3887 chars]"
       },
       {
+         "author" : "Christina Zhao",
+         "title" : "U.S. Budget Deficit Hits Record, Days After China Says It May Dump American Debt - Newsweek",
          "url" : "https://www.newsweek.com/us-budget-deficit-hits-record-days-after-china-says-it-may-dump-american-debt-1531462",
+         "description" : "The $3 trillion deficit between October and August, worsened by coronavirus relief spending, more than doubles the previous all-time high shortfall of $1.37 trillion set in 2009.",
          "source" : {
             "id" : "newsweek",
             "name" : "Newsweek"
          },
-         "content" : "The U.S. Treasury Department on Friday said the budget deficit soared to a record high of $3 trillion through the first 11 months of this financial year. The announcement came just days after China i… [+2816 chars]",
          "urlToImage" : "https://d.newsweek.com/en/full/1635647/us-chinese-money.jpg",
-         "description" : "The $3 trillion deficit between October and August, worsened by coronavirus relief spending, more than doubles the previous all-time high shortfall of $1.37 trillion set in 2009.",
-         "author" : "Christina Zhao",
-         "title" : "U.S. Budget Deficit Hits Record, Days After China Says It May Dump American Debt - Newsweek",
-         "publishedAt" : "2020-09-12T03:56:42Z"
+         "publishedAt" : "2020-09-12T03:56:42Z",
+         "content" : "The U.S. Treasury Department on Friday said the budget deficit soared to a record high of $3 trillion through the first 11 months of this financial year. The announcement came just days after China i… [+2816 chars]"
       },
       {
          "url" : "https://www.nj.com/lottery/2020/09/mega-millions-lottery-did-you-win-fridays-108m-mega-millions-drawing-results-winning-numbers-09112020.html",
+         "title" : "Mega Millions lottery: Did you win Friday’s $108M Mega Millions drawing? Results, winning numbers (09/11/2020) - NJ.com",
+         "author" : "Jeff Goldman | NJ Advance Media for NJ.com, Chris Sheldon | NJ Advance Media for NJ.com",
          "urlToImage" : "https://www.nj.com/resizer/VXfSarDs6EXon0_CQUEYuVDBcnE=/1280x0/filters:focal(322x187:332x177)/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/SXTMOK7H45GGNKILPQ6BBXRTBU.jpg",
-         "content" : "The Mega Millions jackpot for Fridays lottery drawing has climbed to $108 million with a cash option of $86 million.\r\nNo one across the country hit Tuesdays $97 million jackpot and no second-prize, $… [+1541 chars]",
          "source" : {
             "id" : null,
             "name" : "nj.com"
          },
          "description" : "The winning Mega Millions lottery numbers were drawn Friday, Sept. 11, 2020, at 11 p.m. The Mega Millions jackpot drawing for (09/11/2020) was worth an estimated $108 million for a single winner.",
-         "publishedAt" : "2020-09-12T03:34:00Z",
-         "title" : "Mega Millions lottery: Did you win Friday’s $108M Mega Millions drawing? Results, winning numbers (09/11/2020) - NJ.com",
-         "author" : "Jeff Goldman | NJ Advance Media for NJ.com, Chris Sheldon | NJ Advance Media for NJ.com"
+         "content" : "The Mega Millions jackpot for Fridays lottery drawing has climbed to $108 million with a cash option of $86 million.\r\nNo one across the country hit Tuesdays $97 million jackpot and no second-prize, $… [+1541 chars]",
+         "publishedAt" : "2020-09-12T03:34:00Z"
       }
-   ],
-   "status" : "ok",
-   "totalResults" : 70
+   ]
 }
