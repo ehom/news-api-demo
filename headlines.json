@@ -1,266 +1,266 @@
 {
-   "status" : "ok",
    "totalResults" : 70,
+   "status" : "ok",
    "articles" : [
       {
-         "url" : "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9LVlWTEltb3JsbTTSAQA?oc=5",
          "urlToImage" : null,
+         "description" : null,
+         "publishedAt" : "2020-09-12T06:13:38Z",
          "source" : {
-            "id" : "google-news",
-            "name" : "Google News"
+            "name" : "Google News",
+            "id" : "google-news"
          },
+         "content" : null,
          "author" : null,
          "title" : "TEN 307 - Lucid Air Revealed, Nikola Hindenburg Report, Elon Musk Drives ID3 - Transport Evolved",
-         "publishedAt" : "2020-09-12T06:13:38Z",
-         "description" : null,
-         "content" : null
+         "url" : "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9LVlWTEltb3JsbTTSAQA?oc=5"
       },
       {
-         "content" : "DeFi projects have been dominating headlines as of late, and the unexpected departure by a high-profile founder had ripple effects throughout crypto markets. Here are the top stories from the past we… [+3887 chars]",
          "publishedAt" : "2020-09-12T06:13:00Z",
-         "title" : "Rumors of DeFi’s demise have been greatly exaggerated: weekly recap - Cointelegraph",
          "description" : "The DeFi cryptocurrency space is attempting to rebound after an eventful week that saw Bitcoin price recover above $10,000",
-         "author" : "Denis Vinokourov",
-         "source" : {
-            "id" : null,
-            "name" : "Cointelegraph"
-         },
          "urlToImage" : "https://s3.cointelegraph.com/storage/uploads/view/85a4be93bd1b599a21031f68027dbcf8.jpg",
-         "url" : "https://cointelegraph.com/news/rumors-of-defis-demise-have-been-greatly-exaggerated-weekly-recap"
+         "author" : "Denis Vinokourov",
+         "url" : "https://cointelegraph.com/news/rumors-of-defis-demise-have-been-greatly-exaggerated-weekly-recap",
+         "title" : "Rumors of DeFi’s demise have been greatly exaggerated: weekly recap - Cointelegraph",
+         "content" : "DeFi projects have been dominating headlines as of late, and the unexpected departure by a high-profile founder had ripple effects throughout crypto markets. Here are the top stories from the past we… [+3887 chars]",
+         "source" : {
+            "name" : "Cointelegraph",
+            "id" : null
+         }
       },
       {
+         "description" : "But Astra wasn't expecting perfection.",
+         "publishedAt" : "2020-09-12T04:58:00Z",
+         "urlToImage" : "https://cdn.mos.cms.futurecdn.net/NDWPUGsU8igfctRPxTtYAZ-1200-80.jpg",
+         "author" : "Mike Wall",
          "url" : "https://www.space.com/astra-launches-first-orbital-mission.html",
+         "title" : "Astra's 1st orbital test launch fails during first-stage engine burn - Space.com",
          "source" : {
             "id" : null,
             "name" : "Space.com"
          },
-         "urlToImage" : "https://cdn.mos.cms.futurecdn.net/NDWPUGsU8igfctRPxTtYAZ-1200-80.jpg",
-         "author" : "Mike Wall",
-         "description" : "But Astra wasn't expecting perfection.",
-         "title" : "Astra's 1st orbital test launch fails during first-stage engine burn - Space.com",
-         "publishedAt" : "2020-09-12T04:58:00Z",
          "content" : "Astra's first orbital mission got off the ground, but it soon came back down again. \r\nThe California-based spaceflight startup launched its first orbital test flight\r\n tonight (Sept. 11), sending its… [+4413 chars]"
       },
       {
+         "author" : "Christina Zhao",
          "url" : "https://www.newsweek.com/us-budget-deficit-hits-record-days-after-china-says-it-may-dump-american-debt-1531462",
-         "source" : {
-            "id" : "newsweek",
-            "name" : "Newsweek"
-         },
-         "urlToImage" : "https://d.newsweek.com/en/full/1635647/us-chinese-money.jpg",
          "title" : "U.S. Budget Deficit Hits Record, Days After China Says It May Dump American Debt - Newsweek",
+         "content" : "The U.S. Treasury Department on Friday said the budget deficit soared to a record high of $3 trillion through the first 11 months of this financial year. The announcement came just days after China i… [+2816 chars]",
+         "source" : {
+            "name" : "Newsweek",
+            "id" : "newsweek"
+         },
          "description" : "The $3 trillion deficit between October and August, worsened by coronavirus relief spending, more than doubles the previous all-time high shortfall of $1.37 trillion set in 2009.",
          "publishedAt" : "2020-09-12T03:56:42Z",
-         "author" : "Christina Zhao",
-         "content" : "The U.S. Treasury Department on Friday said the budget deficit soared to a record high of $3 trillion through the first 11 months of this financial year. The announcement came just days after China i… [+2816 chars]"
+         "urlToImage" : "https://d.newsweek.com/en/full/1635647/us-chinese-money.jpg"
       },
       {
          "source" : {
             "id" : null,
             "name" : "New York Post"
          },
-         "urlToImage" : "https://nypost.com/wp-content/uploads/sites/2/2020/09/Rite-Aid.jpg?quality=90&strip=all&w=1200",
-         "url" : "https://nypost.com/2020/09/11/rite-aid-worker-fired-after-asking-customer-to-wear-mask-or-leave/",
          "content" : "A Pennsylvania Rite Aid worker said she was fired after a raging customer destroyed the store because she’d asked him to leave for not wearing a face mask.\r\nShift manager Elena Santiago, 40, told the… [+1356 chars]",
          "author" : "Vincent Barone",
+         "url" : "https://nypost.com/2020/09/11/rite-aid-worker-fired-after-asking-customer-to-wear-mask-or-leave/",
          "title" : "Rite Aid worker fired after asking raging customer to leave for not wearing mask - New York Post ",
-         "publishedAt" : "2020-09-12T03:26:00Z",
-         "description" : "“I was fired for defending myself. They’re punishing me for defending myself. I think it’s unfair how they handled it.”"
+         "urlToImage" : "https://nypost.com/wp-content/uploads/sites/2/2020/09/Rite-Aid.jpg?quality=90&strip=all&w=1200",
+         "description" : "“I was fired for defending myself. They’re punishing me for defending myself. I think it’s unfair how they handled it.”",
+         "publishedAt" : "2020-09-12T03:26:00Z"
       },
       {
+         "description" : "The victim's name has not been released.",
+         "publishedAt" : "2020-09-12T03:13:00Z",
+         "urlToImage" : "https://media.tegna-media.com/assets/WBNS/images/b1ee5212-e556-4bba-b424-dbd71ee608d2/b1ee5212-e556-4bba-b424-dbd71ee608d2_1140x641.jpg",
+         "title" : "Pedestrian killed after being hit by vehicle in north Columbus - 10TV",
+         "url" : "https://www.10tv.com/article/news/local/pedestrian-dies-after-being-hit-by-vehicle-in-north-columbus/530-5b3c1189-2775-4a84-a3f3-ed6060732c3f",
+         "author" : "10TV Web Staff",
+         "content" : "COLUMBUS, Ohio Columbus police say a pedestrian has died after being hit by a vehicle Friday night on the city's north side.\r\nIt happened in the 5300 block of North High Street.\r\nA 911 call was recei… [+243 chars]",
          "source" : {
             "id" : null,
             "name" : "10TV"
-         },
-         "urlToImage" : "https://media.tegna-media.com/assets/WBNS/images/b1ee5212-e556-4bba-b424-dbd71ee608d2/b1ee5212-e556-4bba-b424-dbd71ee608d2_1140x641.jpg",
-         "url" : "https://www.10tv.com/article/news/local/pedestrian-dies-after-being-hit-by-vehicle-in-north-columbus/530-5b3c1189-2775-4a84-a3f3-ed6060732c3f",
-         "content" : "COLUMBUS, Ohio Columbus police say a pedestrian has died after being hit by a vehicle Friday night on the city's north side.\r\nIt happened in the 5300 block of North High Street.\r\nA 911 call was recei… [+243 chars]",
-         "publishedAt" : "2020-09-12T03:13:00Z",
-         "title" : "Pedestrian killed after being hit by vehicle in north Columbus - 10TV",
-         "description" : "The victim's name has not been released.",
-         "author" : "10TV Web Staff"
+         }
       },
       {
          "url" : "https://www.cnn.com/2020/09/11/business/amazonbasics-lawmakers-demand-recalls-dangerous-invs/index.html",
-         "urlToImage" : null,
-         "source" : {
-            "name" : "CNN",
-            "id" : "cnn"
-         },
          "title" : "Senators demand recalls after CNN report finds Amazon's own products are being flagged as fire hazards - MSN Money",
-         "description" : "Three senators are demanding the recall of any hazardous products branded with Amazon's name after a CNN investigation found that dozens of AmazonBasics electronics remained for sale despite customers reporting the products had melted, exploded or burst into …",
-         "publishedAt" : "2020-09-12T02:55:18Z",
          "author" : null,
-         "content" : "© Courtesy Wethersfield Fire Marshal's OfficeThree senators are demanding the recall of any hazardous products branded with Amazon's name after a CNN investigation found that dozens of AmazonBasics e… [+5022 chars]"
+         "content" : "© Courtesy Wethersfield Fire Marshal's OfficeThree senators are demanding the recall of any hazardous products branded with Amazon's name after a CNN investigation found that dozens of AmazonBasics e… [+5022 chars]",
+         "source" : {
+            "id" : "cnn",
+            "name" : "CNN"
+         },
+         "publishedAt" : "2020-09-12T02:55:18Z",
+         "description" : "Three senators are demanding the recall of any hazardous products branded with Amazon's name after a CNN investigation found that dozens of AmazonBasics electronics remained for sale despite customers reporting the products had melted, exploded or burst into …",
+         "urlToImage" : null
       },
       {
-         "content" : "Bitcoin (BTC) price appears to have entered the weekend on the good foot after a relatively uneventful Friday saw the price continue to fluctuate between $10,200-$10,400. \r\nCryptocurrency daily marke… [+1562 chars]",
-         "title" : "Bullish pennant hints at Bitcoin price breakout to $11,300 - Cointelegraph",
-         "description" : "Bitcoin price is consolidating into a tighter range as traders appear ready to test the $10.5K resistance",
-         "publishedAt" : "2020-09-12T02:17:00Z",
          "author" : "Ray Salmond",
+         "url" : "https://cointelegraph.com/news/bullish-pennant-hints-at-bitcoin-price-breakout-to-11-300",
+         "title" : "Bullish pennant hints at Bitcoin price breakout to $11,300 - Cointelegraph",
          "source" : {
             "id" : null,
             "name" : "Cointelegraph"
          },
-         "urlToImage" : "https://s3.cointelegraph.com/storage/uploads/view/1d3b0f9f2549bd459928af2d99db88d5.jpg",
-         "url" : "https://cointelegraph.com/news/bullish-pennant-hints-at-bitcoin-price-breakout-to-11-300"
+         "content" : "Bitcoin (BTC) price appears to have entered the weekend on the good foot after a relatively uneventful Friday saw the price continue to fluctuate between $10,200-$10,400. \r\nCryptocurrency daily marke… [+1562 chars]",
+         "publishedAt" : "2020-09-12T02:17:00Z",
+         "description" : "Bitcoin price is consolidating into a tighter range as traders appear ready to test the $10.5K resistance",
+         "urlToImage" : "https://s3.cointelegraph.com/storage/uploads/view/1d3b0f9f2549bd459928af2d99db88d5.jpg"
       },
       {
-         "urlToImage" : "https://s3-ca-central-1.amazonaws.com/quincy-network/wp-content/uploads/sites/8/2019/05/recall.jpg",
          "source" : {
             "name" : "WKOW",
             "id" : null
          },
-         "url" : "http://wkow.com/2020/09/11/wisconsin-company-recalls-cooked-sausages/",
          "content" : "(WKOW) -- A Wisconsin company has recalled one of its meat products that contained an undeclared allergen, the U.S. Department of Agriculture said.\r\nCher-Make Sausage Co., based in Manitowoc, recalle… [+679 chars]",
-         "author" : "WKOW",
-         "description" : "(WKOW) -- A Wisconsin company has recalled one of its meat products that contained an undeclared allergen, the U.S. Department of Agriculture said. Cher-Make Sausage Co., based in Manitowoc, recalled 429 pounds of its Old Fashioned Weiners. The product was pr…",
+         "url" : "http://wkow.com/2020/09/11/wisconsin-company-recalls-cooked-sausages/",
          "title" : "Wisconsin company recalls cooked sausages - WKOW",
-         "publishedAt" : "2020-09-12T01:47:53Z"
+         "author" : "WKOW",
+         "urlToImage" : "https://s3-ca-central-1.amazonaws.com/quincy-network/wp-content/uploads/sites/8/2019/05/recall.jpg",
+         "publishedAt" : "2020-09-12T01:47:53Z",
+         "description" : "(WKOW) -- A Wisconsin company has recalled one of its meat products that contained an undeclared allergen, the U.S. Department of Agriculture said. Cher-Make Sausage Co., based in Manitowoc, recalled 429 pounds of its Old Fashioned Weiners. The product was pr…"
       },
       {
-         "url" : "https://www.foxbusiness.com/technology/silicon-valley-workers-relocate-pay-cuts-vmware-twitter",
+         "publishedAt" : "2020-09-12T00:59:33Z",
+         "description" : "VMware, Facebook and Twitter have pay adjustment policies based on cost of living.",
          "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/09/0/0/Vmware-Youtube.jpg?ve=1&tl=1",
+         "title" : "Why Silicon Valley workers who relocate for remote work face pay cuts - Fox Business",
+         "url" : "https://www.foxbusiness.com/technology/silicon-valley-workers-relocate-pay-cuts-vmware-twitter",
+         "author" : "Thomas Barrabi",
+         "content" : "Silicon Valley workers who opt to take advantage of remote work policies and relocate to other cities during the coronavirus pandemic may face pay cuts to account for their new cost-of-living expense… [+3281 chars]",
          "source" : {
             "id" : null,
             "name" : "Fox Business"
-         },
-         "description" : "VMware, Facebook and Twitter have pay adjustment policies based on cost of living.",
-         "title" : "Why Silicon Valley workers who relocate for remote work face pay cuts - Fox Business",
-         "publishedAt" : "2020-09-12T00:59:33Z",
-         "author" : "Thomas Barrabi",
-         "content" : "Silicon Valley workers who opt to take advantage of remote work policies and relocate to other cities during the coronavirus pandemic may face pay cuts to account for their new cost-of-living expense… [+3281 chars]"
-      },
-      {
-         "content" : "The international game of chicken between China and the Trump administration over TikTok is starting to feel like an episode of The Bachelor at this point, with suitors like Microsoft, Twitter, and W… [+2535 chars]",
-         "title" : "China Would Rather See TikTok Go the Way of Vine Than Bow to U.S. Pressure: Report - Gizmodo",
-         "description" : "The international game of chicken between China and the Trump administration over TikTok is starting to feel like an episode of “The Bachelor” at this point, with suitors like Microsoft, Twitter, and Walmart competing for the app’s U.S. assets in the face of …",
-         "publishedAt" : "2020-09-12T00:56:00Z",
-         "author" : "Alyse Stanley",
-         "urlToImage" : "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/qxsze6dh6tafq2otqeoe.jpg",
-         "source" : {
-            "id" : null,
-            "name" : "Gizmodo.com"
-         },
-         "url" : "https://gizmodo.com/china-would-rather-see-tiktok-go-the-way-of-vine-than-b-1845032755"
-      },
-      {
-         "url" : "https://www.ktnv.com/news/crime/wynn-las-vegas-files-lawsuit-after-labor-day-weekend-violence-at-property",
-         "source" : {
-            "id" : null,
-            "name" : "KTNV Las Vegas"
-         },
-         "urlToImage" : "https://ewscripps.brightspotcdn.com/dims4/default/fe96d2c/2147483647/strip/true/crop/4032x2117+0+454/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2Fb0%2F0b%2Ff2dde1bd4240835b7abbc8889206%2Fwynn.JPG",
-         "author" : "Jordan Gartner",
-         "title" : "Wynn Las Vegas files lawsuit after Labor Day weekend violence at property - KTNV Las Vegas",
-         "publishedAt" : "2020-09-11T23:59:00Z",
-         "description" : "The Wynn Las Vegas has filed a lawsuit after fights broke out at the property over Labor Day weekend.",
-         "content" : "LAS VEGAS (KTNV) The Wynn Las Vegas has filed a lawsuit after fights broke out at the property over Labor Day weekend.\r\nThe resort filed the lawsuit on Friday against the individuals who were involve… [+3025 chars]"
-      },
-      {
-         "urlToImage" : null,
-         "source" : {
-            "name" : "Google News",
-            "id" : "google-news"
-         },
-         "url" : "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9M1dlalRoODhvc0HSAQA?oc=5",
-         "content" : null,
-         "author" : null,
-         "publishedAt" : "2020-09-11T23:45:28Z",
-         "description" : null,
-         "title" : "Cramer's lightning round: I like Blackstone Group - CNBC Television"
-      },
-      {
-         "author" : "Jason Hall",
-         "description" : "Most stocks went up to end the week, but the index barely broke even as tech stocks continued to tumble.",
-         "publishedAt" : "2020-09-11T23:29:00Z",
-         "title" : "S&P 500 News: Amazon Leads Big Tech Stock Sell-Off, Wiping Out Broad Gains in Other Sectors - The Motley Fool",
-         "content" : "On the surface, Friday's relatively flat finish by the S&amp;P 500 Index (SNPINDEX:^SPX) might make it seem like it was a calm day on Wall Street. The reality: It was another painfully volatile day i… [+3483 chars]",
-         "url" : "https://www.fool.com/investing/2020/09/11/sp-500-news-amazon-leads-big-tech-stock-sell-off-w/",
-         "urlToImage" : "https://g.foolcdn.com/editorial/images/591471/scale-on-chalkboard-man-in-front.jpg",
-         "source" : {
-            "name" : "Motley Fool",
-            "id" : null
          }
       },
       {
-         "content" : "The Securities and Exchange Commission has charged T.I. with promoting fraudulent initial coin offerings (ICOs) in connection with a company called FLiK. The Atlanta rapper and actor agreed to pay a … [+1205 chars]",
-         "author" : "Matthew Ismael Ruiz",
-         "description" : "The Securities and Exchange Commission has ordered the rapper/actor to pay a $75,000 fine and not participate in future Initial Coin Offerings",
-         "title" : "T.I. Charged by SEC With Promoting Fraudulent Cryptocurrency, Agrees to Settlement - Pitchfork",
+         "publishedAt" : "2020-09-12T00:56:00Z",
+         "description" : "The international game of chicken between China and the Trump administration over TikTok is starting to feel like an episode of “The Bachelor” at this point, with suitors like Microsoft, Twitter, and Walmart competing for the app’s U.S. assets in the face of …",
+         "urlToImage" : "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/qxsze6dh6tafq2otqeoe.jpg",
+         "author" : "Alyse Stanley",
+         "url" : "https://gizmodo.com/china-would-rather-see-tiktok-go-the-way-of-vine-than-b-1845032755",
+         "title" : "China Would Rather See TikTok Go the Way of Vine Than Bow to U.S. Pressure: Report - Gizmodo",
+         "source" : {
+            "name" : "Gizmodo.com",
+            "id" : null
+         },
+         "content" : "The international game of chicken between China and the Trump administration over TikTok is starting to feel like an episode of The Bachelor at this point, with suitors like Microsoft, Twitter, and W… [+2535 chars]"
+      },
+      {
+         "content" : "LAS VEGAS (KTNV) The Wynn Las Vegas has filed a lawsuit after fights broke out at the property over Labor Day weekend.\r\nThe resort filed the lawsuit on Friday against the individuals who were involve… [+3025 chars]",
+         "source" : {
+            "name" : "KTNV Las Vegas",
+            "id" : null
+         },
+         "author" : "Jordan Gartner",
+         "title" : "Wynn Las Vegas files lawsuit after Labor Day weekend violence at property - KTNV Las Vegas",
+         "url" : "https://www.ktnv.com/news/crime/wynn-las-vegas-files-lawsuit-after-labor-day-weekend-violence-at-property",
+         "urlToImage" : "https://ewscripps.brightspotcdn.com/dims4/default/fe96d2c/2147483647/strip/true/crop/4032x2117+0+454/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2Fb0%2F0b%2Ff2dde1bd4240835b7abbc8889206%2Fwynn.JPG",
+         "publishedAt" : "2020-09-11T23:59:00Z",
+         "description" : "The Wynn Las Vegas has filed a lawsuit after fights broke out at the property over Labor Day weekend."
+      },
+      {
+         "url" : "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9M1dlalRoODhvc0HSAQA?oc=5",
+         "title" : "Cramer's lightning round: I like Blackstone Group - CNBC Television",
+         "author" : null,
+         "content" : null,
+         "source" : {
+            "id" : "google-news",
+            "name" : "Google News"
+         },
+         "description" : null,
+         "publishedAt" : "2020-09-11T23:45:28Z",
+         "urlToImage" : null
+      },
+      {
+         "urlToImage" : "https://g.foolcdn.com/editorial/images/591471/scale-on-chalkboard-man-in-front.jpg",
+         "description" : "Most stocks went up to end the week, but the index barely broke even as tech stocks continued to tumble.",
+         "publishedAt" : "2020-09-11T23:29:00Z",
+         "content" : "On the surface, Friday's relatively flat finish by the S&amp;P 500 Index (SNPINDEX:^SPX) might make it seem like it was a calm day on Wall Street. The reality: It was another painfully volatile day i… [+3483 chars]",
+         "source" : {
+            "id" : null,
+            "name" : "Motley Fool"
+         },
+         "title" : "S&P 500 News: Amazon Leads Big Tech Stock Sell-Off, Wiping Out Broad Gains in Other Sectors - The Motley Fool",
+         "url" : "https://www.fool.com/investing/2020/09/11/sp-500-news-amazon-leads-big-tech-stock-sell-off-w/",
+         "author" : "Jason Hall"
+      },
+      {
+         "urlToImage" : "https://media.pitchfork.com/photos/5f5beab12beefca0f77f6325/16:9/w_1280,c_limit/GettyImages-1252292408.jpg",
          "publishedAt" : "2020-09-11T23:27:31Z",
+         "description" : "The Securities and Exchange Commission has ordered the rapper/actor to pay a $75,000 fine and not participate in future Initial Coin Offerings",
+         "content" : "The Securities and Exchange Commission has charged T.I. with promoting fraudulent initial coin offerings (ICOs) in connection with a company called FLiK. The Atlanta rapper and actor agreed to pay a … [+1205 chars]",
          "source" : {
             "name" : "Pitchfork",
             "id" : null
          },
-         "urlToImage" : "https://media.pitchfork.com/photos/5f5beab12beefca0f77f6325/16:9/w_1280,c_limit/GettyImages-1252292408.jpg",
-         "url" : "https://pitchfork.com/news/ti-charged-by-sec-with-promoting-fraudulent-cryptocurrency-agrees-to-settlement/"
+         "author" : "Matthew Ismael Ruiz",
+         "url" : "https://pitchfork.com/news/ti-charged-by-sec-with-promoting-fraudulent-cryptocurrency-agrees-to-settlement/",
+         "title" : "T.I. Charged by SEC With Promoting Fraudulent Cryptocurrency, Agrees to Settlement - Pitchfork"
       },
       {
+         "title" : "American Airlines to Cut Service to These U.S. Cities—Will There Be More? - AFAR Media",
+         "url" : "https://www.afar.com/magazine/american-airlines-to-cut-service-to-these-us-cities-will-there-be-more",
+         "author" : "Michelle Baran",
+         "content" : "In March, the airlines agreed to retain some degree of service to every domestic airport that had commercial service prior to the pandemic. That agreement expires at the end of September.\r\nLast month… [+8155 chars]",
          "source" : {
             "name" : "AFAR Media",
             "id" : null
          },
-         "urlToImage" : "https://afar-production.imgix.net/uploads/images/afar_post_headers/images/dDWVF9XcbG/original_shutterstock_1204609633.jpg?crop=top&fit=crop&w=600&h=330",
-         "url" : "https://www.afar.com/magazine/american-airlines-to-cut-service-to-these-us-cities-will-there-be-more",
-         "content" : "In March, the airlines agreed to retain some degree of service to every domestic airport that had commercial service prior to the pandemic. That agreement expires at the end of September.\r\nLast month… [+8155 chars]",
-         "author" : "Michelle Baran",
          "description" : "In March, the airlines agreed to retain some degree of service to every domestic airport that had commercial service prior to the pandemic. That agreement expires at the end of September.",
          "publishedAt" : "2020-09-11T22:58:25Z",
-         "title" : "American Airlines to Cut Service to These U.S. Cities—Will There Be More? - AFAR Media"
+         "urlToImage" : "https://afar-production.imgix.net/uploads/images/afar_post_headers/images/dDWVF9XcbG/original_shutterstock_1204609633.jpg?crop=top&fit=crop&w=600&h=330"
       },
       {
-         "content" : "According to a popular survey that's been around since 1971, mortgage rates have hit a record low for the ninth time in 2020. Mortgage company Freddie Mac says its survey shows mortgages this week ar… [+3554 chars]",
-         "title" : "The run of record-low mortgage rates may soon come to an end - Yahoo Finance",
-         "description" : "Experts say \"substantive increases\" are coming, so borrowers will want to lock quickly.",
+         "urlToImage" : "https://s.yimg.com/uu/api/res/1.2/exylBoIdC_yECF7i18euFA--~B/aD00MDA7dz03Mjg7c209MTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/moneywise_327/f942885ebee0f4ed2ee54b9339ab0350",
          "publishedAt" : "2020-09-11T22:51:00Z",
-         "author" : "Doug Whiteman",
+         "description" : "Experts say \"substantive increases\" are coming, so borrowers will want to lock quickly.",
+         "content" : "According to a popular survey that's been around since 1971, mortgage rates have hit a record low for the ninth time in 2020. Mortgage company Freddie Mac says its survey shows mortgages this week ar… [+3554 chars]",
          "source" : {
             "name" : "Yahoo Entertainment",
             "id" : null
          },
-         "urlToImage" : "https://s.yimg.com/uu/api/res/1.2/exylBoIdC_yECF7i18euFA--~B/aD00MDA7dz03Mjg7c209MTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/moneywise_327/f942885ebee0f4ed2ee54b9339ab0350",
-         "url" : "https://finance.yahoo.com/news/run-record-low-mortgage-rates-225100568.html"
+         "url" : "https://finance.yahoo.com/news/run-record-low-mortgage-rates-225100568.html",
+         "title" : "The run of record-low mortgage rates may soon come to an end - Yahoo Finance",
+         "author" : "Doug Whiteman"
       },
       {
          "urlToImage" : "https://www.gannett-cdn.com/presto/2020/09/11/USAT/a5275298-b117-4e9c-92c8-d7fa3f01b994-louisvuitton.jpg?crop=1999,1124,x0,y0&width=1600&height=800&fit=bounds",
+         "description" : "This personal protective equipment comes gold studs and costs nearly $1,000. Louis Vuitton plans to sell a face shield with its signature LV pattern.",
+         "publishedAt" : "2020-09-11T22:40:25Z",
+         "content" : "When it comes to making masks to fight the new coronavirus, its not the size of the pores in the fabric, but the material itself. But the meltblown textile used to make the best protective gear is ge… [+2339 chars]",
          "source" : {
             "name" : "USA Today",
             "id" : "usa-today"
          },
+         "author" : "Kelly Tyko",
          "url" : "https://www.usatoday.com/story/money/2020/09/11/louis-vuitton-fashion-face-shield-ppe-coronavirus/3473271001/",
-         "content" : "When it comes to making masks to fight the new coronavirus, its not the size of the pores in the fabric, but the material itself. But the meltblown textile used to make the best protective gear is ge… [+2339 chars]",
-         "publishedAt" : "2020-09-11T22:40:25Z",
-         "description" : "This personal protective equipment comes gold studs and costs nearly $1,000. Louis Vuitton plans to sell a face shield with its signature LV pattern.",
-         "title" : "Louis Vuitton unveils full face shield with gold studs that reportedly will cost nearly $1,000 - USA TODAY",
-         "author" : "Kelly Tyko"
+         "title" : "Louis Vuitton unveils full face shield with gold studs that reportedly will cost nearly $1,000 - USA TODAY"
       },
       {
+         "description" : "It's already roughly 50 days since the location of the Tesla Giga Austin in Texas was announced. Here is how it looks now.",
+         "publishedAt" : "2020-09-11T22:18:45Z",
          "urlToImage" : "https://cdn.motor1.com/images/mgl/WO9po/s1/tesla-giga-austin-source-terafactory-texas.jpg",
+         "url" : "https://insideevs.com/news/443668/tesla-giga-austin-after-50-days/",
+         "title" : "Check Out Tesla Giga Austin After The First 50 Days Since Announcement - InsideEVs ",
+         "author" : "Mark Kane",
          "source" : {
             "id" : null,
             "name" : "InsideEVs "
          },
-         "url" : "https://insideevs.com/news/443668/tesla-giga-austin-after-50-days/",
-         "content" : "It's already been roughly 50 days since the location of the Tesla Giga Austin (known also as Terafactory) in Texas was announced (work started slightly earlier).\r\nDuring this time, Tesla was busy wit… [+774 chars]",
-         "author" : "Mark Kane",
-         "publishedAt" : "2020-09-11T22:18:45Z",
-         "title" : "Check Out Tesla Giga Austin After The First 50 Days Since Announcement - InsideEVs ",
-         "description" : "It's already roughly 50 days since the location of the Tesla Giga Austin in Texas was announced. Here is how it looks now."
+         "content" : "It's already been roughly 50 days since the location of the Tesla Giga Austin (known also as Terafactory) in Texas was announced (work started slightly earlier).\r\nDuring this time, Tesla was busy wit… [+774 chars]"
       },
       {
-         "url" : "https://arstechnica.com/science/2020/09/judge-in-theranos-fraud-case-orders-14-hour-psychological-test-for-holmes/",
          "urlToImage" : "https://cdn.arstechnica.net/wp-content/uploads/2020/09/GettyImages-1181871591-760x380.jpg",
+         "description" : "It's the latest twist in the long, long saga of a disastrous startup.",
+         "publishedAt" : "2020-09-11T22:10:00Z",
+         "content" : "Enlarge/ Elizabeth Holmes, founder and former CEO of Theranos, arrives for motion hearing on Monday, November 4, 2019, at the U.S. District Court House in San Jose, California. \r\n87 with 67 posters p… [+3307 chars]",
          "source" : {
             "id" : "ars-technica",
             "name" : "Ars Technica"
          },
-         "author" : "Beth Mole",
-         "publishedAt" : "2020-09-11T22:10:00Z",
-         "description" : "It's the latest twist in the long, long saga of a disastrous startup.",
+         "url" : "https://arstechnica.com/science/2020/09/judge-in-theranos-fraud-case-orders-14-hour-psychological-test-for-holmes/",
          "title" : "Judge in Theranos fraud case orders 14-hour psychological test for Holmes - Ars Technica",
-         "content" : "Enlarge/ Elizabeth Holmes, founder and former CEO of Theranos, arrives for motion hearing on Monday, November 4, 2019, at the U.S. District Court House in San Jose, California. \r\n87 with 67 posters p… [+3307 chars]"
+         "author" : "Beth Mole"
       }
    ]
 }
