@@ -1,266 +1,266 @@
 {
-   "status" : "ok",
    "totalResults" : 70,
    "articles" : [
       {
-         "url" : "https://nypost.com/2020/09/11/rite-aid-worker-fired-after-asking-customer-to-wear-mask-or-leave/",
+         "content" : "A Pennsylvania Rite Aid worker said she was fired after a raging customer destroyed the store because she’d asked him to leave for not wearing a face mask.\r\nShift manager Elena Santiago, 40, told the… [+1356 chars]",
          "source" : {
             "name" : "New York Post",
             "id" : null
          },
-         "content" : "A Pennsylvania Rite Aid worker said she was fired after a raging customer destroyed the store because she’d asked him to leave for not wearing a face mask.\r\nShift manager Elena Santiago, 40, told the… [+1356 chars]",
-         "author" : "Vincent Barone",
          "publishedAt" : "2020-09-12T03:26:00Z",
-         "urlToImage" : "https://nypost.com/wp-content/uploads/sites/2/2020/09/Rite-Aid.jpg?quality=90&strip=all&w=1200",
+         "description" : "“I was fired for defending myself. They’re punishing me for defending myself. I think it’s unfair how they handled it.”",
          "title" : "Rite Aid worker fired after asking raging customer to leave for not wearing mask - New York Post ",
-         "description" : "“I was fired for defending myself. They’re punishing me for defending myself. I think it’s unfair how they handled it.”"
+         "author" : "Vincent Barone",
+         "url" : "https://nypost.com/2020/09/11/rite-aid-worker-fired-after-asking-customer-to-wear-mask-or-leave/",
+         "urlToImage" : "https://nypost.com/wp-content/uploads/sites/2/2020/09/Rite-Aid.jpg?quality=90&strip=all&w=1200"
       },
       {
          "url" : "https://cointelegraph.com/news/bullish-pennant-hints-at-bitcoin-price-breakout-to-11-300",
+         "author" : "Ray Salmond",
+         "urlToImage" : "https://s3.cointelegraph.com/storage/uploads/view/1d3b0f9f2549bd459928af2d99db88d5.jpg",
          "source" : {
             "id" : null,
             "name" : "Cointelegraph"
          },
          "publishedAt" : "2020-09-12T02:17:00Z",
          "content" : "Bitcoin (BTC) price appears to have entered the weekend on the good foot after a relatively uneventful Friday saw the price continue to fluctuate between $10,200-$10,400. \r\nCryptocurrency daily marke… [+1562 chars]",
-         "author" : "Ray Salmond",
          "description" : "Bitcoin price is consolidating into a tighter range as traders appear ready to test the $10.5K resistance",
-         "title" : "Bullish pennant hints at Bitcoin price breakout to $11,300 - Cointelegraph",
-         "urlToImage" : "https://s3.cointelegraph.com/storage/uploads/view/1d3b0f9f2549bd459928af2d99db88d5.jpg"
+         "title" : "Bullish pennant hints at Bitcoin price breakout to $11,300 - Cointelegraph"
       },
       {
-         "publishedAt" : "2020-09-12T01:47:53Z",
-         "content" : "(WKOW) -- A Wisconsin company has recalled one of its meat products that contained an undeclared allergen, the U.S. Department of Agriculture said.\r\nCher-Make Sausage Co., based in Manitowoc, recalle… [+679 chars]",
          "author" : "WKOW",
-         "description" : "(WKOW) -- A Wisconsin company has recalled one of its meat products that contained an undeclared allergen, the U.S. Department of Agriculture said. Cher-Make Sausage Co., based in Manitowoc, recalled 429 pounds of its Old Fashioned Weiners. The product was pr…",
-         "title" : "Wisconsin company recalls cooked sausages - WKOW",
-         "urlToImage" : "https://s3-ca-central-1.amazonaws.com/quincy-network/wp-content/uploads/sites/8/2019/05/recall.jpg",
          "url" : "http://wkow.com/2020/09/11/wisconsin-company-recalls-cooked-sausages/",
+         "urlToImage" : "https://s3-ca-central-1.amazonaws.com/quincy-network/wp-content/uploads/sites/8/2019/05/recall.jpg",
+         "content" : "(WKOW) -- A Wisconsin company has recalled one of its meat products that contained an undeclared allergen, the U.S. Department of Agriculture said.\r\nCher-Make Sausage Co., based in Manitowoc, recalle… [+679 chars]",
+         "publishedAt" : "2020-09-12T01:47:53Z",
+         "source" : {
+            "name" : "WKOW",
+            "id" : null
+         },
+         "description" : "(WKOW) -- A Wisconsin company has recalled one of its meat products that contained an undeclared allergen, the U.S. Department of Agriculture said. Cher-Make Sausage Co., based in Manitowoc, recalled 429 pounds of its Old Fashioned Weiners. The product was pr…",
+         "title" : "Wisconsin company recalls cooked sausages - WKOW"
+      },
+      {
+         "author" : "Thomas Barrabi",
+         "url" : "https://www.foxbusiness.com/technology/silicon-valley-workers-relocate-pay-cuts-vmware-twitter",
+         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/09/0/0/Vmware-Youtube.jpg?ve=1&tl=1",
+         "content" : "Silicon Valley workers who opt to take advantage of remote work policies and relocate to other cities during the coronavirus pandemic may face pay cuts to account for their new cost-of-living expense… [+3281 chars]",
          "source" : {
             "id" : null,
-            "name" : "WKOW"
-         }
-      },
-      {
-         "title" : "Why Silicon Valley workers who relocate for remote work face pay cuts - Fox Business",
-         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/09/0/0/Vmware-Youtube.jpg?ve=1&tl=1",
-         "description" : "VMware, Facebook and Twitter have pay adjustment policies based on cost of living.",
-         "content" : "Silicon Valley workers who opt to take advantage of remote work policies and relocate to other cities during the coronavirus pandemic may face pay cuts to account for their new cost-of-living expense… [+3281 chars]",
-         "author" : "Thomas Barrabi",
+            "name" : "Fox Business"
+         },
          "publishedAt" : "2020-09-12T00:59:33Z",
-         "source" : {
-            "name" : "Fox Business",
-            "id" : null
-         },
-         "url" : "https://www.foxbusiness.com/technology/silicon-valley-workers-relocate-pay-cuts-vmware-twitter"
+         "title" : "Why Silicon Valley workers who relocate for remote work face pay cuts - Fox Business",
+         "description" : "VMware, Facebook and Twitter have pay adjustment policies based on cost of living."
       },
       {
-         "source" : {
-            "name" : "Pitchfork",
-            "id" : null
-         },
-         "url" : "https://pitchfork.com/news/ti-charged-by-sec-with-promoting-fraudulent-cryptocurrency-agrees-to-settlement/",
-         "content" : "The Securities and Exchange Commission has charged T.I. with promoting fraudulent initial coin offerings (ICOs) in connection with a company called FLiK. The Atlanta rapper and actor agreed to pay a … [+1205 chars]",
-         "author" : "Matthew Ismael Ruiz",
-         "publishedAt" : "2020-09-11T23:27:31Z",
          "urlToImage" : "https://media.pitchfork.com/photos/5f5beab12beefca0f77f6325/16:9/w_1280,c_limit/GettyImages-1252292408.jpg",
+         "author" : "Matthew Ismael Ruiz",
+         "url" : "https://pitchfork.com/news/ti-charged-by-sec-with-promoting-fraudulent-cryptocurrency-agrees-to-settlement/",
+         "description" : "The Securities and Exchange Commission has ordered the rapper/actor to pay a $75,000 fine and not participate in future Initial Coin Offerings",
          "title" : "T.I. Charged by SEC With Promoting Fraudulent Cryptocurrency, Agrees to Settlement - Pitchfork",
-         "description" : "The Securities and Exchange Commission has ordered the rapper/actor to pay a $75,000 fine and not participate in future Initial Coin Offerings"
+         "content" : "The Securities and Exchange Commission has charged T.I. with promoting fraudulent initial coin offerings (ICOs) in connection with a company called FLiK. The Atlanta rapper and actor agreed to pay a … [+1205 chars]",
+         "source" : {
+            "id" : null,
+            "name" : "Pitchfork"
+         },
+         "publishedAt" : "2020-09-11T23:27:31Z"
       },
       {
+         "url" : "https://www.reviewjournal.com/post/2117428",
          "author" : "David Ferrara",
-         "content" : "Lawyers for a Las Vegas Strip property took an unusual step Friday of lodging a trespassing lawsuit against 20 unknown people in the wake of a Labor Day weekend fight that broke out at Encore.\r\nThe l… [+2364 chars]",
-         "publishedAt" : "2020-09-11T23:23:00Z",
-         "title" : "Wynn Las Vegas files suit over Labor Day weekend fight at Encore - Las Vegas Review-Journal",
          "urlToImage" : "https://www.reviewjournal.com/wp-content/uploads/2020/09/14110370_web1_CV-WYNN-FOLO-AUG10-20-007a.jpg",
-         "description" : "<p>Lawyers for a Las Vegas Strip property filed a trespassing lawsuit Friday against 20 unknown people in the wake of a Labor Day weekend fight that broke out at Encore.</p>",
          "source" : {
             "id" : null,
             "name" : "Las Vegas Review-Journal"
          },
-         "url" : "https://www.reviewjournal.com/post/2117428"
+         "publishedAt" : "2020-09-11T23:23:00Z",
+         "content" : "Lawyers for a Las Vegas Strip property took an unusual step Friday of lodging a trespassing lawsuit against 20 unknown people in the wake of a Labor Day weekend fight that broke out at Encore.\r\nThe l… [+2364 chars]",
+         "title" : "Wynn Las Vegas files suit over Labor Day weekend fight at Encore - Las Vegas Review-Journal",
+         "description" : "<p>Lawyers for a Las Vegas Strip property filed a trespassing lawsuit Friday against 20 unknown people in the wake of a Labor Day weekend fight that broke out at Encore.</p>"
       },
       {
-         "url" : "https://www.cnbc.com/2020/09/11/jim-cramer-ipo-roundup-be-prepared-as-these-deals-start-flowing.html",
+         "title" : "Jim Cramer IPO roundup: 'Be prepared as these deals start flowing' - CNBC",
+         "description" : "\"When we get a flood of initial public offerings, it's usually a bad sign for the rest of the market,\" the \"Mad Money\" host said.",
          "source" : {
             "id" : null,
             "name" : "CNBC"
          },
-         "title" : "Jim Cramer IPO roundup: 'Be prepared as these deals start flowing' - CNBC",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106575791-1591974779506snowlake-notext.png?v=1591974871",
-         "description" : "\"When we get a flood of initial public offerings, it's usually a bad sign for the rest of the market,\" the \"Mad Money\" host said.",
-         "author" : "Tyler Clifford",
+         "publishedAt" : "2020-09-11T23:20:00Z",
          "content" : "CNBC's Jim Cramer is warning that investors be cautious about how they approach the market next week.\r\nWith multiple companies set to go public in the coming days, there could be new reasons for vola… [+2128 chars]",
-         "publishedAt" : "2020-09-11T23:20:00Z"
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106575791-1591974779506snowlake-notext.png?v=1591974871",
+         "url" : "https://www.cnbc.com/2020/09/11/jim-cramer-ipo-roundup-be-prepared-as-these-deals-start-flowing.html",
+         "author" : "Tyler Clifford"
       },
       {
-         "description" : "",
-         "title" : "Is the Stock Market in a Bubble? Yes, Here’s What to Know. - Barron's",
-         "urlToImage" : "https://images.barrons.com/im-230861/social",
-         "publishedAt" : "2020-09-11T23:14:00Z",
-         "author" : "Ben Levisohn",
          "content" : "Every stock market bubble begins with a story, and make no mistakethis is a stock market bubble.\r\nThe story began easily enough, if not with once upon a time. A virus forced the country to shut down … [+330 chars]",
          "source" : {
             "id" : null,
             "name" : "Barron's"
          },
-         "url" : "https://www.barrons.com/articles/the-market-is-a-bubble-but-that-doesnt-mean-troubleyet-51599862332"
+         "publishedAt" : "2020-09-11T23:14:00Z",
+         "description" : "",
+         "title" : "Is the Stock Market in a Bubble? Yes, Here’s What to Know. - Barron's",
+         "author" : "Ben Levisohn",
+         "url" : "https://www.barrons.com/articles/the-market-is-a-bubble-but-that-doesnt-mean-troubleyet-51599862332",
+         "urlToImage" : "https://images.barrons.com/im-230861/social"
       },
       {
-         "title" : "American Airlines to Cut Service to These U.S. Cities—Will There Be More? - AFAR Media",
-         "urlToImage" : "https://afar-production.imgix.net/uploads/images/afar_post_headers/images/dDWVF9XcbG/original_shutterstock_1204609633.jpg?crop=top&fit=crop&w=600&h=330",
          "description" : "In March, the airlines agreed to retain some degree of service to every domestic airport that had commercial service prior to the pandemic. That agreement expires at the end of September.",
-         "author" : "Michelle Baran",
+         "title" : "American Airlines to Cut Service to These U.S. Cities—Will There Be More? - AFAR Media",
          "content" : "In March, the airlines agreed to retain some degree of service to every domestic airport that had commercial service prior to the pandemic. That agreement expires at the end of September.\r\nLast month… [+8155 chars]",
          "publishedAt" : "2020-09-11T22:58:25Z",
-         "url" : "https://www.afar.com/magazine/american-airlines-to-cut-service-to-these-us-cities-will-there-be-more",
          "source" : {
             "name" : "AFAR Media",
             "id" : null
-         }
+         },
+         "urlToImage" : "https://afar-production.imgix.net/uploads/images/afar_post_headers/images/dDWVF9XcbG/original_shutterstock_1204609633.jpg?crop=top&fit=crop&w=600&h=330",
+         "author" : "Michelle Baran",
+         "url" : "https://www.afar.com/magazine/american-airlines-to-cut-service-to-these-us-cities-will-there-be-more"
       },
       {
-         "url" : "https://arstechnica.com/science/2020/09/judge-in-theranos-fraud-case-orders-14-hour-psychological-test-for-holmes/",
+         "content" : "Enlarge/ Elizabeth Holmes, founder and former CEO of Theranos, arrives for motion hearing on Monday, November 4, 2019, at the U.S. District Court House in San Jose, California. \r\n87 with 67 posters p… [+3307 chars]",
+         "publishedAt" : "2020-09-11T22:10:00Z",
          "source" : {
             "id" : "ars-technica",
             "name" : "Ars Technica"
          },
-         "publishedAt" : "2020-09-11T22:10:00Z",
-         "content" : "Enlarge/ Elizabeth Holmes, founder and former CEO of Theranos, arrives for motion hearing on Monday, November 4, 2019, at the U.S. District Court House in San Jose, California. \r\n87 with 67 posters p… [+3307 chars]",
-         "author" : "Beth Mole",
          "description" : "It's the latest twist in the long, long saga of a disastrous startup.",
-         "urlToImage" : "https://cdn.arstechnica.net/wp-content/uploads/2020/09/GettyImages-1181871591-760x380.jpg",
-         "title" : "Judge in Theranos fraud case orders 14-hour psychological test for Holmes - Ars Technica"
+         "title" : "Judge in Theranos fraud case orders 14-hour psychological test for Holmes - Ars Technica",
+         "author" : "Beth Mole",
+         "url" : "https://arstechnica.com/science/2020/09/judge-in-theranos-fraud-case-orders-14-hour-psychological-test-for-holmes/",
+         "urlToImage" : "https://cdn.arstechnica.net/wp-content/uploads/2020/09/GettyImages-1181871591-760x380.jpg"
       },
       {
-         "publishedAt" : "2020-09-11T22:03:00Z",
-         "content" : "Merck &amp; Co. has begun testing one of its experimental Covid-19 vaccine candidates in healthy volunteers.\r\nThe study, located in Belgium and seeking to enroll 260 subjects, was reported by Merck o… [+146 chars]",
-         "author" : "Jared S. Hopkins",
-         "description" : "The Phase 1 / 2 trial of Merck’s experimental coronavirus vaccine will evaluate whether it is safe to take and shows signs of generating an immune response",
          "title" : "Merck Covid-19 Vaccine Begins Human Testing - The Wall Street Journal",
-         "urlToImage" : "https://images.wsj.net/im-231351/social",
+         "description" : "The Phase 1 / 2 trial of Merck’s experimental coronavirus vaccine will evaluate whether it is safe to take and shows signs of generating an immune response",
+         "content" : "Merck &amp; Co. has begun testing one of its experimental Covid-19 vaccine candidates in healthy volunteers.\r\nThe study, located in Belgium and seeking to enroll 260 subjects, was reported by Merck o… [+146 chars]",
          "source" : {
             "name" : "The Wall Street Journal",
             "id" : "the-wall-street-journal"
          },
+         "publishedAt" : "2020-09-11T22:03:00Z",
+         "urlToImage" : "https://images.wsj.net/im-231351/social",
+         "author" : "Jared S. Hopkins",
          "url" : "https://www.wsj.com/articles/merck-covid-19-vaccine-begins-human-testing-11599859776"
       },
       {
          "urlToImage" : "https://image.cnbcfm.com/api/v1/image/104534051-GettyImages-696034094-Kroger.jpg?v=1576000057",
+         "url" : "https://www.cnbc.com/2020/09/11/kroger-ceo-sees-prices-stabilizing-cooking-demand-lasting-our-customers-actually-enjoy-it.html",
+         "author" : "Kevin Stankiewicz",
          "title" : "Kroger CEO sees prices stabilizing, cooking demand lasting: Our customers 'actually enjoy it' - CNBC",
          "description" : "\"Everything that we can see, it's something that will be a long-term trend because people have, one, learned how to cook and, two, found they really enjoy it,\" Kroger CEO Rodney McMullen said of home cooking.",
-         "content" : "Kroger CEO Rodney McMullen said Friday the pandemic-related spike in food prices is subsiding, while the at-home cooking trend is here to stay even after the coronavirus situation improves. \r\n\"As we … [+3175 chars]",
-         "author" : "Kevin Stankiewicz",
          "publishedAt" : "2020-09-11T21:55:00Z",
-         "url" : "https://www.cnbc.com/2020/09/11/kroger-ceo-sees-prices-stabilizing-cooking-demand-lasting-our-customers-actually-enjoy-it.html",
          "source" : {
-            "id" : null,
-            "name" : "CNBC"
-         }
-      },
-      {
-         "url" : "https://www.nbcnews.com/shopping/lifestyle/what-walmart-plus-n1239895",
-         "source" : {
-            "id" : "nbc-news",
-            "name" : "NBC News"
+            "name" : "CNBC",
+            "id" : null
          },
-         "title" : "Walmart Plus: What you need to know about the new service - NBC News",
-         "urlToImage" : "https://media3.s-nbcnews.com/j/newscms/2020_37/3411390/walmart-plus-kr-2x1-tease-200911_173d56cf19f0a4f2f611bc506861ee57.nbcnews-fp-1200-630.jpg",
-         "description" : "Walmart is launching a premium subscription service on Sept. 15th called Walmart Plus. Here's everything you need to know about the Amazon Prime rival.",
-         "content" : "What is a Walmart Plus Membership?\r\nWalmart Plus is a paid subscription service for purchasing groceries along with the plethora of products Walmart carries online and in-store. Those who sign up rec… [+8303 chars]",
-         "author" : "Rebecca Rodriguez",
-         "publishedAt" : "2020-09-11T21:45:00Z"
+         "content" : "Kroger CEO Rodney McMullen said Friday the pandemic-related spike in food prices is subsiding, while the at-home cooking trend is here to stay even after the coronavirus situation improves. \r\n\"As we … [+3175 chars]"
       },
       {
-         "content" : "In brief\r\n<ul><li>Bitcoin transferred to the Ethereum blockchain is now worth more than $800 million, up 37% so far this month.</li><li>Wrapped Bitcoin and renBTC remain the most popular transfer pro… [+3078 chars]",
-         "author" : "Alexander Behrens",
+         "content" : "What is a Walmart Plus Membership?\r\nWalmart Plus is a paid subscription service for purchasing groceries along with the plethora of products Walmart carries online and in-store. Those who sign up rec… [+8303 chars]",
          "publishedAt" : "2020-09-11T21:45:00Z",
+         "source" : {
+            "name" : "NBC News",
+            "id" : "nbc-news"
+         },
+         "description" : "Walmart is launching a premium subscription service on Sept. 15th called Walmart Plus. Here's everything you need to know about the Amazon Prime rival.",
+         "title" : "Walmart Plus: What you need to know about the new service - NBC News",
+         "author" : "Rebecca Rodriguez",
+         "url" : "https://www.nbcnews.com/shopping/lifestyle/what-walmart-plus-n1239895",
+         "urlToImage" : "https://media3.s-nbcnews.com/j/newscms/2020_37/3411390/walmart-plus-kr-2x1-tease-200911_173d56cf19f0a4f2f611bc506861ee57.nbcnews-fp-1200-630.jpg"
+      },
+      {
          "urlToImage" : "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2020/04/ethereum-price-markets-trading-investing-gID_1.jpg",
+         "url" : "https://decrypt.co/41593/bitcoin-ethereum-booming-closing-billion-value",
+         "author" : "Alexander Behrens",
          "title" : "Bitcoin on Ethereum is Booming: Closing in on $1 Billion in Value - Decrypt",
          "description" : "Bitcoin holders continue to move the value of their digital gold onto the Ethereum blockchain, defying recent price drops in both currencies.",
+         "publishedAt" : "2020-09-11T21:45:00Z",
          "source" : {
-            "id" : null,
-            "name" : "Decrypt"
+            "name" : "Decrypt",
+            "id" : null
          },
-         "url" : "https://decrypt.co/41593/bitcoin-ethereum-booming-closing-billion-value"
+         "content" : "In brief\r\n<ul><li>Bitcoin transferred to the Ethereum blockchain is now worth more than $800 million, up 37% so far this month.</li><li>Wrapped Bitcoin and renBTC remain the most popular transfer pro… [+3078 chars]"
       },
       {
-         "description" : "That country's government prefers a potential U.S. blackout to a \"forced\" sale.",
-         "urlToImage" : "https://g.foolcdn.com/editorial/images/591470/flag-of-the-peoples-republic-of-china.jpg",
-         "title" : "Report: China Indicates It Would Accept a U.S. Shutdown of TikTok - Motley Fool",
+         "source" : {
+            "name" : "Motley Fool",
+            "id" : null
+         },
          "publishedAt" : "2020-09-11T21:43:00Z",
          "content" : "The Chinese government is adopting a firm stance in the dispute between TikTok, owned by that country's ByteDance, and the U.S. government, according to a report published Friday by Reuters. That art… [+1713 chars]",
+         "title" : "Report: China Indicates It Would Accept a U.S. Shutdown of TikTok - Motley Fool",
+         "description" : "That country's government prefers a potential U.S. blackout to a \"forced\" sale.",
+         "url" : "https://www.fool.com/investing/2020/09/11/report-china-indicates-it-would-accept-a-us-shutdo/",
          "author" : "Eric Volkman",
-         "source" : {
-            "id" : null,
-            "name" : "Motley Fool"
-         },
-         "url" : "https://www.fool.com/investing/2020/09/11/report-china-indicates-it-would-accept-a-us-shutdo/"
+         "urlToImage" : "https://g.foolcdn.com/editorial/images/591470/flag-of-the-peoples-republic-of-china.jpg"
       },
       {
-         "url" : "https://www.forbes.com/sites/davidjeans/2020/09/11/this-ex-israeli-commando-is-betting-16-million-of-his-own-money-that-people-will-use-his-app-rather-than-calling-the-cops/",
          "source" : {
             "id" : null,
             "name" : "Forbes"
          },
          "publishedAt" : "2020-09-11T21:31:00Z",
          "content" : "Once second-in-command of Israels version of Delta Force, Doron Kempel built and sold two tech companies for a combined $850 million. Now he sees financial opportunity in public safety. \r\nHazel Carra… [+7254 chars]",
-         "author" : "David Jeans",
-         "description" : "Hazel Carrasquillo was riding the bus home from work late one night in March when a distressed seeming man began shouting at her.",
          "title" : "This Ex-Israeli Commando Is Betting $16 Million Of His Own Money That People Will Use His App Rather Than Calling The Cops - Forbes",
+         "description" : "Hazel Carrasquillo was riding the bus home from work late one night in March when a distressed seeming man began shouting at her.",
+         "url" : "https://www.forbes.com/sites/davidjeans/2020/09/11/this-ex-israeli-commando-is-betting-16-million-of-his-own-money-that-people-will-use-his-app-rather-than-calling-the-cops/",
+         "author" : "David Jeans",
          "urlToImage" : "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f5a71838f87b55958c66c46%2F0x0.jpg"
       },
       {
-         "author" : null,
-         "content" : "Subscribe: iTunes | Google Play Music | How to Listen\r\nIn his new book, Hoax: Donald Trump, Fox News and the Dangerous Distortion of Truth, the CNN journalist Brian Stelter provides what our reviewer… [+1323 chars]",
-         "publishedAt" : "2020-09-11T20:59:00Z",
-         "title" : "Brian Stelter on Fox News and Reed Hastings on Netflix - The New York Times",
-         "urlToImage" : "https://static01.nyt.com/images/2020/08/23/books/23Enrich2/23Enrich2-facebookJumbo-v2.jpg",
          "description" : "Stelter talks about “Hoax: Donald Trump, Fox News and the Dangerous Distortion of Truth” and Reed Hastings discusses “No Rules Rules: Netflix and the Culture of Reinvention.”",
+         "title" : "Brian Stelter on Fox News and Reed Hastings on Netflix - The New York Times",
+         "content" : "Subscribe: iTunes | Google Play Music | How to Listen\r\nIn his new book, Hoax: Donald Trump, Fox News and the Dangerous Distortion of Truth, the CNN journalist Brian Stelter provides what our reviewer… [+1323 chars]",
          "source" : {
             "name" : "New York Times",
             "id" : null
          },
+         "publishedAt" : "2020-09-11T20:59:00Z",
+         "urlToImage" : "https://static01.nyt.com/images/2020/08/23/books/23Enrich2/23Enrich2-facebookJumbo-v2.jpg",
+         "author" : null,
          "url" : "https://www.nytimes.com/2020/09/11/books/review/podcast-hoax-fox-news-donald-trump-brian-stelter-nextflix-reed-hastings.html"
       },
       {
-         "author" : "Blake Ellis and Melanie Hicken, CNN",
+         "description" : "Three senators are demanding the recall of any hazardous products branded with Amazon's name after a CNN investigation found that dozens of AmazonBasics electronics remained for sale despite customers reporting the products had melted, exploded or burst into …",
+         "title" : "Senators demand recalls after CNN report finds Amazon's own products are being flagged as fire hazards - CNN",
          "content" : null,
          "publishedAt" : "2020-09-11T20:53:00Z",
-         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200911152000-burnt-chair-amazonbasics-super-tease.jpg",
-         "title" : "Senators demand recalls after CNN report finds Amazon's own products are being flagged as fire hazards - CNN",
-         "description" : "Three senators are demanding the recall of any hazardous products branded with Amazon's name after a CNN investigation found that dozens of AmazonBasics electronics remained for sale despite customers reporting the products had melted, exploded or burst into …",
          "source" : {
             "name" : "CNN",
             "id" : "cnn"
          },
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200911152000-burnt-chair-amazonbasics-super-tease.jpg",
+         "author" : "Blake Ellis and Melanie Hicken, CNN",
          "url" : "https://www.cnn.com/2020/09/11/business/amazonbasics-lawmakers-demand-recalls-dangerous-invs/index.html"
       },
       {
-         "publishedAt" : "2020-09-11T20:28:00Z",
-         "author" : "Alexander Osipovich, Joseph De Avila",
-         "content" : "The New York Stock Exchange is signaling that it will move its electronic trading systems out of New Jersey if the state implements a proposed tax on financial transactions.\r\nThe NYSE said Friday tha… [+751 chars]",
-         "description" : "New York Stock Exchange will temporarily run one exchange from Chicago to show its readiness to move",
-         "urlToImage" : "https://images.wsj.net/im-230982/social",
-         "title" : "NYSE Signals It Will Exit New Jersey if State Taxes Stock Trades - The Wall Street Journal",
          "url" : "https://www.wsj.com/articles/nyse-signals-it-will-exit-new-jersey-if-state-taxes-stock-trades-11599829203",
+         "author" : "Alexander Osipovich, Joseph De Avila",
+         "urlToImage" : "https://images.wsj.net/im-230982/social",
+         "publishedAt" : "2020-09-11T20:28:00Z",
          "source" : {
             "id" : "the-wall-street-journal",
             "name" : "The Wall Street Journal"
-         }
+         },
+         "content" : "The New York Stock Exchange is signaling that it will move its electronic trading systems out of New Jersey if the state implements a proposed tax on financial transactions.\r\nThe NYSE said Friday tha… [+751 chars]",
+         "title" : "NYSE Signals It Will Exit New Jersey if State Taxes Stock Trades - The Wall Street Journal",
+         "description" : "New York Stock Exchange will temporarily run one exchange from Chicago to show its readiness to move"
       },
       {
-         "source" : {
-            "id" : null,
-            "name" : "Gizmodo.com"
-         },
-         "url" : "https://earther.gizmodo.com/mining-firm-ceo-resigns-after-razing-an-australian-indi-1845028687",
-         "publishedAt" : "2020-09-11T20:10:00Z",
          "content" : "Three executives from the mining company that detonated a 46,000-year-old  Indigenous Australian heritage site to expand an iron ore mineand later insisted that it did nothing wrongare leaving the co… [+4086 chars]",
-         "author" : "Tom McKay",
-         "description" : "Three executives from the mining company that detonated a 46,000-year-old  Indigenous Australian heritage site to expand an iron ore mine—and later insisted that it did nothing wrong—are leaving the company.",
+         "publishedAt" : "2020-09-11T20:10:00Z",
+         "source" : {
+            "name" : "Gizmodo.com",
+            "id" : null
+         },
          "title" : "Mining Firm CEO Resigns After Razing an Australian Indigenous Site - Gizmodo",
+         "description" : "Three executives from the mining company that detonated a 46,000-year-old  Indigenous Australian heritage site to expand an iron ore mine—and later insisted that it did nothing wrong—are leaving the company.",
+         "author" : "Tom McKay",
+         "url" : "https://earther.gizmodo.com/mining-firm-ceo-resigns-after-razing-an-australian-indi-1845028687",
          "urlToImage" : "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/l4qkzckg781vgu63zeiw.jpg"
       }
-   ]
+   ],
+   "status" : "ok"
 }
