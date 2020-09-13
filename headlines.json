@@ -1,266 +1,266 @@
 {
+   "status" : "ok",
+   "totalResults" : 70,
    "articles" : [
       {
-         "url" : "https://www.sfgate.com/public-transportation/article/All-BART-stations-closed-until-further-notice-15563510.php",
-         "author" : "Amanda Bartlett",
-         "description" : "BART commuters will need to seek an alternative method of transportation today. \n All trains were delayed by a systemwide computer issue early Sunday morning, failing to operate before stations opened at 8 a.m., according to a statement shared by the agency o…",
-         "source" : {
-            "id" : null,
-            "name" : "SFGate"
-         },
-         "content" : "FILE - A train at the downtown Berkeley BART station. All stations were closed Sunday morning due to a systemwide computer issue.\r\nFILE - A train at the downtown Berkeley BART station. All stations..… [+1902 chars]",
-         "urlToImage" : "https://s.hdnux.com/photos/01/12/47/12/19559082/3/rawImage.jpg",
          "title" : "All BART stations 'closed until further notice' due to systemwide computer problem - SFGate",
+         "urlToImage" : "https://s.hdnux.com/photos/01/12/47/12/19559082/3/rawImage.jpg",
+         "description" : "BART commuters will need to seek an alternative method of transportation today. \n All trains were delayed by a systemwide computer issue early Sunday morning, failing to operate before stations opened at 8 a.m., according to a statement shared by the agency o…",
+         "content" : "FILE - A train at the downtown Berkeley BART station. All stations were closed Sunday morning due to a systemwide computer issue.\r\nFILE - A train at the downtown Berkeley BART station. All stations..… [+1902 chars]",
+         "author" : "Amanda Bartlett",
+         "url" : "https://www.sfgate.com/public-transportation/article/All-BART-stations-closed-until-further-notice-15563510.php",
+         "source" : {
+            "name" : "SFGate",
+            "id" : null
+         },
          "publishedAt" : "2020-09-13T18:13:00Z"
       },
       {
-         "description" : "While Bourla acknowledged the possibility Pfizer's vaccine candidate could fail, he argued that he doesn't believe any potential financial hit will \"break the company\" despite investing at least $1.5 billion in the effort.",
          "url" : "https://www.foxbusiness.com/healthcare/pfizer-ceo-coronavirus-vaccine-new-year",
          "author" : "Lucas Manfredi",
+         "content" : "Pfizer CEO Albert Bourla said on Sunday that it is a “likely scenario” that the company’s coronavirus vaccine could be distributed to Americans before the new year if it’s proven by federal regulator… [+3321 chars]",
          "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/09/0/0/06b65644-GettyImages-Albert-Bourla.jpg?ve=1&tl=1",
+         "description" : "While Bourla acknowledged the possibility Pfizer's vaccine candidate could fail, he argued that he doesn't believe any potential financial hit will \"break the company\" despite investing at least $1.5 billion in the effort.",
          "title" : "Pfizer CEO says coronavirus vaccine could be distributed to Americans before year's end - Fox Business",
          "publishedAt" : "2020-09-13T18:05:55Z",
          "source" : {
             "id" : null,
             "name" : "Fox Business"
-         },
-         "content" : "Pfizer CEO Albert Bourla said on Sunday that it is a “likely scenario” that the company’s coronavirus vaccine could be distributed to Americans before the new year if it’s proven by federal regulator… [+3321 chars]"
+         }
       },
       {
          "description" : "Tesla Superchargers were used to charge non-Tesla vehicles in Europe in a loophole used by European EV owners. The charging was used on a variety of European electric cars at Tesla V3 Superchargers, which use the standard CCS connection. The electric cars wer…",
+         "urlToImage" : "https://www.teslarati.com/wp-content/uploads/2020/09/tesla-supercharger-other-manufacturer-charging-1024x573.jpg",
+         "title" : "Tesla Supercharger gets exploited by other EV drivers - Teslarati",
+         "content" : "Tesla Superchargers were used to charge non-Tesla vehicles in Europe in a loophole used by European EV owners. The charging was used on a variety of European electric cars at Tesla V3 Superchargers, … [+2282 chars]",
          "author" : "Joey Klender",
          "url" : "https://www.teslarati.com/tesla-supercharger-exploited-other-evs/",
          "publishedAt" : "2020-09-13T16:57:05Z",
-         "title" : "Tesla Supercharger gets exploited by other EV drivers - Teslarati",
-         "urlToImage" : "https://www.teslarati.com/wp-content/uploads/2020/09/tesla-supercharger-other-manufacturer-charging-1024x573.jpg",
-         "content" : "Tesla Superchargers were used to charge non-Tesla vehicles in Europe in a loophole used by European EV owners. The charging was used on a variety of European electric cars at Tesla V3 Superchargers, … [+2282 chars]",
          "source" : {
             "id" : null,
             "name" : "Teslarati"
          }
       },
       {
-         "url" : "https://electrek.co/2020/09/13/tesla-update-model-3-center-console-steering-wheel-heat-pump-rumor/",
-         "author" : null,
+         "title" : "Tesla to update Model 3 center console, steering wheel, add heat pump and more, rumor says - Electrek",
+         "urlToImage" : "https://electrek.co/wp-content/uploads/sites/3/2018/01/model-3-interior-dashboard-head-on-1-e1525805102199.jpeg?quality=82&strip=all",
          "description" : "Tesla is rumored to introduce several changes to the Model 3, including a new center console, steering wheel, adding a heat pump and more, according to a known leaker in China. While Tesla’s Model Y is based on the same platform as Model 3, it is in many ways…",
          "content" : "Tesla is rumored to introduce several changes to the Model 3, including a new center console, steering wheel, adding a heat pump and more, according to a known leaker in China.\r\nWhile Tesla’s Model Y… [+2973 chars]",
+         "author" : null,
+         "url" : "https://electrek.co/2020/09/13/tesla-update-model-3-center-console-steering-wheel-heat-pump-rumor/",
          "source" : {
-            "id" : null,
-            "name" : "Electrek"
+            "name" : "Electrek",
+            "id" : null
          },
-         "title" : "Tesla to update Model 3 center console, steering wheel, add heat pump and more, rumor says - Electrek",
-         "publishedAt" : "2020-09-13T16:53:00Z",
-         "urlToImage" : "https://electrek.co/wp-content/uploads/sites/3/2018/01/model-3-interior-dashboard-head-on-1-e1525805102199.jpeg?quality=82&strip=all"
+         "publishedAt" : "2020-09-13T16:53:00Z"
       },
       {
-         "url" : "https://www.ft.com/content/6bfe40a5-2426-4743-98cd-6fed9dd01b98",
-         "author" : null,
-         "description" : "Sale comes four years after Masayoshi Son bought the chip designer",
-         "content" : "SoftBank is set to sell the UK’s Arm Holdings to US chip company Nvidia for more than $40bn, just four years after its founder Masayoshi Son bought the chip designer and said it would be the linchpin… [+3662 chars]",
+         "publishedAt" : "2020-09-13T16:50:00Z",
          "source" : {
             "name" : "Financial Times",
             "id" : "financial-times"
          },
+         "content" : "SoftBank is set to sell the UK’s Arm Holdings to US chip company Nvidia for more than $40bn, just four years after its founder Masayoshi Son bought the chip designer and said it would be the linchpin… [+3662 chars]",
+         "urlToImage" : "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F482e9b0d-6e73-48ba-bf15-40685bd7d58f.jpg?source=next-opengraph&fit=scale-down&width=900",
+         "description" : "Sale comes four years after Masayoshi Son bought the chip designer",
          "title" : "Nvidia reportedly to acquire ARM Holdings from SoftBank for $40 billion - Ars Technica",
-         "publishedAt" : "2020-09-13T16:50:00Z",
-         "urlToImage" : "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F482e9b0d-6e73-48ba-bf15-40685bd7d58f.jpg?source=next-opengraph&fit=scale-down&width=900"
+         "url" : "https://www.ft.com/content/6bfe40a5-2426-4743-98cd-6fed9dd01b98",
+         "author" : null
       },
       {
-         "url" : "https://www.cnbc.com/2020/09/13/united-ceo-demand-unlikely-to-recover-until-vaccine-widely-available.html",
-         "author" : "Tucker Higgins",
-         "description" : "\"I hope that happens sooner, but our guess is that's the end of next year,\" Scott Kirby said during an interview on CBS's \"Face the Nation.\"",
          "source" : {
             "id" : null,
             "name" : "CNBC"
          },
-         "content" : "The CEO of United Airlines said on Sunday that a recovery for the aviation industry will have to wait until a Covid-19 vaccine  is approved and widely available, a milestone he said the company proje… [+2692 chars]",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106660428-1597243678709-2015-04-23T120000Z_1052041475_TM3EB4M1B4N01_RTRMADP_3_USA-TRANSPORT.JPG?v=1597243765",
+         "publishedAt" : "2020-09-13T16:42:00Z",
+         "author" : "Tucker Higgins",
+         "url" : "https://www.cnbc.com/2020/09/13/united-ceo-demand-unlikely-to-recover-until-vaccine-widely-available.html",
          "title" : "United CEO says travel demand unlikely to recover until vaccine is widely distributed - CNBC",
-         "publishedAt" : "2020-09-13T16:42:00Z"
+         "description" : "\"I hope that happens sooner, but our guess is that's the end of next year,\" Scott Kirby said during an interview on CBS's \"Face the Nation.\"",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106660428-1597243678709-2015-04-23T120000Z_1052041475_TM3EB4M1B4N01_RTRMADP_3_USA-TRANSPORT.JPG?v=1597243765",
+         "content" : "The CEO of United Airlines said on Sunday that a recovery for the aviation industry will have to wait until a Covid-19 vaccine  is approved and widely available, a milestone he said the company proje… [+2692 chars]"
       },
       {
-         "urlToImage" : "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i8m_H53YByAw/v0/1200x799.jpg",
-         "publishedAt" : "2020-09-13T16:21:00Z",
-         "title" : "SoftBank Officials Revive Talks to Take Company Private: FT - Bloomberg",
          "source" : {
             "id" : "bloomberg",
             "name" : "Bloomberg"
          },
-         "content" : "SoftBank Group Corp. executives are reviving discussions about taking the technology company private, the Financial Times \r\nreported, citing people with direct knowledge of the matter.\r\nThe talks are… [+917 chars]",
-         "description" : "",
+         "publishedAt" : "2020-09-13T16:21:00Z",
          "author" : "Sebastian Tong, Yueqi Yang",
-         "url" : "https://www.bloomberg.com/news/articles/2020-09-13/softbank-officials-revive-talks-to-take-company-private-ft-says"
+         "url" : "https://www.bloomberg.com/news/articles/2020-09-13/softbank-officials-revive-talks-to-take-company-private-ft-says",
+         "title" : "SoftBank Officials Revive Talks to Take Company Private: FT - Bloomberg",
+         "description" : "",
+         "urlToImage" : "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i8m_H53YByAw/v0/1200x799.jpg",
+         "content" : "SoftBank Group Corp. executives are reviving discussions about taking the technology company private, the Financial Times \r\nreported, citing people with direct knowledge of the matter.\r\nThe talks are… [+917 chars]"
       },
       {
-         "source" : {
-            "name" : "Business Insider",
-            "id" : "business-insider"
-         },
-         "content" : "It's the oldest trick in the book — a fast-food chain drumming up sales with a limited-time menu offering. \r\nBut in the case of McDonald's partnership with Travis Scott, the chain did not need to add… [+2430 chars]",
-         "urlToImage" : "https://i.insider.com/5f5bddca7ed0ee001e25eedf?width=1200&format=jpeg",
          "publishedAt" : "2020-09-13T16:06:21Z",
-         "title" : "McDonald's Travis Scott campaign is a brilliant marketing ploy - Business Insider - Business Insider",
-         "author" : "Kate Taylor",
-         "url" : "https://www.businessinsider.com/mcdonalds-travis-scott-campaign-is-a-brilliant-marketing-ploy-2020-9",
-         "description" : "The deal only uses items already on the McDonald's menu, giving the fast-food chain buzz without adding complexity to its kitchens."
-      },
-      {
-         "author" : "Dan Caplinger",
-         "url" : "https://www.fool.com/investing/2020/09/13/2021-social-security-cola-will-be-disappointing/",
-         "description" : "Gains for seniors in January's Social Security checks are likely to be less than last year's but still significant.",
-         "content" : "Social Security is vital for the financial survival of tens of millions of retirees. The majority of Social Security recipients rely on the program for most or all of their income. Even for those wit… [+3390 chars]",
-         "source" : {
-            "id" : null,
-            "name" : "Motley Fool"
-         },
-         "publishedAt" : "2020-09-13T16:01:00Z",
-         "title" : "The 2021 Social Security COLA Will Be Disappointing -- but at Least There'll Be One - Motley Fool",
-         "urlToImage" : "https://g.foolcdn.com/editorial/images/591441/ss-card-and-money-gettyimages-177533853.jpg"
-      },
-      {
-         "content" : "Many U.S. airlines are overstaffed due to reduced flying schedules and low demand for air travel amid the coronavirus pandemic.\r\nUSA TODAY\r\nUnited Airlines is being accused in a new lawsuit of staffi… [+3525 chars]",
-         "source" : {
-            "name" : "USA Today",
-            "id" : "usa-today"
-         },
-         "publishedAt" : "2020-09-13T15:45:42Z",
-         "title" : "United Airlines accused of favoring young, white, blond attendants for NFL, MLB flights - USA TODAY",
-         "urlToImage" : "https://www.gannett-cdn.com/presto/2020/02/27/USAT/b8c14845-c088-4e39-9d3c-e276f52fd714-AP_United_Airlines.JPG?crop=3809,2143,x0,y193&width=3200&height=1680&fit=bounds",
-         "author" : "Hannah Yasharoff",
-         "url" : "https://www.usatoday.com/story/travel/airline-news/2020/09/13/united-sued-over-claims-nfl-flights-staffed-young-blond-crews/5784594002/",
-         "description" : "United Airlines is accused in a lawsuit of staffing NFL flights with attendants who are \"young, white, female and predominately blond/blue-eyed.\""
-      },
-      {
-         "content" : "A passenger was reportedly involved in multiple incidents on one flight.\r\nAccording to witnesses, a male passenger had to be moved to the front of a plane after getting into an altercation with anoth… [+2158 chars]",
-         "source" : {
-            "id" : "fox-news",
-            "name" : "Fox News"
-         },
-         "publishedAt" : "2020-09-13T15:29:33Z",
-         "title" : "EasyJet passenger arrested after fights involving race, paper airplane: report - Fox News",
-         "urlToImage" : "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/packed-plane-fi-566208.jpg",
-         "author" : "Michael Hollan",
-         "url" : "https://www.foxnews.com/travel/easyjet-passenger-hits-woman-racially-charged-incident-paper-airplane-report",
-         "description" : "A passenger was reportedly involved in multiple incidents on one flight."
-      },
-      {
-         "content" : "Peeps treats are going on hiatus for several months another consequence of the coronavirus pandemic.\r\nJust Born Quality Confections said it wont be producing the popular marshmallow sweets for Hallow… [+970 chars]",
-         "source" : {
-            "name" : "NBC 10 Philadelphia",
-            "id" : null
-         },
-         "title" : "Harshmallow: COVID-19 Prompts Pause for Peeps Holiday Treats - NBC 10 Philadelphia",
-         "publishedAt" : "2020-09-13T15:22:00Z",
-         "urlToImage" : "https://media.nbcphiladelphia.com/2020/09/GettyImages-1938576.jpg?resize=1200%2C675",
-         "url" : "https://www.nbcphiladelphia.com/news/coronavirus/harshmallow-covid-19-prompts-pause-for-peeps-holiday-treats/2531256/",
-         "author" : "NBC 10 Philadelphia",
-         "description" : "Peeps holiday treats are going on hiatus — another consequence of the coronavirus."
-      },
-      {
-         "urlToImage" : "https://d.newsweek.com/en/full/1635794/delta.jpg",
-         "publishedAt" : "2020-09-13T14:05:14Z",
-         "title" : "Delta Flight Returns to Gate, Removes Passenger Refusing to Wear Mask - Newsweek",
-         "source" : {
-            "name" : "Newsweek",
-            "id" : "newsweek"
-         },
-         "content" : "A passenger who refused to wear a mask forced a Delta flight bound for Los Angeles to return back Saturday evening to its point of takeoff at Metro Airport in Detroit, according to Deadline Detroit.\r… [+4274 chars]",
-         "description" : "\"Delta requires masks on every flight for the safety of our customers and crew,\" said an airline spokeswoman.",
-         "author" : "David Chiu",
-         "url" : "https://www.newsweek.com/delta-flight-returns-gate-removes-passenger-refusing-wear-mask-1531571"
-      },
-      {
-         "url" : "https://www.washingtonpost.com/national/osha-covid-meat-plant-fines/2020/09/13/1dca3e14-f395-11ea-bc45-e5d48ab44b9f_story.html",
-         "author" : "Kimberly Kindy",
-         "description" : "Two plants were fined a total of about $29,000 — an amount critics say is so small that it won’t serve as an incentive for the nation’s meatpackers to protect their workers.",
-         "content" : "Meat plant workers, union leaders and worker safety groups are also outraged that the two plants, with some of the most severe outbreaks in the nation, were only cited for a total of three safety vio… [+10574 chars]",
-         "source" : {
-            "id" : "the-washington-post",
-            "name" : "The Washington Post"
-         },
-         "title" : "More than 200 meat plant workers in the U.S. have died of covid-19. Federal regulators just issued two modest fines. - The Washington Post",
-         "publishedAt" : "2020-09-13T13:49:00Z",
-         "urlToImage" : "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/36AM6SFFWQI6VCMOWINZVA7XSI.jpg&w=1440"
-      },
-      {
-         "publishedAt" : "2020-09-13T13:46:00Z",
-         "title" : "Fed meeting, retail sales: What to know in the week ahead - Yahoo Finance",
-         "urlToImage" : "https://s.yimg.com/uu/api/res/1.2/xhaabQEhjcs5m4RjcthxVg--~B/aD00MDAwO3c9NjAwMDtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-images/2020-06/200e0b70-abf5-11ea-bfff-6b5e91bfdf97",
-         "content" : "Investors, rocked by a volatile stretch of trading in equity markets last week, will turn their attention this week to the Federal Open Market Committees (FOMC) September meeting, along with two key … [+8758 chars]",
-         "source" : {
-            "id" : null,
-            "name" : "Yahoo Entertainment"
-         },
-         "description" : "Investors, rocked by a volatile stretch of trading in equity markets last week, will turn their attention this week to the Federal Open Market Committee’s (FOMC) September meeting, along with a key report on the state of the consumer in the US.",
-         "author" : "Emily McCormick",
-         "url" : "https://finance.yahoo.com/news/fomc-meeting-retail-sales-what-to-know-in-the-week-ahead-134602755.html"
-      },
-      {
-         "content" : "For those fortunate enough to live somewhere with decent public transportation and rely on it to get around, the past six months have probably been a challenge. Even though a lot of our lives have mo… [+3901 chars]",
-         "source" : {
-            "name" : "Lifehacker.com",
-            "id" : null
-         },
-         "title" : "How to Stay as Safe as Possible on Public Transit Right Now - Lifehacker",
-         "publishedAt" : "2020-09-13T13:30:00Z",
-         "urlToImage" : "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/xbvbrhub9ms13lvmchek.jpg",
-         "url" : "https://lifehacker.com/how-to-stay-as-safe-as-possible-on-public-transit-right-1845037829",
-         "author" : "Elizabeth Yuko",
-         "description" : "Avoiding it isn't an option for everyone."
-      },
-      {
-         "title" : "The luxury sector is going to be hard hit for years: Former LVMH exec - Yahoo Finance",
-         "publishedAt" : "2020-09-13T13:22:00Z",
-         "urlToImage" : "https://s.yimg.com/uu/api/res/1.2/GXeDyft1hngSXwisz.coNg--~B/aD0zMzM3O3c9NTA0MDtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2020-09/836ad590-f3ad-11ea-b79c-fbd2ce1cbd22",
-         "content" : "The coronavirus is putting pressure on luxury retail as up-scale companies grapple with the fallout from closings of physical stores. But former LVMH (LVMHUY) chairman of North America, Pauline Brown… [+3033 chars]",
-         "source" : {
-            "name" : "Yahoo Entertainment",
-            "id" : null
-         },
-         "description" : "Former LVMH Chairman of North America & Author of 'Aesthetic Intelligence’ Pauline Brown joined Yahoo Finance to discuss the latest outlook for Tiffany after LVMH says the takeover deal won't happen.",
-         "url" : "https://finance.yahoo.com/news/the-luxury-sector-is-going-to-be-hard-hit-for-years-fmr-lvmh-exec-132224171.html",
-         "author" : "Meghan Fitzgerald"
-      },
-      {
-         "urlToImage" : "https://i0.wp.com/dailyhodl.com/wp-content/uploads/2020/09/yyg5586ge.jpg?fit=1450%2C850&ssl=1",
-         "title" : "Bitcoin Analyst Says XRP Will Annihilate Almost Every Other Altcoin – Here’s Why - The Daily Hodl",
-         "publishedAt" : "2020-09-13T13:01:23Z",
-         "source" : {
-            "name" : "The Daily Hodl",
-            "id" : null
-         },
-         "content" : "A contrarian investor known in the industry as CryptoWhale believes that XRP eventually will wipe out nearly every other altcoin.\r\nIn a new tweetstorm, CryptoWhale tells his 34,000 followers that XRP… [+1676 chars]",
-         "description" : "A contrarian investor known in the industry as Crypto Whale believes that XRP eventually will wipe out nearly every other altcoin.",
-         "url" : "https://dailyhodl.com/2020/09/13/bitcoin-analyst-says-xrp-will-annihilate-almost-every-other-altcoin-heres-why/",
-         "author" : "Daily Hodl Staff"
-      },
-      {
-         "publishedAt" : "2020-09-13T12:18:31Z",
-         "title" : "Royal Caribbean Wonder of the Sea world's largest cruise ship under construction - Business Insider - Business Insider",
-         "urlToImage" : "https://i.insider.com/5f5a78f3e6ff30001d4e8243?width=1200&format=jpeg",
-         "content" : "Royal Caribbean's new Wonder of the Seas cruise ship was transferred to an outfitting dock on September 5 in preparation for its 2022 debut despite the current tumultuous state of the travel industry… [+1595 chars]",
          "source" : {
             "id" : "business-insider",
             "name" : "Business Insider"
          },
-         "description" : "The ship is set to be debuted in 2022 after a delay caused by the pandemic. The 18-deck ship will accommodate 5,000 guests with double occupancy.",
-         "author" : "Brittany Chang",
-         "url" : "https://www.businessinsider.com/royal-caribbean-wonder-of-the-sea-2020-9"
+         "urlToImage" : "https://i.insider.com/5f5bddca7ed0ee001e25eedf?width=1200&format=jpeg",
+         "description" : "The deal only uses items already on the McDonald's menu, giving the fast-food chain buzz without adding complexity to its kitchens.",
+         "title" : "McDonald's Travis Scott campaign is a brilliant marketing ploy - Business Insider - Business Insider",
+         "content" : "It's the oldest trick in the book — a fast-food chain drumming up sales with a limited-time menu offering. \r\nBut in the case of McDonald's partnership with Travis Scott, the chain did not need to add… [+2430 chars]",
+         "author" : "Kate Taylor",
+         "url" : "https://www.businessinsider.com/mcdonalds-travis-scott-campaign-is-a-brilliant-marketing-ploy-2020-9"
       },
       {
-         "title" : "Will Another Market Crash Happen? - Motley Fool",
-         "publishedAt" : "2020-09-13T11:16:00Z",
-         "urlToImage" : "https://g.foolcdn.com/editorial/images/591037/couple-looking-at-bills-in-dismay.jpg",
-         "content" : "I'm not going to bury the lede. Another stock market crash is going to happen. \r\nI know this not because stocks are overvalued (although they probably are) or because COVID cases have continued spiki… [+3812 chars]",
+         "publishedAt" : "2020-09-13T16:01:00Z",
+         "source" : {
+            "name" : "Motley Fool",
+            "id" : null
+         },
+         "content" : "Social Security is vital for the financial survival of tens of millions of retirees. The majority of Social Security recipients rely on the program for most or all of their income. Even for those wit… [+3390 chars]",
+         "description" : "Gains for seniors in January's Social Security checks are likely to be less than last year's but still significant.",
+         "urlToImage" : "https://g.foolcdn.com/editorial/images/591441/ss-card-and-money-gettyimages-177533853.jpg",
+         "title" : "The 2021 Social Security COLA Will Be Disappointing -- but at Least There'll Be One - Motley Fool",
+         "url" : "https://www.fool.com/investing/2020/09/13/2021-social-security-cola-will-be-disappointing/",
+         "author" : "Dan Caplinger"
+      },
+      {
+         "title" : "United Airlines accused of favoring young, white, blond attendants for NFL, MLB flights - USA TODAY",
+         "description" : "United Airlines is accused in a lawsuit of staffing NFL flights with attendants who are \"young, white, female and predominately blond/blue-eyed.\"",
+         "urlToImage" : "https://www.gannett-cdn.com/presto/2020/02/27/USAT/b8c14845-c088-4e39-9d3c-e276f52fd714-AP_United_Airlines.JPG?crop=3809,2143,x0,y193&width=3200&height=1680&fit=bounds",
+         "content" : "Many U.S. airlines are overstaffed due to reduced flying schedules and low demand for air travel amid the coronavirus pandemic.\r\nUSA TODAY\r\nUnited Airlines is being accused in a new lawsuit of staffi… [+3525 chars]",
+         "author" : "Hannah Yasharoff",
+         "url" : "https://www.usatoday.com/story/travel/airline-news/2020/09/13/united-sued-over-claims-nfl-flights-staffed-young-blond-crews/5784594002/",
+         "source" : {
+            "name" : "USA Today",
+            "id" : "usa-today"
+         },
+         "publishedAt" : "2020-09-13T15:45:42Z"
+      },
+      {
+         "publishedAt" : "2020-09-13T15:29:33Z",
+         "source" : {
+            "name" : "Fox News",
+            "id" : "fox-news"
+         },
+         "url" : "https://www.foxnews.com/travel/easyjet-passenger-hits-woman-racially-charged-incident-paper-airplane-report",
+         "author" : "Michael Hollan",
+         "content" : "A passenger was reportedly involved in multiple incidents on one flight.\r\nAccording to witnesses, a male passenger had to be moved to the front of a plane after getting into an altercation with anoth… [+2158 chars]",
+         "description" : "A passenger was reportedly involved in multiple incidents on one flight.",
+         "urlToImage" : "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/packed-plane-fi-566208.jpg",
+         "title" : "EasyJet passenger arrested after fights involving race, paper airplane: report - Fox News"
+      },
+      {
+         "title" : "Harshmallow: COVID-19 Prompts Pause for Peeps Holiday Treats - NBC 10 Philadelphia",
+         "urlToImage" : "https://media.nbcphiladelphia.com/2020/09/GettyImages-1938576.jpg?resize=1200%2C675",
+         "description" : "Peeps holiday treats are going on hiatus — another consequence of the coronavirus.",
+         "content" : "Peeps treats are going on hiatus for several months another consequence of the coronavirus pandemic.\r\nJust Born Quality Confections said it wont be producing the popular marshmallow sweets for Hallow… [+970 chars]",
+         "author" : "NBC 10 Philadelphia",
+         "url" : "https://www.nbcphiladelphia.com/news/coronavirus/harshmallow-covid-19-prompts-pause-for-peeps-holiday-treats/2531256/",
+         "source" : {
+            "name" : "NBC 10 Philadelphia",
+            "id" : null
+         },
+         "publishedAt" : "2020-09-13T15:22:00Z"
+      },
+      {
+         "source" : {
+            "id" : "newsweek",
+            "name" : "Newsweek"
+         },
+         "publishedAt" : "2020-09-13T14:05:14Z",
+         "content" : "A passenger who refused to wear a mask forced a Delta flight bound for Los Angeles to return back Saturday evening to its point of takeoff at Metro Airport in Detroit, according to Deadline Detroit.\r… [+4274 chars]",
+         "title" : "Delta Flight Returns to Gate, Removes Passenger Refusing to Wear Mask - Newsweek",
+         "description" : "\"Delta requires masks on every flight for the safety of our customers and crew,\" said an airline spokeswoman.",
+         "urlToImage" : "https://d.newsweek.com/en/full/1635794/delta.jpg",
+         "url" : "https://www.newsweek.com/delta-flight-returns-gate-removes-passenger-refusing-wear-mask-1531571",
+         "author" : "David Chiu"
+      },
+      {
+         "publishedAt" : "2020-09-13T13:49:00Z",
+         "source" : {
+            "name" : "The Washington Post",
+            "id" : "the-washington-post"
+         },
+         "urlToImage" : "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/36AM6SFFWQI6VCMOWINZVA7XSI.jpg&w=1440",
+         "description" : "Two plants were fined a total of about $29,000 — an amount critics say is so small that it won’t serve as an incentive for the nation’s meatpackers to protect their workers.",
+         "title" : "More than 200 meat plant workers in the U.S. have died of covid-19. Federal regulators just issued two modest fines. - The Washington Post",
+         "content" : "Meat plant workers, union leaders and worker safety groups are also outraged that the two plants, with some of the most severe outbreaks in the nation, were only cited for a total of three safety vio… [+10574 chars]",
+         "author" : "Kimberly Kindy",
+         "url" : "https://www.washingtonpost.com/national/osha-covid-meat-plant-fines/2020/09/13/1dca3e14-f395-11ea-bc45-e5d48ab44b9f_story.html"
+      },
+      {
+         "source" : {
+            "id" : null,
+            "name" : "Yahoo Entertainment"
+         },
+         "publishedAt" : "2020-09-13T13:46:00Z",
+         "author" : "Emily McCormick",
+         "url" : "https://finance.yahoo.com/news/fomc-meeting-retail-sales-what-to-know-in-the-week-ahead-134602755.html",
+         "title" : "Fed meeting, retail sales: What to know in the week ahead - Yahoo Finance",
+         "urlToImage" : "https://s.yimg.com/uu/api/res/1.2/xhaabQEhjcs5m4RjcthxVg--~B/aD00MDAwO3c9NjAwMDtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-images/2020-06/200e0b70-abf5-11ea-bfff-6b5e91bfdf97",
+         "description" : "Investors, rocked by a volatile stretch of trading in equity markets last week, will turn their attention this week to the Federal Open Market Committee’s (FOMC) September meeting, along with a key report on the state of the consumer in the US.",
+         "content" : "Investors, rocked by a volatile stretch of trading in equity markets last week, will turn their attention this week to the Federal Open Market Committees (FOMC) September meeting, along with two key … [+8758 chars]"
+      },
+      {
+         "publishedAt" : "2020-09-13T13:30:00Z",
+         "source" : {
+            "id" : null,
+            "name" : "Lifehacker.com"
+         },
+         "url" : "https://lifehacker.com/how-to-stay-as-safe-as-possible-on-public-transit-right-1845037829",
+         "author" : "Elizabeth Yuko",
+         "content" : "For those fortunate enough to live somewhere with decent public transportation and rely on it to get around, the past six months have probably been a challenge. Even though a lot of our lives have mo… [+3901 chars]",
+         "urlToImage" : "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/xbvbrhub9ms13lvmchek.jpg",
+         "description" : "Avoiding it isn't an option for everyone.",
+         "title" : "How to Stay as Safe as Possible on Public Transit Right Now - Lifehacker"
+      },
+      {
+         "author" : "Meghan Fitzgerald",
+         "url" : "https://finance.yahoo.com/news/the-luxury-sector-is-going-to-be-hard-hit-for-years-fmr-lvmh-exec-132224171.html",
+         "description" : "Former LVMH Chairman of North America & Author of 'Aesthetic Intelligence’ Pauline Brown joined Yahoo Finance to discuss the latest outlook for Tiffany after LVMH says the takeover deal won't happen.",
+         "urlToImage" : "https://s.yimg.com/uu/api/res/1.2/GXeDyft1hngSXwisz.coNg--~B/aD0zMzM3O3c9NTA0MDtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2020-09/836ad590-f3ad-11ea-b79c-fbd2ce1cbd22",
+         "title" : "The luxury sector is going to be hard hit for years: Former LVMH exec - Yahoo Finance",
+         "content" : "The coronavirus is putting pressure on luxury retail as up-scale companies grapple with the fallout from closings of physical stores. But former LVMH (LVMHUY) chairman of North America, Pauline Brown… [+3033 chars]",
+         "publishedAt" : "2020-09-13T13:22:00Z",
+         "source" : {
+            "name" : "Yahoo Entertainment",
+            "id" : null
+         }
+      },
+      {
+         "source" : {
+            "id" : null,
+            "name" : "The Daily Hodl"
+         },
+         "publishedAt" : "2020-09-13T13:01:23Z",
+         "author" : "Daily Hodl Staff",
+         "url" : "https://dailyhodl.com/2020/09/13/bitcoin-analyst-says-xrp-will-annihilate-almost-every-other-altcoin-heres-why/",
+         "title" : "Bitcoin Analyst Says XRP Will Annihilate Almost Every Other Altcoin – Here’s Why - The Daily Hodl",
+         "urlToImage" : "https://i0.wp.com/dailyhodl.com/wp-content/uploads/2020/09/yyg5586ge.jpg?fit=1450%2C850&ssl=1",
+         "description" : "A contrarian investor known in the industry as Crypto Whale believes that XRP eventually will wipe out nearly every other altcoin.",
+         "content" : "A contrarian investor known in the industry as CryptoWhale believes that XRP eventually will wipe out nearly every other altcoin.\r\nIn a new tweetstorm, CryptoWhale tells his 34,000 followers that XRP… [+1676 chars]"
+      },
+      {
+         "publishedAt" : "2020-09-13T12:18:31Z",
+         "source" : {
+            "name" : "Business Insider",
+            "id" : "business-insider"
+         },
+         "url" : "https://www.businessinsider.com/royal-caribbean-wonder-of-the-sea-2020-9",
+         "author" : "Brittany Chang",
+         "content" : "Royal Caribbean's new Wonder of the Seas cruise ship was transferred to an outfitting dock on September 5 in preparation for its 2022 debut despite the current tumultuous state of the travel industry… [+1595 chars]",
+         "description" : "The ship is set to be debuted in 2022 after a delay caused by the pandemic. The 18-deck ship will accommodate 5,000 guests with double occupancy.",
+         "urlToImage" : "https://i.insider.com/5f5a78f3e6ff30001d4e8243?width=1200&format=jpeg",
+         "title" : "Royal Caribbean Wonder of the Sea world's largest cruise ship under construction - Business Insider - Business Insider"
+      },
+      {
          "source" : {
             "id" : null,
             "name" : "Motley Fool"
          },
+         "publishedAt" : "2020-09-13T11:16:00Z",
+         "content" : "I'm not going to bury the lede. Another stock market crash is going to happen. \r\nI know this not because stocks are overvalued (although they probably are) or because COVID cases have continued spiki… [+3812 chars]",
+         "title" : "Will Another Market Crash Happen? - Motley Fool",
          "description" : "It's all but certain.",
+         "urlToImage" : "https://g.foolcdn.com/editorial/images/591037/couple-looking-at-bills-in-dismay.jpg",
          "url" : "https://www.fool.com/investing/2020/09/13/will-another-market-crash-happen/",
          "author" : "Christy Bieber"
       }
-   ],
-   "totalResults" : 70,
-   "status" : "ok"
+   ]
 }
