@@ -1,266 +1,266 @@
 {
-   "status" : "ok",
    "totalResults" : 70,
    "articles" : [
       {
-         "urlToImage" : "https://s.yimg.com/uu/api/res/1.2/xhaabQEhjcs5m4RjcthxVg--~B/aD00MDAwO3c9NjAwMDtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-images/2020-06/200e0b70-abf5-11ea-bfff-6b5e91bfdf97",
-         "title" : "Fed meeting, retail sales: What to know in the week ahead - Yahoo Finance",
-         "content" : "Investors, rocked by a volatile stretch of trading in equity markets last week, will turn their attention this week to the Federal Open Market Committees (FOMC) September meeting, along with two key … [+8758 chars]",
-         "author" : "Emily McCormick",
+         "description" : "Investors, rocked by a volatile stretch of trading in equity markets last week, will turn their attention this week to the Federal Open Market Committee’s (FOMC) September meeting, along with a key report on the state of the consumer in the US.",
+         "publishedAt" : "2020-09-13T13:46:00Z",
          "url" : "https://finance.yahoo.com/news/fomc-meeting-retail-sales-what-to-know-in-the-week-ahead-134602755.html",
          "source" : {
-            "id" : null,
-            "name" : "Yahoo Entertainment"
-         },
-         "description" : "Investors, rocked by a volatile stretch of trading in equity markets last week, will turn their attention this week to the Federal Open Market Committee’s (FOMC) September meeting, along with a key report on the state of the consumer in the US.",
-         "publishedAt" : "2020-09-13T13:46:00Z"
-      },
-      {
-         "publishedAt" : "2020-09-13T10:08:00Z",
-         "description" : "The momentum is not yet over for these three promising companies that are doing their part in combating the COVID-19 pandemic.",
-         "source" : {
-            "name" : "Motley Fool",
+            "name" : "Yahoo Entertainment",
             "id" : null
          },
-         "url" : "https://www.fool.com/investing/2020/09/13/3-best-coronavirus-stocks-to-watch-in-september/",
-         "author" : "Zhiyuan Sun",
-         "content" : "The COVID-19 pandemic has revolutionized everyday life. Biotech companies are working tirelessly to find a cure for the deadly virus. Meanwhile, working at home has become the norm for many, while th… [+4341 chars]",
+         "title" : "Fed meeting, retail sales: What to know in the week ahead - Yahoo Finance",
+         "author" : "Emily McCormick",
+         "urlToImage" : "https://s.yimg.com/uu/api/res/1.2/xhaabQEhjcs5m4RjcthxVg--~B/aD00MDAwO3c9NjAwMDtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-images/2020-06/200e0b70-abf5-11ea-bfff-6b5e91bfdf97",
+         "content" : "Investors, rocked by a volatile stretch of trading in equity markets last week, will turn their attention this week to the Federal Open Market Committees (FOMC) September meeting, along with two key … [+8758 chars]"
+      },
+      {
          "title" : "3 Best Coronavirus Stocks to Watch in September - Motley Fool",
-         "urlToImage" : "https://g.foolcdn.com/editorial/images/590319/gettyimages-1214087281.jpg"
-      },
-      {
+         "author" : "Zhiyuan Sun",
+         "urlToImage" : "https://g.foolcdn.com/editorial/images/590319/gettyimages-1214087281.jpg",
+         "content" : "The COVID-19 pandemic has revolutionized everyday life. Biotech companies are working tirelessly to find a cure for the deadly virus. Meanwhile, working at home has become the norm for many, while th… [+4341 chars]",
+         "description" : "The momentum is not yet over for these three promising companies that are doing their part in combating the COVID-19 pandemic.",
+         "publishedAt" : "2020-09-13T10:08:00Z",
+         "url" : "https://www.fool.com/investing/2020/09/13/3-best-coronavirus-stocks-to-watch-in-september/",
          "source" : {
             "name" : "Motley Fool",
             "id" : null
-         },
-         "url" : "https://www.fool.com/retirement/2020/09/13/social-security-may-run-out-of-money-sooner-than-e/",
-         "description" : "Sweeping benefit cuts may be necessary well before 2035.",
-         "publishedAt" : "2020-09-13T10:06:00Z",
-         "urlToImage" : "https://g.foolcdn.com/editorial/images/590720/social-security-card-with-cash-retirement-benefits-getty.jpg",
-         "content" : "Last month, America's top social program, Social Security, celebrated its 85th anniversary since being signed into law. Today, it's a program responsible for providing monthly benefits to more than 6… [+7201 chars]",
-         "author" : "Sean Williams",
-         "title" : "Social Security May Run Out of Money Sooner Than Expected - The Motley Fool"
+         }
       },
       {
-         "title" : "7 Reasons the Stock Market May Crash Again and 3 Things to Do About It - Motley Fool",
-         "content" : "What a year it's been for Wall Street and investors. The unprecedented coronavirus disease 2019 (COVID-19) pandemic initially clobbered the broad-based S&amp;P 500(SNPINDEX:^SPX) and sent it lower by… [+7530 chars]",
-         "author" : "Sean Williams",
-         "urlToImage" : "https://g.foolcdn.com/editorial/images/591199/stock-market-crash-plunge-dollar-newspaper-invest-dow-sp-500-getty.jpg",
-         "description" : "If the stock market plunges again, it'll be one heck of an opportunity for long-term investors.",
-         "publishedAt" : "2020-09-13T09:51:00Z",
-         "url" : "https://www.fool.com/investing/2020/09/13/7-reasons-the-stock-market-may-crash-again-and-3-t/",
+         "publishedAt" : "2020-09-13T10:06:00Z",
+         "description" : "Sweeping benefit cuts may be necessary well before 2035.",
+         "url" : "https://www.fool.com/retirement/2020/09/13/social-security-may-run-out-of-money-sooner-than-e/",
          "source" : {
             "id" : null,
             "name" : "Motley Fool"
+         },
+         "title" : "Social Security May Run Out of Money Sooner Than Expected - The Motley Fool",
+         "urlToImage" : "https://g.foolcdn.com/editorial/images/590720/social-security-card-with-cash-retirement-benefits-getty.jpg",
+         "author" : "Sean Williams",
+         "content" : "Last month, America's top social program, Social Security, celebrated its 85th anniversary since being signed into law. Today, it's a program responsible for providing monthly benefits to more than 6… [+7201 chars]"
+      },
+      {
+         "content" : "What a year it's been for Wall Street and investors. The unprecedented coronavirus disease 2019 (COVID-19) pandemic initially clobbered the broad-based S&amp;P 500(SNPINDEX:^SPX) and sent it lower by… [+7530 chars]",
+         "urlToImage" : "https://g.foolcdn.com/editorial/images/591199/stock-market-crash-plunge-dollar-newspaper-invest-dow-sp-500-getty.jpg",
+         "author" : "Sean Williams",
+         "title" : "7 Reasons the Stock Market May Crash Again and 3 Things to Do About It - Motley Fool",
+         "source" : {
+            "id" : null,
+            "name" : "Motley Fool"
+         },
+         "url" : "https://www.fool.com/investing/2020/09/13/7-reasons-the-stock-market-may-crash-again-and-3-t/",
+         "publishedAt" : "2020-09-13T09:51:00Z",
+         "description" : "If the stock market plunges again, it'll be one heck of an opportunity for long-term investors."
+      },
+      {
+         "title" : "Massachusetts real estate transactions for Hampden, Hampshire and Franklin counties, Sept. 13, 2020 - MassLive.com",
+         "content" : "Agawam\r\nAnna Rose Toti, Mary Rose Lombardi and John J. Toti III, to ReVampit LLC, 60 Corey Colonial, Unit 60, $105,000.\r\nAnthony R, Boido and Ilysa Boido to Mark S, Sarrazin, , $295,000.\r\nHennetta M,… [+27310 chars]",
+         "author" : null,
+         "urlToImage" : "https://www.masslive.com/resizer/RD7xTNio59fchidboABWeIaq0j8=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/JMMSVP3W2BCOHD6CS46LPFE6JU.jpg",
+         "url" : "https://www.masslive.com/news/2020/09/massachusetts-real-estate-transactions-for-hampden-hampshire-and-franklin-counties-sept-13-2020.html",
+         "publishedAt" : "2020-09-13T09:14:00Z",
+         "description" : "Massachusetts real estate transactions for Hampden, Hampshire and Franklin counties",
+         "source" : {
+            "name" : "MassLive.com",
+            "id" : null
          }
       },
       {
          "source" : {
-            "id" : null,
-            "name" : "MassLive.com"
+            "name" : "Business Insider",
+            "id" : "business-insider"
          },
-         "url" : "https://www.masslive.com/news/2020/09/massachusetts-real-estate-transactions-for-hampden-hampshire-and-franklin-counties-sept-13-2020.html",
-         "publishedAt" : "2020-09-13T09:14:00Z",
-         "description" : "Massachusetts real estate transactions for Hampden, Hampshire and Franklin counties",
-         "urlToImage" : "https://www.masslive.com/resizer/RD7xTNio59fchidboABWeIaq0j8=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/JMMSVP3W2BCOHD6CS46LPFE6JU.jpg",
-         "author" : null,
-         "content" : "Agawam\r\nAnna Rose Toti, Mary Rose Lombardi and John J. Toti III, to ReVampit LLC, 60 Corey Colonial, Unit 60, $105,000.\r\nAnthony R, Boido and Ilysa Boido to Mark S, Sarrazin, , $295,000.\r\nHennetta M,… [+27310 chars]",
-         "title" : "Massachusetts real estate transactions for Hampden, Hampshire and Franklin counties, Sept. 13, 2020 - MassLive.com"
-      },
-      {
-         "urlToImage" : "https://i.insider.com/5e4bc6154b661b0c61027f82?width=1200&format=jpeg",
-         "content" : "Tesla CEO Elon Musk has criticized his fellow billionaire and philanthropist Bill Gates over his views on the viability of bigger electric vehicles.\r\nAsked by a Twitter user on Saturday what he thoug… [+1767 chars]",
-         "author" : "Shona Ghosh",
-         "title" : "Elon Musk says Bill Gates has 'no clue' about electric trucks - Business Insider - Business Insider",
-         "source" : {
-            "id" : "business-insider",
-            "name" : "Business Insider"
-         },
-         "url" : "https://www.businessinsider.com/elon-musk-bill-gates-no-clue-electric-trucks-2020-9",
          "description" : "Tesla happens to be working on an electric truck, the Tesla Semi. The vehicle is two years behind its original 2019 delivery schedule.",
-         "publishedAt" : "2020-09-13T09:03:30Z"
+         "publishedAt" : "2020-09-13T09:03:30Z",
+         "url" : "https://www.businessinsider.com/elon-musk-bill-gates-no-clue-electric-trucks-2020-9",
+         "urlToImage" : "https://i.insider.com/5e4bc6154b661b0c61027f82?width=1200&format=jpeg",
+         "author" : "Shona Ghosh",
+         "content" : "Tesla CEO Elon Musk has criticized his fellow billionaire and philanthropist Bill Gates over his views on the viability of bigger electric vehicles.\r\nAsked by a Twitter user on Saturday what he thoug… [+1767 chars]",
+         "title" : "Elon Musk says Bill Gates has 'no clue' about electric trucks - Business Insider - Business Insider"
       },
       {
-         "description" : "The records from AT&T relate to the company’s claim to have made internet service available to 133,000 locations in the state",
-         "publishedAt" : "2020-09-13T08:00:23Z",
          "source" : {
             "name" : "Fox Business",
             "id" : null
          },
+         "publishedAt" : "2020-09-13T08:00:23Z",
+         "description" : "The records from AT&T relate to the company’s claim to have made internet service available to 133,000 locations in the state",
          "url" : "https://www.foxbusiness.com/markets/mississippi-subpoenas-att-for-records-on-300m-project",
-         "content" : "The state of Mississippi is asking multinational telecommunications conglomerate AT&amp;T provide records of the work it promised to do to expand broadband access in the state after the Public Servic… [+2298 chars]",
+         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/09/0/0/attlogo.jpg?ve=1&tl=1",
          "author" : "Associated Press",
-         "title" : "Mississippi subpoenas AT&T for records on $300M project - Fox Business",
-         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/09/0/0/attlogo.jpg?ve=1&tl=1"
+         "content" : "The state of Mississippi is asking multinational telecommunications conglomerate AT&amp;T provide records of the work it promised to do to expand broadband access in the state after the Public Servic… [+2298 chars]",
+         "title" : "Mississippi subpoenas AT&T for records on $300M project - Fox Business"
       },
       {
+         "publishedAt" : "2020-09-13T07:13:08Z",
+         "description" : "NVIDIA could announce the purchase of CPU designer ARM Holdings from SoftBank by as soon as next week. NVIDIA is the world's largest manufacturer of GPU chips.",
          "url" : "https://www.phonearena.com/news/arm-to-be-sold-to-arm-holdings_id127129",
          "source" : {
             "id" : null,
             "name" : "PhoneArena"
          },
-         "description" : "NVIDIA could announce the purchase of CPU designer ARM Holdings from SoftBank by as soon as next week. NVIDIA is the world's largest manufacturer of GPU chips.",
-         "publishedAt" : "2020-09-13T07:13:08Z",
-         "urlToImage" : "https://m-cdn.phonearena.com/images/article/127129-two_1200/NVIDIA-rumored-to-pay-40-billion-for-ARM-Holdings.jpg",
          "title" : "NVIDIA rumored to pay $40 billion for ARM Holdings - PhoneArena",
-         "content" : "All content, features, and design are Copyright 2001-2020 PhoneArena.com.PhoneArena may receive a small commission if you purchase through affiliate links on this page.All rights reserved. Reproducti… [+88 chars]",
-         "author" : "Alan Friedman"
+         "author" : "Alan Friedman",
+         "urlToImage" : "https://m-cdn.phonearena.com/images/article/127129-two_1200/NVIDIA-rumored-to-pay-40-billion-for-ARM-Holdings.jpg",
+         "content" : "All content, features, and design are Copyright 2001-2020 PhoneArena.com.PhoneArena may receive a small commission if you purchase through affiliate links on this page.All rights reserved. Reproducti… [+88 chars]"
       },
       {
-         "publishedAt" : "2020-09-13T06:57:00Z",
-         "description" : "As COVID-19 grounds swaths of airline fleets, companies that profit off the dismantling and trade of aircraft parts are seeing early signs of an expected rebound in activity as carriers accelerate plane retirements.",
-         "source" : {
-            "id" : "reuters",
-            "name" : "Reuters"
-         },
-         "url" : "https://in.reuters.com/article/us-health-coronavirus-aviation-focus-idUSKBN26405X",
+         "title" : "With airline fleets grounded, plane recyclers bet on parts boom - Reuters",
+         "urlToImage" : "https://static.reuters.com/resources/r/?m=02&d=20200913&t=2&i=1533218358&r=LYNXMPEG8C05N&w=800",
          "author" : "Allison Lampert",
          "content" : "MONTREAL (Reuters) - As COVID-19 grounds swaths of airline fleets, companies that profit off the dismantling and trade of aircraft parts are seeing early signs of an expected rebound in activity as c… [+5104 chars]",
-         "title" : "With airline fleets grounded, plane recyclers bet on parts boom - Reuters",
-         "urlToImage" : "https://static.reuters.com/resources/r/?m=02&d=20200913&t=2&i=1533218358&r=LYNXMPEG8C05N&w=800"
+         "publishedAt" : "2020-09-13T06:57:00Z",
+         "description" : "As COVID-19 grounds swaths of airline fleets, companies that profit off the dismantling and trade of aircraft parts are seeing early signs of an expected rebound in activity as carriers accelerate plane retirements.",
+         "url" : "https://in.reuters.com/article/us-health-coronavirus-aviation-focus-idUSKBN26405X",
+         "source" : {
+            "name" : "Reuters",
+            "id" : "reuters"
+         }
       },
       {
-         "urlToImage" : "https://ichef.bbci.co.uk/news/1024/branded_news/F17B/production/_114291816_mediaitem114291815.jpg",
-         "content" : "Here are five things you need to know about the coronavirus pandemic on Sunday. We'll have another update for you on Monday morning. \r\n1. Oxford University to resume vaccine trial after pause\r\nTrials… [+2662 chars]",
-         "author" : "https://www.facebook.com/bbcnews",
-         "title" : "Coronavirus: Vaccine trial resumes and divorce 'boom' - BBC News",
+         "url" : "https://www.bbc.com/news/uk-54135551",
+         "description" : "Five things you need to know about the coronavirus pandemic on Sunday.",
+         "publishedAt" : "2020-09-13T06:43:56Z",
          "source" : {
             "name" : "BBC News",
             "id" : null
          },
-         "url" : "https://www.bbc.com/news/uk-54135551",
-         "description" : "Five things you need to know about the coronavirus pandemic on Sunday.",
-         "publishedAt" : "2020-09-13T06:43:56Z"
+         "title" : "Coronavirus: Vaccine trial resumes and divorce 'boom' - BBC News",
+         "content" : "Here are five things you need to know about the coronavirus pandemic on Sunday. We'll have another update for you on Monday morning. \r\n1. Oxford University to resume vaccine trial after pause\r\nTrials… [+2662 chars]",
+         "urlToImage" : "https://ichef.bbci.co.uk/news/1024/branded_news/F17B/production/_114291816_mediaitem114291815.jpg",
+         "author" : "https://www.facebook.com/bbcnews"
       },
       {
          "content" : "CarsPublished on September 13th, 2020 |\r\n by Zachary Shahan\r\n0\r\nSeptember 13th, 2020 by Zachary Shahan \r\nA rather surprising situation popped up in Europe this week. Historically, only Tesla vehicles… [+6271 chars]",
          "author" : "https://www.facebook.com/zachary.shahan",
-         "title" : "Non-Tesla Electric Cars Can Now Charge For Free On Some European Tesla Superchargers - CleanTechnica",
          "urlToImage" : "https://cleantechnica.com/files/2020/09/VW-e-Golf-Supercharging-Netherlands-Europe.png",
-         "description" : "Historically, only Tesla vehicles have been able to charge at Tesla Superchargers. However, the European Commission got a bit antsy and — whiz, bang, boom — Supercharging has been opened up to the many electric car drivers in Europe who don't have a T on thei…",
-         "publishedAt" : "2020-09-13T06:33:45Z",
+         "title" : "Non-Tesla Electric Cars Can Now Charge For Free On Some European Tesla Superchargers - CleanTechnica",
          "source" : {
-            "id" : null,
-            "name" : "CleanTechnica"
+            "name" : "CleanTechnica",
+            "id" : null
          },
-         "url" : "https://cleantechnica.com/2020/09/13/non-tesla-electric-cars-can-now-charge-for-free-on-some-european-tesla-superchargers/"
+         "url" : "https://cleantechnica.com/2020/09/13/non-tesla-electric-cars-can-now-charge-for-free-on-some-european-tesla-superchargers/",
+         "publishedAt" : "2020-09-13T06:33:45Z",
+         "description" : "Historically, only Tesla vehicles have been able to charge at Tesla Superchargers. However, the European Commission got a bit antsy and — whiz, bang, boom — Supercharging has been opened up to the many electric car drivers in Europe who don't have a T on thei…"
       },
       {
-         "urlToImage" : "https://static.reuters.com/resources/r/?m=02&d=20200913&t=2&i=1533215888&r=LYNXMPEG8C04F&w=800",
          "content" : "LONDON (Reuters) - In 1973, Arab members of the Organization of Petroleum Exporting Countries brought the U.S. economy to its knees. Now, the cartel created 60 years ago is more likely to do Washingt… [+8643 chars]",
          "author" : "Alex Lawler",
+         "urlToImage" : "https://static.reuters.com/resources/r/?m=02&d=20200913&t=2&i=1533215888&r=LYNXMPEG8C04F&w=800",
          "title" : "Once an American foe, now a friend: OPEC turns 60 - Reuters",
          "source" : {
             "id" : "reuters",
             "name" : "Reuters"
          },
          "url" : "https://in.reuters.com/article/us-oil-opec-insight-idUSKBN26406P",
-         "description" : "In 1973, Arab members of the Organization of Petroleum Exporting Countries brought the U.S. economy to its knees. Now, the cartel created 60 years ago is more likely to do Washington's bidding.",
-         "publishedAt" : "2020-09-13T06:17:00Z"
+         "publishedAt" : "2020-09-13T06:17:00Z",
+         "description" : "In 1973, Arab members of the Organization of Petroleum Exporting Countries brought the U.S. economy to its knees. Now, the cartel created 60 years ago is more likely to do Washington's bidding."
       },
       {
-         "author" : "",
-         "content" : "By the end of October, we may see Singapore Airlines take to the skies once again on commercial flights. These flights aim to ferry around domestic passengers on no-destination trips. Dubbed flights … [+4629 chars]",
          "title" : "Singapore Airlines Could Launch Flights To Nowhere Next Month - Simple Flying",
+         "author" : "",
          "urlToImage" : "https://simpleflying.com/wp-content/uploads/2020/09/acft-b772-2-1.jpg",
-         "publishedAt" : "2020-09-13T05:11:24Z",
+         "content" : "By the end of October, we may see Singapore Airlines take to the skies once again on commercial flights. These flights aim to ferry around domestic passengers on no-destination trips. Dubbed flights … [+4629 chars]",
          "description" : "By the end of October, we may see Singapore Airlines take to the skies once again on commercial…",
+         "publishedAt" : "2020-09-13T05:11:24Z",
+         "url" : "https://simpleflying.com/singapore-airlines-flights-to-nowhere/",
          "source" : {
             "name" : "Simple Flying",
             "id" : null
-         },
-         "url" : "https://simpleflying.com/singapore-airlines-flights-to-nowhere/"
+         }
       },
       {
-         "urlToImage" : "https://images.axios.com/EI0Vv21J6F3onkzWwaDctHNAv-M=/fit-in/1366x1366/2020/09/13/1599960975879.jpg",
          "title" : "Peeps candy production halted ahead of Halloween due to pandemic - Axios",
-         "content" : "A \"safe little bubble\" exists that's isolated from coronavirus where people mingle without masks, ski, socialize and watch the pandemic unfold from thousands of miles away, AP reports. \r\nThe state of… [+434 chars]",
+         "urlToImage" : "https://images.axios.com/EI0Vv21J6F3onkzWwaDctHNAv-M=/fit-in/1366x1366/2020/09/13/1599960975879.jpg",
          "author" : "Axios",
+         "content" : "A \"safe little bubble\" exists that's isolated from coronavirus where people mingle without masks, ski, socialize and watch the pandemic unfold from thousands of miles away, AP reports. \r\nThe state of… [+434 chars]",
+         "description" : "\"We look forward to offering our fun seasonal shapes\" from Halloween of 2021,\" maker Just Born said, per Pennlive.com.",
+         "publishedAt" : "2020-09-13T02:31:03Z",
          "url" : "https://www.axios.com/no-peeps-halloween-christmas-candy-2020-covid-19-22d14b42-85b1-46c7-a58e-7674ba7e8650.html",
          "source" : {
-            "name" : "Axios",
-            "id" : "axios"
-         },
-         "description" : "\"We look forward to offering our fun seasonal shapes\" from Halloween of 2021,\" maker Just Born said, per Pennlive.com.",
-         "publishedAt" : "2020-09-13T02:31:03Z"
+            "id" : "axios",
+            "name" : "Axios"
+         }
       },
       {
-         "urlToImage" : null,
-         "content" : "To continue, please click the box below to let us know you're not a robot.",
-         "author" : null,
-         "title" : "Googling for Gut Symptoms Predicts Covid Hot Spots, Study Finds - Bloomberg",
+         "url" : "https://www.bloomberg.com/tosv2.html?vid=&uuid=9fcd6790-f57c-11ea-8c6b-cd767ed0f0b9&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wOS0xMy9nb29nbGluZy1mb3ItZ3V0LXN5bXB0b21zLXByZWRpY3RzLWNvdmlkLWhvdC1zcG90cy1zdHVkeS1maW5kcw==",
+         "publishedAt" : "2020-09-13T01:54:00Z",
+         "description" : null,
          "source" : {
             "name" : "Bloomberg",
             "id" : "bloomberg"
          },
-         "url" : "https://www.bloomberg.com/tosv2.html?vid=&uuid=9fcd6790-f57c-11ea-8c6b-cd767ed0f0b9&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wOS0xMy9nb29nbGluZy1mb3ItZ3V0LXN5bXB0b21zLXByZWRpY3RzLWNvdmlkLWhvdC1zcG90cy1zdHVkeS1maW5kcw==",
-         "description" : null,
-         "publishedAt" : "2020-09-13T01:54:00Z"
+         "title" : "Googling for Gut Symptoms Predicts Covid Hot Spots, Study Finds - Bloomberg",
+         "content" : "To continue, please click the box below to let us know you're not a robot.",
+         "urlToImage" : null,
+         "author" : null
       },
       {
-         "urlToImage" : "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f5d60f6f7ba968b58bb9b50%2F0x0.jpg",
-         "author" : "Rachel Sandler",
-         "content" : "Louis Vuitton will start selling luxury face shields complete with the recognizable LV monogram and gold studs, an attempt to make personal protective equipment into a fashion statement.Louis Vuitton… [+1214 chars]",
-         "title" : "Louis Vuitton Will Sell Luxury Face Shields - Forbes",
+         "description" : "Each will reportedly cost $961.",
+         "publishedAt" : "2020-09-13T00:07:00Z",
+         "url" : "https://www.forbes.com/sites/rachelsandler/2020/09/12/louis-vuitton-will-sell-luxury-face-shields/",
          "source" : {
             "name" : "Forbes",
             "id" : null
          },
-         "url" : "https://www.forbes.com/sites/rachelsandler/2020/09/12/louis-vuitton-will-sell-luxury-face-shields/",
-         "publishedAt" : "2020-09-13T00:07:00Z",
-         "description" : "Each will reportedly cost $961."
+         "title" : "Louis Vuitton Will Sell Luxury Face Shields - Forbes",
+         "urlToImage" : "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f5d60f6f7ba968b58bb9b50%2F0x0.jpg",
+         "author" : "Rachel Sandler",
+         "content" : "Louis Vuitton will start selling luxury face shields complete with the recognizable LV monogram and gold studs, an attempt to make personal protective equipment into a fashion statement.Louis Vuitton… [+1214 chars]"
       },
       {
+         "description" : "This 2020 Corvette Stingray is also equipped with the Z51 Performance Package.",
+         "publishedAt" : "2020-09-12T23:50:00Z",
+         "url" : "https://www.carscoops.com/2020/09/do-these-satin-bronze-wheels-suit-a-torch-red-c8-corvette/",
          "source" : {
             "name" : "CarScoops",
             "id" : null
          },
-         "url" : "https://www.carscoops.com/2020/09/do-these-satin-bronze-wheels-suit-a-torch-red-c8-corvette/",
-         "publishedAt" : "2020-09-12T23:50:00Z",
-         "description" : "This 2020 Corvette Stingray is also equipped with the Z51 Performance Package.",
+         "title" : "Do These Satin Bronze Wheels Suit A Torch Red C8 Corvette? - CarScoops",
          "urlToImage" : "https://www.carscoops.com/wp-content/uploads/2020/09/corvette-c8-satin-bronze-hre-wheels-10.jpg",
          "author" : null,
-         "content" : "A set of really nice custom wheels can make a car look a little bit more exotic, and this is what these Satin Bronze P107SC rims from HRE are supposed to do to the 2020 Corvette Stingray.\r\nTheir styl… [+1276 chars]",
-         "title" : "Do These Satin Bronze Wheels Suit A Torch Red C8 Corvette? - CarScoops"
+         "content" : "A set of really nice custom wheels can make a car look a little bit more exotic, and this is what these Satin Bronze P107SC rims from HRE are supposed to do to the 2020 Corvette Stingray.\r\nTheir styl… [+1276 chars]"
       },
       {
-         "description" : "The U.S. Postal Inspection Service is offering a $50,000 reward for information leading to the conviction of the person who shot a mail carrier in Chicago's South Side this week.",
-         "publishedAt" : "2020-09-12T23:46:30Z",
-         "url" : "https://www.foxnews.com/us/us-postal-service-50000-reward-mail-carrier-shooting",
+         "content" : "The U.S. Postal Inspection Service is offering a $50,000 reward for information leading to a conviction in the shooting of a mail carrier on Chicago's South Side this week.\r\nChicago police said the 2… [+696 chars]",
+         "urlToImage" : "https://static.foxnews.com/foxnews.com/content/uploads/2020/08/AP20231662891080.jpg",
+         "author" : "Paul Best",
+         "title" : "Postal Service offering $50,000 reward for info related to mail carrier shooting - Fox News",
          "source" : {
             "name" : "Fox News",
             "id" : "fox-news"
          },
-         "title" : "Postal Service offering $50,000 reward for info related to mail carrier shooting - Fox News",
-         "content" : "The U.S. Postal Inspection Service is offering a $50,000 reward for information leading to a conviction in the shooting of a mail carrier on Chicago's South Side this week.\r\nChicago police said the 2… [+696 chars]",
-         "author" : "Paul Best",
-         "urlToImage" : "https://static.foxnews.com/foxnews.com/content/uploads/2020/08/AP20231662891080.jpg"
+         "url" : "https://www.foxnews.com/us/us-postal-service-50000-reward-mail-carrier-shooting",
+         "description" : "The U.S. Postal Inspection Service is offering a $50,000 reward for information leading to the conviction of the person who shot a mail carrier in Chicago's South Side this week.",
+         "publishedAt" : "2020-09-12T23:46:30Z"
       },
       {
-         "publishedAt" : "2020-09-12T23:21:00Z",
+         "title" : "Wild video shows plane passenger punch woman in alleged racial attack - New York Post ",
+         "content" : "A British passenger was not exactly taking it easy on an EasyJet flight, where he was caught in shocking video throwing a punch at a fellow flier in a racially charged incident, according to a report… [+2325 chars]",
+         "author" : "Yaron Steinbuch",
+         "urlToImage" : "https://nypost.com/wp-content/uploads/sites/2/2020/09/easyjet-passenger-punch-1.jpg?quality=90&strip=all&w=1200",
+         "url" : "https://nypost.com/2020/09/12/video-shows-plane-passenger-punch-woman-in-alleged-racial-attack/",
          "description" : "In the expletive-laden footage, the man erupts in fury and throws a punch as he lunges over a seat after a woman can be heard saying, ‘I am African. Do not chat s— about my people,” The Sun r…",
+         "publishedAt" : "2020-09-12T23:21:00Z",
+         "source" : {
+            "name" : "New York Post",
+            "id" : null
+         }
+      },
+      {
          "source" : {
             "id" : null,
-            "name" : "New York Post"
+            "name" : "WABC-TV"
          },
-         "url" : "https://nypost.com/2020/09/12/video-shows-plane-passenger-punch-woman-in-alleged-racial-attack/",
-         "author" : "Yaron Steinbuch",
-         "content" : "A British passenger was not exactly taking it easy on an EasyJet flight, where he was caught in shocking video throwing a punch at a fellow flier in a racially charged incident, according to a report… [+2325 chars]",
-         "title" : "Wild video shows plane passenger punch woman in alleged racial attack - New York Post ",
-         "urlToImage" : "https://nypost.com/wp-content/uploads/sites/2/2020/09/easyjet-passenger-punch-1.jpg?quality=90&strip=all&w=1200"
-      },
-      {
          "publishedAt" : "2020-09-12T23:20:45Z",
          "description" : "The Port Authority welcomed the CMA CGM Brazil to its marine terminal in Elizabeth, New Jersey.",
          "url" : "https://abc7ny.com/cma-cgm-brazil-port-authority-largest-container-ship-docks-on-east-coast/6420397/",
-         "source" : {
-            "name" : "WABC-TV",
-            "id" : null
-         },
-         "title" : "Largest container ship ever docked along east coast arrives in Elizabeth, New Jersey - WABC-TV",
+         "urlToImage" : "https://cdn.abcotvs.com/dip/images/6420416_large-container-ship-edit.jpg?w=1600",
          "author" : "Eyewitness News",
          "content" : "ELIZABETH, New Jersey (WABC) -- The largest container ship ever docked along the east coast is here in New Jersey.The Port Authority welcomed the CMA CGM Brazil to its marine terminal in Elizabeth.\r\n… [+596 chars]",
-         "urlToImage" : "https://cdn.abcotvs.com/dip/images/6420416_large-container-ship-edit.jpg?w=1600"
+         "title" : "Largest container ship ever docked along east coast arrives in Elizabeth, New Jersey - WABC-TV"
       }
-   ]
+   ],
+   "status" : "ok"
 }
