@@ -1,266 +1,266 @@
 {
+   "status" : "ok",
    "articles" : [
       {
-         "urlToImage" : "https://www.teslarati.com/wp-content/uploads/2019/12/tesla-model-3-mic-1-1-e1578509243464.jpeg",
-         "title" : "Tesla Model 3 poised for power liftgate, center console upgrade, new ‘frunk,’ and more - Teslarati",
-         "url" : "https://www.teslarati.com/tesla-model-3-china-power-liftgate-octovalve-frunk-center-console-upgrade/",
-         "author" : "https://www.facebook.com/sim.alva",
          "source" : {
             "id" : null,
             "name" : "Teslarati"
          },
-         "publishedAt" : "2020-09-13T03:51:42Z",
          "content" : "Recent reports from China are suggesting that Tesla may be poised to roll out some notable improvements to the Gigafactory Shanghai-made Model 3. If the speculations prove accurate, Teslas most affor… [+3146 chars]",
+         "title" : "Tesla Model 3 poised for power liftgate, center console upgrade, new ‘frunk,’ and more - Teslarati",
+         "url" : "https://www.teslarati.com/tesla-model-3-china-power-liftgate-octovalve-frunk-center-console-upgrade/",
+         "publishedAt" : "2020-09-13T03:51:42Z",
+         "urlToImage" : "https://www.teslarati.com/wp-content/uploads/2019/12/tesla-model-3-mic-1-1-e1578509243464.jpeg",
+         "author" : "https://www.facebook.com/sim.alva",
          "description" : "Recent reports from China are suggesting that Tesla may be poised to roll out some notable improvements to the Gigafactory Shanghai-made Model 3. If the speculations prove accurate, Tesla’s most affordable sedan will soon be getting a powered lift gate and tr…"
       },
       {
+         "author" : "https://www.facebook.com/zachary.shahan",
+         "description" : "After discovering just how much cheaper Tesla solar power was compared to the US average and state averages, I was curious to learn more. So I asked Tesla CEO Elon Musk about it",
          "url" : "https://cleantechnica.com/2020/09/12/elon-musk-explains-why-tesla-solar-power-is-so-cheap-cleantechnica-exclusive/",
-         "title" : "Elon Musk Explains Why Tesla Solar Power Is So Cheap — CleanTechnica Exclusive - CleanTechnica",
          "urlToImage" : "https://cleantechnica.com/files/2020/09/Tesla-Solar-Panel-Roof-Lowest-Cost-Solar-Panels-CleanTechnica.jpg",
+         "publishedAt" : "2020-09-13T02:54:42Z",
          "source" : {
             "id" : null,
             "name" : "CleanTechnica"
          },
          "content" : "Clean PowerPublished on September 12th, 2020 |\r\n by Zachary Shahan\r\n0\r\nSeptember 12th, 2020 by Zachary Shahan \r\nLast weekend, I wrote an article about the fact that the cost of solar power has droppe… [+6598 chars]",
-         "description" : "After discovering just how much cheaper Tesla solar power was compared to the US average and state averages, I was curious to learn more. So I asked Tesla CEO Elon Musk about it",
-         "publishedAt" : "2020-09-13T02:54:42Z",
-         "author" : "https://www.facebook.com/zachary.shahan"
+         "title" : "Elon Musk Explains Why Tesla Solar Power Is So Cheap — CleanTechnica Exclusive - CleanTechnica"
       },
       {
+         "description" : null,
          "author" : null,
+         "title" : "Googling for Gut Symptoms Predicts Covid Hot Spots, Study Finds - Bloomberg",
+         "content" : "To continue, please click the box below to let us know you're not a robot.",
          "source" : {
             "id" : "bloomberg",
             "name" : "Bloomberg"
          },
-         "content" : "To continue, please click the box below to let us know you're not a robot.",
-         "description" : null,
-         "publishedAt" : "2020-09-13T01:54:00Z",
          "urlToImage" : null,
-         "url" : "https://www.bloomberg.com/tosv2.html?vid=&uuid=9fcd6790-f57c-11ea-8c6b-cd767ed0f0b9&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wOS0xMy9nb29nbGluZy1mb3ItZ3V0LXN5bXB0b21zLXByZWRpY3RzLWNvdmlkLWhvdC1zcG90cy1zdHVkeS1maW5kcw==",
-         "title" : "Googling for Gut Symptoms Predicts Covid Hot Spots, Study Finds - Bloomberg"
+         "publishedAt" : "2020-09-13T01:54:00Z",
+         "url" : "https://www.bloomberg.com/tosv2.html?vid=&uuid=9fcd6790-f57c-11ea-8c6b-cd767ed0f0b9&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wOS0xMy9nb29nbGluZy1mb3ItZ3V0LXN5bXB0b21zLXByZWRpY3RzLWNvdmlkLWhvdC1zcG90cy1zdHVkeS1maW5kcw=="
       },
       {
          "author" : "Associated Press",
-         "source" : {
-            "id" : null,
-            "name" : "New York Post"
-         },
-         "publishedAt" : "2020-09-13T00:24:00Z",
          "description" : "BETHLEHEM, Pa. — Peeps treats are going on hiatus for several months — another consequence of the coronavirus pandemic. Just Born Quality Confections said it won’t be producing the popular marshmal…",
-         "content" : "BETHLEHEM, Pa. Peeps treats are going on hiatus for several months another consequence of the coronavirus pandemic.\r\nJust Born Quality Confections said it wont be producing the popular marshmallow sw… [+985 chars]",
-         "urlToImage" : "https://nypost.com/wp-content/uploads/sites/2/2020/09/Peeps.jpg?quality=90&strip=all&w=1200",
-         "title" : "No chick or treat: Peeps maker halts production due to COVID-19 - New York Post ",
-         "url" : "https://nypost.com/2020/09/12/peeps-maker-halts-production-due-to-covid-19/"
-      },
-      {
-         "publishedAt" : "2020-09-13T00:07:00Z",
-         "content" : "Louis Vuitton will start selling luxury face shields complete with the recognizable LV monogram and gold studs, an attempt to make personal protective equipment into a fashion statement.Louis Vuitton… [+1214 chars]",
-         "description" : "Each will reportedly cost $961.",
          "source" : {
-            "name" : "Forbes",
+            "name" : "New York Post",
             "id" : null
          },
+         "content" : "BETHLEHEM, Pa. Peeps treats are going on hiatus for several months another consequence of the coronavirus pandemic.\r\nJust Born Quality Confections said it wont be producing the popular marshmallow sw… [+985 chars]",
+         "title" : "No chick or treat: Peeps maker halts production due to COVID-19 - New York Post ",
+         "url" : "https://nypost.com/2020/09/12/peeps-maker-halts-production-due-to-covid-19/",
+         "urlToImage" : "https://nypost.com/wp-content/uploads/sites/2/2020/09/Peeps.jpg?quality=90&strip=all&w=1200",
+         "publishedAt" : "2020-09-13T00:24:00Z"
+      },
+      {
+         "description" : "Each will reportedly cost $961.",
          "author" : "Rachel Sandler",
-         "title" : "Louis Vuitton Will Sell Luxury Face Shields - Forbes",
          "url" : "https://www.forbes.com/sites/rachelsandler/2020/09/12/louis-vuitton-will-sell-luxury-face-shields/",
-         "urlToImage" : "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f5d60f6f7ba968b58bb9b50%2F0x0.jpg"
+         "publishedAt" : "2020-09-13T00:07:00Z",
+         "urlToImage" : "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f5d60f6f7ba968b58bb9b50%2F0x0.jpg",
+         "source" : {
+            "id" : null,
+            "name" : "Forbes"
+         },
+         "content" : "Louis Vuitton will start selling luxury face shields complete with the recognizable LV monogram and gold studs, an attempt to make personal protective equipment into a fashion statement.Louis Vuitton… [+1214 chars]",
+         "title" : "Louis Vuitton Will Sell Luxury Face Shields - Forbes"
       },
       {
          "author" : null,
+         "description" : null,
+         "content" : null,
+         "title" : "AstraZeneca COVID Vaccine Trials Resume After Being Put On Hold | NBC Nightly News - NBC News",
          "source" : {
             "id" : "google-news",
             "name" : "Google News"
          },
-         "description" : null,
-         "content" : null,
          "publishedAt" : "2020-09-12T23:43:04Z",
          "urlToImage" : null,
-         "url" : "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9aWZtdC1OWlJpY0XSAQA?oc=5",
-         "title" : "AstraZeneca COVID Vaccine Trials Resume After Being Put On Hold | NBC Nightly News - NBC News"
+         "url" : "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9aWZtdC1OWlJpY0XSAQA?oc=5"
       },
       {
-         "content" : "ELIZABETH, New Jersey (WABC) -- The largest container ship ever docked along the east coast is here in New Jersey.The Port Authority welcomed the CMA CGM Brazil to its marine terminal in Elizabeth.\r\n… [+596 chars]",
-         "description" : "The Port Authority welcomed the CMA CGM Brazil to its marine terminal in Elizabeth, New Jersey.",
-         "publishedAt" : "2020-09-12T23:20:45Z",
          "source" : {
-            "id" : null,
-            "name" : "WABC-TV"
+            "name" : "WABC-TV",
+            "id" : null
          },
-         "author" : "Eyewitness News",
-         "url" : "https://abc7ny.com/cma-cgm-brazil-port-authority-largest-container-ship-docks-on-east-coast/6420397/",
          "title" : "Largest container ship ever docked along east coast arrives in Elizabeth, New Jersey - WABC-TV",
-         "urlToImage" : "https://cdn.abcotvs.com/dip/images/6420416_large-container-ship-edit.jpg?w=1600"
+         "content" : "ELIZABETH, New Jersey (WABC) -- The largest container ship ever docked along the east coast is here in New Jersey.The Port Authority welcomed the CMA CGM Brazil to its marine terminal in Elizabeth.\r\n… [+596 chars]",
+         "url" : "https://abc7ny.com/cma-cgm-brazil-port-authority-largest-container-ship-docks-on-east-coast/6420397/",
+         "urlToImage" : "https://cdn.abcotvs.com/dip/images/6420416_large-container-ship-edit.jpg?w=1600",
+         "publishedAt" : "2020-09-12T23:20:45Z",
+         "description" : "The Port Authority welcomed the CMA CGM Brazil to its marine terminal in Elizabeth, New Jersey.",
+         "author" : "Eyewitness News"
       },
       {
-         "author" : "Brady Dale",
-         "description" : "SushiSwap cut block rewards from 1,000 SUSHI to 100 SUSHI, raising the question of whether the funds locked into its liquidity pools will stay.",
-         "content" : "SushiSwap blew up on the promise of outsized rewards for those who got in before the automated market maker (AMM) actually started making markets: 1,000 SUSHI tokens per block for liquidity providers… [+3686 chars]",
          "publishedAt" : "2020-09-12T23:10:25Z",
+         "urlToImage" : "https://static.coindesk.com/wp-content/uploads/2020/09/markus-spiske-htVYjGltyiU-unsplash-300x185.jpg",
+         "url" : "https://www.coindesk.com/sushiswap-block-rewards",
+         "content" : "SushiSwap blew up on the promise of outsized rewards for those who got in before the automated market maker (AMM) actually started making markets: 1,000 SUSHI tokens per block for liquidity providers… [+3686 chars]",
+         "title" : "SushiSwap Cuts Block Rewards to 100 SUSHI - CoinDesk - CoinDesk",
          "source" : {
             "id" : null,
             "name" : "CoinDesk"
          },
-         "urlToImage" : "https://static.coindesk.com/wp-content/uploads/2020/09/markus-spiske-htVYjGltyiU-unsplash-300x185.jpg",
-         "url" : "https://www.coindesk.com/sushiswap-block-rewards",
-         "title" : "SushiSwap Cuts Block Rewards to 100 SUSHI - CoinDesk - CoinDesk"
+         "author" : "Brady Dale",
+         "description" : "SushiSwap cut block rewards from 1,000 SUSHI to 100 SUSHI, raising the question of whether the funds locked into its liquidity pools will stay."
       },
       {
-         "urlToImage" : "https://cdn.motor1.com/images/mgl/OV1Vy/s1/ccs-supercharging-other-evs-source-nextmove.jpg",
-         "url" : "https://insideevs.com/news/443733/tesla-v3-superchargers-charges-other-evs-free/",
-         "title" : "Tesla V3 Superchargers Surprisingly Charge Other EVs For Free - InsideEVs ",
          "author" : "Mark Kane",
-         "source" : {
-            "id" : null,
-            "name" : "InsideEVs "
-         },
-         "content" : "The latest Tesla V3 Superchargers (250 kW units with CCS2 plugs) installed in Germany (maybe also in other European markets), allows charging of all CCS2-compatible electric cars - not only Teslas.\r\n… [+1777 chars]",
          "description" : "The latest Tesla V3 Superchargers (250 kW units with CCS2 plugs) installed in Germany, allows to charge all CCS2-compatible EVs - not only Teslas.",
-         "publishedAt" : "2020-09-12T22:42:35Z"
+         "urlToImage" : "https://cdn.motor1.com/images/mgl/OV1Vy/s1/ccs-supercharging-other-evs-source-nextmove.jpg",
+         "publishedAt" : "2020-09-12T22:42:35Z",
+         "url" : "https://insideevs.com/news/443733/tesla-v3-superchargers-charges-other-evs-free/",
+         "content" : "The latest Tesla V3 Superchargers (250 kW units with CCS2 plugs) installed in Germany (maybe also in other European markets), allows charging of all CCS2-compatible electric cars - not only Teslas.\r\n… [+1777 chars]",
+         "title" : "Tesla V3 Superchargers Surprisingly Charge Other EVs For Free - InsideEVs ",
+         "source" : {
+            "name" : "InsideEVs ",
+            "id" : null
+         }
       },
       {
-         "publishedAt" : "2020-09-12T22:22:00Z",
          "description" : "Initial partnership discussions between Gilead Sciences Inc and biopharmaceutical company Immunomedics Inc have shifted to acquisition, which would mean an expansion of Gilead’s portfolio of cancer treatments.",
+         "author" : "Reuters",
          "content" : "Gilead Sciences Inc is nearing a deal to buy biopharmaceutical company Immunomedics Inc for more than $20 billion in a deal that would further expand Gilead's portfolio of cancer treatments, the Wall… [+1144 chars]",
+         "title" : "Gilead is getting closer to a deal to buy Immunomedics for more than $20 billion - CNBC",
          "source" : {
             "id" : null,
             "name" : "CNBC"
          },
-         "author" : "Reuters",
-         "title" : "Gilead is getting closer to a deal to buy Immunomedics for more than $20 billion - CNBC",
-         "url" : "https://www.cnbc.com/2020/09/12/gilead-is-getting-closer-to-a-deal-to-buy-immunomedics-for-more-than-20-billion-.html",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/105733600-1549973302033rts1phdi.jpg?v=1549973374"
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/105733600-1549973302033rts1phdi.jpg?v=1549973374",
+         "publishedAt" : "2020-09-12T22:22:00Z",
+         "url" : "https://www.cnbc.com/2020/09/12/gilead-is-getting-closer-to-a-deal-to-buy-immunomedics-for-more-than-20-billion-.html"
       },
       {
          "url" : "https://www.space.com/astra-rocket-launch-failure-next-orbital-attempt-2020.html",
-         "title" : "Astra may make 2nd orbital launch attempt this year after test flight failure - Space.com",
          "urlToImage" : "https://cdn.mos.cms.futurecdn.net/Gfqz6WiRFBqFrZmhD6F9vH-1200-80.jpg",
-         "content" : "Volume up! Rocket 3.1's orbital launch attempt pic.twitter.com/nm1bDewdl5September 12, 2020\r\nAfter a failed launch debut, the space startup Astra may be able to attempt its second orbital test shot b… [+4028 chars]",
-         "description" : "A software fix may be all that's needed to get the next Astra rocket ready to fly.",
          "publishedAt" : "2020-09-12T21:25:00Z",
          "source" : {
             "id" : null,
             "name" : "Space.com"
          },
+         "title" : "Astra may make 2nd orbital launch attempt this year after test flight failure - Space.com",
+         "content" : "Volume up! Rocket 3.1's orbital launch attempt pic.twitter.com/nm1bDewdl5September 12, 2020\r\nAfter a failed launch debut, the space startup Astra may be able to attempt its second orbital test shot b… [+4028 chars]",
+         "description" : "A software fix may be all that's needed to get the next Astra rocket ready to fly.",
          "author" : "Mike Wall"
       },
       {
          "author" : "Cox Media Group National Content Desk",
+         "description" : "An electrical malfunction puts the vehicles at risk of catching fire.",
          "source" : {
             "id" : null,
             "name" : "WFTV Orlando"
          },
-         "publishedAt" : "2020-09-12T21:07:01Z",
-         "description" : "An electrical malfunction puts the vehicles at risk of catching fire.",
-         "content" : "About a week after issuing a recall of more than 150,000 Santa Fe SUVs, the Hyundai Kia Automotive Group is expanding its recall to 180,000 Hyundai Tucson models from 2019 and 2021. \r\nAn electrical m… [+1501 chars]",
-         "urlToImage" : "https://www.wftv.com/resizer/ovXTyEb_AbW7-qg3NnFWvxFcuCs=/1200x628/cloudfront-us-east-1.images.arcpublishing.com/cmg/VT2HV6VNYRCA5JHAX42XEDZYRQ.jpg",
          "title" : "Hyundai, Kia expand recalls, tell owners to park vehicles outdoors - WFTV Orlando",
-         "url" : "https://www.wftv.com/news/trending/hyundai-kia-expand-recalls-tell-owners-park-vehicles-outdoors/AQ4KM7PM6RCOBDUCRMCID6CASM/"
+         "content" : "About a week after issuing a recall of more than 150,000 Santa Fe SUVs, the Hyundai Kia Automotive Group is expanding its recall to 180,000 Hyundai Tucson models from 2019 and 2021. \r\nAn electrical m… [+1501 chars]",
+         "url" : "https://www.wftv.com/news/trending/hyundai-kia-expand-recalls-tell-owners-park-vehicles-outdoors/AQ4KM7PM6RCOBDUCRMCID6CASM/",
+         "publishedAt" : "2020-09-12T21:07:01Z",
+         "urlToImage" : "https://www.wftv.com/resizer/ovXTyEb_AbW7-qg3NnFWvxFcuCs=/1200x628/cloudfront-us-east-1.images.arcpublishing.com/cmg/VT2HV6VNYRCA5JHAX42XEDZYRQ.jpg"
       },
       {
-         "source" : {
-            "id" : "techcrunch",
-            "name" : "TechCrunch"
-         },
-         "content" : "Elon Musk has shared some details about future testing of Starship, the SpaceX launch vehicle currently being developed by the company at its Boca Chica, Texas facility. Recently, SpaceX has complete… [+1885 chars]",
-         "description" : "Elon Musk has shared some details about future testing of Starship, the SpaceX launch vehicle currently being developed by the company at its Boca Chica, Texas facility. Recently, SpaceX has completed short, 150 meter (just under 500 feet) test flights of two…",
-         "publishedAt" : "2020-09-12T20:50:50Z",
          "author" : "Darrell Etherington",
-         "url" : "http://techcrunch.com/2020/09/12/elon-musk-says-starship-sn8-prototype-will-have-a-nosecone-and-attempt-a-60000-foot-return-flight/",
+         "description" : "Elon Musk has shared some details about future testing of Starship, the SpaceX launch vehicle currently being developed by the company at its Boca Chica, Texas facility. Recently, SpaceX has completed short, 150 meter (just under 500 feet) test flights of two…",
          "title" : "Elon Musk says Starship SN8 prototype will have a nosecone and attempt a 60,000-foot return flight - TechCrunch",
-         "urlToImage" : "https://techcrunch.com/wp-content/uploads/2019/09/SpaceX-Starship-Mk1-29.jpg?w=600"
+         "content" : "Elon Musk has shared some details about future testing of Starship, the SpaceX launch vehicle currently being developed by the company at its Boca Chica, Texas facility. Recently, SpaceX has complete… [+1885 chars]",
+         "source" : {
+            "name" : "TechCrunch",
+            "id" : "techcrunch"
+         },
+         "urlToImage" : "https://techcrunch.com/wp-content/uploads/2019/09/SpaceX-Starship-Mk1-29.jpg?w=600",
+         "publishedAt" : "2020-09-12T20:50:50Z",
+         "url" : "http://techcrunch.com/2020/09/12/elon-musk-says-starship-sn8-prototype-will-have-a-nosecone-and-attempt-a-60000-foot-return-flight/"
       },
       {
-         "url" : "https://fox8.com/news/ohio-investigative-unit-cites-four-businesses-for-violating-covid-19-health-orders/",
-         "title" : "Ohio Investigative Unit cites four businesses for violating COVID-19 health orders - WJW FOX 8 News Cleveland",
-         "urlToImage" : "https://fox8.com/wp-content/uploads/sites/12/2020/08/GettyImages-901390188-e1597883978551.jpg?w=1280",
-         "source" : {
-            "name" : "fox8.com",
-            "id" : null
-         },
-         "content" : "*Watch Gov. DeWine discuss the latest coronavirus alert map in the video above.*\r\nCOLUMBUS, Ohio (WJW) — Agents from the Ohio Investigative Unit cited four establishments overnight for violating COVI… [+2604 chars]",
-         "description" : "Agents from the Ohio Investigative Unit cited four establishments overnight for violating COVID-19 health orders.",
          "publishedAt" : "2020-09-12T20:43:00Z",
-         "author" : "Brittany Rall"
+         "urlToImage" : "https://fox8.com/wp-content/uploads/sites/12/2020/08/GettyImages-901390188-e1597883978551.jpg?w=1280",
+         "url" : "https://fox8.com/news/ohio-investigative-unit-cites-four-businesses-for-violating-covid-19-health-orders/",
+         "content" : "*Watch Gov. DeWine discuss the latest coronavirus alert map in the video above.*\r\nCOLUMBUS, Ohio (WJW) — Agents from the Ohio Investigative Unit cited four establishments overnight for violating COVI… [+2604 chars]",
+         "title" : "Ohio Investigative Unit cites four businesses for violating COVID-19 health orders - WJW FOX 8 News Cleveland",
+         "source" : {
+            "id" : null,
+            "name" : "fox8.com"
+         },
+         "author" : "Brittany Rall",
+         "description" : "Agents from the Ohio Investigative Unit cited four establishments overnight for violating COVID-19 health orders."
       },
       {
          "author" : "Laura Italiano",
-         "publishedAt" : "2020-09-12T20:07:00Z",
          "description" : "Maybe they should change their slogan to “Fly the Friendly — and very white — Skies.” United Airlines packs its planes with young, white, blond, blue-eyed female crew &#8212…",
          "content" : "Maybe they should change their slogan to “Fly the Friendly — and very white — Skies.”\r\nUnited Airlines packs its planes with young, white, blond, blue-eyed female crew — all chosen for their “sexual … [+2053 chars]",
-         "source" : {
-            "id" : null,
-            "name" : "New York Post"
-         },
-         "urlToImage" : "https://nypost.com/wp-content/uploads/sites/2/2020/09/flight-attendant-2.jpg?quality=90&strip=all&w=1200",
          "title" : "United Airlines fills NFL, MLB flights with 'young, white, blond' female crew: suit - New York Post ",
+         "source" : {
+            "name" : "New York Post",
+            "id" : null
+         },
+         "publishedAt" : "2020-09-12T20:07:00Z",
+         "urlToImage" : "https://nypost.com/wp-content/uploads/sites/2/2020/09/flight-attendant-2.jpg?quality=90&strip=all&w=1200",
          "url" : "https://nypost.com/2020/09/12/united-airlines-uses-young-blond-female-crew-for-sports-teams-suit/"
       },
       {
-         "title" : "A postcard arrived in Michigan almost 100 years after it went in the mail - WRCB-TV",
+         "description" : "By David Williams, CNN A Michigan woman got quite a surprise when she went to her mailbox this week -- amid her regular bills and junk mail was a postcard that had been mailed almost 100 years...",
+         "author" : null,
          "url" : "https://www.wrcbtv.com/story/42619318/a-postcard-arrived-in-michigan-almost-100-years-after-it-went-in-the-mail",
          "urlToImage" : "https://CNNWIRE.images.worldnow.com/images/19885181_G.jpg?lastEditedDate=1599833027000",
-         "source" : {
-            "id" : null,
-            "name" : "WRCB-TV"
-         },
          "publishedAt" : "2020-09-12T19:49:00Z",
-         "content" : "A Michigan woman got quite a surprise when she went to her mailbox this week -- amid her regular bills and junk mail was a postcard that had been mailed almost 100 years ago.\r\nBrittany Keech told CNN… [+2197 chars]",
-         "description" : "By David Williams, CNN A Michigan woman got quite a surprise when she went to her mailbox this week -- amid her regular bills and junk mail was a postcard that had been mailed almost 100 years...",
-         "author" : null
-      },
-      {
          "source" : {
-            "name" : "RT",
-            "id" : "rt"
-         },
-         "content" : "In a coronavirus town hall for kids and parents broadcast on Saturday, CNN enlisted the help of Sesame Street’s Big Bird to help kids understand the raft of new restrictions they’ll face when schools… [+1776 chars]",
-         "description" : "Preparing your kids for school this fall? Well don’t forget their pencils, lunchboxes, and “distance sticks.” That’s what the vaguely dystopian advice from Sesame Street’s Big Bird tells families watching CNN.",
-         "publishedAt" : "2020-09-12T19:37:00Z",
-         "author" : "RT",
-         "url" : "https://www.rt.com/usa/500572-sesame-street-distancing-stick/",
-         "title" : "‘Surreal, depressing, dystopian s**t’: CNN & Sesame Street warn kids to get their ‘DISTANCING STICKS’ ready for school - RT",
-         "urlToImage" : "https://cdni.rt.com/files/2020.09/article/5f5d1f9e85f54051c61952a8.JPG"
-      },
-      {
-         "description" : "The Utah Department of Health is reporting 572 new confirmed cases of COVID-19 and two deaths from the disease in its daily online update on the virus.",
-         "content" : "SALT LAKE CITY The Utah Department of Health is reporting 572 new confirmed cases of COVID-19 and two deaths from the disease in its daily online update on the virus.\r\nThat brings Utah to 57,247 tota… [+3265 chars]",
-         "publishedAt" : "2020-09-12T19:13:56Z",
-         "source" : {
-            "name" : "KSL.com",
+            "name" : "WRCB-TV",
             "id" : null
          },
-         "author" : "https://www.facebook.com/kslcom/",
-         "url" : "https://www.ksl.com/article/50016629/saturday-brings-572-new-covid-19-cases-in-utah-and-2-deaths-health-department-says",
-         "title" : "Saturday brings 572 new COVID-19 cases in Utah and 2 deaths, health department says - KSL.com",
-         "urlToImage" : "https://img.ksl.com/slc/2788/278896/27889611.jpeg?filter=ksl/responsive_story_lg"
+         "title" : "A postcard arrived in Michigan almost 100 years after it went in the mail - WRCB-TV",
+         "content" : "A Michigan woman got quite a surprise when she went to her mailbox this week -- amid her regular bills and junk mail was a postcard that had been mailed almost 100 years ago.\r\nBrittany Keech told CNN… [+2197 chars]"
       },
       {
+         "urlToImage" : "https://cdni.rt.com/files/2020.09/article/5f5d1f9e85f54051c61952a8.JPG",
+         "publishedAt" : "2020-09-12T19:37:00Z",
+         "url" : "https://www.rt.com/usa/500572-sesame-street-distancing-stick/",
+         "content" : "In a coronavirus town hall for kids and parents broadcast on Saturday, CNN enlisted the help of Sesame Street’s Big Bird to help kids understand the raft of new restrictions they’ll face when schools… [+1776 chars]",
+         "title" : "‘Surreal, depressing, dystopian s**t’: CNN & Sesame Street warn kids to get their ‘DISTANCING STICKS’ ready for school - RT",
+         "source" : {
+            "id" : "rt",
+            "name" : "RT"
+         },
+         "description" : "Preparing your kids for school this fall? Well don’t forget their pencils, lunchboxes, and “distance sticks.” That’s what the vaguely dystopian advice from Sesame Street’s Big Bird tells families watching CNN.",
+         "author" : "RT"
+      },
+      {
+         "publishedAt" : "2020-09-12T19:13:56Z",
+         "urlToImage" : "https://img.ksl.com/slc/2788/278896/27889611.jpeg?filter=ksl/responsive_story_lg",
+         "url" : "https://www.ksl.com/article/50016629/saturday-brings-572-new-covid-19-cases-in-utah-and-2-deaths-health-department-says",
+         "content" : "SALT LAKE CITY The Utah Department of Health is reporting 572 new confirmed cases of COVID-19 and two deaths from the disease in its daily online update on the virus.\r\nThat brings Utah to 57,247 tota… [+3265 chars]",
+         "title" : "Saturday brings 572 new COVID-19 cases in Utah and 2 deaths, health department says - KSL.com",
+         "source" : {
+            "id" : null,
+            "name" : "KSL.com"
+         },
+         "author" : "https://www.facebook.com/kslcom/",
+         "description" : "The Utah Department of Health is reporting 572 new confirmed cases of COVID-19 and two deaths from the disease in its daily online update on the virus."
+      },
+      {
+         "content" : "Rapper T.I. has been charged by the Securities and Exchange Commission with promoting a fraudulent cryptocurrency offering.\r\nThe regulator said in its complaint that T.I. -- whose real name is Cliffo… [+2088 chars]",
          "title" : "Rapper T.I. charged by SEC in cryptocurrency scam - Fox Business",
-         "url" : "https://www.foxbusiness.com/markets/rapper-ti-charged-by-sec-over-cryptocurrency-scam",
-         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/09/0/0/TI-Rapper-GETTY-1.jpg?ve=1&tl=1",
          "source" : {
             "name" : "Fox Business",
             "id" : null
          },
+         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/09/0/0/TI-Rapper-GETTY-1.jpg?ve=1&tl=1",
          "publishedAt" : "2020-09-12T18:33:39Z",
-         "description" : "The regulator said in its complaint that T.I. -- whose real name is Clifford Joseph Harris -- sold cryptocurrency tokens using his Twitter account and encouraged his followers to invest in the 2017 FLiK initial coin offering.",
-         "content" : "Rapper T.I. has been charged by the Securities and Exchange Commission with promoting a fraudulent cryptocurrency offering.\r\nThe regulator said in its complaint that T.I. -- whose real name is Cliffo… [+2088 chars]",
-         "author" : "Julia Musto"
+         "url" : "https://www.foxbusiness.com/markets/rapper-ti-charged-by-sec-over-cryptocurrency-scam",
+         "author" : "Julia Musto",
+         "description" : "The regulator said in its complaint that T.I. -- whose real name is Clifford Joseph Harris -- sold cryptocurrency tokens using his Twitter account and encouraged his followers to invest in the 2017 FLiK initial coin offering."
       },
       {
+         "description" : "The West Sonoma County Union High School District Board of Trustees on Wednesday voted unanimously to request a feasibility study examining the potential consolidation of the district and some or all of its 10 feeder districts.",
+         "author" : null,
+         "content" : "Facing budget challenges and declining enrollment, West Sonoma County Union High School District has launched a study to examine the feasibility of consolidating with any or all of the 10 districts t… [+4557 chars]",
          "title" : "West Sonoma County school district launches consolidation feasibility study - Santa Rosa Press Democrat",
-         "url" : "https://www.pressdemocrat.com/article/news/west-sonoma-county-school-district-launches-consolidation-feasibility-study/",
-         "urlToImage" : "https://imengine.prod.srp.navigacloud.com?uuid=91db9ae7-0839-519f-8362-839942db8591&type=primary&q=72&width=800",
          "source" : {
-            "id" : null,
-            "name" : "Santa Rosa Press Democrat"
+            "name" : "Santa Rosa Press Democrat",
+            "id" : null
          },
          "publishedAt" : "2020-09-12T18:13:47Z",
-         "content" : "Facing budget challenges and declining enrollment, West Sonoma County Union High School District has launched a study to examine the feasibility of consolidating with any or all of the 10 districts t… [+4557 chars]",
-         "description" : "The West Sonoma County Union High School District Board of Trustees on Wednesday voted unanimously to request a feasibility study examining the potential consolidation of the district and some or all of its 10 feeder districts.",
-         "author" : null
+         "urlToImage" : "https://imengine.prod.srp.navigacloud.com?uuid=91db9ae7-0839-519f-8362-839942db8591&type=primary&q=72&width=800",
+         "url" : "https://www.pressdemocrat.com/article/news/west-sonoma-county-school-district-launches-consolidation-feasibility-study/"
       }
    ],
-   "status" : "ok",
    "totalResults" : 70
 }
