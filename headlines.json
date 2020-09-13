@@ -1,64 +1,66 @@
 {
+   "status" : "ok",
+   "totalResults" : 70,
    "articles" : [
       {
-         "source" : {
-            "name" : "CNN",
-            "id" : "cnn"
-         },
-         "author" : "Alaa Elassar, CNN",
-         "title" : "Louis Vuitton is releasing a face shield with golden studs to protect luxury buyers from coronavirus - CNN",
          "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200912155657-louis-vuitton-face-shield-1000-trnd-super-tease.jpg",
-         "content" : "fashionPublished 12th September 2020\r\nWith no end in sight to the coronavirus pandemic, it looks like protective face wear is here to stay.\r\nBut who says it has to be a fashion killer?\r\nLouis Vuitton… [+1555 chars]",
          "url" : "https://www.cnn.com/style/article/louis-vuitton-face-shield-trnd/index.html",
+         "title" : "Louis Vuitton is releasing a face shield with golden studs to protect luxury buyers from coronavirus - CNN",
+         "source" : {
+            "id" : "cnn",
+            "name" : "CNN"
+         },
+         "content" : "fashionPublished 12th September 2020\r\nWith no end in sight to the coronavirus pandemic, it looks like protective face wear is here to stay.\r\nBut who says it has to be a fashion killer?\r\nLouis Vuitton… [+1555 chars]",
+         "author" : "Alaa Elassar, CNN",
          "description" : "With no end in sight to the coronavirus pandemic, it looks like protective face wear is here to stay.",
          "publishedAt" : "2020-09-12T21:22:57Z"
       },
       {
-         "title" : "United Airlines sued for staffing NFL charters with young, blond crews - Business Insider - Business Insider",
-         "author" : "Inyoung Choi",
+         "description" : "Flight attendants said in a complaint United favors employees \"as if decades of laws and policies preventing discrimination ... simply do not exist.\"",
+         "publishedAt" : "2020-09-12T21:13:58Z",
          "source" : {
             "id" : "business-insider",
             "name" : "Business Insider"
          },
-         "url" : "https://www.businessinsider.com/united-airlines-sued-staffing-nfl-charters-with-young-blond-crews-2020-9",
-         "publishedAt" : "2020-09-12T21:13:58Z",
-         "description" : "Flight attendants said in a complaint United favors employees \"as if decades of laws and policies preventing discrimination ... simply do not exist.\"",
          "content" : "A lawsuit against United Airlines claims that the airline staffs professional team charter flights with young, blond crew members and restricts flight attendants who do not fall into this category fr… [+1622 chars]",
-         "urlToImage" : "https://i.insider.com/5f5d1069e6ff30001d4e87d6?width=1200&format=jpeg"
+         "author" : "Inyoung Choi",
+         "title" : "United Airlines sued for staffing NFL charters with young, blond crews - Business Insider - Business Insider",
+         "urlToImage" : "https://i.insider.com/5f5d1069e6ff30001d4e87d6?width=1200&format=jpeg",
+         "url" : "https://www.businessinsider.com/united-airlines-sued-staffing-nfl-charters-with-young-blond-crews-2020-9"
       },
       {
-         "title" : "Ohio Investigative Unit cites four businesses for violating COVID-19 health orders - WJW FOX 8 News Cleveland",
          "author" : "Brittany Rall",
+         "content" : "*Watch Gov. DeWine discuss the latest coronavirus alert map in the video above.*\r\nCOLUMBUS, Ohio (WJW) — Agents from the Ohio Investigative Unit cited four establishments overnight for violating COVI… [+2604 chars]",
          "source" : {
-            "name" : "fox8.com",
-            "id" : null
+            "id" : null,
+            "name" : "fox8.com"
          },
-         "url" : "https://fox8.com/news/ohio-investigative-unit-cites-four-businesses-for-violating-covid-19-health-orders/",
          "publishedAt" : "2020-09-12T20:43:00Z",
          "description" : "Agents from the Ohio Investigative Unit cited four establishments overnight for violating COVID-19 health orders.",
-         "content" : "*Watch Gov. DeWine discuss the latest coronavirus alert map in the video above.*\r\nCOLUMBUS, Ohio (WJW) — Agents from the Ohio Investigative Unit cited four establishments overnight for violating COVI… [+2604 chars]",
-         "urlToImage" : "https://fox8.com/wp-content/uploads/sites/12/2020/08/GettyImages-901390188-e1597883978551.jpg?w=1280"
+         "url" : "https://fox8.com/news/ohio-investigative-unit-cites-four-businesses-for-violating-covid-19-health-orders/",
+         "urlToImage" : "https://fox8.com/wp-content/uploads/sites/12/2020/08/GettyImages-901390188-e1597883978551.jpg?w=1280",
+         "title" : "Ohio Investigative Unit cites four businesses for violating COVID-19 health orders - WJW FOX 8 News Cleveland"
       },
       {
-         "author" : null,
          "source" : {
             "name" : "Associated Press",
             "id" : "associated-press"
          },
-         "title" : "Harshmallow: Virus prompts pause for Peeps holiday treats - The Associated Press",
-         "urlToImage" : "https://storage.googleapis.com/afs-prod/media/acc38cf2d53d4715bbd76900f384c9a7/3000.jpeg",
+         "author" : null,
          "content" : "BETHLEHEM, Pa. (AP) Peeps treats are going on hiatus for several months another consequence of the coronavirus pandemic.\r\nJust Born Quality Confections said it wont be producing the popular marshmall… [+990 chars]",
-         "publishedAt" : "2020-09-12T20:00:47Z",
          "description" : "BETHLEHEM, Pa. (AP) — Peeps treats are going on hiatus for several months — another consequence of the coronavirus pandemic. Just Born Quality Confections said it won’t be producing the...",
-         "url" : "https://apnews.com/20caa708f15261c102ac9b19ffc0cc80"
+         "publishedAt" : "2020-09-12T20:00:47Z",
+         "urlToImage" : "https://storage.googleapis.com/afs-prod/media/acc38cf2d53d4715bbd76900f384c9a7/3000.jpeg",
+         "url" : "https://apnews.com/20caa708f15261c102ac9b19ffc0cc80",
+         "title" : "Harshmallow: Virus prompts pause for Peeps holiday treats - The Associated Press"
       },
       {
-         "publishedAt" : "2020-09-12T19:56:20Z",
-         "description" : "Utah health officials reported 572 new cases of coronavirus on Saturday, for the worst two-day period of new infections in the state since late July.",
+         "title" : "Spike in COVID-19 diagnoses continues, with 572 new Utah cases reported - Salt Lake Tribune",
          "url" : "https://www.sltrib.com/news/2020/09/12/spike-covid-diagnoses/",
          "urlToImage" : "https://www.sltrib.com/resizer/7YvFbXzAgkBCvW-gUpMA7K7-ccU=/1200x630/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/sltrib/2GS753VFPVD2HKBPF524U4NYUM.jpg",
+         "publishedAt" : "2020-09-12T19:56:20Z",
+         "description" : "Utah health officials reported 572 new cases of coronavirus on Saturday, for the worst two-day period of new infections in the state since late July.",
          "content" : "Utah health officials reported 572 new cases of coronavirus on Saturday, for the worst two-day period of new infections in the state since late July.\r\n The spike began on Friday when the number of ne… [+2231 chars]",
-         "title" : "Spike in COVID-19 diagnoses continues, with 572 new Utah cases reported - Salt Lake Tribune",
          "author" : "https://www.facebook.com/bethany.rodgers.92",
          "source" : {
             "name" : "Salt Lake Tribune",
@@ -66,201 +68,199 @@
          }
       },
       {
+         "author" : "Nexstar Media Wire",
+         "content" : "DALLAS (NEXSTAR) Amazon plans to hire 33,000 people for corporate and tech roles in the next few months and those available positions can begin as work-from-home jobs, according to a new report. \r\nAc… [+1732 chars]",
+         "source" : {
+            "id" : null,
+            "name" : "WGN TV Chicago"
+         },
          "publishedAt" : "2020-09-12T19:40:00Z",
          "description" : "The corporate and tech roles will have an average salary of $150,000 including salary, stock-based compensation and benefits.",
          "url" : "https://wgntv.com/news/work-from-home-amazons-33000-openings-averaging-150000-in-pay-to-begin-as-remote-jobs/",
-         "content" : "DALLAS (NEXSTAR) Amazon plans to hire 33,000 people for corporate and tech roles in the next few months and those available positions can begin as work-from-home jobs, according to a new report. \r\nAc… [+1732 chars]",
          "urlToImage" : "https://wgntv.com/wp-content/uploads/sites/5/2020/09/GettyImages-696679794.jpg?w=1280",
-         "title" : "Work from home: Amazon’s 33,000 openings averaging $150,000 in pay to begin as remote jobs - WGN TV Chicago",
-         "source" : {
-            "name" : "WGN TV Chicago",
-            "id" : null
-         },
-         "author" : "Nexstar Media Wire"
+         "title" : "Work from home: Amazon’s 33,000 openings averaging $150,000 in pay to begin as remote jobs - WGN TV Chicago"
       },
       {
-         "title" : "Gilead Nears Deal to Buy Immunomedics for More Than $20 Billion - The Wall Street Journal",
          "author" : "Cara Lombardo, Jonathan D. Rockoff",
+         "content" : "Gilead Sciences Inc. is nearing a deal to buy biotech Immunomedics Inc. and its prized breast-cancer drug for more than $20 billion, according to people familiar with the matter.\r\nImmunomedics has a … [+149 chars]",
          "source" : {
-            "name" : "The Wall Street Journal",
-            "id" : "the-wall-street-journal"
+            "id" : "the-wall-street-journal",
+            "name" : "The Wall Street Journal"
          },
-         "url" : "https://www.wsj.com/articles/gilead-nears-deal-to-buy-immunomedics-for-more-than-20-billion-11599936777",
-         "description" : "Biotech drugmaker has a market value of roughly $10 billion",
          "publishedAt" : "2020-09-12T19:31:00Z",
+         "description" : "Biotech drugmaker has a market value of roughly $10 billion",
+         "url" : "https://www.wsj.com/articles/gilead-nears-deal-to-buy-immunomedics-for-more-than-20-billion-11599936777",
          "urlToImage" : "https://images.wsj.net/im-231477/social",
-         "content" : "Gilead Sciences Inc. is nearing a deal to buy biotech Immunomedics Inc. and its prized breast-cancer drug for more than $20 billion, according to people familiar with the matter.\r\nImmunomedics has a … [+149 chars]"
+         "title" : "Gilead Nears Deal to Buy Immunomedics for More Than $20 Billion - The Wall Street Journal"
       },
       {
-         "publishedAt" : "2020-09-12T18:33:39Z",
-         "description" : "The regulator said in its complaint that T.I. -- whose real name is Clifford Joseph Harris -- sold cryptocurrency tokens using his Twitter account and encouraged his followers to invest in the 2017 FLiK initial coin offering.",
-         "url" : "https://www.foxbusiness.com/markets/rapper-ti-charged-by-sec-over-cryptocurrency-scam",
-         "content" : "Rapper T.I. has been charged by the Securities and Exchange Commission with promoting a fraudulent cryptocurrency offering.\r\nThe regulator said in its complaint that T.I. -- whose real name is Cliffo… [+2088 chars]",
-         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/09/0/0/TI-Rapper-GETTY-1.jpg?ve=1&tl=1",
-         "title" : "Rapper T.I. charged by SEC in cryptocurrency scam - Fox Business",
-         "author" : "Julia Musto",
          "source" : {
             "name" : "Fox Business",
             "id" : null
-         }
+         },
+         "author" : "Julia Musto",
+         "content" : "Rapper T.I. has been charged by the Securities and Exchange Commission with promoting a fraudulent cryptocurrency offering.\r\nThe regulator said in its complaint that T.I. -- whose real name is Cliffo… [+2088 chars]",
+         "description" : "The regulator said in its complaint that T.I. -- whose real name is Clifford Joseph Harris -- sold cryptocurrency tokens using his Twitter account and encouraged his followers to invest in the 2017 FLiK initial coin offering.",
+         "publishedAt" : "2020-09-12T18:33:39Z",
+         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/09/0/0/TI-Rapper-GETTY-1.jpg?ve=1&tl=1",
+         "url" : "https://www.foxbusiness.com/markets/rapper-ti-charged-by-sec-over-cryptocurrency-scam",
+         "title" : "Rapper T.I. charged by SEC in cryptocurrency scam - Fox Business"
       },
       {
          "source" : {
             "id" : "google-news",
             "name" : "Google News"
          },
-         "author" : null,
-         "title" : "AstraZeneca says trials of coronavirus vaccine resume - Reuters",
-         "urlToImage" : null,
          "content" : null,
-         "url" : "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9YkpDbGVDcFhJbDTSAQA?oc=5",
+         "author" : null,
          "description" : null,
-         "publishedAt" : "2020-09-12T18:02:14Z"
+         "publishedAt" : "2020-09-12T18:02:14Z",
+         "urlToImage" : null,
+         "url" : "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9YkpDbGVDcFhJbDTSAQA?oc=5",
+         "title" : "AstraZeneca says trials of coronavirus vaccine resume - Reuters"
       },
       {
-         "author" : "Morgan Gstalter",
          "source" : {
-            "id" : "the-hill",
-            "name" : "The Hill"
+            "name" : "The Hill",
+            "id" : "the-hill"
          },
-         "title" : "YouTube stars' account demonetized after they are accused of throwing parties amid pandemic | TheHill - The Hill",
+         "author" : "Morgan Gstalter",
          "content" : "YouTube has temporarily demonetized the account of popular pranksters known as the NELK Boys after they allegedly threw massive college parties amid the coronavirus pandemic.\r\nThe decision comes afte… [+4933 chars]",
+         "description" : "YouTube has temporarily demonetized the account of popular pranksters known as the NELK Boys after they allegedly threw massive college parties amid the coronavirus pandemic.",
+         "publishedAt" : "2020-09-12T17:58:36Z",
          "urlToImage" : "https://thehill.com/sites/default/files/youtube_032318getty.jpg",
          "url" : "https://thehill.com/regulation/technology/516143-youtube-stars-account-demonetized-after-they-are-accused-of-throwing",
-         "description" : "YouTube has temporarily demonetized the account of popular pranksters known as the NELK Boys after they allegedly threw massive college parties amid the coronavirus pandemic.",
-         "publishedAt" : "2020-09-12T17:58:36Z"
+         "title" : "YouTube stars' account demonetized after they are accused of throwing parties amid pandemic | TheHill - The Hill"
       },
       {
-         "urlToImage" : "https://g.foolcdn.com/editorial/images/590042/money-flying-out-of-wallet.jpg",
+         "source" : {
+            "name" : "Motley Fool",
+            "id" : null
+         },
+         "author" : "Christy Bieber",
          "content" : "Most Americans don't have enough money saved for retirement. While you may assume this is a problem plaguing only the middle class and low-wage workers, a report from the New School indicates this is… [+3482 chars]",
-         "url" : "https://www.fool.com/retirement/2020/09/12/a-shocking-number-of-high-earners-have-no-retireme/",
          "description" : "Americans at all income levels may need to save more.",
          "publishedAt" : "2020-09-12T17:46:00Z",
-         "author" : "Christy Bieber",
-         "source" : {
-            "id" : null,
-            "name" : "Motley Fool"
-         },
+         "urlToImage" : "https://g.foolcdn.com/editorial/images/590042/money-flying-out-of-wallet.jpg",
+         "url" : "https://www.fool.com/retirement/2020/09/12/a-shocking-number-of-high-earners-have-no-retireme/",
          "title" : "A Shocking Number of High Earners Have No Retirement Savings - The Motley Fool"
       },
       {
+         "urlToImage" : "https://s.marketwatch.com/public/resources/images/MW-IO364_econom_ZG_20200911141117.jpg",
+         "url" : "https://www.marketwatch.com/story/the-numbers-tell-us-the-economy-is-better-but-millions-of-americans-arent-feeling-it-2020-09-12",
          "title" : "The numbers tell us the economy is better, but millions of Americans aren't feeling it - msnNOW",
          "source" : {
             "id" : null,
             "name" : "MarketWatch"
          },
          "author" : "Jeffry Bartash",
-         "url" : "https://www.marketwatch.com/story/the-numbers-tell-us-the-economy-is-better-but-millions-of-americans-arent-feeling-it-2020-09-12",
-         "publishedAt" : "2020-09-12T17:38:00Z",
+         "content" : "The U.S. economy has kept growing despite a summer spike in coronavirus cases and the end of massive federal aid, but millions of Americans are either being left out or in are danger of being left be… [+4481 chars]",
          "description" : "U.S. economic recovery is widening the gulf among Americans",
-         "urlToImage" : "https://s.marketwatch.com/public/resources/images/MW-IO364_econom_ZG_20200911141117.jpg",
-         "content" : "The U.S. economy has kept growing despite a summer spike in coronavirus cases and the end of massive federal aid, but millions of Americans are either being left out or in are danger of being left be… [+4481 chars]"
+         "publishedAt" : "2020-09-12T17:38:00Z"
       },
       {
-         "title" : "Bitcoin whale cluster at $10,570 is the most important level right now - Cointelegraph",
-         "author" : "Joseph Young",
          "source" : {
             "name" : "Cointelegraph",
             "id" : null
          },
-         "url" : "https://cointelegraph.com/news/bitcoin-whale-cluster-at-10-570-is-the-most-important-level-right-now",
-         "publishedAt" : "2020-09-12T17:25:00Z",
-         "description" : "Bitcoin whale clusters show major resistance levels are at $10,570 and $11,288, raising the chances of a major sell-off",
+         "author" : "Joseph Young",
          "content" : "According to Whalemap, an on-chain analysis firm that focuses on Bitcoin (BTC) whale activity, short-term clusters are present at $10,570.\r\nWhale clusters are shown at $10,570 and $11,288 for Bitcoin… [+2792 chars]",
-         "urlToImage" : "https://s3.cointelegraph.com/storage/uploads/view/a8d7006fdefe67c6dab81797bbc09ced.jpg"
+         "description" : "Bitcoin whale clusters show major resistance levels are at $10,570 and $11,288, raising the chances of a major sell-off",
+         "publishedAt" : "2020-09-12T17:25:00Z",
+         "urlToImage" : "https://s3.cointelegraph.com/storage/uploads/view/a8d7006fdefe67c6dab81797bbc09ced.jpg",
+         "url" : "https://cointelegraph.com/news/bitcoin-whale-cluster-at-10-570-is-the-most-important-level-right-now",
+         "title" : "Bitcoin whale cluster at $10,570 is the most important level right now - Cointelegraph"
       },
       {
-         "source" : {
-            "id" : "the-wall-street-journal",
-            "name" : "The Wall Street Journal"
-         },
-         "author" : "Cara Lombardo, Maureen Farrell",
-         "title" : "SoftBank Nears $40 Billion Deal to Sell Arm Holdings to Nvidia - The Wall Street Journal",
-         "urlToImage" : "https://images.wsj.net/im-231473/social",
-         "content" : "SoftBank Group Corp. is nearing a deal to sell British chip designer Arm Holdings to Nvidia Corp. for more than $40 billion, according to people familiar with the matter, the latest in a series of bi… [+323 chars]",
          "publishedAt" : "2020-09-12T17:18:00Z",
          "description" : "Union of Arm, Nvidia would create a powerhouse in the chip industry",
-         "url" : "https://www.wsj.com/articles/softbank-nearing-deal-to-sell-arm-holdings-to-nvidia-for-more-than-40-billion-11599928360"
+         "content" : "SoftBank Group Corp. is nearing a deal to sell British chip designer Arm Holdings to Nvidia Corp. for more than $40 billion, according to people familiar with the matter, the latest in a series of bi… [+323 chars]",
+         "author" : "Cara Lombardo, Maureen Farrell",
+         "source" : {
+            "name" : "The Wall Street Journal",
+            "id" : "the-wall-street-journal"
+         },
+         "title" : "SoftBank Nears $40 Billion Deal to Sell Arm Holdings to Nvidia - The Wall Street Journal",
+         "url" : "https://www.wsj.com/articles/softbank-nearing-deal-to-sell-arm-holdings-to-nvidia-for-more-than-40-billion-11599928360",
+         "urlToImage" : "https://images.wsj.net/im-231473/social"
       },
       {
-         "title" : "Teachers Union President Seethes Over First Week Of Educators' Return To School - Gothamist",
-         "author" : "David Cruz",
          "source" : {
-            "id" : null,
-            "name" : "Gothamist"
+            "name" : "Gothamist",
+            "id" : null
          },
+         "author" : "David Cruz",
+         "content" : "A little under two weeks ago, United Federation of Teachers president Michael Mulgrew -- whose union represents some 75,000 teachers currently working in the school system -- appeared to be in lockst… [+4190 chars]",
          "description" : "\"I'm sorry this came off as me having a therapy session with you, but I feel the anger and frustration that you are all feeling.\"",
          "publishedAt" : "2020-09-12T16:43:10Z",
-         "url" : "http://gothamist.com/news/teachers-union-president-seethes-over-first-week-educators-return-school",
          "urlToImage" : "https://cms.prod.nypr.digital/images/311482/fill-1200x650/",
-         "content" : "A little under two weeks ago, United Federation of Teachers president Michael Mulgrew -- whose union represents some 75,000 teachers currently working in the school system -- appeared to be in lockst… [+4190 chars]"
+         "url" : "http://gothamist.com/news/teachers-union-president-seethes-over-first-week-educators-return-school",
+         "title" : "Teachers Union President Seethes Over First Week Of Educators' Return To School - Gothamist"
       },
       {
+         "url" : "https://www.mcall.com/coronavirus/mc-nws-pa-coronavirus-saturday-count-20200912-cn772phygbhy7mzwaijif37vnu-story.html",
+         "urlToImage" : "https://www.mcall.com/resizer/DBEkSuQtUmNXz4D6ruwBgJKu_50=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/DQWQ5CKZHVDRFHNZC7CQNF54Q4.jpg",
          "title" : "Pennsylvania coronavirus update: 920 new cases with York County adding more than 1 in 10 - Morning Call",
+         "content" : null,
          "author" : "Anthony Salamone",
          "source" : {
             "name" : "Morning Call",
             "id" : null
          },
-         "description" : "Pennsylvania added 920 coronavirus cases on Saturday, bringing the case count to 143,805, including an alarming 129 new cases in York County.",
          "publishedAt" : "2020-09-12T16:25:07Z",
-         "url" : "https://www.mcall.com/coronavirus/mc-nws-pa-coronavirus-saturday-count-20200912-cn772phygbhy7mzwaijif37vnu-story.html",
-         "content" : null,
-         "urlToImage" : "https://www.mcall.com/resizer/DBEkSuQtUmNXz4D6ruwBgJKu_50=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/DQWQ5CKZHVDRFHNZC7CQNF54Q4.jpg"
+         "description" : "Pennsylvania added 920 coronavirus cases on Saturday, bringing the case count to 143,805, including an alarming 129 new cases in York County."
       },
       {
-         "url" : "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-stock-market-rally-livin-on-edge-take-these-steps/",
+         "source" : {
+            "name" : "Investor's Business Daily",
+            "id" : null
+         },
+         "author" : "Investor's Business Daily",
+         "content" : "Dow Jones futures will resume trading Sunday evening, along with S&amp;P 500 futures and Nasdaq futures. The stock market rally is still in force, but it's livin' on the edge following a second week … [+7735 chars]",
          "description" : "Dow Jones futures: The stock market rally is under growing pressure after further violent selling. It's time to be defensive and prepare for a correction.",
          "publishedAt" : "2020-09-12T16:16:00Z",
          "urlToImage" : "https://www.investors.com/wp-content/uploads/2018/05/Stock-sharkTightrope-01-adobe.jpg",
-         "content" : "Dow Jones futures will resume trading Sunday evening, along with S&amp;P 500 futures and Nasdaq futures. The stock market rally is still in force, but it's livin' on the edge following a second week … [+7735 chars]",
-         "title" : "Market Rally Livin' On The Edge; Take These 3 Steps Now - Investor's Business Daily",
-         "source" : {
-            "id" : null,
-            "name" : "Investor's Business Daily"
-         },
-         "author" : "Investor's Business Daily"
+         "url" : "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-stock-market-rally-livin-on-edge-take-these-steps/",
+         "title" : "Market Rally Livin' On The Edge; Take These 3 Steps Now - Investor's Business Daily"
       },
       {
-         "title" : "$50,000 reward offered after USPS employee is critically injured in shooting - CNN",
-         "author" : "Melissa Alonso, CNN",
-         "source" : {
-            "id" : "cnn",
-            "name" : "CNN"
-         },
-         "publishedAt" : "2020-09-12T16:09:00Z",
-         "description" : "After a postal worker in Chicago was shot and critically injured, the US Postal Inspection Service offered a $50,000 reward for information.",
          "url" : "https://www.cnn.com/2020/09/12/us/usps-employee-chicago-shooting-trnd/index.html",
          "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200912111000-01-chicago-postal-worker-shot-trnd-super-tease.jpg",
-         "content" : "(CNN)After a postal worker in Chicago was shot and critically injured, the US Postal Inspection Service offered a $50,000 reward for information.\r\nThe 24-year-old female letter carrier was \"shot mult… [+725 chars]"
+         "title" : "$50,000 reward offered after USPS employee is critically injured in shooting - CNN",
+         "content" : "(CNN)After a postal worker in Chicago was shot and critically injured, the US Postal Inspection Service offered a $50,000 reward for information.\r\nThe 24-year-old female letter carrier was \"shot mult… [+725 chars]",
+         "author" : "Melissa Alonso, CNN",
+         "source" : {
+            "name" : "CNN",
+            "id" : "cnn"
+         },
+         "publishedAt" : "2020-09-12T16:09:00Z",
+         "description" : "After a postal worker in Chicago was shot and critically injured, the US Postal Inspection Service offered a $50,000 reward for information."
       },
       {
-         "content" : "Bill Pugliano/Getty\r\n<ul><li>Berkshire Hathaway's $570 million bet on Snowflake shows CEO Warren Buffett completely trusts his two portfolio managers, Todd Combs and Ted Weschler, one fund manager sa… [+3380 chars]",
-         "urlToImage" : "https://i.insider.com/5f4c5e417ffa48002894d157?format=jpeg",
-         "publishedAt" : "2020-09-12T16:03:00Z",
-         "description" : "Warren Buffett's $570 million bet on Snowflake shows he completely trusts his deputies, investor Jake Taylor says",
          "url" : "https://www.businessinsider.com/warren-buffett-snowflake-570-million-bet-trusts-deputies-jake-taylor-2020-9",
-         "source" : {
-            "name" : "Business Insider",
-            "id" : "business-insider"
-         },
+         "urlToImage" : "https://i.insider.com/5f4c5e417ffa48002894d157?format=jpeg",
+         "title" : "Warren Buffett's $570 million bet on Snowflake shows he completely trusts his deputies, investor Jake Taylor says | Markets - Business Insider",
+         "content" : "Bill Pugliano/Getty\r\n<ul><li>Berkshire Hathaway's $570 million bet on Snowflake shows CEO Warren Buffett completely trusts his two portfolio managers, Todd Combs and Ted Weschler, one fund manager sa… [+3380 chars]",
          "author" : "Theron Mohamed",
-         "title" : "Warren Buffett's $570 million bet on Snowflake shows he completely trusts his deputies, investor Jake Taylor says | Markets - Business Insider"
+         "source" : {
+            "id" : "business-insider",
+            "name" : "Business Insider"
+         },
+         "publishedAt" : "2020-09-12T16:03:00Z",
+         "description" : "Warren Buffett's $570 million bet on Snowflake shows he completely trusts his deputies, investor Jake Taylor says"
       },
       {
-         "title" : "Shhh -- Here's the Secret to How Millions Can Pay No Tax on Stock Profits - Motley Fool",
-         "source" : {
-            "name" : "Motley Fool",
-            "id" : null
-         },
          "author" : "Dan Caplinger",
+         "content" : "Stock investors have been highly successful over the past decade. Even the coronavirus bear market in early 2020 didn't hold the market down for long.\r\nThe only downside to having big profits in stoc… [+3541 chars]",
+         "source" : {
+            "id" : null,
+            "name" : "Motley Fool"
+         },
          "publishedAt" : "2020-09-12T16:01:00Z",
          "description" : "Buried in the tax laws, you'll find a tax break that can cut or even eliminate income tax.",
          "url" : "https://www.fool.com/taxes/2020/09/12/shhh-secret-millions-can-pay-no-tax-stock-profits/",
          "urlToImage" : "https://g.foolcdn.com/editorial/images/590959/secret-gettyimages-1147978420.jpg",
-         "content" : "Stock investors have been highly successful over the past decade. Even the coronavirus bear market in early 2020 didn't hold the market down for long.\r\nThe only downside to having big profits in stoc… [+3541 chars]"
+         "title" : "Shhh -- Here's the Secret to How Millions Can Pay No Tax on Stock Profits - Motley Fool"
       }
-   ],
-   "totalResults" : 70,
-   "status" : "ok"
+   ]
 }
