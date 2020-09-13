@@ -3,261 +3,261 @@
    "status" : "ok",
    "articles" : [
       {
-         "url" : "https://www.usatoday.com/story/travel/airline-news/2020/09/13/united-sued-over-claims-nfl-flights-staffed-young-blond-crews/5784594002/",
-         "description" : "United Airlines is accused in a lawsuit of staffing NFL flights with attendants who are \"young, white, female and predominately blond/blue-eyed.\"",
-         "author" : "Hannah Yasharoff",
-         "publishedAt" : "2020-09-13T15:45:42Z",
-         "content" : "Many U.S. airlines are overstaffed due to reduced flying schedules and low demand for air travel amid the coronavirus pandemic.\r\nUSA TODAY\r\nUnited Airlines is being accused in a new lawsuit of staffi… [+3525 chars]",
-         "source" : {
-            "id" : "usa-today",
-            "name" : "USA Today"
-         },
          "title" : "United Airlines accused of favoring young, white, blond attendants for NFL, MLB flights - USA TODAY",
-         "urlToImage" : "https://www.gannett-cdn.com/presto/2020/02/27/USAT/b8c14845-c088-4e39-9d3c-e276f52fd714-AP_United_Airlines.JPG?crop=3809,2143,x0,y193&width=3200&height=1680&fit=bounds"
-      },
-      {
-         "urlToImage" : "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/packed-plane-fi-566208.jpg",
-         "source" : {
-            "id" : "fox-news",
-            "name" : "Fox News"
-         },
-         "title" : "EasyJet passenger arrested after fights involving race, paper airplane: report - Fox News",
-         "author" : "Michael Hollan",
-         "url" : "https://www.foxnews.com/travel/easyjet-passenger-hits-woman-racially-charged-incident-paper-airplane-report",
-         "description" : "A passenger was reportedly involved in multiple incidents on one flight.",
-         "content" : "A passenger was reportedly involved in multiple incidents on one flight.\r\nAccording to witnesses, a male passenger had to be moved to the front of a plane after getting into an altercation with anoth… [+2158 chars]",
-         "publishedAt" : "2020-09-13T15:29:33Z"
-      },
-      {
-         "url" : "https://www.nbcphiladelphia.com/news/coronavirus/harshmallow-covid-19-prompts-pause-for-peeps-holiday-treats/2531256/",
-         "description" : "Peeps holiday treats are going on hiatus — another consequence of the coronavirus.",
-         "author" : "NBC 10 Philadelphia",
-         "content" : "Peeps treats are going on hiatus for several months another consequence of the coronavirus pandemic.\r\nJust Born Quality Confections said it wont be producing the popular marshmallow sweets for Hallow… [+970 chars]",
-         "publishedAt" : "2020-09-13T15:22:00Z",
-         "source" : {
-            "name" : "NBC 10 Philadelphia",
-            "id" : null
-         },
-         "title" : "Harshmallow: COVID-19 Prompts Pause for Peeps Holiday Treats - NBC 10 Philadelphia",
-         "urlToImage" : "https://media.nbcphiladelphia.com/2020/09/GettyImages-1938576.jpg?resize=1200%2C675"
-      },
-      {
-         "url" : "https://www.hotnewhiphop.com/nle-choppa-tells-people-to-put-them-travis-scott-burgers-down-news.117719.html",
-         "description" : "NLE Choppa with a reminder to eat your vegetables.",
-         "author" : "Aron A.",
-         "publishedAt" : "2020-09-13T14:41:00Z",
-         "content" : "NLE Choppa is undergoing some major changes. Not only on a musical level but personally, as well. He's adapted a holistic lifestyle, even launching a YouTube page documenting his journey with a plant… [+1511 chars]",
-         "urlToImage" : "https://www.hotnewhiphop.com/image/740x416/cover/1600007718_178b80062255e7b09918de01ec556f04.jpg/62d422cec09456a72f0b974a4b64499b/1600007718_af31c550803a294e3a1584dec3cfa0ee.jpg",
-         "title" : "NLE Choppa Tells People To \"Put Them Travis Scott Burgers Down\" - HotNewHipHop",
-         "source" : {
-            "name" : "HotNewHipHop",
-            "id" : null
-         }
-      },
-      {
-         "description" : "Pfizer and BioNTech reiterated that results from their vaccine candidate's late-stage trial could be available as early as October.",
-         "url" : "https://www.foxbusiness.com/healthcare/pfizer-biontech-look-to-expand-late-stage-covid-19-vaccine-trial",
-         "author" : "Lucas Manfredi",
-         "publishedAt" : "2020-09-13T14:31:39Z",
-         "content" : "Pfizer and BioNTech are looking to expand the enrollment of their Phase 3 COVID-19 vaccine trial to up to approximately 44,000 participants after submitting a proposal to the Food and Drug Administra… [+3398 chars]",
-         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2018/06/0/0/2018-06-06T121829Z_1_LYNXNPEE550XI_RTROPTP_3_PFIZER-RESULTS.jpg?ve=1&tl=1",
-         "source" : {
-            "name" : "Fox Business",
-            "id" : null
-         },
-         "title" : "Pfizer, BioNTech look to expand late-stage COVID-19 vaccine trial - Fox Business"
-      },
-      {
-         "publishedAt" : "2020-09-13T13:49:00Z",
-         "content" : "Meat plant workers, union leaders and worker safety groups are also outraged that the two plants, with some of the most severe outbreaks in the nation, were only cited for a total of three safety vio… [+10574 chars]",
-         "url" : "https://www.washingtonpost.com/national/osha-covid-meat-plant-fines/2020/09/13/1dca3e14-f395-11ea-bc45-e5d48ab44b9f_story.html",
-         "description" : "Two plants were fined a total of about $29,000 — an amount critics say is so small that it won’t serve as an incentive for the nation’s meatpackers to protect their workers.",
-         "author" : "Kimberly Kindy",
-         "urlToImage" : "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/36AM6SFFWQI6VCMOWINZVA7XSI.jpg&w=1440",
-         "source" : {
-            "name" : "The Washington Post",
-            "id" : "the-washington-post"
-         },
-         "title" : "More than 200 meat plant workers in the U.S. have died of covid-19. Federal regulators just issued two modest fines. - The Washington Post"
-      },
-      {
-         "url" : "https://finance.yahoo.com/news/fomc-meeting-retail-sales-what-to-know-in-the-week-ahead-134602755.html",
-         "description" : "Investors, rocked by a volatile stretch of trading in equity markets last week, will turn their attention this week to the Federal Open Market Committee’s (FOMC) September meeting, along with a key report on the state of the consumer in the US.",
-         "author" : "Emily McCormick",
-         "publishedAt" : "2020-09-13T13:46:00Z",
-         "content" : "Investors, rocked by a volatile stretch of trading in equity markets last week, will turn their attention this week to the Federal Open Market Committees (FOMC) September meeting, along with two key … [+8758 chars]",
-         "source" : {
-            "id" : null,
-            "name" : "Yahoo Entertainment"
-         },
-         "title" : "Fed meeting, retail sales: What to know in the week ahead - Yahoo Finance",
-         "urlToImage" : "https://s.yimg.com/uu/api/res/1.2/xhaabQEhjcs5m4RjcthxVg--~B/aD00MDAwO3c9NjAwMDtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-images/2020-06/200e0b70-abf5-11ea-bfff-6b5e91bfdf97"
-      },
-      {
-         "urlToImage" : "https://s.yimg.com/uu/api/res/1.2/GXeDyft1hngSXwisz.coNg--~B/aD0zMzM3O3c9NTA0MDtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2020-09/836ad590-f3ad-11ea-b79c-fbd2ce1cbd22",
-         "title" : "The luxury sector is going to be hard hit for years: Former LVMH exec - Yahoo Finance",
-         "source" : {
-            "id" : null,
-            "name" : "Yahoo Entertainment"
-         },
-         "description" : "Former LVMH Chairman of North America & Author of 'Aesthetic Intelligence’ Pauline Brown joined Yahoo Finance to discuss the latest outlook for Tiffany after LVMH says the takeover deal won't happen.",
-         "url" : "https://finance.yahoo.com/news/the-luxury-sector-is-going-to-be-hard-hit-for-years-fmr-lvmh-exec-132224171.html",
-         "author" : "Meghan Fitzgerald",
-         "publishedAt" : "2020-09-13T13:22:00Z",
-         "content" : "The coronavirus is putting pressure on luxury retail as up-scale companies grapple with the fallout from closings of physical stores. But former LVMH (LVMHUY) chairman of North America, Pauline Brown… [+3033 chars]"
-      },
-      {
-         "content" : "Apple CEO Tim Cook delivers the keynote address during the 2020 Apple Worldwide Developers Conference (WWDC) at Steve Jobs Theater in Cupertino, California.\r\nFor Apple investors, the most exciting pr… [+6285 chars]",
-         "publishedAt" : "2020-09-13T13:18:00Z",
-         "url" : "https://www.cnbc.com/2020/09/13/apple-one-bundle-long-rumored-would-cheer-wall-street.html",
-         "description" : "If Apple One launches this fall,  Wall Street investors and analysts will be happy: An Apple bundle has been on investor wish lists for years.",
-         "author" : "Kif Leswing",
-         "source" : {
-            "id" : null,
-            "name" : "CNBC"
-         },
-         "title" : "Wall Street has wanted an Apple bundle for years — soon it might get one - CNBC",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106587904-15928703582020-06-22t173405z_90636234_rc2heh9e4av9_rtrmadp_0_apple-developers.jpeg?v=1592870436"
-      },
-      {
-         "title" : "Bitcoin Analyst Says XRP Will Annihilate Almost Every Other Altcoin – Here’s Why - The Daily Hodl",
-         "source" : {
-            "id" : null,
-            "name" : "The Daily Hodl"
-         },
-         "urlToImage" : "https://i0.wp.com/dailyhodl.com/wp-content/uploads/2020/09/yyg5586ge.jpg?fit=1450%2C850&ssl=1",
-         "content" : "A contrarian investor known in the industry as CryptoWhale believes that XRP eventually will wipe out nearly every other altcoin.\r\nIn a new tweetstorm, CryptoWhale tells his 34,000 followers that XRP… [+1676 chars]",
-         "publishedAt" : "2020-09-13T13:01:23Z",
-         "author" : "Daily Hodl Staff",
-         "url" : "https://dailyhodl.com/2020/09/13/bitcoin-analyst-says-xrp-will-annihilate-almost-every-other-altcoin-heres-why/",
-         "description" : "A contrarian investor known in the industry as Crypto Whale believes that XRP eventually will wipe out nearly every other altcoin."
-      },
-      {
-         "publishedAt" : "2020-09-13T12:18:00Z",
-         "content" : "Warren Buffett is notorious for guiding his massive conglomerate, Berkshire Hathaway (BRK.A) (BRK.B), by the core tenets of value investing. Under his leadership, the business has a long history of b… [+7924 chars]",
-         "url" : "https://seekingalpha.com/article/4373917-berkshire-hathaways-big-bet-on-big-data-snowflakes-ipo",
-         "author" : "Daniel Jones",
-         "description" : "Warren Buffett's Berkshire Hathaway elected to invest a chunk of capital into the IPO of data company Snowflake.",
-         "urlToImage" : "https://static2.seekingalpha.com/images/marketing_images/people_animals/warren_buffett.jpeg",
-         "title" : "Berkshire Hathaway's Big Bet On Big Data With Snowflake's IPO - Seeking Alpha",
-         "source" : {
-            "id" : null,
-            "name" : "Seeking Alpha"
-         }
-      },
-      {
-         "url" : "https://www.fool.com/investing/2020/09/13/will-another-market-crash-happen/",
-         "description" : "It's all but certain.",
-         "author" : "Christy Bieber",
-         "content" : "I'm not going to bury the lede. Another stock market crash is going to happen. \r\nI know this not because stocks are overvalued (although they probably are) or because COVID cases have continued spiki… [+3812 chars]",
-         "publishedAt" : "2020-09-13T11:16:00Z",
-         "title" : "Will Another Market Crash Happen? - Motley Fool",
-         "source" : {
-            "name" : "Motley Fool",
-            "id" : null
-         },
-         "urlToImage" : "https://g.foolcdn.com/editorial/images/591037/couple-looking-at-bills-in-dismay.jpg"
-      },
-      {
-         "title" : "Christmas is coming and it's time to think about it: Dave Ramsey - Fox Business",
-         "source" : {
-            "name" : "Fox Business",
-            "id" : null
-         },
-         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2019/12/0/0/christmas-travel-iStock.jpg?ve=1&tl=1",
-         "publishedAt" : "2020-09-13T11:04:07Z",
-         "content" : "Editor's note: Money expert Dave Ramsey is CEO of Ramsey Solutions. He has authored seven best-selling books, including \"The Total Money Makeover.\" His radio show \"The Dave Ramsey Show\" is heard by m… [+2658 chars]",
-         "url" : "https://www.foxbusiness.com/personal-finance/christmas-coming-dave-ramsey",
-         "description" : "A lot of people wait until December to buy gifts and make plans.",
-         "author" : "Dave Ramsey"
-      },
-      {
-         "publishedAt" : "2020-09-13T11:02:10Z",
-         "content" : "Coronavirus fear has Walmart raising wages for their warehouse workers.\r\nBuzz60\r\nIn the depths of the COVID-19 pandemic in early spring, with revenue plunging 70%, Dallas software company CEO Rishi K… [+8667 chars]",
-         "url" : "https://www.usatoday.com/story/money/2020/09/13/unemployment-wages-many-workers-hit-fewer-hours-lower-pay-amid-covid-19/5770829002/",
-         "description" : "Many U.S. workers have been socked by cuts in hours or pay during the pandemic. The effects could linger in meager wage growth for years.",
-         "author" : "Paul Davidson",
-         "urlToImage" : "https://www.gannett-cdn.com/-mm-/c4aa305fc5178aaecd20fbfc55fbc7e08f0920a5/c=0-112-2120-1304/local/-/media/2020/06/07/USATODAY/usatsports/paycheck-payroll-job-employed-expense-getty.jpg?width=1600&height=800&fit=crop",
-         "title" : "More workers hit with pay cuts than in last recession, and stagnant wages could linger - USA TODAY",
+         "publishedAt" : "2020-09-13T15:45:42Z",
+         "urlToImage" : "https://www.gannett-cdn.com/presto/2020/02/27/USAT/b8c14845-c088-4e39-9d3c-e276f52fd714-AP_United_Airlines.JPG?crop=3809,2143,x0,y193&width=3200&height=1680&fit=bounds",
+         "url" : "https://www.usatoday.com/story/travel/airline-news/2020/09/13/united-sued-over-claims-nfl-flights-staffed-young-blond-crews/5784594002/",
+         "author" : "Hannah Yasharoff",
+         "description" : "United Airlines is accused in a lawsuit of staffing NFL flights with attendants who are \"young, white, female and predominately blond/blue-eyed.\"",
+         "content" : "Many U.S. airlines are overstaffed due to reduced flying schedules and low demand for air travel amid the coronavirus pandemic.\r\nUSA TODAY\r\nUnited Airlines is being accused in a new lawsuit of staffi… [+3525 chars]",
          "source" : {
             "name" : "USA Today",
             "id" : "usa-today"
          }
       },
       {
-         "urlToImage" : "https://i.insider.com/5f5de2e5e6ff30001d4e8805?width=1200&format=jpeg",
-         "title" : "SoftBank is close to selling off chipmaker Arm to Nvidia in $40 billion mega-deal - Business Insider - Business Insider",
          "source" : {
-            "id" : "business-insider",
-            "name" : "Business Insider"
+            "name" : "Fox News",
+            "id" : "fox-news"
          },
-         "content" : "Japanese conglomerate SoftBank is reportedly close to selling off its British chip designer Arm to chipmaker Nvidia for a whopping $40 billion, per reports from the Wall Street Journal and Reuters.\r\n… [+1304 chars]",
-         "publishedAt" : "2020-09-13T10:56:51Z",
-         "description" : "SoftBank negotiated the mega-sale to relieve pressure on its flagging stock price and make up for losses.",
-         "url" : "https://www.businessinsider.com/reports-nvidia-arm-softbank-buys-40-billion-2020-9",
-         "author" : "Shona Ghosh"
+         "content" : "A passenger was reportedly involved in multiple incidents on one flight.\r\nAccording to witnesses, a male passenger had to be moved to the front of a plane after getting into an altercation with anoth… [+2158 chars]",
+         "description" : "A passenger was reportedly involved in multiple incidents on one flight.",
+         "author" : "Michael Hollan",
+         "publishedAt" : "2020-09-13T15:29:33Z",
+         "urlToImage" : "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/packed-plane-fi-566208.jpg",
+         "title" : "EasyJet passenger arrested after fights involving race, paper airplane: report - Fox News",
+         "url" : "https://www.foxnews.com/travel/easyjet-passenger-hits-woman-racially-charged-incident-paper-airplane-report"
       },
       {
-         "urlToImage" : "https://g.foolcdn.com/editorial/images/590720/social-security-card-with-cash-retirement-benefits-getty.jpg",
+         "publishedAt" : "2020-09-13T15:22:00Z",
+         "url" : "https://www.nbcphiladelphia.com/news/coronavirus/harshmallow-covid-19-prompts-pause-for-peeps-holiday-treats/2531256/",
+         "urlToImage" : "https://media.nbcphiladelphia.com/2020/09/GettyImages-1938576.jpg?resize=1200%2C675",
+         "title" : "Harshmallow: COVID-19 Prompts Pause for Peeps Holiday Treats - NBC 10 Philadelphia",
+         "author" : "NBC 10 Philadelphia",
+         "description" : "Peeps holiday treats are going on hiatus — another consequence of the coronavirus.",
+         "content" : "Peeps treats are going on hiatus for several months another consequence of the coronavirus pandemic.\r\nJust Born Quality Confections said it wont be producing the popular marshmallow sweets for Hallow… [+970 chars]",
          "source" : {
-            "name" : "Motley Fool",
+            "name" : "NBC 10 Philadelphia",
             "id" : null
-         },
-         "title" : "Social Security May Run Out of Money Sooner Than Expected - The Motley Fool",
-         "content" : "Last month, America's top social program, Social Security, celebrated its 85th anniversary since being signed into law. Today, it's a program responsible for providing monthly benefits to more than 6… [+7201 chars]",
-         "publishedAt" : "2020-09-13T10:06:00Z",
-         "description" : "Sweeping benefit cuts may be necessary well before 2035.",
-         "url" : "https://www.fool.com/retirement/2020/09/13/social-security-may-run-out-of-money-sooner-than-e/",
-         "author" : "Sean Williams"
+         }
       },
       {
-         "publishedAt" : "2020-09-13T09:51:00Z",
-         "content" : "If Friedman had balked, asserting that Starbucks could have performed even better without these socially responsible activities, I would have told him what I told an institutional investor who wanted… [+2734 chars]",
-         "url" : "https://www.nytimes.com/2020/09/13/business/dealbook/milton-friedman-essay-anniversary.html",
-         "description" : "Fifty years ago today, Milton Friedman published a seminal essay that is still hotly debated in business and policy circles.",
-         "author" : null,
-         "title" : "Milton Friedman’s Influential Essay on Business, 50 Years Later - The New York Times",
+         "author" : "Aron A.",
+         "description" : "NLE Choppa with a reminder to eat your vegetables.",
+         "urlToImage" : "https://www.hotnewhiphop.com/image/740x416/cover/1600007718_178b80062255e7b09918de01ec556f04.jpg/62d422cec09456a72f0b974a4b64499b/1600007718_af31c550803a294e3a1584dec3cfa0ee.jpg",
+         "publishedAt" : "2020-09-13T14:41:00Z",
+         "url" : "https://www.hotnewhiphop.com/nle-choppa-tells-people-to-put-them-travis-scott-burgers-down-news.117719.html",
+         "title" : "NLE Choppa Tells People To \"Put Them Travis Scott Burgers Down\" - HotNewHipHop",
+         "content" : "NLE Choppa is undergoing some major changes. Not only on a musical level but personally, as well. He's adapted a holistic lifestyle, even launching a YouTube page documenting his journey with a plant… [+1511 chars]",
          "source" : {
-            "name" : "New York Times",
+            "name" : "HotNewHipHop",
             "id" : null
-         },
-         "urlToImage" : "https://static01.nyt.com/images/2020/09/13/business/13db-newsletterfriedmancover/13db-newsletterfriedmancover-facebookJumbo.jpg"
+         }
       },
       {
-         "urlToImage" : "https://s.yimg.com/uu/api/res/1.2/hGSufkcjDaV_R_4j2SLjbQ--~B/aD01Mzc7dz0xMDI0O3NtPTE7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en-US/smarteranalyst_347/752bcf5e7e41d5025ca6f0f7874c003b",
-         "title" : "Gilead Sciences Close To Inking $20B Immunomedics Deal- Report - Yahoo Finance",
+         "author" : "Lucas Manfredi",
+         "description" : "Pfizer and BioNTech reiterated that results from their vaccine candidate's late-stage trial could be available as early as October.",
+         "publishedAt" : "2020-09-13T14:31:39Z",
+         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2018/06/0/0/2018-06-06T121829Z_1_LYNXNPEE550XI_RTROPTP_3_PFIZER-RESULTS.jpg?ve=1&tl=1",
+         "url" : "https://www.foxbusiness.com/healthcare/pfizer-biontech-look-to-expand-late-stage-covid-19-vaccine-trial",
+         "title" : "Pfizer, BioNTech look to expand late-stage COVID-19 vaccine trial - Fox Business",
+         "content" : "Pfizer and BioNTech are looking to expand the enrollment of their Phase 3 COVID-19 vaccine trial to up to approximately 44,000 participants after submitting a proposal to the Food and Drug Administra… [+3398 chars]",
+         "source" : {
+            "id" : null,
+            "name" : "Fox Business"
+         }
+      },
+      {
+         "publishedAt" : "2020-09-13T13:49:00Z",
+         "title" : "More than 200 meat plant workers in the U.S. have died of covid-19. Federal regulators just issued two modest fines. - The Washington Post",
+         "urlToImage" : "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/36AM6SFFWQI6VCMOWINZVA7XSI.jpg&w=1440",
+         "url" : "https://www.washingtonpost.com/national/osha-covid-meat-plant-fines/2020/09/13/1dca3e14-f395-11ea-bc45-e5d48ab44b9f_story.html",
+         "description" : "Two plants were fined a total of about $29,000 — an amount critics say is so small that it won’t serve as an incentive for the nation’s meatpackers to protect their workers.",
+         "author" : "Kimberly Kindy",
+         "source" : {
+            "name" : "The Washington Post",
+            "id" : "the-washington-post"
+         },
+         "content" : "Meat plant workers, union leaders and worker safety groups are also outraged that the two plants, with some of the most severe outbreaks in the nation, were only cited for a total of three safety vio… [+10574 chars]"
+      },
+      {
+         "urlToImage" : "https://s.yimg.com/uu/api/res/1.2/xhaabQEhjcs5m4RjcthxVg--~B/aD00MDAwO3c9NjAwMDtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-images/2020-06/200e0b70-abf5-11ea-bfff-6b5e91bfdf97",
+         "publishedAt" : "2020-09-13T13:46:00Z",
+         "url" : "https://finance.yahoo.com/news/fomc-meeting-retail-sales-what-to-know-in-the-week-ahead-134602755.html",
+         "title" : "Fed meeting, retail sales: What to know in the week ahead - Yahoo Finance",
+         "description" : "Investors, rocked by a volatile stretch of trading in equity markets last week, will turn their attention this week to the Federal Open Market Committee’s (FOMC) September meeting, along with a key report on the state of the consumer in the US.",
+         "author" : "Emily McCormick",
          "source" : {
             "name" : "Yahoo Entertainment",
             "id" : null
          },
-         "content" : "Gilead Sciences (GILD) is nearing a deal to buy biotech Immunomedics Inc for more than $20 billion, says the Wall Street Journal, which cites people familiar with the matter.\r\nImmunomedics (IMMU) cur… [+2355 chars]",
-         "publishedAt" : "2020-09-13T09:08:16Z",
-         "description" : "Gilead Sciences (GILD) is nearing a deal to buy biotech Immunomedics Inc for more than $20 billion, says the Wall Street Journal, which cites people familiar with the matter.Immunomedics (IMMU) currently has a market value of just $9.77B, which means that GIL…",
-         "url" : "https://finance.yahoo.com/news/gilead-sciences-close-inking-20b-055642385.html",
-         "author" : "support@smarteranalyst.com (Ben Mahaney)"
+         "content" : "Investors, rocked by a volatile stretch of trading in equity markets last week, will turn their attention this week to the Federal Open Market Committees (FOMC) September meeting, along with two key … [+8758 chars]"
       },
       {
-         "content" : "Tesla CEO Elon Musk has criticized his fellow billionaire and philanthropist Bill Gates over his views on the viability of bigger electric vehicles.\r\nAsked by a Twitter user on Saturday what he thoug… [+1767 chars]",
-         "publishedAt" : "2020-09-13T09:03:30Z",
-         "url" : "https://www.businessinsider.com/elon-musk-bill-gates-no-clue-electric-trucks-2020-9",
-         "description" : "Tesla happens to be working on an electric truck, the Tesla Semi. The vehicle is two years behind its original 2019 delivery schedule.",
+         "url" : "https://finance.yahoo.com/news/the-luxury-sector-is-going-to-be-hard-hit-for-years-fmr-lvmh-exec-132224171.html",
+         "publishedAt" : "2020-09-13T13:22:00Z",
+         "urlToImage" : "https://s.yimg.com/uu/api/res/1.2/GXeDyft1hngSXwisz.coNg--~B/aD0zMzM3O3c9NTA0MDtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2020-09/836ad590-f3ad-11ea-b79c-fbd2ce1cbd22",
+         "title" : "The luxury sector is going to be hard hit for years: Former LVMH exec - Yahoo Finance",
+         "description" : "Former LVMH Chairman of North America & Author of 'Aesthetic Intelligence’ Pauline Brown joined Yahoo Finance to discuss the latest outlook for Tiffany after LVMH says the takeover deal won't happen.",
+         "author" : "Meghan Fitzgerald",
+         "source" : {
+            "id" : null,
+            "name" : "Yahoo Entertainment"
+         },
+         "content" : "The coronavirus is putting pressure on luxury retail as up-scale companies grapple with the fallout from closings of physical stores. But former LVMH (LVMHUY) chairman of North America, Pauline Brown… [+3033 chars]"
+      },
+      {
+         "source" : {
+            "name" : "CNBC",
+            "id" : null
+         },
+         "content" : "Apple CEO Tim Cook delivers the keynote address during the 2020 Apple Worldwide Developers Conference (WWDC) at Steve Jobs Theater in Cupertino, California.\r\nFor Apple investors, the most exciting pr… [+6285 chars]",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106587904-15928703582020-06-22t173405z_90636234_rc2heh9e4av9_rtrmadp_0_apple-developers.jpeg?v=1592870436",
+         "publishedAt" : "2020-09-13T13:18:00Z",
+         "url" : "https://www.cnbc.com/2020/09/13/apple-one-bundle-long-rumored-would-cheer-wall-street.html",
+         "title" : "Wall Street has wanted an Apple bundle for years — soon it might get one - CNBC",
+         "description" : "If Apple One launches this fall,  Wall Street investors and analysts will be happy: An Apple bundle has been on investor wish lists for years.",
+         "author" : "Kif Leswing"
+      },
+      {
+         "content" : "A contrarian investor known in the industry as CryptoWhale believes that XRP eventually will wipe out nearly every other altcoin.\r\nIn a new tweetstorm, CryptoWhale tells his 34,000 followers that XRP… [+1676 chars]",
+         "source" : {
+            "name" : "The Daily Hodl",
+            "id" : null
+         },
+         "title" : "Bitcoin Analyst Says XRP Will Annihilate Almost Every Other Altcoin – Here’s Why - The Daily Hodl",
+         "publishedAt" : "2020-09-13T13:01:23Z",
+         "urlToImage" : "https://i0.wp.com/dailyhodl.com/wp-content/uploads/2020/09/yyg5586ge.jpg?fit=1450%2C850&ssl=1",
+         "url" : "https://dailyhodl.com/2020/09/13/bitcoin-analyst-says-xrp-will-annihilate-almost-every-other-altcoin-heres-why/",
+         "author" : "Daily Hodl Staff",
+         "description" : "A contrarian investor known in the industry as Crypto Whale believes that XRP eventually will wipe out nearly every other altcoin."
+      },
+      {
+         "title" : "Berkshire Hathaway's Big Bet On Big Data With Snowflake's IPO - Seeking Alpha",
+         "publishedAt" : "2020-09-13T12:18:00Z",
+         "urlToImage" : "https://static2.seekingalpha.com/images/marketing_images/people_animals/warren_buffett.jpeg",
+         "url" : "https://seekingalpha.com/article/4373917-berkshire-hathaways-big-bet-on-big-data-snowflakes-ipo",
+         "author" : "Daniel Jones",
+         "description" : "Warren Buffett's Berkshire Hathaway elected to invest a chunk of capital into the IPO of data company Snowflake.",
+         "content" : "Warren Buffett is notorious for guiding his massive conglomerate, Berkshire Hathaway (BRK.A) (BRK.B), by the core tenets of value investing. Under his leadership, the business has a long history of b… [+7924 chars]",
+         "source" : {
+            "name" : "Seeking Alpha",
+            "id" : null
+         }
+      },
+      {
+         "publishedAt" : "2020-09-13T11:16:00Z",
+         "urlToImage" : "https://g.foolcdn.com/editorial/images/591037/couple-looking-at-bills-in-dismay.jpg",
+         "url" : "https://www.fool.com/investing/2020/09/13/will-another-market-crash-happen/",
+         "title" : "Will Another Market Crash Happen? - Motley Fool",
+         "author" : "Christy Bieber",
+         "description" : "It's all but certain.",
+         "content" : "I'm not going to bury the lede. Another stock market crash is going to happen. \r\nI know this not because stocks are overvalued (although they probably are) or because COVID cases have continued spiki… [+3812 chars]",
+         "source" : {
+            "name" : "Motley Fool",
+            "id" : null
+         }
+      },
+      {
+         "source" : {
+            "id" : null,
+            "name" : "Fox Business"
+         },
+         "content" : "Editor's note: Money expert Dave Ramsey is CEO of Ramsey Solutions. He has authored seven best-selling books, including \"The Total Money Makeover.\" His radio show \"The Dave Ramsey Show\" is heard by m… [+2658 chars]",
+         "description" : "A lot of people wait until December to buy gifts and make plans.",
+         "author" : "Dave Ramsey",
+         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2019/12/0/0/christmas-travel-iStock.jpg?ve=1&tl=1",
+         "publishedAt" : "2020-09-13T11:04:07Z",
+         "url" : "https://www.foxbusiness.com/personal-finance/christmas-coming-dave-ramsey",
+         "title" : "Christmas is coming and it's time to think about it: Dave Ramsey - Fox Business"
+      },
+      {
+         "urlToImage" : "https://www.gannett-cdn.com/-mm-/c4aa305fc5178aaecd20fbfc55fbc7e08f0920a5/c=0-112-2120-1304/local/-/media/2020/06/07/USATODAY/usatsports/paycheck-payroll-job-employed-expense-getty.jpg?width=1600&height=800&fit=crop",
+         "publishedAt" : "2020-09-13T11:02:10Z",
+         "title" : "More workers hit with pay cuts than in last recession, and stagnant wages could linger - USA TODAY",
+         "url" : "https://www.usatoday.com/story/money/2020/09/13/unemployment-wages-many-workers-hit-fewer-hours-lower-pay-amid-covid-19/5770829002/",
+         "author" : "Paul Davidson",
+         "description" : "Many U.S. workers have been socked by cuts in hours or pay during the pandemic. The effects could linger in meager wage growth for years.",
+         "content" : "Coronavirus fear has Walmart raising wages for their warehouse workers.\r\nBuzz60\r\nIn the depths of the COVID-19 pandemic in early spring, with revenue plunging 70%, Dallas software company CEO Rishi K… [+8667 chars]",
+         "source" : {
+            "name" : "USA Today",
+            "id" : "usa-today"
+         }
+      },
+      {
+         "content" : "Japanese conglomerate SoftBank is reportedly close to selling off its British chip designer Arm to chipmaker Nvidia for a whopping $40 billion, per reports from the Wall Street Journal and Reuters.\r\n… [+1304 chars]",
+         "source" : {
+            "name" : "Business Insider",
+            "id" : "business-insider"
+         },
+         "urlToImage" : "https://i.insider.com/5f5de2e5e6ff30001d4e8805?width=1200&format=jpeg",
+         "publishedAt" : "2020-09-13T10:56:51Z",
+         "url" : "https://www.businessinsider.com/reports-nvidia-arm-softbank-buys-40-billion-2020-9",
+         "title" : "SoftBank is close to selling off chipmaker Arm to Nvidia in $40 billion mega-deal - Business Insider - Business Insider",
          "author" : "Shona Ghosh",
-         "urlToImage" : "https://i.insider.com/5e4bc6154b661b0c61027f82?width=1200&format=jpeg",
+         "description" : "SoftBank negotiated the mega-sale to relieve pressure on its flagging stock price and make up for losses."
+      },
+      {
+         "source" : {
+            "id" : null,
+            "name" : "Motley Fool"
+         },
+         "content" : "Last month, America's top social program, Social Security, celebrated its 85th anniversary since being signed into law. Today, it's a program responsible for providing monthly benefits to more than 6… [+7201 chars]",
+         "publishedAt" : "2020-09-13T10:06:00Z",
+         "title" : "Social Security May Run Out of Money Sooner Than Expected - The Motley Fool",
+         "urlToImage" : "https://g.foolcdn.com/editorial/images/590720/social-security-card-with-cash-retirement-benefits-getty.jpg",
+         "url" : "https://www.fool.com/retirement/2020/09/13/social-security-may-run-out-of-money-sooner-than-e/",
+         "description" : "Sweeping benefit cuts may be necessary well before 2035.",
+         "author" : "Sean Williams"
+      },
+      {
+         "author" : null,
+         "description" : "Fifty years ago today, Milton Friedman published a seminal essay that is still hotly debated in business and policy circles.",
+         "publishedAt" : "2020-09-13T09:51:00Z",
+         "urlToImage" : "https://static01.nyt.com/images/2020/09/13/business/13db-newsletterfriedmancover/13db-newsletterfriedmancover-facebookJumbo.jpg",
+         "url" : "https://www.nytimes.com/2020/09/13/business/dealbook/milton-friedman-essay-anniversary.html",
+         "title" : "Milton Friedman’s Influential Essay on Business, 50 Years Later - The New York Times",
+         "content" : "If Friedman had balked, asserting that Starbucks could have performed even better without these socially responsible activities, I would have told him what I told an institutional investor who wanted… [+2734 chars]",
+         "source" : {
+            "id" : null,
+            "name" : "New York Times"
+         }
+      },
+      {
+         "content" : "Gilead Sciences (GILD) is nearing a deal to buy biotech Immunomedics Inc for more than $20 billion, says the Wall Street Journal, which cites people familiar with the matter.\r\nImmunomedics (IMMU) cur… [+2355 chars]",
+         "source" : {
+            "name" : "Yahoo Entertainment",
+            "id" : null
+         },
+         "author" : "support@smarteranalyst.com (Ben Mahaney)",
+         "description" : "Gilead Sciences (GILD) is nearing a deal to buy biotech Immunomedics Inc for more than $20 billion, says the Wall Street Journal, which cites people familiar with the matter.Immunomedics (IMMU) currently has a market value of just $9.77B, which means that GIL…",
+         "title" : "Gilead Sciences Close To Inking $20B Immunomedics Deal- Report - Yahoo Finance",
+         "publishedAt" : "2020-09-13T09:08:16Z",
+         "urlToImage" : "https://s.yimg.com/uu/api/res/1.2/hGSufkcjDaV_R_4j2SLjbQ--~B/aD01Mzc7dz0xMDI0O3NtPTE7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en-US/smarteranalyst_347/752bcf5e7e41d5025ca6f0f7874c003b",
+         "url" : "https://finance.yahoo.com/news/gilead-sciences-close-inking-20b-055642385.html"
+      },
+      {
          "source" : {
             "id" : "business-insider",
             "name" : "Business Insider"
          },
-         "title" : "Elon Musk says Bill Gates has 'no clue' about electric trucks - Business Insider - Business Insider"
+         "content" : "Tesla CEO Elon Musk has criticized his fellow billionaire and philanthropist Bill Gates over his views on the viability of bigger electric vehicles.\r\nAsked by a Twitter user on Saturday what he thoug… [+1767 chars]",
+         "urlToImage" : "https://i.insider.com/5e4bc6154b661b0c61027f82?width=1200&format=jpeg",
+         "publishedAt" : "2020-09-13T09:03:30Z",
+         "title" : "Elon Musk says Bill Gates has 'no clue' about electric trucks - Business Insider - Business Insider",
+         "url" : "https://www.businessinsider.com/elon-musk-bill-gates-no-clue-electric-trucks-2020-9",
+         "description" : "Tesla happens to be working on an electric truck, the Tesla Semi. The vehicle is two years behind its original 2019 delivery schedule.",
+         "author" : "Shona Ghosh"
       },
       {
-         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/09/0/0/attlogo.jpg?ve=1&tl=1",
-         "title" : "Mississippi subpoenas AT&T for records on $300M project - Fox Business",
          "source" : {
             "name" : "Fox Business",
             "id" : null
          },
-         "publishedAt" : "2020-09-13T08:00:23Z",
          "content" : "The state of Mississippi is asking multinational telecommunications conglomerate AT&amp;T provide records of the work it promised to do to expand broadband access in the state after the Public Servic… [+2298 chars]",
+         "publishedAt" : "2020-09-13T08:00:23Z",
+         "title" : "Mississippi subpoenas AT&T for records on $300M project - Fox Business",
+         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/09/0/0/attlogo.jpg?ve=1&tl=1",
          "url" : "https://www.foxbusiness.com/markets/mississippi-subpoenas-att-for-records-on-300m-project",
          "description" : "The records from AT&T relate to the company’s claim to have made internet service available to 133,000 locations in the state",
          "author" : "Associated Press"
