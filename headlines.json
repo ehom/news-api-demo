@@ -1,266 +1,266 @@
 {
    "articles" : [
       {
-         "description" : "In the expletive-laden footage, the man erupts in fury and throws a punch as he lunges over a seat after a woman can be heard saying, ‘I am African. Do not chat s— about my people,” The Sun r…",
-         "title" : "Wild video shows plane passenger punch woman in alleged racial attack - New York Post ",
-         "publishedAt" : "2020-09-12T23:21:00Z",
-         "url" : "https://nypost.com/2020/09/12/video-shows-plane-passenger-punch-woman-in-alleged-racial-attack/",
+         "author" : "Yaron Steinbuch",
+         "content" : "A British passenger was not exactly taking it easy on an EasyJet flight, where he was caught in shocking video throwing a punch at a fellow flier in a racially charged incident, according to a report… [+2325 chars]",
          "source" : {
             "id" : null,
             "name" : "New York Post"
          },
-         "author" : "Yaron Steinbuch",
-         "content" : "A British passenger was not exactly taking it easy on an EasyJet flight, where he was caught in shocking video throwing a punch at a fellow flier in a racially charged incident, according to a report… [+2325 chars]",
+         "publishedAt" : "2020-09-12T23:21:00Z",
+         "description" : "In the expletive-laden footage, the man erupts in fury and throws a punch as he lunges over a seat after a woman can be heard saying, ‘I am African. Do not chat s— about my people,” The Sun r…",
+         "title" : "Wild video shows plane passenger punch woman in alleged racial attack - New York Post ",
+         "url" : "https://nypost.com/2020/09/12/video-shows-plane-passenger-punch-woman-in-alleged-racial-attack/",
          "urlToImage" : "https://nypost.com/wp-content/uploads/sites/2/2020/09/easyjet-passenger-punch-1.jpg?quality=90&strip=all&w=1200"
       },
       {
-         "description" : "The company said tests of its vaccine would start up again in Britain while remaining suspended in the U.S. and other countries. Pfizer, a competitor, announced an expansion of its trials.",
-         "title" : "AstraZeneca Partly Resumes Coronavirus Vaccine Trial After Halting It for Safety - The New York Times",
          "url" : "https://www.nytimes.com/2020/09/12/health/astrazeneca-coronavirus-vaccine-trial-resumes.html",
+         "urlToImage" : "https://static01.nyt.com/images/2020/09/12/science/12Virus-trials-az/12Virus-trials-az-facebookJumbo.jpg",
          "source" : {
             "name" : "New York Times",
             "id" : null
          },
-         "publishedAt" : "2020-09-12T23:02:00Z",
          "author" : "Carl Zimmer, Katie Thomas, Benjamin Mueller",
          "content" : "Last Sunday, AstraZeneca suspended its trial after a participant in Britain became seriously ill. The company did not announce the decision. On Wednesday, after the news organization Stat reported th… [+1676 chars]",
-         "urlToImage" : "https://static01.nyt.com/images/2020/09/12/science/12Virus-trials-az/12Virus-trials-az-facebookJumbo.jpg"
+         "title" : "AstraZeneca Partly Resumes Coronavirus Vaccine Trial After Halting It for Safety - The New York Times",
+         "description" : "The company said tests of its vaccine would start up again in Britain while remaining suspended in the U.S. and other countries. Pfizer, a competitor, announced an expansion of its trials.",
+         "publishedAt" : "2020-09-12T23:02:00Z"
       },
       {
-         "content" : "Gilead Sciences Inc is nearing a deal to buy biopharmaceutical company Immunomedics Inc for more than $20 billion in a deal that would further expand Gilead's portfolio of cancer treatments, the Wall… [+1144 chars]",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/105733600-1549973302033rts1phdi.jpg?v=1549973374",
-         "author" : "Reuters",
-         "publishedAt" : "2020-09-12T22:22:00Z",
          "url" : "https://www.cnbc.com/2020/09/12/gilead-is-getting-closer-to-a-deal-to-buy-immunomedics-for-more-than-20-billion-.html",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/105733600-1549973302033rts1phdi.jpg?v=1549973374",
          "source" : {
             "name" : "CNBC",
             "id" : null
          },
+         "content" : "Gilead Sciences Inc is nearing a deal to buy biopharmaceutical company Immunomedics Inc for more than $20 billion in a deal that would further expand Gilead's portfolio of cancer treatments, the Wall… [+1144 chars]",
+         "author" : "Reuters",
+         "title" : "Gilead is getting closer to a deal to buy Immunomedics for more than $20 billion - CNBC",
          "description" : "Initial partnership discussions between Gilead Sciences Inc and biopharmaceutical company Immunomedics Inc have shifted to acquisition, which would mean an expansion of Gilead’s portfolio of cancer treatments.",
-         "title" : "Gilead is getting closer to a deal to buy Immunomedics for more than $20 billion - CNBC"
+         "publishedAt" : "2020-09-12T22:22:00Z"
       },
       {
-         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200912155657-louis-vuitton-face-shield-1000-trnd-super-tease.jpg",
-         "content" : "fashionPublished 12th September 2020\r\nWith no end in sight to the coronavirus pandemic, it looks like protective face wear is here to stay.\r\nBut who says it has to be a fashion killer?\r\nLouis Vuitton… [+1555 chars]",
-         "author" : "Alaa Elassar, CNN",
-         "publishedAt" : "2020-09-12T21:22:57Z",
-         "url" : "https://www.cnn.com/style/article/louis-vuitton-face-shield-trnd/index.html",
-         "source" : {
-            "id" : "cnn",
-            "name" : "CNN"
-         },
          "description" : "With no end in sight to the coronavirus pandemic, it looks like protective face wear is here to stay.",
-         "title" : "Louis Vuitton is releasing a face shield with golden studs to protect luxury buyers from coronavirus - CNN"
-      },
-      {
-         "author" : null,
-         "urlToImage" : null,
-         "content" : "To continue, please click the box below to let us know you're not a robot.",
-         "description" : null,
-         "title" : "Musk Says Gates 'Has No Clue' About Powering Electric Trucks - Bloomberg",
-         "url" : "https://www.bloomberg.com/tosv2.html?vid=&uuid=eb9040b0-f55b-11ea-962e-a107d190b74b&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wOS0xMi9tdXNrLXNheXMtZ2F0ZXMtaGFzLW5vLWNsdWUtYWJvdXQtcG93ZXJpbmctZWxlY3RyaWMtdHJ1Y2tz",
-         "source" : {
-            "id" : "bloomberg",
-            "name" : "Bloomberg"
-         },
-         "publishedAt" : "2020-09-12T20:48:00Z"
-      },
-      {
-         "publishedAt" : "2020-09-12T20:43:00Z",
-         "url" : "https://fox8.com/news/ohio-investigative-unit-cites-four-businesses-for-violating-covid-19-health-orders/",
-         "source" : {
-            "id" : null,
-            "name" : "fox8.com"
-         },
-         "description" : "Agents from the Ohio Investigative Unit cited four establishments overnight for violating COVID-19 health orders.",
-         "title" : "Ohio Investigative Unit cites four businesses for violating COVID-19 health orders - WJW FOX 8 News Cleveland",
-         "content" : "*Watch Gov. DeWine discuss the latest coronavirus alert map in the video above.*\r\nCOLUMBUS, Ohio (WJW) — Agents from the Ohio Investigative Unit cited four establishments overnight for violating COVI… [+2604 chars]",
-         "urlToImage" : "https://fox8.com/wp-content/uploads/sites/12/2020/08/GettyImages-901390188-e1597883978551.jpg?w=1280",
-         "author" : "Brittany Rall"
-      },
-      {
-         "title" : "No Peeps for Halloween or Christmas this year due to coronavirus pandemic - Honolulu Star-Bulletin",
-         "description" : "BETHLEHEM, PA. >> Peeps treats are going on hiatus for several months — another consequence of the coronavirus pandemic.",
-         "url" : "https://www.staradvertiser.com/2020/09/12/breaking-news/no-peeps-for-halloween-or-christmas-this-year-due-to-coronavirus-pandemic/",
-         "source" : {
-            "name" : "Honolulu Star-Advertiser",
-            "id" : null
-         },
-         "publishedAt" : "2020-09-12T20:17:40Z",
-         "author" : "Associated Press",
-         "urlToImage" : "https://www.staradvertiser.com/wp-content/uploads/2020/09/web1_10422885-acc38cf2d53d4715bbd76900f384c9a7.jpg",
-         "content" : "BETHLEHEM, PA. &gt;&gt; Peeps treats are going on hiatus for several months — another consequence of the coronavirus pandemic.\r\nJust Born Quality Confections said it won’t be producing the popular ma… [+1005 chars]"
-      },
-      {
-         "content" : "Maybe they should change their slogan to “Fly the Friendly — and very white — Skies.”\r\nUnited Airlines packs its planes with young, white, blond, blue-eyed female crew — all chosen for their “sexual … [+2053 chars]",
-         "urlToImage" : "https://nypost.com/wp-content/uploads/sites/2/2020/09/flight-attendant-2.jpg?quality=90&strip=all&w=1200",
-         "author" : "Laura Italiano",
-         "publishedAt" : "2020-09-12T20:07:00Z",
-         "source" : {
-            "name" : "New York Post",
-            "id" : null
-         },
-         "url" : "https://nypost.com/2020/09/12/united-airlines-uses-young-blond-female-crew-for-sports-teams-suit/",
-         "title" : "United Airlines fills NFL, MLB flights with 'young, white, blond' female crew: suit - New York Post ",
-         "description" : "Maybe they should change their slogan to “Fly the Friendly — and very white — Skies.” United Airlines packs its planes with young, white, blond, blue-eyed female crew &#8212…"
-      },
-      {
-         "urlToImage" : "https://img.ksl.com/slc/2788/278896/27889611.jpeg?filter=ksl/responsive_story_lg",
-         "content" : "SALT LAKE CITY The Utah Department of Health is reporting 572 new confirmed cases of COVID-19 and two deaths from the disease in its daily online update on the virus.\r\nThat brings Utah to 57,247 tota… [+3265 chars]",
-         "author" : "https://www.facebook.com/kslcom/",
-         "source" : {
-            "id" : null,
-            "name" : "KSL.com"
-         },
-         "url" : "https://www.ksl.com/article/50016629/saturday-brings-572-new-covid-19-cases-in-utah-and-2-deaths-health-department-says",
-         "publishedAt" : "2020-09-12T19:13:56Z",
-         "title" : "Saturday brings 572 new COVID-19 cases in Utah and 2 deaths, health department says - KSL.com",
-         "description" : "The Utah Department of Health is reporting 572 new confirmed cases of COVID-19 and two deaths from the disease in its daily online update on the virus."
-      },
-      {
-         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/09/0/0/TI-Rapper-GETTY-1.jpg?ve=1&tl=1",
-         "content" : "Rapper T.I. has been charged by the Securities and Exchange Commission with promoting a fraudulent cryptocurrency offering.\r\nThe regulator said in its complaint that T.I. -- whose real name is Cliffo… [+2088 chars]",
-         "author" : "Julia Musto",
-         "publishedAt" : "2020-09-12T18:33:39Z",
-         "url" : "https://www.foxbusiness.com/markets/rapper-ti-charged-by-sec-over-cryptocurrency-scam",
-         "source" : {
-            "name" : "Fox Business",
-            "id" : null
-         },
-         "description" : "The regulator said in its complaint that T.I. -- whose real name is Clifford Joseph Harris -- sold cryptocurrency tokens using his Twitter account and encouraged his followers to invest in the 2017 FLiK initial coin offering.",
-         "title" : "Rapper T.I. charged by SEC in cryptocurrency scam - Fox Business"
-      },
-      {
-         "title" : "Best moments from CNN and Sesame Street's 'Back to School' coronavirus town hall - CNN",
-         "description" : "CNN partnered with Sesame Street to host a town hall for families about navigating the back-to-school season during a deadly pandemic.",
-         "publishedAt" : "2020-09-12T18:32:00Z",
+         "title" : "Louis Vuitton is releasing a face shield with golden studs to protect luxury buyers from coronavirus - CNN",
+         "publishedAt" : "2020-09-12T21:22:57Z",
+         "author" : "Alaa Elassar, CNN",
          "source" : {
             "name" : "CNN",
             "id" : "cnn"
          },
-         "url" : "https://www.cnn.com/2020/09/12/us/sesame-street-cnn-town-hall-coronavirus-parents-trnd/index.html",
-         "author" : "Alaa Elassar, CNN",
-         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200912100407-01-sesame-street-back-to-school-0912-super-tease.jpg",
-         "content" : "By Alaa Elassar, CNN\r\nUpdated 2:32 PM ET, Sat September 12, 2020\r\nChat with us in Facebook Messenger. Find out what's happening in the world as it unfolds.\r\n(CNN)CNN partnered with Sesame Street to h… [+6781 chars]"
+         "content" : "fashionPublished 12th September 2020\r\nWith no end in sight to the coronavirus pandemic, it looks like protective face wear is here to stay.\r\nBut who says it has to be a fashion killer?\r\nLouis Vuitton… [+1555 chars]",
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200912155657-louis-vuitton-face-shield-1000-trnd-super-tease.jpg",
+         "url" : "https://www.cnn.com/style/article/louis-vuitton-face-shield-trnd/index.html"
       },
       {
-         "content" : null,
-         "urlToImage" : "https://www.nydailynews.com/resizer/VlrzHuvdzIhaZj4uaxPztijUjjw=/1200x0/center/bottom/cloudfront-us-east-1.images.arcpublishing.com/tronc/KEXBHWUR7JG53PDL5RASAAZJTU.JPG",
-         "author" : "Larry McShane",
-         "publishedAt" : "2020-09-12T18:07:00Z",
-         "url" : "https://www.nydailynews.com/new-york/ny-biggest-container-ship-arriving-new-jersey-port-20200912-pt4yf43ygnfl5kvgum5wrno3oa-story.html",
+         "content" : "To continue, please click the box below to let us know you're not a robot.",
+         "author" : null,
+         "source" : {
+            "id" : "bloomberg",
+            "name" : "Bloomberg"
+         },
+         "publishedAt" : "2020-09-12T20:48:00Z",
+         "description" : null,
+         "title" : "Musk Says Gates 'Has No Clue' About Powering Electric Trucks - Bloomberg",
+         "url" : "https://www.bloomberg.com/tosv2.html?vid=&uuid=eb9040b0-f55b-11ea-962e-a107d190b74b&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wOS0xMi9tdXNrLXNheXMtZ2F0ZXMtaGFzLW5vLWNsdWUtYWJvdXQtcG93ZXJpbmctZWxlY3RyaWMtdHJ1Y2tz",
+         "urlToImage" : null
+      },
+      {
+         "url" : "https://fox8.com/news/ohio-investigative-unit-cites-four-businesses-for-violating-covid-19-health-orders/",
+         "urlToImage" : "https://fox8.com/wp-content/uploads/sites/12/2020/08/GettyImages-901390188-e1597883978551.jpg?w=1280",
+         "source" : {
+            "name" : "fox8.com",
+            "id" : null
+         },
+         "author" : "Brittany Rall",
+         "content" : "*Watch Gov. DeWine discuss the latest coronavirus alert map in the video above.*\r\nCOLUMBUS, Ohio (WJW) — Agents from the Ohio Investigative Unit cited four establishments overnight for violating COVI… [+2604 chars]",
+         "description" : "Agents from the Ohio Investigative Unit cited four establishments overnight for violating COVID-19 health orders.",
+         "title" : "Ohio Investigative Unit cites four businesses for violating COVID-19 health orders - WJW FOX 8 News Cleveland",
+         "publishedAt" : "2020-09-12T20:43:00Z"
+      },
+      {
+         "url" : "https://www.staradvertiser.com/2020/09/12/breaking-news/no-peeps-for-halloween-or-christmas-this-year-due-to-coronavirus-pandemic/",
+         "urlToImage" : "https://www.staradvertiser.com/wp-content/uploads/2020/09/web1_10422885-acc38cf2d53d4715bbd76900f384c9a7.jpg",
+         "author" : "Associated Press",
+         "source" : {
+            "name" : "Honolulu Star-Advertiser",
+            "id" : null
+         },
+         "content" : "BETHLEHEM, PA. &gt;&gt; Peeps treats are going on hiatus for several months — another consequence of the coronavirus pandemic.\r\nJust Born Quality Confections said it won’t be producing the popular ma… [+1005 chars]",
+         "title" : "No Peeps for Halloween or Christmas this year due to coronavirus pandemic - Honolulu Star-Bulletin",
+         "description" : "BETHLEHEM, PA. >> Peeps treats are going on hiatus for several months — another consequence of the coronavirus pandemic.",
+         "publishedAt" : "2020-09-12T20:17:40Z"
+      },
+      {
+         "author" : "Laura Italiano",
+         "source" : {
+            "name" : "New York Post",
+            "id" : null
+         },
+         "content" : "Maybe they should change their slogan to “Fly the Friendly — and very white — Skies.”\r\nUnited Airlines packs its planes with young, white, blond, blue-eyed female crew — all chosen for their “sexual … [+2053 chars]",
+         "description" : "Maybe they should change their slogan to “Fly the Friendly — and very white — Skies.” United Airlines packs its planes with young, white, blond, blue-eyed female crew &#8212…",
+         "title" : "United Airlines fills NFL, MLB flights with 'young, white, blond' female crew: suit - New York Post ",
+         "publishedAt" : "2020-09-12T20:07:00Z",
+         "url" : "https://nypost.com/2020/09/12/united-airlines-uses-young-blond-female-crew-for-sports-teams-suit/",
+         "urlToImage" : "https://nypost.com/wp-content/uploads/sites/2/2020/09/flight-attendant-2.jpg?quality=90&strip=all&w=1200"
+      },
+      {
+         "publishedAt" : "2020-09-12T19:13:56Z",
+         "description" : "The Utah Department of Health is reporting 572 new confirmed cases of COVID-19 and two deaths from the disease in its daily online update on the virus.",
+         "title" : "Saturday brings 572 new COVID-19 cases in Utah and 2 deaths, health department says - KSL.com",
+         "source" : {
+            "name" : "KSL.com",
+            "id" : null
+         },
+         "content" : "SALT LAKE CITY The Utah Department of Health is reporting 572 new confirmed cases of COVID-19 and two deaths from the disease in its daily online update on the virus.\r\nThat brings Utah to 57,247 tota… [+3265 chars]",
+         "author" : "https://www.facebook.com/kslcom/",
+         "urlToImage" : "https://img.ksl.com/slc/2788/278896/27889611.jpeg?filter=ksl/responsive_story_lg",
+         "url" : "https://www.ksl.com/article/50016629/saturday-brings-572-new-covid-19-cases-in-utah-and-2-deaths-health-department-says"
+      },
+      {
+         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/09/0/0/TI-Rapper-GETTY-1.jpg?ve=1&tl=1",
+         "url" : "https://www.foxbusiness.com/markets/rapper-ti-charged-by-sec-over-cryptocurrency-scam",
+         "title" : "Rapper T.I. charged by SEC in cryptocurrency scam - Fox Business",
+         "description" : "The regulator said in its complaint that T.I. -- whose real name is Clifford Joseph Harris -- sold cryptocurrency tokens using his Twitter account and encouraged his followers to invest in the 2017 FLiK initial coin offering.",
+         "publishedAt" : "2020-09-12T18:33:39Z",
          "source" : {
             "id" : null,
-            "name" : "New York Daily News"
+            "name" : "Fox Business"
          },
-         "title" : "1,200-foot cargo ship arriving in NJ port is largest ever - New York Daily News",
-         "description" : "The 1,200-foot CMA CGM Brazil, the largest container ship to ever dock at an East Coast port, was headed Saturday to the Elizabeth-Port Authority Marine Terminal, the Port Authority of New York and New Jersey announced."
+         "author" : "Julia Musto",
+         "content" : "Rapper T.I. has been charged by the Securities and Exchange Commission with promoting a fraudulent cryptocurrency offering.\r\nThe regulator said in its complaint that T.I. -- whose real name is Cliffo… [+2088 chars]"
       },
       {
-         "author" : "Christy Bieber",
-         "content" : "Most Americans don't have enough money saved for retirement. While you may assume this is a problem plaguing only the middle class and low-wage workers, a report from the New School indicates this is… [+3482 chars]",
-         "urlToImage" : "https://g.foolcdn.com/editorial/images/590042/money-flying-out-of-wallet.jpg",
-         "title" : "A Shocking Number of High Earners Have No Retirement Savings - The Motley Fool",
-         "description" : "Americans at all income levels may need to save more.",
+         "url" : "https://www.cnn.com/2020/09/12/us/sesame-street-cnn-town-hall-coronavirus-parents-trnd/index.html",
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200912100407-01-sesame-street-back-to-school-0912-super-tease.jpg",
+         "content" : "By Alaa Elassar, CNN\r\nUpdated 2:32 PM ET, Sat September 12, 2020\r\nChat with us in Facebook Messenger. Find out what's happening in the world as it unfolds.\r\n(CNN)CNN partnered with Sesame Street to h… [+6781 chars]",
+         "author" : "Alaa Elassar, CNN",
+         "source" : {
+            "id" : "cnn",
+            "name" : "CNN"
+         },
+         "title" : "Best moments from CNN and Sesame Street's 'Back to School' coronavirus town hall - CNN",
+         "description" : "CNN partnered with Sesame Street to host a town hall for families about navigating the back-to-school season during a deadly pandemic.",
+         "publishedAt" : "2020-09-12T18:32:00Z"
+      },
+      {
+         "url" : "https://www.nydailynews.com/new-york/ny-biggest-container-ship-arriving-new-jersey-port-20200912-pt4yf43ygnfl5kvgum5wrno3oa-story.html",
+         "urlToImage" : "https://www.nydailynews.com/resizer/VlrzHuvdzIhaZj4uaxPztijUjjw=/1200x0/center/bottom/cloudfront-us-east-1.images.arcpublishing.com/tronc/KEXBHWUR7JG53PDL5RASAAZJTU.JPG",
+         "content" : null,
+         "source" : {
+            "name" : "New York Daily News",
+            "id" : null
+         },
+         "author" : "Larry McShane",
+         "description" : "The 1,200-foot CMA CGM Brazil, the largest container ship to ever dock at an East Coast port, was headed Saturday to the Elizabeth-Port Authority Marine Terminal, the Port Authority of New York and New Jersey announced.",
+         "title" : "1,200-foot cargo ship arriving in NJ port is largest ever - New York Daily News",
+         "publishedAt" : "2020-09-12T18:07:00Z"
+      },
+      {
          "source" : {
             "name" : "Motley Fool",
             "id" : null
          },
+         "content" : "Most Americans don't have enough money saved for retirement. While you may assume this is a problem plaguing only the middle class and low-wage workers, a report from the New School indicates this is… [+3482 chars]",
+         "author" : "Christy Bieber",
+         "publishedAt" : "2020-09-12T17:46:00Z",
+         "title" : "A Shocking Number of High Earners Have No Retirement Savings - The Motley Fool",
+         "description" : "Americans at all income levels may need to save more.",
          "url" : "https://www.fool.com/retirement/2020/09/12/a-shocking-number-of-high-earners-have-no-retireme/",
-         "publishedAt" : "2020-09-12T17:46:00Z"
+         "urlToImage" : "https://g.foolcdn.com/editorial/images/590042/money-flying-out-of-wallet.jpg"
       },
       {
-         "publishedAt" : "2020-09-12T17:38:00Z",
+         "urlToImage" : "https://s.marketwatch.com/public/resources/images/MW-IO364_econom_ZG_20200911141117.jpg",
          "url" : "https://www.marketwatch.com/story/the-numbers-tell-us-the-economy-is-better-but-millions-of-americans-arent-feeling-it-2020-09-12",
+         "publishedAt" : "2020-09-12T17:38:00Z",
+         "title" : "The numbers tell us the economy is better, but millions of Americans aren't feeling it - msnNOW",
+         "description" : "U.S. economic recovery is widening the gulf among Americans",
+         "author" : "Jeffry Bartash",
          "source" : {
             "name" : "MarketWatch",
             "id" : null
          },
-         "description" : "U.S. economic recovery is widening the gulf among Americans",
-         "title" : "The numbers tell us the economy is better, but millions of Americans aren't feeling it - msnNOW",
-         "content" : "The U.S. economy has kept growing despite a summer spike in coronavirus cases and the end of massive federal aid, but millions of Americans are either being left out or in are danger of being left be… [+4481 chars]",
-         "urlToImage" : "https://s.marketwatch.com/public/resources/images/MW-IO364_econom_ZG_20200911141117.jpg",
-         "author" : "Jeffry Bartash"
+         "content" : "The U.S. economy has kept growing despite a summer spike in coronavirus cases and the end of massive federal aid, but millions of Americans are either being left out or in are danger of being left be… [+4481 chars]"
       },
       {
+         "urlToImage" : "https://cms.prod.nypr.digital/images/311484/fill-1200x650/",
+         "url" : "http://gothamist.com/news/more-smashed-windows-found-7-line-subway-car-queens",
+         "publishedAt" : "2020-09-12T17:34:00Z",
          "description" : "The MTA said there have been more than 500 subway windows broken since May.",
          "title" : "More Smashed Windows Found On 7 Line Subway Car In Queens - Gothamist",
+         "content" : "Another 7 line subway car was found with 18 smashed windows in Queens Friday night, the latest in a summer-long streak of vandalism that has cost the MTA hundreds of thousands of dollars to repair.\r\n… [+1937 chars]",
          "source" : {
             "name" : "Gothamist",
             "id" : null
          },
-         "url" : "http://gothamist.com/news/more-smashed-windows-found-7-line-subway-car-queens",
-         "publishedAt" : "2020-09-12T17:34:00Z",
-         "author" : "Sophia Chang",
-         "urlToImage" : "https://cms.prod.nypr.digital/images/311484/fill-1200x650/",
-         "content" : "Another 7 line subway car was found with 18 smashed windows in Queens Friday night, the latest in a summer-long streak of vandalism that has cost the MTA hundreds of thousands of dollars to repair.\r\n… [+1937 chars]"
+         "author" : "Sophia Chang"
       },
       {
          "url" : "https://kvia.com/news/business-technology/2020/09/12/cant-wait-for-amazons-el-paso-hub-to-open-its-now-hiring-for-33000-jobs-that-can-begin-as-work-from-home/",
+         "urlToImage" : "https://kvia.b-cdn.net/2020/04/200330220106-04-amazon-staten-island-live-video-13.jpg",
+         "author" : "KVIA ABC-7",
          "source" : {
             "id" : null,
             "name" : "KVIA El Paso"
          },
-         "publishedAt" : "2020-09-12T17:26:29Z",
-         "description" : "EL PASO, Texas -- Amazon recently announced plans to open a \"massive\" distribution center next year in El Paso that is expected to employ about 750 people with pay rates starting at $15 an hour. But if you're in need of a job now, the online retail giant said…",
-         "title" : "Can't wait for Amazon's El Paso hub to open? It's now hiring for 33,000 jobs nationwide that can begin as work from home - KVIA El Paso",
-         "urlToImage" : "https://kvia.b-cdn.net/2020/04/200330220106-04-amazon-staten-island-live-video-13.jpg",
          "content" : "EL PASO, Texas -- Amazon recently announced plans to open a \"massive\" distribution center next year in El Paso that is expected to employ about 750 people with pay rates starting at $15 an hour.\r\nBut… [+981 chars]",
-         "author" : "KVIA ABC-7"
+         "publishedAt" : "2020-09-12T17:26:29Z",
+         "title" : "Can't wait for Amazon's El Paso hub to open? It's now hiring for 33,000 jobs nationwide that can begin as work from home - KVIA El Paso",
+         "description" : "EL PASO, Texas -- Amazon recently announced plans to open a \"massive\" distribution center next year in El Paso that is expected to employ about 750 people with pay rates starting at $15 an hour. But if you're in need of a job now, the online retail giant said…"
       },
       {
+         "url" : "https://www.wsj.com/articles/softbank-nearing-deal-to-sell-arm-holdings-to-nvidia-for-more-than-40-billion-11599928360",
+         "urlToImage" : "https://images.wsj.net/im-231473/social",
          "source" : {
             "id" : "the-wall-street-journal",
             "name" : "The Wall Street Journal"
          },
-         "url" : "https://www.wsj.com/articles/softbank-nearing-deal-to-sell-arm-holdings-to-nvidia-for-more-than-40-billion-11599928360",
-         "publishedAt" : "2020-09-12T17:18:00Z",
-         "description" : "Union of Arm, Nvidia would create a powerhouse in the chip industry",
-         "title" : "SoftBank Nears $40 Billion Deal to Sell Arm Holdings to Nvidia - The Wall Street Journal",
+         "author" : "Cara Lombardo, Maureen Farrell",
          "content" : "SoftBank Group Corp. is nearing a deal to sell British chip designer Arm Holdings to Nvidia Corp. for more than $40 billion, according to people familiar with the matter, the latest in a series of bi… [+323 chars]",
-         "urlToImage" : "https://images.wsj.net/im-231473/social",
-         "author" : "Cara Lombardo, Maureen Farrell"
+         "publishedAt" : "2020-09-12T17:18:00Z",
+         "title" : "SoftBank Nears $40 Billion Deal to Sell Arm Holdings to Nvidia - The Wall Street Journal",
+         "description" : "Union of Arm, Nvidia would create a powerhouse in the chip industry"
       },
       {
          "url" : "https://www.reuters.com/article/us-storm-sally-energy-idUSKBN2630UW",
-         "source" : {
-            "name" : "Reuters",
-            "id" : "reuters"
-         },
-         "publishedAt" : "2020-09-12T17:04:00Z",
-         "title" : "Oil producers evacuate U.S. Gulf of Mexico platforms as storm brews - Reuters",
-         "description" : "U.S. Gulf of Mexico oil producers on Saturday evacuated offshore facilities as a tropical storm brewing off the Florida coast was forecast to strengthen into a hurricane and threaten the prime oil region.",
-         "content" : "By Reuters Staff\r\nFILE PHOTO: Buildings damaged by Hurricane Laura are seen in an aerial photograph in Lake Charles, Louisiana, U.S., August 30, 2020. REUTERS/Drone Base\r\nHOUSTON (Reuters) - U.S. Gul… [+1713 chars]",
          "urlToImage" : "https://static.reuters.com/resources/r/?m=02&d=20200912&t=2&i=1533180029&r=LYNXMPEG8B0NP&w=800",
-         "author" : "Reuters Staff"
+         "author" : "Reuters Staff",
+         "source" : {
+            "id" : "reuters",
+            "name" : "Reuters"
+         },
+         "content" : "By Reuters Staff\r\nFILE PHOTO: Buildings damaged by Hurricane Laura are seen in an aerial photograph in Lake Charles, Louisiana, U.S., August 30, 2020. REUTERS/Drone Base\r\nHOUSTON (Reuters) - U.S. Gul… [+1713 chars]",
+         "publishedAt" : "2020-09-12T17:04:00Z",
+         "description" : "U.S. Gulf of Mexico oil producers on Saturday evacuated offshore facilities as a tropical storm brewing off the Florida coast was forecast to strengthen into a hurricane and threaten the prime oil region.",
+         "title" : "Oil producers evacuate U.S. Gulf of Mexico platforms as storm brews - Reuters"
       },
       {
-         "content" : null,
-         "urlToImage" : "https://www.mcall.com/resizer/DBEkSuQtUmNXz4D6ruwBgJKu_50=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/DQWQ5CKZHVDRFHNZC7CQNF54Q4.jpg",
-         "author" : "Anthony Salamone",
          "url" : "https://www.mcall.com/coronavirus/mc-nws-pa-coronavirus-saturday-count-20200912-cn772phygbhy7mzwaijif37vnu-story.html",
+         "urlToImage" : "https://www.mcall.com/resizer/DBEkSuQtUmNXz4D6ruwBgJKu_50=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/DQWQ5CKZHVDRFHNZC7CQNF54Q4.jpg",
          "source" : {
-            "name" : "Morning Call",
-            "id" : null
+            "id" : null,
+            "name" : "Morning Call"
          },
+         "content" : null,
+         "author" : "Anthony Salamone",
          "publishedAt" : "2020-09-12T16:25:07Z",
          "title" : "Pennsylvania coronavirus update: 920 new cases with York County adding more than 1 in 10 - Morning Call",
          "description" : "Pennsylvania added 920 coronavirus cases on Saturday, bringing the case count to 143,805, including an alarming 129 new cases in York County."
       },
       {
          "publishedAt" : "2020-09-12T16:16:00Z",
+         "title" : "Market Rally Livin' On The Edge; Take These 3 Steps Now - Investor's Business Daily",
+         "description" : "Dow Jones futures: The stock market rally is under growing pressure after further violent selling. It's time to be defensive and prepare for a correction.",
+         "content" : "Dow Jones futures will resume trading Sunday evening, along with S&amp;P 500 futures and Nasdaq futures. The stock market rally is still in force, but it's livin' on the edge following a second week … [+7735 chars]",
+         "author" : "Investor's Business Daily",
          "source" : {
             "name" : "Investor's Business Daily",
             "id" : null
          },
-         "url" : "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-stock-market-rally-livin-on-edge-take-these-steps/",
-         "description" : "Dow Jones futures: The stock market rally is under growing pressure after further violent selling. It's time to be defensive and prepare for a correction.",
-         "title" : "Market Rally Livin' On The Edge; Take These 3 Steps Now - Investor's Business Daily",
-         "content" : "Dow Jones futures will resume trading Sunday evening, along with S&amp;P 500 futures and Nasdaq futures. The stock market rally is still in force, but it's livin' on the edge following a second week … [+7735 chars]",
          "urlToImage" : "https://www.investors.com/wp-content/uploads/2018/05/Stock-sharkTightrope-01-adobe.jpg",
-         "author" : "Investor's Business Daily"
+         "url" : "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-stock-market-rally-livin-on-edge-take-these-steps/"
       }
    ],
-   "totalResults" : 70,
-   "status" : "ok"
+   "status" : "ok",
+   "totalResults" : 70
 }
