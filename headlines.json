@@ -1,266 +1,266 @@
 {
+   "status" : "ok",
+   "totalResults" : 70,
    "articles" : [
       {
-         "publishedAt" : "2020-09-13T19:38:00Z",
-         "content" : "Gilead Sciences will acquire biotech company Immunomedics in a $21 billion deal that will expand Gilead's availability of cancer treatments, the companies announced on Sunday. \r\nThe deal will provide… [+1992 chars]",
-         "url" : "https://www.cnbc.com/2020/09/13/gilead-to-buy-cancer-drugmaker-immunomedics-in-21-billion-deal.html",
+         "description" : "The deal will provide Gilead access to Immunomedics' cancer treatment drug called Trodelvy, an FDA-approved treatment for metastatic triple-negative breast cancer.",
          "title" : "Gilead to buy cancer drugmaker Immunomedics in $21 billion deal - CNBC",
          "source" : {
-            "id" : null,
-            "name" : "CNBC"
+            "name" : "CNBC",
+            "id" : null
          },
          "author" : "Emma Newburger",
-         "description" : "The deal will provide Gilead access to Immunomedics' cancer treatment drug called Trodelvy, an FDA-approved treatment for metastatic triple-negative breast cancer.",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/102397115-1588365097899aabbcc.jpg?v=1591034247"
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/102397115-1588365097899aabbcc.jpg?v=1591034247",
+         "publishedAt" : "2020-09-13T19:38:00Z",
+         "content" : "Gilead Sciences will acquire biotech company Immunomedics in a $21 billion deal that will expand Gilead's availability of cancer treatments, the companies announced on Sunday. \r\nThe deal will provide… [+1992 chars]",
+         "url" : "https://www.cnbc.com/2020/09/13/gilead-to-buy-cancer-drugmaker-immunomedics-in-21-billion-deal.html"
       },
       {
-         "url" : "https://www.cnn.com/2020/09/13/business/no-peeps-this-year-production-pause-trnd/index.html",
          "content" : null,
+         "url" : "https://www.cnn.com/2020/09/13/business/no-peeps-this-year-production-pause-trnd/index.html",
          "publishedAt" : "2020-09-13T19:35:00Z",
-         "title" : "More pandemic fallout: No Peeps for Halloween and Christmas - CNN",
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200401135136-peeps-candy-super-tease.jpg",
          "source" : {
-            "id" : "cnn",
-            "name" : "CNN"
+            "name" : "CNN",
+            "id" : "cnn"
          },
          "author" : "Alaa Elassar, CNN",
-         "description" : "This year has given us yet another trick and one less treat.",
-         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200401135136-peeps-candy-super-tease.jpg"
+         "title" : "More pandemic fallout: No Peeps for Halloween and Christmas - CNN",
+         "description" : "This year has given us yet another trick and one less treat."
       },
       {
          "urlToImage" : "https://static01.nyt.com/images/2020/09/11/science/00VIRUS-TRANSPARENCY1/00VIRUS-TRANSPARENCY1-facebookJumbo.jpg",
-         "description" : "Researchers say drug companies need to be more open about how vaccine trials are run to reassure Americans who are skittish about getting a coronavirus vaccine.",
-         "source" : {
-            "name" : "New York Times",
-            "id" : null
-         },
-         "author" : "Katie Thomas",
-         "url" : "https://www.nytimes.com/2020/09/13/science/coronavirus-vaccine-trials.html",
          "publishedAt" : "2020-09-13T19:25:00Z",
          "content" : "A federal clinical trial registry details the number of trial participants, who should be included and excluded from the study, and the main outcomes. But it only skims the surface, Dr. Krumholz said… [+1440 chars]",
-         "title" : "Vaccine Makers Keep Safety Details Quiet, Alarming Scientists - The New York Times"
-      },
-      {
-         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200912113756-01-jcpenney-orlando-aug2020-super-tease.jpg",
-         "description" : "The problems at JCPenney started long before the Covid-19 pandemic. A plan to get the company out of bankruptcy won't end them.",
-         "source" : {
-            "id" : "cnn",
-            "name" : "CNN"
-         },
-         "author" : "Chris Isidore, CNN Business",
-         "url" : "https://www.cnn.com/2020/09/13/business/jcpenney-survival-outlook/index.html",
-         "content" : null,
-         "publishedAt" : "2020-09-13T19:11:00Z",
-         "title" : "JCPenney could be doomed, even as malls race to save it - CNN"
-      },
-      {
+         "url" : "https://www.nytimes.com/2020/09/13/science/coronavirus-vaccine-trials.html",
+         "title" : "Vaccine Makers Keep Safety Details Quiet, Alarming Scientists - The New York Times",
+         "author" : "Katie Thomas",
          "source" : {
             "id" : null,
-            "name" : "KSL.com"
+            "name" : "New York Times"
+         },
+         "description" : "Researchers say drug companies need to be more open about how vaccine trials are run to reassure Americans who are skittish about getting a coronavirus vaccine."
+      },
+      {
+         "url" : "https://www.cnn.com/2020/09/13/business/jcpenney-survival-outlook/index.html",
+         "content" : null,
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200912113756-01-jcpenney-orlando-aug2020-super-tease.jpg",
+         "publishedAt" : "2020-09-13T19:11:00Z",
+         "description" : "The problems at JCPenney started long before the Covid-19 pandemic. A plan to get the company out of bankruptcy won't end them.",
+         "title" : "JCPenney could be doomed, even as malls race to save it - CNN",
+         "source" : {
+            "name" : "CNN",
+            "id" : "cnn"
+         },
+         "author" : "Chris Isidore, CNN Business"
+      },
+      {
+         "publishedAt" : "2020-09-13T19:09:22Z",
+         "urlToImage" : "https://img.ksl.com/slc/2792/279296/27929678.jpeg?filter=ksl/responsive_story_lg",
+         "content" : "SALT LAKE CITY A total of 628 new COVID-19 cases were reported Sunday with no new deaths, the Utah Department of Health reported.\r\nThe numbers bring the Beehive State to 57,875 total cases and 433 de… [+2542 chars]",
+         "url" : "https://www.ksl.com/article/50016820/utah-sees-628-new-covid-19-cases-no-new-deaths-sunday",
+         "source" : {
+            "name" : "KSL.com",
+            "id" : null
          },
          "author" : "https://www.facebook.com/kslcom/",
-         "content" : "SALT LAKE CITY A total of 628 new COVID-19 cases were reported Sunday with no new deaths, the Utah Department of Health reported.\r\nThe numbers bring the Beehive State to 57,875 total cases and 433 de… [+2542 chars]",
-         "publishedAt" : "2020-09-13T19:09:22Z",
-         "url" : "https://www.ksl.com/article/50016820/utah-sees-628-new-covid-19-cases-no-new-deaths-sunday",
          "title" : "Utah sees 628 new COVID-19 cases, no new deaths Sunday - KSL.com",
-         "urlToImage" : "https://img.ksl.com/slc/2792/279296/27929678.jpeg?filter=ksl/responsive_story_lg",
          "description" : "A total of 628 new COVID-19 cases were reported Sunday with no new deaths, the Utah Department of Health reported."
       },
       {
+         "title" : "I Never Buy a Stock at IPO, But Snowflake Might Be an Exception - Motley Fool",
+         "author" : "Danny Vena",
          "source" : {
             "id" : null,
             "name" : "Motley Fool"
          },
-         "author" : "Danny Vena",
-         "url" : "https://www.fool.com/investing/2020/09/13/i-never-buy-a-stock-at-ipo-but-snowflake-might-be/",
-         "content" : "There's a certain allure of finding the next big thing, getting in on the ground floor, and riding it to untold riches. And there are certainly those investors who feel that the best way to make this… [+5319 chars]",
-         "publishedAt" : "2020-09-13T19:00:00Z",
-         "title" : "I Never Buy a Stock at IPO, But Snowflake Might Be an Exception - Motley Fool",
+         "description" : "Interest in this upcoming IPO is red-hot. Here's why I might break my own rule.",
          "urlToImage" : "https://g.foolcdn.com/editorial/images/591307/falling-snowflakes-against-a-dark-backdrop.jpg",
-         "description" : "Interest in this upcoming IPO is red-hot. Here's why I might break my own rule."
+         "publishedAt" : "2020-09-13T19:00:00Z",
+         "content" : "There's a certain allure of finding the next big thing, getting in on the ground floor, and riding it to untold riches. And there are certainly those investors who feel that the best way to make this… [+5319 chars]",
+         "url" : "https://www.fool.com/investing/2020/09/13/i-never-buy-a-stock-at-ipo-but-snowflake-might-be/"
       },
       {
          "description" : "A Detroit flight to Los Angeles returned to the gate Saturday night after a passenger refused to comply with the airline's facemask requirement.",
-         "urlToImage" : "https://www.gannett-cdn.com/presto/2018/09/26/PDTF/6da52fed-34c2-4136-b4c1-4f0bb555852e-delta_092618_kpm_113A.JPG?crop=2031,1143,x1,y457&width=1600&height=800&fit=bounds",
-         "publishedAt" : "2020-09-13T18:42:48Z",
-         "url" : "https://www.freep.com/story/news/local/michigan/2020/09/13/metro-airport-lax-delta-flight-delayed-passenger-refuses-mask/5786110002/",
-         "content" : "A Metro Airport flight to Los Angeles returned to the gate Saturday night after a passenger refused to comply with Delta Air Lines's facemask requirement, according to the company.\r\nWe apologize to c… [+1894 chars]",
-         "title" : "Metro Airport Delta flight to LAX delayed after passenger refuses to wear mask - Detroit Free Press",
          "source" : {
-            "name" : "Detroit Free Press",
-            "id" : null
+            "id" : null,
+            "name" : "Detroit Free Press"
          },
-         "author" : "Miriam Marini"
+         "author" : "Miriam Marini",
+         "title" : "Metro Airport Delta flight to LAX delayed after passenger refuses to wear mask - Detroit Free Press",
+         "publishedAt" : "2020-09-13T18:42:48Z",
+         "urlToImage" : "https://www.gannett-cdn.com/presto/2018/09/26/PDTF/6da52fed-34c2-4136-b4c1-4f0bb555852e-delta_092618_kpm_113A.JPG?crop=2031,1143,x1,y457&width=1600&height=800&fit=bounds",
+         "url" : "https://www.freep.com/story/news/local/michigan/2020/09/13/metro-airport-lax-delta-flight-delayed-passenger-refuses-mask/5786110002/",
+         "content" : "A Metro Airport flight to Los Angeles returned to the gate Saturday night after a passenger refused to comply with Delta Air Lines's facemask requirement, according to the company.\r\nWe apologize to c… [+1894 chars]"
       },
       {
+         "description" : "A lawsuit against United Airlines alleges the company only allowed young, blonde crews to work ch...",
          "author" : "Zack Budryk",
          "source" : {
             "name" : "The Hill",
             "id" : "the-hill"
          },
          "title" : "United blocks older crews from sports teams' charter flights, lawsuit claims | TheHill - The Hill",
-         "url" : "https://thehill.com/regulation/court-battles/516209-united-blocks-older-crews-from-nfl-teams-charter-flights-lawsuit",
          "publishedAt" : "2020-09-13T18:18:17Z",
-         "content" : "A lawsuit against United Airlines alleges the company only allowed young, blonde crews to work charter flights for sports teams.\r\nThe practice discriminates against some workers and benefits others b… [+1739 chars]",
          "urlToImage" : "https://thehill.com/sites/default/files/unitedairlines_012119getty.jpg",
-         "description" : "A lawsuit against United Airlines alleges the company only allowed young, blonde crews to work ch..."
+         "url" : "https://thehill.com/regulation/court-battles/516209-united-blocks-older-crews-from-nfl-teams-charter-flights-lawsuit",
+         "content" : "A lawsuit against United Airlines alleges the company only allowed young, blonde crews to work charter flights for sports teams.\r\nThe practice discriminates against some workers and benefits others b… [+1739 chars]"
       },
       {
-         "title" : "All BART stations 'closed until further notice' due to systemwide computer problem - SFGate",
+         "publishedAt" : "2020-09-13T18:13:00Z",
+         "urlToImage" : "https://s.hdnux.com/photos/01/12/47/12/19559082/3/rawImage.jpg",
          "content" : "FILE - A train at the downtown Berkeley BART station. All stations were closed Sunday morning due to a systemwide computer issue.\r\nFILE - A train at the downtown Berkeley BART station. All stations..… [+1902 chars]",
          "url" : "https://www.sfgate.com/public-transportation/article/All-BART-stations-closed-until-further-notice-15563510.php",
-         "publishedAt" : "2020-09-13T18:13:00Z",
-         "author" : "Amanda Bartlett",
          "source" : {
-            "name" : "SFGate",
-            "id" : null
+            "id" : null,
+            "name" : "SFGate"
          },
-         "description" : "BART commuters will need to seek an alternative method of transportation today. \n All trains were delayed by a systemwide computer issue early Sunday morning, failing to operate before stations opened at 8 a.m., according to a statement shared by the agency o…",
-         "urlToImage" : "https://s.hdnux.com/photos/01/12/47/12/19559082/3/rawImage.jpg"
+         "author" : "Amanda Bartlett",
+         "title" : "All BART stations 'closed until further notice' due to systemwide computer problem - SFGate",
+         "description" : "BART commuters will need to seek an alternative method of transportation today. \n All trains were delayed by a systemwide computer issue early Sunday morning, failing to operate before stations opened at 8 a.m., according to a statement shared by the agency o…"
       },
       {
+         "content" : "Pfizer CEO Albert Bourla said on Sunday that it is a “likely scenario” that the company’s coronavirus vaccine could be distributed to Americans before the new year if it’s proven by federal regulator… [+3321 chars]",
+         "url" : "https://www.foxbusiness.com/healthcare/pfizer-ceo-coronavirus-vaccine-new-year",
          "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/09/0/0/06b65644-GettyImages-Albert-Bourla.jpg?ve=1&tl=1",
+         "publishedAt" : "2020-09-13T18:05:55Z",
          "description" : "While Bourla acknowledged the possibility Pfizer's vaccine candidate could fail, he argued that he doesn't believe any potential financial hit will \"break the company\" despite investing at least $1.5 billion in the effort.",
+         "title" : "Pfizer CEO says coronavirus vaccine could be distributed to Americans before year's end - Fox Business",
          "author" : "Lucas Manfredi",
          "source" : {
-            "name" : "Fox Business",
-            "id" : null
-         },
-         "title" : "Pfizer CEO says coronavirus vaccine could be distributed to Americans before year's end - Fox Business",
-         "publishedAt" : "2020-09-13T18:05:55Z",
-         "url" : "https://www.foxbusiness.com/healthcare/pfizer-ceo-coronavirus-vaccine-new-year",
-         "content" : "Pfizer CEO Albert Bourla said on Sunday that it is a “likely scenario” that the company’s coronavirus vaccine could be distributed to Americans before the new year if it’s proven by federal regulator… [+3321 chars]"
+            "id" : null,
+            "name" : "Fox Business"
+         }
       },
       {
          "title" : "Tesla Supercharger gets exploited by other EV drivers - Teslarati",
-         "content" : "Tesla Superchargers were used to charge non-Tesla vehicles in Europe in a loophole used by European EV owners. The charging was used on a variety of European electric cars at Tesla V3 Superchargers, … [+2282 chars]",
-         "url" : "https://www.teslarati.com/tesla-supercharger-exploited-other-evs/",
-         "publishedAt" : "2020-09-13T16:57:05Z",
          "author" : "Joey Klender",
          "source" : {
             "id" : null,
             "name" : "Teslarati"
          },
          "description" : "Tesla Superchargers were used to charge non-Tesla vehicles in Europe in a loophole used by European EV owners. The charging was used on a variety of European electric cars at Tesla V3 Superchargers, which use the standard CCS connection. The electric cars wer…",
-         "urlToImage" : "https://www.teslarati.com/wp-content/uploads/2020/09/tesla-supercharger-other-manufacturer-charging-1024x573.jpg"
+         "urlToImage" : "https://www.teslarati.com/wp-content/uploads/2020/09/tesla-supercharger-other-manufacturer-charging-1024x573.jpg",
+         "publishedAt" : "2020-09-13T16:57:05Z",
+         "url" : "https://www.teslarati.com/tesla-supercharger-exploited-other-evs/",
+         "content" : "Tesla Superchargers were used to charge non-Tesla vehicles in Europe in a loophole used by European EV owners. The charging was used on a variety of European electric cars at Tesla V3 Superchargers, … [+2282 chars]"
       },
       {
-         "url" : "https://electrek.co/2020/09/13/tesla-update-model-3-center-console-steering-wheel-heat-pump-rumor/",
-         "publishedAt" : "2020-09-13T16:53:00Z",
-         "content" : "Tesla is rumored to introduce several changes to the Model 3, including a new center console, steering wheel, adding a heat pump and more, according to a known leaker in China.\r\nWhile Tesla’s Model Y… [+2973 chars]",
          "title" : "Tesla to update Model 3 center console, steering wheel, add heat pump and more, rumor says - Electrek",
+         "author" : null,
          "source" : {
             "id" : null,
             "name" : "Electrek"
          },
-         "author" : null,
          "description" : "Tesla is rumored to introduce several changes to the Model 3, including a new center console, steering wheel, adding a heat pump and more, according to a known leaker in China. While Tesla’s Model Y is based on the same platform as Model 3, it is in many ways…",
-         "urlToImage" : "https://electrek.co/wp-content/uploads/sites/3/2018/01/model-3-interior-dashboard-head-on-1-e1525805102199.jpeg?quality=82&strip=all"
+         "urlToImage" : "https://electrek.co/wp-content/uploads/sites/3/2018/01/model-3-interior-dashboard-head-on-1-e1525805102199.jpeg?quality=82&strip=all",
+         "publishedAt" : "2020-09-13T16:53:00Z",
+         "content" : "Tesla is rumored to introduce several changes to the Model 3, including a new center console, steering wheel, adding a heat pump and more, according to a known leaker in China.\r\nWhile Tesla’s Model Y… [+2973 chars]",
+         "url" : "https://electrek.co/2020/09/13/tesla-update-model-3-center-console-steering-wheel-heat-pump-rumor/"
       },
       {
-         "publishedAt" : "2020-09-13T16:50:00Z",
-         "url" : "https://www.ft.com/content/6bfe40a5-2426-4743-98cd-6fed9dd01b98",
-         "content" : "SoftBank is set to sell the UK’s Arm Holdings to US chip company Nvidia for more than $40bn, just four years after its founder Masayoshi Son bought the chip designer and said it would be the linchpin… [+3662 chars]",
          "title" : "Nvidia reportedly to acquire ARM Holdings from SoftBank for $40 billion - Ars Technica",
          "source" : {
-            "name" : "Financial Times",
-            "id" : "financial-times"
+            "id" : "financial-times",
+            "name" : "Financial Times"
          },
          "author" : null,
          "description" : "Sale comes four years after Masayoshi Son bought the chip designer",
-         "urlToImage" : "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F482e9b0d-6e73-48ba-bf15-40685bd7d58f.jpg?source=next-opengraph&fit=scale-down&width=900"
+         "content" : "SoftBank is set to sell the UK’s Arm Holdings to US chip company Nvidia for more than $40bn, just four years after its founder Masayoshi Son bought the chip designer and said it would be the linchpin… [+3662 chars]",
+         "url" : "https://www.ft.com/content/6bfe40a5-2426-4743-98cd-6fed9dd01b98",
+         "urlToImage" : "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F482e9b0d-6e73-48ba-bf15-40685bd7d58f.jpg?source=next-opengraph&fit=scale-down&width=900",
+         "publishedAt" : "2020-09-13T16:50:00Z"
       },
       {
-         "description" : "\"I hope that happens sooner, but our guess is that's the end of next year,\" Scott Kirby said during an interview on CBS's \"Face the Nation.\"",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106660428-1597243678709-2015-04-23T120000Z_1052041475_TM3EB4M1B4N01_RTRMADP_3_USA-TRANSPORT.JPG?v=1597243765",
-         "publishedAt" : "2020-09-13T16:42:00Z",
          "content" : "The CEO of United Airlines said on Sunday that a recovery for the aviation industry will have to wait until a Covid-19 vaccine  is approved and widely available, a milestone he said the company proje… [+2692 chars]",
          "url" : "https://www.cnbc.com/2020/09/13/united-ceo-demand-unlikely-to-recover-until-vaccine-widely-available.html",
-         "title" : "United CEO says travel demand unlikely to recover until vaccine is widely distributed - CNBC",
+         "publishedAt" : "2020-09-13T16:42:00Z",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106660428-1597243678709-2015-04-23T120000Z_1052041475_TM3EB4M1B4N01_RTRMADP_3_USA-TRANSPORT.JPG?v=1597243765",
+         "author" : "Tucker Higgins",
          "source" : {
-            "id" : null,
-            "name" : "CNBC"
+            "name" : "CNBC",
+            "id" : null
          },
-         "author" : "Tucker Higgins"
+         "title" : "United CEO says travel demand unlikely to recover until vaccine is widely distributed - CNBC",
+         "description" : "\"I hope that happens sooner, but our guess is that's the end of next year,\" Scott Kirby said during an interview on CBS's \"Face the Nation.\""
       },
       {
          "title" : "Nikola (NKLA) in Turmoil – What Should the Shareholders Now Expect Amid Allegations of Another Theranos in the Making? - Wccftech",
-         "url" : "https://wccftech.com/nikola-nkla-in-turmoil-what-should-the-shareholders-now-expect-amid-allegations-of-another-theranos-in-the-making/",
-         "publishedAt" : "2020-09-13T16:27:01Z",
-         "content" : "Nikola Corporation (NASDAQ:NKLA) shares continue to experience epic volatility, fueled by wild price swings as a result of dramatic developments over the past couple of days. The pre-revenue company … [+8277 chars]",
          "author" : "Rohail Saleem",
          "source" : {
-            "name" : "Wccftech",
-            "id" : null
+            "id" : null,
+            "name" : "Wccftech"
          },
          "description" : "Nikola Corporation () shares continue to experience epic volatility, fueled by wild price swings as a result of dramatic developments over the past couple of days. The pre-revenue company is currently facing perhaps the most arduous challenge of its corporate…",
-         "urlToImage" : "https://cdn.wccftech.com/wp-content/uploads/2020/09/nikola-motor-company-world-2019-two-red-3-trevor-milton-scaled.jpg"
+         "urlToImage" : "https://cdn.wccftech.com/wp-content/uploads/2020/09/nikola-motor-company-world-2019-two-red-3-trevor-milton-scaled.jpg",
+         "publishedAt" : "2020-09-13T16:27:01Z",
+         "content" : "Nikola Corporation (NASDAQ:NKLA) shares continue to experience epic volatility, fueled by wild price swings as a result of dramatic developments over the past couple of days. The pre-revenue company … [+8277 chars]",
+         "url" : "https://wccftech.com/nikola-nkla-in-turmoil-what-should-the-shareholders-now-expect-amid-allegations-of-another-theranos-in-the-making/"
       },
       {
-         "urlToImage" : "https://i.insider.com/5f5bddca7ed0ee001e25eedf?width=1200&format=jpeg",
-         "description" : "The deal only uses items already on the McDonald's menu, giving the fast-food chain buzz without adding complexity to its kitchens.",
+         "title" : "McDonald's Travis Scott campaign is a brilliant marketing ploy - Business Insider - Business Insider",
          "author" : "Kate Taylor",
          "source" : {
             "name" : "Business Insider",
             "id" : "business-insider"
          },
-         "title" : "McDonald's Travis Scott campaign is a brilliant marketing ploy - Business Insider - Business Insider",
-         "url" : "https://www.businessinsider.com/mcdonalds-travis-scott-campaign-is-a-brilliant-marketing-ploy-2020-9",
+         "description" : "The deal only uses items already on the McDonald's menu, giving the fast-food chain buzz without adding complexity to its kitchens.",
          "content" : "It's the oldest trick in the book — a fast-food chain drumming up sales with a limited-time menu offering. \r\nBut in the case of McDonald's partnership with Travis Scott, the chain did not need to add… [+2430 chars]",
+         "url" : "https://www.businessinsider.com/mcdonalds-travis-scott-campaign-is-a-brilliant-marketing-ploy-2020-9",
+         "urlToImage" : "https://i.insider.com/5f5bddca7ed0ee001e25eedf?width=1200&format=jpeg",
          "publishedAt" : "2020-09-13T16:06:21Z"
       },
       {
-         "description" : "Adobe is one of several big names set to announce earnings results over the next few trading days.",
-         "urlToImage" : "https://g.foolcdn.com/editorial/images/590828/delivery.jpg",
-         "title" : "3 Things to Watch in the Stock Market This Week - Motley Fool",
          "content" : "Stocks dropped last week, as both the Dow Jones Industrial Average (DJINDICES:^DJI) and the S&amp;P 500 (SNPINDEX:^SPX) shed more than 2%. The decline marked a second straight weekly drop following t… [+3238 chars]",
          "url" : "https://www.fool.com/investing/2020/09/13/3-things-to-watch-in-the-stock-market-this-week/",
+         "urlToImage" : "https://g.foolcdn.com/editorial/images/590828/delivery.jpg",
          "publishedAt" : "2020-09-13T16:06:00Z",
-         "author" : "Demitri Kalogeropoulos",
+         "title" : "3 Things to Watch in the Stock Market This Week - Motley Fool",
          "source" : {
-            "id" : null,
-            "name" : "Motley Fool"
-         }
+            "name" : "Motley Fool",
+            "id" : null
+         },
+         "author" : "Demitri Kalogeropoulos",
+         "description" : "Adobe is one of several big names set to announce earnings results over the next few trading days."
       },
       {
-         "urlToImage" : "https://g.foolcdn.com/editorial/images/591441/ss-card-and-money-gettyimages-177533853.jpg",
          "description" : "Gains for seniors in January's Social Security checks are likely to be less than last year's but still significant.",
+         "title" : "The 2021 Social Security COLA Will Be Disappointing -- but at Least There'll Be One - Motley Fool",
          "source" : {
             "name" : "Motley Fool",
             "id" : null
          },
          "author" : "Dan Caplinger",
-         "content" : "Social Security is vital for the financial survival of tens of millions of retirees. The majority of Social Security recipients rely on the program for most or all of their income. Even for those wit… [+3390 chars]",
-         "url" : "https://www.fool.com/investing/2020/09/13/2021-social-security-cola-will-be-disappointing/",
+         "urlToImage" : "https://g.foolcdn.com/editorial/images/591441/ss-card-and-money-gettyimages-177533853.jpg",
          "publishedAt" : "2020-09-13T16:01:00Z",
-         "title" : "The 2021 Social Security COLA Will Be Disappointing -- but at Least There'll Be One - Motley Fool"
+         "content" : "Social Security is vital for the financial survival of tens of millions of retirees. The majority of Social Security recipients rely on the program for most or all of their income. Even for those wit… [+3390 chars]",
+         "url" : "https://www.fool.com/investing/2020/09/13/2021-social-security-cola-will-be-disappointing/"
       },
       {
+         "description" : "Pavilion Restaurant in Geneva On-The-Lake, Ohio was cited twice this weekend for violating state health orders in place due to the coronavirus pandemic, according to the Ohio Investigative Unit.",
+         "title" : "Coronavirus: NE Ohio bar cited twice this weekend for state health order violations - WHIO Radio",
          "author" : "WHIO Staff",
          "source" : {
             "id" : null,
             "name" : "WHIO"
          },
-         "title" : "Coronavirus: NE Ohio bar cited twice this weekend for state health order violations - WHIO Radio",
-         "publishedAt" : "2020-09-13T15:45:00Z",
-         "url" : "https://www.whio.com/news/coronavirus/coronavirus-ne-ohio-bar-cited-twice-this-weekend-state-health-order-violations/6UVWSPT7V5DYPEJJTDDLFWAHT4/",
          "content" : "COLUMBUS — A bar in northeast Ohio was cited twice this weekend for violations of the states health orders for bars and restaurants amid the COVID-19 pandemic. \r\nPavilion Restaurant, located in Genev… [+3785 chars]",
+         "url" : "https://www.whio.com/news/coronavirus/coronavirus-ne-ohio-bar-cited-twice-this-weekend-state-health-order-violations/6UVWSPT7V5DYPEJJTDDLFWAHT4/",
          "urlToImage" : "https://cloudfront-us-east-1.images.arcpublishing.com/cmg/YRRQQTMKPRBHHJBMIMFFXXZ764.jpg",
-         "description" : "Pavilion Restaurant in Geneva On-The-Lake, Ohio was cited twice this weekend for violating state health orders in place due to the coronavirus pandemic, according to the Ohio Investigative Unit."
+         "publishedAt" : "2020-09-13T15:45:00Z"
       },
       {
+         "url" : "https://www.foxnews.com/travel/easyjet-passenger-hits-woman-racially-charged-incident-paper-airplane-report",
+         "content" : "A passenger was reportedly involved in multiple incidents on one flight.\r\nAccording to witnesses, a male passenger had to be moved to the front of a plane after getting into an altercation with anoth… [+2158 chars]",
+         "urlToImage" : "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/packed-plane-fi-566208.jpg",
+         "publishedAt" : "2020-09-13T15:29:33Z",
+         "description" : "A passenger was reportedly involved in multiple incidents on one flight.",
+         "title" : "EasyJet passenger arrested after fights involving race, paper airplane: report - Fox News",
+         "author" : "Michael Hollan",
          "source" : {
             "name" : "Fox News",
             "id" : "fox-news"
-         },
-         "author" : "Michael Hollan",
-         "publishedAt" : "2020-09-13T15:29:33Z",
-         "content" : "A passenger was reportedly involved in multiple incidents on one flight.\r\nAccording to witnesses, a male passenger had to be moved to the front of a plane after getting into an altercation with anoth… [+2158 chars]",
-         "url" : "https://www.foxnews.com/travel/easyjet-passenger-hits-woman-racially-charged-incident-paper-airplane-report",
-         "title" : "EasyJet passenger arrested after fights involving race, paper airplane: report - Fox News",
-         "urlToImage" : "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/packed-plane-fi-566208.jpg",
-         "description" : "A passenger was reportedly involved in multiple incidents on one flight."
+         }
       }
-   ],
-   "status" : "ok",
-   "totalResults" : 70
+   ]
 }
