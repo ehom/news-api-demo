@@ -1,266 +1,266 @@
 {
    "status" : "ok",
-   "totalResults" : 70,
    "articles" : [
       {
-         "title" : "Dow Jones Rises 400 Points On Coronavirus Vaccine; Apple, Tesla Jump, While Nvidia Soars - Investor's Business Daily",
          "source" : {
             "id" : null,
             "name" : "Investor's Business Daily"
          },
-         "url" : "https://www.investors.com/market-trend/stock-market-today/dow-jones-coronavirus-vaccine-stock-market-rally-apple-tesla-oracle-tiktok-nvidia-arm/",
          "urlToImage" : "https://www.investors.com/wp-content/uploads/2020/03/stock-coronavirus-08-adobe.jpg",
+         "url" : "https://www.investors.com/market-trend/stock-market-today/dow-jones-coronavirus-vaccine-stock-market-rally-apple-tesla-oracle-tiktok-nvidia-arm/",
          "publishedAt" : "2020-09-14T16:00:00Z",
-         "content" : "The Dow Jones Industrial Average jumped 400 points early Monday, lifted by a heavy slate of mergers, plus some coronavirus vaccine news. Dow Jones leader Apple gained 2%, while Tesla jumped 9%, while… [+6457 chars]",
          "description" : "The Dow Jones Industrial Average rose 400 points on coronavirus vaccine news. Apple and Tesla jumped, while Oracle and Nvidia surged on acquisitions.",
-         "author" : "Investor's Business Daily"
+         "author" : "Investor's Business Daily",
+         "content" : "The Dow Jones Industrial Average jumped 400 points early Monday, lifted by a heavy slate of mergers, plus some coronavirus vaccine news. Dow Jones leader Apple gained 2%, while Tesla jumped 9%, while… [+6457 chars]",
+         "title" : "Dow Jones Rises 400 Points On Coronavirus Vaccine; Apple, Tesla Jump, While Nvidia Soars - Investor's Business Daily"
       },
       {
          "url" : "https://www.theverge.com/2020/9/14/21436228/google-climate-change-pledge-2030-renewable-energy",
          "urlToImage" : "https://cdn.vox-cdn.com/thumbor/0QHm6OQ3L_MVtYGuCNy25scSndc=/0x392:4968x2993/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/21879820/1147600063.jpg.jpg",
-         "title" : "Google announced one of the biggest green pledges from tech yet - The Verge",
          "source" : {
-            "id" : "the-verge",
-            "name" : "The Verge"
+            "name" : "The Verge",
+            "id" : "the-verge"
          },
          "description" : "Google announced big steps toward limiting its contributions to climate change: the company offset all of its historic carbon emissions and plans to completely power its operations with renewable energy by 2030.",
-         "content" : "It will run on renewable energy by 2030 \r\nGoogle CEO Sundar Pichai\r\nPhoto by Justin Sullivan/Getty Images\r\nGoogle just made one of Big Techs most ambitious environmental commitments: it will work to … [+4045 chars]",
+         "publishedAt" : "2020-09-14T15:36:08Z",
          "author" : "Justine Calma",
-         "publishedAt" : "2020-09-14T15:36:08Z"
+         "title" : "Google announced one of the biggest green pledges from tech yet - The Verge",
+         "content" : "It will run on renewable energy by 2030 \r\nGoogle CEO Sundar Pichai\r\nPhoto by Justin Sullivan/Getty Images\r\nGoogle just made one of Big Techs most ambitious environmental commitments: it will work to … [+4045 chars]"
       },
       {
          "url" : "https://nypost.com/2020/09/14/macys-thanksgiving-day-parade-will-not-be-live-this-year-de-blasio/",
-         "urlToImage" : "https://nypost.com/wp-content/uploads/sites/2/2020/09/macy-parade.jpg?quality=90&strip=all&w=1200",
-         "title" : "Macy's Thanksgiving Day Parade will not be live this year: de Blasio - New York Post ",
          "source" : {
             "id" : null,
             "name" : "New York Post"
          },
-         "content" : "The coronavirus has killed Macys live Thanksgiving Day Parade in New York City this year.\r\nMayor Bill de Blasio said Monday that the famous retail store is instead reinventing the event with a televi… [+1251 chars]",
+         "urlToImage" : "https://nypost.com/wp-content/uploads/sites/2/2020/09/macy-parade.jpg?quality=90&strip=all&w=1200",
          "description" : "The coronavirus has killed Macy’s live Thanksgiving Day Parade in New York City this year. Mayor Bill de Blasio said Monday that the famous retail store is instead “reinventing the event’’ with a t…",
+         "publishedAt" : "2020-09-14T15:34:00Z",
          "author" : "Julia Marsh, Kate Sheehy",
-         "publishedAt" : "2020-09-14T15:34:00Z"
+         "content" : "The coronavirus has killed Macys live Thanksgiving Day Parade in New York City this year.\r\nMayor Bill de Blasio said Monday that the famous retail store is instead reinventing the event with a televi… [+1251 chars]",
+         "title" : "Macy's Thanksgiving Day Parade will not be live this year: de Blasio - New York Post "
       },
       {
-         "title" : "Taco Bell is now selling its own custom wine - CNN",
+         "author" : "Jordan Valinsky, CNN Business",
          "source" : {
             "id" : "cnn",
             "name" : "CNN"
          },
-         "url" : "https://www.cnn.com/2020/09/14/business/taco-bell-wine-canada/index.html",
          "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200914091056-taco-bell-wine-super-tease.jpg",
+         "url" : "https://www.cnn.com/2020/09/14/business/taco-bell-wine-canada/index.html",
          "publishedAt" : "2020-09-14T15:22:00Z",
+         "description" : "There's tons of cheese on Taco Bell's menu, so a wine to pair with it is a natural next step.",
          "content" : null,
-         "author" : "Jordan Valinsky, CNN Business",
-         "description" : "There's tons of cheese on Taco Bell's menu, so a wine to pair with it is a natural next step."
+         "title" : "Taco Bell is now selling its own custom wine - CNN"
       },
       {
          "content" : "New cases numbers were led by India, which counted 94,372 new infections, followed by the U.S. with 45,523 and Brazil with 43,718, according to WHO data. The Indian spike is due to clusters of cases,… [+11725 chars]",
-         "author" : "Ciara Linnane",
-         "description" : "President Trump slammed for holding indoor rally in Nevada; Israel becomes first country to reimpose national lockdown",
-         "publishedAt" : "2020-09-14T15:12:00Z",
-         "url" : "https://www.marketwatch.com/story/coronavirus-update-who-says-record-number-of-new-cases-307930-counted-worldwide-on-sunday-2020-09-14",
-         "urlToImage" : "https://s.marketwatch.com/public/resources/images/MW-IO422_WHOvir_ZG_20200914102719.jpg",
          "title" : "Coronavirus update: WHO says record number of new cases — 307,930 — counted worldwide on Sunday - MarketWatch",
-         "source" : {
-            "name" : "MarketWatch",
-            "id" : null
-         }
-      },
-      {
-         "content" : "Tesla CEO Elon Musk fired back at billionaire Bill Gates after the Microsoft co-founder cast doubt on technology's ability to bring electric vehicles into the world of long-haul trucking.\r\n\"What's yo… [+2650 chars]",
-         "author" : "Evie Fordham",
-         "description" : "Tesla CEO Elon Musk fired back at billionaire Bill Gates after the Microsoft co-founder cast doubt on technology's ability to bring electric vehicles into the world of long-haul trucking.",
-         "publishedAt" : "2020-09-14T14:54:04Z",
-         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/09/0/0/098ee0ad-Musk-Gates-electric-truck.jpg?ve=1&tl=1",
-         "url" : "https://www.foxbusiness.com/technology/elon-musk-bill-gates-electric-truck-criticism",
+         "author" : "Ciara Linnane",
+         "publishedAt" : "2020-09-14T15:12:00Z",
+         "description" : "President Trump slammed for holding indoor rally in Nevada; Israel becomes first country to reimpose national lockdown",
+         "urlToImage" : "https://s.marketwatch.com/public/resources/images/MW-IO422_WHOvir_ZG_20200914102719.jpg",
          "source" : {
             "id" : null,
-            "name" : "Fox Business"
+            "name" : "MarketWatch"
          },
-         "title" : "Musk fires back at Gates, says he has 'no clue' about powering electric trucks - Fox Business"
+         "url" : "https://www.marketwatch.com/story/coronavirus-update-who-says-record-number-of-new-cases-307930-counted-worldwide-on-sunday-2020-09-14"
+      },
+      {
+         "author" : "Evie Fordham",
+         "url" : "https://www.foxbusiness.com/technology/elon-musk-bill-gates-electric-truck-criticism",
+         "source" : {
+            "name" : "Fox Business",
+            "id" : null
+         },
+         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/09/0/0/098ee0ad-Musk-Gates-electric-truck.jpg?ve=1&tl=1",
+         "description" : "Tesla CEO Elon Musk fired back at billionaire Bill Gates after the Microsoft co-founder cast doubt on technology's ability to bring electric vehicles into the world of long-haul trucking.",
+         "publishedAt" : "2020-09-14T14:54:04Z",
+         "title" : "Musk fires back at Gates, says he has 'no clue' about powering electric trucks - Fox Business",
+         "content" : "Tesla CEO Elon Musk fired back at billionaire Bill Gates after the Microsoft co-founder cast doubt on technology's ability to bring electric vehicles into the world of long-haul trucking.\r\n\"What's yo… [+2650 chars]"
       },
       {
          "content" : "What happened\r\nShares of Vaxart(NASDAQ:VXRT) were soaring 20.8% as of 11:22 a.m. EDT on Monday. The huge jump came after the biotech announced Food and Drug Administration clearance to begin a phase … [+1541 chars]",
-         "author" : "Keith Speights",
+         "title" : "Why Vaxart Stock Is Crushing It Today - Motley Fool",
          "description" : "The FDA gave a green light for the biotech to begin phase 1 testing of its coronavirus vaccine candidate.",
          "publishedAt" : "2020-09-14T14:42:00Z",
-         "urlToImage" : "https://g.foolcdn.com/editorial/images/591574/green-light-arrow.jpg",
          "url" : "https://www.fool.com/investing/2020/09/14/why-vaxart-stock-is-crushing-it-today/",
+         "urlToImage" : "https://g.foolcdn.com/editorial/images/591574/green-light-arrow.jpg",
          "source" : {
             "id" : null,
             "name" : "Motley Fool"
          },
-         "title" : "Why Vaxart Stock Is Crushing It Today - Motley Fool"
+         "author" : "Keith Speights"
       },
       {
          "content" : null,
-         "description" : "White Castle is reinventing its packaging to adapt to customers' new social habits during the pandemic.",
+         "title" : "White Castle rolls out new packaging for the social distancing age - CNN",
          "author" : "Alexis Benveniste, CNN Business",
+         "description" : "White Castle is reinventing its packaging to adapt to customers' new social habits during the pandemic.",
          "publishedAt" : "2020-09-14T14:37:00Z",
          "url" : "https://www.cnn.com/2020/09/14/business/white-castle-boxes/index.html",
-         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200914092607-white-castle-new-packaging-super-tease.jpg",
-         "title" : "White Castle rolls out new packaging for the social distancing age - CNN",
          "source" : {
-            "id" : "cnn",
-            "name" : "CNN"
-         }
+            "name" : "CNN",
+            "id" : "cnn"
+         },
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200914092607-white-castle-new-packaging-super-tease.jpg"
       },
       {
          "content" : "Doctors and dentists are reporting more cases of cracked teeth and insomnia as the coronavirus pandemic takes a toll on the nation's stress levels.\r\nPepsiCo's latest drink Driftwell is pitching itsel… [+2535 chars]",
-         "description" : "PepsiCo is launching a new enhanced water drink called Driftwell.",
+         "title" : "PepsiCo to launch drink to aid sleep as consumers struggle with stress - CNBC",
          "author" : "Amelia Lucas",
+         "description" : "PepsiCo is launching a new enhanced water drink called Driftwell.",
          "publishedAt" : "2020-09-14T14:30:00Z",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106699359-1599849211232-driftwell_can.png?v=1599849249",
          "url" : "https://www.cnbc.com/2020/09/14/pepsico-to-launch-drink-to-aid-sleep-as-consumers-struggle-with-stress.html",
          "source" : {
             "id" : null,
             "name" : "CNBC"
          },
-         "title" : "PepsiCo to launch drink to aid sleep as consumers struggle with stress - CNBC"
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106699359-1599849211232-driftwell_can.png?v=1599849249"
       },
       {
          "content" : "Health officials and epidemiologists will be watching U.S. infection trends closely this week for any early indications of a potential spike in cases brought on by the Labor Day holiday weekend. Stea… [+277 chars]",
-         "description" : "The coronavirus has infected more than 29 million people globally as of Monday, killing at least 924,800 people so far.",
-         "author" : "CNBC.com staff",
-         "publishedAt" : "2020-09-14T14:18:00Z",
-         "url" : "https://www.cnbc.com/2020/09/14/coronavirus-live-updates.html",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106692693-1599454444447-gettyimages-1228372142-20200906_dli-rkr-mn_testing-14.jpeg?v=1600087754",
          "title" : "Coronavirus live updates: WHO reports record one-day spike in cases; Delta to raise $6.5 billion - CNBC",
-         "source" : {
-            "id" : null,
-            "name" : "CNBC"
-         }
-      },
-      {
-         "content" : "Oracle on Monday confirmed it has struck a deal with ByteDance, the Chinese owner of trendy video-sharing app TikTok, weeks after the Trump administration ordered a TikTok divestiture in the U.S. The… [+4365 chars]",
-         "author" : "Jordan Novet",
-         "description" : "The deal could make Oracle a bigger force in advertising and make it more relevant to young consumers.",
-         "publishedAt" : "2020-09-14T14:09:00Z",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106293189-1576169208186gettyimages-1052770680.jpeg?v=1598920883",
-         "url" : "https://www.cnbc.com/2020/09/14/oracle-confirms-deal-with-tiktok-owner-bytedance-to-become-trusted-technology-provider.html",
+         "author" : "CNBC.com staff",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106692693-1599454444447-gettyimages-1228372142-20200906_dli-rkr-mn_testing-14.jpeg?v=1600087754",
          "source" : {
             "id" : null,
             "name" : "CNBC"
          },
+         "url" : "https://www.cnbc.com/2020/09/14/coronavirus-live-updates.html",
+         "publishedAt" : "2020-09-14T14:18:00Z",
+         "description" : "The coronavirus has infected more than 29 million people globally as of Monday, killing at least 924,800 people so far."
+      },
+      {
+         "author" : "Jordan Novet",
+         "publishedAt" : "2020-09-14T14:09:00Z",
+         "description" : "The deal could make Oracle a bigger force in advertising and make it more relevant to young consumers.",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106293189-1576169208186gettyimages-1052770680.jpeg?v=1598920883",
+         "source" : {
+            "id" : null,
+            "name" : "CNBC"
+         },
+         "url" : "https://www.cnbc.com/2020/09/14/oracle-confirms-deal-with-tiktok-owner-bytedance-to-become-trusted-technology-provider.html",
+         "content" : "Oracle on Monday confirmed it has struck a deal with ByteDance, the Chinese owner of trendy video-sharing app TikTok, weeks after the Trump administration ordered a TikTok divestiture in the U.S. The… [+4365 chars]",
          "title" : "Oracle confirms deal with TikTok-owner ByteDance to become 'trusted technology provider' - CNBC"
       },
       {
-         "publishedAt" : "2020-09-14T13:54:47Z",
+         "title" : "Lawsuit claims United Airlines favors young, blond crew to work NFL, MLB flights: 'They all look like sisters' - Fox News",
          "content" : "United Airlines has been accused in a new lawsuit of favoring young, white and blond flight attendants to work charter flights for professional and collegiate sports teams.\r\nOn Friday, two veteran fl… [+3258 chars]",
-         "description" : "The complaint claims the airline assigns flight attendants who are “young, white, female, and predominately blond/blue-eyed” for these special trips.",
          "author" : "Janine Puhak",
          "source" : {
-            "name" : "Fox News",
-            "id" : "fox-news"
+            "id" : "fox-news",
+            "name" : "Fox News"
          },
-         "title" : "Lawsuit claims United Airlines favors young, blond crew to work NFL, MLB flights: 'They all look like sisters' - Fox News",
          "urlToImage" : "https://static.foxnews.com/foxnews.com/content/uploads/2020/05/UnitedAirlinesIstock22-1.jpg",
-         "url" : "https://www.foxnews.com/travel/lawsuit-claims-united-airlines-young-blond-crew-nfl-mlb-flights"
+         "url" : "https://www.foxnews.com/travel/lawsuit-claims-united-airlines-young-blond-crew-nfl-mlb-flights",
+         "publishedAt" : "2020-09-14T13:54:47Z",
+         "description" : "The complaint claims the airline assigns flight attendants who are “young, white, female, and predominately blond/blue-eyed” for these special trips."
       },
       {
-         "content" : "The largest wireless network in the US acquires the largest mobile virtual network operator\r\nIllustration by Alex Castro / The Verge\r\nVerizon is buying Tracfone in a deal worth more than $6 billion, … [+1230 chars]",
          "author" : "Kim Lyons",
          "description" : "Verizon is buying Tracfone in a deal worth more than $6 billion. Tracfone is the largest reseller of wireless services in the US, with 21 million subscribers, nearly 850 employees, and a network of more than 90,000 retail locations.",
          "publishedAt" : "2020-09-14T13:33:18Z",
          "url" : "https://www.theverge.com/2020/9/14/21435980/verizon-tracfone-acquisition-prepaid-phones-budget",
          "urlToImage" : "https://cdn.vox-cdn.com/thumbor/TGVMUzSVVfMT8B-CJJ8LZ5Ok4x0=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/19590125/acastro_200109_1777_verizon_0003.0.jpg",
-         "title" : "Verizon acquires Tracfone in a deal worth more than $6 billion - The Verge",
          "source" : {
-            "name" : "The Verge",
-            "id" : "the-verge"
-         }
+            "id" : "the-verge",
+            "name" : "The Verge"
+         },
+         "content" : "The largest wireless network in the US acquires the largest mobile virtual network operator\r\nIllustration by Alex Castro / The Verge\r\nVerizon is buying Tracfone in a deal worth more than $6 billion, … [+1230 chars]",
+         "title" : "Verizon acquires Tracfone in a deal worth more than $6 billion - The Verge"
       },
       {
+         "content" : "Beyond Meat is bringing its meatless meatballs to grocery stores nationwide.\r\nThe company first made meatballs through a partnership with Subway last year, but grocery stores have also been asking fo… [+846 chars]",
+         "title" : "Beyond Meat is launching meat-free meatballs in grocery stores - CNBC",
+         "description" : "Beyond Meat is bringing its plant-based meatballs to grocery stores nationwide.",
+         "publishedAt" : "2020-09-14T13:00:00Z",
          "url" : "https://www.cnbc.com/2020/09/14/beyond-meat-is-launching-meat-free-meatballs-in-grocery-stores.html",
          "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106701202-1600085898216-Beyond_Meatball_Hero.jpg?v=1600085935",
-         "title" : "Beyond Meat is launching meat-free meatballs in grocery stores - CNBC",
          "source" : {
             "name" : "CNBC",
             "id" : null
          },
-         "author" : "Amelia Lucas",
-         "content" : "Beyond Meat is bringing its meatless meatballs to grocery stores nationwide.\r\nThe company first made meatballs through a partnership with Subway last year, but grocery stores have also been asking fo… [+846 chars]",
-         "description" : "Beyond Meat is bringing its plant-based meatballs to grocery stores nationwide.",
-         "publishedAt" : "2020-09-14T13:00:00Z"
+         "author" : "Amelia Lucas"
       },
       {
-         "publishedAt" : "2020-09-14T12:40:04Z",
-         "content" : "U.S. equity markets rallied Monday amid optimism a COVID-19 vaccine will be distributed by yearend and amid a flurry of deals.\r\nThe Nasdaq Composite traded up 2% as tech stocks continued to dictate t… [+4343 chars]",
-         "description" : "Stocks rallied Monday amid further optimism over a COVID-19 vaccine and after a flurry of deals.",
          "author" : "Jonathan Garber",
+         "url" : "https://www.foxbusiness.com/markets/us-stocks-sept-14-2020",
          "source" : {
             "name" : "Fox Business",
             "id" : null
          },
-         "title" : "Stocks boosted by coronavirus vaccine optimism, deals - Fox Business",
          "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/07/0/0/stock-market-AP-0052.jpg?ve=1&tl=1",
-         "url" : "https://www.foxbusiness.com/markets/us-stocks-sept-14-2020"
+         "description" : "Stocks rallied Monday amid further optimism over a COVID-19 vaccine and after a flurry of deals.",
+         "publishedAt" : "2020-09-14T12:40:04Z",
+         "title" : "Stocks boosted by coronavirus vaccine optimism, deals - Fox Business",
+         "content" : "U.S. equity markets rallied Monday amid optimism a COVID-19 vaccine will be distributed by yearend and amid a flurry of deals.\r\nThe Nasdaq Composite traded up 2% as tech stocks continued to dictate t… [+4343 chars]"
       },
       {
-         "content" : "Amazon announced Monday plans to hire 100,000 workers across North America as it races to keep up with an onslaught of orders.\r\nThe shopping behemoth plans to hire full- and part-time associates thro… [+2106 chars]",
-         "author" : "Daniella Genovese",
          "description" : "Amazon said it has already opened over 75 new fulfillment, sortation centers, regional air hubs, and delivery stations in North America this year.",
          "publishedAt" : "2020-09-14T12:18:00Z",
          "url" : "https://www.foxbusiness.com/economy/amazon-hiring-100000-workers-in-north-america-ahead-of-holiday-rush",
-         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/04/0/0/Amazon-AP.jpg?ve=1&tl=1",
-         "title" : "Amazon hiring 100000 workers in US, Canada to keep up with surge in online shopping - Fox Business",
          "source" : {
             "id" : null,
             "name" : "Fox Business"
-         }
-      },
-      {
-         "urlToImage" : "https://g.foolcdn.com/editorial/images/591349/person-calculations.jpg",
-         "url" : "https://www.fool.com/retirement/401k/2020/09/14/will-bidens-proposed-changes-to-401k-tax-rules-aff/",
-         "source" : {
-            "id" : null,
-            "name" : "Motley Fool"
          },
-         "title" : "Will Biden's Proposed Changes to 401(k) Tax Rules Affect Your Retirement Plan? - Motley Fool",
-         "description" : "If Biden's proposal gets pushed through -- and that's a big if -- the answer is probably yes.",
-         "content" : "It's an election year and you know what that means: Proposals are cropping up from both sides of the aisle that promise to make your life easier. One, supported by the Biden-Harris ticket, is a chang… [+5632 chars]",
-         "author" : "Catherine Brock",
-         "publishedAt" : "2020-09-14T12:16:00Z"
+         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/04/0/0/Amazon-AP.jpg?ve=1&tl=1",
+         "author" : "Daniella Genovese",
+         "content" : "Amazon announced Monday plans to hire 100,000 workers across North America as it races to keep up with an onslaught of orders.\r\nThe shopping behemoth plans to hire full- and part-time associates thro… [+2106 chars]",
+         "title" : "Amazon hiring 100000 workers in US, Canada to keep up with surge in online shopping - Fox Business"
       },
       {
-         "publishedAt" : "2020-09-14T12:03:00Z",
-         "content" : "Editor's Note: With so much market volatility, stay on top of daily news! Get caught up in minutes with our speedy summary of today's must-read news and expert opinions. Sign up here! \r\n(Kitco News) … [+3842 chars]",
-         "author" : "http://www.facebook.com/kitconews",
-         "description" : "Senior Technical Analyst Jim Wyckoff prepares investors with an overview of how the markets opened and closed. What moved metal prices? How do the technicals look? By looking at important developments",
+         "content" : "It's an election year and you know what that means: Proposals are cropping up from both sides of the aisle that promise to make your life easier. One, supported by the Biden-Harris ticket, is a chang… [+5632 chars]",
+         "title" : "Will Biden's Proposed Changes to 401(k) Tax Rules Affect Your Retirement Plan? - Motley Fool",
+         "publishedAt" : "2020-09-14T12:16:00Z",
+         "description" : "If Biden's proposal gets pushed through -- and that's a big if -- the answer is probably yes.",
          "source" : {
-            "name" : "Kitco NEWS",
+            "name" : "Motley Fool",
             "id" : null
          },
+         "urlToImage" : "https://g.foolcdn.com/editorial/images/591349/person-calculations.jpg",
+         "url" : "https://www.fool.com/retirement/401k/2020/09/14/will-bidens-proposed-changes-to-401k-tax-rules-aff/",
+         "author" : "Catherine Brock"
+      },
+      {
          "title" : "Gold price \"coiling\" suggests bigger move coming soon - Kitco NEWS",
+         "content" : "Editor's Note: With so much market volatility, stay on top of daily news! Get caught up in minutes with our speedy summary of today's must-read news and expert opinions. Sign up here! \r\n(Kitco News) … [+3842 chars]",
+         "author" : "http://www.facebook.com/kitconews",
+         "publishedAt" : "2020-09-14T12:03:00Z",
+         "description" : "Senior Technical Analyst Jim Wyckoff prepares investors with an overview of how the markets opened and closed. What moved metal prices? How do the technicals look? By looking at important developments",
          "urlToImage" : "https://www.kitco.com/news/2020-09-14/images/goldchart_0914_am.png",
+         "source" : {
+            "id" : null,
+            "name" : "Kitco NEWS"
+         },
          "url" : "https://www.kitco.com/news/2020-09-14/Gold-and-silver-storing-energy-for-a-big-breakout.html"
       },
       {
          "content" : null,
-         "description" : "The 2021 Hyundai Tucson is debuting live today with a whole new look inside and out. The teasers have hinted at a polarizing exterior and a minimalist cabin.",
-         "author" : "Adrian Padeanu",
-         "publishedAt" : "2020-09-14T12:01:08Z",
-         "url" : "https://www.motor1.com/news/443872/2021-hyundai-tucson-livestream-debut/",
-         "urlToImage" : "https://cdn.motor1.com/images/mgl/VkOeM/s1/2021-hyundai-tucson-teaser.jpg",
          "title" : "2021 Hyundai Tucson Debuts Today: See The Livestream Right Here - Motor1 ",
          "source" : {
             "name" : "Motor1 ",
             "id" : null
-         }
+         },
+         "urlToImage" : "https://cdn.motor1.com/images/mgl/VkOeM/s1/2021-hyundai-tucson-teaser.jpg",
+         "url" : "https://www.motor1.com/news/443872/2021-hyundai-tucson-livestream-debut/",
+         "publishedAt" : "2020-09-14T12:01:08Z",
+         "description" : "The 2021 Hyundai Tucson is debuting live today with a whole new look inside and out. The teasers have hinted at a polarizing exterior and a minimalist cabin.",
+         "author" : "Adrian Padeanu"
       },
       {
-         "content" : "Walmart announced Monday that it's partnering with Zipline  a company best known for its medical drone operations in African countries like Ghana and Rwanda to launch a delivery service of select hea… [+2632 chars]",
-         "description" : "Walmart is partnering with drone unicorn Zipline to make on-demand deliveries of health and wellness products starting early next year. Trials will take place near Walmart's headquarters in Arkansas.",
-         "author" : "Riley de León",
-         "publishedAt" : "2020-09-14T12:00:00Z",
          "url" : "https://www.cnbc.com/2020/09/14/amazon-walmart-delivery-drone-battle-escalates-with-zipline-deal.html",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/105869402-15561208729911.dronedelivering.jpg?v=1600056352",
-         "title" : "Amazon and Walmart's emerging delivery drone battle escalates with Zipline deal - CNBC",
          "source" : {
-            "name" : "CNBC",
-            "id" : null
-         }
+            "id" : null,
+            "name" : "CNBC"
+         },
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/105869402-15561208729911.dronedelivering.jpg?v=1600056352",
+         "description" : "Walmart is partnering with drone unicorn Zipline to make on-demand deliveries of health and wellness products starting early next year. Trials will take place near Walmart's headquarters in Arkansas.",
+         "publishedAt" : "2020-09-14T12:00:00Z",
+         "author" : "Riley de León",
+         "content" : "Walmart announced Monday that it's partnering with Zipline  a company best known for its medical drone operations in African countries like Ghana and Rwanda to launch a delivery service of select hea… [+2632 chars]",
+         "title" : "Amazon and Walmart's emerging delivery drone battle escalates with Zipline deal - CNBC"
       }
-   ]
+   ],
+   "totalResults" : 70
 }
