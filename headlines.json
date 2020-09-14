@@ -1,95 +1,93 @@
 {
-   "status" : "ok",
-   "totalResults" : 70,
    "articles" : [
       {
-         "title" : "Oracle confirms deal with TikTok-owner ByteDance to become 'trusted technology provider' - CNBC",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106293189-1576169208186gettyimages-1052770680.jpeg?v=1598920883",
          "source" : {
             "name" : "CNBC",
             "id" : null
          },
-         "author" : "Jordan Novet",
-         "content" : "Oracle on Monday confirmed it has struck a deal with ByteDance, the Chinese owner of trendy video-sharing app TikTok, weeks after the Trump administration ordered a TikTok divestiture in the U.S. The… [+4365 chars]",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106293189-1576169208186gettyimages-1052770680.jpeg?v=1598920883",
+         "url" : "https://www.cnbc.com/2020/09/14/oracle-confirms-deal-with-tiktok-owner-bytedance-to-become-trusted-technology-provider.html",
          "description" : "The deal could make Oracle a bigger force in advertising and make it more relevant to young consumers.",
+         "content" : "Oracle on Monday confirmed it has struck a deal with ByteDance, the Chinese owner of trendy video-sharing app TikTok, weeks after the Trump administration ordered a TikTok divestiture in the U.S. The… [+4365 chars]",
          "publishedAt" : "2020-09-14T14:09:00Z",
-         "url" : "https://www.cnbc.com/2020/09/14/oracle-confirms-deal-with-tiktok-owner-bytedance-to-become-trusted-technology-provider.html"
+         "title" : "Oracle confirms deal with TikTok-owner ByteDance to become 'trusted technology provider' - CNBC",
+         "author" : "Jordan Novet"
       },
       {
-         "title" : "Amazon is hiring 100,000 people for minimum-wage jobs - CNN",
          "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200731133439-amazon-fulfillment-center-0330-restricted-super-tease.jpg",
          "source" : {
-            "id" : "cnn",
-            "name" : "CNN"
+            "name" : "CNN",
+            "id" : "cnn"
          },
-         "author" : "Jordan Valinsky, CNN Business",
+         "url" : "https://www.cnn.com/2020/09/14/business/amazon-hiring-warehouse-jobs/index.html",
+         "description" : "Amazon is once again drastically expanding its workforce, announcing Monday that it's hiring 100,000 new employees to support a surge in online shopping amid the ongoing pandemic.",
          "content" : "New York (CNN Business)Amazon is once again drastically expanding its workforce, announcing Monday that it's hiring 100,000 new employees to support a surge in online shopping amid the ongoing pandem… [+1699 chars]",
          "publishedAt" : "2020-09-14T13:02:00Z",
-         "description" : "Amazon is once again drastically expanding its workforce, announcing Monday that it's hiring 100,000 new employees to support a surge in online shopping amid the ongoing pandemic.",
-         "url" : "https://www.cnn.com/2020/09/14/business/amazon-hiring-warehouse-jobs/index.html"
+         "title" : "Amazon is hiring 100,000 people for minimum-wage jobs - CNN",
+         "author" : "Jordan Valinsky, CNN Business"
       },
       {
-         "title" : "Beyond Meat is launching meat-free meatballs in grocery stores - CNBC",
+         "description" : "Beyond Meat is bringing its plant-based meatballs to grocery stores nationwide.",
+         "url" : "https://www.cnbc.com/2020/09/14/beyond-meat-is-launching-meat-free-meatballs-in-grocery-stores.html",
+         "content" : "Beyond Meat is bringing its meatless meatballs to grocery stores nationwide.\r\nThe company first made meatballs through a partnership with Subway last year, but grocery stores have also been asking fo… [+846 chars]",
          "source" : {
-            "name" : "CNBC",
-            "id" : null
+            "id" : null,
+            "name" : "CNBC"
          },
          "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106701202-1600085898216-Beyond_Meatball_Hero.jpg?v=1600085935",
-         "url" : "https://www.cnbc.com/2020/09/14/beyond-meat-is-launching-meat-free-meatballs-in-grocery-stores.html",
-         "publishedAt" : "2020-09-14T13:00:00Z",
-         "description" : "Beyond Meat is bringing its plant-based meatballs to grocery stores nationwide.",
-         "content" : "Beyond Meat is bringing its meatless meatballs to grocery stores nationwide.\r\nThe company first made meatballs through a partnership with Subway last year, but grocery stores have also been asking fo… [+846 chars]",
-         "author" : "Amelia Lucas"
+         "title" : "Beyond Meat is launching meat-free meatballs in grocery stores - CNBC",
+         "author" : "Amelia Lucas",
+         "publishedAt" : "2020-09-14T13:00:00Z"
       },
       {
-         "author" : "Jessica Bursztynsky",
+         "source" : {
+            "name" : "CNBC",
+            "id" : null
+         },
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106375565-1580969931683gettyimages-1165309438.jpeg?v=1580970178",
+         "url" : "https://www.cnbc.com/2020/09/14/verizon-to-buy-wireless-services-provider-tracfone-in-6point25-billion-deal.html",
+         "description" : "Verizon Communications said on Monday it would buy wireless services provider Tracfone, a unit of Mexican telecom America Movil, in a $6.25 billion cash and stock deal.",
          "content" : "Verizon Communications said Monday it would buy wireless services provider Tracfone, a unit of Mexican telecom America Movil, in a $6.25 billion cash and stock deal.\r\nSeveral mergers in recent years … [+946 chars]",
          "publishedAt" : "2020-09-14T12:50:00Z",
-         "description" : "Verizon Communications said on Monday it would buy wireless services provider Tracfone, a unit of Mexican telecom America Movil, in a $6.25 billion cash and stock deal.",
-         "url" : "https://www.cnbc.com/2020/09/14/verizon-to-buy-wireless-services-provider-tracfone-in-6point25-billion-deal.html",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106375565-1580969931683gettyimages-1165309438.jpeg?v=1580970178",
-         "source" : {
-            "name" : "CNBC",
-            "id" : null
-         },
-         "title" : "Verizon to buy wireless services provider Tracfone in $6.25 billion deal - CNBC"
+         "title" : "Verizon to buy wireless services provider Tracfone in $6.25 billion deal - CNBC",
+         "author" : "Jessica Bursztynsky"
       },
       {
-         "title" : "New York Sports Club owner files for bankruptcy, with gyms hit by pandemic - CNBC",
-         "publishedAt" : "2020-09-14T12:50:00Z",
          "description" : "New York Sports Club owner Town Sports International filed for Chapter 11 bankruptcy Monday, with many gyms nationwide still shut because of the Covid pandemic.",
          "url" : "https://www.cnbc.com/2020/09/14/covid-19-new-york-sports-club-owner-town-sports-files-for-bankruptcy.html",
-         "author" : "Lauren Thomas",
          "content" : "New York Sports Club owner Town Sports International filed for Chapter 11 bankruptcy Monday, with many gyms nationwide still shut by the coronavirus pandemic.\r\nThe company joins a number of gym opera… [+1308 chars]",
          "source" : {
-            "name" : "CNBC",
-            "id" : null
+            "id" : null,
+            "name" : "CNBC"
          },
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106701201-1600085788728-gettyimages-1266888586-ajr_7373_20200817104430450.jpg?v=1600085900"
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106701201-1600085788728-gettyimages-1266888586-ajr_7373_20200817104430450.jpg?v=1600085900",
+         "title" : "New York Sports Club owner files for bankruptcy, with gyms hit by pandemic - CNBC",
+         "author" : "Lauren Thomas",
+         "publishedAt" : "2020-09-14T12:50:00Z"
       },
       {
+         "publishedAt" : "2020-09-14T12:42:31Z",
+         "author" : "Reuters",
+         "title" : "Tropical Storm Sally forces oil companies to idle production in Gulf of Mexico - Fox Business",
+         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/09/0/0/SallySat_1.jpg?ve=1&tl=1",
          "source" : {
             "name" : "Fox Business",
             "id" : null
          },
-         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/09/0/0/SallySat_1.jpg?ve=1&tl=1",
-         "url" : "https://www.foxbusiness.com/energy/tropical-storm-sally-oil-gulf-of-mexico-production",
-         "description" : "Offshore platforms and one refinery along the U.S. Gulf Coast shut down on Sunday as they prepared for a second hurricane strike in less than a month.",
-         "publishedAt" : "2020-09-14T12:42:31Z",
          "content" : "HOUSTON -- Offshore platforms and one refinery along the U.S. Gulf Coast shut down on Sunday as they prepared for a second hurricane strike in less than a month.\r\nPhillips 66 began shutting its 255,6… [+2353 chars]",
-         "author" : "Reuters",
-         "title" : "Tropical Storm Sally forces oil companies to idle production in Gulf of Mexico - Fox Business"
+         "url" : "https://www.foxbusiness.com/energy/tropical-storm-sally-oil-gulf-of-mexico-production",
+         "description" : "Offshore platforms and one refinery along the U.S. Gulf Coast shut down on Sunday as they prepared for a second hurricane strike in less than a month."
       },
       {
          "title" : "Stocks boosted by coronavirus vaccine optimism, deals - Fox Business",
-         "url" : "https://www.foxbusiness.com/markets/us-stocks-sept-14-2020",
+         "author" : "Jonathan Garber",
          "publishedAt" : "2020-09-14T12:40:04Z",
+         "url" : "https://www.foxbusiness.com/markets/us-stocks-sept-14-2020",
          "description" : "Stocks rallied Monday amid further optimism over a COVID-19 vaccine and after a flurry of deals.",
          "content" : "U.S. equity markets rallied Monday amid optimism a COVID-19 vaccine will be distributed by yearend and amid a flurry of deals.\r\nThe Nasdaq Composite traded up 2% as tech stocks continued to dictate t… [+4343 chars]",
-         "author" : "Jonathan Garber",
          "source" : {
-            "name" : "Fox Business",
-            "id" : null
+            "id" : null,
+            "name" : "Fox Business"
          },
          "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/07/0/0/stock-market-AP-0052.jpg?ve=1&tl=1"
       },
@@ -99,64 +97,64 @@
             "id" : null
          },
          "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106587540-1592851436956gettyimages-1220372665.jpeg?v=1592851702",
-         "publishedAt" : "2020-09-14T12:23:00Z",
-         "description" : "New data from the National Restaurant Association outline how hard the industry has been hit by the pandemic, with an estimated $165 billion in sales lost from March through July and more than 8 million workers either furloughed or laid off at the peak of the…",
-         "url" : "https://www.cnbc.com/2020/09/14/restaurant-industry-facing-new-challenges.html",
-         "author" : "Kate Rogers",
          "content" : "Just over a year ago, Adam Rammel was struggling to find workers. The owner of local craft beer bar, Brewfontaine, in Bellefontaine, Ohio, was gearing up to open his new events and catering business,… [+3975 chars]",
+         "url" : "https://www.cnbc.com/2020/09/14/restaurant-industry-facing-new-challenges.html",
+         "description" : "New data from the National Restaurant Association outline how hard the industry has been hit by the pandemic, with an estimated $165 billion in sales lost from March through July and more than 8 million workers either furloughed or laid off at the peak of the…",
+         "publishedAt" : "2020-09-14T12:23:00Z",
+         "author" : "Kate Rogers",
          "title" : "Winter is coming, bringing a new challenge to already-struggling restaurants - CNBC"
       },
       {
-         "title" : "Vaxart's stock rallies 15% after it gets clearance to begin human trials of COVID-19 vaccine candidate - MarketWatch",
-         "urlToImage" : "https://s.wsj.net/public/resources/MWimages/MW-GP644_MicroS_ZG_20180906154215.jpg",
+         "url" : "https://www.marketwatch.com/story/vaxarts-stock-rallies-15-after-it-gets-clearance-to-begin-human-trials-of-covid-19-vaccine-candidate-2020-09-14",
+         "description" : "",
+         "content" : "Shares of Vaxart Inc. \r\n VXRT, \r\n +22.45%\r\njumped 15.6% in premarket trading on Monday after the company said it had received the go-ahead from the Food and Drug Administration to begin testing its e… [+289 chars]",
          "source" : {
             "name" : "MarketWatch",
             "id" : null
          },
-         "content" : "Shares of Vaxart Inc. \r\n VXRT, \r\n +22.45%\r\njumped 15.6% in premarket trading on Monday after the company said it had received the go-ahead from the Food and Drug Administration to begin testing its e… [+289 chars]",
+         "urlToImage" : "https://s.wsj.net/public/resources/MWimages/MW-GP644_MicroS_ZG_20180906154215.jpg",
+         "title" : "Vaxart's stock rallies 15% after it gets clearance to begin human trials of COVID-19 vaccine candidate - MarketWatch",
          "author" : "Jaimy Lee",
-         "url" : "https://www.marketwatch.com/story/vaxarts-stock-rallies-15-after-it-gets-clearance-to-begin-human-trials-of-covid-19-vaccine-candidate-2020-09-14",
-         "description" : "",
          "publishedAt" : "2020-09-14T12:10:00Z"
       },
       {
+         "author" : "http://www.facebook.com/kitconews",
+         "title" : "Gold price \"coiling\" suggests bigger move coming soon - Kitco NEWS",
+         "publishedAt" : "2020-09-14T12:03:00Z",
+         "content" : "Editor's Note: With so much market volatility, stay on top of daily news! Get caught up in minutes with our speedy summary of today's must-read news and expert opinions. Sign up here! \r\n(Kitco News) … [+3842 chars]",
+         "url" : "https://www.kitco.com/news/2020-09-14/Gold-and-silver-storing-energy-for-a-big-breakout.html",
+         "description" : "Senior Technical Analyst Jim Wyckoff prepares investors with an overview of how the markets opened and closed. What moved metal prices? How do the technicals look? By looking at important developments",
+         "urlToImage" : "https://www.kitco.com/news/2020-09-14/images/goldchart_0914_am.png",
          "source" : {
             "name" : "Kitco NEWS",
             "id" : null
-         },
-         "urlToImage" : "https://www.kitco.com/news/2020-09-14/images/goldchart_0914_am.png",
-         "description" : "Senior Technical Analyst Jim Wyckoff prepares investors with an overview of how the markets opened and closed. What moved metal prices? How do the technicals look? By looking at important developments",
-         "publishedAt" : "2020-09-14T12:03:00Z",
-         "url" : "https://www.kitco.com/news/2020-09-14/Gold-and-silver-storing-energy-for-a-big-breakout.html",
-         "author" : "http://www.facebook.com/kitconews",
-         "content" : "Editor's Note: With so much market volatility, stay on top of daily news! Get caught up in minutes with our speedy summary of today's must-read news and expert opinions. Sign up here! \r\n(Kitco News) … [+3842 chars]",
-         "title" : "Gold price \"coiling\" suggests bigger move coming soon - Kitco NEWS"
+         }
       },
       {
-         "content" : null,
-         "author" : "Adrian Padeanu",
-         "url" : "https://www.motor1.com/news/443872/2021-hyundai-tucson-livestream-debut/",
-         "description" : "The 2021 Hyundai Tucson is debuting live today with a whole new look inside and out. The teasers have hinted at a polarizing exterior and a minimalist cabin.",
-         "publishedAt" : "2020-09-14T12:01:08Z",
-         "urlToImage" : "https://cdn.motor1.com/images/mgl/VkOeM/s1/2021-hyundai-tucson-teaser.jpg",
          "source" : {
-            "name" : "Motor1 ",
-            "id" : null
+            "id" : null,
+            "name" : "Motor1 "
          },
+         "urlToImage" : "https://cdn.motor1.com/images/mgl/VkOeM/s1/2021-hyundai-tucson-teaser.jpg",
+         "content" : null,
+         "description" : "The 2021 Hyundai Tucson is debuting live today with a whole new look inside and out. The teasers have hinted at a polarizing exterior and a minimalist cabin.",
+         "url" : "https://www.motor1.com/news/443872/2021-hyundai-tucson-livestream-debut/",
+         "publishedAt" : "2020-09-14T12:01:08Z",
+         "author" : "Adrian Padeanu",
          "title" : "2021 Hyundai Tucson Debuts Today: See The Livestream Right Here - Motor1 "
       },
       {
-         "title" : "Amazon and Walmart's emerging delivery drone battle escalates with Zipline deal - CNBC",
-         "author" : "Riley de León",
-         "content" : "Walmart announced Monday that it's partnering with Zipline  a company best known for its medical drone operations in African countries like Ghana and Rwanda to launch a delivery service of select hea… [+2632 chars]",
-         "publishedAt" : "2020-09-14T12:00:00Z",
-         "description" : "Walmart is partnering with drone unicorn Zipline to make on-demand deliveries of health and wellness products starting early next year. Trials will take place near Walmart's headquarters in Arkansas.",
-         "url" : "https://www.cnbc.com/2020/09/14/amazon-walmart-delivery-drone-battle-escalates-with-zipline-deal.html",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/105869402-15561208729911.dronedelivering.jpg?v=1600056352",
          "source" : {
             "id" : null,
             "name" : "CNBC"
-         }
+         },
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/105869402-15561208729911.dronedelivering.jpg?v=1600056352",
+         "content" : "Walmart announced Monday that it's partnering with Zipline  a company best known for its medical drone operations in African countries like Ghana and Rwanda to launch a delivery service of select hea… [+2632 chars]",
+         "description" : "Walmart is partnering with drone unicorn Zipline to make on-demand deliveries of health and wellness products starting early next year. Trials will take place near Walmart's headquarters in Arkansas.",
+         "url" : "https://www.cnbc.com/2020/09/14/amazon-walmart-delivery-drone-battle-escalates-with-zipline-deal.html",
+         "publishedAt" : "2020-09-14T12:00:00Z",
+         "author" : "Riley de León",
+         "title" : "Amazon and Walmart's emerging delivery drone battle escalates with Zipline deal - CNBC"
       },
       {
          "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106698034-1599771467554-gettyimages-902863704-pi-1622212.jpeg?v=1599771495",
@@ -164,103 +162,105 @@
             "id" : null,
             "name" : "CNBC"
          },
-         "author" : "Greg Iacurci",
-         "content" : "As households struggle to make ends meet,  more Americans have been forced to halt or raid their retirement savings in this coronavirus-induced recession.\r\nNearly 3 in 10 people have decreased the am… [+5043 chars]",
-         "description" : "The economic fallout from the coronavirus pandemic is pushing retirement savers to pull thousands of dollars from their nest eggs to make ends meet.",
-         "publishedAt" : "2020-09-14T12:00:00Z",
          "url" : "https://www.cnbc.com/2020/09/14/americans-are-forced-to-raid-retirement-savings-during-the-pandemic.html",
-         "title" : "Americans are raiding retirement savings during coronavirus pandemic - CNBC"
+         "description" : "The economic fallout from the coronavirus pandemic is pushing retirement savers to pull thousands of dollars from their nest eggs to make ends meet.",
+         "content" : "As households struggle to make ends meet,  more Americans have been forced to halt or raid their retirement savings in this coronavirus-induced recession.\r\nNearly 3 in 10 people have decreased the am… [+5043 chars]",
+         "publishedAt" : "2020-09-14T12:00:00Z",
+         "title" : "Americans are raiding retirement savings during coronavirus pandemic - CNBC",
+         "author" : "Greg Iacurci"
       },
       {
-         "title" : "5 things to know before the stock market opens Monday - CNBC",
-         "content" : "1. Wall Street set for a recovery after a rough week\r\nA man walks near the New York Stock Exchange (NYSE) on August 31, 2020 at Wall Street in New York City.\r\nU.S. stock futures jumped Monday after t… [+4705 chars]",
-         "author" : "Matthew J. Belvedere",
-         "url" : "https://www.cnbc.com/2020/09/14/5-things-to-know-before-the-stock-market-opens-september-14-2020.html",
-         "publishedAt" : "2020-09-14T11:57:00Z",
-         "description" : "Heading into Monday trading, the Nasdaq was off just under 10% from its closing record on Sept. 2.",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106684581-1598884854659-gettyimages-1228284649-AFP_1WV9QA.jpeg?v=1598884920",
-         "source" : {
-            "id" : null,
-            "name" : "CNBC"
-         }
-      },
-      {
-         "title" : "OPEC cuts 2020 oil demand forecast, trims 2021 outlook on pandemic fallout - CNBC",
          "source" : {
             "id" : null,
             "name" : "CNBC"
          },
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106701055-1600081485230-gettyimages-1227845379-makhija-notitle200730_npgvz.jpeg?v=1600081618",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106684581-1598884854659-gettyimages-1228284649-AFP_1WV9QA.jpeg?v=1598884920",
+         "content" : "1. Wall Street set for a recovery after a rough week\r\nA man walks near the New York Stock Exchange (NYSE) on August 31, 2020 at Wall Street in New York City.\r\nU.S. stock futures jumped Monday after t… [+4705 chars]",
+         "url" : "https://www.cnbc.com/2020/09/14/5-things-to-know-before-the-stock-market-opens-september-14-2020.html",
+         "description" : "Heading into Monday trading, the Nasdaq was off just under 10% from its closing record on Sept. 2.",
+         "publishedAt" : "2020-09-14T11:57:00Z",
+         "author" : "Matthew J. Belvedere",
+         "title" : "5 things to know before the stock market opens Monday - CNBC"
+      },
+      {
+         "content" : "LONDON  OPEC has cut its forecast for oil demand growth this year, citing a weaker-than-expected recovery in India and other Asian countries, and warned risks remain \"elevated and skewed to the downs… [+3014 chars]",
          "url" : "https://www.cnbc.com/2020/09/14/oil-and-coronavius-opec-cuts-2020-demand-forecast-trims-2021-outlook.html",
          "description" : "OPEC has cut its forecast for oil demand growth this year, citing a weaker-than-expected recovery in India and other Asian countries.",
-         "publishedAt" : "2020-09-14T11:40:00Z",
-         "content" : "LONDON  OPEC has cut its forecast for oil demand growth this year, citing a weaker-than-expected recovery in India and other Asian countries, and warned risks remain \"elevated and skewed to the downs… [+3014 chars]",
-         "author" : "Sam Meredith"
+         "source" : {
+            "name" : "CNBC",
+            "id" : null
+         },
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106701055-1600081485230-gettyimages-1227845379-makhija-notitle200730_npgvz.jpeg?v=1600081618",
+         "author" : "Sam Meredith",
+         "title" : "OPEC cuts 2020 oil demand forecast, trims 2021 outlook on pandemic fallout - CNBC",
+         "publishedAt" : "2020-09-14T11:40:00Z"
       },
       {
-         "title" : "ViacomCBS Reaches Deal to Sell CNET for $500 Million to Marketing Firm Red Ventures - Variety",
+         "content" : "ViacomCBS is offloading CNET Media Group in a $500 million deal with digital-marketing company Red Ventures, which announced the deal Monday.\r\nUnder the deal, CNET Media Group EVP and GM Mark Larkin,… [+4217 chars]",
+         "url" : "https://variety.com/2020/digital/news/cnet-viacomcbs-sells-red-ventures-1234768810/",
+         "description" : "ViacomCBS is offloading CNET Media Group in a $500 million deal with digital-marketing company Red Ventures, which announced the deal Monday. Under the deal, CNET Media Group EVP and GM Mark Larkin, along with the unit’s senior execs, will remain with Red Ven…",
          "source" : {
-            "id" : null,
-            "name" : "Variety"
+            "name" : "Variety",
+            "id" : null
          },
          "urlToImage" : "https://pmcvariety.files.wordpress.com/2020/08/cnet-logo.png?w=640",
-         "description" : "ViacomCBS is offloading CNET Media Group in a $500 million deal with digital-marketing company Red Ventures, which announced the deal Monday. Under the deal, CNET Media Group EVP and GM Mark Larkin, along with the unit’s senior execs, will remain with Red Ven…",
-         "publishedAt" : "2020-09-14T11:29:00Z",
-         "url" : "https://variety.com/2020/digital/news/cnet-viacomcbs-sells-red-ventures-1234768810/",
          "author" : "Todd Spangler",
-         "content" : "ViacomCBS is offloading CNET Media Group in a $500 million deal with digital-marketing company Red Ventures, which announced the deal Monday.\r\nUnder the deal, CNET Media Group EVP and GM Mark Larkin,… [+4217 chars]"
+         "title" : "ViacomCBS Reaches Deal to Sell CNET for $500 Million to Marketing Firm Red Ventures - Variety",
+         "publishedAt" : "2020-09-14T11:29:00Z"
       },
       {
-         "urlToImage" : "https://images.wsj.net/im-231668/social",
-         "source" : {
-            "name" : "The Wall Street Journal",
-            "id" : "the-wall-street-journal"
-         },
-         "author" : "Alison Sider",
          "content" : "Delta Air Lines Inc. is the latest carrier to use its frequent-flier program to secure cash to weather the coronavirus pandemic, announcing plans to raise $6.5 billion backed by its SkyMiles program.… [+1375 chars]",
-         "publishedAt" : "2020-09-14T11:18:00Z",
          "description" : "Carrier follows United Airlines in putting up loyalty program as collateral, says it won’t seek government loan",
          "url" : "https://www.wsj.com/articles/delta-to-use-frequent-flier-program-to-raise-6-5-billion-11600082314",
-         "title" : "Delta to Use Frequent-Flier Program to Raise $6.5 Billion - The Wall Street Journal"
+         "source" : {
+            "id" : "the-wall-street-journal",
+            "name" : "The Wall Street Journal"
+         },
+         "urlToImage" : "https://images.wsj.net/im-231668/social",
+         "author" : "Alison Sider",
+         "title" : "Delta to Use Frequent-Flier Program to Raise $6.5 Billion - The Wall Street Journal",
+         "publishedAt" : "2020-09-14T11:18:00Z"
       },
       {
-         "urlToImage" : "https://cbsnews3.cbsistatic.com/hub/i/r/2020/09/13/b298dd36-49fb-4dd7-a614-05f47359c6de/thumbnail/1200x630g2/37ec8da33626a3789e5966e75a7e9cdc/screen-shot-2020-09-13-at-10-43-36-am.png",
+         "content" : "Washington — Albert Bourla, the head of pharmaceutical giant Pfizer, which is among the companies developing a coronavirus vaccine, said Sunday there is a \"good chance\" the company will know whether … [+3447 chars]",
+         "url" : "https://www.cbsnews.com/news/covid-vaccine-effectiveness-october-pfizer/",
+         "description" : "Approval of a vaccine, however, will depend on federal regulators, Albert Bourla said.",
          "source" : {
             "name" : "CBS News",
             "id" : "cbs-news"
          },
-         "content" : "Washington — Albert Bourla, the head of pharmaceutical giant Pfizer, which is among the companies developing a coronavirus vaccine, said Sunday there is a \"good chance\" the company will know whether … [+3447 chars]",
+         "urlToImage" : "https://cbsnews3.cbsistatic.com/hub/i/r/2020/09/13/b298dd36-49fb-4dd7-a614-05f47359c6de/thumbnail/1200x630g2/37ec8da33626a3789e5966e75a7e9cdc/screen-shot-2020-09-13-at-10-43-36-am.png",
          "author" : "Melissa Quinn",
-         "url" : "https://www.cbsnews.com/news/covid-vaccine-effectiveness-october-pfizer/",
-         "description" : "Approval of a vaccine, however, will depend on federal regulators, Albert Bourla said.",
-         "publishedAt" : "2020-09-14T11:04:00Z",
-         "title" : "Pfizer CEO says company will know if vaccine works by end of October - CBS News"
+         "title" : "Pfizer CEO says company will know if vaccine works by end of October - CBS News",
+         "publishedAt" : "2020-09-14T11:04:00Z"
       },
       {
-         "description" : "The AMR-C01, as it's called, comes from Aston Martin and partner Curv Racing Simulators.",
-         "publishedAt" : "2020-09-14T11:00:12Z",
-         "url" : "https://www.cnet.com/roadshow/news/aston-martin-racing-simulator-esports-rig/",
          "author" : "Sean Szymkowski",
+         "title" : "Aston Martin's new racing simulator may be the coolest esports rig we've seen - CNET",
+         "publishedAt" : "2020-09-14T11:00:12Z",
          "content" : "Yes, I'll take one, thanks.\r\nAston Martin\r\nTake notes, people. If you want to surprise the esports enthusiast in your life with a thing for racing simulators, this is the ultimate toy: The Aston Mart… [+1557 chars]",
+         "url" : "https://www.cnet.com/roadshow/news/aston-martin-racing-simulator-esports-rig/",
+         "description" : "The AMR-C01, as it's called, comes from Aston Martin and partner Curv Racing Simulators.",
+         "urlToImage" : "https://cnet4.cbsistatic.com/img/LUnN_UJkyqMPL7I2VJAh7WvOg9A=/1200x630/2020/09/11/34e15557-5dfe-421f-b0d5-1527542a5a54/ogi-am.jpg",
          "source" : {
             "id" : null,
             "name" : "CNET"
-         },
-         "urlToImage" : "https://cnet4.cbsistatic.com/img/LUnN_UJkyqMPL7I2VJAh7WvOg9A=/1200x630/2020/09/11/34e15557-5dfe-421f-b0d5-1527542a5a54/ogi-am.jpg",
-         "title" : "Aston Martin's new racing simulator may be the coolest esports rig we've seen - CNET"
+         }
       },
       {
          "urlToImage" : "https://mma.prnewswire.com/media/1214227/nikola_Logo.jpg?p=facebook",
          "source" : {
-            "id" : null,
-            "name" : "PRNewswire"
+            "name" : "PRNewswire",
+            "id" : null
          },
-         "author" : null,
          "content" : "PHOENIX, Sept. 14, 2020 /PRNewswire/ -- Nikola Corporation (NASDAQ: NKLA) (\"the Company\") today issued the following statement commenting on a false and defamatory report published September 10, 2020… [+18339 chars]",
+         "url" : "https://www.prnewswire.com/news-releases/nikola-sets-the-record-straight-on-false-and-misleading-short-seller-report-301129952.html",
          "description" : "/PRNewswire/ -- Nikola Corporation (NASDAQ: NKLA) (\"the Company\") today issued the following statement commenting on a false and defamatory report published...",
          "publishedAt" : "2020-09-14T11:00:00Z",
-         "url" : "https://www.prnewswire.com/news-releases/nikola-sets-the-record-straight-on-false-and-misleading-short-seller-report-301129952.html",
+         "author" : null,
          "title" : "Nikola Sets the Record Straight on False and Misleading Short Seller Report - PRNewswire"
       }
-   ]
+   ],
+   "status" : "ok",
+   "totalResults" : 70
 }
