@@ -1,266 +1,266 @@
 {
-   "totalResults" : 70,
    "articles" : [
       {
-         "publishedAt" : "2020-09-14T00:02:00Z",
+         "description" : "L.A.-bound plane returns to gate, departs 47 minutes late",
+         "source" : {
+            "id" : null,
+            "name" : "The Detroit News"
+         },
+         "url" : "https://www.detroitnews.com/story/news/local/michigan/2020/09/13/delta-passenger-mask-flight-delayed-detroit-los-angeles/5788765002/",
+         "content" : "A Delta Air Lines flight from Detroit to Los Angeles had to make a pre-liftoff detour back to the gate when a passenger refused to wear a mask.\r\nDelta Flight 201, scheduled to depart at 8:15 p.m. Sat… [+2444 chars]",
+         "urlToImage" : "https://www.gannett-cdn.com/presto/2020/09/14/PDTN/6c6b1149-f97c-41f8-b542-473619b1bcc7-AP20244723182709.jpg?crop=5279,2970,x0,y268&width=3200&height=1680&fit=bounds",
+         "author" : "Neal Rubin",
+         "publishedAt" : "2020-09-14T00:45:02Z",
+         "title" : "Passenger removed, Delta flight in Detroit delayed over mask - The Detroit News"
+      },
+      {
+         "url" : "https://www.investing.com/news/stock-market-news/asian-shares-on-firm-footing-as-vaccine-trials-resume-2294041",
+         "content" : "By Swati Pandey\r\nSYDNEY (Reuters) - Asian shares firmed on Monday on renewed hopes for a coronavirus vaccine after AstraZeneca (NYSE:AZN) resumed its phase-3 trial though sentiment was still cautious… [+3199 chars]",
+         "urlToImage" : "https://i-invdn-com.akamaized.net/trkd-images/LYNXMPEG8D00R_L.jpg",
+         "author" : null,
+         "publishedAt" : "2020-09-14T00:40:00Z",
+         "title" : "Asian shares on firm footing as vaccine trials resume - Investing.com",
+         "description" : "Asian shares buoyed by coronavirus vaccine hopes",
+         "source" : {
+            "id" : null,
+            "name" : "Investing.com"
+         }
+      },
+      {
+         "publishedAt" : "2020-09-14T00:11:15Z",
+         "title" : "Stocks, Futures Push Higher After Two-Week Slide: Markets Wrap - Yahoo Finance",
+         "author" : "Adam Haigh",
+         "urlToImage" : "https://s.yimg.com/uu/api/res/1.2/jHVHSUvvY8kAB1GQAv9WqA--~B/aD02NzU7dz0xMjAwO3NtPTE7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/bloomberg_markets_842/6ea97831f9fed09d8335ef0a23f91cfb",
+         "content" : "(Bloomberg) -- Asian stocks climbed Monday and U.S. futures pointed higher amid signs of progress toward a virus vaccine and as investors looked ahead to a Federal Reserve meeting. The dollar and Tre… [+2965 chars]",
+         "url" : "https://finance.yahoo.com/news/asia-stocks-point-cautious-start-205508555.html",
+         "source" : {
+            "name" : "Yahoo Entertainment",
+            "id" : null
+         },
+         "description" : "(Bloomberg) -- Asian stocks climbed Monday and U.S. futures pointed higher amid signs of progress toward a virus vaccine and as investors looked ahead to a Federal Reserve meeting. The dollar and Treasuries were little changed.South Korea led modest regional …"
+      },
+      {
          "urlToImage" : "https://images.wsj.net/im-231655/social",
+         "content" : "Oracle Corp. won the bidding for the U.S. operations of the video-sharing app TikTok, a person familiar with the matter said, beating out Microsoft Corp. in a deal to salvage a social-media service t… [+226 chars]",
+         "url" : "https://www.wsj.com/articles/microsoft-drops-out-of-bidding-for-tiktoks-u-s-operations-11600039821",
+         "publishedAt" : "2020-09-14T00:02:00Z",
+         "title" : "Oracle Wins Bidding for TikTok in U.S., After Microsoft Proposal Rejected - The Wall Street Journal",
          "author" : "Georgia Wells, Aaron Tilley",
          "description" : "Deal, which is likely not to be structured as an outright sale, will face White House review",
          "source" : {
             "name" : "The Wall Street Journal",
             "id" : "the-wall-street-journal"
-         },
-         "title" : "Oracle Wins Bidding for TikTok in U.S., After Microsoft Proposal Rejected - The Wall Street Journal",
-         "content" : "Oracle Corp. won the bidding for the U.S. operations of the video-sharing app TikTok, a person familiar with the matter said, beating out Microsoft Corp. in a deal to salvage a social-media service t… [+226 chars]",
-         "url" : "https://www.wsj.com/articles/microsoft-drops-out-of-bidding-for-tiktoks-u-s-operations-11600039821"
+         }
       },
       {
+         "url" : "https://www.cnet.com/personal-finance/how-much-stimulus-check-money-could-you-get-calculate-it-using-this-tool/",
+         "content" : "The CNET stimulus payment calculator can help you estimate how much money you could get from the IRS if a second check comes to be.\r\nSarah Tew/CNET\r\nIf a second stimulus check gets approved in 2020, … [+3336 chars]",
+         "urlToImage" : "https://cnet1.cbsistatic.com/img/F4ZpHvWRMSHICAPdaVMgaXRigDo=/1200x630/2020/08/04/24605e53-49eb-4e96-b84d-94e3800c90b1/calculate-calculator-amount-of-stimulus-check-2020-cash-money-phone-002.jpg",
+         "author" : "Clifford Colby",
+         "publishedAt" : "2020-09-13T23:46:18Z",
+         "title" : "How much stimulus check money you could get? Calculate it using this tool - CNET",
+         "description" : "Use our calculator to estimate how much you, your family and your dependents could expect to receive with a second stimulus check, or with your first payment if you're still waiting for it to arrive.",
+         "source" : {
+            "id" : null,
+            "name" : "CNET"
+         }
+      },
+      {
+         "description" : "SoftBank bought Arm for $31.4 billion in 2016, and the sale is seen as a move to raise much-needed cash as it has recently lost a significant amount of money in its high-profile investments in companies like WeWork and Uber.",
+         "source" : {
+            "id" : null,
+            "name" : "CNBC"
+         },
+         "content" : "Chipmaker Nvidia has agreed to buy Arm Holdings, a designer of chips for mobile phones, from SoftBank in a deal worth $40 billion, the companies announced Sunday. The deal will include $21.5 billion … [+2117 chars]",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/104934324-JensenHuang2.jpg?v=1588022007",
+         "url" : "https://www.cnbc.com/2020/09/14/nvidia-to-buy-arm-holdings-from-softbank-for-40-billion.html",
+         "publishedAt" : "2020-09-13T23:27:00Z",
+         "title" : "Nvidia to buy Arm Holdings from SoftBank for $40 billion - CNBC",
+         "author" : "Matt Rosoff"
+      },
+      {
+         "url" : "https://www.wsj.com/articles/exxon-used-to-be-americas-most-valuable-company-what-happened-oil-gas-11600037243",
+         "content" : "It has been a stunning fall from grace for Exxon Mobil Corp.\r\nJust seven years ago, Exxon was the biggest U.S. company by market capitalization. It has since lost roughly 60% of its value, with its m… [+147 chars]",
+         "urlToImage" : "https://images.wsj.net/im-230640/social",
+         "author" : "Christopher M. Matthews",
+         "publishedAt" : "2020-09-13T22:50:00Z",
+         "title" : "Exxon Used to Be America’s Most Valuable Company. What Happened? - The Wall Street Journal",
+         "description" : "The oil giant doubled down on oil and gas before the pandemic crushed demand",
+         "source" : {
+            "name" : "The Wall Street Journal",
+            "id" : "the-wall-street-journal"
+         }
+      },
+      {
+         "author" : "Steven Loveday",
+         "publishedAt" : "2020-09-13T22:12:34Z",
+         "title" : "Tesla Model 3 In-Depth 10,000-Mile Cost-Of-Ownership Analysis - InsideEVs ",
+         "url" : "https://insideevs.com/features/443788/video-tesla-model-3-9-months-10k-miles-cost-to-own/",
+         "content" : "This Tesla Model 3 cost-of-ownership followup just premiered today. If you're in the market for a Model 3, another Tesla vehicle, or any EV for that matter, it's worth your time.\r\nThe Model 3 is Tesl… [+1850 chars]",
+         "urlToImage" : "https://cdn.motor1.com/images/mgl/x4Z62/s1/tesla-model-3-10-000-mile-cost.jpg",
+         "source" : {
+            "name" : "InsideEVs ",
+            "id" : null
+         },
+         "description" : "The Model 3 is Tesla's least-expensive model, but it's still not cheap. However, it is priced better than many less compelling EVs, and it's cheap to own."
+      },
+      {
+         "url" : "https://www.cnbc.com/2020/09/13/stock-market-futures-open-to-close-news.html",
+         "content" : "U.S. stock futures rose on Sunday night after a sell-off in tech shares led to the market's first back-to-back weekly declines in months.\r\nDow Jones Industrial Average futures traded 203 points highe… [+2250 chars]",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106545633-1589984789341gettyimages-1225668325.jpeg?v=1600033309",
+         "author" : "Fred Imbert",
+         "publishedAt" : "2020-09-13T22:00:00Z",
+         "title" : "Dow futures jump 200 points as Wall Street tries to recover after tech struggles - CNBC",
+         "description" : "U.S. stock futures rose on Sunday night after a sell-off in tech shares led to the market's first back-to-back weekly declines in months.",
          "source" : {
             "name" : "CNBC",
             "id" : null
-         },
-         "title" : "Nvidia to buy Arm Holdings from SoftBank for $40 billion - CNBC",
-         "content" : "Chipmaker Nvidia has agreed to buy Arm Holdings, a designer of chips for mobile phones, from SoftBank in a deal worth $40 billion, the companies announced Sunday. The deal will include $21.5 billion … [+2117 chars]",
-         "url" : "https://www.cnbc.com/2020/09/14/nvidia-to-buy-arm-holdings-from-softbank-for-40-billion.html",
-         "description" : "SoftBank bought Arm for $31.4 billion in 2016, and the sale is seen as a move to raise much-needed cash as it has recently lost a significant amount of money in its high-profile investments in companies like WeWork and Uber.",
-         "author" : "Matt Rosoff",
-         "publishedAt" : "2020-09-13T23:27:00Z",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/104934324-JensenHuang2.jpg?v=1588022007"
+         }
       },
       {
-         "description" : "U.S. stock futures rose on Sunday night after a sell-off in tech shares led to the market's first back-to-back weekly declines in months.",
-         "title" : "Dow futures jump 200 points as Wall Street tries to recover after tech struggles - CNBC",
+         "title" : "How a Nashville guitar maker, Novo, struck a new chord after COVID-19 shut down its business - USA TODAY",
+         "publishedAt" : "2020-09-13T21:57:52Z",
+         "author" : "By Aimee Picchi",
+         "content" : "Novo Guitars sells hand-made, originally-designed guitars. Here's how they've survived the pandemic even with no concerts or live performances.\r\nUSA TODAY\r\nSince its founding in 2015, Novo Guitars ha… [+3663 chars]",
+         "urlToImage" : "https://www.gannett-cdn.com/presto/2020/09/09/USAT/5e11defd-8226-4579-9c57-5253f8169408-dennis_working1.jpg?crop=1618,911,x0,y162&width=1600&height=800&fit=bounds",
+         "url" : "https://www.usatoday.com/story/money/2020/09/13/small-business-novo-guitars-turns-direct-sales-survive-covid-19/5770744002/",
          "source" : {
-            "id" : null,
-            "name" : "CNBC"
+            "id" : "usa-today",
+            "name" : "USA Today"
          },
-         "content" : "U.S. stock futures rose on Sunday night after a sell-off in tech shares led to the market's first back-to-back weekly declines in months.\r\nDow Jones Industrial Average futures traded 203 points highe… [+2250 chars]",
-         "url" : "https://www.cnbc.com/2020/09/13/stock-market-futures-open-to-close-news.html",
-         "publishedAt" : "2020-09-13T22:00:00Z",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106545633-1589984789341gettyimages-1225668325.jpeg?v=1600033309",
-         "author" : "Fred Imbert"
+         "description" : "Like many entrepreneurs and small businesses, Novo Guitars in Nashville had to quickly adapt to the new normal during the pandemic."
       },
       {
-         "description" : "<p>All BART stations were shut down becasue of a systemwide computer problem, the agency said early Sunday. Full service has been restored.</p>",
+         "publishedAt" : "2020-09-13T21:32:49Z",
+         "title" : "Price of Gold Fundamental Weekly Forecast - Fed May Not Deliver What Gold Bulls Want to Hear - FX Empire",
+         "author" : null,
+         "urlToImage" : "https://responsive.fxempire.com/width/600/webp-lossy-70.q50/_fxempire_/2020/09/GoldDollar-1.jpg",
+         "content" : "Late in the week, gold jumped as the dollar weakened after the European Central Bank kept its policy unchanged and U.S. jobless claims held at high levels, dimming hopes of a quick economic recovery … [+2257 chars]",
+         "url" : "https://www.fxempire.com/forecasts/article/price-of-gold-fundamental-weekly-forecast-fed-may-not-deliver-what-gold-bulls-want-to-hear-672139",
+         "source" : {
+            "name" : "FX Empire",
+            "id" : null
+         },
+         "description" : "It seems wherever we look we see reasons for higher prices and reasons for lower prices. This is creating a rangebound trade."
+      },
+      {
+         "author" : "Mike Murphy",
+         "title" : "Pfizer CEO: Coronavirus vaccine could be distributed in U.S. by end of year - MarketWatch",
+         "publishedAt" : "2020-09-13T21:26:00Z",
+         "url" : "https://www.marketwatch.com/story/pfizer-ceo-coronavirus-vaccine-could-be-distributed-in-us-by-end-of-year-2020-09-13",
+         "content" : "The chief executive of Phizer Inc. said Sunday that the pharmaceutical giant should know if its experimental COVID-19 vaccine works by the end of October and if approved, it could be distributed in t… [+2196 chars]",
+         "urlToImage" : "https://s.marketwatch.com/public/resources/images/MW-IO390_bourla_ZG_20200913172151.jpg",
+         "source" : {
+            "name" : "MarketWatch",
+            "id" : null
+         },
+         "description" : "Drug maker should know if vaccine is effective by end of October"
+      },
+      {
+         "urlToImage" : "https://s.hdnux.com/photos/01/14/06/76/19951525/13/rawImage.jpg",
+         "content" : "BART has restored train service after a systemwide computer problem forced the agency to shut down all of its stations Sunday morning for several hours.\r\nBART reopened its stations and fully restored… [+659 chars]",
+         "url" : "https://www.sfchronicle.com/bayarea/article/BART-shut-down-amid-systemwide-computer-15563581.php",
          "title" : "BART restores full service after shutdown from ‘systemwide computer problem’ - San Francisco Chronicle",
+         "publishedAt" : "2020-09-13T19:58:00Z",
+         "author" : "Tatiana Sanchez",
+         "description" : "<p>All BART stations were shut down becasue of a systemwide computer problem, the agency said early Sunday. Full service has been restored.</p>",
          "source" : {
             "name" : "San Francisco Chronicle",
             "id" : null
-         },
-         "url" : "https://www.sfchronicle.com/bayarea/article/BART-shut-down-amid-systemwide-computer-15563581.php",
-         "content" : "BART has restored train service after a systemwide computer problem forced the agency to shut down all of its stations Sunday morning for several hours.\r\nBART reopened its stations and fully restored… [+659 chars]",
-         "publishedAt" : "2020-09-13T19:58:00Z",
-         "urlToImage" : "https://s.hdnux.com/photos/01/14/06/76/19951525/13/rawImage.jpg",
-         "author" : "Tatiana Sanchez"
-      },
-      {
-         "title" : "Elon Musk shares his thoughts on Bill Gates. They're not pleasant - CNN",
-         "source" : {
-            "id" : "cnn",
-            "name" : "CNN"
-         },
-         "content" : null,
-         "url" : "https://www.cnn.com/2020/09/13/business/elon-musk-bill-gates-twitter-electric-trucks-tesla/index.html",
-         "description" : "The world's fourth-richest person is trash-talking the second-richest person.",
-         "author" : "Jazmin Goodwin, CNN Business",
-         "publishedAt" : "2020-09-13T19:46:00Z",
-         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200913145912-01-elon-musk-0902-super-tease.jpg"
-      },
-      {
-         "author" : "Emma Newburger",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/102397115-1588365097899aabbcc.jpg?v=1591034247",
-         "publishedAt" : "2020-09-13T19:38:00Z",
-         "url" : "https://www.cnbc.com/2020/09/13/gilead-to-buy-cancer-drugmaker-immunomedics-in-21-billion-deal.html",
-         "content" : "Gilead Sciences will acquire biotech company Immunomedics in a $21 billion deal that will expand Gilead's availability of cancer treatments, the companies announced on Sunday. \r\nThe deal will provide… [+1992 chars]",
-         "title" : "Gilead to buy cancer drugmaker Immunomedics in $21 billion deal - CNBC",
-         "source" : {
-            "id" : null,
-            "name" : "CNBC"
-         },
-         "description" : "The deal will provide Gilead access to Immunomedics' cancer treatment drug called Trodelvy, an FDA-approved treatment for metastatic triple-negative breast cancer."
-      },
-      {
-         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200401135136-peeps-candy-super-tease.jpg",
-         "publishedAt" : "2020-09-13T19:35:00Z",
-         "author" : "Alaa Elassar, CNN",
-         "description" : "This year has given us yet another trick and one less treat.",
-         "url" : "https://www.cnn.com/2020/09/13/business/no-peeps-this-year-production-pause-trnd/index.html",
-         "content" : null,
-         "source" : {
-            "id" : "cnn",
-            "name" : "CNN"
-         },
-         "title" : "More pandemic fallout: No Peeps for Halloween and Christmas - CNN"
-      },
-      {
-         "source" : {
-            "id" : null,
-            "name" : "New York Times"
-         },
-         "title" : "Vaccine Makers Keep Safety Details Quiet, Alarming Scientists - The New York Times",
-         "url" : "https://www.nytimes.com/2020/09/13/science/coronavirus-vaccine-trials.html",
-         "content" : "A federal clinical trial registry details the number of trial participants, who should be included and excluded from the study, and the main outcomes. But it only skims the surface, Dr. Krumholz said… [+1440 chars]",
-         "description" : "Researchers say drug companies need to be more open about how vaccine trials are run to reassure Americans who are skittish about getting a coronavirus vaccine.",
-         "author" : "Katie Thomas",
-         "publishedAt" : "2020-09-13T19:25:00Z",
-         "urlToImage" : "https://static01.nyt.com/images/2020/09/11/science/00VIRUS-TRANSPARENCY1/00VIRUS-TRANSPARENCY1-facebookJumbo.jpg"
-      },
-      {
-         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/07/0/0/AP20190582375501.jpg?ve=1&tl=1",
-         "publishedAt" : "2020-09-13T19:23:30Z",
-         "author" : "Lucas Manfredi",
-         "description" : "United CEO Scott Kirby said Sunday that while some industries of the economy have been able to recover, \"anything to do with leisure, hospitality, meeting, convention services [and] restaurants are all hurting, and frankly, are near depression levels.\"",
-         "content" : "As the deadline looms for layoffs to begin across the airline industry, Congress remains at a stalemate over a new round of coronavirusstimulus.\r\nUnited CEO Scott Kirby said Sunday that while some in… [+3088 chars]",
-         "url" : "https://www.foxbusiness.com/economy/united-ceo-warns-airlines-economic-woes-will-get-worse-without-vaccine-new-round-of-stimulus",
-         "source" : {
-            "name" : "Fox Business",
-            "id" : null
-         },
-         "title" : "United Airlines CEO warns economic woes will get worse without vaccine, new round of stimulus - Fox Business"
+         }
       },
       {
          "source" : {
             "name" : "CNN",
             "id" : "cnn"
          },
-         "title" : "JCPenney could be doomed, even as malls race to save it - CNN",
+         "description" : "The world's fourth-richest person is trash-talking the second-richest person.",
+         "title" : "Elon Musk shares his thoughts on Bill Gates. They're not pleasant - CNN",
+         "publishedAt" : "2020-09-13T19:46:00Z",
+         "author" : "Jazmin Goodwin, CNN Business",
          "content" : null,
-         "url" : "https://www.cnn.com/2020/09/13/business/jcpenney-survival-outlook/index.html",
-         "description" : "The problems at JCPenney started long before the Covid-19 pandemic. A plan to get the company out of bankruptcy won't end them.",
-         "author" : "Chris Isidore, CNN Business",
-         "publishedAt" : "2020-09-13T19:11:00Z",
-         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200912113756-01-jcpenney-orlando-aug2020-super-tease.jpg"
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200913145912-01-elon-musk-0902-super-tease.jpg",
+         "url" : "https://www.cnn.com/2020/09/13/business/elon-musk-bill-gates-twitter-electric-trucks-tesla/index.html"
       },
       {
-         "publishedAt" : "2020-09-13T19:09:22Z",
-         "urlToImage" : "https://img.ksl.com/slc/2792/279296/27929678.jpeg?filter=ksl/responsive_story_lg",
-         "author" : "https://www.facebook.com/kslcom/",
-         "description" : "A total of 628 new COVID-19 cases were reported Sunday with no new deaths, the Utah Department of Health reported.",
-         "title" : "Utah sees 628 new COVID-19 cases, no new deaths Sunday - KSL.com",
+         "publishedAt" : "2020-09-13T19:38:00Z",
+         "title" : "Gilead to buy cancer drugmaker Immunomedics in $21 billion deal - CNBC",
+         "author" : "Emma Newburger",
+         "content" : "Gilead Sciences will acquire biotech company Immunomedics in a $21 billion deal that will expand Gilead's availability of cancer treatments, the companies announced on Sunday. \r\nThe deal will provide… [+1992 chars]",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/102397115-1588365097899aabbcc.jpg?v=1591034247",
+         "url" : "https://www.cnbc.com/2020/09/13/gilead-to-buy-cancer-drugmaker-immunomedics-in-21-billion-deal.html",
          "source" : {
-            "name" : "KSL.com",
+            "name" : "CNBC",
             "id" : null
          },
-         "url" : "https://www.ksl.com/article/50016820/utah-sees-628-new-covid-19-cases-no-new-deaths-sunday",
-         "content" : "SALT LAKE CITY A total of 628 new COVID-19 cases were reported Sunday with no new deaths, the Utah Department of Health reported.\r\nThe numbers bring the Beehive State to 57,875 total cases and 433 de… [+2542 chars]"
+         "description" : "The deal will provide Gilead access to Immunomedics' cancer treatment drug called Trodelvy, an FDA-approved treatment for metastatic triple-negative breast cancer."
       },
       {
-         "description" : "A Detroit flight to Los Angeles returned to the gate Saturday night after a passenger refused to comply with the airline's facemask requirement.",
-         "url" : "https://www.freep.com/story/news/local/michigan/2020/09/13/metro-airport-lax-delta-flight-delayed-passenger-refuses-mask/5786110002/",
-         "content" : "A Metro Airport flight to Los Angeles returned to the gate Saturday night after a passenger refused to comply with Delta Air Lines's facemask requirement, according to the company.\r\nWe apologize to c… [+1894 chars]",
          "source" : {
-            "id" : null,
-            "name" : "Detroit Free Press"
+            "id" : "cnn",
+            "name" : "CNN"
          },
-         "title" : "Metro Airport Delta flight to LAX delayed after passenger refuses to wear mask - Detroit Free Press",
-         "urlToImage" : "https://www.gannett-cdn.com/presto/2018/09/26/PDTF/6da52fed-34c2-4136-b4c1-4f0bb555852e-delta_092618_kpm_113A.JPG?crop=2031,1143,x1,y457&width=1600&height=800&fit=bounds",
-         "publishedAt" : "2020-09-13T18:42:48Z",
-         "author" : "Miriam Marini"
+         "description" : "This year has given us yet another trick and one less treat.",
+         "author" : "Alaa Elassar, CNN",
+         "title" : "More pandemic fallout: No Peeps for Halloween and Christmas - CNN",
+         "publishedAt" : "2020-09-13T19:35:00Z",
+         "url" : "https://www.cnn.com/2020/09/13/business/no-peeps-this-year-production-pause-trnd/index.html",
+         "content" : null,
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200401135136-peeps-candy-super-tease.jpg"
       },
       {
-         "description" : "Chick-fil-A is being offered a lease at the San Antonio International airport after the city decided to ban the chicken-centric chain from opening up shop there last year, Texas Attorney General Ken Paxton told “Fox & Friends Weekend” on Sunday, adding that t…",
-         "title" : "Texas AG: Chick-fil-A to be offered lease in San Antonio airport following investigation - Fox News",
-         "source" : {
-            "name" : "Fox News",
-            "id" : "fox-news"
-         },
-         "url" : "https://www.foxnews.com/us/chick-fil-a-lease-offer-san-antonio-airport-paxton",
-         "content" : "Chick-fil-A is being offered a lease at the San Antonio International airport after the city decided to ban the chicken-centric chain from opening there last year, Texas Attorney General Ken Paxton t… [+4237 chars]",
-         "publishedAt" : "2020-09-13T18:41:53Z",
-         "urlToImage" : "https://static.foxnews.com/foxnews.com/content/uploads/2020/08/chick-fil-a.jpg",
-         "author" : "Talia Kaplan"
-      },
-      {
-         "author" : "Zack Budryk",
-         "urlToImage" : "https://thehill.com/sites/default/files/unitedairlines_012119getty.jpg",
-         "publishedAt" : "2020-09-13T18:18:17Z",
-         "url" : "https://thehill.com/regulation/court-battles/516209-united-blocks-older-crews-from-nfl-teams-charter-flights-lawsuit",
-         "content" : "A lawsuit against United Airlines alleges the company only allowed young, blonde crews to work charter flights for sports teams.\r\nThe practice discriminates against some workers and benefits others b… [+1739 chars]",
-         "source" : {
-            "id" : "the-hill",
-            "name" : "The Hill"
-         },
-         "title" : "United blocks older crews from sports teams' charter flights, lawsuit claims | TheHill - The Hill",
-         "description" : "A lawsuit against United Airlines alleges the company only allowed young, blonde crews to work ch..."
-      },
-      {
-         "publishedAt" : "2020-09-13T18:08:00Z",
-         "urlToImage" : "https://nypost.com/wp-content/uploads/sites/2/2020/09/03_11_20TheEdgeBZ31.jpg?quality=90&strip=all&w=1200",
-         "author" : "Nolan Hicks",
-         "description" : "Gotham’s ritziest neighborhoods are among the biggest laggards when it comes to filling out the 2020 Census — potentially risking the loss of $3 billion in federal funding over the next decade, a P…",
-         "source" : {
-            "name" : "New York Post",
-            "id" : null
-         },
-         "title" : "Manhattan elite may cost NYC billions over incomplete Census forms - New York Post ",
-         "content" : "Gothams ritziest neighborhoods are among the biggest laggards when it comes to filling out the 2020 Census potentially risking the loss of $3 billion in federal funding over the next decade, a Post a… [+3329 chars]",
-         "url" : "https://nypost.com/2020/09/13/nyc-could-lose-3b-in-federal-aid-over-incomplete-census-forms/"
-      },
-      {
-         "author" : "Lucas Manfredi",
-         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/09/0/0/06b65644-GettyImages-Albert-Bourla.jpg?ve=1&tl=1",
-         "publishedAt" : "2020-09-13T18:05:55Z",
-         "content" : "Pfizer CEO Albert Bourla said on Sunday that it is a “likely scenario” that the company’s coronavirus vaccine could be distributed to Americans before the new year if it’s proven by federal regulator… [+3321 chars]",
-         "url" : "https://www.foxbusiness.com/healthcare/pfizer-ceo-coronavirus-vaccine-new-year",
-         "title" : "Pfizer CEO says coronavirus vaccine could be distributed to Americans before year's end - Fox Business",
          "source" : {
             "name" : "Fox Business",
             "id" : null
          },
-         "description" : "While Bourla acknowledged the possibility Pfizer's vaccine candidate could fail, he argued that he doesn't believe any potential financial hit will \"break the company\" despite investing at least $1.5 billion in the effort."
+         "description" : "United CEO Scott Kirby said Sunday that while some industries of the economy have been able to recover, \"anything to do with leisure, hospitality, meeting, convention services [and] restaurants are all hurting, and frankly, are near depression levels.\"",
+         "title" : "United Airlines CEO warns economic woes will get worse without vaccine, new round of stimulus - Fox Business",
+         "publishedAt" : "2020-09-13T19:23:30Z",
+         "author" : "Lucas Manfredi",
+         "content" : "As the deadline looms for layoffs to begin across the airline industry, Congress remains at a stalemate over a new round of coronavirusstimulus.\r\nUnited CEO Scott Kirby said Sunday that while some in… [+3088 chars]",
+         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/07/0/0/AP20190582375501.jpg?ve=1&tl=1",
+         "url" : "https://www.foxbusiness.com/economy/united-ceo-warns-airlines-economic-woes-will-get-worse-without-vaccine-new-round-of-stimulus"
       },
       {
-         "urlToImage" : "https://electrek.co/wp-content/uploads/sites/3/2018/01/model-3-interior-dashboard-head-on-1-e1525805102199.jpeg?quality=82&strip=all",
-         "publishedAt" : "2020-09-13T16:53:00Z",
-         "author" : null,
-         "description" : "Tesla is rumored to introduce several changes to the Model 3, including a new center console, steering wheel, adding a heat pump and more, according to a known leaker in China. While Tesla’s Model Y is based on the same platform as Model 3, it is in many ways…",
-         "url" : "https://electrek.co/2020/09/13/tesla-update-model-3-center-console-steering-wheel-heat-pump-rumor/",
-         "content" : "Tesla is rumored to introduce several changes to the Model 3, including a new center console, steering wheel, adding a heat pump and more, according to a known leaker in China.\r\nWhile Tesla’s Model Y… [+2973 chars]",
-         "title" : "Tesla to update Model 3 center console, steering wheel, add heat pump and more, rumor says - Electrek",
+         "description" : "The problems at JCPenney started long before the Covid-19 pandemic. A plan to get the company out of bankruptcy won't end them.",
+         "source" : {
+            "id" : "cnn",
+            "name" : "CNN"
+         },
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200912113756-01-jcpenney-orlando-aug2020-super-tease.jpg",
+         "content" : null,
+         "url" : "https://www.cnn.com/2020/09/13/business/jcpenney-survival-outlook/index.html",
+         "publishedAt" : "2020-09-13T19:11:00Z",
+         "title" : "JCPenney could be doomed, even as malls race to save it - CNN",
+         "author" : "Chris Isidore, CNN Business"
+      },
+      {
+         "content" : "SALT LAKE CITY A total of 628 new COVID-19 cases were reported Sunday with no new deaths, the Utah Department of Health reported.\r\nThe numbers bring the Beehive State to 57,875 total cases and 433 de… [+2542 chars]",
+         "urlToImage" : "https://img.ksl.com/slc/2792/279296/27929678.jpeg?filter=ksl/responsive_story_lg",
+         "url" : "https://www.ksl.com/article/50016820/utah-sees-628-new-covid-19-cases-no-new-deaths-sunday",
+         "title" : "Utah sees 628 new COVID-19 cases, no new deaths Sunday - KSL.com",
+         "publishedAt" : "2020-09-13T19:09:22Z",
+         "author" : "https://www.facebook.com/kslcom/",
+         "description" : "A total of 628 new COVID-19 cases were reported Sunday with no new deaths, the Utah Department of Health reported.",
          "source" : {
             "id" : null,
-            "name" : "Electrek"
+            "name" : "KSL.com"
          }
       },
       {
-         "urlToImage" : "https://cdn.wccftech.com/wp-content/uploads/2020/09/nikola-motor-company-world-2019-two-red-3-trevor-milton-scaled.jpg",
-         "publishedAt" : "2020-09-13T16:28:19Z",
-         "author" : "Rohail Saleem",
-         "description" : "Nikola Corporation () shares continue to experience epic volatility, fueled by wild price swings as a result of dramatic developments over the past couple of days. The pre-revenue company is currently facing perhaps the most arduous challenge of its corporate…",
-         "url" : "https://wccftech.com/nikola-nkla-in-turmoil-what-should-the-shareholders-now-expect-amid-allegations-of-another-theranos-in-the-making/",
-         "content" : "Nikola Corporation (NASDAQ:NKLA) shares continue to experience epic volatility, fueled by wild price swings as a result of dramatic developments over the past couple of days. The pre-revenue company … [+8277 chars]",
+         "publishedAt" : "2020-09-13T19:00:00Z",
+         "title" : "Adobe, FedEx, Lennar and Other Stocks for Investors to Watch This Week - Barron's",
+         "author" : "Nicholas Jasinski",
+         "content" : "The earnings calendar is relatively sparse this week. Homebuilder \r\n Lennar\r\n reports on Monday, followed by \r\n Adobe\r\n and \r\n FedEx\r\n on Tuesday. \r\n Charles Schwab\r\n and Progressive release August s… [+3424 chars]",
+         "urlToImage" : "https://images.barrons.com/im-185399/social",
+         "url" : "https://www.barrons.com/articles/adobe-fedex-lennar-and-other-stocks-for-investors-to-watch-this-week-51600023603",
          "source" : {
-            "name" : "Wccftech",
+            "name" : "Barron's",
             "id" : null
          },
-         "title" : "Nikola (NKLA) in Turmoil – What Should the Shareholders Now Expect Amid Allegations of Another Theranos in the Making? - Wccftech"
-      },
-      {
-         "publishedAt" : "2020-09-13T16:06:21Z",
-         "urlToImage" : "https://i.insider.com/5f5bddca7ed0ee001e25eedf?width=1200&format=jpeg",
-         "author" : "Kate Taylor",
-         "description" : "The deal only uses items already on the McDonald's menu, giving the fast-food chain buzz without adding complexity to its kitchens.",
-         "title" : "McDonald's Travis Scott campaign is a brilliant marketing ploy - Business Insider - Business Insider",
-         "source" : {
-            "id" : "business-insider",
-            "name" : "Business Insider"
-         },
-         "url" : "https://www.businessinsider.com/mcdonalds-travis-scott-campaign-is-a-brilliant-marketing-ploy-2020-9",
-         "content" : "It's the oldest trick in the book — a fast-food chain drumming up sales with a limited-time menu offering. \r\nBut in the case of McDonald's partnership with Travis Scott, the chain did not need to add… [+2430 chars]"
-      },
-      {
-         "description" : "Adobe is one of several big names set to announce earnings results over the next few trading days.",
-         "url" : "https://www.fool.com/investing/2020/09/13/3-things-to-watch-in-the-stock-market-this-week/",
-         "content" : "Stocks dropped last week, as both the Dow Jones Industrial Average (DJINDICES:^DJI) and the S&amp;P 500 (SNPINDEX:^SPX) shed more than 2%. The decline marked a second straight weekly drop following t… [+3238 chars]",
-         "source" : {
-            "id" : null,
-            "name" : "Motley Fool"
-         },
-         "title" : "3 Things to Watch in the Stock Market This Week - Motley Fool",
-         "urlToImage" : "https://g.foolcdn.com/editorial/images/590828/delivery.jpg",
-         "publishedAt" : "2020-09-13T16:06:00Z",
-         "author" : "Demitri Kalogeropoulos"
+         "description" : ""
       }
    ],
-   "status" : "ok"
+   "status" : "ok",
+   "totalResults" : 70
 }
