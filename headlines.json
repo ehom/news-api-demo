@@ -1,238 +1,226 @@
 {
+   "status" : "ok",
    "articles" : [
       {
-         "author" : "Rita Liao",
+         "urlToImage" : "https://images.mktw.net/im-231687/social",
+         "description" : "",
+         "source" : {
+            "name" : "MarketWatch",
+            "id" : null
+         },
+         "content" : "European stocks marched higher on Monday, alongside U.S. equity futures, driven by vaccine hopes, mergers and acquisitions news.The Stoxx Europe 600 index \r\n SXXP, \r\n +0.26%\r\nrose 0.5% after ending l… [+3119 chars]",
+         "author" : "Callum Keown, Barbara Kollmeyer",
+         "title" : "Vaccine hopes and M&A action power European stocks and U.S. equity futures - MarketWatch",
+         "url" : "https://www.marketwatch.com/story/vaccine-hopes-and-m-a-action-power-european-stocks-and-u-s-equity-futures-11600070052",
+         "publishedAt" : "2020-09-14T07:54:00Z"
+      },
+      {
          "url" : "http://techcrunch.com/2020/09/14/bytedance-wont-sell-tiktok-to-microsoft-or-oracle/",
          "publishedAt" : "2020-09-14T07:45:36Z",
          "description" : "What a whirlwind of a Monday morning. Shortly after news broke that Microsoft is out of the picture in bidding for TikTok’s U.S. operations, and rumors began circulating that Oracle is the winner, China’s state broadcaster CGTN reported that ByteDance will no…",
+         "urlToImage" : "https://techcrunch.com/wp-content/uploads/2020/08/GettyImages-1227914650.jpeg?w=654",
+         "source" : {
+            "id" : "techcrunch",
+            "name" : "TechCrunch"
+         },
          "content" : "What a whirlwind of a Monday morning. Shortly after news broke that Microsoft is out of the picture in bidding for TikTok’s U.S. operations, and rumors began circulating that Oracle is the winner, Ch… [+1807 chars]",
-         "title" : "Neither Microsoft nor Oracle gets to buy TikTok US: Chinese state media - TechCrunch",
-         "source" : {
-            "name" : "TechCrunch",
-            "id" : "techcrunch"
-         },
-         "urlToImage" : "https://techcrunch.com/wp-content/uploads/2020/08/GettyImages-1227914650.jpeg?w=654"
+         "author" : "Rita Liao",
+         "title" : "Neither Microsoft nor Oracle gets to buy TikTok US: Chinese state media - TechCrunch"
       },
       {
-         "title" : "Buffett's Japan Bet Is Green Light for Investors: Ed Rogers - Bloomberg Markets and Finance",
-         "urlToImage" : null,
-         "source" : {
-            "name" : "Google News",
-            "id" : "google-news"
-         },
-         "publishedAt" : "2020-09-14T05:07:17Z",
-         "author" : null,
-         "url" : "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9REZUb0lkTzNnRnPSAQA?oc=5",
-         "content" : null,
-         "description" : null
-      },
-      {
-         "content" : "(Reuters) - Gilead Sciences Inc &lt;GILD.O&gt; will acquire biopharmaceutical company Immunomedics Inc &lt;IMMU.O&gt; for $21 billion, a move that will strengthen its cancer portfolio by gaining acce… [+1615 chars]",
-         "description" : "The deal provides Gilead access to Immunomedics' breast cancer treatment drug, Trodelvy, which was granted an accelerated FDA approval in April.  Gilead said it would issue a tender offer to buy all the outstanding shares of Immunomedics for $88 per share, re…",
-         "publishedAt" : "2020-09-14T02:46:04Z",
-         "author" : "Reuters",
-         "url" : "https://finance.yahoo.com/news/gilead-buy-cancer-drugmaker-immunomedics-024148882.html",
-         "urlToImage" : "https://s.yimg.com/uu/api/res/1.2/._7YZLDzNylFT.EuvlisOQ--~B/aD01MzM7dz04MDA7c209MTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en-US/reuters.com/79c40230c6352e86a5db872ca0f450f5",
+         "publishedAt" : "2020-09-14T07:38:00Z",
+         "url" : "https://finance.yahoo.com/news/stocks-rise-as-astra-zeneca-resumes-vaccine-trial-073825031.html",
+         "author" : "Tom Belger",
+         "content" : "Stocks rose worldwide on Monday as AstraZeneca (AZN.L) and Oxford University confirmed plans to resume a leading coronavirus vaccine trial.\r\nInvestors welcomed the restart of the late-stage study, wh… [+2264 chars]",
          "source" : {
             "name" : "Yahoo Entertainment",
             "id" : null
          },
-         "title" : "Gilead to buy cancer drugmaker Immunomedics for $21 billion - Yahoo Finance"
+         "urlToImage" : "https://s.yimg.com/uu/api/res/1.2/oad8t9TYgP.NMeECJjr1tg--~B/aD0zMzczO3c9NDk5MDtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2020-09/519a0930-f364-11ea-bffb-64367f2e833e",
+         "description" : "The suspension of a leading coronavirus vaccine trial had dashed investors' hopes of economic recovery worldwide, but the trial will now continue.",
+         "title" : "Stocks rise as AstraZeneca resumes vaccine trial - Yahoo Finance"
       },
       {
-         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200910220948-vertical-harvest-05-super-tease.jpg",
+         "title" : "Tech's Bubble of Calm Is Likely to Prove Brief - Yahoo Finance",
+         "urlToImage" : "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png",
+         "description" : "(Bloomberg Opinion) -- Don’t Get Too ComfortableIs it safe to put a price on technology again? After great excitement, the solemn date of Sept. 11 proved to be the first trading day of the month when the tech-heavy Nasdaq-100 didn’t move by more than 1%, in o…",
          "source" : {
-            "name" : "CNN",
-            "id" : "cnn"
+            "id" : null,
+            "name" : "Yahoo Entertainment"
          },
-         "title" : "It's hard to grow vegetables in this mountain town. Then this farmer had an idea - CNN",
-         "content" : null,
-         "description" : "Founded in 2016, Vertical Harvest is a vertical farm in that grows fresh produce for local restaurants and employs disabled workers in Jackson, Wyoming.",
-         "url" : "https://www.cnn.com/2020/09/13/us/vertical-harvest-nona-yehia-cfc/index.html",
-         "author" : "Jeremy Harlan, CNN",
-         "publishedAt" : "2020-09-14T02:19:00Z"
+         "content" : "(Bloomberg Opinion) --\r\nDont Get Too Comfortable\r\nIs it safe to put a price on technology again? After great excitement, the solemn date of Sept. 11 proved to be the first trading day of the month wh… [+11014 chars]",
+         "author" : "John Authers",
+         "url" : "https://finance.yahoo.com/news/techs-bubble-calm-likely-prove-052613422.html",
+         "publishedAt" : "2020-09-14T06:34:05Z"
       },
       {
-         "publishedAt" : "2020-09-14T00:57:00Z",
-         "author" : "Eric J. Savitz",
-         "url" : "https://www.barrons.com/articles/nvidia-buying-arm-holdings-from-softbank-in-largest-ever-chip-deal-51600044336",
-         "content" : "Nvidia\r\n has agreed to buy the U.K.-based chip design house Arm Holdings from \r\n SoftBank Group\r\n for about $40 billion in cash, stock, and future considerations. Its the biggest acquisition in the h… [+8547 chars]",
+         "urlToImage" : "https://s1.cdn.autoevolution.com/images/news/a-porsche-panamera-with-swangas-exists-for-the-sole-reason-of-infuriating-you-148657-7.jpg",
+         "description" : "Slabs are a “love it or hate it” type of thing. They are part of the Slab Culture originating in the ‘80s in Houston and, to this day, they’re still a big thing.",
+         "source" : {
+            "name" : "autoevolution",
+            "id" : null
+         },
+         "content" : "In fact, Slabs are so popular that more car owners seem to be itching to get in on the game. Usually, the cars used to make Slabs are cheaper, older American models, decked out in candy paint, fitted… [+1485 chars]",
+         "author" : "Elena Gorgan",
+         "title" : "A Porsche Panamera With Swangas Exists for the Sole Reason of Infuriating You - autoevolution",
+         "url" : "https://www.autoevolution.com/news/a-porsche-panamera-with-swangas-exists-for-the-sole-reason-of-infuriating-you-148657.html",
+         "publishedAt" : "2020-09-14T04:30:00Z"
+      },
+      {
+         "publishedAt" : "2020-09-14T04:02:00Z",
+         "url" : "https://www.marketwatch.com/story/us-stock-futures-jump-after-miserable-week-for-nasdaq-2020-09-13",
+         "author" : "Mike Murphy",
+         "content" : "U.S. stock index futures rose late Sunday, as a series of deals raised hopes that battered stocks would recover after the tech-heavy Nasdaq ended its worst week since March. As of midnight Eastern, D… [+682 chars]",
+         "source" : {
+            "id" : null,
+            "name" : "MarketWatch"
+         },
+         "urlToImage" : "https://s.wsj.net/public/resources/MWimages/MW-GP644_MicroS_ZG_20180906154215.jpg",
          "description" : "",
+         "title" : "Dow futures jump 300 points as tech stocks look to recover - MarketWatch"
+      },
+      {
+         "title" : "Zipline and Walmart to launch drone deliveries of health and wellness products - The Verge",
+         "description" : "Zipline is partnering with Walmart for a new drone delivery operation in the US, the companies announced. Zipline’s launch and release system allows for on-demand delivery in less than an hour, and operating from a Walmart store, can service a 50-mile radius.",
+         "urlToImage" : "https://cdn.vox-cdn.com/thumbor/A2pSUEQx6OCBpuUoSh6_tm4g9dA=/0x129:1800x1071/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/21878290/Drone_Delivery_Shot_1.jpeg",
+         "source" : {
+            "name" : "The Verge",
+            "id" : "the-verge"
+         },
+         "content" : "Plans call for the program to start near Walmart headquarters in Arkansas early next year\r\nZipline\r\nZipline is partnering with Walmart for a new drone delivery operation in the US, the companies anno… [+1881 chars]",
+         "author" : "Kim Lyons",
+         "url" : "https://www.theverge.com/2020/9/14/21435019/zipline-walmart-drone-deliveries-healthcare-amazon",
+         "publishedAt" : "2020-09-14T04:01:00Z"
+      },
+      {
+         "author" : "Jeremy Harlan, CNN",
+         "content" : null,
+         "source" : {
+            "id" : "cnn",
+            "name" : "CNN"
+         },
+         "description" : "Founded in 2016, Vertical Harvest is a vertical farm in that grows fresh produce for local restaurants and employs disabled workers in Jackson, Wyoming.",
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200910220948-vertical-harvest-05-super-tease.jpg",
+         "title" : "It's hard to grow vegetables in this mountain town. Then this farmer had an idea - CNN",
+         "publishedAt" : "2020-09-14T02:19:00Z",
+         "url" : "https://www.cnn.com/2020/09/13/us/vertical-harvest-nona-yehia-cfc/index.html"
+      },
+      {
          "title" : "Nvidia Buying Arm Holdings from SoftBank in Largest Ever Chip Deal - Barron's",
+         "content" : "Nvidia\r\n has agreed to buy the U.K.-based chip design house Arm Holdings from \r\n SoftBank Group\r\n for about $40 billion in cash, stock, and future considerations. Its the biggest acquisition in the h… [+8547 chars]",
+         "author" : "Eric J. Savitz",
          "urlToImage" : "https://images.barrons.com/im-189533/social",
+         "description" : "",
          "source" : {
             "id" : null,
             "name" : "Barron's"
-         }
+         },
+         "publishedAt" : "2020-09-14T00:57:00Z",
+         "url" : "https://www.barrons.com/articles/nvidia-buying-arm-holdings-from-softbank-in-largest-ever-chip-deal-51600044336"
       },
       {
-         "url" : "https://www.detroitnews.com/story/news/local/michigan/2020/09/13/delta-passenger-mask-flight-delayed-detroit-los-angeles/5788765002/",
-         "author" : "Neal Rubin",
-         "publishedAt" : "2020-09-14T00:45:02Z",
-         "content" : "A Delta Air Lines flight from Detroit to Los Angeles had to make a pre-liftoff detour back to the gate when a passenger refused to wear a mask.\r\nDelta Flight 201, scheduled to depart at 8:15 p.m. Sat… [+2444 chars]",
-         "description" : "L.A.-bound plane returns to gate, departs 47 minutes late",
          "title" : "Passenger removed, Delta flight in Detroit delayed over mask - The Detroit News",
+         "description" : "L.A.-bound plane returns to gate, departs 47 minutes late",
+         "urlToImage" : "https://www.gannett-cdn.com/presto/2020/09/14/PDTN/6c6b1149-f97c-41f8-b542-473619b1bcc7-AP20244723182709.jpg?crop=5279,2970,x0,y268&width=3200&height=1680&fit=bounds",
          "source" : {
-            "id" : null,
-            "name" : "The Detroit News"
+            "name" : "The Detroit News",
+            "id" : null
          },
-         "urlToImage" : "https://www.gannett-cdn.com/presto/2020/09/14/PDTN/6c6b1149-f97c-41f8-b542-473619b1bcc7-AP20244723182709.jpg?crop=5279,2970,x0,y268&width=3200&height=1680&fit=bounds"
-      },
-      {
-         "content" : "By Swati Pandey\r\nSYDNEY (Reuters) - Asian shares firmed on Monday on renewed hopes for a coronavirus vaccine after AstraZeneca (NYSE:AZN) resumed its phase-3 trial though sentiment was still cautious… [+3199 chars]",
-         "description" : "Asian shares buoyed by coronavirus vaccine hopes",
-         "url" : "https://www.investing.com/news/stock-market-news/asian-shares-on-firm-footing-as-vaccine-trials-resume-2294041",
-         "author" : null,
-         "publishedAt" : "2020-09-14T00:40:00Z",
-         "source" : {
-            "id" : null,
-            "name" : "Investing.com"
-         },
-         "urlToImage" : "https://i-invdn-com.akamaized.net/trkd-images/LYNXMPEG8D00R_L.jpg",
-         "title" : "Asian shares on firm footing as vaccine trials resume - Investing.com"
+         "content" : "A Delta Air Lines flight from Detroit to Los Angeles had to make a pre-liftoff detour back to the gate when a passenger refused to wear a mask.\r\nDelta Flight 201, scheduled to depart at 8:15 p.m. Sat… [+2444 chars]",
+         "author" : "Neal Rubin",
+         "url" : "https://www.detroitnews.com/story/news/local/michigan/2020/09/13/delta-passenger-mask-flight-delayed-detroit-los-angeles/5788765002/",
+         "publishedAt" : "2020-09-14T00:45:02Z"
       },
       {
          "source" : {
             "name" : "Reuters",
             "id" : "reuters"
          },
-         "urlToImage" : "https://static.reuters.com/resources/r/?m=02&d=20200914&t=2&i=1533325326&r=LYNXMPEG8D0P7&w=800",
-         "title" : "Asian shares on firm footing as vaccine trials resume - Reuters",
-         "content" : "LONDON (Reuters) - World stocks rallied on Monday on hopes for a coronavirus vaccine after AstraZeneca resumed its phase-3 trial, but caution lingered before a host of central bank meetings this week… [+3577 chars]",
          "description" : "World stocks rallied on Monday on hopes for a coronavirus vaccine after AstraZeneca resumed its phase-3 trial, but caution lingered before a host of central bank meetings this week.",
-         "url" : "https://in.reuters.com/article/us-global-markets-idUSKBN265011",
+         "urlToImage" : "https://static.reuters.com/resources/r/?m=02&d=20200914&t=2&i=1533325326&r=LYNXMPEG8D0P7&w=800",
          "author" : "Dhara Ranasinghe",
+         "content" : "LONDON (Reuters) - World stocks rallied on Monday on hopes for a coronavirus vaccine after AstraZeneca resumed its phase-3 trial, but caution lingered before a host of central bank meetings this week… [+3577 chars]",
+         "title" : "Asian shares on firm footing as vaccine trials resume - Reuters",
+         "url" : "https://in.reuters.com/article/us-global-markets-idUSKBN265011",
          "publishedAt" : "2020-09-14T00:36:00Z"
       },
       {
-         "description" : "Recent fraud allegations have placed Nikola under an intense amount of scrutiny. The details behind Nikola's GM deal raises more doubts about Nikola's technology.",
-         "content" : "Nikola (NKLA) is establishing itself as one of the most volatile stocks in the market. After surging nearly 40% on news of the Nikola-General Motors (GM) deal, Nikola's stock quickly plunged as a res… [+5625 chars]",
-         "publishedAt" : "2020-09-14T00:28:00Z",
-         "author" : "Simple Investment Ideas",
          "url" : "https://seekingalpha.com/article/4373987-nikola-is-collapsing-under-pressure",
+         "publishedAt" : "2020-09-14T00:28:00Z",
          "source" : {
-            "name" : "Seeking Alpha",
-            "id" : null
+            "id" : null,
+            "name" : "Seeking Alpha"
          },
          "urlToImage" : "https://static1.seekingalpha.com/uploads/2020/9/12/32586395-15999574394124677.png",
+         "description" : "Recent fraud allegations have placed Nikola under an intense amount of scrutiny. The details behind Nikola's GM deal raises more doubts about Nikola's technology.",
+         "author" : "Simple Investment Ideas",
+         "content" : "Nikola (NKLA) is establishing itself as one of the most volatile stocks in the market. After surging nearly 40% on news of the Nikola-General Motors (GM) deal, Nikola's stock quickly plunged as a res… [+5625 chars]",
          "title" : "Nikola Is Collapsing Under The Pressure - Seeking Alpha"
       },
       {
-         "source" : {
-            "id" : "bloomberg",
-            "name" : "Bloomberg"
-         },
-         "urlToImage" : "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iS5pvrbJ1ZUY/v0/1200x800.jpg",
-         "title" : "Goldman, Deutsche Say U.S. Stock Selloff May Be Close to an End - Bloomberg",
-         "content" : "The recent pullback in U.S. stocks could be close to an end if history is a guide, according to strategists at \r\nGoldman Sachs Group Inc. and \r\nDeutsche Bank AG.\r\nIts magnitude has matched a “typical… [+1912 chars]",
-         "description" : "The recent pullback in U.S. stocks could be close to an end if history is a guide, according to strategists at Goldman Sachs Group Inc. and Deutsche Bank AG.",
-         "url" : "https://www.bloomberg.com/news/articles/2020-09-14/goldman-deutsche-say-u-s-stock-selloff-may-be-close-to-an-end",
-         "author" : "Joanna Ossinger",
-         "publishedAt" : "2020-09-14T00:23:00Z"
-      },
-      {
-         "publishedAt" : "2020-09-14T00:05:28Z",
-         "author" : "Matt O'Brien",
-         "url" : "https://abc7.com/oracle-tiktok-buys-ban-is-banned/6421450/",
-         "description" : "The Trump administration has threatened to ban TikTok by mid-September and ordered ByteDance to sell its U.S. business, claiming national-security risks due to its Chinese ownership. The owner of TikTok chose Oracle over Microsoft as its preferred suitor.",
-         "content" : "TikTok's owner has chosen Oracle over Microsoft as its preferred suitor to buy the popular video-sharing app, according to a source familiar with the deal.The choice came a week before President Dona… [+1061 chars]",
-         "title" : "Microsoft says its bid to buy TikTok has been rejected a week before President Donald Trump promises to ban the video-sharing app - KABC-TV",
-         "source" : {
-            "id" : null,
-            "name" : "KABC-TV"
-         },
-         "urlToImage" : "https://cdn.abcotvs.com/dip/images/6347370_080120-cc-ap-tiktok-microsoft-img.jpg?w=1600"
-      },
-      {
-         "title" : "How much stimulus check money could you get? Calculate it using this tool - CNET",
+         "description" : "Use our calculator to estimate how much you, your family and your dependents could expect to receive with a second stimulus check, or with your first payment if you're still waiting for it to arrive.",
          "urlToImage" : "https://cnet1.cbsistatic.com/img/F4ZpHvWRMSHICAPdaVMgaXRigDo=/1200x630/2020/08/04/24605e53-49eb-4e96-b84d-94e3800c90b1/calculate-calculator-amount-of-stimulus-check-2020-cash-money-phone-002.jpg",
          "source" : {
-            "name" : "CNET",
-            "id" : null
-         },
-         "author" : "Clifford Colby",
-         "url" : "https://www.cnet.com/personal-finance/how-much-stimulus-check-money-could-you-get-calculate-it-using-this-tool/",
-         "publishedAt" : "2020-09-13T23:46:00Z",
-         "content" : "The CNET stimulus payment calculator can help you estimate how much money you could get from the IRS if a second check comes to be.\r\nSarah Tew/CNET\r\nIf a second stimulus check gets approved in 2020, … [+3336 chars]",
-         "description" : "Use our calculator to estimate how much you, your family and your dependents could expect to receive with a second stimulus check, or with your first payment if you're still waiting for it to arrive."
-      },
-      {
-         "source" : {
-            "name" : "New York Post",
-            "id" : null
-         },
-         "urlToImage" : "https://nypost.com/wp-content/uploads/sites/2/2020/09/081220homeless5RM.jpg?quality=90&strip=all&w=1200",
-         "title" : "New York City needs more neighborhoods in revolt against City Hall - New York Post ",
-         "content" : "A strange thing happened last week: In response to a community concern (amplified by Post reporting), Mayor de Blasio ... acted. No, he didnt solve the problem, but he didnt ignore it, either. Its a … [+4192 chars]",
-         "description" : "A strange thing happened last week: In response to a community concern (amplified by Post reporting), Mayor de Blasio . . . acted. No, he didn’t solve the problem, but he didn’t ignore it, eit…",
-         "author" : "Nicole Gelinas",
-         "url" : "https://nypost.com/2020/09/13/new-york-city-needs-more-neighborhoods-in-revolt-against-city-hall/",
-         "publishedAt" : "2020-09-13T23:44:00Z"
-      },
-      {
-         "content" : "BP has called time on the worlds rising demand for fossil fuels after finding that demand for oil may have already reached its peak and faces an unprecedented decades-long decline.\r\nDemand for oil ma… [+4572 chars]",
-         "description" : "Oil will be replaced by clean electricity, BP predicts, as demand may never recover from Covid-19 pandemic",
-         "url" : "https://amp.theguardian.combusiness/2020/sep/14/global-oil-demand-may-have-passed-peak-says-bp-energy-report",
-         "author" : "Jillian Ambrose",
-         "publishedAt" : "2020-09-13T23:01:00Z",
-         "source" : {
             "id" : null,
-            "name" : "Theguardian.combusiness"
+            "name" : "CNET"
          },
-         "urlToImage" : "https://i.guim.co.uk/img/media/a5d7127d69b12b5bf7adb02c93cbee7a69180d1e/0_180_3585_2153/master/3585.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=805d67edea7339a276948a05c77dfc9b",
-         "title" : "Global oil demand may have passed peak, says BP energy report - The Guardian"
+         "content" : "The CNET stimulus payment calculator can help you estimate how much money you could get from the IRS if a second check comes to be.\r\nSarah Tew/CNET\r\nIf a second stimulus check gets approved in 2020, … [+3336 chars]",
+         "author" : "Clifford Colby",
+         "title" : "How much stimulus check money could you get? Calculate it using this tool - CNET",
+         "url" : "https://www.cnet.com/personal-finance/how-much-stimulus-check-money-could-you-get-calculate-it-using-this-tool/",
+         "publishedAt" : "2020-09-13T23:46:00Z"
       },
       {
-         "publishedAt" : "2020-09-13T22:50:00Z",
-         "url" : "https://www.wsj.com/articles/exxon-used-to-be-americas-most-valuable-company-what-happened-oil-gas-11600037243",
-         "author" : "Christopher M. Matthews",
-         "description" : "The oil giant doubled down on oil and gas before the pandemic crushed demand",
-         "content" : "It has been a stunning fall from grace for Exxon Mobil Corp.\r\nJust seven years ago, Exxon was the biggest U.S. company by market capitalization. It has since lost roughly 60% of its value, with its m… [+147 chars]",
-         "title" : "Exxon Used to Be America’s Most Valuable Company. What Happened? - The Wall Street Journal",
-         "urlToImage" : "https://images.wsj.net/im-230640/social",
+         "publishedAt" : "2020-09-13T23:01:00Z",
+         "url" : "https://amp.theguardian.combusiness/2020/sep/14/global-oil-demand-may-have-passed-peak-says-bp-energy-report",
+         "title" : "Global oil demand may have passed peak, says BP energy report - The Guardian",
+         "content" : "BP has called time on the worlds rising demand for fossil fuels after finding that demand for oil may have already reached its peak and faces an unprecedented decades-long decline.\r\nDemand for oil ma… [+4572 chars]",
+         "author" : "Jillian Ambrose",
+         "urlToImage" : "https://i.guim.co.uk/img/media/a5d7127d69b12b5bf7adb02c93cbee7a69180d1e/0_180_3585_2153/master/3585.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=805d67edea7339a276948a05c77dfc9b",
+         "description" : "Oil will be replaced by clean electricity, BP predicts, as demand may never recover from Covid-19 pandemic",
          "source" : {
-            "id" : "the-wall-street-journal",
-            "name" : "The Wall Street Journal"
+            "name" : "Theguardian.combusiness",
+            "id" : null
          }
       },
       {
-         "urlToImage" : "https://cdn.motor1.com/images/mgl/x4Z62/s1/tesla-model-3-10-000-mile-cost.jpg",
+         "url" : "https://www.wsj.com/articles/exxon-used-to-be-americas-most-valuable-company-what-happened-oil-gas-11600037243",
+         "publishedAt" : "2020-09-13T22:50:00Z",
+         "title" : "Exxon Used to Be America’s Most Valuable Company. What Happened? - The Wall Street Journal",
+         "source" : {
+            "name" : "The Wall Street Journal",
+            "id" : "the-wall-street-journal"
+         },
+         "description" : "The oil giant doubled down on oil and gas before the pandemic crushed demand",
+         "urlToImage" : "https://images.wsj.net/im-230640/social",
+         "author" : "Christopher M. Matthews",
+         "content" : "It has been a stunning fall from grace for Exxon Mobil Corp.\r\nJust seven years ago, Exxon was the biggest U.S. company by market capitalization. It has since lost roughly 60% of its value, with its m… [+147 chars]"
+      },
+      {
+         "title" : "Tesla Model 3 In-Depth 10,000-Mile Cost-Of-Ownership Analysis - InsideEVs ",
+         "author" : "Steven Loveday",
+         "content" : "This Tesla Model 3 cost-of-ownership followup just premiered today. If you're in the market for a Model 3, another Tesla vehicle, or any EV for that matter, it's worth your time.\r\nThe Model 3 is Tesl… [+1850 chars]",
          "source" : {
             "name" : "InsideEVs ",
             "id" : null
          },
-         "title" : "Tesla Model 3 In-Depth 10,000-Mile Cost-Of-Ownership Analysis - InsideEVs ",
          "description" : "The Model 3 is Tesla's least-expensive model, but it's still not cheap. However, it is priced better than many less compelling EVs, and it's cheap to own.",
-         "content" : "This Tesla Model 3 cost-of-ownership followup just premiered today. If you're in the market for a Model 3, another Tesla vehicle, or any EV for that matter, it's worth your time.\r\nThe Model 3 is Tesl… [+1850 chars]",
+         "urlToImage" : "https://cdn.motor1.com/images/mgl/x4Z62/s1/tesla-model-3-10-000-mile-cost.jpg",
          "publishedAt" : "2020-09-13T22:12:34Z",
-         "author" : "Steven Loveday",
          "url" : "https://insideevs.com/features/443788/video-tesla-model-3-9-months-10k-miles-cost-to-own/"
       },
       {
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106545633-1589984789341gettyimages-1225668325.jpeg?v=1600033309",
-         "source" : {
-            "id" : null,
-            "name" : "CNBC"
-         },
-         "title" : "Dow futures jump more than 300 points as Wall Street tries to recover after tech struggles - CNBC",
-         "content" : "U.S. stock futures rose early Monday morning after a sell-off in tech shares led to the market's first back-to-back weekly declines in months.\r\nDow Jones Industrial Average futures traded 306 points … [+2251 chars]",
-         "description" : "U.S. stock futures rose early Monday morning after a sell-off in tech shares led to the market's first back-to-back weekly declines in months.",
-         "publishedAt" : "2020-09-13T22:00:00Z",
-         "author" : "Fred Imbert",
-         "url" : "https://www.cnbc.com/2020/09/13/stock-market-futures-open-to-close-news.html"
-      },
-      {
+         "publishedAt" : "2020-09-13T21:54:31Z",
+         "url" : "https://www.usatoday.com/story/money/2020/09/13/peeps-treats-wont-come-halloween-christmas-shapes-year/5787136002/",
+         "content" : "Peeps, the popular colored marshmallows shaped like baby chicks, won't come in Halloween or Christmas shapes this year due to the COVID-19 pandemic, the company said in a statement to USA TODAY. \r\nPe… [+1313 chars]",
+         "author" : "Dalvin Brown",
+         "description" : "Just Born had to temporarily shut down its factories due to the pandemic. That's why there won't be Christmas Peeps.",
          "urlToImage" : "https://www.gannett-cdn.com/presto/2020/09/13/USAT/22a46bbd-618b-49bb-935a-a3db6625f966-Screen_Shot_2020-09-13_at_4.37.57_PM.png?crop=737,415,x0,y0&width=737&height=415&format=pjpg&auto=webp",
          "source" : {
-            "name" : "USA Today",
-            "id" : "usa-today"
+            "id" : "usa-today",
+            "name" : "USA Today"
          },
-         "title" : "Peeps won't come in Halloween, Christmas shapes this year due to COVID-related production shutdown - USA TODAY",
-         "content" : "Peeps, the popular colored marshmallows shaped like baby chicks, won't come in Halloween or Christmas shapes this year due to the COVID-19 pandemic, the company said in a statement to USA TODAY. \r\nPe… [+1313 chars]",
-         "description" : "Just Born had to temporarily shut down its factories due to the pandemic. That's why there won't be Christmas Peeps.",
-         "publishedAt" : "2020-09-13T21:54:31Z",
-         "author" : "Dalvin Brown",
-         "url" : "https://www.usatoday.com/story/money/2020/09/13/peeps-treats-wont-come-halloween-christmas-shapes-year/5787136002/"
+         "title" : "Peeps won't come in Halloween, Christmas shapes this year due to COVID-related production shutdown - USA TODAY"
       },
       {
          "title" : "Price of Gold Fundamental Weekly Forecast - Fed May Not Deliver What Gold Bulls Want to Hear - FX Empire",
@@ -241,26 +229,38 @@
             "name" : "FX Empire"
          },
          "urlToImage" : "https://responsive.fxempire.com/width/600/webp-lossy-70.q50/_fxempire_/2020/09/GoldDollar-1.jpg",
-         "publishedAt" : "2020-09-13T21:32:49Z",
-         "url" : "https://www.fxempire.com/forecasts/article/price-of-gold-fundamental-weekly-forecast-fed-may-not-deliver-what-gold-bulls-want-to-hear-672139",
-         "author" : null,
          "description" : "It seems wherever we look we see reasons for higher prices and reasons for lower prices. This is creating a rangebound trade.",
-         "content" : "Late in the week, gold jumped as the dollar weakened after the European Central Bank kept its policy unchanged and U.S. jobless claims held at high levels, dimming hopes of a quick economic recovery … [+2257 chars]"
+         "author" : null,
+         "content" : "Late in the week, gold jumped as the dollar weakened after the European Central Bank kept its policy unchanged and U.S. jobless claims held at high levels, dimming hopes of a quick economic recovery … [+2257 chars]",
+         "url" : "https://www.fxempire.com/forecasts/article/price-of-gold-fundamental-weekly-forecast-fed-may-not-deliver-what-gold-bulls-want-to-hear-672139",
+         "publishedAt" : "2020-09-13T21:32:49Z"
       },
       {
-         "title" : "Pfizer CEO: Coronavirus vaccine could be distributed in U.S. by end of year - MarketWatch",
-         "urlToImage" : "https://s.marketwatch.com/public/resources/images/MW-IO390_bourla_ZG_20200913172151.jpg",
+         "title" : "The Chart of the Week: EUR/USD in distribution, bears waiting for breakout confirmations - FXStreet",
+         "content" : "Note: All information on this page is subject to change. The use of this website constitutes acceptance of our user agreement. Please read our privacy policy and legal disclaimer.\r\nTrading foreign ex… [+1338 chars]",
+         "author" : "Ross J Burland",
+         "urlToImage" : "https://editorial.fxstreet.com/images/Markets/Currencies/Majors/EURUSD/MoneyEURUSD_2_Large.jpg",
+         "description" : "EUR/USD is decelerating in a phase of distribution and the following offers a top-down analysis for swing traders. There are a number of steps that th",
          "source" : {
-            "name" : "MarketWatch",
+            "id" : null,
+            "name" : "FXStreet"
+         },
+         "publishedAt" : "2020-09-13T21:02:00Z",
+         "url" : "https://www.fxstreet.com/analysis/the-chaert-of-the-week-eur-usd-in-distribution-bears-waiting-for-breakout-confirmations-202009132102"
+      },
+      {
+         "source" : {
+            "name" : "One America News Network",
             "id" : null
          },
-         "url" : "https://www.marketwatch.com/story/pfizer-ceo-coronavirus-vaccine-could-be-distributed-in-us-by-end-of-year-2020-09-13",
-         "author" : "Mike Murphy",
-         "publishedAt" : "2020-09-13T21:26:00Z",
-         "content" : "The chief executive of Pfizer Inc. said Sunday that the pharmaceutical giant should know if its experimental COVID-19 vaccine works by the end of October and if approved, it could be distributed in t… [+2186 chars]",
-         "description" : "Drugmaker should know if vaccine is effective by end of October"
+         "urlToImage" : null,
+         "description" : "Breaking News, Latest News and Current News from OANN.com. Breaking news and video. Latest Current News: U.S., World, Entertainment, Health, Business, Technology, Politics, Sports.",
+         "author" : null,
+         "content" : "FILE – In this July 27, 2020, file photo, a nurse prepares a shot as a study of a possible COVID-19 vaccine in Binghamton, N.Y. (AP Photo/Hans Pennink, File)\r\nOAN NewsroomUPDATED 1:45 PM PT Sunday, S… [+1124 chars]",
+         "title" : "Pfizer says their vaccine will likely be approved by end of year - One America News Network",
+         "url" : "https://www.oann.com/pfizer-says-their-vaccine-will-likely-be-approved-by-end-of-year/",
+         "publishedAt" : "2020-09-13T20:45:01Z"
       }
    ],
-   "totalResults" : 70,
-   "status" : "ok"
+   "totalResults" : 70
 }
