@@ -1,266 +1,266 @@
 {
-   "status" : "ok",
+   "totalResults" : 70,
    "articles" : [
       {
-         "source" : {
-            "id" : null,
-            "name" : "MarketWatch"
-         },
-         "content" : "U.S. stock index futures rose late Sunday, as a series of deals raised hopes that battered stocks would recover after the tech-heavy Nasdaq ended its worst week since March. As of midnight Eastern, D… [+682 chars]",
-         "title" : "Dow futures jump 300 points as tech stocks look to recover - MarketWatch",
-         "url" : "https://www.marketwatch.com/story/us-stock-futures-jump-after-miserable-week-for-nasdaq-2020-09-13",
-         "publishedAt" : "2020-09-14T04:02:00Z",
          "description" : "",
-         "author" : "Mike Murphy",
-         "urlToImage" : "https://s.wsj.net/public/resources/MWimages/MW-GP644_MicroS_ZG_20180906154215.jpg"
+         "urlToImage" : "https://s.wsj.net/public/resources/MWimages/MW-GP644_MicroS_ZG_20180906154215.jpg",
+         "title" : "Dow futures jump 300 points as tech stocks look to recover - MarketWatch",
+         "source" : {
+            "name" : "MarketWatch",
+            "id" : null
+         },
+         "url" : "https://www.marketwatch.com/story/us-stock-futures-jump-after-miserable-week-for-nasdaq-2020-09-13",
+         "content" : "U.S. stock index futures rose late Sunday, as a series of deals raised hopes that battered stocks would recover after the tech-heavy Nasdaq ended its worst week since March. As of midnight Eastern, D… [+682 chars]",
+         "publishedAt" : "2020-09-14T04:02:00Z",
+         "author" : "Mike Murphy"
       },
       {
          "source" : {
             "name" : "Yahoo Entertainment",
             "id" : null
          },
+         "url" : "https://finance.yahoo.com/news/gilead-buy-cancer-drugmaker-immunomedics-024148882.html",
+         "description" : "The deal provides Gilead access to Immunomedics' breast cancer treatment drug, Trodelvy, which was granted an accelerated FDA approval in April.  Gilead said it would issue a tender offer to buy all the outstanding shares of Immunomedics for $88 per share, re…",
+         "urlToImage" : "https://s.yimg.com/uu/api/res/1.2/._7YZLDzNylFT.EuvlisOQ--~B/aD01MzM7dz04MDA7c209MTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en-US/reuters.com/79c40230c6352e86a5db872ca0f450f5",
          "title" : "Gilead to buy cancer drugmaker Immunomedics for $21 billion - Yahoo Finance",
          "content" : "(Reuters) - Gilead Sciences Inc &lt;GILD.O&gt; will acquire biopharmaceutical company Immunomedics Inc &lt;IMMU.O&gt; for $21 billion, a move that will strengthen its cancer portfolio by gaining acce… [+1615 chars]",
-         "author" : "Reuters",
-         "description" : "The deal provides Gilead access to Immunomedics' breast cancer treatment drug, Trodelvy, which was granted an accelerated FDA approval in April.  Gilead said it would issue a tender offer to buy all the outstanding shares of Immunomedics for $88 per share, re…",
          "publishedAt" : "2020-09-14T02:46:04Z",
-         "url" : "https://finance.yahoo.com/news/gilead-buy-cancer-drugmaker-immunomedics-024148882.html",
-         "urlToImage" : "https://s.yimg.com/uu/api/res/1.2/._7YZLDzNylFT.EuvlisOQ--~B/aD01MzM7dz04MDA7c209MTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en-US/reuters.com/79c40230c6352e86a5db872ca0f450f5"
+         "author" : "Reuters"
       },
       {
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200910220948-vertical-harvest-05-super-tease.jpg",
+         "description" : "Founded in 2016, Vertical Harvest is a vertical farm in that grows fresh produce for local restaurants and employs disabled workers in Jackson, Wyoming.",
+         "title" : "It's hard to grow vegetables in this mountain town. Then this farmer had an idea - CNN",
+         "url" : "https://www.cnn.com/2020/09/13/us/vertical-harvest-nona-yehia-cfc/index.html",
          "source" : {
             "name" : "CNN",
             "id" : "cnn"
          },
-         "title" : "It's hard to grow vegetables in this mountain town. Then this farmer had an idea - CNN",
-         "content" : null,
-         "author" : "Jeremy Harlan, CNN",
-         "description" : "Founded in 2016, Vertical Harvest is a vertical farm in that grows fresh produce for local restaurants and employs disabled workers in Jackson, Wyoming.",
          "publishedAt" : "2020-09-14T02:19:00Z",
-         "url" : "https://www.cnn.com/2020/09/13/us/vertical-harvest-nona-yehia-cfc/index.html",
-         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200910220948-vertical-harvest-05-super-tease.jpg"
+         "content" : null,
+         "author" : "Jeremy Harlan, CNN"
       },
       {
-         "urlToImage" : "https://s.marketwatch.com/public/resources/images/MW-HP585_nvidia_ZG_20190815214753.jpg",
-         "url" : "https://www.marketwatch.com/story/nvidia-and-softbank-are-each-winners-in-40-billion-deal-for-arm-holdings-2020-09-13",
-         "publishedAt" : "2020-09-14T02:00:00Z",
+         "title" : "Nvidia and SoftBank are each winners in $40 billion deal for Arm Holdings - MarketWatch",
          "description" : "SoftBank had struggled to growing the business, while Nvidia bets on the future",
+         "urlToImage" : "https://s.marketwatch.com/public/resources/images/MW-HP585_nvidia_ZG_20190815214753.jpg",
+         "source" : {
+            "id" : null,
+            "name" : "MarketWatch"
+         },
+         "url" : "https://www.marketwatch.com/story/nvidia-and-softbank-are-each-winners-in-40-billion-deal-for-arm-holdings-2020-09-13",
          "author" : "Asa Fitch",
          "content" : "The impending sale of Arm Holdings to Nvidia Corp. for $40 billion could have wide-ranging implications for the global semiconductor industry, further elevating one of its highest fliers and unwindin… [+1775 chars]",
-         "title" : "Nvidia and SoftBank are each winners in $40 billion deal for Arm Holdings - MarketWatch",
-         "source" : {
-            "name" : "MarketWatch",
-            "id" : null
-         }
+         "publishedAt" : "2020-09-14T02:00:00Z"
       },
       {
-         "publishedAt" : "2020-09-14T00:45:02Z",
-         "url" : "https://www.detroitnews.com/story/news/local/michigan/2020/09/13/delta-passenger-mask-flight-delayed-detroit-los-angeles/5788765002/",
          "author" : "Neal Rubin",
-         "description" : "L.A.-bound plane returns to gate, departs 47 minutes late",
-         "urlToImage" : "https://www.gannett-cdn.com/presto/2020/09/14/PDTN/6c6b1149-f97c-41f8-b542-473619b1bcc7-AP20244723182709.jpg?crop=5279,2970,x0,y268&width=3200&height=1680&fit=bounds",
+         "publishedAt" : "2020-09-14T00:45:02Z",
+         "content" : "A Delta Air Lines flight from Detroit to Los Angeles had to make a pre-liftoff detour back to the gate when a passenger refused to wear a mask.\r\nDelta Flight 201, scheduled to depart at 8:15 p.m. Sat… [+2444 chars]",
+         "url" : "https://www.detroitnews.com/story/news/local/michigan/2020/09/13/delta-passenger-mask-flight-delayed-detroit-los-angeles/5788765002/",
          "source" : {
             "id" : null,
             "name" : "The Detroit News"
          },
-         "content" : "A Delta Air Lines flight from Detroit to Los Angeles had to make a pre-liftoff detour back to the gate when a passenger refused to wear a mask.\r\nDelta Flight 201, scheduled to depart at 8:15 p.m. Sat… [+2444 chars]",
-         "title" : "Passenger removed, Delta flight in Detroit delayed over mask - The Detroit News"
+         "title" : "Passenger removed, Delta flight in Detroit delayed over mask - The Detroit News",
+         "urlToImage" : "https://www.gannett-cdn.com/presto/2020/09/14/PDTN/6c6b1149-f97c-41f8-b542-473619b1bcc7-AP20244723182709.jpg?crop=5279,2970,x0,y268&width=3200&height=1680&fit=bounds",
+         "description" : "L.A.-bound plane returns to gate, departs 47 minutes late"
       },
       {
-         "url" : "https://www.reuters.com/article/uk-global-markets-idUKKBN26501D",
-         "publishedAt" : "2020-09-14T00:36:00Z",
-         "description" : "Asian shares firmed on Monday on renewed hopes for a coronavirus vaccine after AstraZeneca resumed its phase-3 trial though sentiment was still cautious ahead of a big week of central bank meetings in UK, Japan and the United States.",
          "author" : "Swati Pandey",
-         "urlToImage" : "https://static.reuters.com/resources/r/?m=02&d=20200914&t=2&i=1533290276&r=LYNXMPEG8D016&w=800",
-         "source" : {
-            "id" : "reuters",
-            "name" : "Reuters"
-         },
          "content" : "SYDNEY (Reuters) - Asian shares firmed on Monday on renewed hopes for a coronavirus vaccine after AstraZeneca resumed its phase-3 trial though sentiment was still cautious ahead of a big week of cent… [+3215 chars]",
-         "title" : "Asian shares on firm footing as vaccine trials resume - Reuters"
+         "publishedAt" : "2020-09-14T00:36:00Z",
+         "source" : {
+            "name" : "Reuters",
+            "id" : "reuters"
+         },
+         "url" : "https://www.reuters.com/article/uk-global-markets-idUKKBN26501D",
+         "title" : "Asian shares on firm footing as vaccine trials resume - Reuters",
+         "description" : "Asian shares firmed on Monday on renewed hopes for a coronavirus vaccine after AstraZeneca resumed its phase-3 trial though sentiment was still cautious ahead of a big week of central bank meetings in UK, Japan and the United States.",
+         "urlToImage" : "https://static.reuters.com/resources/r/?m=02&d=20200914&t=2&i=1533290276&r=LYNXMPEG8D016&w=800"
       },
       {
-         "urlToImage" : "https://static1.seekingalpha.com/uploads/2020/9/12/32586395-15999574394124677.png",
-         "publishedAt" : "2020-09-14T00:28:00Z",
-         "url" : "https://seekingalpha.com/article/4373987-nikola-is-collapsing-under-pressure",
-         "author" : "Simple Investment Ideas",
          "description" : "Recent fraud allegations have placed Nikola under an intense amount of scrutiny. The details behind Nikola's GM deal raises more doubts about Nikola's technology.",
-         "content" : "Nikola (NKLA) is establishing itself as one of the most volatile stocks in the market. After surging nearly 40% on news of the Nikola-General Motors (GM) deal, Nikola's stock quickly plunged as a res… [+5625 chars]",
+         "urlToImage" : "https://static1.seekingalpha.com/uploads/2020/9/12/32586395-15999574394124677.png",
          "title" : "Nikola Is Collapsing Under The Pressure - Seeking Alpha",
          "source" : {
-            "name" : "Seeking Alpha",
-            "id" : null
-         }
+            "id" : null,
+            "name" : "Seeking Alpha"
+         },
+         "url" : "https://seekingalpha.com/article/4373987-nikola-is-collapsing-under-pressure",
+         "content" : "Nikola (NKLA) is establishing itself as one of the most volatile stocks in the market. After surging nearly 40% on news of the Nikola-General Motors (GM) deal, Nikola's stock quickly plunged as a res… [+5625 chars]",
+         "publishedAt" : "2020-09-14T00:28:00Z",
+         "author" : "Simple Investment Ideas"
       },
       {
-         "publishedAt" : "2020-09-14T00:02:00Z",
          "url" : "https://www.wsj.com/articles/microsoft-drops-out-of-bidding-for-tiktoks-u-s-operations-11600039821",
-         "author" : "Georgia Wells, Aaron Tilley",
-         "description" : "Deal, which is likely not to be structured as an outright sale, will face White House review",
-         "urlToImage" : "https://images.wsj.net/im-231655/social",
          "source" : {
             "name" : "The Wall Street Journal",
             "id" : "the-wall-street-journal"
          },
-         "content" : "Oracle Corp. won the bidding for the U.S. operations of the video-sharing app TikTok, a person familiar with the matter said, beating out Microsoft Corp. in a deal to salvage a social-media service t… [+226 chars]",
-         "title" : "Oracle Wins Bidding for TikTok in U.S., After Microsoft Proposal Rejected - The Wall Street Journal"
+         "title" : "Oracle Wins Bidding for TikTok in U.S., After Microsoft Proposal Rejected - The Wall Street Journal",
+         "urlToImage" : "https://images.wsj.net/im-231655/social",
+         "description" : "Deal, which is likely not to be structured as an outright sale, will face White House review",
+         "author" : "Georgia Wells, Aaron Tilley",
+         "publishedAt" : "2020-09-14T00:02:00Z",
+         "content" : "Oracle Corp. won the bidding for the U.S. operations of the video-sharing app TikTok, a person familiar with the matter said, beating out Microsoft Corp. in a deal to salvage a social-media service t… [+226 chars]"
       },
       {
-         "content" : "A strange thing happened last week: In response to a community concern (amplified by Post reporting), Mayor de Blasio ... acted. No, he didnt solve the problem, but he didnt ignore it, either. Its a … [+4192 chars]",
-         "title" : "New York City needs more neighborhoods in revolt against City Hall - New York Post ",
-         "source" : {
-            "id" : null,
-            "name" : "New York Post"
-         },
-         "urlToImage" : "https://nypost.com/wp-content/uploads/sites/2/2020/09/081220homeless5RM.jpg?quality=90&strip=all&w=1200",
-         "publishedAt" : "2020-09-13T23:44:00Z",
          "url" : "https://nypost.com/2020/09/13/new-york-city-needs-more-neighborhoods-in-revolt-against-city-hall/",
+         "source" : {
+            "name" : "New York Post",
+            "id" : null
+         },
+         "title" : "New York City needs more neighborhoods in revolt against City Hall - New York Post ",
+         "urlToImage" : "https://nypost.com/wp-content/uploads/sites/2/2020/09/081220homeless5RM.jpg?quality=90&strip=all&w=1200",
+         "description" : "A strange thing happened last week: In response to a community concern (amplified by Post reporting), Mayor de Blasio . . . acted. No, he didn’t solve the problem, but he didn’t ignore it, eit…",
          "author" : "Nicole Gelinas",
-         "description" : "A strange thing happened last week: In response to a community concern (amplified by Post reporting), Mayor de Blasio . . . acted. No, he didn’t solve the problem, but he didn’t ignore it, eit…"
+         "publishedAt" : "2020-09-13T23:44:00Z",
+         "content" : "A strange thing happened last week: In response to a community concern (amplified by Post reporting), Mayor de Blasio ... acted. No, he didnt solve the problem, but he didnt ignore it, either. Its a … [+4192 chars]"
       },
       {
+         "title" : "Where Is Future Oil Demand Going To Come From - OilPrice.com",
          "urlToImage" : "https://d32r1sh890xpii.cloudfront.net/article/718x300/2020-09-11_betls4esmk.jpg",
          "description" : "The world's top energy authorities seem to agree that oil demand will return to pre-COVID levels, but it may take longer than anticipated",
-         "author" : "Irina Slav",
          "url" : "https://oilprice.com/Energy/Energy-General/Where-Is-Future-Oil-Demand-Going-To-Come-From.html",
-         "publishedAt" : "2020-09-13T23:00:00Z",
-         "title" : "Where Is Future Oil Demand Going To Come From - OilPrice.com",
-         "content" : "Softer demand for crude and…\r\nWhile bearish sentiment has returned…\r\nThe supermajors are racing to…\r\nBy Irina Slav - Sep 13, 2020, 6:00 PM CDTRising levels of oil in floating storage, price cuts for … [+5214 chars]",
-         "source" : {
-            "name" : "OilPrice.com",
-            "id" : null
-         }
-      },
-      {
-         "content" : "It has been a stunning fall from grace for Exxon Mobil Corp.\r\nJust seven years ago, Exxon was the biggest U.S. company by market capitalization. It has since lost roughly 60% of its value, with its m… [+147 chars]",
-         "title" : "Exxon Used to Be America’s Most Valuable Company. What Happened? - The Wall Street Journal",
-         "source" : {
-            "name" : "The Wall Street Journal",
-            "id" : "the-wall-street-journal"
-         },
-         "urlToImage" : "https://images.wsj.net/im-230640/social",
-         "publishedAt" : "2020-09-13T22:50:00Z",
-         "url" : "https://www.wsj.com/articles/exxon-used-to-be-americas-most-valuable-company-what-happened-oil-gas-11600037243",
-         "author" : "Christopher M. Matthews",
-         "description" : "The oil giant doubled down on oil and gas before the pandemic crushed demand"
-      },
-      {
-         "urlToImage" : "https://cdn.motor1.com/images/mgl/x4Z62/s1/tesla-model-3-10-000-mile-cost.jpg",
-         "description" : "The Model 3 is Tesla's least-expensive model, but it's still not cheap. However, it is priced better than many less compelling EVs, and it's cheap to own.",
-         "author" : "Steven Loveday",
-         "url" : "https://insideevs.com/features/443788/video-tesla-model-3-9-months-10k-miles-cost-to-own/",
-         "publishedAt" : "2020-09-13T22:12:34Z",
-         "title" : "Tesla Model 3 In-Depth 10,000-Mile Cost-Of-Ownership Analysis - InsideEVs ",
-         "content" : "This Tesla Model 3 cost-of-ownership followup just premiered today. If you're in the market for a Model 3, another Tesla vehicle, or any EV for that matter, it's worth your time.\r\nThe Model 3 is Tesl… [+1850 chars]",
          "source" : {
             "id" : null,
-            "name" : "InsideEVs "
-         }
+            "name" : "OilPrice.com"
+         },
+         "author" : "Irina Slav",
+         "publishedAt" : "2020-09-13T23:00:00Z",
+         "content" : "Softer demand for crude and…\r\nWhile bearish sentiment has returned…\r\nThe supermajors are racing to…\r\nBy Irina Slav - Sep 13, 2020, 6:00 PM CDTRising levels of oil in floating storage, price cuts for … [+5214 chars]"
       },
       {
-         "description" : "Like many entrepreneurs and small businesses, Novo Guitars in Nashville had to quickly adapt to the new normal during the pandemic.",
-         "author" : "By Aimee Picchi",
-         "url" : "https://www.usatoday.com/story/money/2020/09/13/small-business-novo-guitars-turns-direct-sales-survive-covid-19/5770744002/",
+         "urlToImage" : "https://images.wsj.net/im-230640/social",
+         "description" : "The oil giant doubled down on oil and gas before the pandemic crushed demand",
+         "title" : "Exxon Used to Be America’s Most Valuable Company. What Happened? - The Wall Street Journal",
+         "url" : "https://www.wsj.com/articles/exxon-used-to-be-americas-most-valuable-company-what-happened-oil-gas-11600037243",
+         "source" : {
+            "id" : "the-wall-street-journal",
+            "name" : "The Wall Street Journal"
+         },
+         "publishedAt" : "2020-09-13T22:50:00Z",
+         "content" : "It has been a stunning fall from grace for Exxon Mobil Corp.\r\nJust seven years ago, Exxon was the biggest U.S. company by market capitalization. It has since lost roughly 60% of its value, with its m… [+147 chars]",
+         "author" : "Christopher M. Matthews"
+      },
+      {
+         "author" : "Steven Loveday",
+         "publishedAt" : "2020-09-13T22:12:34Z",
+         "content" : "This Tesla Model 3 cost-of-ownership followup just premiered today. If you're in the market for a Model 3, another Tesla vehicle, or any EV for that matter, it's worth your time.\r\nThe Model 3 is Tesl… [+1850 chars]",
+         "url" : "https://insideevs.com/features/443788/video-tesla-model-3-9-months-10k-miles-cost-to-own/",
+         "source" : {
+            "name" : "InsideEVs ",
+            "id" : null
+         },
+         "title" : "Tesla Model 3 In-Depth 10,000-Mile Cost-Of-Ownership Analysis - InsideEVs ",
+         "urlToImage" : "https://cdn.motor1.com/images/mgl/x4Z62/s1/tesla-model-3-10-000-mile-cost.jpg",
+         "description" : "The Model 3 is Tesla's least-expensive model, but it's still not cheap. However, it is priced better than many less compelling EVs, and it's cheap to own."
+      },
+      {
+         "content" : "Novo Guitars sells hand-made, originally-designed guitars. Here's how they've survived the pandemic even with no concerts or live performances.\r\nUSA TODAY\r\nSince its founding in 2015, Novo Guitars ha… [+3663 chars]",
          "publishedAt" : "2020-09-13T21:57:52Z",
+         "author" : "By Aimee Picchi",
+         "description" : "Like many entrepreneurs and small businesses, Novo Guitars in Nashville had to quickly adapt to the new normal during the pandemic.",
          "urlToImage" : "https://www.gannett-cdn.com/presto/2020/09/09/USAT/5e11defd-8226-4579-9c57-5253f8169408-dennis_working1.jpg?crop=1618,911,x0,y162&width=1600&height=800&fit=bounds",
+         "title" : "How a Nashville guitar maker, Novo, struck a new chord after COVID-19 shut down its business - USA TODAY",
          "source" : {
             "id" : "usa-today",
             "name" : "USA Today"
          },
-         "title" : "How a Nashville guitar maker, Novo, struck a new chord after COVID-19 shut down its business - USA TODAY",
-         "content" : "Novo Guitars sells hand-made, originally-designed guitars. Here's how they've survived the pandemic even with no concerts or live performances.\r\nUSA TODAY\r\nSince its founding in 2015, Novo Guitars ha… [+3663 chars]"
+         "url" : "https://www.usatoday.com/story/money/2020/09/13/small-business-novo-guitars-turns-direct-sales-survive-covid-19/5770744002/"
       },
       {
+         "publishedAt" : "2020-09-13T19:59:14Z",
          "content" : "Editors note:The Salt Lake Tribune is providing free access to critical stories about the coronavirus. Sign up for our Top Stories newsletter, sent to your inbox every weekday morning. To support jou… [+6696 chars]",
+         "author" : "https://www.facebook.com/saltlaketribune",
+         "urlToImage" : "https://www.sltrib.com/resizer/54R_JT1YEVc25jmFd_ibYjWO2Fo=/1200x630/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/sltrib/74NSSI5VSBAUXM2M34EK7X76WY.JPG",
+         "description" : "Editor’s note: The Salt Lake Tribune is providing free access to critical stories about the coronavirus. Sign up for <a href=\"https://sltrib.formstack.com/forms/topstories\" target=_blank>our Top Stories newsletter</a>, sent to your inbox every weekday morning…",
          "title" : "Utah County is seeing the most COVID-19 cases in the state, sets one-day record of 304 - Salt Lake Tribune",
+         "url" : "https://www.sltrib.com/news/2020/09/13/coronavirus-utah-with/",
          "source" : {
             "id" : null,
             "name" : "Salt Lake Tribune"
-         },
-         "urlToImage" : "https://www.sltrib.com/resizer/54R_JT1YEVc25jmFd_ibYjWO2Fo=/1200x630/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/sltrib/74NSSI5VSBAUXM2M34EK7X76WY.JPG",
-         "publishedAt" : "2020-09-13T19:59:14Z",
-         "url" : "https://www.sltrib.com/news/2020/09/13/coronavirus-utah-with/",
-         "author" : "https://www.facebook.com/saltlaketribune",
-         "description" : "Editor’s note: The Salt Lake Tribune is providing free access to critical stories about the coronavirus. Sign up for <a href=\"https://sltrib.formstack.com/forms/topstories\" target=_blank>our Top Stories newsletter</a>, sent to your inbox every weekday morning…"
+         }
       },
       {
-         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200913145912-01-elon-musk-0902-super-tease.jpg",
          "author" : "Jazmin Goodwin, CNN Business",
-         "description" : "The world's fourth-richest person is trash-talking the second-richest person.",
          "publishedAt" : "2020-09-13T19:46:00Z",
+         "content" : null,
          "url" : "https://www.cnn.com/2020/09/13/business/elon-musk-bill-gates-twitter-electric-trucks-tesla/index.html",
+         "source" : {
+            "id" : "cnn",
+            "name" : "CNN"
+         },
          "title" : "Elon Musk shares his thoughts on Bill Gates. They're not pleasant - CNN",
-         "content" : null,
-         "source" : {
-            "name" : "CNN",
-            "id" : "cnn"
-         }
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200913145912-01-elon-musk-0902-super-tease.jpg",
+         "description" : "The world's fourth-richest person is trash-talking the second-richest person."
       },
       {
-         "content" : null,
          "title" : "More pandemic fallout: No Peeps for Halloween and Christmas - CNN",
-         "source" : {
-            "name" : "CNN",
-            "id" : "cnn"
-         },
          "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200401135136-peeps-candy-super-tease.jpg",
-         "url" : "https://www.cnn.com/2020/09/13/business/no-peeps-this-year-production-pause-trnd/index.html",
-         "publishedAt" : "2020-09-13T19:35:00Z",
          "description" : "This year has given us yet another trick and one less treat.",
-         "author" : "Alaa Elassar, CNN"
-      },
-      {
-         "title" : "United Airlines CEO warns economic woes will get worse without vaccine, new round of stimulus - Fox Business",
-         "content" : "As the deadline looms for layoffs to begin across the airline industry, Congress remains at a stalemate over a new round of coronavirusstimulus.\r\nUnited CEO Scott Kirby said Sunday that while some in… [+3088 chars]",
+         "url" : "https://www.cnn.com/2020/09/13/business/no-peeps-this-year-production-pause-trnd/index.html",
          "source" : {
-            "id" : null,
-            "name" : "Fox Business"
+            "id" : "cnn",
+            "name" : "CNN"
          },
-         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/07/0/0/AP20190582375501.jpg?ve=1&tl=1",
-         "author" : "Lucas Manfredi",
-         "description" : "United CEO Scott Kirby said Sunday that while some industries of the economy have been able to recover, \"anything to do with leisure, hospitality, meeting, convention services [and] restaurants are all hurting, and frankly, are near depression levels.\"",
-         "publishedAt" : "2020-09-13T19:23:30Z",
-         "url" : "https://www.foxbusiness.com/economy/united-ceo-warns-airlines-economic-woes-will-get-worse-without-vaccine-new-round-of-stimulus"
+         "author" : "Alaa Elassar, CNN",
+         "publishedAt" : "2020-09-13T19:35:00Z",
+         "content" : null
       },
       {
-         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200912113756-01-jcpenney-orlando-aug2020-super-tease.jpg",
-         "author" : "Chris Isidore, CNN Business",
-         "description" : "The problems at JCPenney started long before the Covid-19 pandemic. A plan to get the company out of bankruptcy won't end them.",
+         "content" : "As the deadline looms for layoffs to begin across the airline industry, Congress remains at a stalemate over a new round of coronavirusstimulus.\r\nUnited CEO Scott Kirby said Sunday that while some in… [+3088 chars]",
+         "publishedAt" : "2020-09-13T19:23:30Z",
+         "author" : "Lucas Manfredi",
+         "source" : {
+            "name" : "Fox Business",
+            "id" : null
+         },
+         "url" : "https://www.foxbusiness.com/economy/united-ceo-warns-airlines-economic-woes-will-get-worse-without-vaccine-new-round-of-stimulus",
+         "description" : "United CEO Scott Kirby said Sunday that while some industries of the economy have been able to recover, \"anything to do with leisure, hospitality, meeting, convention services [and] restaurants are all hurting, and frankly, are near depression levels.\"",
+         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/07/0/0/AP20190582375501.jpg?ve=1&tl=1",
+         "title" : "United Airlines CEO warns economic woes will get worse without vaccine, new round of stimulus - Fox Business"
+      },
+      {
          "publishedAt" : "2020-09-13T19:11:00Z",
-         "url" : "https://www.cnn.com/2020/09/13/business/jcpenney-survival-outlook/index.html",
-         "title" : "JCPenney could be doomed, even as malls race to save it - CNN",
          "content" : null,
+         "author" : "Chris Isidore, CNN Business",
+         "url" : "https://www.cnn.com/2020/09/13/business/jcpenney-survival-outlook/index.html",
          "source" : {
             "name" : "CNN",
             "id" : "cnn"
-         }
+         },
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200912113756-01-jcpenney-orlando-aug2020-super-tease.jpg",
+         "description" : "The problems at JCPenney started long before the Covid-19 pandemic. A plan to get the company out of bankruptcy won't end them.",
+         "title" : "JCPenney could be doomed, even as malls race to save it - CNN"
       },
       {
+         "content" : "There's a certain allure of finding the next big thing, getting in on the ground floor, and riding it to untold riches. And there are certainly those investors who feel that the best way to make this… [+5319 chars]",
+         "publishedAt" : "2020-09-13T19:00:00Z",
+         "author" : "Danny Vena",
+         "description" : "Interest in this upcoming IPO is red-hot. Here's why I might break my own rule.",
+         "urlToImage" : "https://g.foolcdn.com/editorial/images/591307/falling-snowflakes-against-a-dark-backdrop.jpg",
+         "title" : "I Never Buy a Stock at IPO, But Snowflake Might Be an Exception - Motley Fool",
          "source" : {
             "id" : null,
             "name" : "Motley Fool"
          },
-         "title" : "I Never Buy a Stock at IPO, But Snowflake Might Be an Exception - Motley Fool",
-         "content" : "There's a certain allure of finding the next big thing, getting in on the ground floor, and riding it to untold riches. And there are certainly those investors who feel that the best way to make this… [+5319 chars]",
-         "description" : "Interest in this upcoming IPO is red-hot. Here's why I might break my own rule.",
-         "author" : "Danny Vena",
-         "url" : "https://www.fool.com/investing/2020/09/13/i-never-buy-a-stock-at-ipo-but-snowflake-might-be/",
-         "publishedAt" : "2020-09-13T19:00:00Z",
-         "urlToImage" : "https://g.foolcdn.com/editorial/images/591307/falling-snowflakes-against-a-dark-backdrop.jpg"
+         "url" : "https://www.fool.com/investing/2020/09/13/i-never-buy-a-stock-at-ipo-but-snowflake-might-be/"
       },
       {
-         "urlToImage" : "https://static.foxnews.com/foxnews.com/content/uploads/2020/08/chick-fil-a.jpg",
          "url" : "https://www.foxnews.com/us/chick-fil-a-lease-offer-san-antonio-airport-paxton",
-         "publishedAt" : "2020-09-13T18:41:53Z",
+         "source" : {
+            "name" : "Fox News",
+            "id" : "fox-news"
+         },
+         "title" : "Texas AG: Chick-fil-A to be offered lease in San Antonio airport following investigation - Fox News",
+         "urlToImage" : "https://static.foxnews.com/foxnews.com/content/uploads/2020/08/chick-fil-a.jpg",
          "description" : "Chick-fil-A is being offered a lease at the San Antonio International airport after the city decided to ban the chicken-centric chain from opening up shop there last year, Texas Attorney General Ken Paxton told “Fox & Friends Weekend” on Sunday, adding that t…",
          "author" : "Talia Kaplan",
-         "content" : "Chick-fil-A is being offered a lease at the San Antonio International airport after the city decided to ban the chicken-centric chain from opening there last year, Texas Attorney General Ken Paxton t… [+4237 chars]",
-         "title" : "Texas AG: Chick-fil-A to be offered lease in San Antonio airport following investigation - Fox News",
-         "source" : {
-            "id" : "fox-news",
-            "name" : "Fox News"
-         }
+         "publishedAt" : "2020-09-13T18:41:53Z",
+         "content" : "Chick-fil-A is being offered a lease at the San Antonio International airport after the city decided to ban the chicken-centric chain from opening there last year, Texas Attorney General Ken Paxton t… [+4237 chars]"
       }
    ],
-   "totalResults" : 70
+   "status" : "ok"
 }
