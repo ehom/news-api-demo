@@ -1,266 +1,266 @@
 {
-   "status" : "ok",
    "totalResults" : 70,
    "articles" : [
       {
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/102397115-1588365097899aabbcc.jpg?v=1591034247",
          "title" : "Gilead to buy cancer drugmaker Immunomedics in $21 billion deal - CNBC",
+         "author" : "Emma Newburger",
          "content" : "Gilead Sciences will acquire biotech company Immunomedics in a $21 billion deal that will expand Gilead's availability of cancer treatments, the companies announced on Sunday. \r\nThe deal will provide… [+1992 chars]",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/102397115-1588365097899aabbcc.jpg?v=1591034247",
+         "publishedAt" : "2020-09-13T19:38:00Z",
+         "description" : "The deal will provide Gilead access to Immunomedics' cancer treatment drug called Trodelvy, an FDA-approved treatment for metastatic triple-negative breast cancer.",
          "url" : "https://www.cnbc.com/2020/09/13/gilead-to-buy-cancer-drugmaker-immunomedics-in-21-billion-deal.html",
          "source" : {
-            "id" : null,
-            "name" : "CNBC"
-         },
-         "description" : "The deal will provide Gilead access to Immunomedics' cancer treatment drug called Trodelvy, an FDA-approved treatment for metastatic triple-negative breast cancer.",
-         "publishedAt" : "2020-09-13T19:38:00Z",
-         "author" : "Emma Newburger"
+            "name" : "CNBC",
+            "id" : null
+         }
       },
       {
+         "author" : "Alaa Elassar, CNN",
+         "title" : "More pandemic fallout: No Peeps for Halloween and Christmas - CNN",
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200401135136-peeps-candy-super-tease.jpg",
+         "content" : null,
          "source" : {
             "id" : "cnn",
             "name" : "CNN"
          },
-         "url" : "https://www.cnn.com/2020/09/13/business/no-peeps-this-year-production-pause-trnd/index.html",
-         "author" : "Alaa Elassar, CNN",
-         "publishedAt" : "2020-09-13T19:35:00Z",
          "description" : "This year has given us yet another trick and one less treat.",
-         "content" : null,
-         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200401135136-peeps-candy-super-tease.jpg",
-         "title" : "More pandemic fallout: No Peeps for Halloween and Christmas - CNN"
+         "publishedAt" : "2020-09-13T19:35:00Z",
+         "url" : "https://www.cnn.com/2020/09/13/business/no-peeps-this-year-production-pause-trnd/index.html"
       },
       {
-         "description" : "Researchers say drug companies need to be more open about how vaccine trials are run to reassure Americans who are skittish about getting a coronavirus vaccine.",
-         "author" : "Katie Thomas",
          "publishedAt" : "2020-09-13T19:25:00Z",
+         "description" : "Researchers say drug companies need to be more open about how vaccine trials are run to reassure Americans who are skittish about getting a coronavirus vaccine.",
          "url" : "https://www.nytimes.com/2020/09/13/science/coronavirus-vaccine-trials.html",
          "source" : {
             "name" : "New York Times",
             "id" : null
          },
          "urlToImage" : "https://static01.nyt.com/images/2020/09/11/science/00VIRUS-TRANSPARENCY1/00VIRUS-TRANSPARENCY1-facebookJumbo.jpg",
+         "content" : "A federal clinical trial registry details the number of trial participants, who should be included and excluded from the study, and the main outcomes. But it only skims the surface, Dr. Krumholz said… [+1440 chars]",
          "title" : "Vaccine Makers Keep Safety Details Quiet, Alarming Scientists - The New York Times",
-         "content" : "A federal clinical trial registry details the number of trial participants, who should be included and excluded from the study, and the main outcomes. But it only skims the surface, Dr. Krumholz said… [+1440 chars]"
+         "author" : "Katie Thomas"
       },
       {
+         "title" : "United Airlines CEO warns economic woes will get worse without vaccine, new round of stimulus - Fox Business",
+         "author" : "Lucas Manfredi",
+         "publishedAt" : "2020-09-13T19:23:30Z",
+         "url" : "https://www.foxbusiness.com/economy/united-ceo-warns-airlines-economic-woes-will-get-worse-without-vaccine-new-round-of-stimulus",
+         "description" : "United CEO Scott Kirby said Sunday that while some industries of the economy have been able to recover, \"anything to do with leisure, hospitality, meeting, convention services [and] restaurants are all hurting, and frankly, are near depression levels.\"",
          "source" : {
             "name" : "Fox Business",
             "id" : null
          },
-         "url" : "https://www.foxbusiness.com/economy/united-ceo-warns-airlines-economic-woes-will-get-worse-without-vaccine-new-round-of-stimulus",
-         "publishedAt" : "2020-09-13T19:23:30Z",
-         "author" : "Lucas Manfredi",
-         "description" : "United CEO Scott Kirby said Sunday that while some industries of the economy have been able to recover, \"anything to do with leisure, hospitality, meeting, convention services [and] restaurants are all hurting, and frankly, are near depression levels.\"",
          "content" : "As the deadline looms for layoffs to begin across the airline industry, Congress remains at a stalemate over a new round of coronavirusstimulus.\r\nUnited CEO Scott Kirby said Sunday that while some in… [+3088 chars]",
-         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/07/0/0/AP20190582375501.jpg?ve=1&tl=1",
-         "title" : "United Airlines CEO warns economic woes will get worse without vaccine, new round of stimulus - Fox Business"
+         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/07/0/0/AP20190582375501.jpg?ve=1&tl=1"
       },
       {
          "title" : "JCPenney could be doomed, even as malls race to save it - CNN",
-         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200912113756-01-jcpenney-orlando-aug2020-super-tease.jpg",
-         "content" : null,
-         "description" : "The problems at JCPenney started long before the Covid-19 pandemic. A plan to get the company out of bankruptcy won't end them.",
          "author" : "Chris Isidore, CNN Business",
+         "description" : "The problems at JCPenney started long before the Covid-19 pandemic. A plan to get the company out of bankruptcy won't end them.",
          "publishedAt" : "2020-09-13T19:11:00Z",
          "url" : "https://www.cnn.com/2020/09/13/business/jcpenney-survival-outlook/index.html",
          "source" : {
             "id" : "cnn",
             "name" : "CNN"
-         }
+         },
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200912113756-01-jcpenney-orlando-aug2020-super-tease.jpg",
+         "content" : null
       },
       {
-         "content" : "SALT LAKE CITY A total of 628 new COVID-19 cases were reported Sunday with no new deaths, the Utah Department of Health reported.\r\nThe numbers bring the Beehive State to 57,875 total cases and 433 de… [+2542 chars]",
+         "author" : "https://www.facebook.com/kslcom/",
          "title" : "Utah sees 628 new COVID-19 cases, no new deaths Sunday - KSL.com",
          "urlToImage" : "https://img.ksl.com/slc/2792/279296/27929678.jpeg?filter=ksl/responsive_story_lg",
-         "author" : "https://www.facebook.com/kslcom/",
-         "publishedAt" : "2020-09-13T19:09:22Z",
-         "description" : "A total of 628 new COVID-19 cases were reported Sunday with no new deaths, the Utah Department of Health reported.",
+         "content" : "SALT LAKE CITY A total of 628 new COVID-19 cases were reported Sunday with no new deaths, the Utah Department of Health reported.\r\nThe numbers bring the Beehive State to 57,875 total cases and 433 de… [+2542 chars]",
          "source" : {
             "name" : "KSL.com",
             "id" : null
          },
-         "url" : "https://www.ksl.com/article/50016820/utah-sees-628-new-covid-19-cases-no-new-deaths-sunday"
+         "publishedAt" : "2020-09-13T19:09:22Z",
+         "url" : "https://www.ksl.com/article/50016820/utah-sees-628-new-covid-19-cases-no-new-deaths-sunday",
+         "description" : "A total of 628 new COVID-19 cases were reported Sunday with no new deaths, the Utah Department of Health reported."
       },
       {
-         "content" : "A Metro Airport flight to Los Angeles returned to the gate Saturday night after a passenger refused to comply with Delta Air Lines's facemask requirement, according to the company.\r\nWe apologize to c… [+1894 chars]",
          "title" : "Metro Airport Delta flight to LAX delayed after passenger refuses to wear mask - Detroit Free Press",
-         "urlToImage" : "https://www.gannett-cdn.com/presto/2018/09/26/PDTF/6da52fed-34c2-4136-b4c1-4f0bb555852e-delta_092618_kpm_113A.JPG?crop=2031,1143,x1,y457&width=1600&height=800&fit=bounds",
-         "source" : {
-            "id" : null,
-            "name" : "Detroit Free Press"
-         },
-         "url" : "https://www.freep.com/story/news/local/michigan/2020/09/13/metro-airport-lax-delta-flight-delayed-passenger-refuses-mask/5786110002/",
-         "publishedAt" : "2020-09-13T18:42:48Z",
          "author" : "Miriam Marini",
-         "description" : "A Detroit flight to Los Angeles returned to the gate Saturday night after a passenger refused to comply with the airline's facemask requirement."
+         "publishedAt" : "2020-09-13T18:42:48Z",
+         "url" : "https://www.freep.com/story/news/local/michigan/2020/09/13/metro-airport-lax-delta-flight-delayed-passenger-refuses-mask/5786110002/",
+         "description" : "A Detroit flight to Los Angeles returned to the gate Saturday night after a passenger refused to comply with the airline's facemask requirement.",
+         "source" : {
+            "name" : "Detroit Free Press",
+            "id" : null
+         },
+         "content" : "A Metro Airport flight to Los Angeles returned to the gate Saturday night after a passenger refused to comply with Delta Air Lines's facemask requirement, according to the company.\r\nWe apologize to c… [+1894 chars]",
+         "urlToImage" : "https://www.gannett-cdn.com/presto/2018/09/26/PDTF/6da52fed-34c2-4136-b4c1-4f0bb555852e-delta_092618_kpm_113A.JPG?crop=2031,1143,x1,y457&width=1600&height=800&fit=bounds"
       },
       {
+         "title" : "Texas AG: Chick-fil-A to be offered lease in San Antonio airport following investigation - Fox News",
          "author" : "Talia Kaplan",
          "publishedAt" : "2020-09-13T18:41:53Z",
          "description" : "Chick-fil-A is being offered a lease at the San Antonio International airport after the city decided to ban the chicken-centric chain from opening up shop there last year, Texas Attorney General Ken Paxton told “Fox & Friends Weekend” on Sunday, adding that t…",
+         "url" : "https://www.foxnews.com/us/chick-fil-a-lease-offer-san-antonio-airport-paxton",
          "source" : {
             "name" : "Fox News",
             "id" : "fox-news"
          },
-         "url" : "https://www.foxnews.com/us/chick-fil-a-lease-offer-san-antonio-airport-paxton",
-         "content" : "Chick-fil-A is being offered a lease at the San Antonio International airport after the city decided to ban the chicken-centric chain from opening there last year, Texas Attorney General Ken Paxton t… [+4237 chars]",
-         "title" : "Texas AG: Chick-fil-A to be offered lease in San Antonio airport following investigation - Fox News",
-         "urlToImage" : "https://static.foxnews.com/foxnews.com/content/uploads/2020/08/chick-fil-a.jpg"
+         "urlToImage" : "https://static.foxnews.com/foxnews.com/content/uploads/2020/08/chick-fil-a.jpg",
+         "content" : "Chick-fil-A is being offered a lease at the San Antonio International airport after the city decided to ban the chicken-centric chain from opening there last year, Texas Attorney General Ken Paxton t… [+4237 chars]"
       },
       {
-         "url" : "https://thehill.com/regulation/court-battles/516209-united-blocks-older-crews-from-nfl-teams-charter-flights-lawsuit",
+         "author" : "Zack Budryk",
+         "title" : "United blocks older crews from sports teams' charter flights, lawsuit claims | TheHill - The Hill",
          "source" : {
             "id" : "the-hill",
             "name" : "The Hill"
          },
-         "description" : "A lawsuit against United Airlines alleges the company only allowed young, blonde crews to work ch...",
-         "author" : "Zack Budryk",
          "publishedAt" : "2020-09-13T18:18:17Z",
-         "title" : "United blocks older crews from sports teams' charter flights, lawsuit claims | TheHill - The Hill",
+         "url" : "https://thehill.com/regulation/court-battles/516209-united-blocks-older-crews-from-nfl-teams-charter-flights-lawsuit",
+         "description" : "A lawsuit against United Airlines alleges the company only allowed young, blonde crews to work ch...",
          "urlToImage" : "https://thehill.com/sites/default/files/unitedairlines_012119getty.jpg",
          "content" : "A lawsuit against United Airlines alleges the company only allowed young, blonde crews to work charter flights for sports teams.\r\nThe practice discriminates against some workers and benefits others b… [+1739 chars]"
       },
       {
-         "content" : "Gothams ritziest neighborhoods are among the biggest laggards when it comes to filling out the 2020 Census potentially risking the loss of $3 billion in federal funding over the next decade, a Post a… [+3329 chars]",
-         "title" : "Manhattan elite may cost NYC billions over incomplete Census forms - New York Post ",
-         "urlToImage" : "https://nypost.com/wp-content/uploads/sites/2/2020/09/03_11_20TheEdgeBZ31.jpg?quality=90&strip=all&w=1200",
-         "source" : {
-            "name" : "New York Post",
-            "id" : null
-         },
-         "url" : "https://nypost.com/2020/09/13/nyc-could-lose-3b-in-federal-aid-over-incomplete-census-forms/",
-         "publishedAt" : "2020-09-13T18:08:00Z",
          "author" : "Nolan Hicks",
-         "description" : "Gotham’s ritziest neighborhoods are among the biggest laggards when it comes to filling out the 2020 Census — potentially risking the loss of $3 billion in federal funding over the next decade, a P…"
+         "title" : "Manhattan elite may cost NYC billions over incomplete Census forms - New York Post ",
+         "source" : {
+            "id" : null,
+            "name" : "New York Post"
+         },
+         "publishedAt" : "2020-09-13T18:08:00Z",
+         "url" : "https://nypost.com/2020/09/13/nyc-could-lose-3b-in-federal-aid-over-incomplete-census-forms/",
+         "description" : "Gotham’s ritziest neighborhoods are among the biggest laggards when it comes to filling out the 2020 Census — potentially risking the loss of $3 billion in federal funding over the next decade, a P…",
+         "urlToImage" : "https://nypost.com/wp-content/uploads/sites/2/2020/09/03_11_20TheEdgeBZ31.jpg?quality=90&strip=all&w=1200",
+         "content" : "Gothams ritziest neighborhoods are among the biggest laggards when it comes to filling out the 2020 Census potentially risking the loss of $3 billion in federal funding over the next decade, a Post a… [+3329 chars]"
       },
       {
-         "publishedAt" : "2020-09-13T18:05:55Z",
+         "title" : "Pfizer CEO says coronavirus vaccine could be distributed to Americans before year's end - Fox Business",
          "author" : "Lucas Manfredi",
+         "content" : "Pfizer CEO Albert Bourla said on Sunday that it is a “likely scenario” that the company’s coronavirus vaccine could be distributed to Americans before the new year if it’s proven by federal regulator… [+3321 chars]",
+         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/09/0/0/06b65644-GettyImages-Albert-Bourla.jpg?ve=1&tl=1",
+         "url" : "https://www.foxbusiness.com/healthcare/pfizer-ceo-coronavirus-vaccine-new-year",
+         "publishedAt" : "2020-09-13T18:05:55Z",
          "description" : "While Bourla acknowledged the possibility Pfizer's vaccine candidate could fail, he argued that he doesn't believe any potential financial hit will \"break the company\" despite investing at least $1.5 billion in the effort.",
          "source" : {
             "name" : "Fox Business",
             "id" : null
-         },
-         "url" : "https://www.foxbusiness.com/healthcare/pfizer-ceo-coronavirus-vaccine-new-year",
-         "content" : "Pfizer CEO Albert Bourla said on Sunday that it is a “likely scenario” that the company’s coronavirus vaccine could be distributed to Americans before the new year if it’s proven by federal regulator… [+3321 chars]",
-         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/09/0/0/06b65644-GettyImages-Albert-Bourla.jpg?ve=1&tl=1",
-         "title" : "Pfizer CEO says coronavirus vaccine could be distributed to Americans before year's end - Fox Business"
+         }
       },
       {
-         "author" : "Adam Epstein",
-         "publishedAt" : "2020-09-13T17:33:00Z",
-         "description" : "Netflix had 193 million global subscribers as of June, but analysts believe the company needs to find other means through which it can capitalize on its legions of binge-watchers.",
-         "source" : {
-            "name" : "Quartz India",
-            "id" : null
-         },
-         "url" : "https://qz.com/1902439/will-netflix-ever-have-ads/",
-         "content" : "Netflix doesnt have commercialsand it wont any time soon. But that doesnt mean it wont embrace advertisers.\r\nThe streaming service had 193 million global subscribers as of June. That number is likely… [+363 chars]",
          "title" : "Will Netflix ever have ads? - Quartz",
-         "urlToImage" : "https://cms.qz.com/wp-content/uploads/2020/09/Netflix-e1599846906517.jpg?quality=75&strip=all&w=1400"
+         "author" : "Adam Epstein",
+         "description" : "Netflix had 193 million global subscribers as of June, but analysts believe the company needs to find other means through which it can capitalize on its legions of binge-watchers.",
+         "publishedAt" : "2020-09-13T17:33:00Z",
+         "url" : "https://qz.com/1902439/will-netflix-ever-have-ads/",
+         "source" : {
+            "id" : null,
+            "name" : "Quartz India"
+         },
+         "urlToImage" : "https://cms.qz.com/wp-content/uploads/2020/09/Netflix-e1599846906517.jpg?quality=75&strip=all&w=1400",
+         "content" : "Netflix doesnt have commercialsand it wont any time soon. But that doesnt mean it wont embrace advertisers.\r\nThe streaming service had 193 million global subscribers as of June. That number is likely… [+363 chars]"
       },
       {
+         "author" : "Joey Klender",
+         "title" : "Tesla Supercharger gets exploited by other EV drivers - Teslarati",
          "content" : "Tesla Superchargers were used to charge non-Tesla vehicles in Europe in a loophole used by European EV owners. The charging was used on a variety of European electric cars at Tesla V3 Superchargers, … [+2282 chars]",
          "urlToImage" : "https://www.teslarati.com/wp-content/uploads/2020/09/tesla-supercharger-other-manufacturer-charging-1024x573.jpg",
-         "title" : "Tesla Supercharger gets exploited by other EV drivers - Teslarati",
          "source" : {
             "id" : null,
             "name" : "Teslarati"
          },
-         "url" : "https://www.teslarati.com/tesla-supercharger-exploited-other-evs/",
          "publishedAt" : "2020-09-13T16:57:05Z",
-         "author" : "Joey Klender",
-         "description" : "Tesla Superchargers were used to charge non-Tesla vehicles in Europe in a loophole used by European EV owners. The charging was used on a variety of European electric cars at Tesla V3 Superchargers, which use the standard CCS connection. The electric cars wer…"
+         "description" : "Tesla Superchargers were used to charge non-Tesla vehicles in Europe in a loophole used by European EV owners. The charging was used on a variety of European electric cars at Tesla V3 Superchargers, which use the standard CCS connection. The electric cars wer…",
+         "url" : "https://www.teslarati.com/tesla-supercharger-exploited-other-evs/"
       },
       {
-         "publishedAt" : "2020-09-13T16:53:00Z",
-         "author" : null,
-         "description" : "Tesla is rumored to introduce several changes to the Model 3, including a new center console, steering wheel, adding a heat pump and more, according to a known leaker in China. While Tesla’s Model Y is based on the same platform as Model 3, it is in many ways…",
          "source" : {
             "name" : "Electrek",
             "id" : null
          },
+         "publishedAt" : "2020-09-13T16:53:00Z",
+         "description" : "Tesla is rumored to introduce several changes to the Model 3, including a new center console, steering wheel, adding a heat pump and more, according to a known leaker in China. While Tesla’s Model Y is based on the same platform as Model 3, it is in many ways…",
          "url" : "https://electrek.co/2020/09/13/tesla-update-model-3-center-console-steering-wheel-heat-pump-rumor/",
          "content" : "Tesla is rumored to introduce several changes to the Model 3, including a new center console, steering wheel, adding a heat pump and more, according to a known leaker in China.\r\nWhile Tesla’s Model Y… [+2973 chars]",
-         "title" : "Tesla to update Model 3 center console, steering wheel, add heat pump and more, rumor says - Electrek",
-         "urlToImage" : "https://electrek.co/wp-content/uploads/sites/3/2018/01/model-3-interior-dashboard-head-on-1-e1525805102199.jpeg?quality=82&strip=all"
-      },
-      {
-         "source" : {
-            "name" : "Financial Times",
-            "id" : "financial-times"
-         },
-         "url" : "https://www.ft.com/content/6bfe40a5-2426-4743-98cd-6fed9dd01b98",
-         "publishedAt" : "2020-09-13T16:50:00Z",
+         "urlToImage" : "https://electrek.co/wp-content/uploads/sites/3/2018/01/model-3-interior-dashboard-head-on-1-e1525805102199.jpeg?quality=82&strip=all",
          "author" : null,
-         "description" : "Sale comes four years after Masayoshi Son bought the chip designer",
-         "content" : "SoftBank is set to sell the UK’s Arm Holdings to US chip company Nvidia for more than $40bn, just four years after its founder Masayoshi Son bought the chip designer and said it would be the linchpin… [+3662 chars]",
-         "title" : "Nvidia reportedly to acquire ARM Holdings from SoftBank for $40 billion - Ars Technica",
-         "urlToImage" : "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F482e9b0d-6e73-48ba-bf15-40685bd7d58f.jpg?source=next-opengraph&fit=scale-down&width=900"
+         "title" : "Tesla to update Model 3 center console, steering wheel, add heat pump and more, rumor says - Electrek"
       },
       {
-         "urlToImage" : "https://i.insider.com/5f5bddca7ed0ee001e25eedf?width=1200&format=jpeg",
-         "title" : "McDonald's Travis Scott campaign is a brilliant marketing ploy - Business Insider - Business Insider",
+         "content" : "SoftBank is set to sell the UK’s Arm Holdings to US chip company Nvidia for more than $40bn, just four years after its founder Masayoshi Son bought the chip designer and said it would be the linchpin… [+3662 chars]",
+         "urlToImage" : "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F482e9b0d-6e73-48ba-bf15-40685bd7d58f.jpg?source=next-opengraph&fit=scale-down&width=900",
+         "source" : {
+            "id" : "financial-times",
+            "name" : "Financial Times"
+         },
+         "publishedAt" : "2020-09-13T16:50:00Z",
+         "description" : "Sale comes four years after Masayoshi Son bought the chip designer",
+         "url" : "https://www.ft.com/content/6bfe40a5-2426-4743-98cd-6fed9dd01b98",
+         "author" : null,
+         "title" : "Nvidia reportedly to acquire ARM Holdings from SoftBank for $40 billion - Ars Technica"
+      },
+      {
          "content" : "It's the oldest trick in the book — a fast-food chain drumming up sales with a limited-time menu offering. \r\nBut in the case of McDonald's partnership with Travis Scott, the chain did not need to add… [+2430 chars]",
-         "url" : "https://www.businessinsider.com/mcdonalds-travis-scott-campaign-is-a-brilliant-marketing-ploy-2020-9",
+         "urlToImage" : "https://i.insider.com/5f5bddca7ed0ee001e25eedf?width=1200&format=jpeg",
          "source" : {
             "id" : "business-insider",
             "name" : "Business Insider"
          },
-         "description" : "The deal only uses items already on the McDonald's menu, giving the fast-food chain buzz without adding complexity to its kitchens.",
+         "url" : "https://www.businessinsider.com/mcdonalds-travis-scott-campaign-is-a-brilliant-marketing-ploy-2020-9",
          "publishedAt" : "2020-09-13T16:06:21Z",
-         "author" : "Kate Taylor"
+         "description" : "The deal only uses items already on the McDonald's menu, giving the fast-food chain buzz without adding complexity to its kitchens.",
+         "author" : "Kate Taylor",
+         "title" : "McDonald's Travis Scott campaign is a brilliant marketing ploy - Business Insider - Business Insider"
       },
       {
-         "source" : {
-            "name" : "Motley Fool",
-            "id" : null
-         },
-         "url" : "https://www.fool.com/investing/2020/09/13/3-things-to-watch-in-the-stock-market-this-week/",
-         "author" : "Demitri Kalogeropoulos",
-         "publishedAt" : "2020-09-13T16:06:00Z",
-         "description" : "Adobe is one of several big names set to announce earnings results over the next few trading days.",
-         "content" : "Stocks dropped last week, as both the Dow Jones Industrial Average (DJINDICES:^DJI) and the S&amp;P 500 (SNPINDEX:^SPX) shed more than 2%. The decline marked a second straight weekly drop following t… [+3238 chars]",
          "title" : "3 Things to Watch in the Stock Market This Week - Motley Fool",
+         "author" : "Demitri Kalogeropoulos",
+         "description" : "Adobe is one of several big names set to announce earnings results over the next few trading days.",
+         "publishedAt" : "2020-09-13T16:06:00Z",
+         "url" : "https://www.fool.com/investing/2020/09/13/3-things-to-watch-in-the-stock-market-this-week/",
+         "source" : {
+            "id" : null,
+            "name" : "Motley Fool"
+         },
+         "content" : "Stocks dropped last week, as both the Dow Jones Industrial Average (DJINDICES:^DJI) and the S&amp;P 500 (SNPINDEX:^SPX) shed more than 2%. The decline marked a second straight weekly drop following t… [+3238 chars]",
          "urlToImage" : "https://g.foolcdn.com/editorial/images/590828/delivery.jpg"
       },
       {
-         "description" : "Gains for seniors in January's Social Security checks are likely to be less than last year's but still significant.",
-         "author" : "Dan Caplinger",
-         "publishedAt" : "2020-09-13T16:01:00Z",
-         "url" : "https://www.fool.com/investing/2020/09/13/2021-social-security-cola-will-be-disappointing/",
-         "source" : {
-            "name" : "Motley Fool",
-            "id" : null
-         },
-         "title" : "The 2021 Social Security COLA Will Be Disappointing -- but at Least There'll Be One - Motley Fool",
-         "urlToImage" : "https://g.foolcdn.com/editorial/images/591441/ss-card-and-money-gettyimages-177533853.jpg",
-         "content" : "Social Security is vital for the financial survival of tens of millions of retirees. The majority of Social Security recipients rely on the program for most or all of their income. Even for those wit… [+3390 chars]"
-      },
-      {
-         "content" : "SAN JOSE All BART stations were back online by Sunday afternoon after a computer issue shut the transit agency down all morning.\r\nBART spokesman Jim Allison said the agency restored service to all Sa… [+1833 chars]",
-         "urlToImage" : "https://www.mercurynews.com/wp-content/uploads/2020/09/SJM-L-BARTCLOSE-0914-1.jpg?w=1024&h=786",
-         "title" : "All BART stations back online after computer issue canceled Sunday morning service - The Mercury News",
-         "author" : "Aldo Toledo",
-         "publishedAt" : "2020-09-13T15:58:00Z",
-         "description" : "All BART stations were back online by Sunday afternoon after a computer issue shut the transit agency down all morning.",
          "source" : {
             "id" : null,
-            "name" : "The Mercury News"
+            "name" : "Motley Fool"
          },
-         "url" : "http://www.mercurynews.com/2020/09/13/east-bay-stations-reopen-as-bart-shuts-down-service-over-computer-issue/"
+         "url" : "https://www.fool.com/investing/2020/09/13/2021-social-security-cola-will-be-disappointing/",
+         "publishedAt" : "2020-09-13T16:01:00Z",
+         "description" : "Gains for seniors in January's Social Security checks are likely to be less than last year's but still significant.",
+         "content" : "Social Security is vital for the financial survival of tens of millions of retirees. The majority of Social Security recipients rely on the program for most or all of their income. Even for those wit… [+3390 chars]",
+         "urlToImage" : "https://g.foolcdn.com/editorial/images/591441/ss-card-and-money-gettyimages-177533853.jpg",
+         "author" : "Dan Caplinger",
+         "title" : "The 2021 Social Security COLA Will Be Disappointing -- but at Least There'll Be One - Motley Fool"
       },
       {
-         "content" : null,
-         "urlToImage" : null,
-         "title" : "Ex-top intel official says doubts about election integrity are \"exactly\" what Russia wants - Face the Nation",
-         "publishedAt" : "2020-09-13T15:34:58Z",
+         "title" : "All BART stations back online after computer issue canceled Sunday morning service - The Mercury News",
+         "author" : "Aldo Toledo",
+         "urlToImage" : "https://www.mercurynews.com/wp-content/uploads/2020/09/SJM-L-BARTCLOSE-0914-1.jpg?w=1024&h=786",
+         "content" : "SAN JOSE All BART stations were back online by Sunday afternoon after a computer issue shut the transit agency down all morning.\r\nBART spokesman Jim Allison said the agency restored service to all Sa… [+1833 chars]",
+         "description" : "All BART stations were back online by Sunday afternoon after a computer issue shut the transit agency down all morning.",
+         "publishedAt" : "2020-09-13T15:58:00Z",
+         "url" : "http://www.mercurynews.com/2020/09/13/east-bay-stations-reopen-as-bart-shuts-down-service-over-computer-issue/",
+         "source" : {
+            "name" : "The Mercury News",
+            "id" : null
+         }
+      },
+      {
          "author" : null,
-         "description" : null,
+         "title" : "Ex-top intel official says doubts about election integrity are \"exactly\" what Russia wants - Face the Nation",
+         "urlToImage" : null,
+         "content" : null,
          "source" : {
             "id" : "google-news",
             "name" : "Google News"
          },
+         "description" : null,
+         "publishedAt" : "2020-09-13T15:34:58Z",
          "url" : "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9LUhrSWNKYzBYQXPSAQA?oc=5"
       }
-   ]
+   ],
+   "status" : "ok"
 }
