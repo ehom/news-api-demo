@@ -1,104 +1,104 @@
 {
-   "status" : "ok",
+   "totalResults" : 70,
    "articles" : [
       {
-         "url" : "https://www.cnn.com/2020/09/13/us/vertical-harvest-nona-yehia-cfc/index.html",
-         "publishedAt" : "2020-09-14T02:19:00Z",
          "title" : "It's hard to grow vegetables in this mountain town. Then this farmer had an idea - CNN",
-         "source" : {
-            "id" : "cnn",
-            "name" : "CNN"
-         },
          "content" : null,
-         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200910220948-vertical-harvest-05-super-tease.jpg",
+         "source" : {
+            "name" : "CNN",
+            "id" : "cnn"
+         },
+         "url" : "https://www.cnn.com/2020/09/13/us/vertical-harvest-nona-yehia-cfc/index.html",
          "author" : "Jeremy Harlan, CNN",
-         "description" : "Founded in 2016, Vertical Harvest is a vertical farm in that grows fresh produce for local restaurants and employs disabled workers in Jackson, Wyoming."
+         "description" : "Founded in 2016, Vertical Harvest is a vertical farm in that grows fresh produce for local restaurants and employs disabled workers in Jackson, Wyoming.",
+         "publishedAt" : "2020-09-14T02:19:00Z",
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200910220948-vertical-harvest-05-super-tease.jpg"
       },
       {
          "description" : "SoftBank had struggled to growing the business, while Nvidia bets on the future",
+         "publishedAt" : "2020-09-14T02:00:00Z",
+         "urlToImage" : "https://s.marketwatch.com/public/resources/images/MW-HP585_nvidia_ZG_20190815214753.jpg",
          "author" : "Asa Fitch",
-         "title" : "Nvidia and SoftBank are each winners in $40 billion deal for Arm Holdings - MarketWatch",
+         "content" : "The impending sale of Arm Holdings to Nvidia Corp. for $40 billion could have wide-ranging implications for the global semiconductor industry, further elevating one of its highest fliers and unwindin… [+1775 chars]",
+         "url" : "https://www.marketwatch.com/story/nvidia-and-softbank-are-each-winners-in-40-billion-deal-for-arm-holdings-2020-09-13",
          "source" : {
             "id" : null,
             "name" : "MarketWatch"
          },
-         "content" : "The impending sale of Arm Holdings to Nvidia Corp. for $40 billion could have wide-ranging implications for the global semiconductor industry, further elevating one of its highest fliers and unwindin… [+1775 chars]",
-         "urlToImage" : "https://s.marketwatch.com/public/resources/images/MW-HP585_nvidia_ZG_20190815214753.jpg",
-         "url" : "https://www.marketwatch.com/story/nvidia-and-softbank-are-each-winners-in-40-billion-deal-for-arm-holdings-2020-09-13",
-         "publishedAt" : "2020-09-14T02:00:00Z"
+         "title" : "Nvidia and SoftBank are each winners in $40 billion deal for Arm Holdings - MarketWatch"
       },
       {
+         "publishedAt" : "2020-09-14T00:45:02Z",
+         "urlToImage" : "https://www.gannett-cdn.com/presto/2020/09/14/PDTN/6c6b1149-f97c-41f8-b542-473619b1bcc7-AP20244723182709.jpg?crop=5279,2970,x0,y268&width=3200&height=1680&fit=bounds",
          "description" : "L.A.-bound plane returns to gate, departs 47 minutes late",
          "author" : "Neal Rubin",
-         "urlToImage" : "https://www.gannett-cdn.com/presto/2020/09/14/PDTN/6c6b1149-f97c-41f8-b542-473619b1bcc7-AP20244723182709.jpg?crop=5279,2970,x0,y268&width=3200&height=1680&fit=bounds",
-         "content" : "A Delta Air Lines flight from Detroit to Los Angeles had to make a pre-liftoff detour back to the gate when a passenger refused to wear a mask.\r\nDelta Flight 201, scheduled to depart at 8:15 p.m. Sat… [+2444 chars]",
          "source" : {
-            "id" : null,
-            "name" : "The Detroit News"
+            "name" : "The Detroit News",
+            "id" : null
          },
-         "title" : "Passenger removed, Delta flight in Detroit delayed over mask - The Detroit News",
          "url" : "https://www.detroitnews.com/story/news/local/michigan/2020/09/13/delta-passenger-mask-flight-delayed-detroit-los-angeles/5788765002/",
-         "publishedAt" : "2020-09-14T00:45:02Z"
+         "content" : "A Delta Air Lines flight from Detroit to Los Angeles had to make a pre-liftoff detour back to the gate when a passenger refused to wear a mask.\r\nDelta Flight 201, scheduled to depart at 8:15 p.m. Sat… [+2444 chars]",
+         "title" : "Passenger removed, Delta flight in Detroit delayed over mask - The Detroit News"
       },
       {
-         "url" : "https://www.reuters.com/article/uk-global-markets-idUKKBN26501D",
-         "publishedAt" : "2020-09-14T00:36:00Z",
          "title" : "Asian shares on firm footing as vaccine trials resume - Reuters",
+         "content" : "SYDNEY (Reuters) - Asian shares firmed on Monday on renewed hopes for a coronavirus vaccine after AstraZeneca resumed its phase-3 trial though sentiment was still cautious ahead of a big week of cent… [+3215 chars]",
          "source" : {
             "id" : "reuters",
             "name" : "Reuters"
          },
-         "urlToImage" : "https://static.reuters.com/resources/r/?m=02&d=20200914&t=2&i=1533290276&r=LYNXMPEG8D016&w=800",
-         "content" : "SYDNEY (Reuters) - Asian shares firmed on Monday on renewed hopes for a coronavirus vaccine after AstraZeneca resumed its phase-3 trial though sentiment was still cautious ahead of a big week of cent… [+3215 chars]",
+         "url" : "https://www.reuters.com/article/uk-global-markets-idUKKBN26501D",
+         "author" : "Swati Pandey",
          "description" : "Asian shares firmed on Monday on renewed hopes for a coronavirus vaccine after AstraZeneca resumed its phase-3 trial though sentiment was still cautious ahead of a big week of central bank meetings in UK, Japan and the United States.",
-         "author" : "Swati Pandey"
+         "publishedAt" : "2020-09-14T00:36:00Z",
+         "urlToImage" : "https://static.reuters.com/resources/r/?m=02&d=20200914&t=2&i=1533290276&r=LYNXMPEG8D016&w=800"
       },
       {
+         "description" : "Recent fraud allegations have placed Nikola under an intense amount of scrutiny. The details behind Nikola's GM deal raises more doubts about Nikola's technology.",
          "publishedAt" : "2020-09-14T00:28:00Z",
-         "url" : "https://seekingalpha.com/article/4373987-nikola-is-collapsing-under-pressure",
+         "urlToImage" : "https://static1.seekingalpha.com/uploads/2020/9/12/32586395-15999574394124677.png",
+         "author" : "Simple Investment Ideas",
+         "content" : "Nikola (NKLA) is establishing itself as one of the most volatile stocks in the market. After surging nearly 40% on news of the Nikola-General Motors (GM) deal, Nikola's stock quickly plunged as a res… [+5625 chars]",
          "source" : {
             "name" : "Seeking Alpha",
             "id" : null
          },
-         "title" : "Nikola Is Collapsing Under The Pressure - Seeking Alpha",
-         "content" : "Nikola (NKLA) is establishing itself as one of the most volatile stocks in the market. After surging nearly 40% on news of the Nikola-General Motors (GM) deal, Nikola's stock quickly plunged as a res… [+5625 chars]",
-         "urlToImage" : "https://static1.seekingalpha.com/uploads/2020/9/12/32586395-15999574394124677.png",
-         "author" : "Simple Investment Ideas",
-         "description" : "Recent fraud allegations have placed Nikola under an intense amount of scrutiny. The details behind Nikola's GM deal raises more doubts about Nikola's technology."
+         "url" : "https://seekingalpha.com/article/4373987-nikola-is-collapsing-under-pressure",
+         "title" : "Nikola Is Collapsing Under The Pressure - Seeking Alpha"
       },
       {
-         "title" : "Goldman, Deutsche Say U.S. Stock Selloff May Be Close to an End - Bloomberg",
+         "urlToImage" : "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iS5pvrbJ1ZUY/v0/1200x800.jpg",
+         "publishedAt" : "2020-09-14T00:23:00Z",
+         "description" : "The recent pullback in U.S. stocks could be close to an end if history is a guide, according to strategists at Goldman Sachs Group Inc. and Deutsche Bank AG.",
+         "author" : "Joanna Ossinger",
          "source" : {
             "name" : "Bloomberg",
             "id" : "bloomberg"
          },
+         "url" : "https://www.bloomberg.com/news/articles/2020-09-14/goldman-deutsche-say-u-s-stock-selloff-may-be-close-to-an-end",
          "content" : "The recent pullback in U.S. stocks could be close to an end if history is a guide, according to strategists at \r\nGoldman Sachs Group Inc. and \r\nDeutsche Bank AG.\r\nIts magnitude has matched a “typical… [+1912 chars]",
-         "urlToImage" : "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iS5pvrbJ1ZUY/v0/1200x800.jpg",
-         "author" : "Joanna Ossinger",
-         "description" : "The recent pullback in U.S. stocks could be close to an end if history is a guide, according to strategists at Goldman Sachs Group Inc. and Deutsche Bank AG.",
-         "publishedAt" : "2020-09-14T00:23:00Z",
-         "url" : "https://www.bloomberg.com/news/articles/2020-09-14/goldman-deutsche-say-u-s-stock-selloff-may-be-close-to-an-end"
+         "title" : "Goldman, Deutsche Say U.S. Stock Selloff May Be Close to an End - Bloomberg"
       },
       {
-         "content" : "Oracle Corp. won the bidding for the U.S. operations of the video-sharing app TikTok, a person familiar with the matter said, beating out Microsoft Corp. in a deal to salvage a social-media service t… [+226 chars]",
-         "urlToImage" : "https://images.wsj.net/im-231655/social",
          "title" : "Oracle Wins Bidding for TikTok in U.S., After Microsoft Proposal Rejected - The Wall Street Journal",
+         "content" : "Oracle Corp. won the bidding for the U.S. operations of the video-sharing app TikTok, a person familiar with the matter said, beating out Microsoft Corp. in a deal to salvage a social-media service t… [+226 chars]",
          "source" : {
             "id" : "the-wall-street-journal",
             "name" : "The Wall Street Journal"
          },
+         "url" : "https://www.wsj.com/articles/microsoft-drops-out-of-bidding-for-tiktoks-u-s-operations-11600039821",
          "author" : "Georgia Wells, Aaron Tilley",
          "description" : "Deal, which is likely not to be structured as an outright sale, will face White House review",
          "publishedAt" : "2020-09-14T00:02:00Z",
-         "url" : "https://www.wsj.com/articles/microsoft-drops-out-of-bidding-for-tiktoks-u-s-operations-11600039821"
+         "urlToImage" : "https://images.wsj.net/im-231655/social"
       },
       {
-         "url" : "https://nypost.com/2020/09/13/new-york-city-needs-more-neighborhoods-in-revolt-against-city-hall/",
+         "urlToImage" : "https://nypost.com/wp-content/uploads/sites/2/2020/09/081220homeless5RM.jpg?quality=90&strip=all&w=1200",
          "publishedAt" : "2020-09-13T23:44:00Z",
          "description" : "A strange thing happened last week: In response to a community concern (amplified by Post reporting), Mayor de Blasio . . . acted. No, he didn’t solve the problem, but he didn’t ignore it, eit…",
          "author" : "Nicole Gelinas",
-         "urlToImage" : "https://nypost.com/wp-content/uploads/sites/2/2020/09/081220homeless5RM.jpg?quality=90&strip=all&w=1200",
          "content" : "A strange thing happened last week: In response to a community concern (amplified by Post reporting), Mayor de Blasio ... acted. No, he didnt solve the problem, but he didnt ignore it, either. Its a … [+4192 chars]",
+         "url" : "https://nypost.com/2020/09/13/new-york-city-needs-more-neighborhoods-in-revolt-against-city-hall/",
          "source" : {
             "id" : null,
             "name" : "New York Post"
@@ -106,161 +106,161 @@
          "title" : "New York City needs more neighborhoods in revolt against City Hall - New York Post "
       },
       {
+         "description" : "Oil will be replaced by clean electricity, BP predicts, as demand may never recover from Covid-19 pandemic",
          "publishedAt" : "2020-09-13T23:01:00Z",
+         "urlToImage" : "https://i.guim.co.uk/img/media/a5d7127d69b12b5bf7adb02c93cbee7a69180d1e/0_180_3585_2153/master/3585.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=805d67edea7339a276948a05c77dfc9b",
+         "author" : "Jillian Ambrose",
+         "content" : "BP has called time on the worlds rising demand for fossil fuels after finding that demand for oil may have already reached its peak and faces an unprecedented decades-long decline.\r\nDemand for oil ma… [+4572 chars]",
          "url" : "https://amp.theguardian.combusiness/2020/sep/14/global-oil-demand-may-have-passed-peak-says-bp-energy-report",
-         "title" : "Global oil demand may have passed peak, says BP energy report - The Guardian",
          "source" : {
             "id" : null,
             "name" : "Theguardian.combusiness"
          },
-         "content" : "BP has called time on the worlds rising demand for fossil fuels after finding that demand for oil may have already reached its peak and faces an unprecedented decades-long decline.\r\nDemand for oil ma… [+4572 chars]",
-         "urlToImage" : "https://i.guim.co.uk/img/media/a5d7127d69b12b5bf7adb02c93cbee7a69180d1e/0_180_3585_2153/master/3585.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=805d67edea7339a276948a05c77dfc9b",
-         "description" : "Oil will be replaced by clean electricity, BP predicts, as demand may never recover from Covid-19 pandemic",
-         "author" : "Jillian Ambrose"
+         "title" : "Global oil demand may have passed peak, says BP energy report - The Guardian"
       },
       {
-         "url" : "https://www.wsj.com/articles/exxon-used-to-be-americas-most-valuable-company-what-happened-oil-gas-11600037243",
-         "publishedAt" : "2020-09-13T22:50:00Z",
-         "description" : "The oil giant doubled down on oil and gas before the pandemic crushed demand",
-         "author" : "Christopher M. Matthews",
-         "source" : {
-            "name" : "The Wall Street Journal",
-            "id" : "the-wall-street-journal"
-         },
          "title" : "Exxon Used to Be America’s Most Valuable Company. What Happened? - The Wall Street Journal",
          "content" : "It has been a stunning fall from grace for Exxon Mobil Corp.\r\nJust seven years ago, Exxon was the biggest U.S. company by market capitalization. It has since lost roughly 60% of its value, with its m… [+147 chars]",
-         "urlToImage" : "https://images.wsj.net/im-230640/social"
+         "url" : "https://www.wsj.com/articles/exxon-used-to-be-americas-most-valuable-company-what-happened-oil-gas-11600037243",
+         "source" : {
+            "id" : "the-wall-street-journal",
+            "name" : "The Wall Street Journal"
+         },
+         "author" : "Christopher M. Matthews",
+         "publishedAt" : "2020-09-13T22:50:00Z",
+         "urlToImage" : "https://images.wsj.net/im-230640/social",
+         "description" : "The oil giant doubled down on oil and gas before the pandemic crushed demand"
       },
       {
-         "publishedAt" : "2020-09-13T22:12:34Z",
-         "url" : "https://insideevs.com/features/443788/video-tesla-model-3-9-months-10k-miles-cost-to-own/",
          "urlToImage" : "https://cdn.motor1.com/images/mgl/x4Z62/s1/tesla-model-3-10-000-mile-cost.jpg",
-         "content" : "This Tesla Model 3 cost-of-ownership followup just premiered today. If you're in the market for a Model 3, another Tesla vehicle, or any EV for that matter, it's worth your time.\r\nThe Model 3 is Tesl… [+1850 chars]",
+         "publishedAt" : "2020-09-13T22:12:34Z",
+         "description" : "The Model 3 is Tesla's least-expensive model, but it's still not cheap. However, it is priced better than many less compelling EVs, and it's cheap to own.",
+         "author" : "Steven Loveday",
          "source" : {
             "name" : "InsideEVs ",
             "id" : null
          },
-         "title" : "Tesla Model 3 In-Depth 10,000-Mile Cost-Of-Ownership Analysis - InsideEVs ",
-         "author" : "Steven Loveday",
-         "description" : "The Model 3 is Tesla's least-expensive model, but it's still not cheap. However, it is priced better than many less compelling EVs, and it's cheap to own."
+         "url" : "https://insideevs.com/features/443788/video-tesla-model-3-9-months-10k-miles-cost-to-own/",
+         "content" : "This Tesla Model 3 cost-of-ownership followup just premiered today. If you're in the market for a Model 3, another Tesla vehicle, or any EV for that matter, it's worth your time.\r\nThe Model 3 is Tesl… [+1850 chars]",
+         "title" : "Tesla Model 3 In-Depth 10,000-Mile Cost-Of-Ownership Analysis - InsideEVs "
       },
       {
-         "title" : "How a Nashville guitar maker, Novo, struck a new chord after COVID-19 shut down its business - USA TODAY",
-         "source" : {
-            "id" : "usa-today",
-            "name" : "USA Today"
-         },
-         "urlToImage" : "https://www.gannett-cdn.com/presto/2020/09/09/USAT/5e11defd-8226-4579-9c57-5253f8169408-dennis_working1.jpg?crop=1618,911,x0,y162&width=1600&height=800&fit=bounds",
-         "content" : "Novo Guitars sells hand-made, originally-designed guitars. Here's how they've survived the pandemic even with no concerts or live performances.\r\nUSA TODAY\r\nSince its founding in 2015, Novo Guitars ha… [+3663 chars]",
          "author" : "By Aimee Picchi",
-         "description" : "Like many entrepreneurs and small businesses, Novo Guitars in Nashville had to quickly adapt to the new normal during the pandemic.",
          "publishedAt" : "2020-09-13T21:57:52Z",
-         "url" : "https://www.usatoday.com/story/money/2020/09/13/small-business-novo-guitars-turns-direct-sales-survive-covid-19/5770744002/"
+         "urlToImage" : "https://www.gannett-cdn.com/presto/2020/09/09/USAT/5e11defd-8226-4579-9c57-5253f8169408-dennis_working1.jpg?crop=1618,911,x0,y162&width=1600&height=800&fit=bounds",
+         "description" : "Like many entrepreneurs and small businesses, Novo Guitars in Nashville had to quickly adapt to the new normal during the pandemic.",
+         "title" : "How a Nashville guitar maker, Novo, struck a new chord after COVID-19 shut down its business - USA TODAY",
+         "url" : "https://www.usatoday.com/story/money/2020/09/13/small-business-novo-guitars-turns-direct-sales-survive-covid-19/5770744002/",
+         "source" : {
+            "name" : "USA Today",
+            "id" : "usa-today"
+         },
+         "content" : "Novo Guitars sells hand-made, originally-designed guitars. Here's how they've survived the pandemic even with no concerts or live performances.\r\nUSA TODAY\r\nSince its founding in 2015, Novo Guitars ha… [+3663 chars]"
       },
       {
-         "publishedAt" : "2020-09-13T21:54:31Z",
-         "url" : "https://www.usatoday.com/story/money/2020/09/13/peeps-treats-wont-come-halloween-christmas-shapes-year/5787136002/",
-         "content" : "Peeps, the popular colored marshmallows shaped like baby chicks, won't come in Halloween or Christmas shapes this year due to the COVID-19 pandemic, the company said in a statement to USA TODAY. \r\nPe… [+1313 chars]",
-         "urlToImage" : "https://www.gannett-cdn.com/presto/2020/09/13/USAT/22a46bbd-618b-49bb-935a-a3db6625f966-Screen_Shot_2020-09-13_at_4.37.57_PM.png?crop=737,415,x0,y0&width=737&height=415&format=pjpg&auto=webp",
          "title" : "Peeps won't come in Halloween, Christmas shapes this year due to COVID-related production shutdown - USA TODAY",
+         "content" : "Peeps, the popular colored marshmallows shaped like baby chicks, won't come in Halloween or Christmas shapes this year due to the COVID-19 pandemic, the company said in a statement to USA TODAY. \r\nPe… [+1313 chars]",
          "source" : {
             "id" : "usa-today",
             "name" : "USA Today"
          },
+         "url" : "https://www.usatoday.com/story/money/2020/09/13/peeps-treats-wont-come-halloween-christmas-shapes-year/5787136002/",
+         "author" : "Dalvin Brown",
          "description" : "Just Born had to temporarily shut down its factories due to the pandemic. That's why there won't be Christmas Peeps.",
-         "author" : "Dalvin Brown"
+         "urlToImage" : "https://www.gannett-cdn.com/presto/2020/09/13/USAT/22a46bbd-618b-49bb-935a-a3db6625f966-Screen_Shot_2020-09-13_at_4.37.57_PM.png?crop=737,415,x0,y0&width=737&height=415&format=pjpg&auto=webp",
+         "publishedAt" : "2020-09-13T21:54:31Z"
       },
       {
+         "description" : "It seems wherever we look we see reasons for higher prices and reasons for lower prices. This is creating a rangebound trade.",
+         "publishedAt" : "2020-09-13T21:32:49Z",
+         "urlToImage" : "https://responsive.fxempire.com/width/600/webp-lossy-70.q50/_fxempire_/2020/09/GoldDollar-1.jpg",
+         "author" : null,
+         "content" : "Late in the week, gold jumped as the dollar weakened after the European Central Bank kept its policy unchanged and U.S. jobless claims held at high levels, dimming hopes of a quick economic recovery … [+2257 chars]",
          "source" : {
             "id" : null,
             "name" : "FX Empire"
          },
-         "title" : "Price of Gold Fundamental Weekly Forecast - Fed May Not Deliver What Gold Bulls Want to Hear - FX Empire",
-         "content" : "Late in the week, gold jumped as the dollar weakened after the European Central Bank kept its policy unchanged and U.S. jobless claims held at high levels, dimming hopes of a quick economic recovery … [+2257 chars]",
-         "urlToImage" : "https://responsive.fxempire.com/width/600/webp-lossy-70.q50/_fxempire_/2020/09/GoldDollar-1.jpg",
-         "description" : "It seems wherever we look we see reasons for higher prices and reasons for lower prices. This is creating a rangebound trade.",
-         "author" : null,
          "url" : "https://www.fxempire.com/forecasts/article/price-of-gold-fundamental-weekly-forecast-fed-may-not-deliver-what-gold-bulls-want-to-hear-672139",
-         "publishedAt" : "2020-09-13T21:32:49Z"
+         "title" : "Price of Gold Fundamental Weekly Forecast - Fed May Not Deliver What Gold Bulls Want to Hear - FX Empire"
       },
       {
-         "content" : "BART has restored train service after a systemwide computer problem forced the agency to shut down all of its stations Sunday morning for several hours.\r\nBART reopened its stations and fully restored… [+659 chars]",
-         "urlToImage" : "https://s.hdnux.com/photos/01/14/06/76/19951525/13/rawImage.jpg",
-         "source" : {
-            "name" : "San Francisco Chronicle",
-            "id" : null
-         },
          "title" : "BART restores full service after shutdown from ‘systemwide computer problem’ - San Francisco Chronicle",
-         "author" : "Tatiana Sanchez",
-         "description" : "<p>All BART stations were shut down becasue of a systemwide computer problem, the agency said early Sunday. Full service has been restored.</p>",
+         "content" : "BART has restored train service after a systemwide computer problem forced the agency to shut down all of its stations Sunday morning for several hours.\r\nBART reopened its stations and fully restored… [+659 chars]",
+         "source" : {
+            "id" : null,
+            "name" : "San Francisco Chronicle"
+         },
          "url" : "https://www.sfchronicle.com/bayarea/article/BART-shut-down-amid-systemwide-computer-15563581.php",
-         "publishedAt" : "2020-09-13T19:58:00Z"
+         "author" : "Tatiana Sanchez",
+         "publishedAt" : "2020-09-13T19:58:00Z",
+         "urlToImage" : "https://s.hdnux.com/photos/01/14/06/76/19951525/13/rawImage.jpg",
+         "description" : "<p>All BART stations were shut down becasue of a systemwide computer problem, the agency said early Sunday. Full service has been restored.</p>"
       },
       {
          "title" : "Elon Musk shares his thoughts on Bill Gates. They're not pleasant - CNN",
+         "content" : null,
          "source" : {
             "name" : "CNN",
             "id" : "cnn"
          },
-         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200913145912-01-elon-musk-0902-super-tease.jpg",
-         "content" : null,
-         "description" : "The world's fourth-richest person is trash-talking the second-richest person.",
+         "url" : "https://www.cnn.com/2020/09/13/business/elon-musk-bill-gates-twitter-electric-trucks-tesla/index.html",
          "author" : "Jazmin Goodwin, CNN Business",
+         "description" : "The world's fourth-richest person is trash-talking the second-richest person.",
          "publishedAt" : "2020-09-13T19:46:00Z",
-         "url" : "https://www.cnn.com/2020/09/13/business/elon-musk-bill-gates-twitter-electric-trucks-tesla/index.html"
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200913145912-01-elon-musk-0902-super-tease.jpg"
       },
       {
-         "url" : "https://www.cnbc.com/2020/09/13/gilead-to-buy-cancer-drugmaker-immunomedics-in-21-billion-deal.html",
+         "author" : "Emma Newburger",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/102397115-1588365097899aabbcc.jpg?v=1591034247",
          "publishedAt" : "2020-09-13T19:38:00Z",
          "description" : "The deal will provide Gilead access to Immunomedics' cancer treatment drug called Trodelvy, an FDA-approved treatment for metastatic triple-negative breast cancer.",
-         "author" : "Emma Newburger",
-         "content" : "Gilead Sciences will acquire biotech company Immunomedics in a $21 billion deal that will expand Gilead's availability of cancer treatments, the companies announced on Sunday. \r\nThe deal will provide… [+1992 chars]",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/102397115-1588365097899aabbcc.jpg?v=1591034247",
          "title" : "Gilead to buy cancer drugmaker Immunomedics in $21 billion deal - CNBC",
          "source" : {
-            "id" : null,
-            "name" : "CNBC"
-         }
+            "name" : "CNBC",
+            "id" : null
+         },
+         "url" : "https://www.cnbc.com/2020/09/13/gilead-to-buy-cancer-drugmaker-immunomedics-in-21-billion-deal.html",
+         "content" : "Gilead Sciences will acquire biotech company Immunomedics in a $21 billion deal that will expand Gilead's availability of cancer treatments, the companies announced on Sunday. \r\nThe deal will provide… [+1992 chars]"
       },
       {
-         "publishedAt" : "2020-09-13T19:24:35Z",
-         "url" : "https://www.coindesk.com/uniswap-sushiswap-defi-tvl-lead",
-         "description" : "SushiSwap's total value locked (TVL) fell from $1.46 billion on Saturday night to $885 million as of press time. Uniswap's is at $955 million.",
-         "author" : "Nikhilesh De, Brady Dale",
-         "urlToImage" : "https://static.coindesk.com/wp-content/uploads/2020/09/MOSHED-2020-9-13-9-32-31.jpg",
+         "title" : "Uniswap Takes Lead Over SushiSwap Less Than 24 Hours After SUSHI Rewards Drop - CoinDesk - CoinDesk",
          "content" : "No loyalty among yield farmers.\r\nUniswap now has more value locked (TVL) than its upstart rival, SushiSwap, less than a day after SUSHI block rewards for liquidity providers (LPs) dropped from 1,000 … [+1272 chars]",
          "source" : {
             "id" : null,
             "name" : "CoinDesk"
          },
-         "title" : "Uniswap Takes Lead Over SushiSwap Less Than 24 Hours After SUSHI Rewards Drop - CoinDesk - CoinDesk"
+         "url" : "https://www.coindesk.com/uniswap-sushiswap-defi-tvl-lead",
+         "author" : "Nikhilesh De, Brady Dale",
+         "description" : "SushiSwap's total value locked (TVL) fell from $1.46 billion on Saturday night to $885 million as of press time. Uniswap's is at $955 million.",
+         "urlToImage" : "https://static.coindesk.com/wp-content/uploads/2020/09/MOSHED-2020-9-13-9-32-31.jpg",
+         "publishedAt" : "2020-09-13T19:24:35Z"
       },
       {
-         "description" : "The problems at JCPenney started long before the Covid-19 pandemic. A plan to get the company out of bankruptcy won't end them.",
-         "author" : "Chris Isidore, CNN Business",
+         "title" : "JCPenney could be doomed, even as malls race to save it - CNN",
+         "content" : null,
          "source" : {
             "id" : "cnn",
             "name" : "CNN"
          },
-         "title" : "JCPenney could be doomed, even as malls race to save it - CNN",
-         "content" : null,
-         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200912113756-01-jcpenney-orlando-aug2020-super-tease.jpg",
          "url" : "https://www.cnn.com/2020/09/13/business/jcpenney-survival-outlook/index.html",
-         "publishedAt" : "2020-09-13T19:11:00Z"
+         "author" : "Chris Isidore, CNN Business",
+         "publishedAt" : "2020-09-13T19:11:00Z",
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200912113756-01-jcpenney-orlando-aug2020-super-tease.jpg",
+         "description" : "The problems at JCPenney started long before the Covid-19 pandemic. A plan to get the company out of bankruptcy won't end them."
       },
       {
          "url" : "https://www.barrons.com/articles/adobe-fedex-lennar-and-other-stocks-for-investors-to-watch-this-week-51600023603",
-         "publishedAt" : "2020-09-13T19:00:00Z",
-         "author" : "Nicholas Jasinski",
-         "description" : "",
-         "content" : "The earnings calendar is relatively sparse this week. Homebuilder \r\n Lennar\r\n reports on Monday, followed by \r\n Adobe\r\n and \r\n FedEx\r\n on Tuesday. \r\n Charles Schwab\r\n and Progressive release August s… [+3424 chars]",
-         "urlToImage" : "https://images.barrons.com/im-185399/social",
          "source" : {
-            "name" : "Barron's",
-            "id" : null
+            "id" : null,
+            "name" : "Barron's"
          },
-         "title" : "Adobe, FedEx, Lennar and Other Stocks for Investors to Watch This Week - Barron's"
+         "content" : "The earnings calendar is relatively sparse this week. Homebuilder \r\n Lennar\r\n reports on Monday, followed by \r\n Adobe\r\n and \r\n FedEx\r\n on Tuesday. \r\n Charles Schwab\r\n and Progressive release August s… [+3424 chars]",
+         "title" : "Adobe, FedEx, Lennar and Other Stocks for Investors to Watch This Week - Barron's",
+         "publishedAt" : "2020-09-13T19:00:00Z",
+         "urlToImage" : "https://images.barrons.com/im-185399/social",
+         "description" : "",
+         "author" : "Nicholas Jasinski"
       }
    ],
-   "totalResults" : 70
+   "status" : "ok"
 }
