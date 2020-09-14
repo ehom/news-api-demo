@@ -1,201 +1,200 @@
 {
-   "totalResults" : 70,
    "status" : "ok",
    "articles" : [
       {
-         "urlToImage" : "https://s.marketwatch.com/public/resources/images/MW-IO438_snowfl_ZG_20200914131211.jpg",
-         "author" : "Ciara Linnane",
          "publishedAt" : "2020-09-14T17:43:00Z",
-         "title" : "IPO market gears up for busiest week since May of 2019 — Uber’s IPO week — with 12 deals on tap - MarketWatch",
-         "url" : "https://www.marketwatch.com/story/ipo-market-gears-up-for-busiest-week-since-may-of-2019-ubers-ipo-week-with-12-deals-on-tap-2020-09-14",
-         "description" : "Cloud company Snowflake expected to raise up to $3.08 billion in biggest-ever software IPO and biggest deal of the year to date",
          "content" : "The U.S. initial public offering market is gearing up for its busiest week since May of 2019, when Uber Technologies Inc. went public, with 12 deals expected to raise $6.8 billion.The list includes S… [+10929 chars]",
+         "url" : "https://www.marketwatch.com/story/ipo-market-gears-up-for-busiest-week-since-may-of-2019-ubers-ipo-week-with-12-deals-on-tap-2020-09-14",
          "source" : {
             "id" : null,
             "name" : "MarketWatch"
-         }
+         },
+         "author" : "Ciara Linnane",
+         "description" : "Cloud company Snowflake expected to raise up to $3.08 billion in biggest-ever software IPO and biggest deal of the year to date",
+         "urlToImage" : "https://s.marketwatch.com/public/resources/images/MW-IO438_snowfl_ZG_20200914131211.jpg",
+         "title" : "IPO market gears up for busiest week since May of 2019 — Uber’s IPO week — with 12 deals on tap - MarketWatch"
       },
       {
-         "url" : "https://www.cnbc.com/2020/09/14/draftkings-surges-after-announcing-espn-deal.html",
-         "title" : "DraftKings surges after announcing ESPN deal - CNBC",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106563685-1591202228828draft.jpg?v=1600101308",
-         "publishedAt" : "2020-09-14T17:01:00Z",
-         "author" : "Jesse Pound",
          "source" : {
             "id" : null,
             "name" : "CNBC"
          },
+         "content" : "Shares of DraftKings rose sharply on Monday after the sports gaming company announced an agreement with sports entertainment giant ESPN. \r\nAs part of the agreement, DraftKings will be the exclusive p… [+1307 chars]",
+         "url" : "https://www.cnbc.com/2020/09/14/draftkings-surges-after-announcing-espn-deal.html",
+         "publishedAt" : "2020-09-14T17:01:00Z",
+         "title" : "DraftKings surges after announcing ESPN deal - CNBC",
          "description" : "Shares of DraftKings jumped after the company announced a partnership with ESPN.",
-         "content" : "Shares of DraftKings rose sharply on Monday after the sports gaming company announced an agreement with sports entertainment giant ESPN. \r\nAs part of the agreement, DraftKings will be the exclusive p… [+1307 chars]"
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106563685-1591202228828draft.jpg?v=1600101308",
+         "author" : "Jesse Pound"
       },
       {
-         "urlToImage" : "https://cdn.vox-cdn.com/thumbor/CDP3FM-KFNzLLUE9TCFey6T1q2k=/0x38:1920x1043/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/19658290/GMC_HUMMER_EV_Quiet_Revolution_Grille.jpg",
          "publishedAt" : "2020-09-14T16:52:22Z",
-         "author" : "Andrew J. Hawkins",
          "url" : "https://www.theverge.com/2020/9/14/21436401/gm-hummer-electric-reveal-date-picup-truck-crab-mode",
-         "title" : "Hummer EV pickup truck will be revealed October 20th - The Verge",
          "content" : "Image: GMC\r\nGeneral Motors will reveal the all-electric Hummer truck on October 20th, and to help whet your appetite until then, the automaker is confirming a rumored standout feature.\r\nGM confirms t… [+1647 chars]",
-         "description" : "GM’s electric Hummer pickup truck will be revealed October 20th, the automaker confirmed. The EV will also come with Crab Mode, which will enable diagonal driving.",
          "source" : {
-            "name" : "The Verge",
-            "id" : "the-verge"
+            "id" : "the-verge",
+            "name" : "The Verge"
+         },
+         "author" : "Andrew J. Hawkins",
+         "urlToImage" : "https://cdn.vox-cdn.com/thumbor/CDP3FM-KFNzLLUE9TCFey6T1q2k=/0x38:1920x1043/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/19658290/GMC_HUMMER_EV_Quiet_Revolution_Grille.jpg",
+         "description" : "GM’s electric Hummer pickup truck will be revealed October 20th, the automaker confirmed. The EV will also come with Crab Mode, which will enable diagonal driving.",
+         "title" : "Hummer EV pickup truck will be revealed October 20th - The Verge"
+      },
+      {
+         "author" : "Daniella Genovese",
+         "description" : "In 2014, Hobby Lobby raised its full-time minimum hourly wage to $15.",
+         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/09/0/0/Hobby-lobby-Minimum-wage.jpg?ve=1&tl=1",
+         "title" : "Hobby Lobby raises minimum wage to $17 - Fox Business",
+         "publishedAt" : "2020-09-14T16:37:36Z",
+         "content" : "Hobby Lobby announced Monday that it's bumping up its minimum full-time hourly wage to $17 starting next month.\r\nThe increase will take effect by Oct. 1 to help employees as the holiday season approa… [+814 chars]",
+         "url" : "https://www.foxbusiness.com/economy/hobby-lobby-raises-minimum-wage-to-17-dollars",
+         "source" : {
+            "id" : null,
+            "name" : "Fox Business"
          }
       },
       {
          "source" : {
-            "name" : "Fox Business",
-            "id" : null
+            "name" : "Business Insider",
+            "id" : "business-insider"
          },
-         "description" : "In 2014, Hobby Lobby raised its full-time minimum hourly wage to $15.",
-         "content" : "Hobby Lobby announced Monday that it's bumping up its minimum full-time hourly wage to $17 starting next month.\r\nThe increase will take effect by Oct. 1 to help employees as the holiday season approa… [+814 chars]",
-         "title" : "Hobby Lobby raises minimum wage to $17 - Fox Business",
-         "url" : "https://www.foxbusiness.com/economy/hobby-lobby-raises-minimum-wage-to-17-dollars",
-         "author" : "Daniella Genovese",
-         "publishedAt" : "2020-09-14T16:37:36Z",
-         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/09/0/0/Hobby-lobby-Minimum-wage.jpg?ve=1&tl=1"
-      },
-      {
-         "content" : "Reuters\r\n<ul><li>Gilead said on Sunday it agreed to acquire cancer-drug company Immunomedics for $21 billion.</li><li>Shares of Immunomedic soared as much as 106% on Monday following the news.</li><l… [+2469 chars]",
-         "description" : "Immunomedics soars 106% after Gilead agrees to acquire the cancer-drug company for $21 billion",
-         "source" : {
-            "id" : "business-insider",
-            "name" : "Business Insider"
-         },
-         "urlToImage" : "https://i.insider.com/5f5f7034e6ff30001d4e88e2?format=jpeg",
-         "publishedAt" : "2020-09-14T16:25:46Z",
-         "author" : "Matthew Fox",
          "url" : "https://www.businessinsider.com/immunomedics-stock-price-gilead-acquires-cancer-drug-billion-trodelvy-2020-9",
-         "title" : "Immunomedics soars 106% after Gilead agrees to acquire the cancer-drug company for $21 billion | Markets - Business Insider"
+         "content" : "Reuters\r\n<ul><li>Gilead said on Sunday it agreed to acquire cancer-drug company Immunomedics for $21 billion.</li><li>Shares of Immunomedic soared as much as 106% on Monday following the news.</li><l… [+2469 chars]",
+         "publishedAt" : "2020-09-14T16:25:46Z",
+         "title" : "Immunomedics soars 106% after Gilead agrees to acquire the cancer-drug company for $21 billion | Markets - Business Insider",
+         "urlToImage" : "https://i.insider.com/5f5f7034e6ff30001d4e88e2?format=jpeg",
+         "description" : "Immunomedics soars 106% after Gilead agrees to acquire the cancer-drug company for $21 billion",
+         "author" : "Matthew Fox"
       },
       {
-         "url" : "https://www.engadget.com/google-eliminates-carbon-legacy-161544433.html",
-         "title" : "Google says it offset all of the emissions it has ever generated - Engadget",
-         "publishedAt" : "2020-09-14T16:23:49Z",
-         "author" : "",
          "urlToImage" : "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-09%2F2e5ab4a0-f6a3-11ea-8cfd-b4f303307fd9&client=amp-blogside-v2&signature=a804bd68e84db371a200d90162472027079d0530",
-         "source" : {
-            "id" : "engadget",
-            "name" : "Engadget"
-         },
+         "description" : "Google eliminates its 'entire carbon legacy' and plans to use only clean energy by 2030.",
+         "author" : "",
+         "title" : "Google says it offset all of the emissions it has ever generated - Engadget",
+         "url" : "https://www.engadget.com/google-eliminates-carbon-legacy-161544433.html",
          "content" : "“This is far more challenging than the traditional approach of matching energy usage with renewable energy,” Google and Alphabet CEO Sundar Pichai wrote in a blog post.\r\nAs of today, Google is the 1s… [+1067 chars]",
-         "description" : "Google eliminates its 'entire carbon legacy' and plans to use only clean energy by 2030."
+         "publishedAt" : "2020-09-14T16:23:49Z",
+         "source" : {
+            "name" : "Engadget",
+            "id" : "engadget"
+         }
       },
       {
-         "url" : "https://www.foxnews.com/travel/delta-flight-returns-gate-woman-refuses-mask",
          "title" : "Delta flight returns to gate after woman refuses to wear mask - Fox News",
-         "publishedAt" : "2020-09-14T16:12:34Z",
          "author" : "Jeanette Settembre",
+         "description" : "The Delta flight proceeded back to Metro Airport before takeoff Saturday night when a woman refused to put on a face mask, a mandatory requirement on every flight for customer and crewmember safety during the coronavirus pandemic, Delta confirmed.",
          "urlToImage" : "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/delta-plane-istock.jpg",
          "source" : {
             "id" : "fox-news",
             "name" : "Fox News"
          },
-         "description" : "The Delta flight proceeded back to Metro Airport before takeoff Saturday night when a woman refused to put on a face mask, a mandatory requirement on every flight for customer and crewmember safety during the coronavirus pandemic, Delta confirmed.",
+         "publishedAt" : "2020-09-14T16:12:34Z",
+         "url" : "https://www.foxnews.com/travel/delta-flight-returns-gate-woman-refuses-mask",
          "content" : "A Los Angeles-bound Delta flight was forced to return to Detroit after a woman on board refused to wear a mask, according to a report from Deadline Detroit.\r\nThe Delta flight proceeded back to Metro … [+2128 chars]"
       },
       {
-         "url" : "https://www.foxbusiness.com/markets/mnuchin-oracles-tiktok-bid-promises-us-headquarters-20000-jobs",
-         "title" : "Mnuchin: Oracle's TikTok bid promises US headquarters, 20,000 jobs - Fox Business",
-         "publishedAt" : "2020-09-14T16:11:05Z",
          "author" : "Suzanne O'Halloran",
          "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/09/0/0/Mnuchin-tiktok-Ellison-Getty.png?ve=1&tl=1",
-         "source" : {
-            "name" : "Fox Business",
-            "id" : null
-         },
+         "description" : "A TikTok-Oracle deal is being reviewed by U.S. Treasury Department.",
+         "title" : "Mnuchin: Oracle's TikTok bid promises US headquarters, 20,000 jobs - Fox Business",
+         "publishedAt" : "2020-09-14T16:11:05Z",
          "content" : "Oracle confirmed on Monday it is making a play for TikTok's U.S. arm after the company's Chinese parent, ByteDance, chose the company to be its U.S. partner.\r\nBYTEDANCE CHOOSES ORACLE OVER MICROSOFT … [+2050 chars]",
-         "description" : "A TikTok-Oracle deal is being reviewed by U.S. Treasury Department."
+         "url" : "https://www.foxbusiness.com/markets/mnuchin-oracles-tiktok-bid-promises-us-headquarters-20000-jobs",
+         "source" : {
+            "id" : null,
+            "name" : "Fox Business"
+         }
       },
       {
          "title" : "Housing is still holding up the economy. It's so not like 2008 - CNN",
-         "url" : "https://www.cnn.com/2020/09/14/investing/housing-economy/index.html",
-         "author" : "Paul R. La Monica, CNN Business",
-         "publishedAt" : "2020-09-14T16:08:00Z",
+         "description" : "The stock market continues to be volatile and the job market is still in worse shape than where it was before Covid-19 plunged the United States into recession. But there is still one undeniable bright spot for America's economy: the housing market.",
          "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200914081458-01-us-single-family-homes-0901-restricted-super-tease.jpg",
+         "author" : "Paul R. La Monica, CNN Business",
          "source" : {
             "name" : "CNN",
             "id" : "cnn"
          },
+         "url" : "https://www.cnn.com/2020/09/14/investing/housing-economy/index.html",
          "content" : null,
-         "description" : "The stock market continues to be volatile and the job market is still in worse shape than where it was before Covid-19 plunged the United States into recession. But there is still one undeniable bright spot for America's economy: the housing market."
+         "publishedAt" : "2020-09-14T16:08:00Z"
       },
       {
          "source" : {
-            "id" : null,
-            "name" : "Electrek"
+            "name" : "Electrek",
+            "id" : null
          },
-         "content" : "BP stated in a forecast published today that oil may have reached its peak due to the pandemic and that renewables will take the place of fossil fuels.\r\nBP’s report\r\nBP has released its 2020 Energy O… [+2712 chars]",
-         "description" : "BP stated in a forecast published today that oil may have reached its peak due to the pandemic, and that green energy will take the place of fossil fuels.",
-         "url" : "https://electrek.co/2020/09/14/bp-report-oil-green-energy/",
-         "title" : "BP report: Oil is dying, long live green energy - Electrek",
          "publishedAt" : "2020-09-14T16:05:00Z",
+         "url" : "https://electrek.co/2020/09/14/bp-report-oil-green-energy/",
+         "content" : "BP stated in a forecast published today that oil may have reached its peak due to the pandemic and that renewables will take the place of fossil fuels.\r\nBP’s report\r\nBP has released its 2020 Energy O… [+2712 chars]",
+         "title" : "BP report: Oil is dying, long live green energy - Electrek",
          "author" : null,
+         "description" : "BP stated in a forecast published today that oil may have reached its peak due to the pandemic, and that green energy will take the place of fossil fuels.",
          "urlToImage" : "https://electrek.co/wp-content/uploads/sites/3/2020/06/BP-logo-tower.jpg?quality=82&strip=all"
       },
       {
+         "title" : "Dow Jones Rises 400 Points On Coronavirus Vaccine; Apple, Tesla Jump, While Nvidia Soars - Investor's Business Daily",
+         "urlToImage" : "https://www.investors.com/wp-content/uploads/2020/03/stock-coronavirus-08-adobe.jpg",
          "description" : "The Dow Jones Industrial Average rose 400 points on coronavirus vaccine news. Apple and Tesla jumped, while Oracle and Nvidia surged on acquisitions.",
-         "content" : "The Dow Jones Industrial Average jumped 400 points early Monday, lifted by a heavy slate of mergers, plus some coronavirus vaccine news. Dow Jones leader Apple gained 2%, while Tesla jumped 9%, while… [+6457 chars]",
+         "author" : "Investor's Business Daily",
          "source" : {
             "name" : "Investor's Business Daily",
             "id" : null
          },
-         "publishedAt" : "2020-09-14T16:00:00Z",
-         "author" : "Investor's Business Daily",
-         "urlToImage" : "https://www.investors.com/wp-content/uploads/2020/03/stock-coronavirus-08-adobe.jpg",
+         "content" : "The Dow Jones Industrial Average jumped 400 points early Monday, lifted by a heavy slate of mergers, plus some coronavirus vaccine news. Dow Jones leader Apple gained 2%, while Tesla jumped 9%, while… [+6457 chars]",
          "url" : "https://www.investors.com/market-trend/stock-market-today/dow-jones-coronavirus-vaccine-stock-market-rally-apple-tesla-oracle-tiktok-nvidia-arm/",
-         "title" : "Dow Jones Rises 400 Points On Coronavirus Vaccine; Apple, Tesla Jump, While Nvidia Soars - Investor's Business Daily"
+         "publishedAt" : "2020-09-14T16:00:00Z"
       },
       {
-         "content" : "A troubling pattern emerged as most of \r\nJPMorgan Chase &amp; Co.’s employees worked from home to stem the spread of Covid-19: productivity slipped.\r\nWork output by younger employees was particularly… [+1728 chars]",
+         "title" : "At JPMorgan, Productivity Falls for Younger Employees at Home - Bloomberg",
+         "author" : "Michelle F Davis",
+         "urlToImage" : "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/im1sePhb.4DQ/v0/1200x800.jpg",
          "description" : "A troubling pattern emerged as most of JPMorgan Chase & Co.’s employees worked from home to stem the spread of Covid-19: productivity slipped.",
          "source" : {
-            "id" : "bloomberg",
-            "name" : "Bloomberg"
+            "name" : "Bloomberg",
+            "id" : "bloomberg"
          },
-         "author" : "Michelle F Davis",
          "publishedAt" : "2020-09-14T15:37:00Z",
-         "urlToImage" : "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/im1sePhb.4DQ/v0/1200x800.jpg",
-         "title" : "At JPMorgan, Productivity Falls for Younger Employees at Home - Bloomberg",
+         "content" : "A troubling pattern emerged as most of \r\nJPMorgan Chase &amp; Co.’s employees worked from home to stem the spread of Covid-19: productivity slipped.\r\nWork output by younger employees was particularly… [+1728 chars]",
          "url" : "https://www.bloomberg.com/news/articles/2020-09-14/at-jpmorgan-productivity-falls-for-younger-employees-at-home"
       },
       {
-         "description" : "There's tons of cheese on Taco Bell's menu, so a wine to pair with it is a natural next step.",
-         "content" : null,
-         "source" : {
-            "name" : "CNN",
-            "id" : "cnn"
-         },
-         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200914091056-taco-bell-wine-super-tease.jpg",
-         "author" : "Jordan Valinsky, CNN Business",
-         "publishedAt" : "2020-09-14T15:22:00Z",
          "title" : "Taco Bell is now selling its own custom wine - CNN",
-         "url" : "https://www.cnn.com/2020/09/14/business/taco-bell-wine-canada/index.html"
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200914091056-taco-bell-wine-super-tease.jpg",
+         "description" : "There's tons of cheese on Taco Bell's menu, so a wine to pair with it is a natural next step.",
+         "author" : "Jordan Valinsky, CNN Business",
+         "source" : {
+            "id" : "cnn",
+            "name" : "CNN"
+         },
+         "url" : "https://www.cnn.com/2020/09/14/business/taco-bell-wine-canada/index.html",
+         "content" : null,
+         "publishedAt" : "2020-09-14T15:22:00Z"
       },
       {
+         "urlToImage" : "https://images.barrons.com/im-231747/social",
+         "description" : "",
+         "author" : "Al Root",
          "title" : "Tesla Stock Rises as Musk Tweets About ‘Many Exciting Things’ Coming on Batteries - Barron's",
          "url" : "https://www.barrons.com/articles/tesla-stock-rises-elon-musk-tweets-batteries-51600096766",
-         "author" : "Al Root",
-         "publishedAt" : "2020-09-14T15:21:00Z",
-         "urlToImage" : "https://images.barrons.com/im-231747/social",
-         "source" : {
-            "id" : null,
-            "name" : "Barron's"
-         },
          "content" : "Teslas battery technology day is about a week away and CEO Elon Musk seems excited, tweeting that many exciting things will be unveiled. \r\nThe tweet was sent Friday and picked steam over the weekend.… [+152 chars]",
-         "description" : ""
-      },
-      {
-         "author" : "Jesse Pound",
-         "publishedAt" : "2020-09-14T14:53:00Z",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106598386-1593554406183img_3354rr.jpg?v=1593554465",
-         "title" : "Cramer says Nvidia's Arm buy may be 'game, set, match' for its battle with Intel, other chipmakers - CNBC",
-         "url" : "https://www.cnbc.com/2020/09/14/cramer-says-nvidias-arm-buy-may-be-game-set-match-for-its-battle-with-intel-other-chipmakers.html",
-         "description" : "CNBC's Jim Cramer praised Nvidia's latest move on \"Squawk on the Street.\"",
-         "content" : "(This story is for CNBC Pro subscribers only). \r\nCNBC's Jim Cramer said Monday that Nvidia's move to purchase Arm Holdings from Softbank would cement the company as the dominant player in the semicon… [+323 chars]",
+         "publishedAt" : "2020-09-14T15:21:00Z",
          "source" : {
-            "name" : "CNBC",
+            "name" : "Barron's",
             "id" : null
          }
+      },
+      {
+         "source" : {
+            "id" : null,
+            "name" : "CNBC"
+         },
+         "publishedAt" : "2020-09-14T14:53:00Z",
+         "url" : "https://www.cnbc.com/2020/09/14/cramer-says-nvidias-arm-buy-may-be-game-set-match-for-its-battle-with-intel-other-chipmakers.html",
+         "content" : "(This story is for CNBC Pro subscribers only). \r\nCNBC's Jim Cramer said Monday that Nvidia's move to purchase Arm Holdings from Softbank would cement the company as the dominant player in the semicon… [+323 chars]",
+         "title" : "Cramer says Nvidia's Arm buy may be 'game, set, match' for its battle with Intel, other chipmakers - CNBC",
+         "author" : "Jesse Pound",
+         "description" : "CNBC's Jim Cramer praised Nvidia's latest move on \"Squawk on the Street.\"",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106598386-1593554406183img_3354rr.jpg?v=1593554465"
       },
       {
          "source" : {
@@ -203,64 +202,65 @@
             "name" : "Yahoo Entertainment"
          },
          "content" : "(Bloomberg) -- Billionaire Ronald Perelman has agreed to sell his stake in Scientific Games Corp. to a group of investors that includes Australian investment firm Caledonia, which plans to overhaul t… [+2499 chars]",
-         "description" : "(Bloomberg) -- Billionaire Ronald Perelman has agreed to sell his stake in Scientific Games Corp. to a group of investors that includes Australian investment firm Caledonia, which plans to overhaul the betting company’s board and strategy.The acquirers are se…",
          "url" : "https://finance.yahoo.com/news/perelman-nears-scientific-games-stake-021839516.html",
-         "title" : "Perelman Nears Scientific Games Stake Sale to Caledonia - Yahoo Finance",
          "publishedAt" : "2020-09-14T14:51:00Z",
-         "author" : "Gillian Tan, Nabila Ahmed and Katherine Doherty",
-         "urlToImage" : "https://s.yimg.com/uu/api/res/1.2/jq5OLRnEv24cW763Wd52rg--~B/aD0xMDQwO3c9MTU2MDtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bloomberg_markets_842/65324a8344c29a9ad5f8c2ddabf9848a"
+         "title" : "Perelman Nears Scientific Games Stake Sale to Caledonia - Yahoo Finance",
+         "urlToImage" : "https://s.yimg.com/uu/api/res/1.2/jq5OLRnEv24cW763Wd52rg--~B/aD0xMDQwO3c9MTU2MDtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bloomberg_markets_842/65324a8344c29a9ad5f8c2ddabf9848a",
+         "description" : "(Bloomberg) -- Billionaire Ronald Perelman has agreed to sell his stake in Scientific Games Corp. to a group of investors that includes Australian investment firm Caledonia, which plans to overhaul the betting company’s board and strategy.The acquirers are se…",
+         "author" : "Gillian Tan, Nabila Ahmed and Katherine Doherty"
       },
       {
+         "title" : "White Castle rolls out new packaging for the social distancing age - CNN",
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200914092607-white-castle-new-packaging-super-tease.jpg",
+         "description" : "White Castle is reinventing its packaging to adapt to customers' new social habits during the pandemic.",
+         "author" : "Alexis Benveniste, CNN Business",
          "source" : {
             "name" : "CNN",
             "id" : "cnn"
          },
          "content" : null,
-         "description" : "White Castle is reinventing its packaging to adapt to customers' new social habits during the pandemic.",
          "url" : "https://www.cnn.com/2020/09/14/business/white-castle-boxes/index.html",
-         "title" : "White Castle rolls out new packaging for the social distancing age - CNN",
-         "publishedAt" : "2020-09-14T14:37:00Z",
-         "author" : "Alexis Benveniste, CNN Business",
-         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200914092607-white-castle-new-packaging-super-tease.jpg"
+         "publishedAt" : "2020-09-14T14:37:00Z"
       },
       {
-         "source" : {
-            "name" : "9to5google.com",
-            "id" : null
-         },
+         "author" : null,
          "description" : "In a deal worth over $6 billion, Verizon is set to acquire Tracfone, the largest MVNO in the United States along with all of its brands.",
-         "content" : "Just a few months after T-Mobile’s merger with Sprint closed, Verizon has a big announcement of its own. Verizon, the nation’s largest carrier, today announced that it would acquire the largest MVNO … [+5302 chars]",
-         "url" : "https://9to5google.com/2020/09/14/verizon-tracfone-acquisition-deal/",
+         "urlToImage" : "https://9to5google.com/wp-content/uploads/sites/4/2019/11/Verizon-Sign-7.jpg?quality=82&strip=all",
          "title" : "Verizon will acquire Tracfone, the largest MVNO in the US, for over $6 billion - 9to5Google",
          "publishedAt" : "2020-09-14T14:34:00Z",
-         "author" : null,
-         "urlToImage" : "https://9to5google.com/wp-content/uploads/sites/4/2019/11/Verizon-Sign-7.jpg?quality=82&strip=all"
-      },
-      {
-         "urlToImage" : "https://storage.googleapis.com/afs-prod/media/3ff3d4b9903b47cf81788f342f2ecbbf/3000.jpeg",
-         "author" : "Marilynn Marchione",
-         "publishedAt" : "2020-09-14T14:33:36Z",
-         "title" : "Anti-inflammatory drug may shorten COVID-19 recovery time - The Associated Press",
-         "url" : "https://apnews.com/989eadbb02c845f3fcfe58321eeeca00",
-         "description" : "A drug company says that adding an anti-inflammatory medicine to a drug already widely used for hospitalized COVID-19 patients shortens their time to recovery by an additional day. Eli Lilly...",
-         "content" : "A drug company says that adding an anti-inflammatory medicine to a drug already widely used for hospitalized COVID-19 patients shortens their time to recovery by an additional day.\r\nEli Lilly announc… [+2027 chars]",
+         "content" : "Just a few months after T-Mobile’s merger with Sprint closed, Verizon has a big announcement of its own. Verizon, the nation’s largest carrier, today announced that it would acquire the largest MVNO … [+5302 chars]",
+         "url" : "https://9to5google.com/2020/09/14/verizon-tracfone-acquisition-deal/",
          "source" : {
-            "name" : "Associated Press",
-            "id" : "associated-press"
+            "id" : null,
+            "name" : "9to5google.com"
          }
       },
       {
-         "content" : "Big landlords increased the number of eviction cases they filed after President Donald Trump announced his recent \r\nmoratorium, signaling the struggle tenants face getting protection from the federal… [+4387 chars]",
+         "source" : {
+            "name" : "Associated Press",
+            "id" : "associated-press"
+         },
+         "publishedAt" : "2020-09-14T14:33:36Z",
+         "url" : "https://apnews.com/989eadbb02c845f3fcfe58321eeeca00",
+         "content" : "A drug company says that adding an anti-inflammatory medicine to a drug already widely used for hospitalized COVID-19 patients shortens their time to recovery by an additional day.\r\nEli Lilly announc… [+2027 chars]",
+         "title" : "Anti-inflammatory drug may shorten COVID-19 recovery time - The Associated Press",
+         "author" : "Marilynn Marchione",
+         "urlToImage" : "https://storage.googleapis.com/afs-prod/media/3ff3d4b9903b47cf81788f342f2ecbbf/3000.jpeg",
+         "description" : "A drug company says that adding an anti-inflammatory medicine to a drug already widely used for hospitalized COVID-19 patients shortens their time to recovery by an additional day. Eli Lilly..."
+      },
+      {
+         "title" : "Eviction Filings by Big Landlords Surged After Trump Issued Ban - Bloomberg",
+         "author" : "Patrick Clark, Prashant Gopal",
+         "urlToImage" : "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iMmOCXPmNWFY/v0/1200x798.jpg",
          "description" : "Big landlords increased the number of eviction cases they filed after President Donald Trump announced his recent moratorium, signaling the struggle tenants face getting protection from the federal order.",
          "source" : {
             "id" : "bloomberg",
             "name" : "Bloomberg"
          },
-         "urlToImage" : "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iMmOCXPmNWFY/v0/1200x798.jpg",
-         "author" : "Patrick Clark, Prashant Gopal",
          "publishedAt" : "2020-09-14T14:30:00Z",
-         "title" : "Eviction Filings by Big Landlords Surged After Trump Issued Ban - Bloomberg",
-         "url" : "https://www.bloomberg.com/news/articles/2020-09-14/eviction-filings-by-big-landlords-surged-after-trump-issued-ban"
+         "url" : "https://www.bloomberg.com/news/articles/2020-09-14/eviction-filings-by-big-landlords-surged-after-trump-issued-ban",
+         "content" : "Big landlords increased the number of eviction cases they filed after President Donald Trump announced his recent \r\nmoratorium, signaling the struggle tenants face getting protection from the federal… [+4387 chars]"
       }
-   ]
+   ],
+   "totalResults" : 70
 }
