@@ -1,266 +1,266 @@
 {
+   "totalResults" : 70,
    "articles" : [
       {
-         "content" : "1. Wall Street set for a recovery after a rough week\r\nA man walks near the New York Stock Exchange (NYSE) on August 31, 2020 at Wall Street in New York City.\r\nU.S. stock futures jumped Monday after t… [+4705 chars]",
-         "author" : "Matthew J. Belvedere",
-         "title" : "5 things to know before the stock market opens Monday - CNBC",
          "description" : "Heading into Monday trading, the Nasdaq was off just under 10% from its closing record on Sept. 2.",
+         "content" : "1. Wall Street set for a recovery after a rough week\r\nA man walks near the New York Stock Exchange (NYSE) on August 31, 2020 at Wall Street in New York City.\r\nU.S. stock futures jumped Monday after t… [+4705 chars]",
+         "publishedAt" : "2020-09-14T11:57:00Z",
+         "author" : "Matthew J. Belvedere",
          "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106684581-1598884854659-gettyimages-1228284649-AFP_1WV9QA.jpeg?v=1598884920",
-         "url" : "https://www.cnbc.com/2020/09/14/5-things-to-know-before-the-stock-market-opens-september-14-2020.html",
          "source" : {
-            "name" : "CNBC",
-            "id" : null
+            "id" : null,
+            "name" : "CNBC"
          },
-         "publishedAt" : "2020-09-14T11:57:00Z"
+         "title" : "5 things to know before the stock market opens Monday - CNBC",
+         "url" : "https://www.cnbc.com/2020/09/14/5-things-to-know-before-the-stock-market-opens-september-14-2020.html"
       },
       {
-         "description" : "OPEC has cut its forecast for oil demand growth this year, citing a weaker-than-expected recovery in India and other Asian countries.",
          "content" : "LONDON  OPEC has cut its forecast for oil demand growth this year, citing a weaker-than-expected recovery in India and other Asian countries, and warned risks remain \"elevated and skewed to the downs… [+3014 chars]",
          "author" : "Sam Meredith",
-         "title" : "OPEC cuts 2020 oil demand forecast, trims 2021 outlook on pandemic fallout - CNBC",
-         "publishedAt" : "2020-09-14T11:40:00Z",
          "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106701055-1600081485230-gettyimages-1227845379-makhija-notitle200730_npgvz.jpeg?v=1600081618",
+         "publishedAt" : "2020-09-14T11:40:00Z",
+         "description" : "OPEC has cut its forecast for oil demand growth this year, citing a weaker-than-expected recovery in India and other Asian countries.",
          "url" : "https://www.cnbc.com/2020/09/14/oil-and-coronavius-opec-cuts-2020-demand-forecast-trims-2021-outlook.html",
          "source" : {
             "name" : "CNBC",
             "id" : null
-         }
+         },
+         "title" : "OPEC cuts 2020 oil demand forecast, trims 2021 outlook on pandemic fallout - CNBC"
       },
       {
-         "description" : "Delta Air Lines became the latest carrier to tap its frequent-flyer program to cover new debt.",
-         "title" : "Delta will use frequent-flyer program to back $6.5 billion in debt - CNBC",
-         "content" : "Delta Air Lines said Monday that it will borrow $6.5 billion backed by its frequent-flyer program, the third airline to tap loyalty platforms to shore up liquidity during the coronavirus crisis.\r\nThe… [+1730 chars]",
-         "author" : "Leslie Josephs",
          "publishedAt" : "2020-09-14T11:17:00Z",
+         "author" : "Leslie Josephs",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106462190-1585237722000rts378q4.jpg?v=1593188570",
+         "content" : "Delta Air Lines said Monday that it will borrow $6.5 billion backed by its frequent-flyer program, the third airline to tap loyalty platforms to shore up liquidity during the coronavirus crisis.\r\nThe… [+1730 chars]",
+         "description" : "Delta Air Lines became the latest carrier to tap its frequent-flyer program to cover new debt.",
+         "url" : "https://www.cnbc.com/2020/09/14/delta-launches-6point5-billion-debt-deal-backed-by-its-frequent-flyer-program.html",
          "source" : {
             "name" : "CNBC",
             "id" : null
          },
-         "url" : "https://www.cnbc.com/2020/09/14/delta-launches-6point5-billion-debt-deal-backed-by-its-frequent-flyer-program.html",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106462190-1585237722000rts378q4.jpg?v=1593188570"
+         "title" : "Delta will use frequent-flyer program to back $6.5 billion in debt - CNBC"
       },
       {
-         "publishedAt" : "2020-09-14T11:04:00Z",
-         "urlToImage" : "https://cbsnews3.cbsistatic.com/hub/i/r/2020/09/13/b298dd36-49fb-4dd7-a614-05f47359c6de/thumbnail/1200x630g2/37ec8da33626a3789e5966e75a7e9cdc/screen-shot-2020-09-13-at-10-43-36-am.png",
          "source" : {
             "id" : "cbs-news",
             "name" : "CBS News"
          },
+         "title" : "Pfizer CEO says company will know if vaccine works by end of October - CBS News",
          "url" : "https://www.cbsnews.com/news/covid-vaccine-effectiveness-october-pfizer/",
          "description" : "Approval of a vaccine, however, will depend on federal regulators, Albert Bourla said.",
-         "content" : "Washington — Albert Bourla, the head of pharmaceutical giant Pfizer, which is among the companies developing a coronavirus vaccine, said Sunday there is a \"good chance\" the company will know whether … [+3447 chars]",
+         "publishedAt" : "2020-09-14T11:04:00Z",
+         "urlToImage" : "https://cbsnews3.cbsistatic.com/hub/i/r/2020/09/13/b298dd36-49fb-4dd7-a614-05f47359c6de/thumbnail/1200x630g2/37ec8da33626a3789e5966e75a7e9cdc/screen-shot-2020-09-13-at-10-43-36-am.png",
          "author" : "Melissa Quinn",
-         "title" : "Pfizer CEO says company will know if vaccine works by end of October - CBS News"
+         "content" : "Washington — Albert Bourla, the head of pharmaceutical giant Pfizer, which is among the companies developing a coronavirus vaccine, said Sunday there is a \"good chance\" the company will know whether … [+3447 chars]"
       },
       {
-         "author" : null,
          "content" : "PHOENIX, Sept. 14, 2020 /PRNewswire/ -- Nikola Corporation (NASDAQ: NKLA) (\"the Company\") today issued the following statement commenting on a false and defamatory report published September 10, 2020… [+18339 chars]",
-         "title" : "Nikola Sets the Record Straight on False and Misleading Short Seller Report - PRNewswire",
-         "description" : "/PRNewswire/ -- Nikola Corporation (NASDAQ: NKLA) (\"the Company\") today issued the following statement commenting on a false and defamatory report published...",
+         "author" : null,
+         "publishedAt" : "2020-09-14T11:00:00Z",
          "urlToImage" : "https://mma.prnewswire.com/media/1214227/nikola_Logo.jpg?p=facebook",
+         "description" : "/PRNewswire/ -- Nikola Corporation (NASDAQ: NKLA) (\"the Company\") today issued the following statement commenting on a false and defamatory report published...",
          "url" : "https://www.prnewswire.com/news-releases/nikola-sets-the-record-straight-on-false-and-misleading-short-seller-report-301129952.html",
          "source" : {
             "name" : "PRNewswire",
             "id" : null
          },
-         "publishedAt" : "2020-09-14T11:00:00Z"
+         "title" : "Nikola Sets the Record Straight on False and Misleading Short Seller Report - PRNewswire"
       },
       {
+         "content" : "Call it an aftershock.\r\nFord has revealed a new Tremor off-road package for its midsized Ranger pickup inspired by the one available on its \"Godzilla\" V8-powered Super Duty trucks, but much lower on … [+1034 chars]",
+         "urlToImage" : "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/Ranger_Tremor_rocks-1.gif",
+         "author" : "Gary Gastelu",
+         "publishedAt" : "2020-09-14T10:54:40Z",
+         "description" : "The Ranger Tremor package improves the off-road performance of the midsized pickup.",
+         "url" : "https://www.foxnews.com/auto/ford-ranger-tremor-pickup",
          "source" : {
             "id" : "fox-news",
             "name" : "Fox News"
          },
-         "url" : "https://www.foxnews.com/auto/ford-ranger-tremor-pickup",
-         "urlToImage" : "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/Ranger_Tremor_rocks-1.gif",
-         "publishedAt" : "2020-09-14T10:54:40Z",
-         "title" : "The Ford Ranger Tremor pickup is a little rumbler - Fox News",
-         "content" : "Call it an aftershock.\r\nFord has revealed a new Tremor off-road package for its midsized Ranger pickup inspired by the one available on its \"Godzilla\" V8-powered Super Duty trucks, but much lower on … [+1034 chars]",
-         "author" : "Gary Gastelu",
-         "description" : "The Ranger Tremor package improves the off-road performance of the midsized pickup."
+         "title" : "The Ford Ranger Tremor pickup is a little rumbler - Fox News"
       },
       {
          "source" : {
             "id" : null,
             "name" : "Fox Business"
          },
-         "url" : "https://www.foxbusiness.com/markets/nvidia-softbank-arm-holdings-40b-deal",
-         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/09/0/0/nvidia-ARM-logos-computer-iStock.jpg?ve=1&tl=1",
-         "publishedAt" : "2020-09-14T10:52:10Z",
          "title" : "Nvidia reaches $40B deal to buy SoftBank's Arm Holdings - Fox Business",
-         "content" : "Chipmaker Nvidia Inc. has agreed to purchase Arm Holdings Inc. from SoftBank Group and the SoftBank Vision Fund for $40 billion in stock and cash.\r\nThe deal pays SoftBank $21.5 billion in Nvidia stoc… [+1906 chars]",
+         "url" : "https://www.foxbusiness.com/markets/nvidia-softbank-arm-holdings-40b-deal",
+         "description" : "Arm, which is best known for selling processor designs, gives Nvidia the ability to compete with the likes of Intel Corp. and Advanced Micro Devices in the highly competitive data center chip market.",
+         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/09/0/0/nvidia-ARM-logos-computer-iStock.jpg?ve=1&tl=1",
          "author" : "Jonathan Garber",
-         "description" : "Arm, which is best known for selling processor designs, gives Nvidia the ability to compete with the likes of Intel Corp. and Advanced Micro Devices in the highly competitive data center chip market."
+         "publishedAt" : "2020-09-14T10:52:10Z",
+         "content" : "Chipmaker Nvidia Inc. has agreed to purchase Arm Holdings Inc. from SoftBank Group and the SoftBank Vision Fund for $40 billion in stock and cash.\r\nThe deal pays SoftBank $21.5 billion in Nvidia stoc… [+1906 chars]"
       },
       {
-         "description" : "A permanent payroll tax cut could make this happen.",
-         "title" : "Could Social Security Be Out of Money to Pay Benefits in 2023? - The Motley Fool",
-         "content" : "Social Security is not in danger of running out of money under its current funding system. However, President Trump has proposed eliminating payroll taxes, which are currently its primary source of f… [+3642 chars]",
-         "author" : "Christy Bieber",
-         "publishedAt" : "2020-09-14T10:03:00Z",
          "url" : "https://www.fool.com/retirement/2020/09/14/could-social-security-out-money-pay-benefits-2023/",
          "source" : {
             "id" : null,
             "name" : "Motley Fool"
          },
-         "urlToImage" : "https://g.foolcdn.com/editorial/images/589794/piggy-bank-broken.jpg"
+         "title" : "Could Social Security Be Out of Money to Pay Benefits in 2023? - The Motley Fool",
+         "content" : "Social Security is not in danger of running out of money under its current funding system. However, President Trump has proposed eliminating payroll taxes, which are currently its primary source of f… [+3642 chars]",
+         "author" : "Christy Bieber",
+         "publishedAt" : "2020-09-14T10:03:00Z",
+         "urlToImage" : "https://g.foolcdn.com/editorial/images/589794/piggy-bank-broken.jpg",
+         "description" : "A permanent payroll tax cut could make this happen."
       },
       {
          "source" : {
             "name" : "NPR",
             "id" : null
          },
+         "title" : "Microsoft, Oracle Lose Bids For TikTok, According To China State TV - NPR",
          "url" : "https://www.npr.org/2020/09/14/912542985/microsoft-oracle-lose-bids-for-tiktok-according-to-china-state-tv",
+         "description" : "In a surprise move, ByteDance rejected a bid made by tech giant Microsoft to acquire the U.S. assets of hit video-sharing app TikTok. The company also spurned Oracle.",
+         "author" : "",
          "urlToImage" : "https://media.npr.org/assets/img/2020/09/13/ap_20244548684646_wide-5c06bc85a83c354bc947788e2ceb5ba6fcc2b0d9.jpg?s=1400",
          "publishedAt" : "2020-09-14T09:58:00Z",
-         "title" : "Microsoft, Oracle Lose Bids For TikTok, According To China State TV - NPR",
-         "author" : "",
-         "content" : "Microsoft said on Sunday its bid to acquire the U.S. assets of Chinese-owned TikTok has been rejected by TikTok's parent company, ByteDance.\r\nNg Han Guan/AP\r\nWith its deadline to sell or be banned in… [+3471 chars]",
-         "description" : "In a surprise move, ByteDance rejected a bid made by tech giant Microsoft to acquire the U.S. assets of hit video-sharing app TikTok. The company also spurned Oracle."
+         "content" : "Microsoft said on Sunday its bid to acquire the U.S. assets of Chinese-owned TikTok has been rejected by TikTok's parent company, ByteDance.\r\nNg Han Guan/AP\r\nWith its deadline to sell or be banned in… [+3471 chars]"
       },
       {
-         "title" : "Owner of Boston Sports Clubs files for bankruptcy protection - WCVB Boston",
-         "content" : "BOSTON —The owner of Boston Sports Clubs filed for bankruptcy protection, adding to the frustrations of its customer base amid the coronavirus pandemic.\r\nTown Sports International, the parent company… [+751 chars]",
-         "author" : "Matt Reed",
-         "description" : "The owner of Boston Sports Clubs filed for bankruptcy protection, adding to the frustrations of its customer base amid the coronavirus pandemic.",
          "source" : {
             "name" : "WCVB Boston",
             "id" : null
          },
+         "title" : "Owner of Boston Sports Clubs files for bankruptcy protection - WCVB Boston",
          "url" : "https://www.wcvb.com/article/owner-of-boston-sports-club-files-for-bankruptcy-protection/34008368",
+         "description" : "The owner of Boston Sports Clubs filed for bankruptcy protection, adding to the frustrations of its customer base amid the coronavirus pandemic.",
          "urlToImage" : "https://kubrick.htvapps.com/htv-prod/ibmig/cms/image/wcvb/26507780-26507780.jpg?crop=1.00xw:0.846xh;0,0&resize=1200:*",
-         "publishedAt" : "2020-09-14T09:58:00Z"
+         "author" : "Matt Reed",
+         "publishedAt" : "2020-09-14T09:58:00Z",
+         "content" : "BOSTON —The owner of Boston Sports Clubs filed for bankruptcy protection, adding to the frustrations of its customer base amid the coronavirus pandemic.\r\nTown Sports International, the parent company… [+751 chars]"
       },
       {
-         "description" : "It's easy to build wealth when you own top-notch stocks like these.",
-         "title" : "4 Unstoppable Stocks to Buy With $2,500 - Motley Fool",
-         "content" : "Investing in 2020 should really come with a disclaimer. The past six-plus months have been one of the most volatile periods on record, with the benchmark S&amp;P 500 losing 34% of its value in less t… [+6681 chars]",
-         "author" : "Sean Williams",
          "publishedAt" : "2020-09-14T09:51:00Z",
+         "author" : "Sean Williams",
+         "urlToImage" : "https://g.foolcdn.com/editorial/images/591355/hourglass-coins-cash-bills-money-invest-rich-retirement-compound-getty.jpg",
+         "content" : "Investing in 2020 should really come with a disclaimer. The past six-plus months have been one of the most volatile periods on record, with the benchmark S&amp;P 500 losing 34% of its value in less t… [+6681 chars]",
+         "description" : "It's easy to build wealth when you own top-notch stocks like these.",
          "url" : "https://www.fool.com/investing/2020/09/14/4-unstoppable-stocks-to-buy-with-2500/",
          "source" : {
             "name" : "Motley Fool",
             "id" : null
          },
-         "urlToImage" : "https://g.foolcdn.com/editorial/images/591355/hourglass-coins-cash-bills-money-invest-rich-retirement-compound-getty.jpg"
+         "title" : "4 Unstoppable Stocks to Buy With $2,500 - Motley Fool"
       },
       {
          "title" : "Texas AG Says Controversial Chick-fil-A Decision Reversed - Newser",
-         "content" : "(Newser)\r\nA year and a half after it was denied a lease at the San Antonio International Airport, Chick-fil-A is apparently being offered one. As Fox News reports, the March 2019 denial, which came f… [+1810 chars]",
-         "author" : "Evann Gastaldo",
-         "description" : "However, San Antonio does not appear to agree",
-         "url" : "https://www.newser.com/story/296158/texas-ag-says-controversial-chick-fil-a-decision-reversed.html",
-         "source" : {
-            "name" : "Newser",
-            "id" : null
-         },
-         "urlToImage" : "https://img2-azrcdn.newser.com/image/1319395-12-20200914065528.jpeg",
-         "publishedAt" : "2020-09-14T09:44:00Z"
-      },
-      {
-         "title" : "What Elon Musk Thinks Of Bill Gates' Knowledge About Electric Vehicles - Benzinga",
-         "content" : "Tesla Inc (NASDAQ: TSLA) CEO Elon Musk said over the weekend that Microsoft Inc (NASDAQ: MSFT) co-founder Bill Gates is clueless about electric trucks.\r\nWhat Happened: Musk was responding to a Twitte… [+1075 chars]",
-         "author" : "Shivdeep Dhaliwal",
-         "description" : "Tesla Inc (NASDAQ: TSLA) CEO Elon Musk said over the weekend that Microsoft Inc (NASDAQ: MSFT) co-founder Bill Gates is clueless about electric trucks.\nWhat ...",
-         "url" : "https://www.benzinga.com/news/20/09/17483191/what-elon-musk-thinks-of-bill-gates-knowledge-about-electric-vehicles",
-         "source" : {
-            "name" : "Benzinga",
-            "id" : null
-         },
-         "urlToImage" : "https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/images/story/2012/48441958476_b8a740f0a4_o.jpg",
-         "publishedAt" : "2020-09-14T09:33:31Z"
-      },
-      {
-         "content" : "Amazon.com on Monday said it is recruiting 100,000 more workers  the fourth hiring spree it has announced for the United States this year  to keep pace with e-commerce demand that jumped during the p… [+1528 chars]",
-         "author" : "Reuters",
-         "title" : "Amazon to hire 100,000 more workers in its latest job spree this year - CNBC",
-         "description" : "Amazon.com on Monday said it is recruiting 100,000 more workers — the fourth hiring spree it has announced for the United States this year — to keep pace with e-commerce demand that jumped during the pandemic.",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106662536-1597345042547-gettyimages-1156013447-hennessy-amazonpr190716_npLbC.jpeg?v=1597345091",
-         "url" : "https://www.cnbc.com/2020/09/14/amazon-to-hire-100000-more-workers-in-its-latest-job-spree-this-year.html",
          "source" : {
             "id" : null,
-            "name" : "CNBC"
+            "name" : "Newser"
          },
-         "publishedAt" : "2020-09-14T09:28:00Z"
+         "url" : "https://www.newser.com/story/296158/texas-ag-says-controversial-chick-fil-a-decision-reversed.html",
+         "description" : "However, San Antonio does not appear to agree",
+         "content" : "(Newser)\r\nA year and a half after it was denied a lease at the San Antonio International Airport, Chick-fil-A is apparently being offered one. As Fox News reports, the March 2019 denial, which came f… [+1810 chars]",
+         "author" : "Evann Gastaldo",
+         "publishedAt" : "2020-09-14T09:44:00Z",
+         "urlToImage" : "https://img2-azrcdn.newser.com/image/1319395-12-20200914065528.jpeg"
       },
       {
-         "description" : "The U.S. auto industry has an absenteeism problem. The word might bring to mind people playing hooky, but during a pandemic there are lots of good reasons people might not show up to work.",
-         "content" : "United Auto Workers members leave the Fiat Chrysler Automobiles Warren Truck Plant after a shift on May 18, 2020, in Warren, Mich. Car sales are picking up again, but auto makers face a problem: gett… [+4365 chars]",
-         "author" : "",
-         "title" : "Despite High Unemployment, Automakers Face A Problem: Not Enough Workers - NPR",
-         "publishedAt" : "2020-09-14T09:02:00Z",
-         "urlToImage" : "https://media.npr.org/assets/img/2020/09/11/ap_20139648429105_wide-833d536e1c643fb9e9cb96d9686bef6c1e0df6b0.jpg?s=1400",
+         "description" : "Tesla Inc (NASDAQ: TSLA) CEO Elon Musk said over the weekend that Microsoft Inc (NASDAQ: MSFT) co-founder Bill Gates is clueless about electric trucks.\nWhat ...",
+         "content" : "Tesla Inc (NASDAQ: TSLA) CEO Elon Musk said over the weekend that Microsoft Inc (NASDAQ: MSFT) co-founder Bill Gates is clueless about electric trucks.\r\nWhat Happened: Musk was responding to a Twitte… [+1075 chars]",
+         "urlToImage" : "https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/images/story/2012/48441958476_b8a740f0a4_o.jpg",
+         "author" : "Shivdeep Dhaliwal",
+         "publishedAt" : "2020-09-14T09:33:31Z",
+         "source" : {
+            "id" : null,
+            "name" : "Benzinga"
+         },
+         "title" : "What Elon Musk Thinks Of Bill Gates' Knowledge About Electric Vehicles - Benzinga",
+         "url" : "https://www.benzinga.com/news/20/09/17483191/what-elon-musk-thinks-of-bill-gates-knowledge-about-electric-vehicles"
+      },
+      {
+         "url" : "https://www.cnbc.com/2020/09/14/amazon-to-hire-100000-more-workers-in-its-latest-job-spree-this-year.html",
+         "source" : {
+            "name" : "CNBC",
+            "id" : null
+         },
+         "title" : "Amazon to hire 100,000 more workers in its latest job spree this year - CNBC",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106662536-1597345042547-gettyimages-1156013447-hennessy-amazonpr190716_npLbC.jpeg?v=1597345091",
+         "publishedAt" : "2020-09-14T09:28:00Z",
+         "author" : "Reuters",
+         "content" : "Amazon.com on Monday said it is recruiting 100,000 more workers  the fourth hiring spree it has announced for the United States this year  to keep pace with e-commerce demand that jumped during the p… [+1528 chars]",
+         "description" : "Amazon.com on Monday said it is recruiting 100,000 more workers — the fourth hiring spree it has announced for the United States this year — to keep pace with e-commerce demand that jumped during the pandemic."
+      },
+      {
          "source" : {
             "name" : "NPR",
             "id" : null
          },
-         "url" : "https://www.npr.org/2020/09/14/911408377/as-auto-industry-roars-back-worker-shortages-throw-up-roadblocks"
+         "title" : "Despite High Unemployment, Automakers Face A Problem: Not Enough Workers - NPR",
+         "url" : "https://www.npr.org/2020/09/14/911408377/as-auto-industry-roars-back-worker-shortages-throw-up-roadblocks",
+         "description" : "The U.S. auto industry has an absenteeism problem. The word might bring to mind people playing hooky, but during a pandemic there are lots of good reasons people might not show up to work.",
+         "content" : "United Auto Workers members leave the Fiat Chrysler Automobiles Warren Truck Plant after a shift on May 18, 2020, in Warren, Mich. Car sales are picking up again, but auto makers face a problem: gett… [+4365 chars]",
+         "publishedAt" : "2020-09-14T09:02:00Z",
+         "author" : "",
+         "urlToImage" : "https://media.npr.org/assets/img/2020/09/11/ap_20139648429105_wide-833d536e1c643fb9e9cb96d9686bef6c1e0df6b0.jpg?s=1400"
       },
       {
-         "description" : "With the first half of 2020 going into the pandemic, a number of venture capitalists are hoping to leverage the current market euphoria to float new listings.",
-         "title" : "2 Sizzling Hot IPOs: Don't Get Burned - Seeking Alpha",
-         "content" : "The IPO market has been extremely hot lately as the recent run-up in the stock prices (read tech) has inspired every other company to cash in on the bonanza. Plus, when every other investment guru te… [+13256 chars]",
-         "author" : "The Long-winded",
-         "publishedAt" : "2020-09-14T08:04:00Z",
+         "url" : "https://seekingalpha.com/article/4374014-2-sizzling-hot-ipos-dont-get-burned",
          "source" : {
             "name" : "Seeking Alpha",
             "id" : null
          },
-         "url" : "https://seekingalpha.com/article/4374014-2-sizzling-hot-ipos-dont-get-burned",
-         "urlToImage" : "https://static3.seekingalpha.com/images/marketing_images/stock_market/ipo4.jpeg"
+         "title" : "2 Sizzling Hot IPOs: Don't Get Burned - Seeking Alpha",
+         "content" : "The IPO market has been extremely hot lately as the recent run-up in the stock prices (read tech) has inspired every other company to cash in on the bonanza. Plus, when every other investment guru te… [+13256 chars]",
+         "author" : "The Long-winded",
+         "publishedAt" : "2020-09-14T08:04:00Z",
+         "urlToImage" : "https://static3.seekingalpha.com/images/marketing_images/stock_market/ipo4.jpeg",
+         "description" : "With the first half of 2020 going into the pandemic, a number of venture capitalists are hoping to leverage the current market euphoria to float new listings."
       },
       {
-         "publishedAt" : "2020-09-14T07:54:00Z",
-         "urlToImage" : "https://images.mktw.net/im-231687/social",
-         "source" : {
-            "name" : "MarketWatch",
-            "id" : null
-         },
-         "url" : "https://www.marketwatch.com/story/vaccine-hopes-and-m-a-action-power-european-stocks-and-u-s-equity-futures-11600070052",
          "description" : "",
-         "content" : "European stocks marched higher on Monday, alongside U.S. equity futures, driven by vaccine hopes, mergers and acquisitions news.The Stoxx Europe 600 index \r\n SXXP, \r\n +0.26%\r\nrose 0.5% after ending l… [+3119 chars]",
+         "urlToImage" : "https://images.mktw.net/im-231687/social",
          "author" : "Callum Keown, Barbara Kollmeyer",
-         "title" : "Vaccine hopes and M&A action power European stocks and U.S. equity futures - MarketWatch"
+         "publishedAt" : "2020-09-14T07:54:00Z",
+         "content" : "European stocks marched higher on Monday, alongside U.S. equity futures, driven by vaccine hopes, mergers and acquisitions news.The Stoxx Europe 600 index \r\n SXXP, \r\n +0.26%\r\nrose 0.5% after ending l… [+3119 chars]",
+         "title" : "Vaccine hopes and M&A action power European stocks and U.S. equity futures - MarketWatch",
+         "source" : {
+            "id" : null,
+            "name" : "MarketWatch"
+         },
+         "url" : "https://www.marketwatch.com/story/vaccine-hopes-and-m-a-action-power-european-stocks-and-u-s-equity-futures-11600070052"
       },
       {
-         "description" : "The suspension of a leading coronavirus vaccine trial had dashed investors' hopes of economic recovery worldwide, but the trial will now continue.",
+         "url" : "https://finance.yahoo.com/news/stocks-rise-as-astra-zeneca-resumes-vaccine-trial-073825031.html",
+         "source" : {
+            "id" : null,
+            "name" : "Yahoo Entertainment"
+         },
          "title" : "Stocks rise as AstraZeneca resumes vaccine trial - Yahoo Finance",
          "content" : "Stocks rose worldwide on Monday as AstraZeneca (AZN.L) and Oxford University confirmed plans to resume a leading coronavirus vaccine trial.\r\nInvestors welcomed the restart of the late-stage study, wh… [+2264 chars]",
          "author" : "Tom Belger",
          "publishedAt" : "2020-09-14T07:38:00Z",
-         "url" : "https://finance.yahoo.com/news/stocks-rise-as-astra-zeneca-resumes-vaccine-trial-073825031.html",
-         "source" : {
-            "name" : "Yahoo Entertainment",
-            "id" : null
-         },
-         "urlToImage" : "https://s.yimg.com/uu/api/res/1.2/oad8t9TYgP.NMeECJjr1tg--~B/aD0zMzczO3c9NDk5MDtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2020-09/519a0930-f364-11ea-bffb-64367f2e833e"
+         "urlToImage" : "https://s.yimg.com/uu/api/res/1.2/oad8t9TYgP.NMeECJjr1tg--~B/aD0zMzczO3c9NDk5MDtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2020-09/519a0930-f364-11ea-bffb-64367f2e833e",
+         "description" : "The suspension of a leading coronavirus vaccine trial had dashed investors' hopes of economic recovery worldwide, but the trial will now continue."
       },
       {
-         "publishedAt" : "2020-09-14T06:34:05Z",
-         "source" : {
-            "name" : "Yahoo Entertainment",
-            "id" : null
-         },
-         "url" : "https://finance.yahoo.com/news/techs-bubble-calm-likely-prove-052613422.html",
-         "urlToImage" : "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png",
          "description" : "(Bloomberg Opinion) -- Don’t Get Too ComfortableIs it safe to put a price on technology again? After great excitement, the solemn date of Sept. 11 proved to be the first trading day of the month when the tech-heavy Nasdaq-100 didn’t move by more than 1%, in o…",
-         "title" : "Tech's Bubble of Calm Is Likely to Prove Brief - Yahoo Finance",
          "content" : "(Bloomberg Opinion) --\r\nDont Get Too Comfortable\r\nIs it safe to put a price on technology again? After great excitement, the solemn date of Sept. 11 proved to be the first trading day of the month wh… [+11014 chars]",
-         "author" : "John Authers"
+         "author" : "John Authers",
+         "publishedAt" : "2020-09-14T06:34:05Z",
+         "urlToImage" : "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png",
+         "title" : "Tech's Bubble of Calm Is Likely to Prove Brief - Yahoo Finance",
+         "source" : {
+            "id" : null,
+            "name" : "Yahoo Entertainment"
+         },
+         "url" : "https://finance.yahoo.com/news/techs-bubble-calm-likely-prove-052613422.html"
       },
       {
+         "content" : null,
+         "urlToImage" : null,
+         "author" : null,
+         "publishedAt" : "2020-09-14T05:07:17Z",
+         "description" : null,
          "url" : "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9REZUb0lkTzNnRnPSAQA?oc=5",
          "source" : {
-            "id" : "google-news",
-            "name" : "Google News"
+            "name" : "Google News",
+            "id" : "google-news"
          },
-         "urlToImage" : null,
-         "publishedAt" : "2020-09-14T05:07:17Z",
-         "title" : "Buffett's Japan Bet Is Green Light for Investors: Ed Rogers - Bloomberg Markets and Finance",
-         "content" : null,
-         "author" : null,
-         "description" : null
+         "title" : "Buffett's Japan Bet Is Green Light for Investors: Ed Rogers - Bloomberg Markets and Finance"
       }
    ],
-   "totalResults" : 70,
    "status" : "ok"
 }
