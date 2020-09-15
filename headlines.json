@@ -1,266 +1,266 @@
 {
    "articles" : [
       {
-         "content" : "Dow Jones futures tilted higher late Monday, along with S&amp;P 500 futures and Nasdaq futures. The stock market rally got a much-needed win, with Apple (AAPL) and Adobe stock rebounding bullishly an… [+8357 chars]",
-         "description" : "Dow Jones futures: The stock market rally got a needed win, but it's just one day. Apple is in a buy zone. Tesla soared. Nikola dived late on an SEC probe.",
-         "author" : "Investor's Business Daily",
-         "urlToImage" : "https://www.investors.com/wp-content/uploads/2017/10/stock-climbingHill-04-adobe.jpg",
-         "publishedAt" : "2020-09-14T22:16:00Z",
          "source" : {
             "id" : null,
             "name" : "Investor's Business Daily"
          },
          "url" : "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-stock-market-rally-apple-buy-zone-tesla-soars-nikola-sec-probe/",
-         "title" : "Dow Jones Futures: Stock Market Rally Gets A Win; Apple In Buy Zone; Tesla Rival Nikola Dives On SEC Probe - Investor's Business Daily"
+         "urlToImage" : "https://www.investors.com/wp-content/uploads/2017/10/stock-climbingHill-04-adobe.jpg",
+         "author" : "Investor's Business Daily",
+         "description" : "Dow Jones futures: The stock market rally got a needed win, but it's just one day. Apple is in a buy zone. Tesla soared. Nikola dived late on an SEC probe.",
+         "publishedAt" : "2020-09-14T22:16:00Z",
+         "title" : "Dow Jones Futures: Stock Market Rally Gets A Win; Apple In Buy Zone; Tesla Rival Nikola Dives On SEC Probe - Investor's Business Daily",
+         "content" : "Dow Jones futures tilted higher late Monday, along with S&amp;P 500 futures and Nasdaq futures. The stock market rally got a much-needed win, with Apple (AAPL) and Adobe stock rebounding bullishly an… [+8357 chars]"
       },
       {
+         "publishedAt" : "2020-09-14T21:06:00Z",
          "title" : "Nvidia’s deal for Arm could mean a real challenge to Intel and AMD, but is likely to face opposition - MarketWatch",
-         "description" : "The $40 billion merger agreement adds needed components to Nvidia, but will face regulatory difficulty as well as potential backlash from Arm customers who compete with Nvidia",
-         "author" : "Therese Poletti",
          "content" : "Nvidia Corp.s bold $40 billion deal to buy chip designer Arm Holdings could create a major new threat to both Intel Corp. and Advanced Micro Devices Inc. in the data-center market, but the deal will … [+5220 chars]",
+         "author" : "Therese Poletti",
+         "description" : "The $40 billion merger agreement adds needed components to Nvidia, but will face regulatory difficulty as well as potential backlash from Arm customers who compete with Nvidia",
          "source" : {
             "name" : "MarketWatch",
             "id" : null
          },
-         "url" : "https://www.marketwatch.com/story/nvidias-deal-for-arm-could-mean-a-real-challenge-to-intel-and-amd-but-is-likely-to-face-opposition-2020-09-14",
-         "publishedAt" : "2020-09-14T21:06:00Z",
-         "urlToImage" : "https://s.marketwatch.com/public/resources/images/MW-IO456_Nvidia_ZG_20200914161937.jpg"
+         "urlToImage" : "https://s.marketwatch.com/public/resources/images/MW-IO456_Nvidia_ZG_20200914161937.jpg",
+         "url" : "https://www.marketwatch.com/story/nvidias-deal-for-arm-could-mean-a-real-challenge-to-intel-and-amd-but-is-likely-to-face-opposition-2020-09-14"
       },
       {
-         "author" : "Alex Sherman",
          "description" : "TikTok is banking on Trump moving off public comments about a full sale to avoid a ban with its Oracle proposal.",
-         "content" : "Of the many questions still revolving around the fate of TikTok, the biggest one may be if the Trump administration will approve a restructuring plan that keeps China-based ByteDance in control, both… [+4839 chars]",
-         "url" : "https://www.cnbc.com/2020/09/14/tiktok-hopes-trump-will-back-off-statements-to-approve-oracle-deal.html",
+         "author" : "Alex Sherman",
          "source" : {
             "name" : "CNBC",
             "id" : null
          },
+         "url" : "https://www.cnbc.com/2020/09/14/tiktok-hopes-trump-will-back-off-statements-to-approve-oracle-deal.html",
          "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106680868-1598541390386-gettyimages-1227892098-363734891_1-3.jpeg?v=1598541455",
-         "publishedAt" : "2020-09-14T20:30:00Z",
-         "title" : "TikTok relying on Trump to back off original demand to sell U.S. business and approve Oracle deal - CNBC"
+         "title" : "TikTok relying on Trump to back off original demand to sell U.S. business and approve Oracle deal - CNBC",
+         "content" : "Of the many questions still revolving around the fate of TikTok, the biggest one may be if the Trump administration will approve a restructuring plan that keeps China-based ByteDance in control, both… [+4839 chars]",
+         "publishedAt" : "2020-09-14T20:30:00Z"
       },
       {
-         "title" : "Millennials are killing the ethnic aisle — and that's a good thing - Business Insider - Business Insider",
-         "description" : "The definition of \"mainstream\" in American cuisine is in perpetual motion, and so is the definition of what is outside of it, experts say.",
          "author" : "Irene Jiang",
-         "content" : "Salsa, soy sauce, and masala have nothing in common. So why are these seemingly random ingredients often lumped together into one section of the grocery store: the ethnic aisle?\r\n\"In 2020, this doesn… [+3161 chars]",
+         "description" : "The definition of \"mainstream\" in American cuisine is in perpetual motion, and so is the definition of what is outside of it, experts say.",
          "source" : {
             "name" : "Business Insider",
             "id" : "business-insider"
          },
+         "urlToImage" : "https://i.insider.com/5f5bbc39e6ff30001d4e860d?width=1200&format=jpeg",
          "url" : "https://www.businessinsider.com/millennials-killing-the-ethnic-aisle-and-thats-a-good-thing-2020-9",
          "publishedAt" : "2020-09-14T20:26:58Z",
-         "urlToImage" : "https://i.insider.com/5f5bbc39e6ff30001d4e860d?width=1200&format=jpeg"
+         "title" : "Millennials are killing the ethnic aisle — and that's a good thing - Business Insider - Business Insider",
+         "content" : "Salsa, soy sauce, and masala have nothing in common. So why are these seemingly random ingredients often lumped together into one section of the grocery store: the ethnic aisle?\r\n\"In 2020, this doesn… [+3161 chars]"
       },
       {
-         "title" : "Google’s Carbon Offset Plan Shows Where the World Has Failed on Climate Change - Gizmodo",
-         "content" : "Our tech overlords are talking up their climate game again. On Monday, Google executives claimed their company is now carbon neutral.\r\nGoogles lifetime net carbon footprint is now zero, Sundar Pichai… [+4196 chars]",
          "description" : "Our tech overlords are talking up their climate game again. On Monday, Google  executives claimed their company is now “carbon neutral.”",
          "author" : "Dharna Noor",
-         "publishedAt" : "2020-09-14T20:15:00Z",
          "urlToImage" : "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/rutx2fgtnkkrratxncnn.jpg",
+         "url" : "https://earther.gizmodo.com/google-s-carbon-offset-plan-shows-where-the-world-has-f-1845052789",
          "source" : {
-            "id" : null,
-            "name" : "Gizmodo.com"
-         },
-         "url" : "https://earther.gizmodo.com/google-s-carbon-offset-plan-shows-where-the-world-has-f-1845052789"
-      },
-      {
-         "title" : "MTA And NYPD Begin Crackdown On Maskless Subway Riders - Gothamist",
-         "author" : "Jake Offenhartz",
-         "description" : "On Monday, NYPD Commissioner Dermot Shea suggested that cops who refuse to wear masks while patrolling the transit system could themselves face a fine.",
-         "content" : "New York City subway and bus riders who refuse to wear a mask while taking public transit will now be subject to a $50 fine, as part of an MTA crackdown aimed at achieving \"universal mask compliance.… [+2370 chars]",
-         "url" : "http://gothamist.com/news/mta-and-nypd-begin-crackdown-maskless-subway-riders",
-         "source" : {
-            "name" : "Gothamist",
+            "name" : "Gizmodo.com",
             "id" : null
          },
-         "urlToImage" : "https://cms.prod.nypr.digital/images/311591/fill-1200x650/",
-         "publishedAt" : "2020-09-14T20:12:00Z"
+         "content" : "Our tech overlords are talking up their climate game again. On Monday, Google executives claimed their company is now carbon neutral.\r\nGoogles lifetime net carbon footprint is now zero, Sundar Pichai… [+4196 chars]",
+         "title" : "Google’s Carbon Offset Plan Shows Where the World Has Failed on Climate Change - Gizmodo",
+         "publishedAt" : "2020-09-14T20:15:00Z"
       },
       {
-         "content" : "General Motors conducted \"appropriate diligence\" regarding a $2 billion deal with electric vehicle start-up Nikola, GM CEO Mary Barra said Monday.\r\nBarra's comments are a response to increased scruti… [+3227 chars]",
-         "description" : "General Motors conducted \"appropriate diligence\" regarding a $2 billion deal with electric vehicle start-up Nikola, GM CEO Mary Barra said Monday.",
-         "author" : "Michael Wayland",
-         "publishedAt" : "2020-09-14T19:59:00Z",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106571243-1591730612133gmbarraagainstracism10.jpg?v=1591730706",
+         "content" : "New York City subway and bus riders who refuse to wear a mask while taking public transit will now be subject to a $50 fine, as part of an MTA crackdown aimed at achieving \"universal mask compliance.… [+2370 chars]",
+         "title" : "MTA And NYPD Begin Crackdown On Maskless Subway Riders - Gothamist",
+         "publishedAt" : "2020-09-14T20:12:00Z",
+         "url" : "http://gothamist.com/news/mta-and-nypd-begin-crackdown-maskless-subway-riders",
+         "urlToImage" : "https://cms.prod.nypr.digital/images/311591/fill-1200x650/",
          "source" : {
             "id" : null,
-            "name" : "CNBC"
+            "name" : "Gothamist"
          },
-         "url" : "https://www.cnbc.com/2020/09/14/barra-gm-conducted-appropriate-diligence-on-2-billion-nikola-deal.html",
-         "title" : "GM conducted 'appropriate diligence' on $2 billion Nikola deal, CEO Mary Barra says - CNBC"
+         "description" : "On Monday, NYPD Commissioner Dermot Shea suggested that cops who refuse to wear masks while patrolling the transit system could themselves face a fine.",
+         "author" : "Jake Offenhartz"
       },
       {
-         "urlToImage" : "https://cdn.arstechnica.net/wp-content/uploads/2020/09/project-natick-recovery-760x380.png",
+         "publishedAt" : "2020-09-14T19:59:00Z",
+         "content" : "General Motors conducted \"appropriate diligence\" regarding a $2 billion deal with electric vehicle start-up Nikola, GM CEO Mary Barra said Monday.\r\nBarra's comments are a response to increased scruti… [+3227 chars]",
+         "title" : "GM conducted 'appropriate diligence' on $2 billion Nikola deal, CEO Mary Barra says - CNBC",
+         "author" : "Michael Wayland",
+         "description" : "General Motors conducted \"appropriate diligence\" regarding a $2 billion deal with electric vehicle start-up Nikola, GM CEO Mary Barra said Monday.",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106571243-1591730612133gmbarraagainstracism10.jpg?v=1591730706",
+         "url" : "https://www.cnbc.com/2020/09/14/barra-gm-conducted-appropriate-diligence-on-2-billion-nikola-deal.html",
+         "source" : {
+            "name" : "CNBC",
+            "id" : null
+         }
+      },
+      {
          "publishedAt" : "2020-09-14T19:58:00Z",
+         "title" : "Microsoft declares its underwater data center test was a success - Ars Technica",
+         "content" : "Northern Isles, a 12-rack / 864-server underwater data center pod, is winched off the seafloor in this picture after its two-year trial deployment.\"/&gt;\r\n Enlarge/ The Northern Isles, a 12-rack / 86… [+6146 chars]",
          "source" : {
             "name" : "Ars Technica",
             "id" : "ars-technica"
          },
+         "urlToImage" : "https://cdn.arstechnica.net/wp-content/uploads/2020/09/project-natick-recovery-760x380.png",
          "url" : "https://arstechnica.com/information-technology/2020/09/microsoft-declares-its-underwater-data-center-test-was-a-success/",
-         "content" : "Northern Isles, a 12-rack / 864-server underwater data center pod, is winched off the seafloor in this picture after its two-year trial deployment.\"/&gt;\r\n Enlarge/ The Northern Isles, a 12-rack / 86… [+6146 chars]",
-         "description" : "Underwater pods can reduce latency by moving cloud services closer to customers.",
          "author" : "Jim Salter",
-         "title" : "Microsoft declares its underwater data center test was a success - Ars Technica"
+         "description" : "Underwater pods can reduce latency by moving cloud services closer to customers."
       },
       {
-         "content" : "A mother says she was \"humiliated\" when she was escorted off a Southwest flight Saturday because her 2-year-old was snacking without a mask prior to takeoff.\r\nIt was a situation 34-year-old Jodi, who… [+3918 chars]",
-         "author" : "Daniella Genovese",
-         "description" : "A mother says she was \"humiliated\" and when she was escorted off a Southwest flight Saturday because her 2-year-old was snacking without a mask prior to takeoff.",
          "urlToImage" : "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/southwest-istock.jpg",
-         "publishedAt" : "2020-09-14T19:36:47Z",
          "url" : "https://www.foxnews.com/lifestyle/mother-toddler-escorted-off-plane",
          "source" : {
-            "name" : "Fox News",
-            "id" : "fox-news"
+            "id" : "fox-news",
+            "name" : "Fox News"
          },
-         "title" : "Mother asked to deplane Southwest flight with her 2-year-old because he wasn't wearing a mask, she says - Fox News"
+         "description" : "A mother says she was \"humiliated\" and when she was escorted off a Southwest flight Saturday because her 2-year-old was snacking without a mask prior to takeoff.",
+         "author" : "Daniella Genovese",
+         "content" : "A mother says she was \"humiliated\" when she was escorted off a Southwest flight Saturday because her 2-year-old was snacking without a mask prior to takeoff.\r\nIt was a situation 34-year-old Jodi, who… [+3918 chars]",
+         "title" : "Mother asked to deplane Southwest flight with her 2-year-old because he wasn't wearing a mask, she says - Fox News",
+         "publishedAt" : "2020-09-14T19:36:47Z"
       },
       {
-         "title" : "Facebook will buy REI’s unused headquarters complex in Bellevue - Seattle Times",
-         "urlToImage" : null,
          "publishedAt" : "2020-09-14T19:01:00Z",
+         "title" : "Facebook will buy REI’s unused headquarters complex in Bellevue - Seattle Times",
+         "content" : null,
+         "author" : null,
+         "description" : null,
          "source" : {
             "name" : "Google News",
             "id" : "google-news"
          },
          "url" : "https://news.google.com/__i/rss/rd/articles/CBMiaGh0dHBzOi8vd3d3LnNlYXR0bGV0aW1lcy5jb20vYnVzaW5lc3MvcmVhbC1lc3RhdGUvZmFjZWJvb2std2lsbC1idXktZm9ybWVyLXJlaS1oZWFkcXVhcnRlcnMtaW4tYmVsbGV2dWUv0gFuaHR0cHM6Ly93d3cuc2VhdHRsZXRpbWVzLmNvbS9idXNpbmVzcy9yZWFsLWVzdGF0ZS9mYWNlYm9vay13aWxsLWJ1eS1mb3JtZXItcmVpLWhlYWRxdWFydGVycy1pbi1iZWxsZXZ1ZS8_YW1wPTE?oc=5",
-         "content" : null,
-         "description" : null,
-         "author" : null
+         "urlToImage" : null
       },
       {
-         "description" : "The U.S. Department of Justice, Environmental Protection Agency and the California attorney general’s office say Daimler violated environmental laws by using so-called “defeat device software” to circumvent emissions testing and sold about 250,000 cars and va…",
-         "author" : "Associated Press",
-         "content" : "WASHINGTON (AP) — Automaker Daimler AG and subsidiary Mercedes-Benz USA have agreed to pay $1.5 billion to the U.S. government and California state regulators to resolve emissions cheating allegation… [+4118 chars]",
-         "source" : {
-            "name" : "Fox Business",
-            "id" : null
-         },
-         "url" : "https://www.foxbusiness.com/lifestyle/daimler-mercedes-benz-usa-emissions-cheating-settlement",
-         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/07/0/0/AP20187320810563-e1593944739446.jpg?ve=1&tl=1",
          "publishedAt" : "2020-09-14T18:54:46Z",
-         "title" : "Daimler AG to pay $1.5B to settle emissions cheating probes - Fox Business"
+         "content" : "WASHINGTON (AP) — Automaker Daimler AG and subsidiary Mercedes-Benz USA have agreed to pay $1.5 billion to the U.S. government and California state regulators to resolve emissions cheating allegation… [+4118 chars]",
+         "title" : "Daimler AG to pay $1.5B to settle emissions cheating probes - Fox Business",
+         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/07/0/0/AP20187320810563-e1593944739446.jpg?ve=1&tl=1",
+         "url" : "https://www.foxbusiness.com/lifestyle/daimler-mercedes-benz-usa-emissions-cheating-settlement",
+         "source" : {
+            "id" : null,
+            "name" : "Fox Business"
+         },
+         "author" : "Associated Press",
+         "description" : "The U.S. Department of Justice, Environmental Protection Agency and the California attorney general’s office say Daimler violated environmental laws by using so-called “defeat device software” to circumvent emissions testing and sold about 250,000 cars and va…"
       },
       {
-         "title" : "These mistakes will take a huge bite out of your Social Security income - Fox Business",
-         "content" : "Millions of seniors count on Social Security as a major source of retirement income. If you're planning to do the same, you'll need to do your part to avoid reducing your benefits -- and that could m… [+3256 chars]",
-         "description" : "The last thing you want to do is slash your Social Security income and struggle in retirement because of it. Take care to avoid these mistakes to ensure that you get as much money from Social Security as you're entitled to.",
-         "author" : "Motley Fool",
-         "publishedAt" : "2020-09-14T18:46:03Z",
+         "url" : "https://www.foxbusiness.com/money/these-mistakes-will-take-a-huge-bite-out-of-your-social-security-income",
          "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/08/0/0/Social-security-money-istock.jpg?ve=1&tl=1",
          "source" : {
             "name" : "Fox Business",
             "id" : null
          },
-         "url" : "https://www.foxbusiness.com/money/these-mistakes-will-take-a-huge-bite-out-of-your-social-security-income"
+         "description" : "The last thing you want to do is slash your Social Security income and struggle in retirement because of it. Take care to avoid these mistakes to ensure that you get as much money from Social Security as you're entitled to.",
+         "author" : "Motley Fool",
+         "content" : "Millions of seniors count on Social Security as a major source of retirement income. If you're planning to do the same, you'll need to do your part to avoid reducing your benefits -- and that could m… [+3256 chars]",
+         "title" : "These mistakes will take a huge bite out of your Social Security income - Fox Business",
+         "publishedAt" : "2020-09-14T18:46:03Z"
       },
       {
-         "title" : "Delta to mortgage SkyMiles program for up to $6.5 billion to help weather coronavirus hit - The Points Guy",
-         "url" : "http://thepointsguy.com/news/delta-air-lines-mortgage-skymiles-cash-coronavirus/",
-         "source" : {
-            "name" : "The Points Guy",
-            "id" : null
-         },
-         "urlToImage" : "https://i2.wp.com/thepointsguy.com/wp-content/uploads/2018/11/GettyImages-587178156.jpg?fit=1024%2C683px&ssl=1",
          "publishedAt" : "2020-09-14T18:35:30Z",
+         "content" : "Delta Air Lines plans to mortgage its SkyMiles loyalty program for up to $6.5 billion, showing again that cash remains king as carriers seek to weather the coronavirus pandemic.\r\nThe private financin… [+3200 chars]",
+         "title" : "Delta to mortgage SkyMiles program for up to $6.5 billion to help weather coronavirus hit - The Points Guy",
          "author" : "Edward Russell",
          "description" : "Delta Air Lines plans to mortgage its SkyMiles loyalty program for up to $6.5 billion, showing again that cash remains king as carriers seek to weather the coronavirus pandemic. The private financing deal comes as the Atlanta-based carrier continues to lose a…",
-         "content" : "Delta Air Lines plans to mortgage its SkyMiles loyalty program for up to $6.5 billion, showing again that cash remains king as carriers seek to weather the coronavirus pandemic.\r\nThe private financin… [+3200 chars]"
+         "urlToImage" : "https://i2.wp.com/thepointsguy.com/wp-content/uploads/2018/11/GettyImages-587178156.jpg?fit=1024%2C683px&ssl=1",
+         "url" : "http://thepointsguy.com/news/delta-air-lines-mortgage-skymiles-cash-coronavirus/",
+         "source" : {
+            "id" : null,
+            "name" : "The Points Guy"
+         }
       },
       {
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200423113950-draftkings-file-super-tease.jpg",
          "url" : "https://www.cnn.com/2020/09/14/media/draftkings-caesars-espn-deal/index.html",
          "source" : {
-            "id" : "cnn",
-            "name" : "CNN"
+            "name" : "CNN",
+            "id" : "cnn"
          },
-         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200423113950-draftkings-file-super-tease.jpg",
-         "publishedAt" : "2020-09-14T18:28:00Z",
          "author" : "Frank Pallotta, CNN Business",
          "description" : "In the latest in a flurry of big events for sports gambling sites, DraftKings and Caesars announced Monday a deal with ESPN that will feature their content on the network's digital and TV platforms.",
+         "publishedAt" : "2020-09-14T18:28:00Z",
          "content" : null,
          "title" : "DraftKings and Caesars shares soar following ESPN deal - CNN"
       },
       {
          "content" : "Share this article\r\nDigital media and marketing company Red Ventures has announced it has purchased CNET Media Group from Viacom CBS for a total of $500 million.\r\nThe sale is expected to close in Q4 … [+1198 chars]",
-         "description" : "CNET Media Group includes GameSpot, Metacritic, and Giant Bomb",
-         "author" : null,
-         "urlToImage" : "https://images.eurogamer.net/2020/articles/2020-09-14-19-13/cnet.png",
+         "title" : "ViacomCBS sells CNET Media Group to digital marketing company Red Ventures - GamesIndustry.biz",
          "publishedAt" : "2020-09-14T18:19:36Z",
-         "source" : {
-            "name" : "GamesIndustry.biz",
-            "id" : null
-         },
          "url" : "https://www.gamesindustry.biz/articles/2020-09-14-viacomcbs-sells-cnet-media-group-to-digital-marketing-company-red-ventures",
-         "title" : "ViacomCBS sells CNET Media Group to digital marketing company Red Ventures - GamesIndustry.biz"
+         "urlToImage" : "https://images.eurogamer.net/2020/articles/2020-09-14-19-13/cnet.png",
+         "source" : {
+            "id" : null,
+            "name" : "GamesIndustry.biz"
+         },
+         "description" : "CNET Media Group includes GameSpot, Metacritic, and Giant Bomb",
+         "author" : null
       },
       {
+         "publishedAt" : "2020-09-14T18:19:00Z",
          "title" : "Regulators Prepare to Reprimand Citigroup for Failing to Improve Risk Systems - The Wall Street Journal",
          "content" : "Federal regulators are preparing to reprimand Citigroup Inc. for failing to improve its risk-management systemsan expansive set of technology and procedures designed to detect problematic transaction… [+1297 chars]",
          "author" : "David Benoit, Ben Eisen",
          "description" : "Moves accelerated plans for CEO Michael Corbat’s retirement",
-         "publishedAt" : "2020-09-14T18:19:00Z",
-         "urlToImage" : "https://images.wsj.net/im-231777/social",
-         "url" : "https://www.wsj.com/articles/regulators-prepare-to-reprimand-citigroup-for-failing-to-improve-risk-systems-11600107587",
          "source" : {
-            "id" : "the-wall-street-journal",
-            "name" : "The Wall Street Journal"
-         }
+            "name" : "The Wall Street Journal",
+            "id" : "the-wall-street-journal"
+         },
+         "urlToImage" : "https://images.wsj.net/im-231777/social",
+         "url" : "https://www.wsj.com/articles/regulators-prepare-to-reprimand-citigroup-for-failing-to-improve-risk-systems-11600107587"
       },
       {
+         "publishedAt" : "2020-09-14T18:08:00Z",
+         "title" : "Anti-inflammatory drug may shorten Covid-19 recovery time - POLITICO",
+         "content" : "All study participants received remdesivir, a Gilead Sciences drug previously shown to reduce the time to recovery, defined as being well enough to leave the hospital, by four days on average. Those … [+1021 chars]",
+         "author" : "Associated Press",
+         "description" : "Eli Lilly said it planned to discuss with regulators the possible emergency use of baricitinib for hospitalized Covid-19 patients.",
          "source" : {
             "name" : "Politico",
             "id" : "politico"
          },
          "url" : "https://www.politico.com/news/2020/09/14/eli-lilly-coronavirus-anti-inflammatory-drug-414478",
-         "publishedAt" : "2020-09-14T18:08:00Z",
-         "urlToImage" : "https://static.politico.com/a7/e5/23f1e6be4b0e9cd1fbd8859f65f4/ap20258506036349.jpg",
-         "description" : "Eli Lilly said it planned to discuss with regulators the possible emergency use of baricitinib for hospitalized Covid-19 patients.",
-         "author" : "Associated Press",
-         "content" : "All study participants received remdesivir, a Gilead Sciences drug previously shown to reduce the time to recovery, defined as being well enough to leave the hospital, by four days on average. Those … [+1021 chars]",
-         "title" : "Anti-inflammatory drug may shorten Covid-19 recovery time - POLITICO"
+         "urlToImage" : "https://static.politico.com/a7/e5/23f1e6be4b0e9cd1fbd8859f65f4/ap20258506036349.jpg"
       },
       {
          "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/180307100332-veterans-affairs-seal-super-tease.jpg",
-         "publishedAt" : "2020-09-14T18:01:00Z",
          "url" : "https://www.cnn.com/2020/09/14/politics/veterans-affairs-data-breach/index.html",
          "source" : {
             "id" : "cnn",
             "name" : "CNN"
          },
-         "content" : "(CNN)The Department of Veterans Affairs said Monday that roughly 46,000 veterans had their personal information, including Social Security numbers, exposed in a data breach in which \"unauthorized use… [+2053 chars]",
-         "author" : "Zachary Cohen, CNN",
          "description" : "The Department of Veterans Affairs said Monday that roughly 46,000 veterans had their personal information, including Social Security numbers, exposed in a data breach in which \"unauthorized users\" gained access to an online application used for making health…",
-         "title" : "Personal information of roughly 46,000 veterans exposed in VA hack - CNN"
+         "author" : "Zachary Cohen, CNN",
+         "content" : "(CNN)The Department of Veterans Affairs said Monday that roughly 46,000 veterans had their personal information, including Social Security numbers, exposed in a data breach in which \"unauthorized use… [+2053 chars]",
+         "title" : "Personal information of roughly 46,000 veterans exposed in VA hack - CNN",
+         "publishedAt" : "2020-09-14T18:01:00Z"
       },
       {
+         "author" : "Kate Cox",
+         "description" : "YouTube is “a weird technicolored nightmare” for families, nonprofit alleges.",
          "source" : {
-            "name" : "Ars Technica",
-            "id" : "ars-technica"
+            "id" : "ars-technica",
+            "name" : "Ars Technica"
          },
+         "urlToImage" : "https://cdn.arstechnica.net/wp-content/uploads/2020/09/GettyImages-1149449078-760x380.jpg",
          "url" : "https://arstechnica.com/tech-policy/2020/09/google-faces-3-2b-lawsuit-over-claims-it-violated-childrens-privacy/",
          "publishedAt" : "2020-09-14T17:51:00Z",
-         "urlToImage" : "https://cdn.arstechnica.net/wp-content/uploads/2020/09/GettyImages-1149449078-760x380.jpg",
-         "description" : "YouTube is “a weird technicolored nightmare” for families, nonprofit alleges.",
-         "author" : "Kate Cox",
-         "content" : "Enlarge/ A sign featuring the YouTube logo, outside the YouTube Space studios in London on June 4, 2019. \r\n54 with 40 posters participating\r\nA new lawsuit filed in a United Kingdom court alleges that… [+4266 chars]",
-         "title" : "YouTube unlawfully violates kids' privacy, new $3.2B lawsuit claims - Ars Technica"
+         "title" : "YouTube unlawfully violates kids' privacy, new $3.2B lawsuit claims - Ars Technica",
+         "content" : "Enlarge/ A sign featuring the YouTube logo, outside the YouTube Space studios in London on June 4, 2019. \r\n54 with 40 posters participating\r\nA new lawsuit filed in a United Kingdom court alleges that… [+4266 chars]"
       },
       {
-         "title" : "IPO market gears up for busiest week since May of 2019 — Uber’s IPO week — with 12 deals on tap - MarketWatch",
-         "urlToImage" : "https://s.marketwatch.com/public/resources/images/MW-IO438_snowfl_ZG_20200914131211.jpg",
          "publishedAt" : "2020-09-14T17:43:00Z",
-         "url" : "https://www.marketwatch.com/story/ipo-market-gears-up-for-busiest-week-since-may-of-2019-ubers-ipo-week-with-12-deals-on-tap-2020-09-14",
+         "title" : "IPO market gears up for busiest week since May of 2019 — Uber’s IPO week — with 12 deals on tap - MarketWatch",
+         "content" : "The U.S. initial public offering market is gearing up for its busiest week since May of 2019, when Uber Technologies Inc. went public, with 12 deals expected to raise $6.8 billion.The list includes S… [+10929 chars]",
+         "author" : "Ciara Linnane",
+         "description" : "Cloud company Snowflake expected to raise up to $3.08 billion in biggest-ever software IPO and biggest deal of the year to date",
          "source" : {
             "id" : null,
             "name" : "MarketWatch"
          },
-         "content" : "The U.S. initial public offering market is gearing up for its busiest week since May of 2019, when Uber Technologies Inc. went public, with 12 deals expected to raise $6.8 billion.The list includes S… [+10929 chars]",
-         "author" : "Ciara Linnane",
-         "description" : "Cloud company Snowflake expected to raise up to $3.08 billion in biggest-ever software IPO and biggest deal of the year to date"
+         "url" : "https://www.marketwatch.com/story/ipo-market-gears-up-for-busiest-week-since-may-of-2019-ubers-ipo-week-with-12-deals-on-tap-2020-09-14",
+         "urlToImage" : "https://s.marketwatch.com/public/resources/images/MW-IO438_snowfl_ZG_20200914131211.jpg"
       }
    ],
-   "status" : "ok",
-   "totalResults" : 70
+   "totalResults" : 70,
+   "status" : "ok"
 }
