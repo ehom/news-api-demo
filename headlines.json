@@ -1,264 +1,264 @@
 {
    "articles" : [
       {
-         "title" : "Mall owner Simon Property Group will keep stores closed on Thanksgiving - CNN",
-         "author" : "Clare Duffy, CNN Business",
+         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/09/0/0/BNSF-New-CEO.jpg?ve=1&tl=1",
+         "content" : "BNSF Railway, one of the largest railroad operators in North America and owned by Berkshire Hathaway Inc  said on Monday it appointed Kathryn Farmer as its chief executive officer, replacing Carl Ice… [+944 chars]",
+         "url" : "https://www.foxbusiness.com/industrials/warren-buffetts-railroad-names-kathryn-farmer-to-be-1st-female-ceo-of-a-major-u-s-railroad",
+         "author" : "Reuters",
+         "title" : "Warren Buffett's railroad names Kathryn Farmer to be 1st female CEO of a major U.S. railroad - Fox Business",
+         "description" : "BNSF Railway, one of the largest railroad operators in North America and owned by Berkshire Hathaway Inc, said on Monday it appointed Kathryn Farmer as its chief executive officer,",
+         "publishedAt" : "2020-09-15T01:15:03Z",
+         "source" : {
+            "name" : "Fox Business",
+            "id" : null
+         }
+      },
+      {
+         "url" : "https://www.oregonlive.com/business/2020/09/alaska-air-suspends-all-pdx-flights-citing-wildfire-smoke.html",
+         "urlToImage" : "https://www.oregonlive.com/resizer/_xdeeJtjkjwjdMAE42PQ7iSCCSQ=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/VCFZFZWCVNH7FHZ4DBKBBCG5VA.jpg",
+         "content" : "Alaska Airlines has suspended all flights in and out of Portland until 3 p.m. Tuesday as wildfire smoke inundates the region. Its also suspending operations in Spokane and canceling some flights in E… [+1691 chars]",
+         "source" : {
+            "id" : null,
+            "name" : "OregonLive"
+         },
+         "publishedAt" : "2020-09-15T00:41:00Z",
+         "author" : "Mike Rogoway | The Oregonian/OregonLive",
+         "description" : "PDX's busiest airline is also shutting down operations in Spokane and canceling many flights in Eugene, Medford, Redmond, Pasco and Walla Walla.",
+         "title" : "Alaska Air suspends all PDX flights, citing wildfire smoke - oregonlive.com"
+      },
+      {
+         "urlToImage" : "https://cnet4.cbsistatic.com/img/34PEqD_ywKl5DekSzGMzJy9zgA4=/1200x630/2020/09/14/0dfb81f1-c946-438d-8f5c-df1b13b92138/hero-all-new-hyundai-tucson-lwb-01.jpg",
+         "content" : "The new Tucson looks like an appropriately angular Toyota RAV4-fighter.\r\nHyundai Motor\r\nAfter a 2022 Hyundai Tucson tease last week, Hyundai Motor Company's compact SUV enters its fourth generation t… [+4168 chars]",
+         "url" : "https://www.cnet.com/roadshow/news/2022-hyundai-tucson-unveiled-bold-style-hybrid-options/",
+         "author" : "Antuan Goodwin",
+         "title" : "2022 Hyundai Tucson unveiled with bold style, hybrid and plug-in options - CNET",
+         "description" : "The all-new compact SUV hits the road with razor-sharp looks unlike anything in Hyundai's lineage.",
+         "publishedAt" : "2020-09-15T00:30:03Z",
+         "source" : {
+            "name" : "CNET",
+            "id" : null
+         }
+      },
+      {
+         "url" : "https://www.cnbc.com/2020/09/14/caesars-ceo-tom-reeg-on-future-of-sports-betting-espn-deal.html",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/105208877-GettyImages-112851759.jpg?v=1571063881",
+         "content" : "Caesars Entertainment CEO Tom Reeg told CNBC on Monday that the further legalization of sports betting is one of the biggest growth opportunities for the gaming industry in perhaps over two decades. … [+2857 chars]",
+         "publishedAt" : "2020-09-15T00:22:00Z",
+         "source" : {
+            "name" : "CNBC",
+            "id" : null
+         },
+         "author" : "Kevin Stankiewicz",
+         "title" : "'There's a lot of money to be made' — Caesars CEO still bullish about sports betting after ESPN deal - CNBC",
+         "description" : "\"This is an enormous opportunity. I'd liken it to when states outside of Nevada and New Jersey started to legalize riverboat casinos in the '90s,\" Caesars Entertainment CEO Tom Reeg told CNBC."
+      },
+      {
+         "url" : "https://www.cnn.com/2020/09/14/tech/facebook-rei-headquarters-sale/index.html",
+         "content" : "New York (CNN Business)Facebook is buying a previously unused corporate headquarters from outdoor retailer REI, despite the social media company's plans to shift more of its employees to working from… [+3645 chars]",
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200914175630-facebook-rei-headquarters-super-tease.jpg",
+         "publishedAt" : "2020-09-15T00:12:00Z",
          "source" : {
             "id" : "cnn",
             "name" : "CNN"
          },
+         "title" : "Facebook buys an unused headquarters even as more employees work remotely - CNN",
+         "description" : "Facebook is buying a previously unused corporate headquarters from outdoor retailer REI, despite the social media company's plans to shift more of its employees to working from home.",
+         "author" : "Chris Isidore, CNN Business"
+      },
+      {
+         "url" : "https://www.cnn.com/2020/09/14/business/simon-property-group-thanksgiving-closure/index.html",
+         "content" : null,
          "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200914184344-simon-property-group-mall-file-super-tease.jpg",
          "publishedAt" : "2020-09-14T23:30:00Z",
+         "source" : {
+            "id" : "cnn",
+            "name" : "CNN"
+         },
          "description" : "Mall owner Simon Property Group said Monday its locations will remain closed on Thanksgiving, though they will open the following day for Black Friday.",
-         "url" : "https://www.cnn.com/2020/09/14/business/simon-property-group-thanksgiving-closure/index.html",
-         "content" : null
+         "title" : "Mall owner Simon Property Group will keep stores closed on Thanksgiving - CNN",
+         "author" : "Clare Duffy, CNN Business"
       },
       {
-         "author" : null,
-         "title" : "World's largest vaccine maker issues warning - CNN",
-         "description" : null,
-         "publishedAt" : "2020-09-14T23:26:22Z",
-         "url" : "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9bk9CTk1rWHktbHfSAQA?oc=5",
+         "url" : "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9N21vSG9RN3AyZE3SAQA?oc=5",
          "content" : null,
+         "urlToImage" : null,
+         "publishedAt" : "2020-09-14T23:26:50Z",
          "source" : {
-            "name" : "Google News",
-            "id" : "google-news"
+            "id" : "google-news",
+            "name" : "Google News"
          },
-         "urlToImage" : null
+         "title" : "Jim Cramer: Merger Monday's back and it's bigger than ever - CNBC Television",
+         "description" : null,
+         "author" : null
       },
       {
-         "publishedAt" : "2020-09-14T23:15:00Z",
-         "description" : "The IRS could still send a second $1,200 check in 2020, but some big questions remain on how it will be approved. The original CARES Act can offer clues about what a second round of payments would look like.",
-         "url" : "https://www.cnet.com/personal-finance/stimulus-check-eligibility-fine-print-income-limit-and-how-the-first-payment-might-shape-the-next-rescue-package/",
-         "content" : "Everything you need to know about stimulus checks, right here.\r\nAngela Lang/CNET\r\nThe passage of another coronavirus economic relief package or a new executive order might authorize a second stimulus… [+13405 chars]",
+         "publishedAt" : "2020-09-14T23:20:00Z",
          "source" : {
-            "name" : "CNET",
-            "id" : null
+            "name" : "Bloomberg",
+            "id" : "bloomberg"
          },
-         "urlToImage" : "https://cnet2.cbsistatic.com/img/jPKnRg1DCnQtgdOzjMN4C4Pe5pA=/1200x630/2020/07/25/d8486d3a-7cd9-4f19-a88b-9ae7a67a0e1b/money-bills-dollars-recession-stimulus-cash-4430.jpg",
-         "author" : "Clifford Colby",
-         "title" : "Stimulus check: Eligibility, fine print, income limit and how the first payment might shape the next rescue package - CNET"
+         "author" : null,
+         "title" : "Citigroup to Resume Job Cuts After Pausing for Pandemic - Bloomberg",
+         "description" : null,
+         "url" : "https://www.bloomberg.com/tosv2.html?vid=&uuid=0eb02660-f6ff-11ea-86b7-f5a0b87b5b14&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wOS0xNC9jaXRpZ3JvdXAtdG8tcmVzdW1lLWN1dHRpbmctam9icy1lbmRpbmctcGF1c2UtZHVyaW5nLXBhbmRlbWlj",
+         "urlToImage" : null,
+         "content" : "To continue, please click the box below to let us know you're not a robot."
       },
       {
-         "content" : "ANNVILLE, Pa. (AP) A Pennsylvania man and his fiancee imprisoned the man's 12-year-old son in a darkened room for years, starving him and beating him while treating their other children well, until h… [+312 chars]",
-         "url" : "https://fox8.com/news/hobby-lobby-to-raise-minimum-wage-to-17-per-hour/",
-         "description" : "The Hobby Lobby chain of stores announced Monday plans to raise its minimum wage for full-time hourly employees starting next month.",
          "publishedAt" : "2020-09-14T23:12:00Z",
-         "urlToImage" : "https://fox8.com/wp-content/uploads/sites/12/2020/09/hobby-lobby_37793757_ver1.0.jpg?w=1280",
          "source" : {
             "id" : null,
             "name" : "fox8.com"
          },
          "author" : "NBC4 Staff",
-         "title" : "Hobby Lobby to raise minimum wage to $17 per hour - fox8.com"
+         "title" : "Hobby Lobby to raise minimum wage to $17 per hour - fox8.com",
+         "description" : "The Hobby Lobby chain of stores announced Monday plans to raise its minimum wage for full-time hourly employees starting next month.",
+         "url" : "https://fox8.com/news/hobby-lobby-to-raise-minimum-wage-to-17-per-hour/",
+         "urlToImage" : "https://fox8.com/wp-content/uploads/sites/12/2020/09/hobby-lobby_37793757_ver1.0.jpg?w=1280",
+         "content" : "ANNVILLE, Pa. (AP) A Pennsylvania man and his fiancee imprisoned the man's 12-year-old son in a darkened room for years, starving him and beating him while treating their other children well, until h… [+312 chars]"
       },
       {
-         "author" : "Peter Grant",
-         "title" : "Facebook Buys REI’s Elaborate New Headquarters as Covid-19 Pandemic Prompts a Sale - The Wall Street Journal",
-         "content" : "Facebook Inc. is buying Recreational Equipment Inc.s custom-made new headquarters near Seattle, the latest sign that big technology companies are driving commercial real estate markets during the cor… [+333 chars]",
-         "publishedAt" : "2020-09-14T22:58:00Z",
-         "description" : "Purchase of complex near Seattle is latest sign that big technology companies are driving commercial real estate markets during pandemic",
-         "url" : "https://www.wsj.com/articles/facebook-buys-reis-elaborate-new-headquarters-as-covid-19-pandemic-prompts-a-sale-11600124280",
+         "author" : "Ben Simmoneau",
+         "title" : "Here's some of the places Boston Sports Club owes money to - WCVB Boston",
+         "description" : "We looked through the company's bankruptcy filing and found millions in unpaid bills in the Boston region.",
+         "publishedAt" : "2020-09-14T22:53:00Z",
          "source" : {
-            "id" : "the-wall-street-journal",
-            "name" : "The Wall Street Journal"
+            "name" : "WCVB Boston",
+            "id" : null
          },
-         "urlToImage" : "https://images.wsj.net/im-231996/social"
+         "urlToImage" : "https://kubrick.htvapps.com/vidthumb/9c8a88ef-6ff3-43e1-ae21-559af8de9143/9c8a88ef-6ff3-43e1-ae21-559af8de9143_image.jpg?crop=1xw:1.0xh;center,top&resize=1200:*",
+         "content" : "WALTHAM, Mass. —The parent company of Boston Sports Clubs Monday became the latest casualty of the coronavirus pandemic, filing Chapter 11 bankruptcy.\r\nWCVB has been chronicling the gym's problems, g… [+1765 chars]",
+         "url" : "https://www.wcvb.com/article/here-s-some-of-the-places-boston-sports-club-owes-money-to/34018073"
       },
       {
-         "url" : "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9V1QxOVU3aFdYcHfSAQA?oc=5",
-         "publishedAt" : "2020-09-14T22:51:41Z",
-         "description" : null,
+         "url" : "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9alMwRG93SzZPMjjSAQA?oc=5",
          "content" : null,
          "urlToImage" : null,
          "source" : {
-            "id" : "google-news",
-            "name" : "Google News"
+            "name" : "Google News",
+            "id" : "google-news"
          },
-         "author" : null,
-         "title" : "Jim Cramer reacts to acquisitions from Nvidia, Gilead Sciences - CNBC Television"
+         "publishedAt" : "2020-09-14T22:47:42Z",
+         "description" : null,
+         "title" : "Analyst breaks down Nvidia deal to buy ARM Holdings from Softbank for $40 billion - Yahoo Finance",
+         "author" : null
       },
       {
-         "title" : "Google faces $3.2 billion lawsuit over use of children's data in U.K. - MarketWatch",
          "author" : "Jon Swartz",
-         "urlToImage" : "https://s.wsj.net/public/resources/MWimages/MW-GP644_MicroS_ZG_20180906154215.jpg",
+         "description" : "",
+         "title" : "Google faces $3.2 billion lawsuit over use of children's data in U.K. - MarketWatch",
+         "publishedAt" : "2020-09-14T22:29:00Z",
          "source" : {
             "id" : null,
             "name" : "MarketWatch"
          },
+         "urlToImage" : "https://s.wsj.net/public/resources/MWimages/MW-GP644_MicroS_ZG_20180906154215.jpg",
          "content" : "Alphabet Inc.'s Google \r\n GOOGL, \r\n -0.45%\r\nGOOG, \r\n -0.09%\r\nfaces a $3.2 billion lawsuit on behalf of more than five million British children under 13 and their parents over claims that YouTube rout… [+909 chars]",
-         "url" : "https://www.marketwatch.com/story/google-faces-32-billion-lawsuit-over-use-of-childrens-data-in-uk-2020-09-14",
-         "publishedAt" : "2020-09-14T22:29:00Z",
-         "description" : ""
+         "url" : "https://www.marketwatch.com/story/google-faces-32-billion-lawsuit-over-use-of-childrens-data-in-uk-2020-09-14"
       },
       {
-         "publishedAt" : "2020-09-14T22:23:54Z",
-         "description" : "The EPA and Department of Justice reached a proposed settlement with another automobile manufacturer over installation of defeat devices that allow vehicles to cheat emission testing.",
-         "url" : "https://www.ksl.com/article/50017260/another-diesel-exhaust-cheat-scheme-this-time-with-mercedes-benz",
-         "content" : "SALT LAKE CITY The U.S. Environmental Protection Agency and U.S. Department of Justice announced Monday the agencies had reached a proposed settlement agreement with another automobile manufacturer o… [+2472 chars]",
+         "content" : "Ahead of its expected IPO (initial public offering) pricing date tomorrow, cloud-based data-warehousing start-up Snowflake boosted its expected pricing range to $100 to $110 per share, up from the pr… [+2794 chars]",
+         "urlToImage" : "https://g.foolcdn.com/editorial/images/591652/stock-chart-going-up.jpg",
+         "url" : "https://www.fool.com/investing/2020/09/14/snowflake-boosts-expected-ipo-pricing-range/",
+         "description" : "This offering is going to be pricey in more ways than one.",
+         "title" : "Snowflake Boosts Expected IPO Pricing Range - The Motley Fool",
+         "author" : "Evan Niu, CFA",
+         "publishedAt" : "2020-09-14T22:26:00Z",
          "source" : {
-            "name" : "KSL.com",
-            "id" : null
-         },
-         "urlToImage" : "https://img.ksl.com/slc/2793/279374/27937422.jpg?filter=ksl/responsive_story_lg",
-         "author" : "https://www.facebook.com/kslcom/",
-         "title" : "Another diesel exhaust cheat scheme, this time with Mercedes-Benz - KSL.com"
+            "id" : null,
+            "name" : "Motley Fool"
+         }
       },
       {
-         "urlToImage" : "https://www.investors.com/wp-content/uploads/2017/10/stock-climbingHill-04-adobe.jpg",
-         "source" : {
-            "name" : "Investor's Business Daily",
-            "id" : null
-         },
-         "url" : "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-stock-market-rally-apple-buy-zone-tesla-soars-nikola-sec-probe/",
-         "publishedAt" : "2020-09-14T22:16:00Z",
-         "description" : "Dow Jones futures: The stock market rally got a needed win, but it's just one day. Apple is in a buy zone. Tesla soared. Nikola dived late on an SEC probe.",
-         "content" : "Dow Jones futures tilted higher late Monday, along with S&amp;P 500 futures and Nasdaq futures. The stock market rally got a much-needed win, with Apple (AAPL) and Adobe stock rebounding bullishly an… [+8357 chars]",
+         "author" : "Investor's Business Daily",
          "title" : "Dow Jones Futures: Stock Market Rally Gets A Win; Apple In Buy Zone; Tesla Rival Nikola Dives On SEC Probe - Investor's Business Daily",
-         "author" : "Investor's Business Daily"
+         "description" : "Dow Jones futures: The stock market rally got a needed win, but it's just one day. Apple is in a buy zone. Tesla soared. Nikola dived late on an SEC probe.",
+         "publishedAt" : "2020-09-14T22:16:00Z",
+         "source" : {
+            "id" : null,
+            "name" : "Investor's Business Daily"
+         },
+         "urlToImage" : "https://www.investors.com/wp-content/uploads/2017/10/stock-climbingHill-04-adobe.jpg",
+         "content" : "Dow Jones futures tilted higher late Monday, along with S&amp;P 500 futures and Nasdaq futures. The stock market rally got a much-needed win, with Apple (AAPL) and Adobe stock rebounding bullishly an… [+8357 chars]",
+         "url" : "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-stock-market-rally-apple-buy-zone-tesla-soars-nikola-sec-probe/"
       },
       {
+         "description" : "Now vegetarians and vegans can have their spaghetti with meatballs and eat it, too! Here's everything you need to know about Beyond Meat's new product.",
+         "title" : "Beyond Meat Is Launching This Brand New Item In Grocery Stores - msnNOW",
+         "author" : null,
+         "publishedAt" : "2020-09-14T22:04:00Z",
          "source" : {
-            "id" : "fox-news",
-            "name" : "Fox News"
+            "name" : "Eatthis.com",
+            "id" : null
          },
-         "urlToImage" : "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/image-2020-09-14T163745.235.jpg",
-         "publishedAt" : "2020-09-14T22:02:35Z",
-         "description" : "Fox News medical contributor Dr. Marc Siegel said Monday that the common flu, unlike coronavirus, is a \"moving target\" that often changes form from year to year, while COVID is more static in that regard.",
+         "content" : "Beyond Meat wants you to \"have a ball\" on them. And by that, the company wants you to try its latest product: meatless meatballs.\r\n© Provided by Eat This, Not That!\r\n spaghetti and meatballs\r\nThe mak… [+2056 chars]",
+         "urlToImage" : "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB192pIU.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg",
+         "url" : "https://www.eatthis.com/beyond-meat-launches-meatballs/"
+      },
+      {
          "url" : "https://www.foxnews.com/media/dr-siegel-on-potential-covid-vaccine-effectiveness-unlike-annual-flu-virus-is-not-a-moving-target",
          "content" : "Fox News medical contributor Dr. Marc Siegel said Monday that the common flu, unlike coronavirus, is a \"moving target\" that often changes form from year to year, while COVID-19 is more static.\r\nSiege… [+1556 chars]",
+         "urlToImage" : "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/image-2020-09-14T163745.235.jpg",
+         "source" : {
+            "name" : "Fox News",
+            "id" : "fox-news"
+         },
+         "publishedAt" : "2020-09-14T22:02:35Z",
          "title" : "Dr. Siegel on potential COVID vaccine effectiveness: Unlike annual flu, virus is not 'a moving target' - Fox News",
+         "description" : "Fox News medical contributor Dr. Marc Siegel said Monday that the common flu, unlike coronavirus, is a \"moving target\" that often changes form from year to year, while COVID is more static in that regard.",
          "author" : "Charles Creitz"
       },
       {
-         "title" : "Chick-fil-A no longer pursuing restaurant at San Antonio airport after chain's plans denied more than a year ago - USA TODAY",
-         "author" : "Acacia Coronado",
-         "urlToImage" : "https://www.gannett-cdn.com/presto/2019/06/27/USAT/e617f5a0-5438-419a-9dff-d5ef2299c6fb-Chick_fil_A.jpg?crop=1023,571,x0,y87&width=1600&height=800&fit=bounds",
-         "source" : {
-            "id" : "usa-today",
-            "name" : "USA Today"
-         },
-         "content" : "Even our four-legged friends can't say no to chicken.\r\nStoryful\r\nAUSTIN, Texas Chick-fil-A said Monday that it no longer plans to open a restaurant in the San Antonio airport, even though the Texas c… [+3008 chars]",
          "url" : "https://www.usatoday.com/story/money/food/2020/09/14/san-antonio-airport-chickfila-not-opening/5798396002/",
+         "urlToImage" : "https://www.gannett-cdn.com/presto/2019/06/27/USAT/e617f5a0-5438-419a-9dff-d5ef2299c6fb-Chick_fil_A.jpg?crop=1023,571,x0,y87&width=1600&height=800&fit=bounds",
+         "content" : "Even our four-legged friends can't say no to chicken.\r\nStoryful\r\nAUSTIN, Texas Chick-fil-A said Monday that it no longer plans to open a restaurant in the San Antonio airport, even though the Texas c… [+3008 chars]",
          "publishedAt" : "2020-09-14T21:55:36Z",
-         "description" : "Chick-fil-A no longer plans to open a restaurant in the San Antonio airport, even though Texas city leaders relented after a year of legal wrangling."
+         "source" : {
+            "name" : "USA Today",
+            "id" : "usa-today"
+         },
+         "author" : "Acacia Coronado",
+         "description" : "Chick-fil-A no longer plans to open a restaurant in the San Antonio airport, even though Texas city leaders relented after a year of legal wrangling.",
+         "title" : "Chick-fil-A no longer pursuing restaurant at San Antonio airport after chain's plans denied more than a year ago - USA TODAY"
       },
       {
+         "author" : "Brian Fung, CNN Business",
+         "description" : "President Donald Trump last month used his office to ignite an international business crisis that's plunged into doubt the future of one of the world's most popular social media platforms — a decision that's now led to the apparent benefit of a major politica…",
+         "title" : "Trump's TikTok showdown is poised to reward his Silicon Valley political allies - CNN",
+         "publishedAt" : "2020-09-14T21:40:00Z",
          "source" : {
             "id" : "cnn",
             "name" : "CNN"
          },
          "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200914153607-donald-trump-larry-ellison-split-super-tease.jpg",
-         "description" : "President Donald Trump last month used his office to ignite an international business crisis that's plunged into doubt the future of one of the world's most popular social media platforms — a decision that's now led to the apparent benefit of a major politica…",
-         "publishedAt" : "2020-09-14T21:40:00Z",
-         "url" : "https://www.cnn.com/2020/09/14/tech/tiktok-politics/index.html",
          "content" : null,
-         "title" : "Trump's TikTok showdown is poised to reward his Silicon Valley political allies - CNN",
-         "author" : "Brian Fung, CNN Business"
+         "url" : "https://www.cnn.com/2020/09/14/tech/tiktok-politics/index.html"
       },
       {
+         "author" : "Cortney Moore",
+         "description" : "While most soft drink companies use caffeine to provide consumers energy, PepsiCo has created a beverage that’s meant to help consumers catch some Zs.",
+         "title" : "PepsiCo's new DriftWell aimed at aiding relaxation and sleep - Fox Business",
+         "publishedAt" : "2020-09-14T21:37:58Z",
          "source" : {
-            "id" : null,
-            "name" : "MarketWatch"
-         },
-         "urlToImage" : "https://images.mktw.net/im-231986/social",
-         "content" : "Kroger Co. was downgraded to neutral from buy at Bank of America with analysts citing intensifying competition with other mass grocers.Bank of America moved its price objective to $40 from $42.Grocer… [+4163 chars]",
-         "description" : "",
-         "publishedAt" : "2020-09-14T20:38:00Z",
-         "url" : "https://www.marketwatch.com/story/kroger-downgraded-at-bank-of-america-as-competition-with-walmart-and-target-heats-up-11600115916",
-         "title" : "Kroger downgraded at Bank of America as competition with Walmart, Target rises - MarketWatch",
-         "author" : "Tonya Garcia"
-      },
-      {
-         "title" : "Millennials are killing the ethnic aisle — and that's a good thing - Business Insider - Business Insider",
-         "author" : "Irene Jiang",
-         "urlToImage" : "https://i.insider.com/5f5bbc39e6ff30001d4e860d?width=1200&format=jpeg",
-         "source" : {
-            "name" : "Business Insider",
-            "id" : "business-insider"
-         },
-         "url" : "https://www.businessinsider.com/millennials-killing-the-ethnic-aisle-and-thats-a-good-thing-2020-9",
-         "description" : "The definition of \"mainstream\" in American cuisine is in perpetual motion, and so is the definition of what is outside of it, experts say.",
-         "publishedAt" : "2020-09-14T20:26:58Z",
-         "content" : "Salsa, soy sauce, and masala have nothing in common. So why are these seemingly random ingredients often lumped together into one section of the grocery store: the ethnic aisle?\r\n\"In 2020, this doesn… [+3161 chars]"
-      },
-      {
-         "author" : "MarketWatch Automation",
-         "title" : "Apple Inc. stock outperforms market on strong trading day - MarketWatch",
-         "publishedAt" : "2020-09-14T20:25:00Z",
-         "description" : "",
-         "url" : "https://www.marketwatch.com/story/apple-inc-stock-outperforms-market-on-strong-trading-day-01600115144",
-         "content" : "Shares of Apple Inc. \r\n AAPL, \r\n +2.99%\r\nadvanced 3.00% to $115.36 Monday, on what proved to be an all-around favorable trading session for the stock market, with the NASDAQ Composite Index \r\n COMP, … [+838 chars]",
-         "source" : {
-            "name" : "MarketWatch",
+            "name" : "Fox Business",
             "id" : null
          },
-         "urlToImage" : "https://images.mktw.net/im-213861/social"
+         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/09/0/0/Pepsi-Sleep-beverage-iStock.jpg?ve=1&tl=1",
+         "content" : "While most soft drink companies give consumers a boost with caffeine, PepsiCo has created a beverage that’s meant to help people catch some Zs.\r\nThe multibillion-dollar beverage giant announced it wi… [+2563 chars]",
+         "url" : "https://www.foxbusiness.com/lifestyle/pepsico-driftwell-sleep-aid-water-december"
       },
       {
-         "author" : "Dharna Noor",
-         "title" : "Google’s Carbon Offset Plan Shows Where the World Has Failed on Climate Change - Gizmodo",
-         "content" : "Our tech overlords are talking up their climate game again. On Monday, Google executives claimed their company is now carbon neutral.\r\nGoogles lifetime net carbon footprint is now zero, Sundar Pichai… [+4196 chars]",
-         "description" : "Our tech overlords are talking up their climate game again. On Monday, Google  executives claimed their company is now “carbon neutral.”",
-         "publishedAt" : "2020-09-14T20:15:00Z",
-         "url" : "https://earther.gizmodo.com/google-s-carbon-offset-plan-shows-where-the-world-has-f-1845052789",
          "source" : {
-            "name" : "Gizmodo.com",
+            "name" : "CarScoops",
             "id" : null
          },
-         "urlToImage" : "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/rutx2fgtnkkrratxncnn.jpg"
-      },
-      {
-         "title" : "MTA And NYPD Begin Crackdown On Maskless Subway Riders - Gothamist",
-         "author" : "Jake Offenhartz",
-         "urlToImage" : "https://cms.prod.nypr.digital/images/311591/fill-1200x650/",
-         "source" : {
-            "id" : null,
-            "name" : "Gothamist"
-         },
-         "url" : "http://gothamist.com/news/mta-and-nypd-begin-crackdown-maskless-subway-riders",
-         "publishedAt" : "2020-09-14T20:12:00Z",
-         "description" : "On Monday, NYPD Commissioner Dermot Shea suggested that cops who refuse to wear masks while patrolling the transit system could themselves face a fine.",
-         "content" : "New York City subway and bus riders who refuse to wear a mask while taking public transit will now be subject to a $50 fine, as part of an MTA crackdown aimed at achieving \"universal mask compliance.… [+2370 chars]"
-      },
-      {
-         "source" : {
-            "id" : null,
-            "name" : "CNBC"
-         },
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106571243-1591730612133gmbarraagainstracism10.jpg?v=1591730706",
-         "content" : "General Motors conducted \"appropriate diligence\" regarding a $2 billion deal with electric vehicle start-up Nikola, GM CEO Mary Barra said Monday.\r\nBarra's comments are a response to increased scruti… [+3227 chars]",
-         "description" : "General Motors conducted \"appropriate diligence\" regarding a $2 billion deal with electric vehicle start-up Nikola, GM CEO Mary Barra said Monday.",
-         "publishedAt" : "2020-09-14T19:59:00Z",
-         "url" : "https://www.cnbc.com/2020/09/14/barra-gm-conducted-appropriate-diligence-on-2-billion-nikola-deal.html",
-         "title" : "GM conducted 'appropriate diligence' on $2 billion Nikola deal, CEO Mary Barra says - CNBC",
-         "author" : "Michael Wayland"
-      },
-      {
-         "publishedAt" : "2020-09-14T19:58:00Z",
-         "description" : "Underwater pods can reduce latency by moving cloud services closer to customers.",
-         "url" : "https://arstechnica.com/information-technology/2020/09/microsoft-declares-its-underwater-data-center-test-was-a-success/",
-         "content" : "Northern Isles, a 12-rack / 864-server underwater data center pod, is winched off the seafloor in this picture after its two-year trial deployment.\"/&gt;\r\n Enlarge/ The Northern Isles, a 12-rack / 86… [+6146 chars]",
-         "source" : {
-            "id" : "ars-technica",
-            "name" : "Ars Technica"
-         },
-         "urlToImage" : "https://cdn.arstechnica.net/wp-content/uploads/2020/09/project-natick-recovery-760x380.png",
-         "author" : "Jim Salter",
-         "title" : "Microsoft declares its underwater data center test was a success - Ars Technica"
-      },
-      {
+         "publishedAt" : "2020-09-14T21:00:00Z",
+         "description" : "The Ford Ranger becomes even more off-road capable to please Raptor-hungry US customers.",
+         "title" : "New 2021 Ford Ranger Tremor Is The Closest U.S. Will Get To A Ranger Raptor - CarScoops",
          "author" : null,
-         "title" : "Elon Musk Rebuts Bill Gates on Tesla Semi - Torque News",
-         "content" : null,
-         "url" : "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9Z3Z3MUNKWklsSGvSAQA?oc=5",
-         "publishedAt" : "2020-09-14T19:41:21Z",
-         "description" : null,
-         "urlToImage" : null,
-         "source" : {
-            "id" : "google-news",
-            "name" : "Google News"
-         }
+         "url" : "https://www.carscoops.com/2020/09/new-2021-ford-ranger-tremor-is-the-closest-u-s-will-get-to-a-ranger-raptor/",
+         "content" : "Ford has revealed the new Tremor Off-Road Package for the 2021 Ranger pickup truck, making it the most off-road capable variant in the US range.\r\nThe new Ford Ranger Tremor receives a range of off-ro… [+2796 chars]",
+         "urlToImage" : "https://www.carscoops.com/wp-content/uploads/2020/09/21_Ranger_Tremor_Fact_Sheet-25.jpg"
       }
    ],
    "status" : "ok",
