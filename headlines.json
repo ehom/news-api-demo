@@ -1,266 +1,266 @@
 {
-   "status" : "ok",
-   "totalResults" : 70,
    "articles" : [
       {
-         "content" : "Costco became a massive global retailer by doing something many people might have once thought crazy: charging people a fee just to shop in its stores. \r\nHowever, it has worked beautifully for the co… [+2170 chars]",
-         "title" : "How Costco makes billions by charging people to shop there - CNBC",
-         "url" : "https://www.cnbc.com/2020/09/15/how-costco-makes-billions-by-charging-people-to-shop-there.html",
-         "author" : "Robert Ferris",
+         "publishedAt" : "2020-09-15T16:11:00Z",
          "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106697838-1599764867358-cost.jpg?v=1599764882",
          "description" : "Costco pretty much pioneered the club membership retail model on a large scale. The company did it by charging low prices and staying tightly focused on keeping its members happy - so they keep renewing their memberships. In an era where retailers have strugg…",
-         "publishedAt" : "2020-09-15T16:11:00Z",
          "source" : {
             "id" : null,
             "name" : "CNBC"
-         }
+         },
+         "url" : "https://www.cnbc.com/2020/09/15/how-costco-makes-billions-by-charging-people-to-shop-there.html",
+         "title" : "How Costco makes billions by charging people to shop there - CNBC",
+         "author" : "Robert Ferris",
+         "content" : "Costco became a massive global retailer by doing something many people might have once thought crazy: charging people a fee just to shop in its stores. \r\nHowever, it has worked beautifully for the co… [+2170 chars]"
       },
       {
-         "url" : "https://www.benzinga.com/news/20/09/17512069/kraft-heinz-details-new-strategic-transformation-plan",
-         "title" : "Kraft Heinz Details New Strategic Transformation Plan - Benzinga",
          "content" : "Kraft Heinz Co (NASDAQ: KHC) detailed Tuesday a new strategic transformation plan that targets around $2 billion in cost cuts through 2024.\r\nOperating Model: The core element of Kraft Heinz's transfo… [+1536 chars]",
          "author" : "Jayson Derrick",
-         "publishedAt" : "2020-09-15T16:04:56Z",
+         "url" : "https://www.benzinga.com/news/20/09/17512069/kraft-heinz-details-new-strategic-transformation-plan",
+         "title" : "Kraft Heinz Details New Strategic Transformation Plan - Benzinga",
          "source" : {
-            "name" : "Benzinga",
-            "id" : null
+            "id" : null,
+            "name" : "Benzinga"
          },
          "description" : "Kraft Heinz Co (NASDAQ: KHC) detailed Tuesday a new strategic transformation plan that targets around $2 billion in cost cuts through 2024.\nOperating ...",
-         "urlToImage" : "https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/images/story/2012/ketchup-617231_1920_2.jpg"
+         "urlToImage" : "https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/images/story/2012/ketchup-617231_1920_2.jpg",
+         "publishedAt" : "2020-09-15T16:04:56Z"
       },
       {
-         "url" : "https://www.cnbc.com/2020/09/15/dimon-short-term-policy-causing-governments-to-make-really-dumb-decisions.html",
-         "title" : "JPMorgan CEO says a failure to think long-term is causing governments to make ‘really dumb decisions’ - CNBC",
-         "content" : "Jamie Dimon, chief executive officer of JPMorgan Chase &amp; Co., speaks during the Bloomberg Global Business Forum in New York, on Wednesday, Sept. 25, 2019.\r\nShort-term thinking is causing governme… [+2687 chars]",
+         "publishedAt" : "2020-09-15T16:02:00Z",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106148480-1569425526605gettyimages-1171027604.jpg?v=1596209972",
          "source" : {
             "id" : null,
             "name" : "CNBC"
          },
-         "publishedAt" : "2020-09-15T16:02:00Z",
          "description" : "Short-term thinking is causing governments around the world to make \"really dumb decisions\" on economic policy, according to J.P. Morgan CEO Jamie Dimon.",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106148480-1569425526605gettyimages-1171027604.jpg?v=1596209972",
+         "title" : "JPMorgan CEO says a failure to think long-term is causing governments to make ‘really dumb decisions’ - CNBC",
+         "url" : "https://www.cnbc.com/2020/09/15/dimon-short-term-policy-causing-governments-to-make-really-dumb-decisions.html",
+         "content" : "Jamie Dimon, chief executive officer of JPMorgan Chase &amp; Co., speaks during the Bloomberg Global Business Forum in New York, on Wednesday, Sept. 25, 2019.\r\nShort-term thinking is causing governme… [+2687 chars]",
          "author" : "Elliot Smith"
       },
       {
-         "content" : null,
-         "title" : "SoulCycle competitor Flywheel files for bankruptcy - CNN",
-         "url" : "https://www.cnn.com/2020/09/15/business/flywheel-sports-bankruptcy/index.html",
-         "author" : "Jordan Valinsky, CNN Business",
-         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200915095600-flywheel-sports-cycling-file-restricted-super-tease.jpg",
-         "description" : "Flywheel, a SoulCycle and Peloton competitor, has filed for bankruptcy as the pandemic continues to devastate the boutique fitness industry.",
-         "publishedAt" : "2020-09-15T15:24:00Z",
          "source" : {
             "name" : "CNN",
             "id" : "cnn"
-         }
+         },
+         "description" : "Flywheel, a SoulCycle and Peloton competitor, has filed for bankruptcy as the pandemic continues to devastate the boutique fitness industry.",
+         "publishedAt" : "2020-09-15T15:24:00Z",
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200915095600-flywheel-sports-cycling-file-restricted-super-tease.jpg",
+         "content" : null,
+         "author" : "Jordan Valinsky, CNN Business",
+         "url" : "https://www.cnn.com/2020/09/15/business/flywheel-sports-bankruptcy/index.html",
+         "title" : "SoulCycle competitor Flywheel files for bankruptcy - CNN"
       },
       {
-         "publishedAt" : "2020-09-15T14:19:40Z",
+         "content" : "Editor's note: This is an excerpt of Planet Money's newsletter. You can sign up here.\r\nToday's newsletter is adapted from Money: The True Story of a Made-Up Thing, a new book by Planet Money co-host … [+4974 chars]",
+         "author" : "Jacob Goldstein",
+         "title" : "Should We Kill The $100 Bill? : Planet Money - NPR",
+         "url" : "https://www.npr.org/sections/money/2020/09/15/912695985/should-we-kill-the-100-bill",
          "source" : {
             "name" : "NPR",
             "id" : null
          },
          "description" : "It feels like cash has disappeared. But there's more paper money out there than ever. That might be a problem.",
-         "urlToImage" : "https://media.npr.org/assets/img/2020/09/14/usd-2874026_1280_wide-49fa4d2c1ee6755a44332bda6157da2a559f87b9.jpg?s=1400",
-         "author" : "Jacob Goldstein",
-         "url" : "https://www.npr.org/sections/money/2020/09/15/912695985/should-we-kill-the-100-bill",
-         "title" : "Should We Kill The $100 Bill? : Planet Money - NPR",
-         "content" : "Editor's note: This is an excerpt of Planet Money's newsletter. You can sign up here.\r\nToday's newsletter is adapted from Money: The True Story of a Made-Up Thing, a new book by Planet Money co-host … [+4974 chars]"
+         "publishedAt" : "2020-09-15T14:19:40Z",
+         "urlToImage" : "https://media.npr.org/assets/img/2020/09/14/usd-2874026_1280_wide-49fa4d2c1ee6755a44332bda6157da2a559f87b9.jpg?s=1400"
       },
       {
          "title" : "No longer seeing a recession, fund managers are beginning to shift into industrials and value stocks, Bank of America survey finds - MarketWatch",
          "url" : "https://www.marketwatch.com/story/no-longer-seeing-a-recession-fund-managers-are-beginning-to-shift-into-industrials-and-value-stocks-bank-of-america-survey-finds-11600179447",
+         "author" : "Steve Goldstein",
          "content" : "Fund managers are rotating but not chasing stocks after the massive rally from March lows, according to the latest reading of Bank of Americas popular fund manager survey.The survey found that cash l… [+1541 chars]",
+         "urlToImage" : "https://images.mktw.net/im-232221/social",
          "publishedAt" : "2020-09-15T14:17:00Z",
+         "description" : "",
          "source" : {
             "id" : null,
             "name" : "MarketWatch"
-         },
-         "description" : "",
-         "urlToImage" : "https://images.mktw.net/im-232221/social",
-         "author" : "Steve Goldstein"
+         }
       },
       {
-         "url" : "https://www.kitco.com/news/2020-09-15/Fed-to-clear-the-second-hurdle-for-gold-bugs-TD-Securities.html",
-         "title" : "Fed to 'clear the second hurdle for gold bugs': TD Securities - Kitco NEWS",
-         "content" : "Editor's Note: Get caught up in minutes with our speedy summary of today's must-read news stories and expert opinions that moved the precious metals and financial markets. Sign up here!\r\n(Kitco News)… [+1160 chars]",
-         "publishedAt" : "2020-09-15T14:11:00Z",
-         "source" : {
-            "name" : "Kitco NEWS",
-            "id" : null
-         },
          "description" : "Market Nuggets compiles all of the day's top expert analysis on the gold market. They offer a short synopsis of bank forecasts, and the outlook of famed economists like Dennis Gartman and Nouriel Roubini. Kitco Nuggets are constantly updated throughout the da…",
+         "source" : {
+            "id" : null,
+            "name" : "Kitco NEWS"
+         },
          "urlToImage" : "https://www.kitco.com/news/2020-09-15/images/shutterstock_59720548-min.jpg",
-         "author" : "http://www.facebook.com/kitconews"
+         "publishedAt" : "2020-09-15T14:11:00Z",
+         "author" : "http://www.facebook.com/kitconews",
+         "content" : "Editor's Note: Get caught up in minutes with our speedy summary of today's must-read news stories and expert opinions that moved the precious metals and financial markets. Sign up here!\r\n(Kitco News)… [+1160 chars]",
+         "url" : "https://www.kitco.com/news/2020-09-15/Fed-to-clear-the-second-hurdle-for-gold-bugs-TD-Securities.html",
+         "title" : "Fed to 'clear the second hurdle for gold bugs': TD Securities - Kitco NEWS"
       },
       {
-         "content" : "Shares of electric truck maker Nikola fell Tuesday after Bloomberg news reported that the U.S. Securities and Exchange Commission is looking into short seller claims that the company misled investors… [+1992 chars]",
-         "url" : "https://www.cnbc.com/2020/09/15/nikolas-shares-fall-as-sec-reportedly-examines-short-sellers-fraud-claims.html",
          "title" : "Electric truck maker Nikola's shares fall as SEC reportedly examines short seller's fraud claims - CNBC",
+         "url" : "https://www.cnbc.com/2020/09/15/nikolas-shares-fall-as-sec-reportedly-examines-short-sellers-fraud-claims.html",
          "author" : "Michael Wayland",
+         "content" : "Shares of electric truck maker Nikola fell Tuesday after Bloomberg news reported that the U.S. Securities and Exchange Commission is looking into short seller claims that the company misled investors… [+1992 chars]",
          "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106703086-16001809550062019-12-02T220628Z-448915381-RC2AND9J864B-RTRMADP-3-CNH-INDUSTRIAL-NIKOLA-JPG?v=1600181064",
+         "publishedAt" : "2020-09-15T14:02:00Z",
          "description" : "The SEC is reportedly looking into the merits of short seller Hindenburg Research's claims that electric vehicle manufacturer Nikola misled investors about its business prospects.",
          "source" : {
             "id" : null,
             "name" : "CNBC"
-         },
-         "publishedAt" : "2020-09-15T14:02:00Z"
+         }
       },
       {
+         "content" : "AUSTIN, Texas Chick-fil-A said Monday that it no longer plans to open a restaurant in the San Antonio airport, even though the Texas city relented after more than a year of legal wrangling that began… [+2327 chars]",
          "author" : "The Associated Press",
-         "urlToImage" : "https://media4.s-nbcnews.com/j/newscms/2020_38/3412192/200915-chick-fil-a-mc-1433_0124bccf7f516cbd9f60011baae1499a.nbcnews-fp-1200-630.JPG",
-         "description" : "The controversy started in March 2019, when the City Council banned the fast-food chain from its airport, citing a \"legacy of anti-LGBT behavior.\"",
+         "title" : "A year after LGBTQ spat, Chick-fil-A no longer heading to San Antonio airport - NBC News",
+         "url" : "https://www.nbcnews.com/feature/nbc-out/year-after-lgbtq-spat-chick-fil-no-longer-heading-san-n1240120",
          "source" : {
             "name" : "NBC News",
             "id" : "nbc-news"
          },
-         "publishedAt" : "2020-09-15T13:57:00Z",
-         "content" : "AUSTIN, Texas Chick-fil-A said Monday that it no longer plans to open a restaurant in the San Antonio airport, even though the Texas city relented after more than a year of legal wrangling that began… [+2327 chars]",
-         "title" : "A year after LGBTQ spat, Chick-fil-A no longer heading to San Antonio airport - NBC News",
-         "url" : "https://www.nbcnews.com/feature/nbc-out/year-after-lgbtq-spat-chick-fil-no-longer-heading-san-n1240120"
+         "description" : "The controversy started in March 2019, when the City Council banned the fast-food chain from its airport, citing a \"legacy of anti-LGBT behavior.\"",
+         "urlToImage" : "https://media4.s-nbcnews.com/j/newscms/2020_38/3412192/200915-chick-fil-a-mc-1433_0124bccf7f516cbd9f60011baae1499a.nbcnews-fp-1200-630.JPG",
+         "publishedAt" : "2020-09-15T13:57:00Z"
       },
       {
-         "title" : "Personal information of 46,000 veterans compromised after data breach, VA reveals - Fox News",
          "url" : "https://www.foxnews.com/us/va-data-breach-veteran-records",
-         "content" : "The personal information of an estimated 46,000 veterans was compromised as a result of a data breach at the U.S. Department of Veterans Affairs, officials revealed this week.\r\nThe VA’s Financial Ser… [+1601 chars]",
+         "title" : "Personal information of 46,000 veterans compromised after data breach, VA reveals - Fox News",
          "author" : "Stephanie Pagones",
-         "source" : {
-            "name" : "Fox News",
-            "id" : "fox-news"
-         },
+         "content" : "The personal information of an estimated 46,000 veterans was compromised as a result of a data breach at the U.S. Department of Veterans Affairs, officials revealed this week.\r\nThe VA’s Financial Ser… [+1601 chars]",
+         "urlToImage" : "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/Veteran-Affairs-Google-street-view.jpg",
          "publishedAt" : "2020-09-15T13:49:36Z",
          "description" : "The personal information of an estimated 46,000 veterans was compromised as a result of a data breach at the U.S. Department of Veterans Affairs, officials revealed this week.",
-         "urlToImage" : "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/Veteran-Affairs-Google-street-view.jpg"
+         "source" : {
+            "id" : "fox-news",
+            "name" : "Fox News"
+         }
       },
       {
-         "content" : "The SEC is actually investigating that short-sellers claims about Nikolas allegedly misleading tech demos now, Carlos Ghosns trial in Japan has started without him, and police traffic stops in Minnea… [+9173 chars]",
-         "title" : "Nikola Got What It Asked For And It Could Backfire Horribly - Jalopnik",
-         "url" : "https://jalopnik.com/nikola-got-what-it-asked-for-and-it-could-backfire-horr-1845061363",
-         "urlToImage" : "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/js9hpogqwezkdgaglm9o.png",
          "description" : "The SEC is actually investigating that short-seller’s claims about Nikola’s allegedly misleading tech demos now, Carlos Ghosn’s trial in Japan has started without him, and police traffic stops in Minneapolis are down to all-time lows. All of that and more in …",
          "source" : {
-            "id" : null,
-            "name" : "Jalopnik"
-         },
-         "publishedAt" : "2020-09-15T13:45:00Z",
-         "author" : "Justin T. Westbrook"
-      },
-      {
-         "author" : "Lauren Feiner",
-         "description" : "Oracle had been a dark horse in the competition over TikTok, with Microsoft emerging as the first known bidder.",
-         "publishedAt" : "2020-09-15T13:41:00Z",
-         "source" : {
-            "name" : "CNBC",
+            "name" : "Jalopnik",
             "id" : null
          },
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106703218-16001860022020-09-14t070033z_2038409440_rc27yi9d74sh_rtrmadp_0_tiktok-oracle.jpeg?v=1600186049",
-         "url" : "https://www.cnbc.com/2020/09/15/cramer-says-trump-administration-will-approve-oracle-tiktok-deal-tuesday.html",
-         "title" : "'It's done' — Cramer says Trump administration will approve Oracle-TikTok deal Tuesday - CNBC",
-         "content" : "Approval of Oracle's deal to become a \"trusted technology provider\" for ByteDance's TikTok will be announced on Tuesday afternoon, CNBC's Jim Cramer reported. A source familiar with the matter later … [+1777 chars]"
+         "publishedAt" : "2020-09-15T13:45:00Z",
+         "urlToImage" : "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/js9hpogqwezkdgaglm9o.png",
+         "author" : "Justin T. Westbrook",
+         "content" : "The SEC is actually investigating that short-sellers claims about Nikolas allegedly misleading tech demos now, Carlos Ghosns trial in Japan has started without him, and police traffic stops in Minnea… [+9173 chars]",
+         "url" : "https://jalopnik.com/nikola-got-what-it-asked-for-and-it-could-backfire-horr-1845061363",
+         "title" : "Nikola Got What It Asked For And It Could Backfire Horribly - Jalopnik"
       },
       {
-         "content" : null,
-         "title" : "MicroStrategy Buys $175M More in Bitcoin, Upping BTC Holdings to $425M - CoinDesk - Coindesk",
-         "url" : "https://www.coindesk.com/microstrategy-buys-more-bitcoin",
-         "author" : "Paddy Baker",
-         "urlToImage" : "https://static.coindesk.com/wp-content/uploads/2020/09/GettyImages-159806927.jpeg",
-         "description" : "Michael Saylor, the founder of Microstrategy, said Tuesday his company has acquired an additional $175 million in bitcoin (BTC) in a single purchase.",
-         "publishedAt" : "2020-09-15T13:32:43Z",
+         "url" : "https://www.cnbc.com/2020/09/15/cramer-says-trump-administration-will-approve-oracle-tiktok-deal-tuesday.html",
+         "title" : "'It's done' — Cramer says Trump administration will approve Oracle-TikTok deal Tuesday - CNBC",
+         "author" : "Lauren Feiner",
+         "content" : "Approval of Oracle's deal to become a \"trusted technology provider\" for ByteDance's TikTok will be announced on Tuesday afternoon, CNBC's Jim Cramer reported. A source familiar with the matter later … [+1777 chars]",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106703218-16001860022020-09-14t070033z_2038409440_rc27yi9d74sh_rtrmadp_0_tiktok-oracle.jpeg?v=1600186049",
+         "publishedAt" : "2020-09-15T13:41:00Z",
+         "description" : "Oracle had been a dark horse in the competition over TikTok, with Microsoft emerging as the first known bidder.",
          "source" : {
-            "name" : "CoinDesk",
+            "name" : "CNBC",
             "id" : null
          }
       },
       {
-         "description" : null,
-         "publishedAt" : "2020-09-15T13:22:15Z",
+         "description" : "Michael Saylor, the founder of Microstrategy, said Tuesday his company has acquired an additional $175 million in bitcoin (BTC) in a single purchase.",
          "source" : {
-            "id" : "google-news",
-            "name" : "Google News"
+            "name" : "CoinDesk",
+            "id" : null
          },
+         "publishedAt" : "2020-09-15T13:32:43Z",
+         "urlToImage" : "https://static.coindesk.com/wp-content/uploads/2020/09/GettyImages-159806927.jpeg",
+         "author" : "Paddy Baker",
+         "content" : null,
+         "url" : "https://www.coindesk.com/microstrategy-buys-more-bitcoin",
+         "title" : "MicroStrategy Buys $175M More in Bitcoin, Upping BTC Holdings to $425M - CoinDesk - Coindesk"
+      },
+      {
+         "publishedAt" : "2020-09-15T13:22:15Z",
          "urlToImage" : null,
-         "author" : null,
+         "description" : null,
+         "source" : {
+            "name" : "Google News",
+            "id" : "google-news"
+         },
          "title" : "Chamath Palihapitiya unveils $4.8 billion SPAC deal for real estate startup Opendoor - CNBC Television",
          "url" : "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9UFNQWjQyV3BnNGvSAQA?oc=5",
+         "author" : null,
          "content" : null
       },
       {
-         "publishedAt" : "2020-09-15T13:13:00Z",
+         "author" : "Lauren Thomas",
+         "content" : "Apparel retailer Francesca's said Tuesday its ability to continue as a going concern is in doubt after it reported a quarterly sales decline of 29%, citing major supply-chain constraints. \r\nIts share… [+1361 chars]",
+         "title" : "Apparel retailer Francesca's issues 'going concern' warning as sales tumble - CNBC",
+         "url" : "https://www.cnbc.com/2020/09/15/retailer-francescas-issues-going-concern-warning-as-sales-tumble.html",
+         "description" : "Apparel retailer Francesca's said its ability to continue as a going concern is in doubt after it reported a quarterly sales decline of 29%, citing major supply-chain constraints.",
          "source" : {
             "name" : "CNBC",
             "id" : null
          },
-         "description" : "Apparel retailer Francesca's said its ability to continue as a going concern is in doubt after it reported a quarterly sales decline of 29%, citing major supply-chain constraints.",
          "urlToImage" : "https://image.cnbcfm.com/api/v1/image/103492125-GettyImages-134926528.jpg?v=1532564154",
-         "author" : "Lauren Thomas",
-         "title" : "Apparel retailer Francesca's issues 'going concern' warning as sales tumble - CNBC",
-         "url" : "https://www.cnbc.com/2020/09/15/retailer-francescas-issues-going-concern-warning-as-sales-tumble.html",
-         "content" : "Apparel retailer Francesca's said Tuesday its ability to continue as a going concern is in doubt after it reported a quarterly sales decline of 29%, citing major supply-chain constraints. \r\nIts share… [+1361 chars]"
+         "publishedAt" : "2020-09-15T13:13:00Z"
       },
       {
-         "author" : "",
-         "source" : {
-            "id" : "engadget",
-            "name" : "Engadget"
-         },
-         "publishedAt" : "2020-09-15T13:06:48Z",
          "description" : "The new Walmart Plus subscription service that rivals Amazon Prime is available today for $12.95 per month or $98 per year.",
+         "source" : {
+            "name" : "Engadget",
+            "id" : "engadget"
+         },
          "urlToImage" : "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-09%2F9b994a80-f2ad-11ea-afbf-c95142fbee4b&client=amp-blogside-v2&signature=019e1049c8ef7f7e6e7a44fd6224cb4929181b1c",
+         "publishedAt" : "2020-09-15T13:06:48Z",
+         "author" : "",
+         "content" : "In addition to the unlimited free delivery, Walmart Plus also includes gas savings and mobile scan-and-go checkout. Members can save up to five cents per gallon when they fill up at Walmart, Murphy U… [+1600 chars]",
          "title" : "Walmart Plus signups officially begin today, starting at $98 per year - Engadget",
-         "url" : "https://www.engadget.com/walmart-plus-launch-subscription-details-price-123003235.html",
-         "content" : "In addition to the unlimited free delivery, Walmart Plus also includes gas savings and mobile scan-and-go checkout. Members can save up to five cents per gallon when they fill up at Walmart, Murphy U… [+1600 chars]"
+         "url" : "https://www.engadget.com/walmart-plus-launch-subscription-details-price-123003235.html"
       },
       {
-         "content" : "NVIDIA(NASDAQ:NVDA) this week agreed to buy chip designer Arm Holdings from SoftBank Group(OTC:SFTB.Y) in a deal worth up to $40 billion. The deal won't include Arm's Internet of Things (IoT) service… [+5115 chars]",
-         "url" : "https://www.fool.com/investing/2020/09/15/nvidias-40-billion-takeover-of-arm-spells-trouble/",
-         "title" : "NVIDIA's $40 Billion Takeover of Arm Spells Trouble for Intel and AMD - Motley Fool",
-         "author" : "Leo Sun",
-         "urlToImage" : "https://g.foolcdn.com/editorial/images/591728/gettyimages-1145276351.jpg",
          "description" : "The chipmaker just pulled the rug out from under the semiconductor market.",
          "source" : {
             "id" : null,
             "name" : "Motley Fool"
          },
-         "publishedAt" : "2020-09-15T12:39:15Z"
+         "publishedAt" : "2020-09-15T12:39:15Z",
+         "urlToImage" : "https://g.foolcdn.com/editorial/images/591728/gettyimages-1145276351.jpg",
+         "author" : "Leo Sun",
+         "content" : "NVIDIA(NASDAQ:NVDA) this week agreed to buy chip designer Arm Holdings from SoftBank Group(OTC:SFTB.Y) in a deal worth up to $40 billion. The deal won't include Arm's Internet of Things (IoT) service… [+5115 chars]",
+         "url" : "https://www.fool.com/investing/2020/09/15/nvidias-40-billion-takeover-of-arm-spells-trouble/",
+         "title" : "NVIDIA's $40 Billion Takeover of Arm Spells Trouble for Intel and AMD - Motley Fool"
       },
       {
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106702715-1600170958523-LuxuryStores_ViewIn360_spin.png?v=1600172786",
-         "description" : "Amazon just announced the launch of its Luxury Stores for designer fashion brands.",
-         "source" : {
-            "name" : "CNBC",
-            "id" : null
-         },
-         "publishedAt" : "2020-09-15T12:29:00Z",
-         "author" : "Lauren Thomas",
          "content" : "Amazon's foray into luxury fashion is the latest blow this year to U.S. department stores, which have been hit especially hard by the coronavirus pandemic. \r\nThe e-commerce company announced Tuesday … [+2169 chars]",
+         "author" : "Lauren Thomas",
+         "title" : "Amazon's launch of luxury fashion shops is latest blow to struggling department stores - CNBC",
          "url" : "https://www.cnbc.com/2020/09/15/amazons-launch-into-luxury-fashion-deals-blow-to-us-department-stores.html",
-         "title" : "Amazon's launch of luxury fashion shops is latest blow to struggling department stores - CNBC"
-      },
-      {
-         "author" : "Zach Griff",
-         "urlToImage" : "https://i2.wp.com/thepointsguy.com/wp-content/uploads/2020/09/Delta-Sky-Club-Salt-Lake-City-SLC-Zach-Griff-65.jpeg?fit=1600%2C1067px&ssl=1",
-         "description" : "Delta flyers passing through Salt Lake City may not want to leave the airport. The Salt Lake City airport (SLC), along with Delta, opened a brand-new canyon-inspired terminal today that’s sure to mesmerize passengers. And while the terminal is itself is a mas…",
-         "publishedAt" : "2020-09-15T12:27:06Z",
          "source" : {
-            "name" : "The Points Guy",
-            "id" : null
+            "id" : null,
+            "name" : "CNBC"
          },
-         "content" : "Delta flyers passing through Salt Lake City may not want to leave the airport.\r\nThe Salt Lake City airport (SLC), along with Delta, opened a brand-new canyon-inspired terminal today that’s sure to me… [+11510 chars]",
-         "url" : "http://thepointsguy.com/news/delta-sky-club-salt-lake-city/",
-         "title" : "Exclusive first look at Delta’s largest, brand-new Sky Club in Salt Lake City - The Points Guy"
+         "description" : "Amazon just announced the launch of its Luxury Stores for designer fashion brands.",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106702715-1600170958523-LuxuryStores_ViewIn360_spin.png?v=1600172786",
+         "publishedAt" : "2020-09-15T12:29:00Z"
       },
       {
-         "author" : "Noah Manskar",
+         "content" : "Delta flyers passing through Salt Lake City may not want to leave the airport.\r\nThe Salt Lake City airport (SLC), along with Delta, opened a brand-new canyon-inspired terminal today that’s sure to me… [+11510 chars]",
+         "author" : "Zach Griff",
+         "title" : "Exclusive first look at Delta’s largest, brand-new Sky Club in Salt Lake City - The Points Guy",
+         "url" : "http://thepointsguy.com/news/delta-sky-club-salt-lake-city/",
+         "source" : {
+            "id" : null,
+            "name" : "The Points Guy"
+         },
+         "description" : "Delta flyers passing through Salt Lake City may not want to leave the airport. The Salt Lake City airport (SLC), along with Delta, opened a brand-new canyon-inspired terminal today that’s sure to mesmerize passengers. And while the terminal is itself is a mas…",
+         "urlToImage" : "https://i2.wp.com/thepointsguy.com/wp-content/uploads/2020/09/Delta-Sky-Club-Salt-Lake-City-SLC-Zach-Griff-65.jpeg?fit=1600%2C1067px&ssl=1",
+         "publishedAt" : "2020-09-15T12:27:06Z"
+      },
+      {
+         "publishedAt" : "2020-09-15T12:17:00Z",
+         "urlToImage" : "https://nypost.com/wp-content/uploads/sites/2/2020/09/hobby-lobby.jpg?quality=90&strip=all&w=1200",
          "description" : "Hobby Lobby is raising the minimum wage for its full-time workers to $17 an hour ahead of the holiday season.",
          "source" : {
             "id" : null,
             "name" : "New York Post"
          },
-         "publishedAt" : "2020-09-15T12:17:00Z",
-         "urlToImage" : "https://nypost.com/wp-content/uploads/sites/2/2020/09/hobby-lobby.jpg?quality=90&strip=all&w=1200",
-         "title" : "Hobby Lobby raising full-time minimum wage to $17 an hour - New York Post ",
          "url" : "https://nypost.com/2020/09/15/hobby-lobby-raising-full-time-minimum-wage-to-17-an-hour/",
+         "title" : "Hobby Lobby raising full-time minimum wage to $17 an hour - New York Post ",
+         "author" : "Noah Manskar",
          "content" : "Hobby Lobby is raising the minimum wage for its full-time workers to $17 an hour ahead of the holiday season.\r\nThe arts-and-crafts chain will implement the permanent raise Oct. 1, making it the lates… [+1859 chars]"
       }
-   ]
+   ],
+   "totalResults" : 70,
+   "status" : "ok"
 }
