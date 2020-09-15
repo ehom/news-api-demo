@@ -1,266 +1,266 @@
 {
    "totalResults" : 70,
+   "status" : "ok",
    "articles" : [
       {
          "content" : "Chamath Palihapitiya pioneered taking private unicorns public by reverse merging them into special purpose acquisition companies an idea he's called \"IPO 2.0.\" \r\nAfter his first iteration of doing so… [+3291 chars]",
-         "author" : "Leslie Picker",
-         "url" : "https://www.cnbc.com/2020/09/15/palihapitiya-finds-next-10x-idea-with-4point8-billion-spac-deal-for-real-estate-start-up-opendoor.html",
-         "title" : "Palihapitiya finds next '10x idea' with $4.8 billion SPAC deal for real estate start-up Opendoor - CNBC",
-         "description" : "\"These guys are my next 10x\" idea,\" Chamath Palihapitiya told CNBC.",
-         "publishedAt" : "2020-09-15T11:55:00Z",
          "source" : {
             "id" : null,
             "name" : "CNBC"
          },
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/105196007-IMG_6875.JPG?v=1525879311"
+         "author" : "Leslie Picker",
+         "publishedAt" : "2020-09-15T11:55:00Z",
+         "title" : "Palihapitiya finds next '10x idea' with $4.8 billion SPAC deal for real estate start-up Opendoor - CNBC",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/105196007-IMG_6875.JPG?v=1525879311",
+         "description" : "\"These guys are my next 10x\" idea,\" Chamath Palihapitiya told CNBC.",
+         "url" : "https://www.cnbc.com/2020/09/15/palihapitiya-finds-next-10x-idea-with-4point8-billion-spac-deal-for-real-estate-start-up-opendoor.html"
       },
       {
-         "content" : "U.S. stocks were indicated firmly higher early Tuesday, putting equity indexes on track for another session of gains, as the Federal Reserve is set to kick off its two-day policy meeting and as inves… [+4035 chars]",
-         "title" : "Dow aims to extend gains as investors await Apple event, fresh economic data and start of Fed meeting - MarketWatch",
-         "url" : "https://www.marketwatch.com/story/dow-futures-aim-to-extend-gains-as-investors-await-apple-event-fresh-data-and-start-of-fed-gathering-2020-09-15",
          "author" : "Mark DeCambre",
-         "publishedAt" : "2020-09-15T11:53:00Z",
+         "source" : {
+            "id" : null,
+            "name" : "MarketWatch"
+         },
+         "content" : "U.S. stocks were indicated firmly higher early Tuesday, putting equity indexes on track for another session of gains, as the Federal Reserve is set to kick off its two-day policy meeting and as inves… [+4035 chars]",
+         "url" : "https://www.marketwatch.com/story/dow-futures-aim-to-extend-gains-as-investors-await-apple-event-fresh-data-and-start-of-fed-gathering-2020-09-15",
          "description" : "Apple’s product launch event kicks off at 1 p.m. Eastern  Tuesday",
          "urlToImage" : "https://s.marketwatch.com/public/resources/images/MW-HB228_AAPLP__ZG_20190103122502.jpg",
-         "source" : {
-            "name" : "MarketWatch",
-            "id" : null
-         }
+         "title" : "Dow aims to extend gains as investors await Apple event, fresh economic data and start of Fed meeting - MarketWatch",
+         "publishedAt" : "2020-09-15T11:53:00Z"
       },
       {
-         "url" : "https://www.cnn.com/2020/09/15/business/lego-plastic-packaging/index.html",
          "author" : "Hanna Ziady, CNN Business",
-         "title" : "LEGO to phase out single-use plastic packaging - CNN",
-         "content" : null,
-         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200915044426-02-lego-single-use-plastic-super-tease.jpg",
          "source" : {
             "name" : "CNN",
             "id" : "cnn"
          },
+         "content" : null,
+         "url" : "https://www.cnn.com/2020/09/15/business/lego-plastic-packaging/index.html",
+         "description" : "The LEGO Group has announced plans to package its products in recyclable paper rather than single-use plastic.",
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200915044426-02-lego-single-use-plastic-super-tease.jpg",
          "publishedAt" : "2020-09-15T11:23:00Z",
-         "description" : "The LEGO Group has announced plans to package its products in recyclable paper rather than single-use plastic."
+         "title" : "LEGO to phase out single-use plastic packaging - CNN"
       },
       {
+         "title" : "Amazon launches Luxury Stores, an invitation-only shopping experience for high-end fashion and beauty - MarketWatch",
+         "publishedAt" : "2020-09-15T11:19:00Z",
+         "url" : "https://www.marketwatch.com/story/amazon-launches-luxury-stores-an-invitation-only-shopping-experience-for-high-end-fashion-and-beauty-2020-09-15",
+         "urlToImage" : "https://s.wsj.net/public/resources/MWimages/MW-GP644_MicroS_ZG_20180906154215.jpg",
+         "description" : "",
+         "source" : {
+            "id" : null,
+            "name" : "MarketWatch"
+         },
+         "author" : "Tonya Garcia",
+         "content" : "Amazon.com Inc. \r\n AMZN, \r\n -0.42%\r\nsaid Tuesday that it is launching Luxury Stores, a shopping experience focused on high-end fashion and beauty brands. Available in the Amazon app by invitation-onl… [+950 chars]"
+      },
+      {
+         "title" : "The 'winners will carry us' and 4 more reasons the stock bulls will prevail in 2020, according to this strategist - MarketWatch",
+         "publishedAt" : "2020-09-15T11:09:00Z",
+         "url" : "https://www.marketwatch.com/story/the-winners-will-carry-us-and-4-more-reasons-the-stock-bulls-will-prevail-in-2020-according-to-this-strategist-11600168166",
+         "description" : "Critical information for the U.S. trading day",
+         "urlToImage" : "https://images.mktw.net/im-232158/social",
+         "author" : "Barbara Kollmeyer",
          "source" : {
             "name" : "MarketWatch",
             "id" : null
          },
-         "urlToImage" : "https://s.wsj.net/public/resources/MWimages/MW-GP644_MicroS_ZG_20180906154215.jpg",
-         "description" : "",
-         "publishedAt" : "2020-09-15T11:19:00Z",
-         "title" : "Amazon launches Luxury Stores, an invitation-only shopping experience for high-end fashion and beauty - MarketWatch",
-         "author" : "Tonya Garcia",
-         "url" : "https://www.marketwatch.com/story/amazon-launches-luxury-stores-an-invitation-only-shopping-experience-for-high-end-fashion-and-beauty-2020-09-15",
-         "content" : "Amazon.com Inc. \r\n AMZN, \r\n -0.42%\r\nsaid Tuesday that it is launching Luxury Stores, a shopping experience focused on high-end fashion and beauty brands. Available in the Amazon app by invitation-onl… [+950 chars]"
+         "content" : "A strong start to the week for stocks shows no signs of backing down, as we count down to the Federal Reserve meeting outcome on Wednesday. China may be helping out for Tuesday, after reporting the f… [+4434 chars]"
       },
       {
-         "content" : "A strong start to the week for stocks shows no signs of backing down, as we count down to the Federal Reserve meeting outcome on Wednesday. China may be helping out for Tuesday, after reporting the f… [+4434 chars]",
-         "title" : "The 'winners will carry us' and 4 more reasons the stock bulls will prevail in 2020, according to this strategist - MarketWatch",
-         "url" : "https://www.marketwatch.com/story/the-winners-will-carry-us-and-4-more-reasons-the-stock-bulls-will-prevail-in-2020-according-to-this-strategist-11600168166",
-         "author" : "Barbara Kollmeyer",
-         "publishedAt" : "2020-09-15T11:09:00Z",
-         "description" : "Critical information for the U.S. trading day",
-         "urlToImage" : "https://images.mktw.net/im-232158/social",
-         "source" : {
-            "id" : null,
-            "name" : "MarketWatch"
-         }
-      },
-      {
-         "title" : "The Federal Reserve will stay on hold until 2023, according to CNBC survey - CNBC",
-         "author" : "Steve Liesman",
-         "url" : "https://www.cnbc.com/2020/09/15/the-federal-reserve-will-stay-on-hold-until-2023-according-to-cnbc-survey.html",
          "content" : "Federal Reserve Chair Jerome H. Powell during a speech on March 3, 2020 in Washington, DC.\r\nIn the first CNBC Fed Survey since the Federal Reserve announced its new, more dovish monetary policy strat… [+3887 chars]",
          "source" : {
-            "id" : null,
-            "name" : "CNBC"
+            "name" : "CNBC",
+            "id" : null
          },
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106583618-1592511455389gettyimages-1204924310.jpeg?v=1598533973",
+         "author" : "Steve Liesman",
+         "title" : "The Federal Reserve will stay on hold until 2023, according to CNBC survey - CNBC",
+         "publishedAt" : "2020-09-15T11:00:00Z",
          "description" : "The Fed will likely keep interest rates at near zero until February 2023, according to latest CNBC Fed Survey.",
-         "publishedAt" : "2020-09-15T11:00:00Z"
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106583618-1592511455389gettyimages-1204924310.jpeg?v=1598533973",
+         "url" : "https://www.cnbc.com/2020/09/15/the-federal-reserve-will-stay-on-hold-until-2023-according-to-cnbc-survey.html"
       },
       {
+         "publishedAt" : "2020-09-15T10:54:00Z",
+         "title" : "Mercedes-Benz fined $1.5 billion for emissions cheating - CBS News",
+         "description" : "The company must repair about 250,000 cars and vans it sold that don't meet emissions standards, officials said.",
          "urlToImage" : "https://cbsnews1.cbsistatic.com/hub/i/r/2019/11/13/025d4ec5-f850-4e55-920b-ae71e949a3a8/thumbnail/1200x630/cb15abc2cec4bf0dc0cd0b92b6e48a65/cars-gettyimages-1169009145.jpg",
+         "url" : "https://www.cbsnews.com/news/mercedes-benz-emissions-cheating-1-5-billion-fine-daimler/",
+         "content" : "Automaker Daimler AG and subsidiary Mercedes-Benz USA have agreed to pay $1.5 billion to the U.S. government and California state regulators to resolve allegations they cheated on emissions tests, of… [+3315 chars]",
          "source" : {
             "id" : "cbs-news",
             "name" : "CBS News"
          },
-         "publishedAt" : "2020-09-15T10:54:00Z",
-         "description" : "The company must repair about 250,000 cars and vans it sold that don't meet emissions standards, officials said.",
-         "title" : "Mercedes-Benz fined $1.5 billion for emissions cheating - CBS News",
-         "url" : "https://www.cbsnews.com/news/mercedes-benz-emissions-cheating-1-5-billion-fine-daimler/",
-         "author" : "CBS News",
-         "content" : "Automaker Daimler AG and subsidiary Mercedes-Benz USA have agreed to pay $1.5 billion to the U.S. government and California state regulators to resolve allegations they cheated on emissions tests, of… [+3315 chars]"
+         "author" : "CBS News"
       },
       {
-         "url" : "https://www.marketwatch.com/story/square-sees-covid-19-leading-to-a-significant-and-stabilizing-increase-in-cashless-transactions-2020-09-15",
-         "author" : "Tomi Kilgore",
-         "title" : "Square sees COVID-19 leading to a 'significant and stabilizing' increase in cashless transactions - MarketWatch",
-         "content" : "Square Inc. \r\n SQ, \r\n +5.05%\r\nsaid Tuesday that the share of transactions made in cash was 33.3% as of Aug. 1, down from 40.6% at the same time a year ago. Using 2019 as a baseline indicator, the pay… [+917 chars]",
+         "description" : "",
          "urlToImage" : "https://s.wsj.net/public/resources/MWimages/MW-GP644_MicroS_ZG_20180906154215.jpg",
-         "source" : {
-            "id" : null,
-            "name" : "MarketWatch"
-         },
+         "url" : "https://www.marketwatch.com/story/square-sees-covid-19-leading-to-a-significant-and-stabilizing-increase-in-cashless-transactions-2020-09-15",
+         "title" : "Square sees COVID-19 leading to a 'significant and stabilizing' increase in cashless transactions - MarketWatch",
          "publishedAt" : "2020-09-15T10:18:00Z",
-         "description" : ""
+         "content" : "Square Inc. \r\n SQ, \r\n +5.05%\r\nsaid Tuesday that the share of transactions made in cash was 33.3% as of Aug. 1, down from 40.6% at the same time a year ago. Using 2019 as a baseline indicator, the pay… [+917 chars]",
+         "author" : "Tomi Kilgore",
+         "source" : {
+            "name" : "MarketWatch",
+            "id" : null
+         }
       },
       {
-         "author" : "Reuters",
-         "url" : "https://www.foxbusiness.com/economy/wealthy-americans-coronavirus-holiday-sales-deloitte",
-         "title" : "America's wealthy likely to power coronavirus-hit holiday sales: Deloitte - Fox Business",
          "content" : "(Reuters) - The wealthy in America are expected to splurge online for gifts and home decorations this holiday season, even as the COVID-19 pandemic erodes sales growth to the slowest in at least a de… [+2525 chars]",
          "source" : {
             "id" : null,
             "name" : "Fox Business"
          },
+         "author" : "Reuters",
+         "publishedAt" : "2020-09-15T10:17:30Z",
+         "title" : "America's wealthy likely to power coronavirus-hit holiday sales: Deloitte - Fox Business",
          "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/07/0/0/Facemask-Buying-Clothes-iStock-1.jpg?ve=1&tl=1",
          "description" : "The wealthy in America are expected to splurge online for gifts and home decorations this holiday season, even as the COVID-19 pandemic erodes sales growth to the slowest in at least a decade, according to a forecast from Deloitte.",
-         "publishedAt" : "2020-09-15T10:17:30Z"
+         "url" : "https://www.foxbusiness.com/economy/wealthy-americans-coronavirus-holiday-sales-deloitte"
       },
       {
-         "publishedAt" : "2020-09-15T10:11:00Z",
+         "content" : "CEO Elon Musk is teasing a fix to Tesla’s longstanding issue with its 12-volt batteries not lasting long inside its vehicles and more to come regarding the electric architecture.\r\nLike in most cars, … [+2713 chars]",
+         "source" : {
+            "id" : null,
+            "name" : "Electrek"
+         },
+         "author" : null,
          "description" : "CEO Elon Musk is teasing a fix to Tesla’s longstanding issue with its 12-volt batteries not lasting long inside its vehicles and more to come regarding the electric architecture. Like in most cars, the 12-volt battery system in Tesla vehicles powers the light…",
          "urlToImage" : "https://electrek.co/wp-content/uploads/sites/3/2020/09/Tesla-12-volt-battery-warning.jpg?quality=82&strip=all",
-         "source" : {
-            "name" : "Electrek",
-            "id" : null
-         },
-         "content" : "CEO Elon Musk is teasing a fix to Tesla’s longstanding issue with its 12-volt batteries not lasting long inside its vehicles and more to come regarding the electric architecture.\r\nLike in most cars, … [+2713 chars]",
          "url" : "https://electrek.co/2020/09/15/tesla-fix-dying-12v-batteries-software-update-musk/",
-         "author" : null,
+         "publishedAt" : "2020-09-15T10:11:00Z",
          "title" : "Tesla to fix rapidly dying 12v batteries with software update, Musk teases more to come - Electrek.co"
       },
       {
-         "title" : "Venus de Milo banqueting hall listed for sale - WJAR",
-         "author" : "NBC 10 NEWS",
-         "url" : "http://turnto10.com/news/local/venus-de-milo-banqueting-hall-listed-for-sale",
          "content" : null,
+         "author" : "NBC 10 NEWS",
          "source" : {
-            "id" : null,
-            "name" : "Turn to 10"
-         },
-         "urlToImage" : "http://static-23.sinclairstoryline.com/resources/media/1035930e-720d-4e5f-ace8-e52f961e9fc8-large16x9_VENUSDEMILOSALE.transfer_frame_0.jpg?1600164543838",
-         "description" : "It's the end of an era in Swansea. TheVenus De Milo banqueting hall is for sale. MG Commercial Real Estate has the listing on its website, and details of the sale are expected later Tuesday. Venus de Milo is listed at $4. 75 million. \"This site could be a red…",
-         "publishedAt" : "2020-09-15T10:09:00Z"
-      },
-      {
-         "url" : "https://www.fool.com/retirement/2020/09/15/heres-why-62-is-the-perfect-age-to-claim-social-se/",
-         "author" : "Maurie Backman",
-         "title" : "Here's Why 62 Is the Perfect Age to Claim Social Security - The Motley Fool",
-         "content" : "You have choices when it comes to claiming Social Security. Your full monthly benefit, which is calculated based on your personal earnings history, is yours to collect once you reach what's known as … [+2785 chars]",
-         "urlToImage" : "https://g.foolcdn.com/editorial/images/591125/senior-man-blowing-out-candles_.jpg",
-         "source" : {
-            "name" : "Motley Fool",
+            "name" : "Turn to 10",
             "id" : null
          },
-         "publishedAt" : "2020-09-15T10:04:00Z",
-         "description" : "You get an eight-year window to sign up for benefits, but here's why you may want to file as early as you possibly can."
+         "publishedAt" : "2020-09-15T10:09:00Z",
+         "title" : "Venus de Milo banqueting hall listed for sale - WJAR",
+         "description" : "It's the end of an era in Swansea. TheVenus De Milo banqueting hall is for sale. MG Commercial Real Estate has the listing on its website, and details of the sale are expected later Tuesday. Venus de Milo is listed at $4. 75 million. \"This site could be a red…",
+         "urlToImage" : "http://static-23.sinclairstoryline.com/resources/media/1035930e-720d-4e5f-ace8-e52f961e9fc8-large16x9_VENUSDEMILOSALE.transfer_frame_0.jpg?1600164543838",
+         "url" : "http://turnto10.com/news/local/venus-de-milo-banqueting-hall-listed-for-sale"
       },
       {
-         "url" : "https://www.cnbc.com/2020/09/15/bill-gates-doesnt-expect-a-coronavirus-vaccine-before-year-end.html",
-         "author" : "Natasha Turak",
+         "urlToImage" : "https://g.foolcdn.com/editorial/images/591125/senior-man-blowing-out-candles_.jpg",
+         "description" : "You get an eight-year window to sign up for benefits, but here's why you may want to file as early as you possibly can.",
+         "url" : "https://www.fool.com/retirement/2020/09/15/heres-why-62-is-the-perfect-age-to-claim-social-se/",
+         "title" : "Here's Why 62 Is the Perfect Age to Claim Social Security - The Motley Fool",
+         "publishedAt" : "2020-09-15T10:04:00Z",
+         "content" : "You have choices when it comes to claiming Social Security. Your full monthly benefit, which is calculated based on your personal earnings history, is yours to collect once you reach what's known as … [+2785 chars]",
+         "author" : "Maurie Backman",
+         "source" : {
+            "id" : null,
+            "name" : "Motley Fool"
+         }
+      },
+      {
          "title" : "Bill Gates doesn't expect a virus vaccine before year-end — but he says one drugmaker has the best chance - CNBC",
-         "content" : "Bill Gates addresses a virtual Covid-19 conference hosted by the International Aids Society. July 11, 2020\r\nBill Gates doesn't believe any of the coronavirus vaccines in development are likely to see… [+4548 chars]",
+         "publishedAt" : "2020-09-15T09:16:00Z",
+         "url" : "https://www.cnbc.com/2020/09/15/bill-gates-doesnt-expect-a-coronavirus-vaccine-before-year-end.html",
          "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106612131-1594502484752gatescreengrab.jpg?v=1594503324",
+         "description" : "\"We do see good antibody levels both in the phase one and the phase two (trials), so we're pretty hopeful,\" Gates told CNBC.",
+         "author" : "Natasha Turak",
          "source" : {
             "id" : null,
             "name" : "CNBC"
          },
-         "publishedAt" : "2020-09-15T09:16:00Z",
-         "description" : "\"We do see good antibody levels both in the phase one and the phase two (trials), so we're pretty hopeful,\" Gates told CNBC."
+         "content" : "Bill Gates addresses a virtual Covid-19 conference hosted by the International Aids Society. July 11, 2020\r\nBill Gates doesn't believe any of the coronavirus vaccines in development are likely to see… [+4548 chars]"
       },
       {
-         "content" : "Adar Poonawalla, the chief executive officer of the world’s largest vaccine manufacturer, said in an interview Monday that the world will likely have to wait until the end of 2024 for total inoculati… [+1052 chars]",
-         "title" : "No coronavirus vaccine for entire world until 2024... at best: CEO of producer - Fox Business",
-         "url" : "https://www.foxbusiness.com/healthcare/no-coronavirus-vaccine-for-entire-world-until-2024-at-best-ceo-of-producer",
          "author" : "Edmund DeMarche",
-         "publishedAt" : "2020-09-15T08:56:52Z",
-         "description" : "",
-         "urlToImage" : "https://a57.foxnews.com/media.foxbusiness.com/BrightCove/854081161001/202009/3376/0/0/854081161001_6189106130001_6189110442001-vs.jpg?ve=1&tl=1",
          "source" : {
-            "name" : "Fox Business",
-            "id" : null
-         }
+            "id" : null,
+            "name" : "Fox Business"
+         },
+         "content" : "Adar Poonawalla, the chief executive officer of the world’s largest vaccine manufacturer, said in an interview Monday that the world will likely have to wait until the end of 2024 for total inoculati… [+1052 chars]",
+         "url" : "https://www.foxbusiness.com/healthcare/no-coronavirus-vaccine-for-entire-world-until-2024-at-best-ceo-of-producer",
+         "urlToImage" : "https://a57.foxnews.com/media.foxbusiness.com/BrightCove/854081161001/202009/3376/0/0/854081161001_6189106130001_6189110442001-vs.jpg?ve=1&tl=1",
+         "description" : "",
+         "title" : "No coronavirus vaccine for entire world until 2024... at best: CEO of producer - Fox Business",
+         "publishedAt" : "2020-09-15T08:56:52Z"
       },
       {
-         "content" : "At about 6 a.m. on March 19, William Wright, a retired Australian mortgage broker, woke up feeling a little off. He had a cough and his nose was running, though it didn’t seem too bad. In any case, t… [+33130 chars]",
-         "title" : "Carnival's Ruby Princess Cruise Ship Spread Coronavirus Around the World - Bloomberg",
-         "author" : "Matthew Campbell",
-         "url" : "https://www.bloomberg.com/news/features/2020-09-15/carnival-s-ruby-princess-cruise-ship-spread-coronavirus-around-the-world",
-         "description" : "How were hundreds of infected Ruby Princess passengers allowed to disembark in Sydney and return to homes from Tasmania to Florida?",
          "publishedAt" : "2020-09-15T08:00:00Z",
+         "title" : "Carnival's Ruby Princess Cruise Ship Spread Coronavirus Around the World - Bloomberg",
+         "url" : "https://www.bloomberg.com/news/features/2020-09-15/carnival-s-ruby-princess-cruise-ship-spread-coronavirus-around-the-world",
+         "urlToImage" : "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iU1vwURFTA4o/v0/1200x630.jpg",
+         "description" : "How were hundreds of infected Ruby Princess passengers allowed to disembark in Sydney and return to homes from Tasmania to Florida?",
+         "author" : "Matthew Campbell",
          "source" : {
             "name" : "Bloomberg",
             "id" : "bloomberg"
          },
-         "urlToImage" : "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iU1vwURFTA4o/v0/1200x630.jpg"
+         "content" : "At about 6 a.m. on March 19, William Wright, a retired Australian mortgage broker, woke up feeling a little off. He had a cough and his nose was running, though it didn’t seem too bad. In any case, t… [+33130 chars]"
       },
       {
-         "title" : "Stimulus check: Who counts as a dependent for your taxes and how much money could you get? - CNET",
          "url" : "https://www.cnet.com/personal-finance/stimulus-check-who-counts-as-a-dependent-for-your-taxes-and-how-much-money-could-you-get/",
-         "author" : "Alison DeNisco Rayome",
-         "content" : "If you claimed dependents on your 2019 tax return, you should have received $500 per dependent in the first round of stimulus checks.\r\nSarah Tew/CNET\r\nThe rules for who qualified as a dependent for t… [+6092 chars]",
          "urlToImage" : "https://cnet2.cbsistatic.com/img/ty0Y93s1zZ2ZwxFNuUGyJc_ggBk=/1200x630/2020/08/05/41e83ec2-3e5c-46ff-9dc3-c0504de533ed/piggy-bank-savings-money-cash-stimulus-payments-personal-finance-009.jpg",
-         "source" : {
-            "id" : null,
-            "name" : "CNET"
-         },
+         "description" : "If a second round of stimulus payments gets approved, you could be eligible for more money based on your dependents. Here's how to find out.",
          "publishedAt" : "2020-09-15T07:00:12Z",
-         "description" : "If a second round of stimulus payments gets approved, you could be eligible for more money based on your dependents. Here's how to find out."
+         "title" : "Stimulus check: Who counts as a dependent for your taxes and how much money could you get? - CNET",
+         "source" : {
+            "name" : "CNET",
+            "id" : null
+         },
+         "author" : "Alison DeNisco Rayome",
+         "content" : "If you claimed dependents on your 2019 tax return, you should have received $500 per dependent in the first round of stimulus checks.\r\nSarah Tew/CNET\r\nThe rules for who qualified as a dependent for t… [+6092 chars]"
       },
       {
          "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106646833-15965415672020-08-03t101755z_1794012163_rc2a6i9yj9yc_rtrmadp_0_usa-tiktok.jpeg?v=1596542482",
-         "source" : {
-            "name" : "CNBC",
-            "id" : null
-         },
-         "publishedAt" : "2020-09-15T07:00:00Z",
          "description" : "Over 22 million creators made more than 41.7 billion yuan ($6.15 billion) on the platform over the past year, ByteDance China CEO Kelly Zhang said at the Douyin Creator Conference in Shanghai.",
          "url" : "https://www.cnbc.com/2020/09/15/bytedance-douyin-has-600-million-daily-active-users.html",
-         "author" : "Saheli Roy Choudhury",
+         "publishedAt" : "2020-09-15T07:00:00Z",
          "title" : "The Chinese version of TikTok now has 600 million daily active users - CNBC",
-         "content" : "TikTok logos are seen on smartphones in front of a displayed ByteDance logo in this illustration taken November 27, 2019.\r\nSINGAPORE Douyin, the Chinese version of the popular short-video sharing app… [+2425 chars]"
+         "content" : "TikTok logos are seen on smartphones in front of a displayed ByteDance logo in this illustration taken November 27, 2019.\r\nSINGAPORE Douyin, the Chinese version of the popular short-video sharing app… [+2425 chars]",
+         "source" : {
+            "id" : null,
+            "name" : "CNBC"
+         },
+         "author" : "Saheli Roy Choudhury"
       },
       {
-         "description" : "New York Mayor Bill de Blasio summarily cancelled the annual Macy's Day Parade on Thanksgiving this year, citing coronavirus concerns, but continues to ignore left-wing activism that itself violates City Hall's own mitigation edicts, \"City Journal\" associate …",
-         "publishedAt" : "2020-09-15T05:18:56Z",
+         "content" : "New York Mayor Bill de Blasio summarily canceled the annual Macy's Day Parade on Thanksgiving this year, citing coronavirus concerns, but ignores left-wing activists who violate City Hall's own mitig… [+1837 chars]",
+         "author" : "Charles Creitz",
          "source" : {
             "name" : "Fox News",
             "id" : "fox-news"
          },
+         "publishedAt" : "2020-09-15T05:18:56Z",
+         "title" : "De Blasio cancels Macy's parade because attendees 'obey the law’: Seth Barron - Fox News",
          "urlToImage" : "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/de-blasio-presser-schools-sept-1-1.jpg",
-         "content" : "New York Mayor Bill de Blasio summarily canceled the annual Macy's Day Parade on Thanksgiving this year, citing coronavirus concerns, but ignores left-wing activists who violate City Hall's own mitig… [+1837 chars]",
-         "author" : "Charles Creitz",
-         "url" : "https://www.foxnews.com/media/seth-barron-de-blasio-cancels-macys-parade-because-attendees-obey-the-law-ignores-antifascist-raves-in-washington-square",
-         "title" : "De Blasio cancels Macy's parade because attendees 'obey the law’: Seth Barron - Fox News"
+         "description" : "New York Mayor Bill de Blasio summarily cancelled the annual Macy's Day Parade on Thanksgiving this year, citing coronavirus concerns, but continues to ignore left-wing activism that itself violates City Hall's own mitigation edicts, \"City Journal\" associate …",
+         "url" : "https://www.foxnews.com/media/seth-barron-de-blasio-cancels-macys-parade-because-attendees-obey-the-law-ignores-antifascist-raves-in-washington-square"
       },
       {
          "content" : "Facebook on Monday night announced it will launch a new information hub to provide its users with \"science-based information\" about climate change. It said a link to the hub will appear when people s… [+1665 chars]",
-         "title" : "Facebook says it will fight climate change myths with new information hub - CNBC",
-         "url" : "https://www.cnbc.com/2020/09/15/facebook-climate-change-hub-to-fight-misinformation.html",
-         "author" : "Salvador Rodriguez",
-         "publishedAt" : "2020-09-15T05:00:00Z",
-         "description" : "Facebook will launch a new section to provide its users with \"science-based information\" about climate change, the company announced Monday night.",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106393334-1581781385829gettyimages-1200868350.jpeg?v=1581781522",
          "source" : {
-            "id" : null,
-            "name" : "CNBC"
-         }
-      },
-      {
-         "source" : {
-            "name" : "KUTV 2News",
+            "name" : "CNBC",
             "id" : null
          },
+         "author" : "Salvador Rodriguez",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106393334-1581781385829gettyimages-1200868350.jpeg?v=1581781522",
+         "description" : "Facebook will launch a new section to provide its users with \"science-based information\" about climate change, the company announced Monday night.",
+         "url" : "https://www.cnbc.com/2020/09/15/facebook-climate-change-hub-to-fight-misinformation.html",
+         "title" : "Facebook says it will fight climate change myths with new information hub - CNBC",
+         "publishedAt" : "2020-09-15T05:00:00Z"
+      },
+      {
+         "author" : "Jeremy Harris",
+         "source" : {
+            "id" : null,
+            "name" : "KUTV 2News"
+         },
+         "content" : null,
+         "url" : "http://kutv.com/news/local/final-passengers-arrive-at-the-slc-international-new-airport-ready-to-open",
          "urlToImage" : "http://static-35.sinclairstoryline.com/resources/media/368d19eb-11d9-4228-9a29-a57f8c81cd30-large16x9_lastnightofoldslcairport091420kutv6.PNG?1600145020523",
          "description" : "The Salt Lake City International Airport will transition overnight from the current facilities to a brand new airport that has been in the works for decades.      Caption: KUTV: Jeremy Harris reports    The new SLC International is adjacent to the existing ai…",
-         "publishedAt" : "2020-09-15T04:46:29Z",
          "title" : "Final passengers arrive at the SLC international, new airport ready to open - KUTV 2News",
-         "author" : "Jeremy Harris",
-         "url" : "http://kutv.com/news/local/final-passengers-arrive-at-the-slc-international-new-airport-ready-to-open",
-         "content" : null
+         "publishedAt" : "2020-09-15T04:46:29Z"
       }
-   ],
-   "status" : "ok"
+   ]
 }
