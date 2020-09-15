@@ -1,266 +1,266 @@
 {
+   "status" : "ok",
    "articles" : [
       {
          "source" : {
             "name" : "Fox Business",
             "id" : null
          },
-         "author" : "Brittany De Lea",
          "publishedAt" : "2020-09-15T10:19:17Z",
-         "description" : "Cost of living adjustments are implemented in order to counteract the effects of inflation.",
-         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/07/0/0/Social-Security-Coronavirus.jpg?ve=1&tl=1",
-         "url" : "https://www.foxbusiness.com/personal-finance/social-security-cola-2021-estimate",
+         "author" : "Brittany De Lea",
          "title" : "Social Security benefits in 2021: How much your check is likely to increase next year - Fox Business",
-         "content" : "Social Security is a hot topic heading into the November election – and the Social Security Administration is likely to announce a slight increase in monthly checks for beneficiaries next year shortl… [+2954 chars]"
+         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/07/0/0/Social-Security-Coronavirus.jpg?ve=1&tl=1",
+         "description" : "Cost of living adjustments are implemented in order to counteract the effects of inflation.",
+         "content" : "Social Security is a hot topic heading into the November election – and the Social Security Administration is likely to announce a slight increase in monthly checks for beneficiaries next year shortl… [+2954 chars]",
+         "url" : "https://www.foxbusiness.com/personal-finance/social-security-cola-2021-estimate"
       },
       {
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106612131-1594502484752gatescreengrab.jpg?v=1594503324",
+         "content" : "Bill Gates addresses a virtual Covid-19 conference hosted by the International Aids Society. July 11, 2020\r\nBill Gates doesn't believe any of the coronavirus vaccines in development are likely to see… [+4548 chars]",
          "description" : "\"We do see good antibody levels both in the phase one and the phase two (trials), so we're pretty hopeful,\" Gates told CNBC.",
-         "publishedAt" : "2020-09-15T09:16:00Z",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106612131-1594502484752gatescreengrab.jpg?v=1594503324",
+         "url" : "https://www.cnbc.com/2020/09/15/bill-gates-doesnt-expect-a-coronavirus-vaccine-before-year-end.html",
          "source" : {
             "id" : null,
             "name" : "CNBC"
          },
-         "author" : "Natasha Turak",
-         "content" : "Bill Gates addresses a virtual Covid-19 conference hosted by the International Aids Society. July 11, 2020\r\nBill Gates doesn't believe any of the coronavirus vaccines in development are likely to see… [+4548 chars]",
+         "publishedAt" : "2020-09-15T09:16:00Z",
          "title" : "Bill Gates doesn't expect a virus vaccine before year-end — but he says one drugmaker has the best chance - CNBC",
-         "url" : "https://www.cnbc.com/2020/09/15/bill-gates-doesnt-expect-a-coronavirus-vaccine-before-year-end.html"
+         "author" : "Natasha Turak"
       },
       {
-         "publishedAt" : "2020-09-15T08:56:52Z",
+         "url" : "https://www.foxbusiness.com/healthcare/no-coronavirus-vaccine-for-entire-world-until-2024-at-best-ceo-of-producer",
+         "content" : "Adar Poonawalla, the chief executive officer of the world’s largest vaccine manufacturer, said in an interview Monday that the world will likely have to wait until the end of 2024 for total inoculati… [+1052 chars]",
          "description" : "",
          "urlToImage" : "https://a57.foxnews.com/media.foxbusiness.com/BrightCove/854081161001/202009/3376/0/0/854081161001_6189106130001_6189110442001-vs.jpg?ve=1&tl=1",
-         "source" : {
-            "id" : null,
-            "name" : "Fox Business"
-         },
          "author" : "Edmund DeMarche",
-         "content" : "Adar Poonawalla, the chief executive officer of the world’s largest vaccine manufacturer, said in an interview Monday that the world will likely have to wait until the end of 2024 for total inoculati… [+1052 chars]",
          "title" : "No coronavirus vaccine for entire world until 2024... at best: CEO of producer - Fox Business",
-         "url" : "https://www.foxbusiness.com/healthcare/no-coronavirus-vaccine-for-entire-world-until-2024-at-best-ceo-of-producer"
-      },
-      {
-         "content" : "LONDON The International Energy Agency on Tuesday cut its forecast for 2020 oil demand growth, citing a \"treacherous\" path ahead amid weakening market sentiment and an upsurge in the number of corona… [+2788 chars]",
-         "title" : "IEA cuts 2020 oil demand forecast, sees 'treacherous' path ahead with rising coronavirus cases - CNBC",
-         "url" : "https://www.cnbc.com/2020/09/15/oil-prices-iea-cuts-2020-demand-outlook-amid-rising-coronavirus-cases.html",
-         "source" : {
-            "name" : "CNBC",
-            "id" : null
-         },
-         "author" : "Sam Meredith",
-         "description" : "The IEA on Tuesday cut its forecast for 2020 oil demand growth, citing a \"treacherous\" path ahead amid weakening market sentiment.",
-         "publishedAt" : "2020-09-15T08:39:00Z",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/105565876-1541791814886gettyimages-588166060.jpeg?v=1587375246"
-      },
-      {
-         "author" : "Charles Creitz",
-         "source" : {
-            "name" : "Fox News",
-            "id" : "fox-news"
-         },
-         "urlToImage" : "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/de-blasio-presser-schools-sept-1-1.jpg",
-         "publishedAt" : "2020-09-15T05:18:56Z",
-         "description" : "New York Mayor Bill de Blasio summarily cancelled the annual Macy's Day Parade on Thanksgiving this year, citing coronavirus concerns, but continues to ignore left-wing activism that itself violates City Hall's own mitigation edicts, \"City Journal\" associate …",
-         "url" : "https://www.foxnews.com/media/seth-barron-de-blasio-cancels-macys-parade-because-attendees-obey-the-law-ignores-antifascist-raves-in-washington-square",
-         "title" : "De Blasio cancels Macy's parade because attendees 'obey the law’: Seth Barron - Fox News",
-         "content" : "New York Mayor Bill de Blasio summarily canceled the annual Macy's Day Parade on Thanksgiving this year, citing coronavirus concerns, but ignores left-wing activists who violate City Hall's own mitig… [+1837 chars]"
-      },
-      {
-         "description" : "Facebook will launch a new section to provide its users with \"science-based information\" about climate change, the company announced Monday night.",
-         "publishedAt" : "2020-09-15T05:00:00Z",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106393334-1581781385829gettyimages-1200868350.jpeg?v=1581781522",
-         "source" : {
-            "name" : "CNBC",
-            "id" : null
-         },
-         "author" : "Salvador Rodriguez",
-         "content" : "Facebook on Monday night announced it will launch a new information hub to provide its users with \"science-based information\" about climate change. It said a link to the hub will appear when people s… [+1665 chars]",
-         "title" : "Facebook says it will fight climate change myths with new information hub - CNBC",
-         "url" : "https://www.cnbc.com/2020/09/15/facebook-climate-change-hub-to-fight-misinformation.html"
-      },
-      {
-         "title" : "With Nissan’s Carlos Ghosn Gone, Greg Kelly Faces Trial Alone - The New York Times",
-         "url" : "https://www.nytimes.com/2020/09/14/business/nissan-ghosn-kelly.html",
-         "content" : "Already a household name in Japan when he was arrested, Mr. Ghosn added to his notoriety by hiring private security contractors to lead a daring escape in late December from his home in Tokyo to Leba… [+1850 chars]",
-         "author" : "Ben Dooley",
-         "source" : {
-            "id" : null,
-            "name" : "New York Times"
-         },
-         "urlToImage" : "https://static01.nyt.com/images/2020/09/15/world/15japan-kelly-1/15japan-kelly-1-facebookJumbo.jpg",
-         "description" : "Japanese prosecutors say the former car executive helped Ghosn conceal his pay. For the world, the country’s court system itself could face judgment.",
-         "publishedAt" : "2020-09-15T03:52:00Z"
-      },
-      {
-         "source" : {
-            "id" : null,
-            "name" : "CNET"
-         },
-         "author" : "Clifford Colby",
-         "urlToImage" : "https://cnet2.cbsistatic.com/img/6Wzv9_5m6OSNZudDHF32z0l1Brw=/1200x630/2020/07/25/da2405b0-1d07-4bf3-952f-73a683931934/money-bills-dollars-recession-stimulus-cash-4376.jpg",
-         "publishedAt" : "2020-09-15T03:00:00Z",
-         "description" : "Here's how much money to expect if a new round of direct payments gets sent out in 2020.",
-         "content" : "We help you calculate the maximum amount that could end up in your pocket if another stimulus payment comes your way.\r\nAngela Lang/CNET\r\nIf Congress restarts talks to pass a stimulus bill before the … [+6365 chars]",
-         "title" : "Stimulus check money: You and your family could receive $1,200 or more with an additional relief payment - CNET",
-         "url" : "https://www.cnet.com/personal-finance/stimulus-check-money-you-and-your-family-could-receive-1200-or-more-with-an-additional-relief-payment/"
-      },
-      {
-         "source" : {
-            "id" : null,
-            "name" : "Minneapolis Star Tribune"
-         },
-         "author" : "Patrick Kennedy",
-         "publishedAt" : "2020-09-15T02:37:30Z",
-         "description" : "About 525 workers could move in fall 2021 to the 801 Marquette Building.",
-         "urlToImage" : "https://stmedia.stimg.co/ows_5f8a3852-263c-4f56-b3b5-84b75c93a951.jpg?h=630&w=1200&fit=crop&bg=999&crop=faces",
-         "content" : "Deluxe Corp. is moving its corporate headquarters from Shoreview to downtown Minneapolis, one of several bold moves as the company continues to evolve from its historic check-printing business to a m… [+5260 chars]",
-         "title" : "Deluxe moving its headquarters from Shoreview to downtown Minneapolis - Minneapolis Star Tribune",
-         "url" : "https://www.startribune.com/deluxe-moving-its-headquarters-to-downtown-mpls-from-shoreview/572408782/"
-      },
-      {
-         "urlToImage" : "https://d.newsweek.com/en/full/1636179/chick-fil-restaurant.jpg",
-         "description" : "Chick-fil-A is unlikely to open a restaurant at the San Antonio International Airport any time soon, despite a Monday announcement from the FAA that a sanction had been lifted.",
-         "publishedAt" : "2020-09-15T02:37:13Z",
-         "source" : {
-            "name" : "Newsweek",
-            "id" : "newsweek"
-         },
-         "author" : "Aila Slisco",
-         "content" : "Fast food chain Chick-fil-A has no plans to open a restaurant at the San Antonio International Airport despite being given the opportunity after city officials reached a deal with federal authorities… [+2916 chars]",
-         "title" : "Feds Lift Texas Airport's Ban of Chick-fil-A, Then This Happened - Newsweek",
-         "url" : "https://www.newsweek.com/feds-lift-texas-airports-ban-chick-fil-then-this-happened-1531857"
-      },
-      {
-         "content" : "Nikola is defending itself against claims that its plans to build electric big rigs are an “intricate fraud.” The charges came a few days ago in a report published by short-selling firm Hindenburg Re… [+1074 chars]",
-         "url" : "https://www.engadget.com/nikola-ev-short-selling-012546201.html",
-         "title" : "The SEC is reportedly looking into Nikola's electric truck promises - Engadget",
-         "author" : "",
-         "source" : {
-            "id" : "engadget",
-            "name" : "Engadget"
-         },
-         "publishedAt" : "2020-09-15T02:20:53Z",
-         "description" : "A short selling firm accused electric big rig startup Nikola of being an \"intricate fraud\" and now the SEC is reportedly investigating.",
-         "urlToImage" : "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-09%2F16790590-f6f2-11ea-a7cf-34ed53d2ec36&client=amp-blogside-v2&signature=62ab011a80342972695a5fd4dda04dcc7ae757f2"
-      },
-      {
-         "urlToImage" : "https://news.bitcoin.com/wp-content/uploads/2020/09/macroeconomic-trends-boost-bitcoin-and-gold-us-dollar-index-shows-bearish-double-top.jpg",
-         "description" : "Technical analysis shows the dollar’s trade-weighted index chart indicates the USD might be in for a gigantic slide in value.",
-         "publishedAt" : "2020-09-15T02:20:42Z",
-         "source" : {
-            "name" : "Bitcoin.com",
-            "id" : null
-         },
-         "author" : null,
-         "title" : "Macroeconomic Trends Boost Bitcoin and Gold, US Dollar Index Shows Bearish Double-Top | Economics - Bitcoin News",
-         "url" : "https://news.bitcoin.com/macroeconomic-trends-boost-bitcoin-and-gold-us-dollar-index-shows-bearish-double-top/",
-         "content" : "According to a number of reports and commentary from financial analysts, the world is “drowning in U.S. dollars” after the Federal Reserve decided to pump billions of dollars into the hands of 14 cen… [+4738 chars]"
-      },
-      {
-         "description" : "Chinese consumers stepped up their spending in August, in a sign of further economic recovery from the shock of the coronavirus pandemic.",
-         "publishedAt" : "2020-09-15T02:05:00Z",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106702103-1600136314180-gettyimages-1228036918-AFP_1WH96H.jpeg?v=1600136094",
-         "author" : "Evelyn Cheng",
-         "source" : {
-            "name" : "CNBC",
-            "id" : null
-         },
-         "url" : "https://www.cnbc.com/2020/09/15/chinas-retail-sales-rise-for-the-first-time-in-2020.html",
-         "title" : "China’s retail sales rise for the first time in 2020 - CNBC",
-         "content" : "BEIJING Chinese consumers stepped up their spending in August, in a sign of further economic recovery from the shock of the coronavirus pandemic.\r\nRetail sales rose 0.5% in August from a year ago, th… [+1986 chars]"
-      },
-      {
-         "url" : "https://www.foxbusiness.com/industrials/warren-buffetts-railroad-names-kathryn-farmer-to-be-1st-female-ceo-of-a-major-u-s-railroad",
-         "title" : "Warren Buffett's railroad names Kathryn Farmer to be 1st female CEO of a major U.S. railroad - Fox Business",
-         "content" : "BNSF Railway, one of the largest railroad operators in North America and owned by Berkshire Hathaway Inc  said on Monday it appointed Kathryn Farmer as its chief executive officer, replacing Carl Ice… [+944 chars]",
-         "publishedAt" : "2020-09-15T01:15:03Z",
-         "description" : "BNSF Railway, one of the largest railroad operators in North America and owned by Berkshire Hathaway Inc, said on Monday it appointed Kathryn Farmer as its chief executive officer,",
-         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/09/0/0/BNSF-New-CEO.jpg?ve=1&tl=1",
-         "author" : "Reuters",
+         "publishedAt" : "2020-09-15T08:56:52Z",
          "source" : {
             "id" : null,
             "name" : "Fox Business"
          }
       },
       {
-         "content" : "TikTok has been targeted by the Trump administration because of it's owned by Chinese tech company ByteDance.\r\nAngela Lang/CNET\r\nAustin Benji chimed in on TikTok after news broke on Sunday that Oracl… [+6446 chars]",
-         "title" : "TikTok users rejoice over Oracle deal, but saga with Trump isn't over - CNET",
-         "url" : "https://www.cnet.com/news/tiktok-users-rejoice-over-oracle-deal-but-saga-with-trump-isnt-over/",
+         "author" : "Sam Meredith",
+         "title" : "IEA cuts 2020 oil demand forecast, sees 'treacherous' path ahead with rising coronavirus cases - CNBC",
+         "publishedAt" : "2020-09-15T08:39:00Z",
+         "source" : {
+            "id" : null,
+            "name" : "CNBC"
+         },
+         "url" : "https://www.cnbc.com/2020/09/15/oil-prices-iea-cuts-2020-demand-outlook-amid-rising-coronavirus-cases.html",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/105565876-1541791814886gettyimages-588166060.jpeg?v=1587375246",
+         "description" : "The IEA on Tuesday cut its forecast for 2020 oil demand growth, citing a \"treacherous\" path ahead amid weakening market sentiment.",
+         "content" : "LONDON The International Energy Agency on Tuesday cut its forecast for 2020 oil demand growth, citing a \"treacherous\" path ahead amid weakening market sentiment and an upsurge in the number of corona… [+2788 chars]"
+      },
+      {
+         "author" : "Charles Creitz",
+         "title" : "De Blasio cancels Macy's parade because attendees 'obey the law’: Seth Barron - Fox News",
+         "publishedAt" : "2020-09-15T05:18:56Z",
+         "source" : {
+            "id" : "fox-news",
+            "name" : "Fox News"
+         },
+         "url" : "https://www.foxnews.com/media/seth-barron-de-blasio-cancels-macys-parade-because-attendees-obey-the-law-ignores-antifascist-raves-in-washington-square",
+         "content" : "New York Mayor Bill de Blasio summarily canceled the annual Macy's Day Parade on Thanksgiving this year, citing coronavirus concerns, but ignores left-wing activists who violate City Hall's own mitig… [+1837 chars]",
+         "description" : "New York Mayor Bill de Blasio summarily cancelled the annual Macy's Day Parade on Thanksgiving this year, citing coronavirus concerns, but continues to ignore left-wing activism that itself violates City Hall's own mitigation edicts, \"City Journal\" associate …",
+         "urlToImage" : "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/de-blasio-presser-schools-sept-1-1.jpg"
+      },
+      {
+         "description" : "Facebook will launch a new section to provide its users with \"science-based information\" about climate change, the company announced Monday night.",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106393334-1581781385829gettyimages-1200868350.jpeg?v=1581781522",
+         "content" : "Facebook on Monday night announced it will launch a new information hub to provide its users with \"science-based information\" about climate change. It said a link to the hub will appear when people s… [+1665 chars]",
+         "url" : "https://www.cnbc.com/2020/09/15/facebook-climate-change-hub-to-fight-misinformation.html",
+         "source" : {
+            "name" : "CNBC",
+            "id" : null
+         },
+         "publishedAt" : "2020-09-15T05:00:00Z",
+         "title" : "Facebook says it will fight climate change myths with new information hub - CNBC",
+         "author" : "Salvador Rodriguez"
+      },
+      {
+         "source" : {
+            "id" : null,
+            "name" : "New York Times"
+         },
+         "author" : "Ben Dooley",
+         "title" : "With Nissan’s Carlos Ghosn Gone, Greg Kelly Faces Trial Alone - The New York Times",
+         "publishedAt" : "2020-09-15T03:52:00Z",
+         "url" : "https://www.nytimes.com/2020/09/14/business/nissan-ghosn-kelly.html",
+         "content" : "Already a household name in Japan when he was arrested, Mr. Ghosn added to his notoriety by hiring private security contractors to lead a daring escape in late December from his home in Tokyo to Leba… [+1850 chars]",
+         "description" : "Japanese prosecutors say the former car executive helped Ghosn conceal his pay. For the world, the country’s court system itself could face judgment.",
+         "urlToImage" : "https://static01.nyt.com/images/2020/09/15/world/15japan-kelly-1/15japan-kelly-1-facebookJumbo.jpg"
+      },
+      {
+         "url" : "https://www.cnet.com/personal-finance/stimulus-check-money-you-and-your-family-could-receive-1200-or-more-with-an-additional-relief-payment/",
+         "content" : "We help you calculate the maximum amount that could end up in your pocket if another stimulus payment comes your way.\r\nAngela Lang/CNET\r\nIf Congress restarts talks to pass a stimulus bill before the … [+6365 chars]",
+         "urlToImage" : "https://cnet2.cbsistatic.com/img/6Wzv9_5m6OSNZudDHF32z0l1Brw=/1200x630/2020/07/25/da2405b0-1d07-4bf3-952f-73a683931934/money-bills-dollars-recession-stimulus-cash-4376.jpg",
+         "description" : "Here's how much money to expect if a new round of direct payments gets sent out in 2020.",
+         "title" : "Stimulus check money: You and your family could receive $1,200 or more with an additional relief payment - CNET",
+         "author" : "Clifford Colby",
+         "publishedAt" : "2020-09-15T03:00:00Z",
+         "source" : {
+            "id" : null,
+            "name" : "CNET"
+         }
+      },
+      {
+         "url" : "https://www.startribune.com/deluxe-moving-its-headquarters-to-downtown-mpls-from-shoreview/572408782/",
+         "content" : "Deluxe Corp. is moving its corporate headquarters from Shoreview to downtown Minneapolis, one of several bold moves as the company continues to evolve from its historic check-printing business to a m… [+5260 chars]",
+         "urlToImage" : "https://stmedia.stimg.co/ows_5f8a3852-263c-4f56-b3b5-84b75c93a951.jpg?h=630&w=1200&fit=crop&bg=999&crop=faces",
+         "description" : "About 525 workers could move in fall 2021 to the 801 Marquette Building.",
+         "title" : "Deluxe moving its headquarters from Shoreview to downtown Minneapolis - Minneapolis Star Tribune",
+         "author" : "Patrick Kennedy",
+         "publishedAt" : "2020-09-15T02:37:30Z",
+         "source" : {
+            "id" : null,
+            "name" : "Minneapolis Star Tribune"
+         }
+      },
+      {
+         "source" : {
+            "id" : "newsweek",
+            "name" : "Newsweek"
+         },
+         "author" : "Aila Slisco",
+         "title" : "Feds Lift Texas Airport's Ban of Chick-fil-A, Then This Happened - Newsweek",
+         "publishedAt" : "2020-09-15T02:37:13Z",
+         "url" : "https://www.newsweek.com/feds-lift-texas-airports-ban-chick-fil-then-this-happened-1531857",
+         "content" : "Fast food chain Chick-fil-A has no plans to open a restaurant at the San Antonio International Airport despite being given the opportunity after city officials reached a deal with federal authorities… [+2916 chars]",
+         "urlToImage" : "https://d.newsweek.com/en/full/1636179/chick-fil-restaurant.jpg",
+         "description" : "Chick-fil-A is unlikely to open a restaurant at the San Antonio International Airport any time soon, despite a Monday announcement from the FAA that a sanction had been lifted."
+      },
+      {
+         "url" : "https://www.engadget.com/nikola-ev-short-selling-012546201.html",
+         "description" : "A short selling firm accused electric big rig startup Nikola of being an \"intricate fraud\" and now the SEC is reportedly investigating.",
+         "urlToImage" : "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-09%2F16790590-f6f2-11ea-a7cf-34ed53d2ec36&client=amp-blogside-v2&signature=62ab011a80342972695a5fd4dda04dcc7ae757f2",
+         "content" : "Nikola is defending itself against claims that its plans to build electric big rigs are an “intricate fraud.” The charges came a few days ago in a report published by short-selling firm Hindenburg Re… [+1074 chars]",
+         "author" : "",
+         "title" : "The SEC is reportedly looking into Nikola's electric truck promises - Engadget",
+         "publishedAt" : "2020-09-15T02:20:53Z",
+         "source" : {
+            "name" : "Engadget",
+            "id" : "engadget"
+         }
+      },
+      {
+         "source" : {
+            "id" : null,
+            "name" : "Bitcoin.com"
+         },
+         "title" : "Macroeconomic Trends Boost Bitcoin and Gold, US Dollar Index Shows Bearish Double-Top | Economics - Bitcoin News",
+         "author" : null,
+         "publishedAt" : "2020-09-15T02:20:42Z",
+         "url" : "https://news.bitcoin.com/macroeconomic-trends-boost-bitcoin-and-gold-us-dollar-index-shows-bearish-double-top/",
+         "content" : "According to a number of reports and commentary from financial analysts, the world is “drowning in U.S. dollars” after the Federal Reserve decided to pump billions of dollars into the hands of 14 cen… [+4738 chars]",
+         "urlToImage" : "https://news.bitcoin.com/wp-content/uploads/2020/09/macroeconomic-trends-boost-bitcoin-and-gold-us-dollar-index-shows-bearish-double-top.jpg",
+         "description" : "Technical analysis shows the dollar’s trade-weighted index chart indicates the USD might be in for a gigantic slide in value."
+      },
+      {
+         "author" : "Evelyn Cheng",
+         "title" : "China’s retail sales rise for the first time in 2020 - CNBC",
+         "publishedAt" : "2020-09-15T02:05:00Z",
+         "source" : {
+            "id" : null,
+            "name" : "CNBC"
+         },
+         "url" : "https://www.cnbc.com/2020/09/15/chinas-retail-sales-rise-for-the-first-time-in-2020.html",
+         "content" : "BEIJING Chinese consumers stepped up their spending in August, in a sign of further economic recovery from the shock of the coronavirus pandemic.\r\nRetail sales rose 0.5% in August from a year ago, th… [+1986 chars]",
+         "description" : "Chinese consumers stepped up their spending in August, in a sign of further economic recovery from the shock of the coronavirus pandemic.",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106702103-1600136314180-gettyimages-1228036918-AFP_1WH96H.jpeg?v=1600136094"
+      },
+      {
+         "publishedAt" : "2020-09-15T01:15:03Z",
+         "title" : "Warren Buffett's railroad names Kathryn Farmer to be 1st female CEO of a major U.S. railroad - Fox Business",
+         "author" : "Reuters",
+         "source" : {
+            "id" : null,
+            "name" : "Fox Business"
+         },
+         "content" : "BNSF Railway, one of the largest railroad operators in North America and owned by Berkshire Hathaway Inc  said on Monday it appointed Kathryn Farmer as its chief executive officer, replacing Carl Ice… [+944 chars]",
+         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/09/0/0/BNSF-New-CEO.jpg?ve=1&tl=1",
+         "description" : "BNSF Railway, one of the largest railroad operators in North America and owned by Berkshire Hathaway Inc, said on Monday it appointed Kathryn Farmer as its chief executive officer,",
+         "url" : "https://www.foxbusiness.com/industrials/warren-buffetts-railroad-names-kathryn-farmer-to-be-1st-female-ceo-of-a-major-u-s-railroad"
+      },
+      {
          "description" : "People on the short-form video app bust out their happy dance.",
-         "publishedAt" : "2020-09-15T01:15:00Z",
          "urlToImage" : "https://cnet2.cbsistatic.com/img/CDTFoj0WYtST7AL4yetCdcom7Xc=/1200x630/2020/07/15/6cb5dda3-4363-49e6-a048-1bd2f3d2b823/tik-tok-4075.jpg",
+         "content" : "TikTok has been targeted by the Trump administration because of it's owned by Chinese tech company ByteDance.\r\nAngela Lang/CNET\r\nAustin Benji chimed in on TikTok after news broke on Sunday that Oracl… [+6446 chars]",
+         "url" : "https://www.cnet.com/news/tiktok-users-rejoice-over-oracle-deal-but-saga-with-trump-isnt-over/",
          "source" : {
             "name" : "CNET",
             "id" : null
          },
-         "author" : "Queenie Wong"
+         "publishedAt" : "2020-09-15T01:15:00Z",
+         "author" : "Queenie Wong",
+         "title" : "TikTok users rejoice over Oracle deal, but saga with Trump isn't over - CNET"
       },
       {
+         "url" : "https://www.zdnet.com/article/clouds-in-the-ocean-microsoft-touts-viability-of-underwater-data-centres/",
+         "urlToImage" : "https://zdnet1.cbsistatic.com/hub/i/r/2020/09/15/e98da271-85c2-4c18-bc23-e9ed6458ab1a/thumbnail/770x578/1c9e64d7cac6c0cdcd6500bcd0383ca1/microsoft-underwater-data-centre.jpg",
+         "description" : "Company says underwater data centres are feasible, as well as logistically, environmentally, and economically practical.",
+         "content" : "Image: Microsoft\r\nIn 2014, Microsoft was convinced a sealed container on the ocean floor could provide ways to improve the overall reliability of data centres so, in 2015, it tested its first underwa… [+3852 chars]",
+         "title" : "Clouds in the ocean: Microsoft touts viability of underwater data centres - ZDNet",
          "author" : "Asha Barbaschow",
+         "publishedAt" : "2020-09-15T01:04:00Z",
          "source" : {
             "name" : "ZDNet",
             "id" : null
-         },
-         "description" : "Company says underwater data centres are feasible, as well as logistically, environmentally, and economically practical.",
-         "publishedAt" : "2020-09-15T01:04:00Z",
-         "urlToImage" : "https://zdnet1.cbsistatic.com/hub/i/r/2020/09/15/e98da271-85c2-4c18-bc23-e9ed6458ab1a/thumbnail/770x578/1c9e64d7cac6c0cdcd6500bcd0383ca1/microsoft-underwater-data-centre.jpg",
-         "content" : "Image: Microsoft\r\nIn 2014, Microsoft was convinced a sealed container on the ocean floor could provide ways to improve the overall reliability of data centres so, in 2015, it tested its first underwa… [+3852 chars]",
-         "title" : "Clouds in the ocean: Microsoft touts viability of underwater data centres - ZDNet",
-         "url" : "https://www.zdnet.com/article/clouds-in-the-ocean-microsoft-touts-viability-of-underwater-data-centres/"
+         }
       },
       {
+         "url" : "https://simpleflying.com/delta-skymiles-details/",
+         "content" : "Delta Air Lines has revealed a lot of details on its SkyMiles frequent flier program. The airline is using the program to raise $6.5 billion to bolster its liquidity. In a presentation to investors v… [+6491 chars]",
          "urlToImage" : "https://simpleflying.com/wp-content/uploads/2020/09/GettyImages-1263005005.jpg",
          "description" : "Delta Air Lines has revealed a lot of details on its SkyMiles frequent flier program. The airline is…",
-         "publishedAt" : "2020-09-15T01:02:10Z",
-         "author" : "",
          "source" : {
-            "id" : null,
-            "name" : "Simple Flying"
+            "name" : "Simple Flying",
+            "id" : null
          },
-         "content" : "Delta Air Lines has revealed a lot of details on its SkyMiles frequent flier program. The airline is using the program to raise $6.5 billion to bolster its liquidity. In a presentation to investors v… [+6491 chars]",
-         "url" : "https://simpleflying.com/delta-skymiles-details/",
-         "title" : "Delta Reveals Fascinating Details On The SkyMiles Program - Simple Flying"
+         "title" : "Delta Reveals Fascinating Details On The SkyMiles Program - Simple Flying",
+         "author" : "",
+         "publishedAt" : "2020-09-15T01:02:10Z"
       },
       {
+         "content" : "Not everyone in China will need to get vaccinated against Covid-19, according to the country's top medical official, as Beijing looks to prioritize frontline workers and high-risk populations in a mo… [+4929 chars]",
+         "urlToImage" : "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB11cjx6.img?h=315&w=600&m=6&q=60&o=t&l=f&f=jpg&x=565&y=581",
+         "description" : "Not everyone in China will need to get vaccinated against Covid-19, according to the country's top medical official, as Beijing looks to prioritize frontline workers and high-risk populations in a move that underscores rising confidence among policy-makers of…",
+         "url" : "https://www.cnn.com/2020/09/14/asia/china-covid-vaccine-gao-fu-intl-hnk/index.html",
+         "publishedAt" : "2020-09-15T00:44:00Z",
+         "title" : "China says no need to vaccinate entire population against Covid-19 at this stage, only frontline workers - msnNOW",
+         "author" : null,
          "source" : {
             "name" : "CNN",
             "id" : "cnn"
-         },
-         "author" : null,
-         "urlToImage" : "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB11cjx6.img?h=315&w=600&m=6&q=60&o=t&l=f&f=jpg&x=565&y=581",
-         "publishedAt" : "2020-09-15T00:44:00Z",
-         "description" : "Not everyone in China will need to get vaccinated against Covid-19, according to the country's top medical official, as Beijing looks to prioritize frontline workers and high-risk populations in a move that underscores rising confidence among policy-makers of…",
-         "content" : "Not everyone in China will need to get vaccinated against Covid-19, according to the country's top medical official, as Beijing looks to prioritize frontline workers and high-risk populations in a mo… [+4929 chars]",
-         "url" : "https://www.cnn.com/2020/09/14/asia/china-covid-vaccine-gao-fu-intl-hnk/index.html",
-         "title" : "China says no need to vaccinate entire population against Covid-19 at this stage, only frontline workers - msnNOW"
+         }
       },
       {
-         "publishedAt" : "2020-09-15T00:41:00Z",
-         "description" : "PDX's busiest airline is also shutting down operations in Spokane and canceling many flights in Eugene, Medford, Redmond, Pasco and Walla Walla.",
-         "urlToImage" : "https://www.oregonlive.com/resizer/_xdeeJtjkjwjdMAE42PQ7iSCCSQ=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/VCFZFZWCVNH7FHZ4DBKBBCG5VA.jpg",
          "source" : {
-            "id" : null,
-            "name" : "OregonLive"
+            "name" : "OregonLive",
+            "id" : null
          },
-         "author" : "Mike Rogoway | The Oregonian/OregonLive",
-         "url" : "https://www.oregonlive.com/business/2020/09/alaska-air-suspends-all-pdx-flights-citing-wildfire-smoke.html",
          "title" : "Alaska Air suspends all PDX flights, citing wildfire smoke - oregonlive.com",
-         "content" : "Alaska Airlines has suspended all flights in and out of Portland until 3 p.m. Tuesday as wildfire smoke inundates the region. Its also suspending operations in Spokane and canceling some flights in E… [+1691 chars]"
+         "author" : "Mike Rogoway | The Oregonian/OregonLive",
+         "publishedAt" : "2020-09-15T00:41:00Z",
+         "url" : "https://www.oregonlive.com/business/2020/09/alaska-air-suspends-all-pdx-flights-citing-wildfire-smoke.html",
+         "content" : "Alaska Airlines has suspended all flights in and out of Portland until 3 p.m. Tuesday as wildfire smoke inundates the region. Its also suspending operations in Spokane and canceling some flights in E… [+1691 chars]",
+         "urlToImage" : "https://www.oregonlive.com/resizer/_xdeeJtjkjwjdMAE42PQ7iSCCSQ=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/VCFZFZWCVNH7FHZ4DBKBBCG5VA.jpg",
+         "description" : "PDX's busiest airline is also shutting down operations in Spokane and canceling many flights in Eugene, Medford, Redmond, Pasco and Walla Walla."
       },
       {
-         "source" : {
-            "id" : null,
-            "name" : "CNET"
-         },
-         "author" : "Antuan Goodwin",
-         "publishedAt" : "2020-09-15T00:30:03Z",
-         "description" : "The all-new compact SUV hits the road with razor-sharp looks unlike anything in Hyundai's lineage.",
-         "urlToImage" : "https://cnet4.cbsistatic.com/img/34PEqD_ywKl5DekSzGMzJy9zgA4=/1200x630/2020/09/14/0dfb81f1-c946-438d-8f5c-df1b13b92138/hero-all-new-hyundai-tucson-lwb-01.jpg",
          "content" : "The new Tucson looks like an appropriately angular Toyota RAV4-fighter.\r\nHyundai Motor\r\nAfter a 2022 Hyundai Tucson tease last week, Hyundai Motor Company's compact SUV enters its fourth generation t… [+4168 chars]",
+         "urlToImage" : "https://cnet4.cbsistatic.com/img/34PEqD_ywKl5DekSzGMzJy9zgA4=/1200x630/2020/09/14/0dfb81f1-c946-438d-8f5c-df1b13b92138/hero-all-new-hyundai-tucson-lwb-01.jpg",
+         "description" : "The all-new compact SUV hits the road with razor-sharp looks unlike anything in Hyundai's lineage.",
+         "url" : "https://www.cnet.com/roadshow/news/2022-hyundai-tucson-unveiled-bold-style-hybrid-options/",
+         "source" : {
+            "name" : "CNET",
+            "id" : null
+         },
+         "publishedAt" : "2020-09-15T00:30:03Z",
          "title" : "2022 Hyundai Tucson unveiled with bold style, hybrid and plug-in options - CNET",
-         "url" : "https://www.cnet.com/roadshow/news/2022-hyundai-tucson-unveiled-bold-style-hybrid-options/"
+         "author" : "Antuan Goodwin"
       }
    ],
-   "status" : "ok",
    "totalResults" : 70
 }
