@@ -1,266 +1,266 @@
 {
-   "totalResults" : 70,
+   "status" : "ok",
    "articles" : [
       {
-         "description" : "BNSF Railway, one of the largest railroad operators in North America and owned by Berkshire Hathaway Inc, said on Monday it appointed Kathryn Farmer as its chief executive officer,",
-         "title" : "Warren Buffett's railroad names Kathryn Farmer to be 1st female CEO of a major U.S. railroad - Fox Business",
-         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/09/0/0/BNSF-New-CEO.jpg?ve=1&tl=1",
-         "publishedAt" : "2020-09-15T01:15:03Z",
-         "content" : "BNSF Railway, one of the largest railroad operators in North America and owned by Berkshire Hathaway Inc  said on Monday it appointed Kathryn Farmer as its chief executive officer, replacing Carl Ice… [+944 chars]",
-         "author" : "Reuters",
-         "url" : "https://www.foxbusiness.com/industrials/warren-buffetts-railroad-names-kathryn-farmer-to-be-1st-female-ceo-of-a-major-u-s-railroad",
+         "description" : "About 525 workers could move in fall 2021 to the 801 Marquette Building.",
+         "urlToImage" : "https://stmedia.stimg.co/ows_5f8a3852-263c-4f56-b3b5-84b75c93a951.jpg?h=630&w=1200&fit=crop&bg=999&crop=faces",
+         "publishedAt" : "2020-09-15T02:37:30Z",
+         "author" : "Patrick Kennedy",
+         "content" : "Deluxe Corp. is moving its corporate headquarters from Shoreview to downtown Minneapolis, one of several bold moves as the company continues to evolve from its historic check-printing business to a m… [+5260 chars]",
          "source" : {
-            "id" : null,
-            "name" : "Fox Business"
+            "name" : "Minneapolis Star Tribune",
+            "id" : null
+         },
+         "title" : "Deluxe moving its headquarters from Shoreview to downtown Minneapolis - Minneapolis Star Tribune",
+         "url" : "https://www.startribune.com/deluxe-moving-its-headquarters-to-downtown-mpls-from-shoreview/572408782/"
+      },
+      {
+         "source" : {
+            "id" : "newsweek",
+            "name" : "Newsweek"
+         },
+         "content" : "Fast food chain Chick-fil-A has no plans to open a restaurant at the San Antonio International Airport despite being given the opportunity after city officials reached a deal with federal authorities… [+2916 chars]",
+         "author" : "Aila Slisco",
+         "publishedAt" : "2020-09-15T02:37:13Z",
+         "description" : "Chick-fil-A is unlikely to open a restaurant at the San Antonio International Airport any time soon, despite a Monday announcement from the FAA that a sanction had been lifted.",
+         "urlToImage" : "https://d.newsweek.com/en/full/1636179/chick-fil-restaurant.jpg",
+         "url" : "https://www.newsweek.com/feds-lift-texas-airports-ban-chick-fil-then-this-happened-1531857",
+         "title" : "Feds Lift Texas Airport's Ban of Chick-fil-A, Then This Happened - Newsweek"
+      },
+      {
+         "title" : "The SEC is reportedly looking into Nikola's electric truck promises - Engadget",
+         "url" : "https://www.engadget.com/nikola-ev-short-selling-012546201.html",
+         "author" : "",
+         "urlToImage" : "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-09%2F16790590-f6f2-11ea-a7cf-34ed53d2ec36&client=amp-blogside-v2&signature=62ab011a80342972695a5fd4dda04dcc7ae757f2",
+         "description" : "A short selling firm accused electric big rig startup Nikola of being an \"intricate fraud\" and now the SEC is reportedly investigating.",
+         "publishedAt" : "2020-09-15T02:20:53Z",
+         "content" : "Nikola is defending itself against claims that its plans to build electric big rigs are an “intricate fraud.” The charges came a few days ago in a report published by short-selling firm Hindenburg Re… [+1074 chars]",
+         "source" : {
+            "id" : "engadget",
+            "name" : "Engadget"
          }
       },
       {
+         "title" : "China’s retail sales rise for the first time in 2020 - CNBC",
+         "url" : "https://www.cnbc.com/2020/09/15/chinas-retail-sales-rise-for-the-first-time-in-2020.html",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106702103-1600136314180-gettyimages-1228036918-AFP_1WH96H.jpeg?v=1600136094",
+         "description" : "Chinese consumers stepped up their spending in August, in a sign of further economic recovery from the shock of the coronavirus pandemic.",
+         "publishedAt" : "2020-09-15T02:05:00Z",
+         "author" : "Evelyn Cheng",
+         "content" : "BEIJING Chinese consumers stepped up their spending in August, in a sign of further economic recovery from the shock of the coronavirus pandemic.\r\nRetail sales rose 0.5% in August from a year ago, th… [+1986 chars]",
+         "source" : {
+            "id" : null,
+            "name" : "CNBC"
+         }
+      },
+      {
+         "title" : "Warren Buffett's railroad names Kathryn Farmer to be 1st female CEO of a major U.S. railroad - Fox Business",
+         "url" : "https://www.foxbusiness.com/industrials/warren-buffetts-railroad-names-kathryn-farmer-to-be-1st-female-ceo-of-a-major-u-s-railroad",
+         "publishedAt" : "2020-09-15T01:15:03Z",
+         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/09/0/0/BNSF-New-CEO.jpg?ve=1&tl=1",
+         "description" : "BNSF Railway, one of the largest railroad operators in North America and owned by Berkshire Hathaway Inc, said on Monday it appointed Kathryn Farmer as its chief executive officer,",
+         "author" : "Reuters",
+         "source" : {
+            "name" : "Fox Business",
+            "id" : null
+         },
+         "content" : "BNSF Railway, one of the largest railroad operators in North America and owned by Berkshire Hathaway Inc  said on Monday it appointed Kathryn Farmer as its chief executive officer, replacing Carl Ice… [+944 chars]"
+      },
+      {
+         "url" : "https://www.cnet.com/news/tiktok-users-rejoice-over-oracle-deal-but-saga-with-trump-isnt-over/",
+         "title" : "TikTok users rejoice over Oracle deal, but saga with Trump isn't over - CNET",
+         "content" : "TikTok has been targeted by the Trump administration because of it's owned by Chinese tech company ByteDance.\r\nAngela Lang/CNET\r\nAustin Benji chimed in on TikTok after news broke on Sunday that Oracl… [+6446 chars]",
+         "source" : {
+            "id" : null,
+            "name" : "CNET"
+         },
+         "author" : "Queenie Wong",
+         "description" : "People on the short-form video app bust out their happy dance.",
+         "urlToImage" : "https://cnet2.cbsistatic.com/img/CDTFoj0WYtST7AL4yetCdcom7Xc=/1200x630/2020/07/15/6cb5dda3-4363-49e6-a048-1bd2f3d2b823/tik-tok-4075.jpg",
+         "publishedAt" : "2020-09-15T01:15:00Z"
+      },
+      {
+         "publishedAt" : "2020-09-15T01:10:08Z",
+         "description" : null,
+         "urlToImage" : null,
+         "author" : null,
+         "source" : {
+            "id" : "google-news",
+            "name" : "Google News"
+         },
+         "content" : null,
+         "title" : "Tucker: Bill de Blasio ruins Thanksgiving - Fox News",
+         "url" : "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9MzQ0Nzlfb28yb1XSAQA?oc=5"
+      },
+      {
+         "source" : {
+            "name" : "MarketWatch",
+            "id" : null
+         },
+         "content" : "Shares of electric-truck maker Nikola Corp. went on a wild ride Monday, as the Securities and Exchange Commission reportedly weighed a short-sellers claims of fraud, which the company had vehemently … [+2039 chars]",
+         "author" : "Mike Murphy",
+         "publishedAt" : "2020-09-15T00:51:00Z",
+         "description" : "Stock soars after rebuttal to fraud claims, but sinks after hours on report of SEC interest",
+         "urlToImage" : "https://s.marketwatch.com/public/resources/images/MW-IJ406_Nikola_ZG_20200626125420.jpg",
+         "url" : "https://www.marketwatch.com/story/nikola-shares-take-wild-ride-after-denial-of-short-sellers-allegations-report-of-sec-inquiry-2020-09-14",
+         "title" : "Nikola shares take wild ride after denial of short-seller’s allegations, report of SEC inquiry - MarketWatch"
+      },
+      {
+         "url" : "https://www.oregonlive.com/business/2020/09/alaska-air-suspends-all-pdx-flights-citing-wildfire-smoke.html",
+         "title" : "Alaska Air suspends all PDX flights, citing wildfire smoke - oregonlive.com",
+         "content" : "Alaska Airlines has suspended all flights in and out of Portland until 3 p.m. Tuesday as wildfire smoke inundates the region. Its also suspending operations in Spokane and canceling some flights in E… [+1691 chars]",
          "source" : {
             "name" : "OregonLive",
             "id" : null
          },
          "description" : "PDX's busiest airline is also shutting down operations in Spokane and canceling many flights in Eugene, Medford, Redmond, Pasco and Walla Walla.",
-         "content" : "Alaska Airlines has suspended all flights in and out of Portland until 3 p.m. Tuesday as wildfire smoke inundates the region. Its also suspending operations in Spokane and canceling some flights in E… [+1691 chars]",
+         "urlToImage" : "https://www.oregonlive.com/resizer/_xdeeJtjkjwjdMAE42PQ7iSCCSQ=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/VCFZFZWCVNH7FHZ4DBKBBCG5VA.jpg",
          "publishedAt" : "2020-09-15T00:41:00Z",
-         "url" : "https://www.oregonlive.com/business/2020/09/alaska-air-suspends-all-pdx-flights-citing-wildfire-smoke.html",
-         "author" : "Mike Rogoway | The Oregonian/OregonLive",
-         "title" : "Alaska Air suspends all PDX flights, citing wildfire smoke - oregonlive.com",
-         "urlToImage" : "https://www.oregonlive.com/resizer/_xdeeJtjkjwjdMAE42PQ7iSCCSQ=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/VCFZFZWCVNH7FHZ4DBKBBCG5VA.jpg"
+         "author" : "Mike Rogoway | The Oregonian/OregonLive"
       },
       {
+         "publishedAt" : "2020-09-15T00:30:03Z",
+         "description" : "The all-new compact SUV hits the road with razor-sharp looks unlike anything in Hyundai's lineage.",
+         "urlToImage" : "https://cnet4.cbsistatic.com/img/34PEqD_ywKl5DekSzGMzJy9zgA4=/1200x630/2020/09/14/0dfb81f1-c946-438d-8f5c-df1b13b92138/hero-all-new-hyundai-tucson-lwb-01.jpg",
+         "author" : "Antuan Goodwin",
          "source" : {
-            "name" : "CNET",
-            "id" : null
+            "id" : null,
+            "name" : "CNET"
          },
          "content" : "The new Tucson looks like an appropriately angular Toyota RAV4-fighter.\r\nHyundai Motor\r\nAfter a 2022 Hyundai Tucson tease last week, Hyundai Motor Company's compact SUV enters its fourth generation t… [+4168 chars]",
-         "publishedAt" : "2020-09-15T00:30:03Z",
-         "url" : "https://www.cnet.com/roadshow/news/2022-hyundai-tucson-unveiled-bold-style-hybrid-options/",
-         "author" : "Antuan Goodwin",
          "title" : "2022 Hyundai Tucson unveiled with bold style, hybrid and plug-in options - CNET",
-         "urlToImage" : "https://cnet4.cbsistatic.com/img/34PEqD_ywKl5DekSzGMzJy9zgA4=/1200x630/2020/09/14/0dfb81f1-c946-438d-8f5c-df1b13b92138/hero-all-new-hyundai-tucson-lwb-01.jpg",
-         "description" : "The all-new compact SUV hits the road with razor-sharp looks unlike anything in Hyundai's lineage."
+         "url" : "https://www.cnet.com/roadshow/news/2022-hyundai-tucson-unveiled-bold-style-hybrid-options/"
       },
       {
+         "title" : "'There's a lot of money to be made' — Caesars CEO still bullish about sports betting after ESPN deal - CNBC",
+         "url" : "https://www.cnbc.com/2020/09/14/caesars-ceo-tom-reeg-on-future-of-sports-betting-espn-deal.html",
+         "author" : "Kevin Stankiewicz",
+         "publishedAt" : "2020-09-15T00:22:00Z",
+         "description" : "\"This is an enormous opportunity. I'd liken it to when states outside of Nevada and New Jersey started to legalize riverboat casinos in the '90s,\" Caesars Entertainment CEO Tom Reeg told CNBC.",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/105208877-GettyImages-112851759.jpg?v=1571063881",
          "source" : {
             "id" : null,
             "name" : "CNBC"
          },
-         "description" : "\"This is an enormous opportunity. I'd liken it to when states outside of Nevada and New Jersey started to legalize riverboat casinos in the '90s,\" Caesars Entertainment CEO Tom Reeg told CNBC.",
-         "publishedAt" : "2020-09-15T00:22:00Z",
-         "content" : "Caesars Entertainment CEO Tom Reeg told CNBC on Monday that the further legalization of sports betting is one of the biggest growth opportunities for the gaming industry in perhaps over two decades. … [+2857 chars]",
-         "author" : "Kevin Stankiewicz",
-         "url" : "https://www.cnbc.com/2020/09/14/caesars-ceo-tom-reeg-on-future-of-sports-betting-espn-deal.html",
-         "title" : "'There's a lot of money to be made' — Caesars CEO still bullish about sports betting after ESPN deal - CNBC",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/105208877-GettyImages-112851759.jpg?v=1571063881"
+         "content" : "Caesars Entertainment CEO Tom Reeg told CNBC on Monday that the further legalization of sports betting is one of the biggest growth opportunities for the gaming industry in perhaps over two decades. … [+2857 chars]"
       },
       {
-         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200914175630-facebook-rei-headquarters-super-tease.jpg",
-         "title" : "Facebook buys an unused headquarters even as more employees work remotely - CNN",
-         "url" : "https://www.cnn.com/2020/09/14/tech/facebook-rei-headquarters-sale/index.html",
          "author" : "Chris Isidore, CNN Business",
-         "content" : "New York (CNN Business)Facebook is buying a previously unused corporate headquarters from outdoor retailer REI, despite the social media company's plans to shift more of its employees to working from… [+3645 chars]",
-         "publishedAt" : "2020-09-15T00:12:00Z",
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200914175630-facebook-rei-headquarters-super-tease.jpg",
          "description" : "Facebook is buying a previously unused corporate headquarters from outdoor retailer REI, despite the social media company's plans to shift more of its employees to working from home.",
+         "publishedAt" : "2020-09-15T00:12:00Z",
+         "content" : "New York (CNN Business)Facebook is buying a previously unused corporate headquarters from outdoor retailer REI, despite the social media company's plans to shift more of its employees to working from… [+3645 chars]",
          "source" : {
-            "name" : "CNN",
-            "id" : "cnn"
-         }
-      },
-      {
-         "source" : {
-            "name" : "CNN",
-            "id" : "cnn"
+            "id" : "cnn",
+            "name" : "CNN"
          },
-         "author" : "Clare Duffy, CNN Business",
-         "url" : "https://www.cnn.com/2020/09/14/business/simon-property-group-thanksgiving-closure/index.html",
-         "content" : null,
-         "publishedAt" : "2020-09-14T23:30:00Z",
-         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200914184344-simon-property-group-mall-file-super-tease.jpg",
-         "title" : "Mall owner Simon Property Group will keep stores closed on Thanksgiving - CNN",
-         "description" : "Mall owner Simon Property Group said Monday its locations will remain closed on Thanksgiving, though they will open the following day for Black Friday."
+         "title" : "Facebook buys an unused headquarters even as more employees work remotely - CNN",
+         "url" : "https://www.cnn.com/2020/09/14/tech/facebook-rei-headquarters-sale/index.html"
       },
       {
-         "description" : null,
-         "urlToImage" : null,
-         "title" : "Jim Cramer: Merger Monday's back and it's bigger than ever - CNBC Television",
-         "url" : "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9N21vSG9RN3AyZE3SAQA?oc=5",
-         "author" : null,
-         "publishedAt" : "2020-09-14T23:26:50Z",
-         "content" : null,
-         "source" : {
-            "name" : "Google News",
-            "id" : "google-news"
-         }
-      },
-      {
-         "source" : {
-            "name" : "Bloomberg",
-            "id" : "bloomberg"
-         },
-         "author" : null,
-         "url" : "https://www.bloomberg.com/tosv2.html?vid=&uuid=0eb02660-f6ff-11ea-86b7-f5a0b87b5b14&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wOS0xNC9jaXRpZ3JvdXAtdG8tcmVzdW1lLWN1dHRpbmctam9icy1lbmRpbmctcGF1c2UtZHVyaW5nLXBhbmRlbWlj",
-         "publishedAt" : "2020-09-14T23:20:00Z",
-         "content" : "To continue, please click the box below to let us know you're not a robot.",
-         "urlToImage" : null,
-         "title" : "Citigroup to Resume Job Cuts After Pausing for Pandemic - Bloomberg",
-         "description" : null
-      },
-      {
-         "source" : {
-            "name" : "fox8.com",
-            "id" : null
-         },
-         "description" : "The Hobby Lobby chain of stores announced Monday plans to raise its minimum wage for full-time hourly employees starting next month.",
-         "urlToImage" : "https://fox8.com/wp-content/uploads/sites/12/2020/09/hobby-lobby_37793757_ver1.0.jpg?w=1280",
-         "title" : "Hobby Lobby to raise minimum wage to $17 per hour - fox8.com",
-         "url" : "https://fox8.com/news/hobby-lobby-to-raise-minimum-wage-to-17-per-hour/",
-         "author" : "NBC4 Staff",
-         "content" : "ANNVILLE, Pa. (AP) A Pennsylvania man and his fiancee imprisoned the man's 12-year-old son in a darkened room for years, starving him and beating him while treating their other children well, until h… [+312 chars]",
-         "publishedAt" : "2020-09-14T23:12:00Z"
-      },
-      {
-         "title" : "Here's some of the places Boston Sports Club owes money to - WCVB Boston",
-         "urlToImage" : "https://kubrick.htvapps.com/vidthumb/9c8a88ef-6ff3-43e1-ae21-559af8de9143/9c8a88ef-6ff3-43e1-ae21-559af8de9143_image.jpg?crop=1xw:1.0xh;center,top&resize=1200:*",
-         "publishedAt" : "2020-09-14T22:53:00Z",
-         "content" : "WALTHAM, Mass. —The parent company of Boston Sports Clubs Monday became the latest casualty of the coronavirus pandemic, filing Chapter 11 bankruptcy.\r\nWCVB has been chronicling the gym's problems, g… [+1765 chars]",
-         "url" : "https://www.wcvb.com/article/here-s-some-of-the-places-boston-sports-club-owes-money-to/34018073",
-         "author" : "Ben Simmoneau",
-         "description" : "We looked through the company's bankruptcy filing and found millions in unpaid bills in the Boston region.",
+         "description" : "JPMorgan Chase & Co Chief Executive Jamie Dimon said the economic recovery from the coronavirus recession could be derailed by a lack of additional economic stimulus, the election, and a second wave of infections.",
+         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/09/0/0/Jamie-Dimon.jpg?ve=1&tl=1",
+         "publishedAt" : "2020-09-14T23:44:46Z",
+         "author" : "Reuters",
+         "content" : "JPMorgan Chase &amp; Co Chief Executive Jamie Dimon said the economic recovery from the coronavirus recession could be derailed by a lack of additional economic stimulus, the election, and a second w… [+1257 chars]",
          "source" : {
             "id" : null,
-            "name" : "WCVB Boston"
-         }
+            "name" : "Fox Business"
+         },
+         "title" : "JPMorgan CEO Dimon says economic recovery could be derailed - Fox Business",
+         "url" : "https://www.foxbusiness.com/economy/jpmorgan-ceo-dimon-says-economic-recovery-could-be-derailed"
       },
       {
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200914184344-simon-property-group-mall-file-super-tease.jpg",
+         "description" : "Mall owner Simon Property Group said Monday its locations will remain closed on Thanksgiving, though they will open the following day for Black Friday.",
+         "publishedAt" : "2020-09-14T23:30:00Z",
+         "author" : "Clare Duffy, CNN Business",
          "content" : null,
-         "publishedAt" : "2020-09-14T22:47:42Z",
-         "author" : null,
-         "url" : "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9alMwRG93SzZPMjjSAQA?oc=5",
-         "title" : "Analyst breaks down Nvidia deal to buy ARM Holdings from Softbank for $40 billion - Yahoo Finance",
-         "urlToImage" : null,
+         "source" : {
+            "id" : "cnn",
+            "name" : "CNN"
+         },
+         "title" : "Mall owner Simon Property Group will keep stores closed on Thanksgiving - CNN",
+         "url" : "https://www.cnn.com/2020/09/14/business/simon-property-group-thanksgiving-closure/index.html"
+      },
+      {
+         "publishedAt" : "2020-09-14T23:26:50Z",
          "description" : null,
+         "urlToImage" : null,
+         "author" : null,
          "source" : {
             "id" : "google-news",
             "name" : "Google News"
-         }
+         },
+         "content" : null,
+         "title" : "Jim Cramer: Merger Monday's back and it's bigger than ever - CNBC Television",
+         "url" : "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9N21vSG9RN3AyZE3SAQA?oc=5"
       },
       {
-         "description" : "",
-         "title" : "Google faces $3.2 billion lawsuit over use of children's data in U.K. - MarketWatch",
-         "urlToImage" : "https://s.wsj.net/public/resources/MWimages/MW-GP644_MicroS_ZG_20180906154215.jpg",
-         "content" : "Alphabet Inc.'s Google \r\n GOOGL, \r\n -0.45%\r\nGOOG, \r\n -0.09%\r\nfaces a $3.2 billion lawsuit on behalf of more than five million British children under 13 and their parents over claims that YouTube rout… [+909 chars]",
-         "publishedAt" : "2020-09-14T22:29:00Z",
-         "author" : "Jon Swartz",
-         "url" : "https://www.marketwatch.com/story/google-faces-32-billion-lawsuit-over-use-of-childrens-data-in-uk-2020-09-14",
+         "author" : null,
+         "publishedAt" : "2020-09-14T23:20:00Z",
+         "urlToImage" : null,
+         "description" : null,
          "source" : {
-            "id" : null,
-            "name" : "MarketWatch"
-         }
+            "id" : "bloomberg",
+            "name" : "Bloomberg"
+         },
+         "content" : "To continue, please click the box below to let us know you're not a robot.",
+         "title" : "Citigroup to Resume Job Cuts After Pausing for Pandemic - Bloomberg",
+         "url" : "https://www.bloomberg.com/tosv2.html?vid=&uuid=0eb02660-f6ff-11ea-86b7-f5a0b87b5b14&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wOS0xNC9jaXRpZ3JvdXAtdG8tcmVzdW1lLWN1dHRpbmctam9icy1lbmRpbmctcGF1c2UtZHVyaW5nLXBhbmRlbWlj"
       },
       {
+         "author" : "Katie Conner",
+         "urlToImage" : "https://cnet3.cbsistatic.com/img/2AkGPw-oJw1GZlglfqp821nHhKY=/1200x630/2020/07/31/c7e57bad-32f5-49e0-b16d-8e487c38ff12/001-cash-money-dollar-bills-colorful-background-stimulus-2020.jpg",
+         "description" : "You have until the end of the month to register your missing $500 for your child dependents. Here's the online tool you'll need to use.",
+         "publishedAt" : "2020-09-14T23:15:03Z",
+         "content" : "You can still get your missing $500 stimulus payment for child dependents.\r\nSarah Tew/CNET\r\nIf you're still missing a $500 payment for dependents as part of the stimulus check benefits that began in … [+4439 chars]",
+         "source" : {
+            "name" : "CNET",
+            "id" : null
+         },
+         "title" : "If the IRS still owes you a $500 stimulus payment, you can claim it by Sept. 30. Here's how - CNET",
+         "url" : "https://www.cnet.com/personal-finance/if-the-irs-still-owes-you-a-500-stimulus-payment-you-can-claim-it-by-sept-30-heres-how/"
+      },
+      {
+         "content" : "What happened\r\nShares of Fastly(NYSE:FSLY) jumped 9.6% on Monday, following news that TikTok owner ByteDance reached an agreement with Oracle(NYSE:ORCL) ahead of President Donald Trump's deadline.\r\nS… [+1303 chars]",
          "source" : {
             "name" : "Motley Fool",
             "id" : null
          },
-         "title" : "Snowflake Boosts Expected IPO Pricing Range - The Motley Fool",
-         "urlToImage" : "https://g.foolcdn.com/editorial/images/591652/stock-chart-going-up.jpg",
-         "content" : "Ahead of its expected IPO (initial public offering) pricing date tomorrow, cloud-based data-warehousing start-up Snowflake boosted its expected pricing range to $100 to $110 per share, up from the pr… [+2794 chars]",
-         "publishedAt" : "2020-09-14T22:26:00Z",
-         "url" : "https://www.fool.com/investing/2020/09/14/snowflake-boosts-expected-ipo-pricing-range/",
-         "author" : "Evan Niu, CFA",
-         "description" : "This offering is going to be pricey in more ways than one."
+         "author" : "Joe Tenebruso",
+         "urlToImage" : "https://g.foolcdn.com/editorial/images/591692/market-recovery-gettyimages-910307198.jpg",
+         "description" : "Oracle's deal with TikTok could be good news for investors.",
+         "publishedAt" : "2020-09-14T23:15:00Z",
+         "url" : "https://www.fool.com/investing/2020/09/14/why-fastly-stock-surged-today/",
+         "title" : "Why Fastly Stock Surged Today - Motley Fool"
       },
       {
-         "urlToImage" : "https://www.investors.com/wp-content/uploads/2017/10/stock-climbingHill-04-adobe.jpg",
-         "title" : "Dow Jones Futures: Stock Market Rally Gets A Win; Apple In Buy Zone; Tesla Rival Nikola Dives On SEC Probe - Investor's Business Daily",
-         "url" : "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-stock-market-rally-apple-buy-zone-tesla-soars-nikola-sec-probe/",
-         "author" : "Investor's Business Daily",
-         "content" : "Dow Jones futures tilted higher late Monday, along with S&amp;P 500 futures and Nasdaq futures. The stock market rally got a much-needed win, with Apple (AAPL) and Adobe stock rebounding bullishly an… [+8357 chars]",
-         "publishedAt" : "2020-09-14T22:16:00Z",
-         "description" : "Dow Jones futures: The stock market rally got a needed win, but it's just one day. Apple is in a buy zone. Tesla soared. Nikola dived late on an SEC probe.",
+         "publishedAt" : "2020-09-14T23:09:07Z",
+         "description" : "About a week after calls for a Hobby Lobby boycott, the arts and crafts chain announced it is raising employee pay to $17 an hour in October.",
+         "urlToImage" : "https://www.gannett-cdn.com/-mm-/496ced94d89fb94c1d4db3d808474355533f0f43/c=0-41-3294-1902/local/-/media/2017/07/05/USATODAY/USATODAY/636348847706525380-XXX-Hobby-Lobby-Birth-Control.jpg?width=3200&height=1680&fit=crop",
+         "author" : "Kelly Tyko",
          "source" : {
-            "id" : null,
-            "name" : "Investor's Business Daily"
-         }
+            "id" : "usa-today",
+            "name" : "USA Today"
+         },
+         "content" : "As the United States celebrates equal pay day, a new study finds that there are a few occupations that still lag behind in gender wage equality. Veuer's Natasha Abellard has the story.\r\nBuzz60\r\nHobby… [+2489 chars]",
+         "title" : "Hobby Lobby to raise minimum wage to $17 an hour for full-time workers starting Oct. 1 - USA TODAY",
+         "url" : "https://www.usatoday.com/story/money/2020/09/14/hobby-lobby-minimum-hourly-wage-increasing-october/5798782002/"
       },
       {
-         "description" : "Now vegetarians and vegans can have their spaghetti with meatballs and eat it, too! Here's everything you need to know about Beyond Meat's new product.",
-         "author" : null,
-         "url" : "https://www.eatthis.com/beyond-meat-launches-meatballs/",
-         "content" : "Beyond Meat wants you to \"have a ball\" on them. And by that, the company wants you to try its latest product: meatless meatballs.\r\n© Provided by Eat This, Not That!\r\n spaghetti and meatballs\r\nThe mak… [+2056 chars]",
-         "publishedAt" : "2020-09-14T22:04:00Z",
-         "urlToImage" : "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB192pIU.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg",
-         "title" : "Beyond Meat Is Launching This Brand New Item In Grocery Stores - msnNOW",
+         "title" : "Here's some of the places Boston Sports Club owes money to - WCVB Boston",
+         "url" : "https://www.wcvb.com/article/here-s-some-of-the-places-boston-sports-club-owes-money-to/34018073",
+         "description" : "We looked through the company's bankruptcy filing and found millions in unpaid bills in the Boston region.",
+         "urlToImage" : "https://kubrick.htvapps.com/vidthumb/9c8a88ef-6ff3-43e1-ae21-559af8de9143/9c8a88ef-6ff3-43e1-ae21-559af8de9143_image.jpg?crop=1xw:1.0xh;center,top&resize=1200:*",
+         "publishedAt" : "2020-09-14T22:53:00Z",
+         "author" : "Ben Simmoneau",
+         "content" : "WALTHAM, Mass. —The parent company of Boston Sports Clubs Monday became the latest casualty of the coronavirus pandemic, filing Chapter 11 bankruptcy.\r\nWCVB has been chronicling the gym's problems, g… [+1765 chars]",
          "source" : {
-            "name" : "Eatthis.com",
+            "name" : "WCVB Boston",
             "id" : null
          }
-      },
-      {
-         "source" : {
-            "name" : "Fox News",
-            "id" : "fox-news"
-         },
-         "description" : "Fox News medical contributor Dr. Marc Siegel said Monday that the common flu, unlike coronavirus, is a \"moving target\" that often changes form from year to year, while COVID is more static in that regard.",
-         "title" : "Dr. Siegel on potential COVID vaccine effectiveness: Unlike annual flu, virus is not 'a moving target' - Fox News",
-         "urlToImage" : "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/image-2020-09-14T163745.235.jpg",
-         "content" : "Fox News medical contributor Dr. Marc Siegel said Monday that the common flu, unlike coronavirus, is a \"moving target\" that often changes form from year to year, while COVID-19 is more static.\r\nSiege… [+1556 chars]",
-         "publishedAt" : "2020-09-14T22:02:35Z",
-         "author" : "Charles Creitz",
-         "url" : "https://www.foxnews.com/media/dr-siegel-on-potential-covid-vaccine-effectiveness-unlike-annual-flu-virus-is-not-a-moving-target"
-      },
-      {
-         "source" : {
-            "name" : "USA Today",
-            "id" : "usa-today"
-         },
-         "title" : "Chick-fil-A no longer pursuing restaurant at San Antonio airport after chain's plans denied more than a year ago - USA TODAY",
-         "urlToImage" : "https://www.gannett-cdn.com/presto/2019/06/27/USAT/e617f5a0-5438-419a-9dff-d5ef2299c6fb-Chick_fil_A.jpg?crop=1023,571,x0,y87&width=1600&height=800&fit=bounds",
-         "content" : "Even our four-legged friends can't say no to chicken.\r\nStoryful\r\nAUSTIN, Texas Chick-fil-A said Monday that it no longer plans to open a restaurant in the San Antonio airport, even though the Texas c… [+3008 chars]",
-         "publishedAt" : "2020-09-14T21:55:36Z",
-         "url" : "https://www.usatoday.com/story/money/food/2020/09/14/san-antonio-airport-chickfila-not-opening/5798396002/",
-         "author" : "Acacia Coronado",
-         "description" : "Chick-fil-A no longer plans to open a restaurant in the San Antonio airport, even though Texas city leaders relented after a year of legal wrangling."
-      },
-      {
-         "title" : "Trump's TikTok showdown is poised to reward his Silicon Valley political allies - CNN",
-         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200914153607-donald-trump-larry-ellison-split-super-tease.jpg",
-         "publishedAt" : "2020-09-14T21:40:00Z",
-         "content" : null,
-         "url" : "https://www.cnn.com/2020/09/14/tech/tiktok-politics/index.html",
-         "author" : "Brian Fung, CNN Business",
-         "description" : "President Donald Trump last month used his office to ignite an international business crisis that's plunged into doubt the future of one of the world's most popular social media platforms — a decision that's now led to the apparent benefit of a major politica…",
-         "source" : {
-            "id" : "cnn",
-            "name" : "CNN"
-         }
-      },
-      {
-         "description" : "While most soft drink companies use caffeine to provide consumers energy, PepsiCo has created a beverage that’s meant to help consumers catch some Zs.",
-         "publishedAt" : "2020-09-14T21:37:58Z",
-         "content" : "While most soft drink companies give consumers a boost with caffeine, PepsiCo has created a beverage that’s meant to help people catch some Zs.\r\nThe multibillion-dollar beverage giant announced it wi… [+2563 chars]",
-         "url" : "https://www.foxbusiness.com/lifestyle/pepsico-driftwell-sleep-aid-water-december",
-         "author" : "Cortney Moore",
-         "title" : "PepsiCo's new DriftWell aimed at aiding relaxation and sleep - Fox Business",
-         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/09/0/0/Pepsi-Sleep-beverage-iStock.jpg?ve=1&tl=1",
-         "source" : {
-            "id" : null,
-            "name" : "Fox Business"
-         }
-      },
-      {
-         "source" : {
-            "id" : null,
-            "name" : "CarScoops"
-         },
-         "publishedAt" : "2020-09-14T21:00:00Z",
-         "content" : "Ford has revealed the new Tremor Off-Road Package for the 2021 Ranger pickup truck, making it the most off-road capable variant in the US range.\r\nThe new Ford Ranger Tremor receives a range of off-ro… [+2796 chars]",
-         "url" : "https://www.carscoops.com/2020/09/new-2021-ford-ranger-tremor-is-the-closest-u-s-will-get-to-a-ranger-raptor/",
-         "author" : null,
-         "title" : "New 2021 Ford Ranger Tremor Is The Closest U.S. Will Get To A Ranger Raptor - CarScoops",
-         "urlToImage" : "https://www.carscoops.com/wp-content/uploads/2020/09/21_Ranger_Tremor_Fact_Sheet-25.jpg",
-         "description" : "The Ford Ranger becomes even more off-road capable to please Raptor-hungry US customers."
       }
    ],
-   "status" : "ok"
+   "totalResults" : 70
 }
