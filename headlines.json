@@ -1,266 +1,266 @@
 {
+   "totalResults" : 70,
+   "status" : "ok",
    "articles" : [
       {
-         "publishedAt" : "2020-09-15T17:57:00Z",
-         "urlToImage" : null,
-         "description" : "News, analysis and comment from the Financial Times, the worldʼs leading global business publication",
+         "author" : "Ben Foldy",
+         "urlToImage" : "https://images.wsj.net/im-232310/social",
+         "url" : "https://www.wsj.com/articles/justice-department-probes-electric-truck-startup-nikola-over-claims-it-misled-investors-11600199462",
+         "content" : "The Justice Department has joined U.S. securities regulators in examining allegations that electric-truck startup Nikola Corp. misled investors by making exaggerated claims about its technology, acco… [+796 chars]",
+         "publishedAt" : "2020-09-15T20:17:00Z",
+         "description" : "U.S. attorney’s office in New York joins SEC regulators in examining allegations related to company’s public statements",
          "source" : {
-            "name" : "Financial Times",
-            "id" : "financial-times"
+            "id" : "the-wall-street-journal",
+            "name" : "The Wall Street Journal"
          },
+         "title" : "Justice Department Probes Electric-Truck Startup Nikola Over Claims It Misled Investors - The Wall Street Journal"
+      },
+      {
+         "publishedAt" : "2020-09-15T19:43:13Z",
+         "description" : "The latest economic and business news during the coronavirus pandemic.",
+         "source" : {
+            "name" : "New York Times",
+            "id" : null
+         },
+         "title" : "Apple Focuses on Fitness Market: Live Updates - The New York Times",
+         "urlToImage" : "https://static01.nyt.com/images/2020/04/10/business/markets-briefing-promo-image/markets-briefing-promo-image-facebookJumbo-v2.png",
+         "url" : "https://www.nytimes.com/live/2020/09/15/business/stock-market-today-coronavirus",
+         "author" : "Niraj Chokshi",
+         "content" : "LiveUpdated Sept. 15, 2020, 4:42 p.m. ET\r\nSept. 15, 2020, 4:42 p.m. ET\r\nThe latest economic and business news during the coronavirus pandemic.\r\nHeres what you need to know:\r\nDelta Air Lines has avoid… [+15905 chars]"
+      },
+      {
+         "content" : "As Kraft Heinz tries to make its new customers stick around after the coronavirus pandemic, the company is rethinking its approach to how it responds to trends. \r\n\"We need to make sure that going for… [+2012 chars]",
+         "url" : "https://www.cnbc.com/2020/09/15/kraft-heinz-looks-to-balance-renovation-and-innovation-in-portfolio.html",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/105894907-1557158412548rtx6uc3i.jpg?v=1557159152",
+         "author" : "Amelia Lucas",
+         "title" : "Kraft Heinz looks to revamp Oscar Mayer brand, cut 20% of products, as it rethinks business - CNBC",
+         "source" : {
+            "id" : null,
+            "name" : "CNBC"
+         },
+         "description" : "Shares of Kraft Heinz were up 1% in afternoon trading after the company presented its long-term turnaround plan to investors.",
+         "publishedAt" : "2020-09-15T19:25:00Z"
+      },
+      {
+         "source" : {
+            "name" : "Fox Business",
+            "id" : null
+         },
+         "title" : "Facebook buys REI’s new HQ in coronavirus sale - Fox Business",
+         "publishedAt" : "2020-09-15T19:18:58Z",
+         "description" : "Facebook Inc. is buying Recreational Equipment Inc.’s custom-designed new headquarters near Seattle.",
+         "content" : "Facebook Inc. is buying the custom-designed Seattle-area headquarters of Recreational Equipment Inc., whose business has been pummeled by the coronavirus pandemic.\r\nEconomic pressures from COVID-19 h… [+1870 chars]",
+         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/09/0/0/Facebook-buy-REI-headquarters-2.jpg?ve=1&tl=1",
+         "url" : "https://www.foxbusiness.com/economy/facebook-buys-reis-new-hq-as-coronavirus-pandemic-prompts-sale",
+         "author" : "Julia Musto"
+      },
+      {
+         "title" : "Stocks and bonds, sure, but when it comes to growing your wealth, don't ignore these 7 income producers - MarketWatch",
+         "source" : {
+            "id" : null,
+            "name" : "MarketWatch"
+         },
+         "description" : "",
+         "publishedAt" : "2020-09-15T19:11:00Z",
+         "content" : "The path to financial independence is paved with income-producing assets. And not just the kind you can buy on Robinhood.Most investors rarely venture past stocks and bonds when creating an investmen… [+1678 chars]",
+         "author" : "Shawn Langlois",
+         "url" : "https://www.marketwatch.com/story/stocks-and-bonds-sure-but-when-it-comes-to-growing-your-wealth-dont-ignore-these-7-income-producers-11600197119",
+         "urlToImage" : "https://images.mktw.net/im-232413/social"
+      },
+      {
+         "title" : "Bitcoin CEO: MicroStrategy's Michael Saylor Explains His $425M Bet on BTC - CoinDesk - Coindesk",
+         "source" : {
+            "name" : "CoinDesk",
+            "id" : null
+         },
+         "description" : "Michael Saylor has turned MicroStrategy's sleepy cash surplus into a nearly half-billion-dollar bet on bitcoin's long-term potential.",
+         "publishedAt" : "2020-09-15T18:43:13Z",
+         "content" : "MicroStrategy is prepared to HODL its bitcoin for at least a century.\r\nOr so said the business intelligence firms founder and CEO, Michael Saylor, in an interview with CoinDesk on Tuesday, shortly af… [+5075 chars]",
+         "url" : "https://www.coindesk.com/microstrategy-ceo-michael-saylor-bitcoin",
+         "urlToImage" : "https://static.coindesk.com/wp-content/uploads/2020/09/GettyImages-159806927.jpeg",
+         "author" : "Danny Nelson"
+      },
+      {
+         "description" : "The Federal Open Market Committee will provide its quarterly update on where it sees GDP, unemployment and inflation heading.",
+         "publishedAt" : "2020-09-15T18:37:00Z",
+         "title" : "The Fed could could still move markets Wednesday even with rates on hold for the foreseeable - CNBC",
+         "source" : {
+            "name" : "CNBC",
+            "id" : null
+         },
+         "url" : "https://www.cnbc.com/2020/09/15/even-with-rates-on-hold-teh-fed-.html",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106362394-1580329360810jerry.jpg?v=1580329386",
+         "author" : "Jeff Cox",
+         "content" : "Federal Reserve Board Chairman Jerome Powell speaks during a press conference following the January 28-29 Federal Open Market Committee meeting, in Washington, DC on January 29, 2020.\r\nWhile committe… [+5686 chars]"
+      },
+      {
+         "author" : "Chris Woodyard",
+         "urlToImage" : "https://www.gannett-cdn.com/presto/2018/12/07/USAT/62d18a7a-3098-4a38-b64e-1d17152d0550-2018_USAT_DEC-11.jpg?crop=1023,575,x1,y12&width=1600&height=800&fit=bounds",
+         "url" : "https://www.usatoday.com/story/travel/airline-news/2020/09/15/alaska-airlines-fare-bogo-sale-comes-with-empty-seat/5806652002/",
+         "content" : "Delta Air Lines, American Airlines and Alaska Airlines have all joined United Airlines in ditching change fees for flights within the U.S.\r\nUSA TODAY\r\nTrying to turn its empty seats to an advantage, … [+2473 chars]",
+         "publishedAt" : "2020-09-15T18:29:28Z",
+         "description" : "Instead a regular two-for-one sale, Alaska Airlines is giving two people the middle seat for free. Travel must be booked by midnight Wednesday.",
+         "source" : {
+            "name" : "USA Today",
+            "id" : "usa-today"
+         },
+         "title" : "Alaska Airlines' buy-one, get-one fare sale comes with a bonus: an empty seat for COVID-19 safety - USA TODAY"
+      },
+      {
+         "content" : "Cari Gundee rides her Peloton exercise bike at her home on April 06, 2020 in San Anselmo, California.\r\nPeloton just had a breakout quarter, as sales of its high-tech bikes skyrocketed, and its subscr… [+3607 chars]",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106477458-1586217057114gettyimages-1217247350.jpeg?v=1600192512",
+         "url" : "https://www.cnbc.com/2020/09/15/peloton-thinks-it-can-grow-to-100-million-subscribers-heres-how.html",
+         "author" : "Lauren Thomas",
+         "source" : {
+            "name" : "CNBC",
+            "id" : null
+         },
+         "title" : "Peloton thinks it can grow to 100 million subscribers. Here's how - CNBC",
+         "publishedAt" : "2020-09-15T18:22:00Z",
+         "description" : "Peloton is only raising the bar for itself, in the midst of the coronavirus pandemic, and CEO John Foley says it is aiming to have 100 million paying subscribers."
+      },
+      {
          "content" : "Keep abreast of significant corporate, financial and political developments around the world.\r\nStay informed and spot emerging risks and opportunities with independent global reporting, expert\r\ncomme… [+32 chars]",
          "author" : "Miles Kruppa",
+         "url" : "https://www.ft.com/content/58eb7c26-2154-477f-af19-19157ae29261",
+         "urlToImage" : null,
          "title" : "TikTok set to become a standalone US company to satisfy White House - Financial Times",
-         "url" : "https://www.ft.com/content/58eb7c26-2154-477f-af19-19157ae29261"
+         "source" : {
+            "id" : "financial-times",
+            "name" : "Financial Times"
+         },
+         "description" : "News, analysis and comment from the Financial Times, the worldʼs leading global business publication",
+         "publishedAt" : "2020-09-15T17:57:00Z"
       },
       {
          "url" : "https://gizmodo.com/amazons-kicking-retailers-while-theyre-down-again-1845062320",
-         "content" : "In case you havent heard, retail is in trouble. Aside from the hundreds of clothing stores that have permanently shuttered after the coronavirus brought shopping to a screeching halt, weve also spent… [+4567 chars]",
-         "author" : "Shoshana Wodinsky",
-         "title" : "Amazon's Kicking Retailers While They're Down (Again) - Gizmodo",
-         "publishedAt" : "2020-09-15T17:53:00Z",
          "urlToImage" : "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/wirvur0481j2ecvsi0ke.png",
+         "author" : "Shoshana Wodinsky",
+         "content" : "In case you havent heard, retail is in trouble. Aside from the hundreds of clothing stores that have permanently shuttered after the coronavirus brought shopping to a screeching halt, weve also spent… [+4567 chars]",
          "description" : "In case you haven’t heard, retail is in trouble. Aside from the hundreds of clothing stores that have permanently shuttered after the coronavirus brought shopping to a screeching halt, we’ve also spent the past year watching the slower (though no less tragic)…",
+         "publishedAt" : "2020-09-15T17:53:00Z",
+         "title" : "Amazon's Kicking Retailers While They're Down (Again) - Gizmodo",
          "source" : {
             "name" : "Gizmodo.com",
             "id" : null
          }
       },
       {
+         "content" : "SALT LAKE CITY The brand-new Salt Lake City International Airport lifted off before sunrise Tuesday morning with a blast. \r\nTwo firetrucks honored the first flight to soar out of the new airport Delt… [+14143 chars]",
+         "author" : "Katie McKellar",
+         "urlToImage" : "https://cdn.vox-cdn.com/thumbor/ICjn3sq1FdEaWxejje4WFc-uBNI=/0x276:4100x2423/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/21882603/merlin_2830724.jpg",
+         "url" : "https://www.deseret.com/utah/2020/9/15/21437929/utah-salt-lake-city-international-airport-opens-grand-opening-first-flight-delta",
          "source" : {
             "name" : "Deseret News",
             "id" : null
          },
-         "publishedAt" : "2020-09-15T17:52:23Z",
-         "urlToImage" : "https://cdn.vox-cdn.com/thumbor/ICjn3sq1FdEaWxejje4WFc-uBNI=/0x276:4100x2423/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/21882603/merlin_2830724.jpg",
-         "description" : "Two firetrucks honored the first flight to soar out of the new airport — Delta Flight 2020 — with a water cannon salute. With a flight name signifying a chaotic and uncertain year for the aviation industry, the flight marks a new era for the Salt Lake City In…",
-         "url" : "https://www.deseret.com/utah/2020/9/15/21437929/utah-salt-lake-city-international-airport-opens-grand-opening-first-flight-delta",
          "title" : "First flight lifts off from America’s newest airport in Salt Lake City - Deseret News",
-         "content" : "SALT LAKE CITY The brand-new Salt Lake City International Airport lifted off before sunrise Tuesday morning with a blast. \r\nTwo firetrucks honored the first flight to soar out of the new airport Delt… [+14143 chars]",
-         "author" : "Katie McKellar"
+         "publishedAt" : "2020-09-15T17:52:23Z",
+         "description" : "Two firetrucks honored the first flight to soar out of the new airport — Delta Flight 2020 — with a water cannon salute. With a flight name signifying a chaotic and uncertain year for the aviation industry, the flight marks a new era for the Salt Lake City In…"
       },
       {
-         "url" : "https://www.cnbc.com/2020/09/15/shark-tanks-daymond-john-on-small-business-partnership-with-lowes-.html",
-         "author" : "Kevin Stankiewicz",
-         "content" : "\"Shark Tank\" investor Daymond John told CNBC on Tuesday that he believes his new effort with Lowe's to help diverse entrepreneurs can have widespread appeal  and a big impact. \r\n\"You can get a millio… [+2763 chars]",
-         "title" : "Daymond John says he hopes a million diverse small businesses apply to directly pitch products to Lowe's - CNBC",
-         "description" : "\"After you know you have a product, you know you can distribute it. Now, how do you get it to the masses? [Lowe's] wanted to give people this vehicle to do so, without taking any percentage of their company,\" Daymond John told CNBC.",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106035627-1563916051299img_2436r.jpg?v=1592240911",
-         "publishedAt" : "2020-09-15T17:40:00Z",
+         "content" : "The San Antonio Airport may not be eating \"mor chikin.\"\r\nAfter more than a year of back-and-forth, Chick-fil-A has reportedly decided not to open a location at the San Antonio International Airport. … [+2073 chars]",
+         "url" : "https://www.foxnews.com/food-drink/chick-fil-a-no-texas-airport",
+         "urlToImage" : "https://static.foxnews.com/foxnews.com/content/uploads/2020/08/chick-fil-a.jpg",
+         "author" : "Michael Hollan",
+         "title" : "Chick-fil-A no longer pursuing space in Texas airport - Fox News",
          "source" : {
-            "id" : null,
-            "name" : "CNBC"
-         }
-      },
-      {
-         "description" : "“For GM, there’s really no downside to the deal,” one expert told us.",
-         "publishedAt" : "2020-09-15T17:08:00Z",
-         "urlToImage" : "https://cdn.arstechnica.net/wp-content/uploads/2020/09/GettyImages-1156442344-760x380.jpg",
-         "source" : {
-            "name" : "Ars Technica",
-            "id" : "ars-technica"
+            "name" : "Fox News",
+            "id" : "fox-news"
          },
-         "author" : "Timothy B. Lee",
-         "content" : "Enlarge/ Mary Barra, CEO of General Motors, in 2019.\r\n58 with 36 posters participating, including story author\r\nGM CEO Mary Barra on Monday signaled that the company is standing by its deal to produc… [+4951 chars]",
-         "title" : "GM has no reason to back out of its one-sided deal with Nikola - Ars Technica",
-         "url" : "https://arstechnica.com/cars/2020/09/why-gm-is-sticking-with-nikola-despite-fraud-allegations/"
+         "description" : "Passengers going through the San Antonio Airport may not be eating \"mor chikin.\"",
+         "publishedAt" : "2020-09-15T17:51:39Z"
       },
       {
-         "description" : "Tech stocks pushed Wall Street higher on Tuesday led by Apple shares ahead of a launch event by the company, while investors hoped the Federal Reserve would continue with its dovish stance as the central bank's two-day meeting got underway. Apple Inc's 1.8% r…",
-         "urlToImage" : "https://s.yimg.com/uu/api/res/1.2/BscxSu._p1V9qE1cGudTsw--~B/aD0yNzEwO3c9NDgyMztzbT0xO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/hd/cp-video-transcode/prod/2020-09/15/5f61001afd04d432762966b4/5f61001afd04d432762966b5_o_U_v2.jpg",
-         "publishedAt" : "2020-09-15T16:58:00Z",
-         "source" : {
-            "name" : "Yahoo Entertainment",
-            "id" : null
-         },
-         "author" : "Medha Singh and Devik Jain",
-         "content" : "(For a live blog on the U.S. stock market, click or type LIVE/ in a news window)\r\n* Losses in Citi, JPM shares pressure banks index\r\n* Apple top boost to S&amp;P 500, Nasdaq\r\n* Tesla gains for fifth … [+3177 chars]",
-         "title" : "US STOCKS-Wall Street climbs ahead of Apple event - Yahoo Finance",
-         "url" : "https://finance.yahoo.com/news/us-stocks-wall-street-climbs-165839600.html"
-      },
-      {
-         "author" : "Robert Ferris",
-         "content" : "Costco became a massive global retailer by doing something many people might have once thought crazy: charging people a fee just to shop in its stores. \r\nHowever, it has worked beautifully for the co… [+2170 chars]",
-         "title" : "How Costco makes billions by charging people to shop there - CNBC",
-         "url" : "https://www.cnbc.com/2020/09/15/how-costco-makes-billions-by-charging-people-to-shop-there.html",
-         "description" : "Costco pretty much pioneered the club membership retail model on a large scale. The company did it by charging low prices and staying tightly focused on keeping its members happy - so they keep renewing their memberships. In an era where retailers have strugg…",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106697838-1599764867358-cost.jpg?v=1599764882",
-         "publishedAt" : "2020-09-15T16:11:00Z",
-         "source" : {
-            "name" : "CNBC",
-            "id" : null
-         }
-      },
-      {
-         "content" : "The Dow Jones Industrial Average rallied 225 points early Tuesday before trimming gains, looking to add to Monday's strong stock market advance. Dow Jones leader Apple gained 2%, while Tesla jumped 6… [+6742 chars]",
-         "author" : "Investor's Business Daily",
-         "title" : "Dow Jones Gains 225 Points As Apple, Tesla Jump; Nikola Dives 10% On SEC Investigation - Investor's Business Daily",
-         "url" : "https://www.investors.com/market-trend/stock-market-today/dow-jones-stock-market-rally-apple-tesla-stock-nikola-sec-investigation-draftkings-nvidia/",
-         "urlToImage" : "https://www.investors.com/wp-content/uploads/2020/06/Stock-Nikola-Badger02-company.jpg",
-         "publishedAt" : "2020-09-15T16:08:00Z",
-         "description" : "The Dow Jones Industrial Average rallied 225 points, as the tech rally continued. Apple and Tesla jumped, but Nikola dived 10% on an SEC investigation.",
-         "source" : {
-            "id" : null,
-            "name" : "Investor's Business Daily"
-         }
-      },
-      {
-         "source" : {
-            "id" : null,
-            "name" : "Benzinga"
-         },
-         "publishedAt" : "2020-09-15T16:04:56Z",
-         "urlToImage" : "https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/images/story/2012/ketchup-617231_1920_2.jpg",
-         "description" : "Kraft Heinz Co (NASDAQ: KHC) detailed Tuesday a new strategic transformation plan that targets around $2 billion in cost cuts through 2024.\nOperating ...",
-         "url" : "https://www.benzinga.com/news/20/09/17512069/kraft-heinz-details-new-strategic-transformation-plan",
-         "title" : "Kraft Heinz Details New Strategic Transformation Plan - Benzinga",
-         "content" : "Kraft Heinz Co (NASDAQ: KHC) detailed Tuesday a new strategic transformation plan that targets around $2 billion in cost cuts through 2024.\r\nOperating Model: The core element of Kraft Heinz's transfo… [+1536 chars]",
-         "author" : "Jayson Derrick"
-      },
-      {
-         "source" : {
-            "id" : "the-wall-street-journal",
-            "name" : "The Wall Street Journal"
-         },
-         "description" : "The bank’s need to spend to upgrade risk systems make it hard to bet on a turnaround",
-         "urlToImage" : "https://images.wsj.net/im-232240/social",
-         "publishedAt" : "2020-09-15T15:22:00Z",
-         "title" : "Citigroup Gives Wall Street a Sobering Message - The Wall Street Journal",
-         "author" : "Telis Demos",
-         "content" : "Incoming Chief Executive Jane Frasers historic appointment last week shed a light on Citigroup s upside potential. But investors hoping that might spark a rebound were greeted instead by news Monday … [+1722 chars]",
-         "url" : "https://www.wsj.com/articles/citigroup-gives-wall-street-a-sobering-message-11600183330"
-      },
-      {
-         "url" : "https://electrek.co/2020/09/15/tesla-tsla-rises-app-downloads-delivery-beat-analyst/",
-         "content" : "Tesla’s stock (TSLA) is rising again today as Goldman Sachs reports that Tesla’s mobile app downloads point to a possible delivery beat in Q3.\r\nThe end of the quarter is coming and the market is tryi… [+2262 chars]",
-         "author" : null,
-         "title" : "Tesla (TSLA) rises on app downloads pointing to delivery beat, analyst says - Electrek.co",
-         "urlToImage" : "https://electrek.co/wp-content/uploads/sites/3/2020/07/Tesla-Model-Y-hero.jpg?quality=82&strip=all",
-         "publishedAt" : "2020-09-15T15:04:00Z",
-         "description" : "Tesla’s stock (TSLA) is rising again today as Goldman Sachs reports that Tesla’s mobile app downloads point to a possible delivery beat in Q3. The end of the quarter is coming and the market is trying to gauge how Tesla’s deliveries are tracking for its goal …",
-         "source" : {
-            "name" : "Electrek",
-            "id" : null
-         }
-      },
-      {
-         "url" : "https://www.cnbc.com/2020/09/15/delta-says-it-wont-furlough-most-workers-thanks-to-buyouts-and-shorter-schedules.html",
-         "content" : "Most of Delta Air Lines' roughly 75,000 workers won't face job cuts, thanks to voluntary leaves of absence, buyouts and shorter schedules, the airline said Tuesday.\r\nCarriers have pleaded with employ… [+2176 chars]",
-         "author" : "Leslie Josephs",
-         "title" : "Delta says it won't furlough most workers thanks to buyouts and shorter schedules - CNBC",
-         "publishedAt" : "2020-09-15T14:49:00Z",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106555309-15906692132020-05-28t111916z_1550214401_rc2nxg9fzsvp_rtrmadp_0_health-coronavirus-ceopay.jpeg?v=1600089224",
-         "description" : "Delta said it doesn't plan to furlough flight attendants and other ground workers thanks to shorter schedules and thousands of voluntary buyouts.",
-         "source" : {
-            "id" : null,
-            "name" : "CNBC"
-         }
-      },
-      {
-         "url" : "https://www.cnbc.com/2020/09/15/chamath-palihapitiya-on-coronavirus-stimulus-give-americans-the-money-.html",
-         "title" : "Chamath Palihapitiya: Give Americans stimulus money directly, don't waste it on zombie companies - CNBC",
-         "author" : "Kevin Stankiewicz",
-         "content" : "Any additional coronavirus relief from Congress should focus primarily on giving money directly to Americans, venture capitalist Chamath Palihapitiya told CNBC on Tuesday.\r\n\"We know this economy is a… [+3766 chars]",
-         "source" : {
-            "name" : "CNBC",
-            "id" : null
-         },
-         "description" : "\"The first phase of stimulus was, you know quite honestly, wasted,\" Chamath Palihapitiya told CNBC on Tuesday. \"We know this economy is always consumer led.\"",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/105152384-_sites_default_files_images_105152384-NUP_182670_4345b.jpg?v=1524570837",
-         "publishedAt" : "2020-09-15T14:45:00Z"
-      },
-      {
-         "description" : "U.S. median household income rose 6.8 percent last year to $68,700, while the number of people living in poverty dropped, the government said in a report on Tuesday that offered a snapshot of the economy before millions of American jobs were destroyed by the …",
-         "urlToImage" : "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png",
-         "publishedAt" : "2020-09-15T14:25:00Z",
-         "source" : {
-            "id" : null,
-            "name" : "Yahoo Entertainment"
-         },
-         "url" : "https://finance.yahoo.com/news/u-median-income-rises-poverty-142528104.html",
-         "author" : "Reuters",
-         "content" : "WASHINGTON, Sept 15 (Reuters) - U.S. median household income rose 6.8 percent last year to $68,700, while the number of people living in poverty dropped, the government said in a report on Tuesday th… [+382 chars]",
-         "title" : "U.S. median income rises, poverty rate drops in 2019 -U.S. Census data - Yahoo Finance"
-      },
-      {
+         "description" : "In his new book No Rules Rules, Reed Hastings argues that in order for a creative workplace to succeed, it needs as few policies and rules as possible. Others say the culture is demoralizing.",
+         "publishedAt" : "2020-09-15T17:46:18Z",
+         "title" : "Netflix CEO Embraces 'No Rules,' But Work Is Anything But Chill - NPR",
          "source" : {
             "id" : null,
             "name" : "NPR"
          },
-         "urlToImage" : "https://media.npr.org/assets/img/2020/09/14/usd-2874026_1280_wide-49fa4d2c1ee6755a44332bda6157da2a559f87b9.jpg?s=1400",
-         "publishedAt" : "2020-09-15T14:19:40Z",
-         "description" : "It feels like cash has disappeared. But there's more paper money out there than ever. That might be a problem.",
-         "url" : "https://www.npr.org/sections/money/2020/09/15/912695985/should-we-kill-the-100-bill",
-         "title" : "Should We Kill The $100 Bill? : Planet Money - NPR",
-         "content" : "Editor's note: This is an excerpt of Planet Money's newsletter. You can sign up here.\r\nToday's newsletter is adapted from Money: The True Story of a Made-Up Thing, a new book by Planet Money co-host … [+4974 chars]",
-         "author" : "Jacob Goldstein"
+         "url" : "https://www.npr.org/2020/09/15/912917612/netflix-ceo-embraces-no-rules-but-work-is-anything-but-chill",
+         "urlToImage" : "https://media.npr.org/assets/img/2020/09/14/ap_17309767298274_wide-e2da175676934332b3ee3ce4fe1222bd849df406.jpg?s=1400",
+         "author" : "",
+         "content" : "In his new book No Rules Rules, Reed Hastings attributes Netflix's success to the unorthodox office culture at the company. Hastings is pictured at Summit LA17 in Los Angeles in 2017.\r\nAmy Harris/Inv… [+5078 chars]"
       },
       {
-         "url" : "https://www.marketwatch.com/story/no-longer-seeing-a-recession-fund-managers-are-beginning-to-shift-into-industrials-and-value-stocks-bank-of-america-survey-finds-11600179447",
-         "title" : "No longer seeing a recession, fund managers are beginning to shift into industrials and value stocks, Bank of America survey finds - MarketWatch",
-         "author" : "Steve Goldstein",
-         "content" : "Fund managers are rotating but not chasing stocks after the massive rally from March lows, according to the latest reading of Bank of Americas popular fund manager survey.The survey found that cash l… [+1541 chars]",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106035627-1563916051299img_2436r.jpg?v=1592240911",
+         "url" : "https://www.cnbc.com/2020/09/15/shark-tanks-daymond-john-on-small-business-partnership-with-lowes-.html",
+         "author" : "Kevin Stankiewicz",
+         "content" : "\"Shark Tank\" investor Daymond John told CNBC on Tuesday that he believes his new effort with Lowe's to help diverse entrepreneurs can have widespread appeal  and a big impact. \r\n\"You can get a millio… [+2763 chars]",
+         "publishedAt" : "2020-09-15T17:40:00Z",
+         "description" : "\"After you know you have a product, you know you can distribute it. Now, how do you get it to the masses? [Lowe's] wanted to give people this vehicle to do so, without taking any percentage of their company,\" Daymond John told CNBC.",
          "source" : {
-            "id" : null,
-            "name" : "MarketWatch"
-         },
-         "description" : "",
-         "publishedAt" : "2020-09-15T14:17:00Z",
-         "urlToImage" : "https://images.mktw.net/im-232221/social"
-      },
-      {
-         "url" : "https://www.kitco.com/news/2020-09-15/Fed-to-clear-the-second-hurdle-for-gold-bugs-TD-Securities.html",
-         "author" : "http://www.facebook.com/kitconews",
-         "content" : "Editor's Note: Get caught up in minutes with our speedy summary of today's must-read news stories and expert opinions that moved the precious metals and financial markets. Sign up here!\r\n(Kitco News)… [+1160 chars]",
-         "title" : "Fed to 'clear the second hurdle for gold bugs': TD Securities - Kitco NEWS",
-         "description" : "Market Nuggets compiles all of the day's top expert analysis on the gold market. They offer a short synopsis of bank forecasts, and the outlook of famed economists like Dennis Gartman and Nouriel Roubini. Kitco Nuggets are constantly updated throughout the da…",
-         "urlToImage" : "https://www.kitco.com/news/2020-09-15/images/shutterstock_59720548-min.jpg",
-         "publishedAt" : "2020-09-15T14:11:00Z",
-         "source" : {
-            "name" : "Kitco NEWS",
+            "name" : "CNBC",
             "id" : null
-         }
+         },
+         "title" : "Daymond John says he hopes a million diverse small businesses apply to directly pitch products to Lowe's - CNBC"
       },
       {
+         "title" : "JPMorgan Sends Some Traders Home After Worker Gets Covid-19 - Bloomberg",
+         "source" : {
+            "name" : "Bloomberg",
+            "id" : "bloomberg"
+         },
+         "description" : "JPMorgan Chase & Co. sent some of its Manhattan workers home this week after an employee in equities trading tested positive for Covid-19, according to a person with knowledge of the matter.",
+         "publishedAt" : "2020-09-15T17:27:00Z",
+         "content" : "Photographer: Michael Nagle/Bloomberg\r\nJPMorgan Chase &amp; Co. sent some of its Manhattan workers home this week after an employee in equities trading tested positive for Covid-19, according to a pe… [+2887 chars]",
+         "author" : "Michelle F Davis, Katherine Burton",
+         "url" : "https://www.bloomberg.com/news/articles/2020-09-15/jpmorgan-sends-some-traders-home-after-worker-contracts-covid-19",
+         "urlToImage" : "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/izBbSuuJPXOE/v0/1200x800.jpg"
+      },
+      {
+         "title" : "Merger Monday Confirms An Active Stock Market - Buy Under-Appreciated Biotech - Seeking Alpha",
          "source" : {
             "id" : null,
-            "name" : "Yahoo Entertainment"
+            "name" : "Seeking Alpha"
          },
-         "description" : "Many people are relying on a coronavirus vaccine to bring the world back to normal. But with most potential vaccines still in their testing stages, it's hard...",
-         "publishedAt" : "2020-09-15T14:07:00Z",
-         "urlToImage" : "https://s.yimg.com/uu/api/res/1.2/sfMz6RE146T9oK2a_r.TlA--~B/aD04MDA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en-US/best_life_342/840caf0799cb0d2207f4730046f00597",
-         "url" : "https://www.yahoo.com/lifestyle/worlds-largest-vaccine-manufacturer-troubling-140714982.html",
-         "title" : "The World's Largest Vaccine Manufacturer Has a Troubling COVID Prediction - Yahoo! Voices",
-         "author" : "Kali Coleman",
-         "content" : "Many people are relying on a coronavirus vaccine to bring the world back to normal. But with most potential vaccines still in their testing stages, it's hard to know exactly when we can expect that s… [+2678 chars]"
+         "description" : "I was very pleasantly surprised by the $70 billion worth of M&A announced yesterday. It confirmed that the stock market is alive and well.",
+         "publishedAt" : "2020-09-15T17:15:00Z",
+         "content" : "Mergers have been lagging\r\nMergers for 2020 have vastly lagged last year. This has been a cause of concern for me in judging the health of the stock market. For the raison d'etres of Wall Street is n… [+11080 chars]",
+         "author" : "David H. Lerner",
+         "url" : "https://seekingalpha.com/article/4374418-merger-monday-confirms-active-stock-market-buy-under-appreciated-biotech",
+         "urlToImage" : "https://static2.seekingalpha.com/uploads/2020/9/15/saupload_5YeJ3OV932B8jXd41SJTOoBUivTzE5d6PafrJ5AfX_SgPZt4dXG1QuDPN-HcBhgD9RPuN-BjtrzqDitxbu7cWIDfOFALjTPPVchwtfxTw4qYzEG1k5E-G0tlUzClPjsbtSj-pR8K.png"
       },
       {
-         "title" : "Electric truck maker Nikola's shares fall as SEC reportedly examines short seller's fraud claims - CNBC",
-         "author" : "Michael Wayland",
-         "content" : "Shares of electric truck maker Nikola fell Tuesday after Bloomberg news reported that the U.S. Securities and Exchange Commission is looking into short seller claims that the company misled investors… [+1992 chars]",
-         "url" : "https://www.cnbc.com/2020/09/15/nikolas-shares-fall-as-sec-reportedly-examines-short-sellers-fraud-claims.html",
+         "source" : {
+            "name" : "Ars Technica",
+            "id" : "ars-technica"
+         },
+         "title" : "GM has no reason to back out of its one-sided deal with Nikola - Ars Technica",
+         "publishedAt" : "2020-09-15T17:08:00Z",
+         "description" : "“For GM, there’s really no downside to the deal,” one expert told us.",
+         "content" : "Enlarge/ Mary Barra, CEO of General Motors, in 2019.\r\n58 with 36 posters participating, including story author\r\nGM CEO Mary Barra on Monday signaled that the company is standing by its deal to produc… [+4951 chars]",
+         "urlToImage" : "https://cdn.arstechnica.net/wp-content/uploads/2020/09/GettyImages-1156442344-760x380.jpg",
+         "url" : "https://arstechnica.com/cars/2020/09/why-gm-is-sticking-with-nikola-despite-fraud-allegations/",
+         "author" : "Timothy B. Lee"
+      },
+      {
+         "content" : "Media captionChancellor Rishi Sunak told the BBC that people 'want to be in work' rather than on furlough\r\nThe chancellor has said looking for new ways to protect jobs is his \"number one priority\" af… [+7462 chars]",
+         "author" : "https://www.facebook.com/bbcnews",
+         "url" : "https://www.bbc.com/news/business-54158833",
+         "urlToImage" : "https://ichef.bbci.co.uk/images/ic/1024x576/p08rl57x.jpg",
+         "title" : "Rishi Sunak: New ways to protect jobs 'my priority' - BBC News",
          "source" : {
             "id" : null,
-            "name" : "CNBC"
+            "name" : "BBC News"
          },
-         "description" : "The SEC is reportedly looking into the merits of short seller Hindenburg Research's claims that electric vehicle manufacturer Nikola misled investors about its business prospects.",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106703086-16001809550062019-12-02T220628Z-448915381-RC2AND9J864B-RTRMADP-3-CNH-INDUSTRIAL-NIKOLA-JPG?v=1600181064",
-         "publishedAt" : "2020-09-15T14:02:00Z"
+         "description" : "Chancellor Rishi Sunak says he is looking for \"creative\" solutions as unemployment hits a two-year high.",
+         "publishedAt" : "2020-09-15T16:45:26Z"
       },
       {
          "source" : {
-            "name" : "NBC News",
-            "id" : "nbc-news"
+            "name" : "Investor's Business Daily",
+            "id" : null
          },
-         "publishedAt" : "2020-09-15T13:57:00Z",
-         "urlToImage" : "https://media4.s-nbcnews.com/j/newscms/2020_38/3412192/200915-chick-fil-a-mc-1433_0124bccf7f516cbd9f60011baae1499a.nbcnews-fp-1200-630.JPG",
-         "description" : "The controversy started in March 2019, when the City Council banned the fast-food chain from its airport, citing a \"legacy of anti-LGBT behavior.\"",
-         "url" : "https://www.nbcnews.com/feature/nbc-out/year-after-lgbtq-spat-chick-fil-no-longer-heading-san-n1240120",
-         "title" : "A year after LGBTQ spat, Chick-fil-A no longer heading to San Antonio airport - NBC News",
-         "content" : "AUSTIN, Texas Chick-fil-A said Monday that it no longer plans to open a restaurant in the San Antonio airport, even though the Texas city relented after more than a year of legal wrangling that began… [+2327 chars]",
-         "author" : "The Associated Press"
+         "title" : "Dow Goes For 3 Straight; Apple Up Ahead Of Event - Investor's Business Daily",
+         "publishedAt" : "2020-09-15T16:12:00Z",
+         "description" : "The Dow Jones Industrial Average was off highs midday but looked on track to extend its gains for a third straight session.",
+         "content" : "The Dow Jones Industrial Average was off highs midday, but looked on track to extend its gains for a third straight session.\r\nXThe Nasdaq rallied 1.4%, the S&amp;P 500 rose 0.9% and the Dow Jones ind… [+4419 chars]",
+         "author" : "Investor's Business Daily",
+         "urlToImage" : "https://www.investors.com/wp-content/uploads/2020/09/Stock-Applewatch7-2-company.jpg",
+         "url" : "https://www.investors.com/market-trend/stock-market-today/dow-jones-goes-for-three-straight-apple-stock-rises-ahead-launch-event/"
       }
-   ],
-   "totalResults" : 70,
-   "status" : "ok"
+   ]
 }
