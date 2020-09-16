@@ -1,264 +1,264 @@
 {
    "articles" : [
       {
-         "author" : "Jeremy C. Owens",
-         "content" : "Snowflake Inc. produced a hot start to the busiest week for initial public offerings in more than a year.Snowflake \r\n SNOW, \r\n +2.05%\r\npriced its IPO at $120 a share Tuesday night, which means it wil… [+2450 chars]",
-         "url" : "https://www.marketwatch.com/story/snowflake-brings-in-nearly-4-billion-to-kick-off-big-week-for-ipos-11600224459",
-         "description" : "Software company prices shares at $120 apiece, higher than an already raised range, for valuation of more than $33 billion as busiest week for IPOs in more than a year begins",
+         "title" : "Exclusive: AT&T considers cellphone plans subsidized by ads - Reuters UK",
+         "urlToImage" : "https://static.reuters.com/resources/r/?m=02&d=20200916&t=2&i=1533605069&r=LYNXMPEG8E1YP&w=800",
+         "url" : "https://uk.reuters.com/article/us-at-t-ceo-interview-exclusive-idUKKBN2663HK",
+         "publishedAt" : "2020-09-16T06:11:09Z",
+         "author" : "Sheila Dang, Helen Coster, Krystal Hu, Kenneth Li",
+         "description" : "AT&T Inc is considering offering wireless phone plans partially subsidized by advertising as soon as a year from now, Chief Executive John Stankey said in an interview on Tuesday.",
          "source" : {
-            "name" : "MarketWatch",
+            "id" : "reuters",
+            "name" : "Reuters"
+         },
+         "content" : "(Reuters) - AT&amp;T Inc is considering offering wireless phone plans partially subsidized by advertising as soon as a year from now, Chief Executive John Stankey said in an interview on Tuesday.\r\nTh… [+2990 chars]"
+      },
+      {
+         "content" : "Dow Jones futures were higher overnight Tuesday, along with S&amp;P 500 futures and Nasdaq 100 futures, after Tuesday's tech-fueled rebound. Dow Jones leaders Apple and Microsoft rallied, while Tesla… [+8843 chars]",
+         "source" : {
+            "name" : "Investor's Business Daily",
             "id" : null
          },
+         "author" : "Investor's Business Daily",
+         "description" : "Dow Jones futures higher early Wednesday ahead of the Fed's rate decision. Tesla jumped Tuesday, while Nikola dived. Snowflake will IPO Wednesday.",
+         "urlToImage" : "https://www.investors.com/wp-content/uploads/2019/01/stock-FederalReserve-snow-11-shutter.jpg",
+         "url" : "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-stock-market-rally-federal-reserve-apple-tesla-nikola-adobe-earnings-snowflake/",
+         "publishedAt" : "2020-09-16T04:09:00Z",
+         "title" : "Dow Jones Futures Rise Ahead Of Fed Decision; Buffett-Backed SnowFlake IPO Set To Debut - Investor's Business Daily"
+      },
+      {
+         "content" : "Snowflake Inc. produced a hot start to the busiest week for initial public offerings in more than a year.Snowflake \r\n SNOW, \r\n +2.05%\r\npriced its IPO at $120 a share Tuesday night, which means it wil… [+2450 chars]",
+         "source" : {
+            "id" : null,
+            "name" : "MarketWatch"
+         },
+         "author" : "Jeremy C. Owens",
+         "description" : "Software company prices shares at $120 apiece, higher than an already raised range, for valuation of more than $33 billion as busiest week for IPOs in more than a year begins",
          "urlToImage" : "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+         "url" : "https://www.marketwatch.com/story/snowflake-brings-in-nearly-4-billion-to-kick-off-big-week-for-ipos-11600224459",
          "publishedAt" : "2020-09-16T02:47:00Z",
          "title" : "Snowflake brings in nearly $4 billion to kick off big week for IPOs - MarketWatch"
       },
       {
-         "url" : "https://www.usatoday.com/story/news/nation/2020/09/15/texas-woman-charged-fraud-ppp-loans/5811194002/",
-         "content" : "Small business owners share their difficult and confusing journeys in applying for the Paycheck Protection Program loan.\r\nUSA TODAY\r\nA Texas woman who received nearly $2 million in Paycheck Protectio… [+2520 chars]",
-         "author" : "Jessica Flores",
-         "title" : "Texas woman fraudulently submitted Paycheck Protection Program loan applications for nearly $2M, DOJ says - USA TODAY",
-         "publishedAt" : "2020-09-16T01:23:29Z",
+         "source" : {
+            "name" : "FOX 29",
+            "id" : null
+         },
+         "description" : "In the latest developments between legalized hemp and illegal marijuana, the DEA recently released proposed rules for hemp and CBD just this month. With the agency explaining how it plans to redefine marijuana to exclude hemp, the DEA's new interim final rule…",
+         "author" : "Yami Virgin",
+         "url" : "http://foxsanantonio.com/news/yami-investigates/dea-hemp-rules-raises-concerns-among-the-cbd-industry",
+         "publishedAt" : "2020-09-16T02:44:41Z",
+         "urlToImage" : "http://static-22.sinclairstoryline.com/resources/media/7484e169-0b91-4984-a1a8-e17405f56e59-large16x9_marijuanaplant.jpg?1600215335490",
+         "title" : "DEA: Hemp rules raises concerns among the CBD industry - FOX 29",
+         "content" : null
+      },
+      {
+         "title" : "McDonald's Travis Scott Meal proves to be more popular than expected, leading to shortages and upcoming change - USA TODAY",
+         "urlToImage" : "https://www.gannett-cdn.com/presto/2020/09/09/USAT/ba21c65c-1537-44ac-a397-dc23619d22c2-travis_hero.jpg?crop=1373,772,x1,y15&width=1600&height=800&fit=bounds",
+         "url" : "https://www.usatoday.com/story/money/food/2020/09/15/travis-scott-meal-mcdonalds-shortage-high-demand-cactus-jack/5811186002/",
+         "publishedAt" : "2020-09-16T02:37:30Z",
+         "author" : "Kelly Tyko",
+         "description" : "Cactus Jack sent his fans to McDonald's and more showed up to order the Travis Scott Meal than anticipated. The meal will shift to an app-only offer.",
+         "source" : {
+            "name" : "USA Today",
+            "id" : "usa-today"
+         },
+         "content" : "The fast food chain will rename their Quarter Pounder with Cheese meal after the rapper for a limited time.\r\nVideo Elephant\r\nCactus Jack sent his fans to McDonald's, and more showed up to order the T… [+3683 chars]"
+      },
+      {
+         "content" : "The Nissan Z Proto looks great. Now, let's ballpark its performance and price.\r\nNissan\r\nWith everything that's going on, 2020 probably isn't a great time to be introducing a new sports car. From the … [+11584 chars]",
+         "url" : "https://www.cnet.com/roadshow/news/new-nissan-z-proto-sports-car-twin-turbo-v6-pricing-manual-transmission/",
+         "publishedAt" : "2020-09-16T01:49:00Z",
+         "urlToImage" : "https://cnet3.cbsistatic.com/img/slIMy5ek5y-P1tOcYv9--JTFwXw=/1200x630/2020/09/15/f1c7460f-06aa-4de5-b46b-590dd751a1cb/z-ogi.jpg",
+         "title" : "Nissan Z Proto rocks a twin-turbo V6, manual transmission and retro design - CNET",
+         "source" : {
+            "name" : "CNET",
+            "id" : null
+         },
+         "description" : "Due for production in 2021, we dig deep into Nissan's next-gen Z-Car, covering everything from the design and interior to potential pricing.",
+         "author" : "Chris Paukert"
+      },
+      {
          "source" : {
             "id" : "usa-today",
             "name" : "USA Today"
          },
+         "description" : "Lola Shalewa Barbara Kasali allegedly received more than $1.9 million in PPP loans and transferred the money into four additional bank accounts.",
+         "author" : "Jessica Flores",
+         "url" : "https://www.usatoday.com/story/news/nation/2020/09/15/texas-woman-charged-fraud-ppp-loans/5811194002/",
+         "publishedAt" : "2020-09-16T01:23:29Z",
          "urlToImage" : "https://www.gannett-cdn.com/-mm-/6a620bf7cff8078d958e2fabc3d93216a02314f8/c=0-456-4843-3180/local/-/media/2020/09/09/USATODAY/usatsports/money-wads-of-assorted-bills.jpg?width=3200&height=1680&fit=crop",
-         "description" : "Lola Shalewa Barbara Kasali allegedly received more than $1.9 million in PPP loans and transferred the money into four additional bank accounts."
+         "title" : "Texas woman fraudulently submitted Paycheck Protection Program loan applications for nearly $2M, DOJ says - USA TODAY",
+         "content" : "Small business owners share their difficult and confusing journeys in applying for the Paycheck Protection Program loan.\r\nUSA TODAY\r\nA Texas woman who received nearly $2 million in Paycheck Protectio… [+2520 chars]"
       },
       {
-         "title" : "AstraZeneca COVID-19 trial on hold in US as FDA investigates UK participant's serious illness - Fox Business",
-         "publishedAt" : "2020-09-16T01:07:34Z",
-         "source" : {
-            "name" : "Fox Business",
-            "id" : null
-         },
-         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/09/0/0/AP20245570629611.jpg?ve=1&tl=1",
-         "description" : "“We don’t have all facts, so we don’t know the causation per se of this, but we really need to look into it,\" FDA Commissioner Stephen Hahn said.",
-         "content" : "Food and Drug Administration Commissioner Stephen Hahn said AstraZeneca and Oxford University's Phase 3 COVID-19 vaccine trial in the United States remains on hold after global trials were paused las… [+2084 chars]",
-         "author" : "Lucas Manfredi",
-         "url" : "https://www.foxbusiness.com/healthcare/astrazeneca-covid-19-trial-on-hold-while-fda-investigates-serious-illness"
-      },
-      {
-         "content" : "Beginning today through Sept. 16, guests traveling by Oct. 31 could get a whole row to themselves when they book a flight and get a second ticket on the same flight for just the taxes and fees.\r\nThis… [+167 chars]",
-         "author" : "HNN Staff",
+         "title" : "Alaska Airlines launches ‘Get the Row with BOGO’ sale - Hawaii News Now",
+         "publishedAt" : "2020-09-16T01:05:00Z",
          "url" : "https://www.hawaiinewsnow.com/2020/09/15/alaska-airlines-launches-get-row-with-bogo-sale/",
          "urlToImage" : "https://www.hawaiinewsnow.com/resizer/182prJkvvNXFtiU_rfqAwiLUWJs=/1200x0/cloudfront-us-east-1.images.arcpublishing.com/raycom/4SWSQKUYSJAFROO7RVFLCF25EY.aspx",
+         "description" : "Guests on Alaska traveling by Oct. 31 could get a whole row to themselves.",
+         "author" : "HNN Staff",
          "source" : {
             "id" : null,
             "name" : "Hawaii News Now"
          },
-         "description" : "Guests on Alaska traveling by Oct. 31 could get a whole row to themselves.",
-         "title" : "Alaska Airlines launches ‘Get the Row with BOGO’ sale - Hawaii News Now",
-         "publishedAt" : "2020-09-16T01:05:00Z"
+         "content" : "Beginning today through Sept. 16, guests traveling by Oct. 31 could get a whole row to themselves when they book a flight and get a second ticket on the same flight for just the taxes and fees.\r\nThis… [+167 chars]"
       },
       {
-         "author" : null,
-         "content" : "September 15, 2020 7:54 PM\r\nPosted: September 15, 2020 7:54 PM\r\nSarah Glenn/Getty Images\r\nYuengling, the storied Philadelphia brewery, is headed west for the first time in its 191-year history.\r\nD.G.… [+2139 chars]",
+         "title" : "Yuengling beer will be available in Wisconsin as part of new partnership with Molson Coors - Channel3000.com - WISC-TV3",
+         "publishedAt" : "2020-09-16T00:54:00Z",
          "url" : "https://www.channel3000.com/yuengling-beer-will-be-available-in-wisconsin-as-part-of-new-partnership-with-molson-coors/",
-         "description" : "Yuengling, the storied Philadelphia brewery, is headed west for the first time in its 191-year history.",
          "urlToImage" : "https://wpcdn.us-east-1.vip.tn-cloud.net/www.channel3000.com/content/uploads/2020/09/Yuengling-Lager-1280.jpg",
+         "description" : "Yuengling, the storied Philadelphia brewery, is headed west for the first time in its 191-year history.",
+         "author" : null,
          "source" : {
             "id" : null,
             "name" : "Channel3000.com - WISC-TV3"
          },
-         "publishedAt" : "2020-09-16T00:54:00Z",
-         "title" : "Yuengling beer will be available in Wisconsin as part of new partnership with Molson Coors - Channel3000.com - WISC-TV3"
+         "content" : "September 15, 2020 7:54 PM\r\nPosted: September 15, 2020 7:54 PM\r\nSarah Glenn/Getty Images\r\nYuengling, the storied Philadelphia brewery, is headed west for the first time in its 191-year history.\r\nD.G.… [+2139 chars]"
       },
       {
-         "urlToImage" : "https://i.insider.com/5592f04b6da8111c7737e6c0?format=jpeg",
-         "source" : {
-            "id" : "business-insider",
-            "name" : "Business Insider"
-         },
-         "description" : "Billionaire investor Chamath Palihapitiya reportedly plans to raise $500 million with 4th SPAC as blank-check spree continues",
-         "title" : "Billionaire investor Chamath Palihapitiya reportedly plans to raise $500 million with 4th SPAC as blank-check spree continues | Markets - Business Insider",
-         "publishedAt" : "2020-09-16T00:45:00Z",
-         "author" : "Ben Winck",
          "content" : "Brian Ach/Getty Images for TechCrunch\r\n<ul><li>Social Capital Hedosophia the blank-check partnership led by billionaire investor Chamath Palihapitiya and venture fund founder Ian Osbourne aims to rai… [+2930 chars]",
-         "url" : "https://www.businessinsider.com/chamath-palihapitiya-fourth-spac-blank-check-firm-social-capital-hedosophia-2020-9"
+         "urlToImage" : "https://i.insider.com/5592f04b6da8111c7737e6c0?format=jpeg",
+         "url" : "https://www.businessinsider.com/chamath-palihapitiya-fourth-spac-blank-check-firm-social-capital-hedosophia-2020-9",
+         "publishedAt" : "2020-09-16T00:45:00Z",
+         "title" : "Billionaire investor Chamath Palihapitiya reportedly plans to raise $500 million with 4th SPAC as blank-check spree continues | Markets - Business Insider",
+         "source" : {
+            "name" : "Business Insider",
+            "id" : "business-insider"
+         },
+         "author" : "Ben Winck",
+         "description" : "Billionaire investor Chamath Palihapitiya reportedly plans to raise $500 million with 4th SPAC as blank-check spree continues"
       },
       {
+         "source" : {
+            "name" : "TODAY",
+            "id" : null
+         },
          "description" : "The fancy Southern-style sandwich will only be available in the Carolinas.",
-         "source" : {
-            "id" : null,
-            "name" : "TODAY"
-         },
-         "urlToImage" : "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB194SMg.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg",
-         "publishedAt" : "2020-09-16T00:43:00Z",
-         "title" : "Chick-fil-A testing new chicken sandwich with a southern twist - msnNOW",
+         "author" : null,
          "url" : "https://www.today.com/food/chick-fil-testing-new-chicken-sandwich-southern-twist-t191765",
-         "content" : "Chick-fil-A is trying to get folks to eat mor chicken by giving them more options.\r\nThe chain announced certain Chick-fil-A restaurants will begin selling a honey pepper pimento chicken sandwich this… [+1277 chars]",
-         "author" : null
+         "publishedAt" : "2020-09-16T00:43:00Z",
+         "urlToImage" : "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB194SMg.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg",
+         "title" : "Chick-fil-A testing new chicken sandwich with a southern twist - msnNOW",
+         "content" : "Chick-fil-A is trying to get folks to eat mor chicken by giving them more options.\r\nThe chain announced certain Chick-fil-A restaurants will begin selling a honey pepper pimento chicken sandwich this… [+1277 chars]"
       },
       {
-         "content" : "The new plan could launch in a year or two\r\nIllustration by Alex Castro / The Verge\r\nAT&amp;T is mulling offering wireless phone plans that would be subsidized in part by ads, CEO John Stankey said i… [+1254 chars]",
-         "url" : "https://www.theverge.com/2020/9/15/21438987/att-phone-plan-ads-ceo-john-stankey",
-         "author" : "Jay Peters",
-         "publishedAt" : "2020-09-16T00:42:24Z",
-         "title" : "AT&T CEO wants you to consume ads in exchange for a slightly cheaper phone plan - The Verge",
-         "description" : "AT&T is mulling offering wireless phone plans that would be subsidized in part by ads, AT&T CEO John Stankey said in an interview with Reuters. They could launch in a “year or two.”",
-         "source" : {
-            "name" : "The Verge",
-            "id" : "the-verge"
-         },
-         "urlToImage" : "https://cdn.vox-cdn.com/thumbor/IzojXk4f9MzzwbyRZinGMcHL7Pg=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/10690893/acastro_180322_1777_0001.jpg"
-      },
-      {
+         "urlToImage" : "https://s.yimg.com/uu/api/res/1.2/YsrC9OhvKnG56YjPrXY8tA--~B/aD0xMzM0O3c9MjAwMDtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bloomberg_technology_68/4db42ade85b02ab9c08a5ba6291fead8",
          "url" : "https://finance.yahoo.com/news/trump-clash-tiktok-founder-takes-001029620.html",
-         "content" : "(Bloomberg) -- Zhang Yiming, founder of TikTok-parent company ByteDance Ltd., is showing Donald Trump he knows something about dealmaking too.\r\nIn his proposal to partner with Oracle Corp. to address… [+7094 chars]",
+         "publishedAt" : "2020-09-16T00:18:42Z",
+         "title" : "In Trump Clash, TikTok Founder Takes Page From ‘Art of the Deal’ - Yahoo Finance",
+         "source" : {
+            "name" : "Yahoo Entertainment",
+            "id" : null
+         },
          "author" : "Zheping Huang and Shelly Banjo",
          "description" : "(Bloomberg) -- Zhang Yiming, founder of TikTok-parent company ByteDance Ltd., is showing Donald Trump he knows something about dealmaking too.In his proposal to partner with Oracle Corp. to address U.S. security concerns about the hit video app, the Chinese e…",
-         "urlToImage" : "https://s.yimg.com/uu/api/res/1.2/YsrC9OhvKnG56YjPrXY8tA--~B/aD0xMzM0O3c9MjAwMDtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bloomberg_technology_68/4db42ade85b02ab9c08a5ba6291fead8",
-         "source" : {
-            "id" : null,
-            "name" : "Yahoo Entertainment"
-         },
-         "publishedAt" : "2020-09-16T00:18:42Z",
-         "title" : "In Trump Clash, TikTok Founder Takes Page From ‘Art of the Deal’ - Yahoo Finance"
+         "content" : "(Bloomberg) -- Zhang Yiming, founder of TikTok-parent company ByteDance Ltd., is showing Donald Trump he knows something about dealmaking too.\r\nIn his proposal to partner with Oracle Corp. to address… [+7094 chars]"
       },
       {
-         "description" : "Exclusive to Kitco News, technical analyst Gary Wagner provides a daily recap of what happened in the gold market, highlighting important events that captured investors' attention during the U.S. trading session. Wagner's commentary features a mix of fundamen…",
          "source" : {
             "id" : null,
             "name" : "Kitco NEWS"
          },
-         "urlToImage" : "https://www.kitco.com/commentaries/2020-09-15/images/WagnerSept15.PNG",
-         "publishedAt" : "2020-09-16T00:16:00Z",
-         "title" : "FOMC meeting begins, traders await tomorrow's statement and press conference - Kitco NEWS",
+         "description" : "Exclusive to Kitco News, technical analyst Gary Wagner provides a daily recap of what happened in the gold market, highlighting important events that captured investors' attention during the U.S. trading session. Wagner's commentary features a mix of fundamen…",
          "author" : "http://www.facebook.com/kitconews",
-         "content" : "The most important economic event of the month began today. This morning members of the Federal Reserve convened to meet for the first time since the virtual economic symposium was held last month vi… [+3503 chars]",
-         "url" : "https://www.kitco.com/commentaries/2020-09-15/FOMC-meeting-begins-traders-await-tomorrow-s-statement-press-conference.html"
+         "url" : "https://www.kitco.com/commentaries/2020-09-15/FOMC-meeting-begins-traders-await-tomorrow-s-statement-press-conference.html",
+         "publishedAt" : "2020-09-16T00:16:00Z",
+         "urlToImage" : "https://www.kitco.com/commentaries/2020-09-15/images/WagnerSept15.PNG",
+         "title" : "FOMC meeting begins, traders await tomorrow's statement and press conference - Kitco NEWS",
+         "content" : "The most important economic event of the month began today. This morning members of the Federal Reserve convened to meet for the first time since the virtual economic symposium was held last month vi… [+3503 chars]"
       },
       {
-         "title" : "McDonald’s, Travis Scott's McNugget body pillow is a hit on social media - Fox News",
-         "publishedAt" : "2020-09-16T00:07:12Z",
-         "source" : {
-            "id" : "fox-news",
-            "name" : "Fox News"
-         },
-         "urlToImage" : "https://static.foxnews.com/foxnews.com/content/uploads/2019/08/c0c58d8e-McDonalds-arch-exterior.jpg",
-         "description" : "Fans of chicken nuggets can cuddle up with a McDonald’s Chicken McNugget body pillow.",
-         "content" : "Fans of chicken nuggets can cuddle up with a McDonald’s Chicken McNugget body pillow.\r\nThe 3-foot long pillow looks just like the real deal and costs a whopping $90 from rapper Travis Scott’s online … [+2465 chars]",
-         "url" : "https://www.foxnews.com/food-drink/mcdonalds-travis-scott-mcnugget-body-pillow-social-media",
-         "author" : "Cortney Moore"
-      },
-      {
-         "source" : {
-            "name" : "NPR",
-            "id" : null
-         },
-         "urlToImage" : "https://media.npr.org/assets/img/2020/09/15/gettyimages-1272672191_wide-9f675a0d683d9fd4984e0d56435be87f3cbc6b87.jpg?s=1400",
-         "description" : "Senators pressed the tech giant on the scope and scale of its digital advertising business. Republicans repeated long-running allegations of conservative bias.",
+         "content" : "Senators pressed Google executive Donald Harrison over whether the tech giant wields too much power over advertisers and publishers in the digital ad market, amid widening scrutiny of the company's d… [+3548 chars]",
          "title" : "Google Says It Doesn't Monopolize Digital Ad Market. Senators Don't Buy It - NPR",
          "publishedAt" : "2020-09-15T23:55:00Z",
          "url" : "https://www.npr.org/2020/09/15/913328975/google-says-it-doesnt-monopolize-digital-ad-market-senators-don-t-buy-it",
-         "content" : "Senators pressed Google executive Donald Harrison over whether the tech giant wields too much power over advertisers and publishers in the digital ad market, amid widening scrutiny of the company's d… [+3548 chars]",
-         "author" : ""
+         "urlToImage" : "https://media.npr.org/assets/img/2020/09/15/gettyimages-1272672191_wide-9f675a0d683d9fd4984e0d56435be87f3cbc6b87.jpg?s=1400",
+         "description" : "Senators pressed the tech giant on the scope and scale of its digital advertising business. Republicans repeated long-running allegations of conservative bias.",
+         "author" : "",
+         "source" : {
+            "name" : "NPR",
+            "id" : null
+         }
       },
       {
-         "author" : null,
-         "content" : null,
-         "url" : "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9alFtR2NCTzlMWGvSAQA?oc=5",
-         "publishedAt" : "2020-09-15T23:32:32Z",
-         "title" : "Jim Cramer: Too many struggling small businesses can't wait for a vaccine - CNBC Television",
-         "description" : null,
+         "content" : "Amazon has launched a new bid into luxury with the rollout of a couture shopping experience that will feature established and emerging fashion houses and brands.\r\nThe companys Luxury Stores launched … [+6096 chars]",
+         "description" : "Amazon has launched a new bid into luxury with the rollout of a couture shopping experience that will feature established and emerging fashion houses and brands.",
+         "author" : "Leticia Miranda",
          "source" : {
-            "id" : "google-news",
-            "name" : "Google News"
+            "id" : "nbc-news",
+            "name" : "NBC News"
          },
-         "urlToImage" : null
+         "title" : "Will Amazon's new luxury online store be fashion's savior — or archenemy? - NBC News",
+         "publishedAt" : "2020-09-15T23:46:00Z",
+         "url" : "https://www.nbcnews.com/business/business-news/will-amazon-s-new-luxury-online-store-be-fashion-s-n1240169",
+         "urlToImage" : "https://media3.s-nbcnews.com/j/newscms/2020_38/3412294/200915-amazon-luxury-stores-ew-507p_35d4f0d002c20315028f2a7770d77f36.nbcnews-fp-1200-630.jpg"
       },
       {
-         "urlToImage" : "https://images.wsj.net/im-232332/social",
+         "author" : "Cristina Flores",
+         "description" : "If you are driving to the new Salt Lake International Airport for the first time, give yourself some extra time. Caption: KUTV: Michael Locklear reports Airport bosses say the overall experience of going to the airport should be better in the new facility, bu…",
          "source" : {
-            "id" : "the-wall-street-journal",
-            "name" : "The Wall Street Journal"
+            "id" : null,
+            "name" : "KUTV 2News"
+         },
+         "title" : "Forget what you knew about driving to, navigating Salt Lake International Airport - KUTV 2News",
+         "urlToImage" : "http://static-41.sinclairstoryline.com/resources/media/ea32ecfd-efa0-49aa-b988-8490604ad10c-large16x9_DrivingtothenewSaltLakeInternationalAirport091520cristina4.png?1600211429806",
+         "publishedAt" : "2020-09-15T23:45:00Z",
+         "url" : "http://kutv.com/news/local/driving-to-the-new-salt-lake-international-airport",
+         "content" : null
+      },
+      {
+         "source" : {
+            "name" : "Reuters",
+            "id" : "reuters"
+         },
+         "author" : "Reuters Staff",
+         "description" : "Pfizer Inc <PFE.N> said on Tuesday participants were showing mostly mild-to-moderate side effects when given either the company's experimental coronavirus vaccine or a placebo in an ongoing late-stage study.",
+         "urlToImage" : "https://static.reuters.com/resources/r/?m=02&d=20200915&t=2&i=1533594711&r=LYNXMPEG8E1P8&w=800",
+         "url" : "https://www.reuters.com/article/us-health-coronavirus-pfizer-idUKKBN26631T",
+         "publishedAt" : "2020-09-15T23:42:36Z",
+         "title" : "Pfizer says coronavirus vaccine study shows mostly mild-to-moderate side effects - Reuters",
+         "content" : "By Reuters Staff\r\nFILE PHOTOL A man walks past a sign outside Pfizer Headquarters in the Manhattan borough of New York City, New York, U.S., July 22, 2020. REUTERS/Carlo Allegri\r\n(Reuters) - Pfizer I… [+1847 chars]"
+      },
+      {
+         "urlToImage" : null,
+         "publishedAt" : "2020-09-15T23:36:49Z",
+         "url" : "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9bHpadmdBVTg3NjDSAQA?oc=5",
+         "title" : "Jim Cramer: Bank earnings will pull the curtain on the state of small business - CNBC Television",
+         "source" : {
+            "name" : "Google News",
+            "id" : "google-news"
+         },
+         "author" : null,
+         "description" : null,
+         "content" : null
+      },
+      {
+         "publishedAt" : "2020-09-15T23:17:00Z",
+         "url" : "https://www.wsj.com/articles/ftc-preparing-possible-antitrust-suit-against-facebook-11600211840",
+         "urlToImage" : "https://images.wsj.net/im-232332/social",
+         "title" : "FTC Preparing Possible Antitrust Suit Against Facebook - The Wall Street Journal",
+         "source" : {
+            "name" : "The Wall Street Journal",
+            "id" : "the-wall-street-journal"
          },
          "description" : "No final decision has been made on the outcome of a yearlong probe as discussions with the social-media giant continue",
-         "title" : "FTC Preparing Possible Antitrust Suit Against Facebook - The Wall Street Journal",
-         "publishedAt" : "2020-09-15T23:17:00Z",
-         "content" : "WASHINGTONThe Federal Trade Commission is gearing up to file a possible antitrust lawsuit against Facebook Inc. by year-end, according to people familiar with the matter, in a case that would challen… [+333 chars]",
          "author" : "Brent Kendall, John D. McKinnon, Ryan Tracy",
-         "url" : "https://www.wsj.com/articles/ftc-preparing-possible-antitrust-suit-against-facebook-11600211840"
+         "content" : "WASHINGTONThe Federal Trade Commission is gearing up to file a possible antitrust lawsuit against Facebook Inc. by year-end, according to people familiar with the matter, in a case that would challen… [+333 chars]"
       },
       {
-         "url" : "https://www.theblockcrypto.com/linked/77872/bakkts-bitcoin-futures-market-surges-after-months-of-trailing-rival-cme",
-         "content" : null,
-         "author" : null,
-         "publishedAt" : "2020-09-15T23:11:00Z",
-         "title" : "Bakkt's bitcoin futures market hits all-time high after months of trailing rival CME - The Block Crypto",
-         "description" : "Crypto derivatives provider Bakkt has recently gained some ground in the market for bitcoin futures. The firm, which is set to launch a retail trading app",
-         "source" : {
-            "name" : "The Block Crypto",
-            "id" : null
-         },
-         "urlToImage" : "https://www.tbstat.com/wp/uploads/2020/07/20200728_Bakkt_generic.jpg"
-      },
-      {
-         "title" : "Amazon launches first online 'Luxury Store' with Oscar de la Renta - Business Insider - Business Insider",
-         "publishedAt" : "2020-09-15T23:04:45Z",
-         "source" : {
-            "name" : "Business Insider",
-            "id" : "business-insider"
-         },
-         "urlToImage" : "https://i.insider.com/5f60d13057b7da001ee11a12?width=1200&format=jpeg",
-         "description" : "Tuesday's announcement is a big step for the \"everything store,\" which has long sought to tap into the $300 billion global luxury market.",
-         "content" : "Amazon is partnering with fashion house Oscar de la Renta to launch the first of its online, invitation-only \"Luxury Stores.\" The initiative, which will announce additional partnerships in the coming… [+2179 chars]",
-         "author" : "Isabella Jibilian",
-         "url" : "https://www.businessinsider.com/how-to-access-amazon-luxury-store-oscar-de-la-renta-2020-9"
-      },
-      {
-         "urlToImage" : "https://ichef.bbci.co.uk/news/1024/branded_news/1256F/production/_114391157_lenmcc.jpg",
+         "content" : "Image copyrightGrace Fletcher\r\nFormer flight attendant Grace Fletcher says she and some former colleagues would do anything to get back into aviation. \r\nShe loves her current job, helping vulnerable … [+4778 chars]",
          "source" : {
             "name" : "BBC News",
             "id" : null
          },
-         "description" : "Unite warns of a 'miserable Christmas' for workers without an extension of government jobs support.",
-         "title" : "'Redundancy floodgates will open' says Unite union - BBC News",
-         "publishedAt" : "2020-09-15T23:01:33Z",
-         "url" : "https://www.bbc.com/news/business-54169687",
-         "content" : "Image copyrightDan Kitwood\r\nThe Unite union has called on the government to say it will extend its furlough scheme or face \"redundancy floodgates\" opening in the UK.\r\nMany workers can expect a \"miser… [+3971 chars]",
-         "author" : "https://www.facebook.com/bbcnews"
-      },
-      {
-         "description" : "",
-         "source" : {
-            "name" : "MarketWatch",
-            "id" : null
-         },
-         "urlToImage" : "https://s.wsj.net/public/resources/MWimages/MW-GP644_MicroS_ZG_20180906154215.jpg",
-         "publishedAt" : "2020-09-15T22:12:00Z",
-         "title" : "Adobe shares rise 3% on revenue, earnings beat - MarketWatch",
-         "content" : "Adobe Inc. \r\n ADBE, \r\n +2.42%\r\nshares were up 3% in after-hours trading Tuesday after the software company reported fiscal third-quarter results that bested Wall Street estimates. Adobe reported net … [+823 chars]",
-         "url" : "https://www.marketwatch.com/story/adobe-shares-rise-3-on-revenue-earnings-beat-2020-09-15",
-         "author" : "Jon Swartz"
-      },
-      {
-         "content" : "Red Lobster is adding a Mountain Dew margarita to the menu, sparking disgust and awe online. \r\nThe DEW Garita will roll out at select Red Lobster restaurants in September, and will hit menus across t… [+1543 chars]",
-         "author" : "Kate Taylor",
-         "url" : "https://www.businessinsider.com/red-lobster-mountain-dew-margarita-to-the-menu-2020-9",
-         "urlToImage" : "https://i.insider.com/5f612fc257b7da001ee11daf?width=1200&format=jpeg",
-         "source" : {
-            "name" : "Business Insider",
-            "id" : "business-insider"
-         },
-         "description" : "The DEW Garita is rolling out in select restaurants in September and will hit menus across the US by the end of the year.",
-         "title" : "Red Lobster is adding a Mountain Dew margarita to the menu and people are freaking out - Business Insider - Business Insider",
-         "publishedAt" : "2020-09-15T21:57:11Z"
-      },
-      {
-         "source" : {
-            "id" : null,
-            "name" : "New York Times"
-         },
-         "urlToImage" : "https://static01.nyt.com/images/2020/09/15/business/15ittloans/15ittloans-facebookJumbo.jpg",
-         "description" : "Borrowers have defaulted in overwhelming rates on loans that were sometimes fraudulently signed without their knowledge by ITT employees, government prosecutors said.",
-         "title" : "ITT Tech Students Will Get $330 Million in Loan Relief - The New York Times",
-         "publishedAt" : "2020-09-15T21:51:00Z",
-         "author" : "Stacy Cowley",
-         "content" : "The settlement agreement, which requires a federal judges approval to be enacted, covers about 35,000 borrowers, many of whom have been left with high debts and ruined credit. The deal requires the l… [+1398 chars]",
-         "url" : "https://www.nytimes.com/2020/09/15/business/itt-tech-student-loan-settlement.html"
+         "author" : "https://www.facebook.com/bbcnews",
+         "description" : "As Thomas Cook relaunches online a year after its collapse, we ask former staff their reaction.",
+         "urlToImage" : "https://ichef.bbci.co.uk/news/1024/branded_news/16CE1/production/_114390439_gracefletcherthomascook.png",
+         "url" : "https://www.bbc.com/news/business-54169690",
+         "publishedAt" : "2020-09-15T23:03:17Z",
+         "title" : "Thomas Cook: 'I wish the business well' - BBC News"
       }
    ],
    "totalResults" : 70,
