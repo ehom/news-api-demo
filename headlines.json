@@ -1,266 +1,266 @@
 {
    "articles" : [
       {
-         "title" : "Buffett-backed cloud unicorn Snowflake nets $3.4 billion in record-breaking software IPO | Markets - Business Insider",
-         "content" : "<ul><li>Billionaire investor-backed Snowflake said it would raise $3.4 billion in the largest-ever software IPO, giving it a value of over $33 billion.</li><li>The cloud-data platform will sell 28 mi… [+2741 chars]",
-         "publishedAt" : "2020-09-16T09:45:41Z",
          "source" : {
-            "name" : "Business Insider",
-            "id" : "business-insider"
+            "id" : "business-insider",
+            "name" : "Business Insider"
          },
-         "author" : "Shalini Nagarajan",
-         "urlToImage" : "https://i.insider.com/5f61bb50323fc4001e0d67e4?format=jpeg",
          "description" : "Buffett-backed cloud unicorn Snowflake nets $3.4 billion in record-breaking software IPO",
-         "url" : "https://www.businessinsider.com/snowflake-ipo-biggest-ever-software-listing-2020-9"
+         "urlToImage" : "https://i.insider.com/5f61bb50323fc4001e0d67e4?format=jpeg",
+         "content" : "<ul><li>Billionaire investor-backed Snowflake said it would raise $3.4 billion in the largest-ever software IPO, giving it a value of over $33 billion.</li><li>The cloud-data platform will sell 28 mi… [+2741 chars]",
+         "url" : "https://www.businessinsider.com/snowflake-ipo-biggest-ever-software-listing-2020-9",
+         "author" : "Shalini Nagarajan",
+         "publishedAt" : "2020-09-16T09:45:41Z",
+         "title" : "Buffett-backed cloud unicorn Snowflake nets $3.4 billion in record-breaking software IPO | Markets - Business Insider"
       },
       {
-         "content" : "LONDON The global economy has performed better-than-expected but it is still on track for an \"unprecedented\" decline in output, the Organization for Economic Cooperation and Development warned Wednes… [+1822 chars]",
+         "url" : "https://www.cnbc.com/2020/09/16/oecd-projects-global-gdp-will-collapse-by-4point5percent-this-year.html",
          "publishedAt" : "2020-09-16T09:01:00Z",
+         "author" : "Silvia Amaro",
          "title" : "OECD projects global GDP will collapse by 4.5% this year - CNBC",
          "description" : "Going forward, the OECD expects the global economy to grow by 5% in 2021.",
-         "url" : "https://www.cnbc.com/2020/09/16/oecd-projects-global-gdp-will-collapse-by-4point5percent-this-year.html",
-         "author" : "Silvia Amaro",
          "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106660083-1597232293905-gettyimages-1228010321-AFP_1WG2L0.jpeg?v=1597232342",
          "source" : {
             "name" : "CNBC",
             "id" : null
-         }
+         },
+         "content" : "LONDON The global economy has performed better-than-expected but it is still on track for an \"unprecedented\" decline in output, the Organization for Economic Cooperation and Development warned Wednes… [+1822 chars]"
       },
       {
-         "publishedAt" : "2020-09-16T07:51:22Z",
-         "content" : "U.S. equity futures are pointing to a higher open ahead of the Wednesday trading session, which will include the release of new economic forecasts from the Federal Reserve.\r\nThe major futures indexes… [+2959 chars]",
-         "title" : "Stock futures trade higher ahead of economic data, Fed decision - Fox Business",
          "url" : "https://www.foxbusiness.com/markets/stock-futures-trade-higher-ahead-of-economic-data-fed-decision",
+         "author" : "Ken Martin",
+         "publishedAt" : "2020-09-16T07:51:22Z",
+         "title" : "Stock futures trade higher ahead of economic data, Fed decision - Fox Business",
+         "source" : {
+            "name" : "Fox Business",
+            "id" : null
+         },
          "description" : "The Federal Reserve decision will be released Wednesday afternoon",
          "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/08/0/0/stock-trader-AP-002.jpg?ve=1&tl=1",
-         "author" : "Ken Martin",
-         "source" : {
-            "id" : null,
-            "name" : "Fox Business"
-         }
+         "content" : "U.S. equity futures are pointing to a higher open ahead of the Wednesday trading session, which will include the release of new economic forecasts from the Federal Reserve.\r\nThe major futures indexes… [+2959 chars]"
       },
       {
-         "description" : null,
-         "url" : "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9aEJOYUxSYlF3bGvSAQA?oc=5",
+         "content" : null,
          "source" : {
             "id" : "google-news",
             "name" : "Google News"
          },
-         "author" : null,
          "urlToImage" : null,
-         "content" : null,
+         "description" : null,
          "publishedAt" : "2020-09-16T07:46:42Z",
-         "title" : "Trump says Oracle close to TikTok deal as ByteDance aims for majority ownership - Reuters"
+         "author" : null,
+         "title" : "Trump says Oracle close to TikTok deal as ByteDance aims for majority ownership - Reuters",
+         "url" : "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9aEJOYUxSYlF3bGvSAQA?oc=5"
       },
       {
-         "description" : "Grenke shares slide",
-         "url" : "https://www.marketwatch.com/story/european-stocks-rise-lifted-by-retailers-including-inditex-as-investors-await-fed-decision-11600242337",
-         "author" : "Barbara Kollmeyer",
+         "content" : "European stocks inched up on Wednesday, with retail stocks rising after Inditex SA results, as investors waited for the outcome of the Federal Reserve meeting later. U.S. stock futures also rose. The… [+2359 chars]",
          "urlToImage" : "https://images.mktw.net/im-232655/social",
+         "description" : "Grenke shares slide",
          "source" : {
             "id" : null,
             "name" : "MarketWatch"
          },
-         "content" : "European stocks inched up on Wednesday, with retail stocks rising after Inditex SA results, as investors waited for the outcome of the Federal Reserve meeting later. U.S. stock futures also rose. The… [+2359 chars]",
          "publishedAt" : "2020-09-16T07:45:00Z",
-         "title" : "European stocks rise, lifted by retailers including Inditex, as investors await Fed decision - MarketWatch"
+         "title" : "European stocks rise, lifted by retailers including Inditex, as investors await Fed decision - MarketWatch",
+         "author" : "Barbara Kollmeyer",
+         "url" : "https://www.marketwatch.com/story/european-stocks-rise-lifted-by-retailers-including-inditex-as-investors-await-fed-decision-11600242337"
       },
       {
-         "url" : "https://uk.reuters.com/article/us-at-t-ceo-interview-exclusive-idUKKBN2663HK",
-         "description" : "AT&T Inc is considering offering wireless phone plans partially subsidized by advertising as soon as a year from now, Chief Executive John Stankey said in an interview on Tuesday.",
-         "urlToImage" : "https://static.reuters.com/resources/r/?m=02&d=20200916&t=2&i=1533605069&r=LYNXMPEG8E1YP&w=800",
-         "author" : "Sheila Dang, Helen Coster, Krystal Hu, Kenneth Li",
-         "source" : {
-            "id" : "reuters",
-            "name" : "Reuters"
-         },
          "publishedAt" : "2020-09-16T06:11:09Z",
+         "author" : "Sheila Dang, Helen Coster, Krystal Hu, Kenneth Li",
+         "title" : "Exclusive: AT&T considers cellphone plans subsidized by ads - Reuters UK",
+         "url" : "https://uk.reuters.com/article/us-at-t-ceo-interview-exclusive-idUKKBN2663HK",
          "content" : "(Reuters) - AT&amp;T Inc is considering offering wireless phone plans partially subsidized by advertising as soon as a year from now, Chief Executive John Stankey said in an interview on Tuesday.\r\nTh… [+2990 chars]",
-         "title" : "Exclusive: AT&T considers cellphone plans subsidized by ads - Reuters UK"
+         "source" : {
+            "name" : "Reuters",
+            "id" : "reuters"
+         },
+         "urlToImage" : "https://static.reuters.com/resources/r/?m=02&d=20200916&t=2&i=1533605069&r=LYNXMPEG8E1YP&w=800",
+         "description" : "AT&T Inc is considering offering wireless phone plans partially subsidized by advertising as soon as a year from now, Chief Executive John Stankey said in an interview on Tuesday."
       },
       {
-         "title" : "Five things to watch at the Federal Reserve meeting - Financial Times",
-         "content" : "The Federal Open Market Committee meets on Wednesday for the last time before the US presidential election — and the first time since it embraced a new monetary strategy that will be more tolerant of… [+6317 chars]",
-         "publishedAt" : "2020-09-16T04:01:48Z",
          "source" : {
-            "name" : "Financial Times",
-            "id" : "financial-times"
+            "id" : "financial-times",
+            "name" : "Financial Times"
          },
-         "author" : null,
          "urlToImage" : "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fc5f44fa2-3a4c-48cf-b95c-ad4c7caf162a.jpg?source=next-opengraph&fit=scale-down&width=900",
          "description" : "FOMC gathers for last time before election and first time since monetary strategy shift",
-         "url" : "https://www.ft.com/content/7baea7d0-23c3-4f24-af88-77cf7dce2725"
+         "content" : "The Federal Open Market Committee meets on Wednesday for the last time before the US presidential election — and the first time since it embraced a new monetary strategy that will be more tolerant of… [+6317 chars]",
+         "url" : "https://www.ft.com/content/7baea7d0-23c3-4f24-af88-77cf7dce2725",
+         "publishedAt" : "2020-09-16T04:01:48Z",
+         "title" : "Five things to watch at the Federal Reserve meeting - Financial Times",
+         "author" : null
       },
       {
-         "content" : "Kraft Heinz Co. KHC 0.31% is parting with a big chunk of its cheese business, a sign of the challenges facing food companies whose scale complicated operations as the coronavirus pandemic drove unpre… [+5653 chars]",
          "publishedAt" : "2020-09-16T03:10:20Z",
          "title" : "Kraft Heinz to sell part of cheese business for $3.2 Billion - Fox Business",
-         "description" : "Kraft Heinz said Tuesday that it had reached a deal to sell its U.S. natural-cheese business and a mix of other cheese brands in North America and internationally to France’s Groupe Lactalis SA for $3.2 billion.",
-         "url" : "https://www.wsj.com/articles/kraft-heinz-nears-deal-to-sell-part-of-cheese-business-to-lactalis-11600182175?mod=searchresults&amp;page=1&amp;pos=1",
          "author" : "The Wall Street Journal",
+         "url" : "https://www.wsj.com/articles/kraft-heinz-nears-deal-to-sell-part-of-cheese-business-to-lactalis-11600182175?mod=searchresults&amp;page=1&amp;pos=1",
+         "content" : "Kraft Heinz Co. KHC 0.31% is parting with a big chunk of its cheese business, a sign of the challenges facing food companies whose scale complicated operations as the coronavirus pandemic drove unpre… [+5653 chars]",
          "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/09/0/0/Kraft-Cheese.jpg?ve=1&tl=1",
+         "description" : "Kraft Heinz said Tuesday that it had reached a deal to sell its U.S. natural-cheese business and a mix of other cheese brands in North America and internationally to France’s Groupe Lactalis SA for $3.2 billion.",
          "source" : {
-            "name" : "The Wall Street Journal",
-            "id" : "the-wall-street-journal"
+            "id" : "the-wall-street-journal",
+            "name" : "The Wall Street Journal"
          }
       },
       {
-         "publishedAt" : "2020-09-16T02:44:41Z",
-         "content" : null,
-         "title" : "DEA: Hemp rules raises concerns among the CBD industry - FOX 29",
-         "url" : "http://foxsanantonio.com/news/yami-investigates/dea-hemp-rules-raises-concerns-among-the-cbd-industry",
-         "description" : "In the latest developments between legalized hemp and illegal marijuana, the DEA recently released proposed rules for hemp and CBD just this month. With the agency explaining how it plans to redefine marijuana to exclude hemp, the DEA's new interim final rule…",
-         "urlToImage" : "http://static-22.sinclairstoryline.com/resources/media/7484e169-0b91-4984-a1a8-e17405f56e59-large16x9_marijuanaplant.jpg?1600215335490",
-         "author" : "Yami Virgin",
          "source" : {
             "id" : null,
             "name" : "FOX 29"
-         }
+         },
+         "urlToImage" : "http://static-22.sinclairstoryline.com/resources/media/7484e169-0b91-4984-a1a8-e17405f56e59-large16x9_marijuanaplant.jpg?1600215335490",
+         "description" : "In the latest developments between legalized hemp and illegal marijuana, the DEA recently released proposed rules for hemp and CBD just this month. With the agency explaining how it plans to redefine marijuana to exclude hemp, the DEA's new interim final rule…",
+         "content" : null,
+         "url" : "http://foxsanantonio.com/news/yami-investigates/dea-hemp-rules-raises-concerns-among-the-cbd-industry",
+         "author" : "Yami Virgin",
+         "publishedAt" : "2020-09-16T02:44:41Z",
+         "title" : "DEA: Hemp rules raises concerns among the CBD industry - FOX 29"
       },
       {
          "url" : "https://www.usatoday.com/story/money/food/2020/09/15/travis-scott-meal-mcdonalds-shortage-high-demand-cactus-jack/5811186002/",
-         "description" : "Cactus Jack sent his fans to McDonald's and more showed up to order the Travis Scott Meal than anticipated. The meal will shift to an app-only offer.",
+         "title" : "McDonald's Travis Scott Meal proves to be more popular than expected, leading to shortages and upcoming change - USA TODAY",
+         "publishedAt" : "2020-09-16T02:37:30Z",
+         "author" : "Kelly Tyko",
          "source" : {
             "name" : "USA Today",
             "id" : "usa-today"
          },
+         "description" : "Cactus Jack sent his fans to McDonald's and more showed up to order the Travis Scott Meal than anticipated. The meal will shift to an app-only offer.",
          "urlToImage" : "https://www.gannett-cdn.com/presto/2020/09/09/USAT/ba21c65c-1537-44ac-a397-dc23619d22c2-travis_hero.jpg?crop=1373,772,x1,y15&width=1600&height=800&fit=bounds",
-         "author" : "Kelly Tyko",
-         "publishedAt" : "2020-09-16T02:37:30Z",
-         "content" : "The fast food chain will rename their Quarter Pounder with Cheese meal after the rapper for a limited time.\r\nVideo Elephant\r\nCactus Jack sent his fans to McDonald's, and more showed up to order the T… [+3683 chars]",
-         "title" : "McDonald's Travis Scott Meal proves to be more popular than expected, leading to shortages and upcoming change - USA TODAY"
+         "content" : "The fast food chain will rename their Quarter Pounder with Cheese meal after the rapper for a limited time.\r\nVideo Elephant\r\nCactus Jack sent his fans to McDonald's, and more showed up to order the T… [+3683 chars]"
       },
       {
+         "description" : "Lola Shalewa Barbara Kasali allegedly received more than $1.9 million in PPP loans and transferred the money into four additional bank accounts.",
+         "urlToImage" : "https://www.gannett-cdn.com/-mm-/6a620bf7cff8078d958e2fabc3d93216a02314f8/c=0-456-4843-3180/local/-/media/2020/09/09/USATODAY/usatsports/money-wads-of-assorted-bills.jpg?width=3200&height=1680&fit=crop",
+         "source" : {
+            "name" : "USA Today",
+            "id" : "usa-today"
+         },
+         "content" : "Small business owners share their difficult and confusing journeys in applying for the Paycheck Protection Program loan.\r\nUSA TODAY\r\nA Texas woman who received nearly $2 million in Paycheck Protectio… [+2520 chars]",
+         "url" : "https://www.usatoday.com/story/news/nation/2020/09/15/texas-woman-charged-fraud-ppp-loans/5811194002/",
          "title" : "Texas woman fraudulently submitted Paycheck Protection Program loan applications for nearly $2M, DOJ says - USA TODAY",
          "publishedAt" : "2020-09-16T01:23:29Z",
-         "content" : "Small business owners share their difficult and confusing journeys in applying for the Paycheck Protection Program loan.\r\nUSA TODAY\r\nA Texas woman who received nearly $2 million in Paycheck Protectio… [+2520 chars]",
-         "source" : {
-            "id" : "usa-today",
-            "name" : "USA Today"
-         },
-         "urlToImage" : "https://www.gannett-cdn.com/-mm-/6a620bf7cff8078d958e2fabc3d93216a02314f8/c=0-456-4843-3180/local/-/media/2020/09/09/USATODAY/usatsports/money-wads-of-assorted-bills.jpg?width=3200&height=1680&fit=crop",
-         "author" : "Jessica Flores",
-         "url" : "https://www.usatoday.com/story/news/nation/2020/09/15/texas-woman-charged-fraud-ppp-loans/5811194002/",
-         "description" : "Lola Shalewa Barbara Kasali allegedly received more than $1.9 million in PPP loans and transferred the money into four additional bank accounts."
+         "author" : "Jessica Flores"
       },
       {
+         "publishedAt" : "2020-09-16T01:05:00Z",
          "author" : "HNN Staff",
+         "title" : "Alaska Airlines launches ‘Get the Row with BOGO’ sale - Hawaii News Now",
+         "url" : "https://www.hawaiinewsnow.com/2020/09/15/alaska-airlines-launches-get-row-with-bogo-sale/",
+         "content" : "Beginning today through Sept. 16, guests traveling by Oct. 31 could get a whole row to themselves when they book a flight and get a second ticket on the same flight for just the taxes and fees.\r\nThis… [+167 chars]",
          "urlToImage" : "https://www.hawaiinewsnow.com/resizer/182prJkvvNXFtiU_rfqAwiLUWJs=/1200x0/cloudfront-us-east-1.images.arcpublishing.com/raycom/4SWSQKUYSJAFROO7RVFLCF25EY.aspx",
+         "description" : "Guests on Alaska traveling by Oct. 31 could get a whole row to themselves.",
          "source" : {
             "name" : "Hawaii News Now",
             "id" : null
-         },
-         "description" : "Guests on Alaska traveling by Oct. 31 could get a whole row to themselves.",
-         "url" : "https://www.hawaiinewsnow.com/2020/09/15/alaska-airlines-launches-get-row-with-bogo-sale/",
-         "title" : "Alaska Airlines launches ‘Get the Row with BOGO’ sale - Hawaii News Now",
-         "content" : "Beginning today through Sept. 16, guests traveling by Oct. 31 could get a whole row to themselves when they book a flight and get a second ticket on the same flight for just the taxes and fees.\r\nThis… [+167 chars]",
-         "publishedAt" : "2020-09-16T01:05:00Z"
+         }
       },
       {
-         "title" : "Yuengling beer will be available in Wisconsin as part of new partnership with Molson Coors - Channel3000.com - WISC-TV3",
-         "content" : "September 15, 2020 7:54 PM\r\nPosted: September 15, 2020 7:54 PM\r\nSarah Glenn/Getty Images\r\nYuengling, the storied Philadelphia brewery, is headed west for the first time in its 191-year history.\r\nD.G.… [+2139 chars]",
+         "url" : "https://www.channel3000.com/yuengling-beer-will-be-available-in-wisconsin-as-part-of-new-partnership-with-molson-coors/",
          "publishedAt" : "2020-09-16T00:54:00Z",
          "author" : null,
+         "title" : "Yuengling beer will be available in Wisconsin as part of new partnership with Molson Coors - Channel3000.com - WISC-TV3",
          "urlToImage" : "https://wpcdn.us-east-1.vip.tn-cloud.net/www.channel3000.com/content/uploads/2020/09/Yuengling-Lager-1280.jpg",
+         "description" : "Yuengling, the storied Philadelphia brewery, is headed west for the first time in its 191-year history.",
          "source" : {
             "name" : "Channel3000.com - WISC-TV3",
             "id" : null
          },
-         "description" : "Yuengling, the storied Philadelphia brewery, is headed west for the first time in its 191-year history.",
-         "url" : "https://www.channel3000.com/yuengling-beer-will-be-available-in-wisconsin-as-part-of-new-partnership-with-molson-coors/"
+         "content" : "September 15, 2020 7:54 PM\r\nPosted: September 15, 2020 7:54 PM\r\nSarah Glenn/Getty Images\r\nYuengling, the storied Philadelphia brewery, is headed west for the first time in its 191-year history.\r\nD.G.… [+2139 chars]"
       },
       {
-         "content" : "Chat with us in Facebook Messenger. Find out what's happening in the world as it unfolds.",
-         "publishedAt" : "2020-09-16T00:48:43Z",
-         "title" : "Nissan gives a glimpse of its first Z car in more than a decade - CNN",
-         "description" : "Nissan's Z Proto concept shows what the much-anticipated production model might look like. It has been 11 years since Nissan produced a sports car in the Z family.",
-         "url" : "https://www.cnn.com/videos/business/2020/09/15/nissan-z-proto-sportscar-auto-concept-orig.cnn-business",
-         "author" : null,
          "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200915142422-01-nissan-z-proto-super-tease.jpg",
+         "description" : "Nissan's Z Proto concept shows what the much-anticipated production model might look like. It has been 11 years since Nissan produced a sports car in the Z family.",
          "source" : {
-            "id" : "cnn",
-            "name" : "CNN"
-         }
+            "name" : "CNN",
+            "id" : "cnn"
+         },
+         "content" : "Chat with us in Facebook Messenger. Find out what's happening in the world as it unfolds.",
+         "url" : "https://www.cnn.com/videos/business/2020/09/15/nissan-z-proto-sportscar-auto-concept-orig.cnn-business",
+         "publishedAt" : "2020-09-16T00:48:43Z",
+         "author" : null,
+         "title" : "Nissan gives a glimpse of its first Z car in more than a decade - CNN"
       },
       {
-         "publishedAt" : "2020-09-16T00:45:00Z",
-         "content" : "The Nissan Z car has inspired generations of sports car fans since it was released in 1969. It has been an upstart, a disco-era style statement, an upscale sports car, and a long-in-the-tooth coupe j… [+3949 chars]",
-         "title" : "Nissan Z Proto previews next-generation sports car with twin-turbo V-6, retro-modern design - Motor Authority",
-         "url" : "https://www.motorauthority.com/news/1129584_nissan-z-proto-previews-next-generation-sports-car-with-twin-turbo-v-6-retro-modern-design",
-         "description" : "Could this be the Nissan 400Z? It'll take at least a year to become more clear.",
-         "urlToImage" : "https://images.hgmsites.net/hug/nissan_100761293_h.jpg",
-         "author" : "Kirk Bell",
          "source" : {
             "id" : null,
             "name" : "Motor Authority"
-         }
+         },
+         "description" : "Could this be the Nissan 400Z? It'll take at least a year to become more clear.",
+         "urlToImage" : "https://images.hgmsites.net/hug/nissan_100761293_h.jpg",
+         "content" : "The Nissan Z car has inspired generations of sports car fans since it was released in 1969. It has been an upstart, a disco-era style statement, an upscale sports car, and a long-in-the-tooth coupe j… [+3949 chars]",
+         "url" : "https://www.motorauthority.com/news/1129584_nissan-z-proto-previews-next-generation-sports-car-with-twin-turbo-v-6-retro-modern-design",
+         "title" : "Nissan Z Proto previews next-generation sports car with twin-turbo V-6, retro-modern design - Motor Authority",
+         "publishedAt" : "2020-09-16T00:45:00Z",
+         "author" : "Kirk Bell"
       },
       {
-         "title" : "Apple And Tesla Changed The Game - Seeking Alpha",
-         "content" : "If you are an investor looking for market trends, then you probably want to listen what I have to say today. A new era of the market is upon us, and it is one that's likely to make the rounds at comp… [+4470 chars]",
-         "publishedAt" : "2020-09-16T00:02:00Z",
-         "author" : "Bill Maurer",
-         "urlToImage" : "https://static3.seekingalpha.com/uploads/2020/9/15/saupload_trading-places-dan-aykroyd-eddie-murphy.jpeg",
          "source" : {
             "id" : null,
             "name" : "Seeking Alpha"
          },
+         "urlToImage" : "https://static3.seekingalpha.com/uploads/2020/9/15/saupload_trading-places-dan-aykroyd-eddie-murphy.jpeg",
          "description" : "Investors have cheered names announcing stock splits. 2 of 3 recent names subsequently announced equity offerings.",
-         "url" : "https://seekingalpha.com/article/4374548-apple-and-tesla-changed-game"
+         "content" : "If you are an investor looking for market trends, then you probably want to listen what I have to say today. A new era of the market is upon us, and it is one that's likely to make the rounds at comp… [+4470 chars]",
+         "url" : "https://seekingalpha.com/article/4374548-apple-and-tesla-changed-game",
+         "publishedAt" : "2020-09-16T00:02:00Z",
+         "title" : "Apple And Tesla Changed The Game - Seeking Alpha",
+         "author" : "Bill Maurer"
       },
       {
-         "description" : "Senators pressed the tech giant on the scope and scale of its digital advertising business. Republicans repeated long-running allegations of conservative bias.",
          "url" : "https://www.npr.org/2020/09/15/913328975/google-says-it-doesnt-monopolize-digital-ad-market-senators-don-t-buy-it",
-         "source" : {
-            "name" : "NPR",
-            "id" : null
-         },
-         "author" : "",
-         "urlToImage" : "https://media.npr.org/assets/img/2020/09/15/gettyimages-1272672191_wide-9f675a0d683d9fd4984e0d56435be87f3cbc6b87.jpg?s=1400",
-         "content" : "Senators pressed Google executive Donald Harrison over whether the tech giant wields too much power over advertisers and publishers in the digital ad market, amid widening scrutiny of the company's d… [+3548 chars]",
          "publishedAt" : "2020-09-15T23:55:00Z",
-         "title" : "Google Says It Doesn't Monopolize Digital Ad Market. Senators Don't Buy It - NPR"
+         "title" : "Google Says It Doesn't Monopolize Digital Ad Market. Senators Don't Buy It - NPR",
+         "author" : "",
+         "source" : {
+            "id" : null,
+            "name" : "NPR"
+         },
+         "description" : "Senators pressed the tech giant on the scope and scale of its digital advertising business. Republicans repeated long-running allegations of conservative bias.",
+         "urlToImage" : "https://media.npr.org/assets/img/2020/09/15/gettyimages-1272672191_wide-9f675a0d683d9fd4984e0d56435be87f3cbc6b87.jpg?s=1400",
+         "content" : "Senators pressed Google executive Donald Harrison over whether the tech giant wields too much power over advertisers and publishers in the digital ad market, amid widening scrutiny of the company's d… [+3548 chars]"
       },
       {
+         "url" : "http://kutv.com/news/local/driving-to-the-new-salt-lake-international-airport",
+         "publishedAt" : "2020-09-15T23:45:00Z",
          "author" : "Cristina Flores",
+         "title" : "Forget what you knew about driving to, navigating Salt Lake International Airport - KUTV 2News",
          "urlToImage" : "http://static-41.sinclairstoryline.com/resources/media/ea32ecfd-efa0-49aa-b988-8490604ad10c-large16x9_DrivingtothenewSaltLakeInternationalAirport091520cristina4.png?1600211429806",
+         "description" : "If you are driving to the new Salt Lake International Airport for the first time, give yourself some extra time. Caption: KUTV: Michael Locklear reports Airport bosses say the overall experience of going to the airport should be better in the new facility, bu…",
          "source" : {
             "name" : "KUTV 2News",
             "id" : null
          },
-         "description" : "If you are driving to the new Salt Lake International Airport for the first time, give yourself some extra time. Caption: KUTV: Michael Locklear reports Airport bosses say the overall experience of going to the airport should be better in the new facility, bu…",
-         "url" : "http://kutv.com/news/local/driving-to-the-new-salt-lake-international-airport",
-         "title" : "Forget what you knew about driving to, navigating Salt Lake International Airport - KUTV 2News",
-         "content" : null,
-         "publishedAt" : "2020-09-15T23:45:00Z"
+         "content" : null
       },
       {
-         "description" : "No final decision has been made on the outcome of a yearlong probe as discussions with the social-media giant continue",
          "url" : "https://www.wsj.com/articles/ftc-preparing-possible-antitrust-suit-against-facebook-11600211840",
+         "title" : "FTC Preparing Possible Antitrust Suit Against Facebook - The Wall Street Journal",
+         "publishedAt" : "2020-09-15T23:17:00Z",
          "author" : "Brent Kendall, John D. McKinnon, Ryan Tracy",
-         "urlToImage" : "https://images.wsj.net/im-232332/social",
          "source" : {
             "name" : "The Wall Street Journal",
             "id" : "the-wall-street-journal"
          },
-         "content" : "WASHINGTONThe Federal Trade Commission is gearing up to file a possible antitrust lawsuit against Facebook Inc. by year-end, according to people familiar with the matter, in a case that would challen… [+333 chars]",
-         "publishedAt" : "2020-09-15T23:17:00Z",
-         "title" : "FTC Preparing Possible Antitrust Suit Against Facebook - The Wall Street Journal"
+         "description" : "No final decision has been made on the outcome of a yearlong probe as discussions with the social-media giant continue",
+         "urlToImage" : "https://images.wsj.net/im-232332/social",
+         "content" : "WASHINGTONThe Federal Trade Commission is gearing up to file a possible antitrust lawsuit against Facebook Inc. by year-end, according to people familiar with the matter, in a case that would challen… [+333 chars]"
       },
       {
-         "title" : "Thomas Cook: 'I wish the business well' - BBC News",
          "content" : "Image copyrightGrace Fletcher\r\nFormer flight attendant Grace Fletcher says she and some former colleagues would do anything to get back into aviation. \r\nShe loves her current job, helping vulnerable … [+4778 chars]",
-         "publishedAt" : "2020-09-15T23:03:17Z",
-         "source" : {
-            "name" : "BBC News",
-            "id" : null
-         },
-         "author" : "https://www.facebook.com/bbcnews",
          "urlToImage" : "https://ichef.bbci.co.uk/news/1024/branded_news/16CE1/production/_114390439_gracefletcherthomascook.png",
          "description" : "As Thomas Cook relaunches online a year after its collapse, we ask former staff their reaction.",
+         "source" : {
+            "id" : null,
+            "name" : "BBC News"
+         },
+         "publishedAt" : "2020-09-15T23:03:17Z",
+         "title" : "Thomas Cook: 'I wish the business well' - BBC News",
+         "author" : "https://www.facebook.com/bbcnews",
          "url" : "https://www.bbc.com/news/business-54169690"
       }
    ],
-   "totalResults" : 70,
-   "status" : "ok"
+   "status" : "ok",
+   "totalResults" : 70
 }
