@@ -3,263 +3,263 @@
    "articles" : [
       {
          "content" : "The Nissan Z Proto looks great. Now, let's ballpark its performance and price.\r\nNissan\r\nWith everything that's going on, 2020 probably isn't a great time to be introducing a new sports car. From the … [+11584 chars]",
-         "url" : "https://www.cnet.com/roadshow/news/new-nissan-z-proto-sports-car-twin-turbo-v6-pricing-manual-transmission/",
+         "description" : "Due for production in 2021, we dig deep into Nissan's next-gen Z-Car, covering everything from the design and interior to potential pricing.",
          "title" : "Nissan Z Proto rocks a twin-turbo V6, manual transmission and retro design - CNET",
-         "source" : {
-            "name" : "CNET",
-            "id" : null
-         },
          "author" : "Chris Paukert",
-         "publishedAt" : "2020-09-16T01:49:00Z",
          "urlToImage" : "https://cnet3.cbsistatic.com/img/slIMy5ek5y-P1tOcYv9--JTFwXw=/1200x630/2020/09/15/f1c7460f-06aa-4de5-b46b-590dd751a1cb/z-ogi.jpg",
-         "description" : "Due for production in 2021, we dig deep into Nissan's next-gen Z-Car, covering everything from the design and interior to potential pricing."
+         "source" : {
+            "id" : null,
+            "name" : "CNET"
+         },
+         "url" : "https://www.cnet.com/roadshow/news/new-nissan-z-proto-sports-car-twin-turbo-v6-pricing-manual-transmission/",
+         "publishedAt" : "2020-09-16T01:49:00Z"
       },
       {
+         "content" : "Small business owners share their difficult and confusing journeys in applying for the Paycheck Protection Program loan.\r\nUSA TODAY\r\nA Texas woman who received nearly $2 million in Paycheck Protectio… [+2520 chars]",
+         "title" : "Texas woman fraudulently submitted Paycheck Protection Program loan applications for nearly $2M, DOJ says - USA TODAY",
          "description" : "Lola Shalewa Barbara Kasali allegedly received more than $1.9 million in PPP loans and transferred the money into four additional bank accounts.",
          "urlToImage" : "https://www.gannett-cdn.com/-mm-/6a620bf7cff8078d958e2fabc3d93216a02314f8/c=0-456-4843-3180/local/-/media/2020/09/09/USATODAY/usatsports/money-wads-of-assorted-bills.jpg?width=3200&height=1680&fit=crop",
-         "publishedAt" : "2020-09-16T01:23:29Z",
          "author" : "Jessica Flores",
-         "url" : "https://www.usatoday.com/story/news/nation/2020/09/15/texas-woman-charged-fraud-ppp-loans/5811194002/",
-         "title" : "Texas woman fraudulently submitted Paycheck Protection Program loan applications for nearly $2M, DOJ says - USA TODAY",
-         "content" : "Small business owners share their difficult and confusing journeys in applying for the Paycheck Protection Program loan.\r\nUSA TODAY\r\nA Texas woman who received nearly $2 million in Paycheck Protectio… [+2520 chars]",
          "source" : {
             "name" : "USA Today",
             "id" : "usa-today"
-         }
+         },
+         "url" : "https://www.usatoday.com/story/news/nation/2020/09/15/texas-woman-charged-fraud-ppp-loans/5811194002/",
+         "publishedAt" : "2020-09-16T01:23:29Z"
       },
       {
-         "author" : "Ben Winck",
          "publishedAt" : "2020-09-16T00:45:00Z",
          "source" : {
-            "name" : "Business Insider",
-            "id" : "business-insider"
+            "id" : "business-insider",
+            "name" : "Business Insider"
          },
-         "content" : "Brian Ach/Getty Images for TechCrunch\r\n<ul><li>Social Capital Hedosophia the blank-check partnership led by billionaire investor Chamath Palihapitiya and venture fund founder Ian Osbourne aims to rai… [+2930 chars]",
          "url" : "https://www.businessinsider.com/chamath-palihapitiya-fourth-spac-blank-check-firm-social-capital-hedosophia-2020-9",
-         "title" : "Billionaire investor Chamath Palihapitiya reportedly plans to raise $500 million with 4th SPAC as blank-check spree continues | Markets - Business Insider",
+         "content" : "Brian Ach/Getty Images for TechCrunch\r\n<ul><li>Social Capital Hedosophia the blank-check partnership led by billionaire investor Chamath Palihapitiya and venture fund founder Ian Osbourne aims to rai… [+2930 chars]",
+         "author" : "Ben Winck",
+         "urlToImage" : "https://i.insider.com/5592f04b6da8111c7737e6c0?format=jpeg",
          "description" : "Billionaire investor Chamath Palihapitiya reportedly plans to raise $500 million with 4th SPAC as blank-check spree continues",
-         "urlToImage" : "https://i.insider.com/5592f04b6da8111c7737e6c0?format=jpeg"
+         "title" : "Billionaire investor Chamath Palihapitiya reportedly plans to raise $500 million with 4th SPAC as blank-check spree continues | Markets - Business Insider"
       },
       {
-         "description" : "AT&T is mulling offering wireless phone plans that would be subsidized in part by ads, AT&T CEO John Stankey said in an interview with Reuters. They could launch in a “year or two.”",
-         "urlToImage" : "https://cdn.vox-cdn.com/thumbor/IzojXk4f9MzzwbyRZinGMcHL7Pg=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/10690893/acastro_180322_1777_0001.jpg",
-         "author" : "Jay Peters",
-         "publishedAt" : "2020-09-16T00:42:24Z",
          "source" : {
-            "name" : "The Verge",
-            "id" : "the-verge"
+            "id" : "the-verge",
+            "name" : "The Verge"
          },
-         "content" : "The new plan could launch in a year or two\r\nIllustration by Alex Castro / The Verge\r\nAT&amp;T is mulling offering wireless phone plans that would be subsidized in part by ads, CEO John Stankey said i… [+1254 chars]",
+         "url" : "https://www.theverge.com/2020/9/15/21438987/att-phone-plan-ads-ceo-john-stankey",
+         "publishedAt" : "2020-09-16T00:42:24Z",
          "title" : "AT&T CEO wants you to consume ads in exchange for a slightly cheaper phone plan - The Verge",
-         "url" : "https://www.theverge.com/2020/9/15/21438987/att-phone-plan-ads-ceo-john-stankey"
+         "description" : "AT&T is mulling offering wireless phone plans that would be subsidized in part by ads, AT&T CEO John Stankey said in an interview with Reuters. They could launch in a “year or two.”",
+         "author" : "Jay Peters",
+         "urlToImage" : "https://cdn.vox-cdn.com/thumbor/IzojXk4f9MzzwbyRZinGMcHL7Pg=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/10690893/acastro_180322_1777_0001.jpg",
+         "content" : "The new plan could launch in a year or two\r\nIllustration by Alex Castro / The Verge\r\nAT&amp;T is mulling offering wireless phone plans that would be subsidized in part by ads, CEO John Stankey said i… [+1254 chars]"
       },
       {
-         "description" : "Fans of chicken nuggets can cuddle up with a McDonald’s Chicken McNugget body pillow.",
-         "urlToImage" : "https://static.foxnews.com/foxnews.com/content/uploads/2019/08/c0c58d8e-McDonalds-arch-exterior.jpg",
          "publishedAt" : "2020-09-16T00:07:12Z",
-         "author" : "Cortney Moore",
+         "url" : "https://www.foxnews.com/food-drink/mcdonalds-travis-scott-mcnugget-body-pillow-social-media",
          "source" : {
             "name" : "Fox News",
             "id" : "fox-news"
          },
-         "url" : "https://www.foxnews.com/food-drink/mcdonalds-travis-scott-mcnugget-body-pillow-social-media",
+         "content" : "Fans of chicken nuggets can cuddle up with a McDonald’s Chicken McNugget body pillow.\r\nThe 3-foot long pillow looks just like the real deal and costs a whopping $90 from rapper Travis Scott’s online … [+2465 chars]",
+         "urlToImage" : "https://static.foxnews.com/foxnews.com/content/uploads/2019/08/c0c58d8e-McDonalds-arch-exterior.jpg",
+         "author" : "Cortney Moore",
          "title" : "McDonald’s, Travis Scott's McNugget body pillow is a hit on social media - Fox News",
-         "content" : "Fans of chicken nuggets can cuddle up with a McDonald’s Chicken McNugget body pillow.\r\nThe 3-foot long pillow looks just like the real deal and costs a whopping $90 from rapper Travis Scott’s online … [+2465 chars]"
+         "description" : "Fans of chicken nuggets can cuddle up with a McDonald’s Chicken McNugget body pillow."
       },
       {
-         "publishedAt" : "2020-09-15T23:55:00Z",
-         "author" : "",
-         "url" : "https://www.npr.org/2020/09/15/913328975/google-says-it-doesnt-monopolize-digital-ad-market-senators-don-t-buy-it",
-         "title" : "Google Says It Doesn't Monopolize Digital Ad Market. Senators Don't Buy It - NPR",
          "content" : "Senators pressed Google executive Donald Harrison over whether the tech giant wields too much power over advertisers and publishers in the digital ad market, amid widening scrutiny of the company's d… [+3548 chars]",
+         "urlToImage" : "https://media.npr.org/assets/img/2020/09/15/gettyimages-1272672191_wide-9f675a0d683d9fd4984e0d56435be87f3cbc6b87.jpg?s=1400",
+         "author" : "",
+         "title" : "Google Says It Doesn't Monopolize Digital Ad Market. Senators Don't Buy It - NPR",
+         "description" : "Senators pressed the tech giant on the scope and scale of its digital advertising business. Republicans repeated long-running allegations of conservative bias.",
+         "publishedAt" : "2020-09-15T23:55:00Z",
          "source" : {
             "id" : null,
             "name" : "NPR"
          },
-         "description" : "Senators pressed the tech giant on the scope and scale of its digital advertising business. Republicans repeated long-running allegations of conservative bias.",
-         "urlToImage" : "https://media.npr.org/assets/img/2020/09/15/gettyimages-1272672191_wide-9f675a0d683d9fd4984e0d56435be87f3cbc6b87.jpg?s=1400"
+         "url" : "https://www.npr.org/2020/09/15/913328975/google-says-it-doesnt-monopolize-digital-ad-market-senators-don-t-buy-it"
       },
       {
          "description" : "Amazon has launched a new bid into luxury with the rollout of a couture shopping experience that will feature established and emerging fashion houses and brands.",
+         "title" : "Will Amazon's new luxury online store be fashion's savior — or archenemy? - NBC News",
          "urlToImage" : "https://media3.s-nbcnews.com/j/newscms/2020_38/3412294/200915-amazon-luxury-stores-ew-507p_35d4f0d002c20315028f2a7770d77f36.nbcnews-fp-1200-630.jpg",
          "author" : "Leticia Miranda",
-         "publishedAt" : "2020-09-15T23:46:00Z",
+         "content" : "Amazon has launched a new bid into luxury with the rollout of a couture shopping experience that will feature established and emerging fashion houses and brands.\r\nThe companys Luxury Stores launched … [+6096 chars]",
          "source" : {
             "name" : "NBC News",
             "id" : "nbc-news"
          },
-         "content" : "Amazon has launched a new bid into luxury with the rollout of a couture shopping experience that will feature established and emerging fashion houses and brands.\r\nThe companys Luxury Stores launched … [+6096 chars]",
-         "title" : "Will Amazon's new luxury online store be fashion's savior — or archenemy? - NBC News",
-         "url" : "https://www.nbcnews.com/business/business-news/will-amazon-s-new-luxury-online-store-be-fashion-s-n1240169"
+         "url" : "https://www.nbcnews.com/business/business-news/will-amazon-s-new-luxury-online-store-be-fashion-s-n1240169",
+         "publishedAt" : "2020-09-15T23:46:00Z"
       },
       {
-         "url" : "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9bHpadmdBVTg3NjDSAQA?oc=5",
+         "description" : null,
          "title" : "Jim Cramer: Bank earnings will pull the curtain on the state of small business - CNBC Television",
-         "content" : null,
-         "source" : {
-            "name" : "Google News",
-            "id" : "google-news"
-         },
-         "publishedAt" : "2020-09-15T23:36:49Z",
          "author" : null,
          "urlToImage" : null,
-         "description" : null
+         "content" : null,
+         "source" : {
+            "id" : "google-news",
+            "name" : "Google News"
+         },
+         "url" : "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9bHpadmdBVTg3NjDSAQA?oc=5",
+         "publishedAt" : "2020-09-15T23:36:49Z"
       },
       {
-         "urlToImage" : "https://images.wsj.net/im-232332/social",
-         "description" : "No final decision has been made on the outcome of a yearlong probe as discussions with the social-media giant continue",
-         "source" : {
-            "name" : "The Wall Street Journal",
-            "id" : "the-wall-street-journal"
-         },
-         "content" : "WASHINGTONThe Federal Trade Commission is gearing up to file a possible antitrust lawsuit against Facebook Inc. by year-end, according to people familiar with the matter, in a case that would challen… [+333 chars]",
-         "title" : "FTC Preparing Possible Antitrust Suit Against Facebook - The Wall Street Journal",
+         "publishedAt" : "2020-09-15T23:17:00Z",
          "url" : "https://www.wsj.com/articles/ftc-preparing-possible-antitrust-suit-against-facebook-11600211840",
+         "source" : {
+            "id" : "the-wall-street-journal",
+            "name" : "The Wall Street Journal"
+         },
+         "urlToImage" : "https://images.wsj.net/im-232332/social",
          "author" : "Brent Kendall, John D. McKinnon, Ryan Tracy",
-         "publishedAt" : "2020-09-15T23:17:00Z"
+         "description" : "No final decision has been made on the outcome of a yearlong probe as discussions with the social-media giant continue",
+         "title" : "FTC Preparing Possible Antitrust Suit Against Facebook - The Wall Street Journal",
+         "content" : "WASHINGTONThe Federal Trade Commission is gearing up to file a possible antitrust lawsuit against Facebook Inc. by year-end, according to people familiar with the matter, in a case that would challen… [+333 chars]"
       },
       {
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106676380-1598306874838-Frank_Slootman_CEO_landscape_hi-res_3000x2000.jpg?v=1598307891",
-         "description" : "After boosting the price range for its highly-anticipated IPO to between $100 and $110, Snowflake is selling shares at an even higher price of $120.",
-         "source" : {
-            "name" : "CNBC",
-            "id" : null
-         },
-         "title" : "Snowflake prices IPO above increased range, implying initial market cap of $33.3 billion - CNBC",
-         "url" : "https://www.cnbc.com/2020/09/15/snowflake-prices-ipo-above-increased-range-implying-initi.html",
-         "content" : "Snowflake, a provider of cloud-based data storage and analysis software, priced its IPO above its increased range in an offering that values the company at $33.3 billion.\r\nSnowflake is selling 28 mil… [+2093 chars]",
          "publishedAt" : "2020-09-15T22:38:00Z",
-         "author" : "Ari Levy"
+         "source" : {
+            "id" : null,
+            "name" : "CNBC"
+         },
+         "url" : "https://www.cnbc.com/2020/09/15/snowflake-prices-ipo-above-increased-range-implying-initi.html",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106676380-1598306874838-Frank_Slootman_CEO_landscape_hi-res_3000x2000.jpg?v=1598307891",
+         "author" : "Ari Levy",
+         "title" : "Snowflake prices IPO above increased range, implying initial market cap of $33.3 billion - CNBC",
+         "description" : "After boosting the price range for its highly-anticipated IPO to between $100 and $110, Snowflake is selling shares at an even higher price of $120.",
+         "content" : "Snowflake, a provider of cloud-based data storage and analysis software, priced its IPO above its increased range in an offering that values the company at $33.3 billion.\r\nSnowflake is selling 28 mil… [+2093 chars]"
       },
       {
          "author" : "Jason Hall",
+         "urlToImage" : "https://g.foolcdn.com/editorial/images/591795/people-on-a-cruise-ship.jpg",
+         "description" : "The S&P 500 is showing modest gains, with a continued tech stock recovery doing the heavy lifting while cruise stocks tumble.",
+         "title" : "S&P 500 Gains 18 Points: Carnival Takes a Bath, Kraft Heinz Says Hold the Cheese, Apple Goes Even Bigger on Services - Motley Fool",
+         "content" : "A mixed day for stocks didn't stop the S&amp;P 500 Index (SNPINDEX:^SPX) from moving 18 points higher on Sept. 15, with the massive tech sector leading the way. The Technology Select Sector SPDR (NYS… [+3746 chars]",
          "publishedAt" : "2020-09-15T22:30:19Z",
+         "url" : "https://www.fool.com/investing/2020/09/15/sp-500-gains-18-points-carnival-takes-a-bath-kraft/",
          "source" : {
             "name" : "Motley Fool",
             "id" : null
-         },
-         "content" : "A mixed day for stocks didn't stop the S&amp;P 500 Index (SNPINDEX:^SPX) from moving 18 points higher on Sept. 15, with the massive tech sector leading the way. The Technology Select Sector SPDR (NYS… [+3746 chars]",
-         "url" : "https://www.fool.com/investing/2020/09/15/sp-500-gains-18-points-carnival-takes-a-bath-kraft/",
-         "title" : "S&P 500 Gains 18 Points: Carnival Takes a Bath, Kraft Heinz Says Hold the Cheese, Apple Goes Even Bigger on Services - Motley Fool",
-         "description" : "The S&P 500 is showing modest gains, with a continued tech stock recovery doing the heavy lifting while cruise stocks tumble.",
-         "urlToImage" : "https://g.foolcdn.com/editorial/images/591795/people-on-a-cruise-ship.jpg"
+         }
       },
       {
          "urlToImage" : "https://s.yimg.com/uu/api/res/1.2/fBE7wS95kL7hpgHEYL37cw--~B/aD0zMjYwO3c9NDg5MDtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2020-08/a538f820-e550-11ea-9fce-a4ca5c319c1a",
+         "author" : "Emily McCormick",
          "description" : "Stock futures drifted higher Tuesday evening, extending gains from the regular session, as investors awaited the Federal Open Market Committee’s (FOMC) September monetary policy statement and remarks from Federal Reserve Chair Jerome Powell. Each is set to pr…",
-         "source" : {
-            "id" : null,
-            "name" : "Yahoo Entertainment"
-         },
-         "url" : "https://finance.yahoo.com/news/stock-market-news-live-september-16-2020-222127253.html",
          "title" : "Stock market news live updates: Stock futures drift higher as markets await Fed decision - Yahoo Finance",
          "content" : "Stock futures drifted slightly higher Tuesday evening, extending gains from the regular session, as investors awaited the Federal Open Market Committees (FOMC) September monetary policy statement and… [+3247 chars]",
          "publishedAt" : "2020-09-15T22:21:00Z",
-         "author" : "Emily McCormick"
+         "url" : "https://finance.yahoo.com/news/stock-market-news-live-september-16-2020-222127253.html",
+         "source" : {
+            "id" : null,
+            "name" : "Yahoo Entertainment"
+         }
       },
       {
+         "author" : "Jon Swartz",
+         "urlToImage" : "https://s.wsj.net/public/resources/MWimages/MW-GP644_MicroS_ZG_20180906154215.jpg",
          "title" : "Adobe shares rise 3% on revenue, earnings beat - MarketWatch",
-         "url" : "https://www.marketwatch.com/story/adobe-shares-rise-3-on-revenue-earnings-beat-2020-09-15",
+         "description" : "",
          "content" : "Adobe Inc. \r\n ADBE, \r\n +2.42%\r\nshares were up 3% in after-hours trading Tuesday after the software company reported fiscal third-quarter results that bested Wall Street estimates. Adobe reported net … [+823 chars]",
+         "publishedAt" : "2020-09-15T22:12:00Z",
          "source" : {
             "name" : "MarketWatch",
             "id" : null
          },
-         "publishedAt" : "2020-09-15T22:12:00Z",
-         "author" : "Jon Swartz",
-         "urlToImage" : "https://s.wsj.net/public/resources/MWimages/MW-GP644_MicroS_ZG_20180906154215.jpg",
-         "description" : ""
+         "url" : "https://www.marketwatch.com/story/adobe-shares-rise-3-on-revenue-earnings-beat-2020-09-15"
       },
       {
-         "description" : "If you don’t have Peacock, you’re definitely missing out. Already, 15 million have subscribed to the NBC streaming service, which has TV shows, movies, news, and a sports talk channel on which there are now two PFT programs. Comcast CEO Brian Roberts said at …",
-         "urlToImage" : "https://profootballtalk.nbcsports.com/wp-content/uploads/sites/25/2020/09/GettyImages-1190545964-e1600207859725.jpg",
-         "publishedAt" : "2020-09-15T22:11:00Z",
-         "author" : "Mike Florio",
-         "title" : "Peacock subscribers hit 15 million - NBC Sports - NFL",
          "url" : "https://profootballtalk.nbcsports.com/2020/09/15/peacock-subscribers-hit-15-million/",
-         "content" : "If you don’t have Peacock, you’re definitely missing out.\r\nAlready, 15 million have subscribed to the NBC streaming service, which has TV shows, movies, news, and a sports talk channel on which there… [+650 chars]",
          "source" : {
             "name" : "NBCSports.com",
             "id" : null
-         }
+         },
+         "publishedAt" : "2020-09-15T22:11:00Z",
+         "content" : "If you don’t have Peacock, you’re definitely missing out.\r\nAlready, 15 million have subscribed to the NBC streaming service, which has TV shows, movies, news, and a sports talk channel on which there… [+650 chars]",
+         "title" : "Peacock subscribers hit 15 million - NBC Sports - NFL",
+         "description" : "If you don’t have Peacock, you’re definitely missing out. Already, 15 million have subscribed to the NBC streaming service, which has TV shows, movies, news, and a sports talk channel on which there are now two PFT programs. Comcast CEO Brian Roberts said at …",
+         "urlToImage" : "https://profootballtalk.nbcsports.com/wp-content/uploads/sites/25/2020/09/GettyImages-1190545964-e1600207859725.jpg",
+         "author" : "Mike Florio"
       },
       {
-         "author" : "Mike Rogoway | The Oregonian/OregonLive",
-         "publishedAt" : "2020-09-15T21:57:00Z",
          "content" : "Alaska Airlines resumed flying in and out of Portland on Tuesday afternoon, a day after it suspended service due to wildfire smoke. The airline continued operating a reduced schedule, though, canceli… [+1636 chars]",
+         "urlToImage" : "https://www.oregonlive.com/resizer/_xdeeJtjkjwjdMAE42PQ7iSCCSQ=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/VCFZFZWCVNH7FHZ4DBKBBCG5VA.jpg",
+         "author" : "Mike Rogoway | The Oregonian/OregonLive",
+         "description" : "The airline continued operating a reduced schedule, though, canceling at least 20 afternoon and evening flights.",
          "title" : "Alaska Air resumes Portland flights after implementing new wildfire smoke protocols - OregonLive",
+         "publishedAt" : "2020-09-15T21:57:00Z",
          "url" : "https://www.oregonlive.com/business/2020/09/alaska-air-resumes-portland-flights-after-implementing-new-wildfire-smoke-protocols.html",
          "source" : {
-            "id" : null,
-            "name" : "OregonLive"
-         },
-         "description" : "The airline continued operating a reduced schedule, though, canceling at least 20 afternoon and evening flights.",
-         "urlToImage" : "https://www.oregonlive.com/resizer/_xdeeJtjkjwjdMAE42PQ7iSCCSQ=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/VCFZFZWCVNH7FHZ4DBKBBCG5VA.jpg"
-      },
-      {
-         "description" : "As retailers continue to struggle during the pandemic, Kohl's announced Tuesday it has cut about 15% of it corporate jobs",
-         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/07/0/0/kohls-Getty.jpg?ve=1&tl=1",
-         "author" : "Reuters",
-         "publishedAt" : "2020-09-15T21:37:38Z",
-         "content" : "Kohl's Corp said on Tuesday it has cut about 15% of its corporate jobs as the department store operator looks to save cash at a time when the COVID-19 has hammered demand for its products.\r\nTHESE RET… [+720 chars]",
-         "url" : "https://www.foxbusiness.com/retail/kohls-cuts-15-of-corporate-workforce",
-         "title" : "Kohl's cuts 15% of corporate workforce - Fox Business",
-         "source" : {
-            "name" : "Fox Business",
+            "name" : "OregonLive",
             "id" : null
          }
       },
       {
-         "description" : "",
-         "urlToImage" : "https://images.barrons.com/im-232203/social",
+         "source" : {
+            "id" : null,
+            "name" : "Fox Business"
+         },
+         "url" : "https://www.foxbusiness.com/retail/kohls-cuts-15-of-corporate-workforce",
+         "publishedAt" : "2020-09-15T21:37:38Z",
+         "description" : "As retailers continue to struggle during the pandemic, Kohl's announced Tuesday it has cut about 15% of it corporate jobs",
+         "title" : "Kohl's cuts 15% of corporate workforce - Fox Business",
+         "author" : "Reuters",
+         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/07/0/0/kohls-Getty.jpg?ve=1&tl=1",
+         "content" : "Kohl's Corp said on Tuesday it has cut about 15% of its corporate jobs as the department store operator looks to save cash at a time when the COVID-19 has hammered demand for its products.\r\nTHESE RET… [+720 chars]"
+      },
+      {
          "author" : "Al Root",
+         "urlToImage" : "https://images.barrons.com/im-232203/social",
+         "description" : "",
+         "title" : "FedEx Destroys Earnings Estimates. Things Are Getting Really Good. - Barron's",
+         "content" : "Shipping giant \r\n FedExreported $4.87 in per share earnings for the first quarter of fiscal year 2021 from $19 billion in sales. It was a blowout quarter, bypassing the highest earnings estimates on … [+2213 chars]",
          "publishedAt" : "2020-09-15T21:23:00Z",
          "source" : {
             "name" : "Barron's",
             "id" : null
          },
-         "content" : "Shipping giant \r\n FedExreported $4.87 in per share earnings for the first quarter of fiscal year 2021 from $19 billion in sales. It was a blowout quarter, bypassing the highest earnings estimates on … [+2213 chars]",
-         "url" : "https://www.barrons.com/articles/fedex-destroys-earnings-estimates-things-are-getting-really-good-51600202227",
-         "title" : "FedEx Destroys Earnings Estimates. Things Are Getting Really Good. - Barron's"
+         "url" : "https://www.barrons.com/articles/fedex-destroys-earnings-estimates-things-are-getting-really-good-51600202227"
       },
       {
-         "title" : "Washington, DC, Employees Will Probably Continue Working Virtually : Coronavirus Live Updates - NPR",
-         "url" : "https://www.npr.org/sections/coronavirus-live-updates/2020/09/15/913154140/workers-in-washington-d-c-region-likely-to-work-from-home-until-next-summer",
          "content" : "An almost empty Metro station is seen in Washington, D.C., on July 21. The region's employers worry about the safety of workers using the transit system during the pandemic.\r\nDaniel Slim/AFP via Gett… [+2631 chars]",
+         "author" : null,
+         "urlToImage" : "https://media.npr.org/assets/img/2020/09/15/gettyimages-1227720439_wide-fcf7f4e9329ea9b16ce5a235e04109dd0875e2e9.jpg?s=1400",
+         "title" : "Washington, DC, Employees Will Probably Continue Working Virtually : Coronavirus Live Updates - NPR",
+         "description" : "A survey of hundreds of private employers in the region shows most are struggling to bring their employees back into the office. Many firms cited worries about the safety of using public transit.",
+         "publishedAt" : "2020-09-15T21:22:41Z",
          "source" : {
             "id" : null,
             "name" : "NPR"
          },
-         "publishedAt" : "2020-09-15T21:22:41Z",
-         "author" : null,
-         "urlToImage" : "https://media.npr.org/assets/img/2020/09/15/gettyimages-1227720439_wide-fcf7f4e9329ea9b16ce5a235e04109dd0875e2e9.jpg?s=1400",
-         "description" : "A survey of hundreds of private employers in the region shows most are struggling to bring their employees back into the office. Many firms cited worries about the safety of using public transit."
+         "url" : "https://www.npr.org/sections/coronavirus-live-updates/2020/09/15/913154140/workers-in-washington-d-c-region-likely-to-work-from-home-until-next-summer"
       },
       {
-         "urlToImage" : "https://cbsnews2.cbsistatic.com/hub/i/r/2020/09/15/20f024f2-39cd-4dad-b1ff-477fee2d22ca/thumbnail/1200x630/8fe44328de6d68531830ea7f7fcbdabc/gettyimages-1137766122.jpg",
-         "description" : "Largest U.S. bank detected infections less than a week after workers began returning to New York City headquarters.",
+         "publishedAt" : "2020-09-15T21:03:00Z",
          "source" : {
-            "name" : "CBS News",
-            "id" : "cbs-news"
+            "id" : "cbs-news",
+            "name" : "CBS News"
          },
-         "content" : "JPMorgan Chase has sent a number of securities traders in New York City back home after some employees tested positive for the coronavirus, a setback for the banking giant as it moves to start bringi… [+1696 chars]",
-         "title" : "JPMorgan Chase workers sent home after employees test positive for coronavirus - CBS News",
          "url" : "https://www.cbsnews.com/news/jpmorgan-traders-sent-home-employee-contracts-covid-19/",
+         "content" : "JPMorgan Chase has sent a number of securities traders in New York City back home after some employees tested positive for the coronavirus, a setback for the banking giant as it moves to start bringi… [+1696 chars]",
+         "urlToImage" : "https://cbsnews2.cbsistatic.com/hub/i/r/2020/09/15/20f024f2-39cd-4dad-b1ff-477fee2d22ca/thumbnail/1200x630/8fe44328de6d68531830ea7f7fcbdabc/gettyimages-1137766122.jpg",
          "author" : "CBS News",
-         "publishedAt" : "2020-09-15T21:03:00Z"
+         "title" : "JPMorgan Chase workers sent home after employees test positive for coronavirus - CBS News",
+         "description" : "Largest U.S. bank detected infections less than a week after workers began returning to New York City headquarters."
       },
       {
-         "urlToImage" : "https://www.gannett-cdn.com/media/2018/05/04/USATODAY/usatsports/yuengling-lager.jpg?crop=1365,768,x0,y0&width=1600&height=800&fit=bounds",
-         "description" : "D.G. Yuengling & Son announces partnership with Molson Coors to greatly expand Yuengling beer production and distribution out west",
+         "publishedAt" : "2020-09-15T21:02:46Z",
          "source" : {
             "name" : "Detroit Free Press",
             "id" : null
          },
-         "title" : "Is Yuengling beer finally coming to Michigan in 2021? - Detroit Free Press",
          "url" : "https://www.freep.com/story/entertainment/nightlife/2020/09/15/yuengling-beer-michigan-molson-coors/5809444002/",
          "content" : "Quick facts about craft beer in Michigan.\r\nWochit\r\nBeer drinkers across Michigan have been clamoring for Yuengling to sell its beer in the Great Lakes State for years.\r\nIt could get that wish as earl… [+2308 chars]",
-         "publishedAt" : "2020-09-15T21:02:46Z",
-         "author" : "Brian Manzullo"
+         "urlToImage" : "https://www.gannett-cdn.com/media/2018/05/04/USATODAY/usatsports/yuengling-lager.jpg?crop=1365,768,x0,y0&width=1600&height=800&fit=bounds",
+         "author" : "Brian Manzullo",
+         "description" : "D.G. Yuengling & Son announces partnership with Molson Coors to greatly expand Yuengling beer production and distribution out west",
+         "title" : "Is Yuengling beer finally coming to Michigan in 2021? - Detroit Free Press"
       }
    ],
    "totalResults" : 70
