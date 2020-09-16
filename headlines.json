@@ -1,266 +1,266 @@
 {
-   "status" : "ok",
    "articles" : [
       {
-         "urlToImage" : null,
-         "author" : null,
-         "title" : "Jim Cramer: Bank earnings will pull the curtain on the state of small business - CNBC Television",
-         "url" : "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9bHpadmdBVTg3NjDSAQA?oc=5",
          "publishedAt" : "2020-09-15T23:36:49Z",
+         "author" : null,
+         "urlToImage" : null,
+         "url" : "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9bHpadmdBVTg3NjDSAQA?oc=5",
          "description" : null,
          "content" : null,
+         "title" : "Jim Cramer: Bank earnings will pull the curtain on the state of small business - CNBC Television",
          "source" : {
-            "name" : "Google News",
-            "id" : "google-news"
+            "id" : "google-news",
+            "name" : "Google News"
          }
       },
       {
+         "description" : "No final decision has been made on the outcome of a yearlong probe as discussions with the social-media giant continue",
          "urlToImage" : "https://images.wsj.net/im-232332/social",
+         "url" : "https://www.wsj.com/articles/ftc-preparing-possible-antitrust-suit-against-facebook-11600211840",
          "author" : "Brent Kendall, John D. McKinnon, Ryan Tracy",
          "publishedAt" : "2020-09-15T23:17:00Z",
-         "title" : "FTC Preparing Possible Antitrust Suit Against Facebook - The Wall Street Journal",
-         "url" : "https://www.wsj.com/articles/ftc-preparing-possible-antitrust-suit-against-facebook-11600211840",
          "source" : {
             "name" : "The Wall Street Journal",
             "id" : "the-wall-street-journal"
          },
-         "description" : "No final decision has been made on the outcome of a yearlong probe as discussions with the social-media giant continue",
+         "title" : "FTC Preparing Possible Antitrust Suit Against Facebook - The Wall Street Journal",
          "content" : "WASHINGTONThe Federal Trade Commission is gearing up to file a possible antitrust lawsuit against Facebook Inc. by year-end, according to people familiar with the matter, in a case that would challen… [+333 chars]"
       },
       {
-         "url" : "https://www.bbc.com/news/business-54169687",
-         "title" : "'Redundancy floodgates will open' says Unite union - BBC News",
-         "publishedAt" : "2020-09-15T23:01:33Z",
          "author" : "https://www.facebook.com/bbcnews",
+         "url" : "https://www.bbc.com/news/business-54169687",
          "urlToImage" : "https://ichef.bbci.co.uk/news/1024/branded_news/1256F/production/_114391157_lenmcc.jpg",
-         "content" : "Image copyrightDan Kitwood\r\nThe Unite union has called on the government to say it will extend its furlough scheme or face \"redundancy floodgates\" opening in the UK.\r\nMany workers can expect a \"miser… [+3971 chars]",
          "description" : "Unite warns of a 'miserable Christmas' for workers without an extension of government jobs support.",
+         "publishedAt" : "2020-09-15T23:01:33Z",
+         "title" : "'Redundancy floodgates will open' says Unite union - BBC News",
          "source" : {
             "name" : "BBC News",
             "id" : null
-         }
+         },
+         "content" : "Image copyrightDan Kitwood\r\nThe Unite union has called on the government to say it will extend its furlough scheme or face \"redundancy floodgates\" opening in the UK.\r\nMany workers can expect a \"miser… [+3971 chars]"
       },
       {
-         "author" : "Ari Levy",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106676380-1598306874838-Frank_Slootman_CEO_landscape_hi-res_3000x2000.jpg?v=1598307891",
-         "publishedAt" : "2020-09-15T22:38:00Z",
-         "url" : "https://www.cnbc.com/2020/09/15/snowflake-prices-ipo-above-increased-range-implying-initi.html",
+         "content" : "Snowflake, a provider of cloud-based data storage and analysis software, priced its IPO above its increased range in an offering that values the company at $33.3 billion.\r\nSnowflake is selling 28 mil… [+2093 chars]",
          "title" : "Snowflake prices IPO above increased range, implying initial market cap of $33.3 billion - CNBC",
          "source" : {
-            "name" : "CNBC",
-            "id" : null
+            "id" : null,
+            "name" : "CNBC"
          },
-         "content" : "Snowflake, a provider of cloud-based data storage and analysis software, priced its IPO above its increased range in an offering that values the company at $33.3 billion.\r\nSnowflake is selling 28 mil… [+2093 chars]",
+         "publishedAt" : "2020-09-15T22:38:00Z",
+         "author" : "Ari Levy",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106676380-1598306874838-Frank_Slootman_CEO_landscape_hi-res_3000x2000.jpg?v=1598307891",
+         "url" : "https://www.cnbc.com/2020/09/15/snowflake-prices-ipo-above-increased-range-implying-initi.html",
          "description" : "After boosting the price range for its highly-anticipated IPO to between $100 and $110, Snowflake is selling shares at an even higher price of $120."
       },
       {
-         "content" : "Amazon is partnering with fashion house Oscar de la Renta to launch the first of its online, invitation-only \"Luxury Stores.\" The initiative, which will announce additional partnerships in the coming… [+2179 chars]",
+         "author" : "Isabella Jibilian",
+         "url" : "https://www.businessinsider.com/how-to-access-amazon-luxury-store-oscar-de-la-renta-2020-9",
+         "urlToImage" : "https://i.insider.com/5f60d13057b7da001ee11a12?width=1200&format=jpeg",
          "description" : "Tuesday's announcement is a big step for the \"everything store,\" which has long sought to tap into the $300 billion global luxury market.",
+         "publishedAt" : "2020-09-15T22:35:01Z",
+         "title" : "Amazon launches first online 'Luxury Store' with Oscar de la Renta - Business Insider - Business Insider",
          "source" : {
             "id" : "business-insider",
             "name" : "Business Insider"
          },
-         "url" : "https://www.businessinsider.com/how-to-access-amazon-luxury-store-oscar-de-la-renta-2020-9",
-         "title" : "Amazon launches first online 'Luxury Store' with Oscar de la Renta - Business Insider - Business Insider",
-         "publishedAt" : "2020-09-15T22:35:01Z",
-         "author" : "Isabella Jibilian",
-         "urlToImage" : "https://i.insider.com/5f60d13057b7da001ee11a12?width=1200&format=jpeg"
+         "content" : "Amazon is partnering with fashion house Oscar de la Renta to launch the first of its online, invitation-only \"Luxury Stores.\" The initiative, which will announce additional partnerships in the coming… [+2179 chars]"
       },
       {
-         "content" : "A mixed day for stocks didn't stop the S&amp;P 500 Index (SNPINDEX:^SPX) from moving 18 points higher on Sept. 15, with the massive tech sector leading the way. The Technology Select Sector SPDR (NYS… [+3746 chars]",
-         "description" : "The S&P 500 is showing modest gains, with a continued tech stock recovery doing the heavy lifting while cruise stocks tumble.",
-         "source" : {
-            "name" : "Motley Fool",
-            "id" : null
-         },
-         "url" : "https://www.fool.com/investing/2020/09/15/sp-500-gains-18-points-carnival-takes-a-bath-kraft/",
-         "title" : "S&P 500 Gains 18 Points: Carnival Takes a Bath, Kraft Heinz Says Hold the Cheese, Apple Goes Even Bigger on Services - Motley Fool",
          "publishedAt" : "2020-09-15T22:30:19Z",
          "author" : "Jason Hall",
-         "urlToImage" : "https://g.foolcdn.com/editorial/images/591795/people-on-a-cruise-ship.jpg"
+         "urlToImage" : "https://g.foolcdn.com/editorial/images/591795/people-on-a-cruise-ship.jpg",
+         "url" : "https://www.fool.com/investing/2020/09/15/sp-500-gains-18-points-carnival-takes-a-bath-kraft/",
+         "description" : "The S&P 500 is showing modest gains, with a continued tech stock recovery doing the heavy lifting while cruise stocks tumble.",
+         "content" : "A mixed day for stocks didn't stop the S&amp;P 500 Index (SNPINDEX:^SPX) from moving 18 points higher on Sept. 15, with the massive tech sector leading the way. The Technology Select Sector SPDR (NYS… [+3746 chars]",
+         "title" : "S&P 500 Gains 18 Points: Carnival Takes a Bath, Kraft Heinz Says Hold the Cheese, Apple Goes Even Bigger on Services - Motley Fool",
+         "source" : {
+            "id" : null,
+            "name" : "Motley Fool"
+         }
       },
       {
+         "publishedAt" : "2020-09-15T22:12:00Z",
          "description" : "",
+         "urlToImage" : "https://s.wsj.net/public/resources/MWimages/MW-GP644_MicroS_ZG_20180906154215.jpg",
+         "url" : "https://www.marketwatch.com/story/adobe-shares-rise-3-on-revenue-earnings-beat-2020-09-15",
+         "author" : "Jon Swartz",
          "content" : "Adobe Inc. \r\n ADBE, \r\n +2.42%\r\nshares were up 3% in after-hours trading Tuesday after the software company reported fiscal third-quarter results that bested Wall Street estimates. Adobe reported net … [+823 chars]",
          "source" : {
             "id" : null,
             "name" : "MarketWatch"
          },
-         "urlToImage" : "https://s.wsj.net/public/resources/MWimages/MW-GP644_MicroS_ZG_20180906154215.jpg",
-         "author" : "Jon Swartz",
-         "title" : "Adobe shares rise 3% on revenue, earnings beat - MarketWatch",
-         "url" : "https://www.marketwatch.com/story/adobe-shares-rise-3-on-revenue-earnings-beat-2020-09-15",
-         "publishedAt" : "2020-09-15T22:12:00Z"
+         "title" : "Adobe shares rise 3% on revenue, earnings beat - MarketWatch"
       },
       {
-         "source" : {
-            "name" : "CNBC",
-            "id" : null
-         },
-         "description" : "On Tuesday, the Dow closed up marginally, after gaining more than 200 points earlier in the session.",
          "content" : "U.S. stock futures were flat in overnight trading as investors readied for comments from the Federal Reserve on Wednesday. \r\nDow futures dipped 20 points. S&amp;P 500 and Nasdaq 100 futures were also… [+3005 chars]",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106699111-1599837087884-gettyimages-1271945849-dscf0561_20200911102120234.jpeg?v=1600118986",
-         "author" : "Maggie Fitzgerald",
-         "publishedAt" : "2020-09-15T22:04:00Z",
          "title" : "Stock futures flat as investors await Fed meeting - CNBC",
-         "url" : "https://www.cnbc.com/2020/09/15/stock-market-futures-open-to-close-news.html"
+         "source" : {
+            "id" : null,
+            "name" : "CNBC"
+         },
+         "publishedAt" : "2020-09-15T22:04:00Z",
+         "author" : "Maggie Fitzgerald",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106699111-1599837087884-gettyimages-1271945849-dscf0561_20200911102120234.jpeg?v=1600118986",
+         "url" : "https://www.cnbc.com/2020/09/15/stock-market-futures-open-to-close-news.html",
+         "description" : "On Tuesday, the Dow closed up marginally, after gaining more than 200 points earlier in the session."
       },
       {
-         "author" : "Reuters",
-         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/07/0/0/kohls-Getty.jpg?ve=1&tl=1",
-         "publishedAt" : "2020-09-15T21:37:38Z",
-         "url" : "https://www.foxbusiness.com/retail/kohls-cuts-15-of-corporate-workforce",
+         "source" : {
+            "id" : null,
+            "name" : "Fox Business"
+         },
          "title" : "Kohl's cuts 15% of corporate workforce - Fox Business",
-         "source" : {
-            "name" : "Fox Business",
-            "id" : null
-         },
          "content" : "Kohl's Corp said on Tuesday it has cut about 15% of its corporate jobs as the department store operator looks to save cash at a time when the COVID-19 has hammered demand for its products.\r\nTHESE RET… [+720 chars]",
-         "description" : "As retailers continue to struggle during the pandemic, Kohl's announced Tuesday it has cut about 15% of it corporate jobs"
+         "description" : "As retailers continue to struggle during the pandemic, Kohl's announced Tuesday it has cut about 15% of it corporate jobs",
+         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/07/0/0/kohls-Getty.jpg?ve=1&tl=1",
+         "url" : "https://www.foxbusiness.com/retail/kohls-cuts-15-of-corporate-workforce",
+         "author" : "Reuters",
+         "publishedAt" : "2020-09-15T21:37:38Z"
       },
       {
-         "content" : "So far, September has been a wild ride of ups and downs. Following the recent bout of volatility, stocks have ticked higher again. But as uncertainty regarding another rescue program and the presiden… [+9931 chars]",
-         "description" : "(Bloomberg) -- U.S. senators laid out a case for why Google is abusing the size of its online empire to harm competition and amass even more power...",
-         "source" : {
-            "name" : "Yahoo Entertainment",
-            "id" : null
-         },
+         "urlToImage" : "https://s.yimg.com/uu/api/res/1.2/0s_nqgaVAKMk47SfKa4tIQ--~B/aD0xMzM0O3c9MjAwMDtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bloomberg_technology_68/850c0b38a0ad6aa0c5849cd40f9aff5c",
          "url" : "https://finance.yahoo.com/news/senators-call-google-monopoly-upon-213305815.html",
-         "title" : "Senators Call Google ‘Monopoly Upon Monopoly’ as DOJ Case Nears - Yahoo Finance",
-         "publishedAt" : "2020-09-15T21:33:00Z",
+         "description" : "(Bloomberg) -- U.S. senators laid out a case for why Google is abusing the size of its online empire to harm competition and amass even more power...",
          "author" : "Gerrit De Vynck and Ben Brody",
-         "urlToImage" : "https://s.yimg.com/uu/api/res/1.2/0s_nqgaVAKMk47SfKa4tIQ--~B/aD0xMzM0O3c9MjAwMDtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bloomberg_technology_68/850c0b38a0ad6aa0c5849cd40f9aff5c"
+         "publishedAt" : "2020-09-15T21:33:00Z",
+         "source" : {
+            "id" : null,
+            "name" : "Yahoo Entertainment"
+         },
+         "title" : "Senators Call Google ‘Monopoly Upon Monopoly’ as DOJ Case Nears - Yahoo Finance",
+         "content" : "So far, September has been a wild ride of ups and downs. Following the recent bout of volatility, stocks have ticked higher again. But as uncertainty regarding another rescue program and the presiden… [+9931 chars]"
       },
       {
          "title" : "Washington, DC, Employees Will Probably Continue Working Virtually : Coronavirus Live Updates - NPR",
-         "url" : "https://www.npr.org/sections/coronavirus-live-updates/2020/09/15/913154140/workers-in-washington-d-c-region-likely-to-work-from-home-until-next-summer",
-         "publishedAt" : "2020-09-15T21:22:41Z",
-         "urlToImage" : "https://media.npr.org/assets/img/2020/09/15/gettyimages-1227720439_wide-fcf7f4e9329ea9b16ce5a235e04109dd0875e2e9.jpg?s=1400",
-         "author" : null,
-         "description" : "A survey of hundreds of private employers in the region shows most are struggling to bring their employees back into the office. Many firms cited worries about the safety of using public transit.",
-         "content" : "An almost empty Metro station is seen in Washington, D.C., on July 21. The region's employers worry about the safety of workers using the transit system during the pandemic.\r\nDaniel Slim/AFP via Gett… [+2631 chars]",
          "source" : {
             "name" : "NPR",
             "id" : null
-         }
+         },
+         "content" : "An almost empty Metro station is seen in Washington, D.C., on July 21. The region's employers worry about the safety of workers using the transit system during the pandemic.\r\nDaniel Slim/AFP via Gett… [+2631 chars]",
+         "author" : null,
+         "urlToImage" : "https://media.npr.org/assets/img/2020/09/15/gettyimages-1227720439_wide-fcf7f4e9329ea9b16ce5a235e04109dd0875e2e9.jpg?s=1400",
+         "url" : "https://www.npr.org/sections/coronavirus-live-updates/2020/09/15/913154140/workers-in-washington-d-c-region-likely-to-work-from-home-until-next-summer",
+         "description" : "A survey of hundreds of private employers in the region shows most are struggling to bring their employees back into the office. Many firms cited worries about the safety of using public transit.",
+         "publishedAt" : "2020-09-15T21:22:41Z"
       },
       {
          "content" : "An oil rig towers over houses last week in Nigg, Scotland. Major players in the oil industry expect depressed oil demand and low prices to continue well into next year.\r\nPeter Summers/Getty Images\r\n2… [+5202 chars]",
-         "description" : "The pandemic massively reduced the world's consumption of oil. Now two influential reports suggest that this state of affairs will continue well into 2021 — if not longer.",
+         "title" : "Oil Demand Has Collapsed, And It Won't Come Back Any Time Soon - NPR",
          "source" : {
             "id" : null,
             "name" : "NPR"
          },
-         "url" : "https://www.npr.org/2020/09/15/913052498/oil-demand-has-collapsed-and-it-wont-come-back-any-time-soon",
-         "title" : "Oil Demand Has Collapsed, And It Won't Come Back Any Time Soon - NPR",
          "publishedAt" : "2020-09-15T21:17:25Z",
          "author" : "",
-         "urlToImage" : "https://media.npr.org/assets/img/2020/09/15/gettyimages-1228427685_wide-aff58de92628886f8a8b4f4b9c5fb4d10514bd5a.jpg?s=1400"
+         "urlToImage" : "https://media.npr.org/assets/img/2020/09/15/gettyimages-1228427685_wide-aff58de92628886f8a8b4f4b9c5fb4d10514bd5a.jpg?s=1400",
+         "url" : "https://www.npr.org/2020/09/15/913052498/oil-demand-has-collapsed-and-it-wont-come-back-any-time-soon",
+         "description" : "The pandemic massively reduced the world's consumption of oil. Now two influential reports suggest that this state of affairs will continue well into 2021 — if not longer."
       },
       {
-         "source" : {
-            "name" : "Fox News",
-            "id" : "fox-news"
-         },
+         "publishedAt" : "2020-09-15T21:14:40Z",
+         "author" : "Cortney Moore",
+         "urlToImage" : "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/Spicy_Chicken_McNuggets.jpg",
+         "url" : "https://www.foxnews.com/food-drink/mcdonalds-bogo-spicy-nuggets-september-16",
          "description" : "McDonald’s USA is banking on its chicken with an all new spicy McNugget menu item the company is poised to launch on Wednesday.",
          "content" : "McDonald’s USA is banking on its chicken with an all-new spicy McNugget menu item poised to launch on Wednesday.\r\nWENDY'S SLAMS MCDONALD'S NEW SPICY NUGGETS ON TWITTER\r\nThe multibillion-dollar fast-f… [+2049 chars]",
-         "publishedAt" : "2020-09-15T21:14:40Z",
          "title" : "McDonald's offering BOGO deal, 'spicesurance' for its spicy nuggets on national launch day - Fox News",
-         "url" : "https://www.foxnews.com/food-drink/mcdonalds-bogo-spicy-nuggets-september-16",
-         "urlToImage" : "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/Spicy_Chicken_McNuggets.jpg",
-         "author" : "Cortney Moore"
+         "source" : {
+            "id" : "fox-news",
+            "name" : "Fox News"
+         }
       },
       {
-         "content" : "Quick facts about craft beer in Michigan.\r\nWochit\r\nBeer drinkers across Michigan have been clamoring for Yuengling to sell its beer in the Great Lakes State for years.\r\nIt could get that wish as earl… [+2308 chars]",
+         "urlToImage" : "https://www.gannett-cdn.com/media/2018/05/04/USATODAY/usatsports/yuengling-lager.jpg?crop=1365,768,x0,y0&width=1600&height=800&fit=bounds",
+         "url" : "https://www.freep.com/story/entertainment/nightlife/2020/09/15/yuengling-beer-michigan-molson-coors/5809444002/",
          "description" : "D.G. Yuengling & Son announces partnership with Molson Coors to greatly expand Yuengling beer production and distribution out west",
+         "author" : "Brian Manzullo",
+         "publishedAt" : "2020-09-15T21:02:46Z",
          "source" : {
             "name" : "Detroit Free Press",
             "id" : null
          },
-         "author" : "Brian Manzullo",
-         "urlToImage" : "https://www.gannett-cdn.com/media/2018/05/04/USATODAY/usatsports/yuengling-lager.jpg?crop=1365,768,x0,y0&width=1600&height=800&fit=bounds",
-         "url" : "https://www.freep.com/story/entertainment/nightlife/2020/09/15/yuengling-beer-michigan-molson-coors/5809444002/",
          "title" : "Is Yuengling beer finally coming to Michigan in 2021? - Detroit Free Press",
-         "publishedAt" : "2020-09-15T21:02:46Z"
+         "content" : "Quick facts about craft beer in Michigan.\r\nWochit\r\nBeer drinkers across Michigan have been clamoring for Yuengling to sell its beer in the Great Lakes State for years.\r\nIt could get that wish as earl… [+2308 chars]"
       },
       {
-         "source" : {
-            "id" : null,
-            "name" : "KSL.com"
-         },
-         "description" : "The brand-new Salt Lake City International Airport lifted off before sunrise Tuesday morning with a blast.",
-         "content" : "SALT LAKE CITY The brand-new Salt Lake City International Airport lifted off before sunrise Tuesday morning with a blast.\r\nTwo firetrucks honored the first flight to soar out of the new airport Delta… [+9717 chars]",
-         "publishedAt" : "2020-09-15T21:00:00Z",
          "title" : "'Beautiful' Salt Lake airport awes travelers on first flight from new facility - KSL.com",
-         "url" : "https://www.ksl.com/article/50017530/beautiful-salt-lake-airport-awes-travelers-on-first-flight-from-new-facility",
+         "source" : {
+            "name" : "KSL.com",
+            "id" : null
+         },
+         "content" : "SALT LAKE CITY The brand-new Salt Lake City International Airport lifted off before sunrise Tuesday morning with a blast.\r\nTwo firetrucks honored the first flight to soar out of the new airport Delta… [+9717 chars]",
+         "author" : "https://www.facebook.com/kslcom/",
          "urlToImage" : "https://img.ksl.com/slc/2793/279380/27938027.jpeg?filter=ksl/responsive_story_lg",
-         "author" : "https://www.facebook.com/kslcom/"
+         "url" : "https://www.ksl.com/article/50017530/beautiful-salt-lake-airport-awes-travelers-on-first-flight-from-new-facility",
+         "description" : "The brand-new Salt Lake City International Airport lifted off before sunrise Tuesday morning with a blast.",
+         "publishedAt" : "2020-09-15T21:00:00Z"
       },
       {
          "source" : {
             "id" : null,
             "name" : "Gothamist"
          },
-         "content" : "After reopening some of its gyms across the city earlier this month, the company that owns New York Sports Club announced that it filed for Chapter 11 bankruptcy on Monday. Town Sports International,… [+3829 chars]",
-         "description" : "NYSC member Linda Pricci of Queens is one member who said she got charged on September 1st despite suspending her account in March.",
-         "publishedAt" : "2020-09-15T20:55:10Z",
-         "url" : "http://gothamist.com/news/new-york-sports-club-members-hit-unexpected-charges-company-files-bankruptcy",
          "title" : "New York Sports Club Members Hit With Unexpected Charges As Company Files Bankruptcy - Gothamist",
+         "content" : "After reopening some of its gyms across the city earlier this month, the company that owns New York Sports Club announced that it filed for Chapter 11 bankruptcy on Monday. Town Sports International,… [+3829 chars]",
+         "url" : "http://gothamist.com/news/new-york-sports-club-members-hit-unexpected-charges-company-files-bankruptcy",
+         "urlToImage" : "https://cms.prod.nypr.digital/images/311646/fill-1200x650/",
+         "description" : "NYSC member Linda Pricci of Queens is one member who said she got charged on September 1st despite suspending her account in March.",
          "author" : "Caroline Lewis",
-         "urlToImage" : "https://cms.prod.nypr.digital/images/311646/fill-1200x650/"
+         "publishedAt" : "2020-09-15T20:55:10Z"
       },
       {
-         "publishedAt" : "2020-09-15T20:50:04Z",
-         "url" : "https://www.theverge.com/2020/9/15/21438615/tiktok-oracle-sale-spinoff-bytedance-ownership-stake",
-         "title" : "TikTok will spin off into a separate company, partly owned by Oracle - The Verge",
          "author" : "Russell Brandom",
+         "description" : "Oracle is set to take a minority stake in the new TikTok corporation, which will also be partly owned by the China-based ByteDance. The arrangement is part of a deal encouraged by President Trump as a way of staving off an imminent ban on TikTok.",
+         "url" : "https://www.theverge.com/2020/9/15/21438615/tiktok-oracle-sale-spinoff-bytedance-ownership-stake",
          "urlToImage" : "https://cdn.vox-cdn.com/thumbor/WoV3fOT4tjDSfEZub5j0Q0nM2fo=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/18331846/acastro_190723_1777_tiktok_0002.0.jpg",
+         "publishedAt" : "2020-09-15T20:50:04Z",
+         "title" : "TikTok will spin off into a separate company, partly owned by Oracle - The Verge",
          "source" : {
-            "name" : "The Verge",
-            "id" : "the-verge"
+            "id" : "the-verge",
+            "name" : "The Verge"
          },
-         "content" : "More details emerge in Financial Times reporting\r\nIllustration by Alex Castro / The Verge\r\nOracle plans take an ownership stake in a newly formed TikTok corporation as part of the recently announced … [+2221 chars]",
-         "description" : "Oracle is set to take a minority stake in the new TikTok corporation, which will also be partly owned by the China-based ByteDance. The arrangement is part of a deal encouraged by President Trump as a way of staving off an imminent ban on TikTok."
+         "content" : "More details emerge in Financial Times reporting\r\nIllustration by Alex Castro / The Verge\r\nOracle plans take an ownership stake in a newly formed TikTok corporation as part of the recently announced … [+2221 chars]"
       },
       {
          "source" : {
-            "id" : null,
-            "name" : "OilPrice.com"
+            "name" : "OilPrice.com",
+            "id" : null
          },
-         "description" : "Iran has raised oil production from the oilfields in its southwest it shares with Iraq to 400,000 barrels per day bpd from 70,000 bpd in the past seven years",
+         "title" : "Oil Rises On Major Crude Draw - OilPrice.com",
          "content" : "Oil majors are increasingly interested…\r\nRussian oil major Lukoil might…\r\nBy Charles Kennedy - Sep 15, 2020, 1:30 PM CDTIran has raised oil production from the oilfields in its southwest it shares wi… [+2143 chars]",
          "urlToImage" : "https://d32r1sh890xpii.cloudfront.net/news/718x300/2020-09-15_vuvx0mrdor.jpg",
+         "url" : "https://oilprice.com/Latest-Energy-News/World-News/Iran-Boosts-Oil-Output-At-Oilfields-Shared-With-Iraq.html",
+         "description" : "Iran has raised oil production from the oilfields in its southwest it shares with Iraq to 400,000 barrels per day bpd from 70,000 bpd in the past seven years",
          "author" : "Charles Kennedy",
-         "publishedAt" : "2020-09-15T20:45:00Z",
-         "title" : "Oil Rises On Major Crude Draw - OilPrice.com",
-         "url" : "https://oilprice.com/Latest-Energy-News/World-News/Iran-Boosts-Oil-Output-At-Oilfields-Shared-With-Iraq.html"
+         "publishedAt" : "2020-09-15T20:45:00Z"
       },
       {
          "publishedAt" : "2020-09-15T20:42:00Z",
-         "url" : "https://www.cnet.com/news/google-fiber-hits-2gbps-speeds/",
-         "title" : "Google Fiber hits 2Gbps download speeds - CNET",
-         "author" : "Corinne Reichert",
          "urlToImage" : "https://cnet3.cbsistatic.com/img/_rMROX2v-TY0-J_ZwsB1Ye7A3Qg=/1200x630/2013/06/14/6e1cf4ee-fdc8-11e2-8c7c-d4ae52e62bcc/Google_Fiber_logo.jpg",
-         "source" : {
-            "id" : null,
-            "name" : "CNET"
-         },
+         "url" : "https://www.cnet.com/news/google-fiber-hits-2gbps-speeds/",
+         "description" : "The internet provider is asking customers to sign on to test the new $100 service.",
+         "author" : "Corinne Reichert",
          "content" : "Google Fiber is offering 2Gbps speeds at a price of $100/month.\r\nCNET/Marguerite Reardon\r\nGoogle Fiber has announced its internet service can now provide download speeds of up to 2Gbps in some areas.… [+1385 chars]",
-         "description" : "The internet provider is asking customers to sign on to test the new $100 service."
+         "source" : {
+            "name" : "CNET",
+            "id" : null
+         },
+         "title" : "Google Fiber hits 2Gbps download speeds - CNET"
       },
       {
-         "description" : "U.S. delivery firm FedEx reported a bigger-than-expected quarterly profit on Tuesday, after price hikes, lower fuel costs and efficiency gains countered negative impacts associated with a pandemic-fueled surge in e-commerce shipments.",
          "content" : "U.S. delivery firm FedEx reported a bigger-than-expected quarterly profit on Tuesday, after price hikes, lower fuel costs and efficiency gains countered negative impacts associated with a pandemic-fu… [+1710 chars]",
          "source" : {
             "id" : null,
             "name" : "CNBC"
          },
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106672352-1597956090381-gettyimages-1208727929-_da10167.jpeg?v=1597956173",
-         "author" : "Reuters",
          "title" : "FedEx profit, revenue beat as pandemic drives e-commerce bounce - CNBC",
+         "publishedAt" : "2020-09-15T20:31:00Z",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106672352-1597956090381-gettyimages-1208727929-_da10167.jpeg?v=1597956173",
          "url" : "https://www.cnbc.com/2020/09/15/fedex-revenue-jumps-as-pandemic-drives-e-commerce-bounce.html",
-         "publishedAt" : "2020-09-15T20:31:00Z"
+         "description" : "U.S. delivery firm FedEx reported a bigger-than-expected quarterly profit on Tuesday, after price hikes, lower fuel costs and efficiency gains countered negative impacts associated with a pandemic-fueled surge in e-commerce shipments.",
+         "author" : "Reuters"
       }
    ],
+   "status" : "ok",
    "totalResults" : 70
 }
