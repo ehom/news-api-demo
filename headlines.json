@@ -1,266 +1,266 @@
 {
+   "totalResults" : 70,
+   "status" : "ok",
    "articles" : [
       {
          "description" : "",
-         "content" : "Shares of Tesla Inc. \r\n TSLA, \r\n +7.18%\r\ndropped 2.7% in premarket trading Wednesday, to put them on track to snap a 5-day win streak, even as Deutsche Bank analyst Emmanuel Rosner boosted his price … [+1145 chars]",
          "urlToImage" : "https://s.wsj.net/public/resources/MWimages/MW-GP644_MicroS_ZG_20180906154215.jpg",
+         "content" : "Shares of Tesla Inc. \r\n TSLA, \r\n +7.18%\r\ndropped 2.7% in premarket trading Wednesday, to put them on track to snap a 5-day win streak, even as Deutsche Bank analyst Emmanuel Rosner boosted his price … [+1145 chars]",
+         "author" : "Tomi Kilgore",
          "url" : "https://www.marketwatch.com/story/tesla-gets-a-33-price-target-boost-but-stock-pulls-back-in-danger-of-snapping-5-day-win-streak-2020-09-16",
          "publishedAt" : "2020-09-16T12:02:00Z",
-         "title" : "Tesla gets a 33% price target boost but stock pulls back, in danger of snapping 5-day win streak - MarketWatch",
          "source" : {
             "name" : "MarketWatch",
             "id" : null
          },
-         "author" : "Tomi Kilgore"
+         "title" : "Tesla gets a 33% price target boost but stock pulls back, in danger of snapping 5-day win streak - MarketWatch"
       },
       {
-         "url" : "https://www.cnbc.com/2020/09/16/draftkings-new-york-giants-agree-to-exclusive-sports-betting-deal.html",
-         "content" : "DraftKings has secured another sports partnership, agreeing to an exclusive deal with the New York Giants, the online betting company announced Wednesday.\r\nThe agreement makes DraftKings the Giants' … [+4026 chars]",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106703821-1600204651562DK--0003-E-MSX10315-jpg?v=1600204687",
-         "description" : "The agreement includes DraftKings operating a sportsbook, online wagers and a virtual sports lounge for the NFL team.",
          "title" : "DraftKings, New York Giants agree to exclusive sports betting deal - CNBC",
          "publishedAt" : "2020-09-16T11:30:00Z",
-         "author" : "Jabari Young",
          "source" : {
-            "name" : "CNBC",
-            "id" : null
-         }
+            "id" : null,
+            "name" : "CNBC"
+         },
+         "description" : "The agreement includes DraftKings operating a sportsbook, online wagers and a virtual sports lounge for the NFL team.",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106703821-1600204651562DK--0003-E-MSX10315-jpg?v=1600204687",
+         "content" : "DraftKings has secured another sports partnership, agreeing to an exclusive deal with the New York Giants, the online betting company announced Wednesday.\r\nThe agreement makes DraftKings the Giants' … [+4026 chars]",
+         "author" : "Jabari Young",
+         "url" : "https://www.cnbc.com/2020/09/16/draftkings-new-york-giants-agree-to-exclusive-sports-betting-deal.html"
       },
       {
+         "content" : "1. Nasdaq to continue to dig out of last week's hole\r\nPeople wear protective face masks outside Nasdaq in Times Square as the city continues Phase 4 of re-opening following restrictions imposed to sl… [+4682 chars]",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106699966-1599916565420-gettyimages-1266672204-nng_1195_2020081660527505.jpeg?v=1599916622",
+         "description" : "U.S. stock futures rose Wednesday, with the Nasdaq tracking for a third session of gains as tech stocks continued to dig out of last week's hole.",
+         "url" : "https://www.cnbc.com/2020/09/16/5-things-to-know-before-the-stock-market-opens-september-16-2020.html",
          "author" : "Matthew J. Belvedere",
-         "source" : {
-            "name" : "CNBC",
-            "id" : null
-         },
          "title" : "5 things to know before the stock market opens Wednesday - CNBC",
          "publishedAt" : "2020-09-16T11:03:00Z",
-         "url" : "https://www.cnbc.com/2020/09/16/5-things-to-know-before-the-stock-market-opens-september-16-2020.html",
-         "description" : "U.S. stock futures rose Wednesday, with the Nasdaq tracking for a third session of gains as tech stocks continued to dig out of last week's hole.",
-         "content" : "1. Nasdaq to continue to dig out of last week's hole\r\nPeople wear protective face masks outside Nasdaq in Times Square as the city continues Phase 4 of re-opening following restrictions imposed to sl… [+4682 chars]",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106699966-1599916565420-gettyimages-1266672204-nng_1195_2020081660527505.jpeg?v=1599916622"
+         "source" : {
+            "name" : "CNBC",
+            "id" : null
+         }
       },
       {
-         "source" : {
-            "id" : null,
-            "name" : "CNBC"
-         },
-         "author" : "Diana Olick",
-         "publishedAt" : "2020-09-16T11:00:00Z",
-         "title" : "Mortgage demand fell last week as interest rates stalled - CNBC",
-         "content" : "With no major move in mortgage rates, there was no sudden incentive to refinance a home loan last week, so fewer people did.\r\nThat drove overall mortgage application volume down 2.5% from the previou… [+1883 chars]",
          "description" : "With no major move in mortgage rates, there was no sudden incentive to refinance a home loan last week, so fewer people did.",
          "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106703839-1600205509432-gettyimages-168792908-HOUSING_STARTS.jpeg?v=1600205535",
-         "url" : "https://www.cnbc.com/2020/09/16/mortgage-demand-fell-last-week-as-interest-rates-stalled.html"
+         "content" : "With no major move in mortgage rates, there was no sudden incentive to refinance a home loan last week, so fewer people did.\r\nThat drove overall mortgage application volume down 2.5% from the previou… [+1883 chars]",
+         "author" : "Diana Olick",
+         "url" : "https://www.cnbc.com/2020/09/16/mortgage-demand-fell-last-week-as-interest-rates-stalled.html",
+         "title" : "Mortgage demand fell last week as interest rates stalled - CNBC",
+         "source" : {
+            "name" : "CNBC",
+            "id" : null
+         },
+         "publishedAt" : "2020-09-16T11:00:00Z"
       },
       {
-         "url" : "https://www.cnbc.com/2020/09/16/coronavirus-eli-lilly-reports-a-reduced-rate-of-hospitalization-for-patients-using-its-antibody-treatment.html",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106644820-1596456299054-AP_20203621775561.jpg?v=1596456382",
-         "content" : "LONDON  Eli Lilly said on Wednesday its antibody-based drug had been shown to reduce the rate of hospitalization for coronavirus patients recently diagnosed with mild-to-moderate symptoms of Covid-19… [+1715 chars]",
-         "description" : "The antibody was identified from a blood sample taken from one of the first U.S. patients who recovered from Covid-19.",
          "title" : "Eli Lilly reports a reduced rate of hospitalization for coronavirus patients using its antibody treatment - CNBC",
          "publishedAt" : "2020-09-16T10:46:00Z",
+         "source" : {
+            "name" : "CNBC",
+            "id" : null
+         },
+         "description" : "The antibody was identified from a blood sample taken from one of the first U.S. patients who recovered from Covid-19.",
+         "content" : "LONDON  Eli Lilly said on Wednesday its antibody-based drug had been shown to reduce the rate of hospitalization for coronavirus patients recently diagnosed with mild-to-moderate symptoms of Covid-19… [+1715 chars]",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106644820-1596456299054-AP_20203621775561.jpg?v=1596456382",
          "author" : "Sam Meredith",
-         "source" : {
-            "id" : null,
-            "name" : "CNBC"
-         }
+         "url" : "https://www.cnbc.com/2020/09/16/coronavirus-eli-lilly-reports-a-reduced-rate-of-hospitalization-for-patients-using-its-antibody-treatment.html"
       },
       {
-         "author" : "Shalini Nagarajan",
-         "source" : {
-            "id" : "business-insider",
-            "name" : "Business Insider"
-         },
          "title" : "Buffett-backed cloud unicorn Snowflake nets $3.4 billion in record-breaking software IPO | Markets - Business Insider",
+         "source" : {
+            "name" : "Business Insider",
+            "id" : "business-insider"
+         },
          "publishedAt" : "2020-09-16T09:45:41Z",
-         "url" : "https://www.businessinsider.com/snowflake-ipo-biggest-ever-software-listing-2020-9",
-         "urlToImage" : "https://i.insider.com/5f61bb50323fc4001e0d67e4?format=jpeg",
+         "description" : "Buffett-backed cloud unicorn Snowflake nets $3.4 billion in record-breaking software IPO",
          "content" : "<ul><li>Billionaire investor-backed Snowflake said it would raise $3.4 billion in the largest-ever software IPO, giving it a value of over $33 billion.</li><li>The cloud-data platform will sell 28 mi… [+2741 chars]",
-         "description" : "Buffett-backed cloud unicorn Snowflake nets $3.4 billion in record-breaking software IPO"
+         "urlToImage" : "https://i.insider.com/5f61bb50323fc4001e0d67e4?format=jpeg",
+         "author" : "Shalini Nagarajan",
+         "url" : "https://www.businessinsider.com/snowflake-ipo-biggest-ever-software-listing-2020-9"
       },
       {
-         "publishedAt" : "2020-09-16T09:39:07Z",
-         "title" : "Cactus Jack: Travis Scott fined over crowd at McDonald's event - Daily Mail",
-         "source" : {
-            "name" : "Daily Mail",
-            "id" : null
-         },
-         "author" : "By Rebecca Davison Carly Stern For Mailonline",
-         "urlToImage" : "https://i.dailymail.co.uk/1s/2020/09/16/11/33248950-0-image-a-51_1600250684709.jpg",
          "content" : "Musician Travis Scott is being fined by the city of Downey after a rowdy crowd of 500 people turned up at a McDonald's restaurant to meet him and try his new Cactus Jack meal. \r\nTravis, 28, who has a… [+6784 chars]",
+         "urlToImage" : "https://i.dailymail.co.uk/1s/2020/09/16/11/33248950-0-image-a-51_1600250684709.jpg",
          "description" : "Musician Travis Scott is being fined by the city of Downey after a rowdy crowd of 500 people turned up at a McDonald's restaurant to try his new Cactus Jack meal.",
-         "url" : "https://www.dailymail.co.uk/tvshowbiz/article-8738695/Cactus-Jack-Travis-Scott-fined-crowd-McDonalds-event.html"
-      },
-      {
-         "url" : "https://www.wsj.com/articles/fed-meeting-to-focus-on-laying-out-interest-rate-strategy-11600248600",
-         "content" : "Federal Reserve officials resume deliberations Wednesday about how to detail plans to support the economy now that they have formally adopted a strategy to keep interest rates lower for longer.\r\nOffi… [+302 chars]",
-         "urlToImage" : "https://images.wsj.net/im-232343/social",
-         "description" : "Officials working to reach consensus on how and when to provide more guidance about low-rate path",
-         "title" : "Fed Meeting to Focus on Laying Out Interest-Rate Strategy - The Wall Street Journal",
-         "publishedAt" : "2020-09-16T09:30:00Z",
-         "author" : "Nick Timiraos",
+         "url" : "https://www.dailymail.co.uk/tvshowbiz/article-8738695/Cactus-Jack-Travis-Scott-fined-crowd-McDonalds-event.html",
+         "author" : "By Rebecca Davison Carly Stern For Mailonline",
+         "title" : "Cactus Jack: Travis Scott fined over crowd at McDonald's event - Daily Mail",
+         "publishedAt" : "2020-09-16T09:39:07Z",
          "source" : {
-            "name" : "The Wall Street Journal",
-            "id" : "the-wall-street-journal"
+            "id" : null,
+            "name" : "Daily Mail"
          }
       },
       {
-         "source" : {
-            "name" : "CNN",
-            "id" : "cnn"
-         },
-         "author" : "Julia Horowitz, CNN Business",
-         "publishedAt" : "2020-09-16T09:15:00Z",
-         "title" : "The outlook for top global economies is improving, OECD says - CNN",
-         "content" : null,
-         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200915120530-new-dehli-india-commuters-0907-restricted-super-tease.jpg",
-         "description" : "The huge shock to many of the world's biggest economies from the coronavirus pandemic may not be quite as bad as economists feared just a few months ago.",
-         "url" : "https://www.cnn.com/2020/09/16/economy/oecd-economic-outlook-september/index.html"
-      },
-      {
-         "url" : "https://finance.yahoo.com/news/amazon-plans-put-1-000-090053785.html",
-         "content" : "(Bloomberg) -- Amazon.com Inc. plans to open 1,000 small delivery hubs in cities and suburbs all over the U.S., according to people familiar with the plans. The facilities, which will eventually numb… [+7886 chars]",
-         "description" : "(Bloomberg) -- Amazon.com Inc. plans to open 1,000 small delivery hubs in cities and suburbs all over the U.S., according to people familiar with the plans. The facilities, which will eventually number about 1,500, will bring products closer to customers, mak…",
-         "urlToImage" : "https://s.yimg.com/uu/api/res/1.2/6TIB1lWBg.XIcvMfXPFjyg--~B/aD0xMzcyO3c9MjAwMDtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bloomberg_technology_68/78d7233789daa0fb9242ad0f133534d3",
-         "author" : "Spencer Soper",
-         "source" : {
-            "name" : "Yahoo Entertainment",
-            "id" : null
-         },
-         "title" : "Amazon Plans to Put 1,000 Warehouses in Suburban Neighborhoods - Yahoo Finance",
-         "publishedAt" : "2020-09-16T09:00:00Z"
-      },
-      {
-         "url" : "https://www.usatoday.com/story/money/2020/09/16/virtual-school-families-paying-more-chromebook-desk-bluetooth-headphones/5810336002/",
-         "content" : "Back to school looks so different in 2020. Whether going remote or in person, here's how to save some time and money to prepare your student for class\r\nUSA TODAY\r\nBack-to-school shopping is looking d… [+6095 chars]",
-         "urlToImage" : "https://www.gannett-cdn.com/presto/2020/09/15/USAT/f0a20368-85dd-4e91-af77-7e4c015f45b8-amanda_sorena_twins.jpg?crop=1439,810,x0,y360&width=1600&height=800&fit=bounds",
-         "description" : "With many schools going virtual, households with children in kindergarten through 12th grade will spend an average of nearly $790 a family this year.",
-         "author" : "Aimee Picchi",
-         "source" : {
-            "name" : "USA Today",
-            "id" : "usa-today"
-         },
-         "title" : "Chromebook, headphones, desks: COVID-era virtual school supplies come with real spike in spending - USA TODAY",
-         "publishedAt" : "2020-09-16T08:23:13Z"
-      },
-      {
-         "url" : "https://finance.yahoo.com/news/kodak-shares-jump-24-independent-081340294.html",
-         "urlToImage" : "https://s.yimg.com/uu/api/res/1.2/WnflwFdLLy8EhOWyROccaQ--~B/aD00MDA7dz02MDA7c209MTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/Benzinga/f614da85b4b75ca0a7b973cf9006873f",
-         "content" : "Eastman Kodak Companys (NYSE: KODK) shares jumped in pre-market session Wednesday as the special committee appointed by its board declared the outcome of its independent review on the companys handli… [+1616 chars]",
-         "description" : "Eastman Kodak Company's (NYSE: KODK) shares jumped in pre-market session Wednesday as the special committee appointed by its board declared the outcome of its independent review on the company's handling of stock options to the CEO.What Happened: The committe…",
-         "title" : "Kodak Shares Jump 24% As Independent Review Finds It Violated No Law - Yahoo Finance",
-         "publishedAt" : "2020-09-16T08:13:00Z",
-         "author" : "Aditya Raghunath",
-         "source" : {
-            "id" : null,
-            "name" : "Yahoo Entertainment"
-         }
-      },
-      {
-         "source" : {
-            "name" : "MarketWatch",
-            "id" : null
-         },
-         "author" : "Barbara Kollmeyer",
-         "publishedAt" : "2020-09-16T07:45:00Z",
-         "title" : "European stocks rise, lifted by retailers including Inditex, as investors await Fed decision - MarketWatch",
-         "description" : "Grenke shares slide",
-         "content" : "European stocks inched up on Wednesday, with retail stocks rising after Inditex SA results, as investors waited for the outcome of the Federal Reserve meeting later. U.S. stock futures also rose. The… [+2359 chars]",
-         "urlToImage" : "https://images.mktw.net/im-232655/social",
-         "url" : "https://www.marketwatch.com/story/european-stocks-rise-lifted-by-retailers-including-inditex-as-investors-await-fed-decision-11600242337"
-      },
-      {
-         "title" : "Hawley urges CFIUS to reject ‘completely unacceptable’ Oracle-Tik Tok deal - Fox Business",
-         "publishedAt" : "2020-09-16T07:16:10Z",
-         "author" : "Adam Shaw",
-         "source" : {
-            "id" : null,
-            "name" : "Fox Business"
-         },
-         "url" : "https://www.foxbusiness.com/politics/hawley-cfius-reject-oracle-tik-tok-deal",
-         "description" : "Sen. Josh Hawley, R-Mo., on Monday urged the Committee on Foreign Investment in the United States (CFIUS) to reject Oracle’s deal to take control of TikTok’s operations in the U.S., arguing it would allow for continued Chinese control of the social media app.",
-         "content" : "Sen. Josh Hawley, R-Mo., on Monday urged the Committee on Foreign Investment in the United States (CFIUS) to reject Oracle’s deal to take control of TikTok’s operations in the U.S., arguing it would … [+2966 chars]",
-         "urlToImage" : "https://a57.foxnews.com/media.foxbusiness.com/BrightCove/854081161001/202009/2720/0/0/854081161001_6191035669001_6191036936001-vs.jpg?ve=1&tl=1"
-      },
-      {
-         "urlToImage" : "https://static.reuters.com/resources/r/?m=02&d=20200916&t=2&i=1533605069&r=LYNXMPEG8E1YP&w=800",
-         "content" : "(Reuters) - AT&amp;T Inc is considering offering wireless phone plans partially subsidized by advertising as soon as a year from now, Chief Executive John Stankey said in an interview on Tuesday.\r\nTh… [+2990 chars]",
-         "description" : "AT&T Inc is considering offering wireless phone plans partially subsidized by advertising as soon as a year from now, Chief Executive John Stankey said in an interview on Tuesday.",
-         "url" : "https://uk.reuters.com/article/us-at-t-ceo-interview-exclusive-idUKKBN2663HK",
-         "publishedAt" : "2020-09-16T06:11:09Z",
-         "title" : "Exclusive: AT&T considers cellphone plans subsidized by ads - Reuters UK",
-         "source" : {
-            "id" : "reuters",
-            "name" : "Reuters"
-         },
-         "author" : "Sheila Dang, Helen Coster, Krystal Hu, Kenneth Li"
-      },
-      {
-         "content" : "Wisconsin has itself a winner! After a single ticket was drawn for Tuesdays huge $119 million dollar jackpot, someone somewhere in the Badger State will end the summer on a high note regarding their … [+876 chars]",
-         "description" : "See the winning numbers in the Mega Millions drawing Tuesday.",
-         "urlToImage" : "https://www.pennlive.com/resizer/6DLGT4Fs_xR2BCq2e_MrbwPQe4w=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/SXTMOK7H45GGNKILPQ6BBXRTBU.jpg",
-         "url" : "https://www.pennlive.com/lottery/2020/09/mega-millions-numbers-are-you-the-lucky-winner-of-tuesdays-119-million-lottery-jackpot.html",
-         "publishedAt" : "2020-09-16T04:47:00Z",
-         "title" : "Mega Millions numbers: One lucky ticket drawn for Tuesday’s $119 million lottery jackpot - pennlive.com",
-         "source" : {
-            "id" : null,
-            "name" : "PennLive"
-         },
-         "author" : "National Desk"
-      },
-      {
-         "title" : "Kraft Heinz to sell part of cheese business for $3.2 Billion - Fox Business",
-         "publishedAt" : "2020-09-16T03:10:20Z",
-         "author" : "The Wall Street Journal",
          "source" : {
             "id" : "the-wall-street-journal",
             "name" : "The Wall Street Journal"
          },
+         "publishedAt" : "2020-09-16T09:30:00Z",
+         "title" : "Fed Meeting to Focus on Laying Out Interest-Rate Strategy - The Wall Street Journal",
+         "author" : "Nick Timiraos",
+         "url" : "https://www.wsj.com/articles/fed-meeting-to-focus-on-laying-out-interest-rate-strategy-11600248600",
+         "description" : "Officials working to reach consensus on how and when to provide more guidance about low-rate path",
+         "content" : "Federal Reserve officials resume deliberations Wednesday about how to detail plans to support the economy now that they have formally adopted a strategy to keep interest rates lower for longer.\r\nOffi… [+302 chars]",
+         "urlToImage" : "https://images.wsj.net/im-232343/social"
+      },
+      {
+         "url" : "https://www.cnn.com/2020/09/16/economy/oecd-economic-outlook-september/index.html",
+         "author" : "Julia Horowitz, CNN Business",
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200915120530-new-dehli-india-commuters-0907-restricted-super-tease.jpg",
+         "content" : null,
+         "description" : "The huge shock to many of the world's biggest economies from the coronavirus pandemic may not be quite as bad as economists feared just a few months ago.",
+         "title" : "The outlook for top global economies is improving, OECD says - CNN",
+         "source" : {
+            "id" : "cnn",
+            "name" : "CNN"
+         },
+         "publishedAt" : "2020-09-16T09:15:00Z"
+      },
+      {
+         "author" : "Spencer Soper",
+         "url" : "https://finance.yahoo.com/news/amazon-plans-put-1-000-090053785.html",
+         "description" : "(Bloomberg) -- Amazon.com Inc. plans to open 1,000 small delivery hubs in cities and suburbs all over the U.S., according to people familiar with the plans. The facilities, which will eventually number about 1,500, will bring products closer to customers, mak…",
+         "urlToImage" : "https://s.yimg.com/uu/api/res/1.2/6TIB1lWBg.XIcvMfXPFjyg--~B/aD0xMzcyO3c9MjAwMDtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bloomberg_technology_68/78d7233789daa0fb9242ad0f133534d3",
+         "content" : "(Bloomberg) -- Amazon.com Inc. plans to open 1,000 small delivery hubs in cities and suburbs all over the U.S., according to people familiar with the plans. The facilities, which will eventually numb… [+7886 chars]",
+         "publishedAt" : "2020-09-16T09:00:00Z",
+         "source" : {
+            "id" : null,
+            "name" : "Yahoo Entertainment"
+         },
+         "title" : "Amazon Plans to Put 1,000 Warehouses in Suburban Neighborhoods - Yahoo Finance"
+      },
+      {
+         "author" : "Aimee Picchi",
+         "url" : "https://www.usatoday.com/story/money/2020/09/16/virtual-school-families-paying-more-chromebook-desk-bluetooth-headphones/5810336002/",
+         "description" : "With many schools going virtual, households with children in kindergarten through 12th grade will spend an average of nearly $790 a family this year.",
+         "urlToImage" : "https://www.gannett-cdn.com/presto/2020/09/15/USAT/f0a20368-85dd-4e91-af77-7e4c015f45b8-amanda_sorena_twins.jpg?crop=1439,810,x0,y360&width=1600&height=800&fit=bounds",
+         "content" : "Back to school looks so different in 2020. Whether going remote or in person, here's how to save some time and money to prepare your student for class\r\nUSA TODAY\r\nBack-to-school shopping is looking d… [+6095 chars]",
+         "title" : "Chromebook, headphones, desks: COVID-era virtual school supplies come with real spike in spending - USA TODAY",
+         "source" : {
+            "id" : "usa-today",
+            "name" : "USA Today"
+         },
+         "publishedAt" : "2020-09-16T08:23:13Z"
+      },
+      {
+         "source" : {
+            "id" : null,
+            "name" : "Yahoo Entertainment"
+         },
+         "publishedAt" : "2020-09-16T08:13:00Z",
+         "title" : "Kodak Shares Jump 24% As Independent Review Finds It Violated No Law - Yahoo Finance",
+         "url" : "https://finance.yahoo.com/news/kodak-shares-jump-24-independent-081340294.html",
+         "author" : "Aditya Raghunath",
+         "urlToImage" : "https://s.yimg.com/uu/api/res/1.2/WnflwFdLLy8EhOWyROccaQ--~B/aD00MDA7dz02MDA7c209MTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/Benzinga/f614da85b4b75ca0a7b973cf9006873f",
+         "content" : "Eastman Kodak Companys (NYSE: KODK) shares jumped in pre-market session Wednesday as the special committee appointed by its board declared the outcome of its independent review on the companys handli… [+1616 chars]",
+         "description" : "Eastman Kodak Company's (NYSE: KODK) shares jumped in pre-market session Wednesday as the special committee appointed by its board declared the outcome of its independent review on the company's handling of stock options to the CEO.What Happened: The committe…"
+      },
+      {
+         "title" : "European stocks rise, lifted by retailers including Inditex, as investors await Fed decision - MarketWatch",
+         "source" : {
+            "id" : null,
+            "name" : "MarketWatch"
+         },
+         "publishedAt" : "2020-09-16T07:45:00Z",
+         "content" : "European stocks inched up on Wednesday, with retail stocks rising after Inditex SA results, as investors waited for the outcome of the Federal Reserve meeting later. U.S. stock futures also rose. The… [+2359 chars]",
+         "urlToImage" : "https://images.mktw.net/im-232655/social",
+         "description" : "Grenke shares slide",
+         "url" : "https://www.marketwatch.com/story/european-stocks-rise-lifted-by-retailers-including-inditex-as-investors-await-fed-decision-11600242337",
+         "author" : "Barbara Kollmeyer"
+      },
+      {
+         "url" : "https://www.foxbusiness.com/politics/hawley-cfius-reject-oracle-tik-tok-deal",
+         "author" : "Adam Shaw",
+         "content" : "Sen. Josh Hawley, R-Mo., on Monday urged the Committee on Foreign Investment in the United States (CFIUS) to reject Oracle’s deal to take control of TikTok’s operations in the U.S., arguing it would … [+2966 chars]",
+         "urlToImage" : "https://a57.foxnews.com/media.foxbusiness.com/BrightCove/854081161001/202009/2720/0/0/854081161001_6191035669001_6191036936001-vs.jpg?ve=1&tl=1",
+         "description" : "Sen. Josh Hawley, R-Mo., on Monday urged the Committee on Foreign Investment in the United States (CFIUS) to reject Oracle’s deal to take control of TikTok’s operations in the U.S., arguing it would allow for continued Chinese control of the social media app.",
+         "title" : "Hawley urges CFIUS to reject ‘completely unacceptable’ Oracle-Tik Tok deal - Fox Business",
+         "source" : {
+            "id" : null,
+            "name" : "Fox Business"
+         },
+         "publishedAt" : "2020-09-16T07:16:10Z"
+      },
+      {
+         "source" : {
+            "id" : "reuters",
+            "name" : "Reuters"
+         },
+         "publishedAt" : "2020-09-16T06:11:09Z",
+         "title" : "Exclusive: AT&T considers cellphone plans subsidized by ads - Reuters UK",
+         "author" : "Sheila Dang, Helen Coster, Krystal Hu, Kenneth Li",
+         "url" : "https://uk.reuters.com/article/us-at-t-ceo-interview-exclusive-idUKKBN2663HK",
+         "description" : "AT&T Inc is considering offering wireless phone plans partially subsidized by advertising as soon as a year from now, Chief Executive John Stankey said in an interview on Tuesday.",
+         "urlToImage" : "https://static.reuters.com/resources/r/?m=02&d=20200916&t=2&i=1533605069&r=LYNXMPEG8E1YP&w=800",
+         "content" : "(Reuters) - AT&amp;T Inc is considering offering wireless phone plans partially subsidized by advertising as soon as a year from now, Chief Executive John Stankey said in an interview on Tuesday.\r\nTh… [+2990 chars]"
+      },
+      {
+         "description" : "See the winning numbers in the Mega Millions drawing Tuesday.",
+         "urlToImage" : "https://www.pennlive.com/resizer/6DLGT4Fs_xR2BCq2e_MrbwPQe4w=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/SXTMOK7H45GGNKILPQ6BBXRTBU.jpg",
+         "content" : "Wisconsin has itself a winner! After a single ticket was drawn for Tuesdays huge $119 million dollar jackpot, someone somewhere in the Badger State will end the summer on a high note regarding their … [+876 chars]",
+         "author" : "National Desk",
+         "url" : "https://www.pennlive.com/lottery/2020/09/mega-millions-numbers-are-you-the-lucky-winner-of-tuesdays-119-million-lottery-jackpot.html",
+         "publishedAt" : "2020-09-16T04:47:00Z",
+         "source" : {
+            "id" : null,
+            "name" : "PennLive"
+         },
+         "title" : "Mega Millions numbers: One lucky ticket drawn for Tuesday’s $119 million lottery jackpot - pennlive.com"
+      },
+      {
+         "author" : "The Wall Street Journal",
          "url" : "https://www.wsj.com/articles/kraft-heinz-nears-deal-to-sell-part-of-cheese-business-to-lactalis-11600182175?mod=searchresults&amp;page=1&amp;pos=1",
-         "content" : "Kraft Heinz Co. KHC 0.31% is parting with a big chunk of its cheese business, a sign of the challenges facing food companies whose scale complicated operations as the coronavirus pandemic drove unpre… [+5653 chars]",
          "description" : "Kraft Heinz said Tuesday that it had reached a deal to sell its U.S. natural-cheese business and a mix of other cheese brands in North America and internationally to France’s Groupe Lactalis SA for $3.2 billion.",
-         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/09/0/0/Kraft-Cheese.jpg?ve=1&tl=1"
+         "content" : "Kraft Heinz Co. KHC 0.31% is parting with a big chunk of its cheese business, a sign of the challenges facing food companies whose scale complicated operations as the coronavirus pandemic drove unpre… [+5653 chars]",
+         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/09/0/0/Kraft-Cheese.jpg?ve=1&tl=1",
+         "source" : {
+            "id" : "the-wall-street-journal",
+            "name" : "The Wall Street Journal"
+         },
+         "publishedAt" : "2020-09-16T03:10:20Z",
+         "title" : "Kraft Heinz to sell part of cheese business for $3.2 Billion - Fox Business"
       },
       {
          "urlToImage" : "http://static-22.sinclairstoryline.com/resources/media/7484e169-0b91-4984-a1a8-e17405f56e59-large16x9_marijuanaplant.jpg?1600215335490",
          "content" : null,
          "description" : "In the latest developments between legalized hemp and illegal marijuana, the DEA recently released proposed rules for hemp and CBD just this month. With the agency explaining how it plans to redefine marijuana to exclude hemp, the DEA's new interim final rule…",
          "url" : "http://foxsanantonio.com/news/yami-investigates/dea-hemp-rules-raises-concerns-among-the-cbd-industry",
-         "publishedAt" : "2020-09-16T02:44:41Z",
+         "author" : "Yami Virgin",
          "title" : "DEA: Hemp rules raises concerns among the CBD industry - FOX 29",
+         "publishedAt" : "2020-09-16T02:44:41Z",
          "source" : {
             "name" : "FOX 29",
             "id" : null
-         },
-         "author" : "Yami Virgin"
+         }
       },
       {
-         "source" : {
-            "name" : "Reuters",
-            "id" : "reuters"
-         },
-         "author" : "Manas Mishra",
-         "publishedAt" : "2020-09-16T02:34:00Z",
          "title" : "Pfizer says late-stage coronavirus vaccine study shows moderate side effects - Reuters",
+         "publishedAt" : "2020-09-16T02:34:00Z",
+         "source" : {
+            "id" : "reuters",
+            "name" : "Reuters"
+         },
          "content" : "FILE PHOTO: A sign is pictured outside Pfizer Headquarters in the Manhattan borough of New York City, New York, U.S., July 22, 2020. REUTERS/Carlo Allegri\r\n(Reuters) - Pfizer Inc said on Tuesday part… [+1023 chars]",
          "urlToImage" : "https://static.reuters.com/resources/r/?m=02&d=20200916&t=2&i=1533616800&r=LYNXMPEG8F062&w=800",
          "description" : "Pfizer Inc said on Tuesday participants were showing mild-to-moderate side effects when given either the company's experimental coronavirus vaccine or a placebo in an ongoing late-stage study.",
-         "url" : "https://www.reuters.com/article/health-coronavirus-pfizer-idUSKBN2670AO"
+         "url" : "https://www.reuters.com/article/health-coronavirus-pfizer-idUSKBN2670AO",
+         "author" : "Manas Mishra"
       },
       {
-         "url" : "https://www.usatoday.com/story/news/nation/2020/09/15/texas-woman-charged-fraud-ppp-loans/5811194002/",
-         "urlToImage" : "https://www.gannett-cdn.com/-mm-/6a620bf7cff8078d958e2fabc3d93216a02314f8/c=0-456-4843-3180/local/-/media/2020/09/09/USATODAY/usatsports/money-wads-of-assorted-bills.jpg?width=3200&height=1680&fit=crop",
-         "content" : "Small business owners share their difficult and confusing journeys in applying for the Paycheck Protection Program loan.\r\nUSA TODAY\r\nA Texas woman who received nearly $2 million in Paycheck Protectio… [+2520 chars]",
          "description" : "Lola Shalewa Barbara Kasali allegedly received more than $1.9 million in PPP loans and transferred the money into four additional bank accounts.",
+         "content" : "Small business owners share their difficult and confusing journeys in applying for the Paycheck Protection Program loan.\r\nUSA TODAY\r\nA Texas woman who received nearly $2 million in Paycheck Protectio… [+2520 chars]",
+         "urlToImage" : "https://www.gannett-cdn.com/-mm-/6a620bf7cff8078d958e2fabc3d93216a02314f8/c=0-456-4843-3180/local/-/media/2020/09/09/USATODAY/usatsports/money-wads-of-assorted-bills.jpg?width=3200&height=1680&fit=crop",
+         "author" : "Jessica Flores",
+         "url" : "https://www.usatoday.com/story/news/nation/2020/09/15/texas-woman-charged-fraud-ppp-loans/5811194002/",
          "title" : "Texas woman fraudulently submitted Paycheck Protection Program loan applications for nearly $2M, DOJ says - USA TODAY",
          "publishedAt" : "2020-09-16T01:23:29Z",
-         "author" : "Jessica Flores",
          "source" : {
-            "id" : "usa-today",
-            "name" : "USA Today"
+            "name" : "USA Today",
+            "id" : "usa-today"
          }
       }
-   ],
-   "totalResults" : 70,
-   "status" : "ok"
+   ]
 }
