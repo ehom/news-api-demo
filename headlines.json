@@ -1,31 +1,174 @@
 {
-   "totalResults" : 70,
+   "status" : "ok",
    "articles" : [
       {
-         "urlToImage" : "https://static01.nyt.com/images/2020/09/16/science/16VIRUS-DRUG/16VIRUS-DRUG-facebookJumbo.jpg",
-         "url" : "https://www.nytimes.com/2020/09/16/health/coronavirus-drug-eli-lilly.html",
-         "author" : "Gina Kolata",
-         "content" : "This is the first time we have ever seen anything of this magnitude, Dr. Skovronsky said.\r\nThe antibody drug did not produce significant side effects, he said. Patients received a single infusion, pr… [+1106 chars]",
-         "description" : "A so-called monoclonal antibody lowered blood levels of the coronavirus and prevented hospitalizations. The research has not yet been vetted by independent experts.",
+         "content" : "The Dow and S&amp;P 500 were both higher on Wednesday as traders awaited the lastest monetary policy announcement from the Federal Reserve. The Nasdaq struggled, however, as shares of major tech comp… [+150 chars]",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106552011-1590501679731preview.jpg?v=1599677493",
+         "url" : "https://www.cnbc.com/2020/09/16/stock-market-live-updates-stock-futures-jump-fed-meeting-on-deck-biggest-ipo-of-the-year.html",
+         "description" : "Stocks advanced Wednesday ahead of a key Federal Reserve policy announcement.",
          "source" : {
-            "id" : null,
-            "name" : "New York Times"
+            "name" : "CNBC",
+            "id" : null
          },
-         "publishedAt" : "2020-09-16T14:22:00Z",
-         "title" : "Ely Lilly Claims Experimental Drug Protects Covid-19 Patients - The New York Times"
+         "publishedAt" : "2020-09-16T15:50:00Z",
+         "author" : "CNBC.com staff",
+         "title" : "Stock market live updates: Dow up 200, Fed meeting on deck, Snowflake to surge in big IPO - CNBC"
       },
       {
-         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2019/04/0/0/iStock-923305044.jpg?ve=1&tl=1",
-         "url" : "https://www.foxbusiness.com/money/itt-tech-student-loans-canceled-settlement",
-         "author" : "Evie Fordham",
-         "content" : "Roughly $330 million in debt for 35,000 students who attended the now-shuttered ITT Tech will be canceled thanks to a settlement in conjunction with the Consumer Financial Protection Bureau, the atto… [+1554 chars]",
-         "description" : "Roughly $330 million in debt for 35,000 students who attended the now-shuttered ITT Tech will be canceled thanks to a settlement in conjunction with the Consumer Financial Protection Bureau, the attorneys general of nearly 50 states announced this week.",
+         "title" : "Kraft Heinz CEO: Warren Buffett's top two lieutenants on our board liked our $3.2 billion deal - Yahoo Finance",
+         "author" : "Brian Sozzi",
+         "publishedAt" : "2020-09-16T15:31:00Z",
+         "source" : {
+            "name" : "Yahoo Entertainment",
+            "id" : null
+         },
+         "description" : "Yahoo Finance chats with Kraft Heinz CEO Miguel Patricio about his new plan to overhaul the food giant.",
+         "url" : "https://finance.yahoo.com/news/kraft-heinz-ceo-warren-buffetts-top-two-lieutenants-on-our-board-liked-our-32-billion-deal-153151409.html",
+         "urlToImage" : "https://s.yimg.com/uu/api/res/1.2/2RvwxQSGOkupRnvkoUbzQg--~B/aD0yOTUxO3c9NDQ4ODtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2020-09/6ed2ede0-f76b-11ea-8756-acfb4359b42f",
+         "content" : "One of Kraft Heinz CEO Miguel Patricios first big moves since taking the top job in July 2019 got the blessing of two of the food giants arguably most important board members.\r\nAt the companys long-a… [+3064 chars]"
+      },
+      {
+         "source" : {
+            "name" : "CleanTechnica",
+            "id" : null
+         },
+         "description" : "Tesla Battery Day is less than a week away. In my view, most Tesla commentary continues to overlook what is already known when it comes to predictions for what will be revealed on Tesla Battery Day.",
+         "publishedAt" : "2020-09-16T15:30:16Z",
+         "author" : "Dr. Maximilian Holland",
+         "title" : "Tesla Battery Day — Has Elon Musk Already “Leaked” The Battery Tech That Will Give Scale To The EV Revolution? - CleanTechnica",
+         "content" : "CarsPublished on September 16th, 2020 |\r\n by Dr. Maximilian Holland\r\n0\r\nSeptember 16th, 2020 by Dr. Maximilian Holland \r\nTesla Battery Day is less than a week away. In my view, most Tesla commentary … [+29681 chars]",
+         "url" : "https://cleantechnica.com/2020/09/16/tesla-battery-day-has-elon-musk-already-leaked-the-battery-tech-that-will-give-scale-to-the-ev-revolution/",
+         "urlToImage" : "https://cleantechnica.com/files/2020/09/Tesla-battery-cell-production-video.jpg"
+      },
+      {
+         "source" : {
+            "name" : "Reuters",
+            "id" : "reuters"
+         },
+         "description" : "U.S. consumer spending slowed in August, with a key retail sales gauge unexpectedly declining, as extended unemployment benefits were cut for millions of Americans, offering more evidence that the economic recovery from the COVID-19 recession was faltering.",
+         "title" : "Fading fiscal stimulus crimping U.S. consumer spending - Reuters India",
+         "author" : "Lucia Mutikani",
+         "publishedAt" : "2020-09-16T14:54:00Z",
+         "content" : "WASHINGTON (Reuters) - U.S. consumer spending slowed in August, with a key retail sales gauge unexpectedly declining, as extended unemployment benefits were cut for millions of Americans, offering mo… [+5209 chars]",
+         "url" : "https://in.reuters.com/article/usa-economy-idINKBN2672L3",
+         "urlToImage" : "https://static.reuters.com/resources/r/?m=02&d=20200916&t=2&i=1533702176&r=LYNXMPEG8F1JP&w=800"
+      },
+      {
+         "source" : {
+            "name" : "Motley Fool",
+            "id" : null
+         },
+         "description" : "These companies appear expensive on the surface, but they're actually a bargain when considering their long-term growth and profit potential.",
+         "author" : "Andrew Tseng",
+         "publishedAt" : "2020-09-16T14:30:00Z",
+         "title" : "3 Cheap Tech Stocks to Buy Now - Motley Fool",
+         "content" : "Some investors think this year's rally for tech stocks means there are no more deals to be had in that sector. The Nasdaq Composite index has gained almost 25% year to date and is up over 60% from it… [+6563 chars]",
+         "url" : "https://www.fool.com/investing/2020/09/16/3-cheap-tech-stocks-to-buy-now/",
+         "urlToImage" : "https://g.foolcdn.com/editorial/images/590033/young-woman-sitting-in-a-car-and-smiling-while-being-handed-the-keys.jpg"
+      },
+      {
+         "title" : "Fox News Hit With Layoffs Amid Reorganization - Hollywood Reporter",
+         "publishedAt" : "2020-09-16T14:22:38Z",
+         "author" : "Alex Weprin",
+         "source" : {
+            "name" : "Hollywood Reporter",
+            "id" : null
+         },
+         "description" : "No on-air talent are expected to be impacted by the changes, and less than 3 percent of staff will lose their jobs in the reorg.",
+         "url" : "https://www.hollywoodreporter.com/news/fox-news-hit-with-layoffs",
+         "urlToImage" : null,
+         "content" : "Fox News will lay off staff in a reorganization and restructuring of its businesses.\r\nAs Fox News Media has evolved into a streamlined multi-platform organization, we are realigning several functions… [+1180 chars]"
+      },
+      {
+         "content" : "This is the first time we have ever seen anything of this magnitude, Dr. Skovronsky said.\r\nThe antibody drug did not produce significant side effects, he said. Patients received a single infusion, pr… [+1106 chars]",
+         "urlToImage" : "https://static01.nyt.com/images/2020/09/16/science/16VIRUS-DRUG/16VIRUS-DRUG-facebookJumbo.jpg",
+         "url" : "https://www.nytimes.com/2020/09/16/health/coronavirus-drug-eli-lilly.html",
+         "description" : "A so-called monoclonal antibody lowered blood levels of the coronavirus and prevented hospitalizations. The research has not yet been vetted by independent experts.",
+         "source" : {
+            "name" : "New York Times",
+            "id" : null
+         },
+         "title" : "Ely Lilly Claims Experimental Drug Protects Covid-19 Patients - The New York Times",
+         "author" : "Gina Kolata",
+         "publishedAt" : "2020-09-16T14:22:00Z"
+      },
+      {
+         "urlToImage" : "https://s.yimg.com/uu/api/res/1.2/ZX.RcVGprTMZrvyP0wQ1_A--~B/aD01MzM7dz04MDA7c209MTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en-US/reuters.com/92b96f9cf2e2d57a5ceff29d7914a828",
+         "url" : "https://finance.yahoo.com/news/china-state-media-outlet-calls-140441339.html",
+         "content" : "So far, September has been a wild ride of ups and downs. Following the recent bout of volatility, stocks have ticked higher again. But as uncertainty regarding another rescue program and the presiden… [+9931 chars]",
+         "author" : "Reuters",
+         "publishedAt" : "2020-09-16T14:04:00Z",
+         "title" : "China state media outlet calls Nvidia's Arm purchase 'disturbing', urges regulatory caution - Yahoo Finance",
+         "description" : "An op-ed in China's state-backed Global Times on Wednesday said U.S. chipmaker Nvidia Corp's planned acquisition of Arm Ltd from Japan's SoftBank...",
+         "source" : {
+            "id" : null,
+            "name" : "Yahoo Entertainment"
+         }
+      },
+      {
+         "content" : "Duncan Aldred, vice president of Buick-GMC sales for General Motors Co., speaks next to a GMC Sierra Denali HD truck displayed during an event in Chula Vista, California, U.S., on Tuesday, Jan. 22, 2… [+3367 chars]",
+         "url" : "https://www.cnbc.com/2020/09/16/supplies-of-highly-profitable-gm-pickups-at-historically-low-levels.html",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106704830-1600261601125-2021-GMC-Sierra-HD-Black-Diamond-Edition.jpg?v=1600262319",
+         "source" : {
+            "id" : null,
+            "name" : "CNBC"
+         },
+         "description" : "While low supplies mean higher transaction prices and profits, they also can translate to losing customers and better deals at competitors.",
+         "publishedAt" : "2020-09-16T14:03:00Z",
+         "author" : "Michael Wayland",
+         "title" : "Supplies of highly profitable GM pickups at historically low levels - CNBC"
+      },
+      {
          "source" : {
             "name" : "Fox Business",
             "id" : null
          },
+         "description" : "Roughly $330 million in debt for 35,000 students who attended the now-shuttered ITT Tech will be canceled thanks to a settlement in conjunction with the Consumer Financial Protection Bureau, the attorneys general of nearly 50 states announced this week.",
          "publishedAt" : "2020-09-16T13:47:24Z",
-         "title" : "ITT Tech student loan lender to cancel millions in debt in multistate settlement - Fox Business"
+         "author" : "Evie Fordham",
+         "title" : "ITT Tech student loan lender to cancel millions in debt in multistate settlement - Fox Business",
+         "content" : "Roughly $330 million in debt for 35,000 students who attended the now-shuttered ITT Tech will be canceled thanks to a settlement in conjunction with the Consumer Financial Protection Bureau, the atto… [+1554 chars]",
+         "url" : "https://www.foxbusiness.com/money/itt-tech-student-loans-canceled-settlement",
+         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2019/04/0/0/iStock-923305044.jpg?ve=1&tl=1"
+      },
+      {
+         "source" : {
+            "id" : null,
+            "name" : "Motley Fool"
+         },
+         "description" : "The world's largest cruise line operator is shedding ships but taking on more weight than investors may think.",
+         "title" : "Carnival Stock Investors Are Playing a Dangerous Game - Motley Fool",
+         "author" : "Rick Munarriz",
+         "publishedAt" : "2020-09-16T13:35:00Z",
+         "content" : "They say that a rising tide lifts all ships, but what happens when the waves are rough and those same ships start to take on water? Shares of Carnival (NYSE:CCL)(NYSE:CUK) tumbled 11% on Tuesday afte… [+3241 chars]",
+         "url" : "https://www.fool.com/investing/2020/09/16/carnival-stock-investors-are-playing-a-dangerous-g/",
+         "urlToImage" : "https://g.foolcdn.com/editorial/images/591854/gettyboatsurroundedbysharks.jpeg"
+      },
+      {
+         "author" : null,
+         "publishedAt" : "2020-09-16T13:21:49Z",
+         "title" : "Congressional report blasts Boeing for deadly 737 Max jet failures - CBS This Morning",
+         "description" : null,
+         "source" : {
+            "name" : "Google News",
+            "id" : "google-news"
+         },
+         "urlToImage" : null,
+         "url" : "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9X2RsdE0wbEljRFnSAQA?oc=5",
+         "content" : null
+      },
+      {
+         "urlToImage" : "https://s.wsj.net/public/resources/MWimages/MW-GP644_MicroS_ZG_20180906154215.jpg",
+         "url" : "https://www.marketwatch.com/story/transoceans-stock-drops-after-long-time-bull-downgrades-slashes-price-target-2020-09-16",
+         "content" : "Shares of Transocean Ltd. \r\n RIG, \r\n +7.00%\r\ndropped 1.9% in premarket trading Wednesday, after a long-time bull downgraded the oil services company, saying the company is \"not immune\" as the offshor… [+796 chars]",
+         "title" : "Transocean's stock drops after long-time bull downgrades, slashes price target - MarketWatch",
+         "author" : "Tomi Kilgore",
+         "publishedAt" : "2020-09-16T13:12:00Z",
+         "description" : "",
+         "source" : {
+            "id" : null,
+            "name" : "MarketWatch"
+         }
       },
       {
          "description" : "Despite the uptick in bookings, the Dallas-based airline expects revenue to drop 65% to 75% in October and capacity down 40% to 50% from the same month last year.",
@@ -33,234 +176,91 @@
             "id" : null,
             "name" : "CNBC"
          },
+         "author" : "Leslie Josephs",
          "publishedAt" : "2020-09-16T13:10:00Z",
          "title" : "Southwest Airlines trims cash burn, will keep middle seats open through November - CNBC",
+         "content" : "Southwest Airlines on Wednesday said it has logged a \"modest\" improvement in bookings through October, helping it trim its daily cash burn estimate for this quarter by $3 million to an expected $17 m… [+725 chars]",
          "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106629603-1595516791113-gettyimages-1227229654-em6_2022_2020052590237916.jpeg?v=1600256857",
-         "url" : "https://www.cnbc.com/2020/09/16/southwest-plans-fall-capacity-cuts-will-leave-middle-seats-open-through-thanksgiving.html",
-         "author" : "Leslie Josephs",
-         "content" : "Southwest Airlines on Wednesday said it has logged a \"modest\" improvement in bookings through October, helping it trim its daily cash burn estimate for this quarter by $3 million to an expected $17 m… [+725 chars]"
+         "url" : "https://www.cnbc.com/2020/09/16/southwest-plans-fall-capacity-cuts-will-leave-middle-seats-open-through-thanksgiving.html"
       },
       {
-         "publishedAt" : "2020-09-16T12:50:17Z",
-         "title" : "Retail Sales Up 0.6% In August; Spending Up On Furniture, Clothes, Restaurants : Coronavirus Live Updates - NPR",
-         "description" : "But U.S. shoppers spent more prudently in August and retail sales grew a tepid 0.6% from July, after extra federal jobless benefits expired and families faced a confusing back-to-school season.",
+         "publishedAt" : "2020-09-16T12:36:28Z",
+         "author" : "The Associated Press",
+         "title" : "US outlines sweeping plan to provide free COVID-19 vaccines - WTOP",
          "source" : {
-            "name" : "NPR",
+            "name" : "WTOP",
             "id" : null
          },
-         "author" : "",
-         "content" : "People walk through the newly reopened mall at Hudson Yards in New York. U.S. shoppers spent more prudently in August and retail sales grew a tepid 0.6% from July.\r\nSpencer Platt/Getty Images\r\nUpdate… [+2419 chars]",
-         "urlToImage" : "https://media.npr.org/assets/img/2020/09/12/gettyimages-1271588112_wide-33c63adc9e4cfd05541ea281e874b36eee280a71.jpg?s=1400",
-         "url" : "https://www.npr.org/sections/coronavirus-live-updates/2020/09/16/912299717/people-are-spending-more-on-furniture-clothes-restaurants-and-bars"
+         "description" : "The federal government outlined a sweeping plan Wednesday to make vaccines for COVID-19 available for free to all Americans, even as polls show a strong undercurrent of skepticism rippling across the land.",
+         "url" : "http://wtop.com/coronavirus/2020/09/feds-outline-sweeping-plan-to-provide-free-covid-19-vaccine/",
+         "urlToImage" : "https://wtop.com/wp-content/uploads/2020/09/Virus_Outbreak_Vaccine_Plan_88884-1.jpg",
+         "content" : "WASHINGTON (AP) The government outlined a sweeping plan Wednesday to make vaccines for COVID-19 available for free to all Americans, assuming a safe and effective shot is developed, even as top healt… [+6441 chars]"
       },
       {
-         "author" : "Keris Lahiff",
-         "content" : "Snowflake, one of the hottest debuts of the year, is set to go public Wednesday.\r\nThe cloud data platform priced its shares at $120 a share, which puts its valuation at $33.3 billion. \r\nIt's not the … [+1778 chars]",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106703769-1600202790092-AP20218719135906.jpg?v=1600202850",
-         "url" : "https://www.cnbc.com/2020/09/15/snowflake-ipo-traders-assess-whats-next-for-the-ipo-market.html",
-         "publishedAt" : "2020-09-16T12:35:00Z",
-         "title" : "As Snowflake prepares for its debut, traders assess what's next for the IPO market - CNBC",
-         "description" : "Snowflake is set to make its public debut Wednesday morning. Gina Sanchez of Chantico Global and Todd Gordon of Ascent Wealth Partners discuss whether the red-hot IPO market can keep up its win streak.",
-         "source" : {
-            "id" : null,
-            "name" : "CNBC"
-         }
-      },
-      {
+         "content" : "Shares of Eastman Kodak Co. \r\n KODK, \r\n +44.29%\r\nrocketed 51.9% on very heavy volume in premarket trading Wednesday, after a special committee hired by the digital imaging and printing systems compan… [+861 chars]",
          "url" : "https://www.marketwatch.com/story/kodaks-stock-rockets-on-heavy-volume-after-committee-hired-by-company-finds-no-laws-broken-with-loan-announcement-2020-09-16",
          "urlToImage" : "https://s.wsj.net/public/resources/MWimages/MW-GP644_MicroS_ZG_20180906154215.jpg",
-         "author" : "Tomi Kilgore",
-         "content" : "Shares of Eastman Kodak Co. \r\n KODK, \r\n +44.29%\r\nrocketed 51.9% on very heavy volume in premarket trading Wednesday, after a special committee hired by the digital imaging and printing systems compan… [+861 chars]",
-         "description" : "",
-         "source" : {
-            "id" : null,
-            "name" : "MarketWatch"
-         },
-         "publishedAt" : "2020-09-16T12:35:00Z",
-         "title" : "Kodak's stock rockets on heavy volume after committee hired by company finds no laws broken with loan announcement - MarketWatch"
-      },
-      {
-         "description" : "U.S. consumer spending appeared to slow in August as extended unemployment benefits were cut for millions of Americans, offering more evidence that the economic recovery from the Covid-19 recession was faltering. Core retail sales, which correspond most close…",
-         "source" : {
-            "id" : null,
-            "name" : "Forex Factory"
-         },
-         "publishedAt" : "2020-09-16T12:33:00Z",
-         "title" : "U.S. retail sales rose 0.6% in August, vs 1.0% increase expected - Forex Factory",
-         "urlToImage" : "https://www.forexfactory.com/news/1026717-us-retail-sales-rose-06-in-august-vs/image",
-         "url" : "https://www.forexfactory.com/news/1026717-us-retail-sales-rose-06-in-august-vs",
-         "author" : null,
-         "content" : "From cnbc.com\r\nU.S. consumer spending appeared to slow in August as extended unemployment benefits were cut for millions of Americans, offering more evidence that the economic recovery from the Covid… [+433 chars]"
-      },
-      {
-         "description" : "Stocks drifted little changed ahead of the Federal Reserve's interest rate decision.",
-         "source" : {
-            "name" : "Fox Business",
-            "id" : null
-         },
-         "publishedAt" : "2020-09-16T12:20:09Z",
-         "title" : "Stocks drift ahead of the Fed - Fox Business",
-         "url" : "https://www.foxbusiness.com/markets/us-stocks-sept-16-2020",
-         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/07/0/0/stock-market-trader-AP-002.jpg?ve=1&tl=1",
-         "author" : "Jonathan Garber",
-         "content" : "U.S. equity markets were mixed as investors awaited the latest policy decision from the Federal Reserve. \r\nThe Dow Jones Industrial Average gained 86 points, or 0.31%, in the opening minutes of tradi… [+2578 chars]"
-      },
-      {
-         "urlToImage" : "https://www.investors.com/wp-content/uploads/2019/01/stock-FederalReserve-snow-11-shutter.jpg",
-         "url" : "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-stock-market-rally-federal-reserve-apple-tesla-nikola-adobe-earnings-snowflake/",
-         "content" : "Dow Jones futures rallied 175 points early Wednesday, ahead of the Federal Reserve's interest rate decision, on coronavirus treatment news. Dow Jones leader Apple rallied, while Tesla raced 7% higher… [+9412 chars]",
-         "author" : "Investor's Business Daily",
-         "source" : {
-            "id" : null,
-            "name" : "Investor's Business Daily"
-         },
-         "description" : "Dow Jones futures higher early Wednesday ahead of the Fed's rate decision. FedEx soared on earnings, but Nikola dived. Snowflake will IPO Wednesday.",
-         "title" : "Dow Jones Futures Jump 175 Points On Coronavirus Treatment News; Buffett-Backed SnowFlake IPO Debuts - Investor's Business Daily",
-         "publishedAt" : "2020-09-16T12:12:00Z"
-      },
-      {
-         "content" : "A family of five electric drivetrain units and three motors\r\nIllustration by Alex Castro / The Verge\r\nGeneral Motors revealed new details about its Ultium battery platform for its upcoming lineup of … [+2947 chars]",
-         "author" : "Andrew J. Hawkins",
-         "url" : "https://www.theverge.com/2020/9/16/21439374/gm-unveils-ultium-drive-family-of-electric-motors",
-         "urlToImage" : "https://cdn.vox-cdn.com/thumbor/BWOlVosBllSyKNz-rQID2AVJ9Rg=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/19881629/acastro_200406_1777_gm_0001.0.jpg",
-         "title" : "GM unveils ‘Ultium Drive’ family of electric motors - The Verge",
-         "publishedAt" : "2020-09-16T12:00:00Z",
-         "source" : {
-            "name" : "The Verge",
-            "id" : "the-verge"
-         },
-         "description" : "GM unveiled its “Ultium Drive” family of five electric drive units and three motors that will eventually power the automaker’s lineup of electric vehicles. GM says Ultium Drive will be more “responsive than its internal combustion equivalents with precision t…"
-      },
-      {
-         "publishedAt" : "2020-09-16T11:30:00Z",
-         "title" : "DraftKings, New York Giants agree to exclusive sports betting deal - CNBC",
-         "description" : "The agreement includes DraftKings operating a sportsbook, online wagers and a virtual sports lounge for the NFL team.",
-         "source" : {
-            "id" : null,
-            "name" : "CNBC"
-         },
-         "author" : "Jabari Young",
-         "content" : "DraftKings has secured another sports partnership, agreeing to an exclusive deal with the New York Giants, the online betting company announced Wednesday.\r\nThe agreement makes DraftKings the Giants' … [+4026 chars]",
-         "url" : "https://www.cnbc.com/2020/09/16/draftkings-new-york-giants-agree-to-exclusive-sports-betting-deal.html",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106703821-1600204651562DK--0003-E-MSX10315-jpg?v=1600204687"
-      },
-      {
-         "urlToImage" : null,
-         "url" : "https://www.reuters.com/article/us-huawei-brazil-probe-exclusive-idUSKBN2671XA",
-         "content" : "U.S. Legal News\r\nSteve Stecklow\r\nMarcelo Rochabrun\r\nLONDON/SAO PAULO (Reuters) - An obscure Hong Kong-registered company stands at the center of the U.S. criminal case against Chinas Huawei Technolog… [+8803 chars]",
-         "author" : null,
-         "source" : {
-            "id" : "reuters",
-            "name" : "Reuters"
-         },
-         "description" : null,
-         "title" : "Exclusive: Top Huawei executives had close ties to company at center of US criminal case - Reuters",
-         "publishedAt" : "2020-09-16T11:27:00Z"
-      },
-      {
-         "urlToImage" : "https://cnet3.cbsistatic.com/img/GXxEE6CoDrdDsJuHNy5wEZCDqr4=/1200x630/2020/09/11/d5ce5b47-a465-4b6e-947c-7a2aaf3cdfd7/money-cash-dollars-bills-bank-stimulus-covid-finance-7182.jpg",
-         "url" : "https://www.cnet.com/personal-finance/new-stimulus-check-6-top-things-you-need-to-know-about-another-payment/",
-         "author" : "Clifford Colby",
-         "content" : "What's happening with a second stimulus check?\r\nAngela Lang/CNET\r\nAfter six months of talk about second stimulus checks and skinny bills and other economic rescue proposals, who could blame you for l… [+4247 chars]",
-         "description" : "Stimulus check news doesn't have to be complicated. We simplify the latest ins and outs of the situation with a second direct payment.",
-         "source" : {
-            "name" : "CNET",
-            "id" : null
-         },
-         "publishedAt" : "2020-09-16T11:15:00Z",
-         "title" : "New stimulus check: 6 top things you need to know about another payment - CNET"
-      },
-      {
-         "publishedAt" : "2020-09-16T11:00:00Z",
-         "title" : "Mortgage demand fell last week as interest rates stalled - CNBC",
-         "description" : "With no major move in mortgage rates, there was no sudden incentive to refinance a home loan last week, so fewer people did.",
-         "source" : {
-            "name" : "CNBC",
-            "id" : null
-         },
-         "author" : "Diana Olick",
-         "content" : "With no major move in mortgage rates, there was no sudden incentive to refinance a home loan last week, so fewer people did.\r\nThat drove overall mortgage application volume down 2.5% from the previou… [+1883 chars]",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106703839-1600205509432-gettyimages-168792908-HOUSING_STARTS.jpeg?v=1600205535",
-         "url" : "https://www.cnbc.com/2020/09/16/mortgage-demand-fell-last-week-as-interest-rates-stalled.html"
-      },
-      {
-         "urlToImage" : "https://images.mktw.net/im-232670/social",
-         "url" : "https://www.marketwatch.com/story/the-fed-is-fighting-the-last-battle-and-here-are-the-risks-to-its-new-strategy-11600252450",
-         "content" : "The Federal Reserve is announcing its latest interest-rate decision on Wednesday, and expectations arent for a big shift at this meeting. More on that later.Still the big issue in the world of centra… [+5183 chars]",
-         "author" : "Steve Goldstein",
          "source" : {
             "name" : "MarketWatch",
             "id" : null
          },
          "description" : "",
-         "title" : "The Fed is 'fighting the last battle,' and here are the risks to its new strategy - MarketWatch",
-         "publishedAt" : "2020-09-16T10:34:00Z"
+         "author" : "Tomi Kilgore",
+         "publishedAt" : "2020-09-16T12:35:00Z",
+         "title" : "Kodak's stock rockets on heavy volume after committee hired by company finds no laws broken with loan announcement - MarketWatch"
       },
       {
-         "content" : "How much higher can Tesla(NASDAQ:TSLA) go? The answer depends on the answer to another question: How much can Tesla grow?\r\nTo be sure, the company has to deliver a tremendous amount of growth to just… [+4266 chars]",
-         "author" : "Keith Speights",
-         "url" : "https://www.fool.com/investing/2020/09/16/3-great-stocks-with-better-growth-prospects-than-t/",
-         "urlToImage" : "https://g.foolcdn.com/editorial/images/591529/businessman-with-lines-going-up-from-his-hand.jpg",
-         "title" : "3 Great Stocks With Better Growth Prospects Than Tesla to Buy - Motley Fool",
-         "publishedAt" : "2020-09-16T10:19:00Z",
+         "content" : "General Motors  (GM) - Get Report shares jumped higher Wednesday after the automaker unveiled a family of five electric vehicle drive systems that marks its most significant challenge to Tesla's  (TS… [+1590 chars]",
+         "url" : "https://www.thestreet.com/investing/general-motors-gains-on-ev-drive-system-plans-tesla-slides",
+         "urlToImage" : "https://www.thestreet.com/.image/t_share/MTcxNDMxMDcxMDkzNjMwNjQz/general-motors_3.jpg",
          "source" : {
-            "name" : "Motley Fool",
+            "name" : "TheStreet",
             "id" : null
          },
-         "description" : "They're all innovative disruptors, but these three stocks could outperform Tesla over the next decade."
+         "description" : "GM outlined its biggest challenge to Tesla's EV dominance Wednesday with a family of five interchangeable drive systems that compliment its new battery technology.",
+         "title" : "General Motors Shares Jump on 'Ultium' EV Drive System Plans, Tesla Slides - TheStreet",
+         "publishedAt" : "2020-09-16T12:21:00Z",
+         "author" : "Martin Baccardax"
       },
       {
-         "urlToImage" : "https://i.dailymail.co.uk/1s/2020/09/16/11/33248950-0-image-a-51_1600250684709.jpg",
-         "url" : "https://www.dailymail.co.uk/tvshowbiz/article-8738695/Cactus-Jack-Travis-Scott-fined-crowd-McDonalds-event.html",
-         "content" : "Musician Travis Scott is being fined by the city of Downey after a rowdy crowd of 500 people turned up at a McDonald's restaurant to meet him and try his new Cactus Jack meal. \r\nTravis, 28, who has a… [+6784 chars]",
-         "author" : "By Rebecca Davison Carly Stern For Mailonline",
          "source" : {
             "id" : null,
-            "name" : "Daily Mail"
+            "name" : "Kitco NEWS"
          },
-         "description" : "Musician Travis Scott is being fined by the city of Downey after a rowdy crowd of 500 people turned up at a McDonald's restaurant to try his new Cactus Jack meal.",
-         "title" : "Cactus Jack: Travis Scott fined over crowd at McDonald's event - Daily Mail",
-         "publishedAt" : "2020-09-16T09:39:07Z"
+         "description" : "Senior Technical Analyst Jim Wyckoff prepares investors with an overview of how the markets opened and closed. What moved metal prices? How do the technicals look? By looking at important developments",
+         "author" : "http://www.facebook.com/kitconews",
+         "publishedAt" : "2020-09-16T11:51:00Z",
+         "title" : "Gold, silver see price strength ahead of FOMC meeting results - Kitco NEWS",
+         "content" : "Editor's Note: With so much market volatility, stay on top of daily news! Get caught up in minutes with our speedy summary of today's must-read news and expert opinions. Sign up here! \r\n(Kitco News) … [+3426 chars]",
+         "url" : "https://www.kitco.com/news/2020-09-16/Gold-silver-see-price-strength-ahead-of-FOMC-meeting-results.html",
+         "urlToImage" : "https://www.kitco.com/news/2020-09-16/images/goldchart_0916_am.png"
       },
       {
-         "description" : "The huge shock to many of the world's biggest economies from the coronavirus pandemic may not be quite as bad as economists feared just a few months ago.",
          "source" : {
-            "id" : "cnn",
-            "name" : "CNN"
+            "name" : "NPR",
+            "id" : null
          },
-         "publishedAt" : "2020-09-16T09:15:00Z",
-         "title" : "The outlook for top global economies is improving, OECD says - CNN",
-         "url" : "https://www.cnn.com/2020/09/16/economy/oecd-economic-outlook-september/index.html",
-         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200915120530-new-dehli-india-commuters-0907-restricted-super-tease.jpg",
-         "author" : "Julia Horowitz, CNN Business",
-         "content" : null
+         "description" : "Before the coronavirus hit, many workers chose freelance or contract jobs because they preferred the flexibility and variety it offered. But now millions are turning to freelancing out of necessity.",
+         "author" : "",
+         "publishedAt" : "2020-09-16T11:50:37Z",
+         "title" : "Millions Turn To Freelancing During The Pandemic, Trend May Last - NPR",
+         "content" : "Two million Americans have started freelancing in the past 12 months, according to a new study from Upwork, a freelance job platform. And that has increased the proportion of the workforce that perfo… [+6060 chars]",
+         "url" : "https://www.npr.org/2020/09/16/912744566/jobs-in-the-pandemic-more-are-freelance-and-may-stay-that-way-forever",
+         "urlToImage" : "https://media.npr.org/assets/img/2020/09/15/gettyimages-1256979116_wide-79330862b7019604f28ca3ef153a3c5249f328c6.jpg?s=1400"
       },
       {
-         "url" : "https://www.bloomberg.com/news/articles/2020-09-16/amazon-plans-to-put-1-000-warehouses-in-neighborhoods",
-         "urlToImage" : null,
-         "content" : "To continue, please click the box below to let us know you're not a robot.",
-         "author" : null,
          "source" : {
-            "name" : "Bloomberg",
-            "id" : "bloomberg"
+            "name" : "CNBC",
+            "id" : null
          },
-         "description" : null,
-         "title" : "Amazon Plans to Put 1,000 Warehouses in Suburban Neighborhoods - Bloomberg",
-         "publishedAt" : "2020-09-16T09:00:00Z"
-      },
-      {
-         "title" : "Chromebook, headphones, desks: COVID-era virtual school supplies come with real spike in spending - USA TODAY",
-         "publishedAt" : "2020-09-16T08:23:13Z",
-         "source" : {
-            "id" : "usa-today",
-            "name" : "USA Today"
-         },
-         "description" : "With many schools going virtual, households with children in kindergarten through 12th grade will spend an average of nearly $790 a family this year.",
-         "content" : "Back to school looks so different in 2020. Whether going remote or in person, here's how to save some time and money to prepare your student for class\r\nUSA TODAY\r\nBack-to-school shopping is looking d… [+6095 chars]",
-         "author" : "Aimee Picchi",
-         "urlToImage" : "https://www.gannett-cdn.com/presto/2020/09/15/USAT/f0a20368-85dd-4e91-af77-7e4c015f45b8-amanda_sorena_twins.jpg?crop=1439,810,x0,y360&width=1600&height=800&fit=bounds",
-         "url" : "https://www.usatoday.com/story/money/2020/09/16/virtual-school-families-paying-more-chromebook-desk-bluetooth-headphones/5810336002/"
+         "description" : "The agreement includes DraftKings operating a sportsbook, online wagers and a virtual sports lounge for the NFL team.",
+         "publishedAt" : "2020-09-16T11:30:00Z",
+         "author" : "Jabari Young",
+         "title" : "DraftKings, New York Giants agree to exclusive sports betting deal - CNBC",
+         "content" : "DraftKings has secured another sports partnership, agreeing to an exclusive deal with the New York Giants, the online betting company announced Wednesday.\r\nThe agreement makes DraftKings the Giants' … [+4026 chars]",
+         "url" : "https://www.cnbc.com/2020/09/16/draftkings-new-york-giants-agree-to-exclusive-sports-betting-deal.html",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106703821-1600204651562DK--0003-E-MSX10315-jpg?v=1600204687"
       }
    ],
-   "status" : "ok"
+   "totalResults" : 70
 }
