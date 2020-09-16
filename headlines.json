@@ -1,266 +1,266 @@
 {
+   "totalResults" : 70,
    "articles" : [
       {
          "description" : "AT&T Inc is considering offering wireless phone plans partially subsidized by advertising as soon as a year from now, Chief Executive John Stankey said in an interview on Tuesday.",
-         "publishedAt" : "2020-09-16T06:11:09Z",
-         "urlToImage" : "https://static.reuters.com/resources/r/?m=02&d=20200916&t=2&i=1533605069&r=LYNXMPEG8E1YP&w=800",
-         "content" : "(Reuters) - AT&amp;T Inc is considering offering wireless phone plans partially subsidized by advertising as soon as a year from now, Chief Executive John Stankey said in an interview on Tuesday.\r\nTh… [+2990 chars]",
-         "title" : "Exclusive: AT&T considers cellphone plans subsidized by ads - Reuters UK",
-         "author" : "Sheila Dang, Helen Coster, Krystal Hu, Kenneth Li",
          "source" : {
             "id" : "reuters",
             "name" : "Reuters"
          },
-         "url" : "https://uk.reuters.com/article/us-at-t-ceo-interview-exclusive-idUKKBN2663HK"
+         "title" : "Exclusive: AT&T considers cellphone plans subsidized by ads - Reuters UK",
+         "content" : "(Reuters) - AT&amp;T Inc is considering offering wireless phone plans partially subsidized by advertising as soon as a year from now, Chief Executive John Stankey said in an interview on Tuesday.\r\nTh… [+2990 chars]",
+         "publishedAt" : "2020-09-16T06:11:09Z",
+         "url" : "https://uk.reuters.com/article/us-at-t-ceo-interview-exclusive-idUKKBN2663HK",
+         "author" : "Sheila Dang, Helen Coster, Krystal Hu, Kenneth Li",
+         "urlToImage" : "https://static.reuters.com/resources/r/?m=02&d=20200916&t=2&i=1533605069&r=LYNXMPEG8E1YP&w=800"
       },
       {
-         "urlToImage" : "https://cnet2.cbsistatic.com/img/6Wzv9_5m6OSNZudDHF32z0l1Brw=/1200x630/2020/07/25/da2405b0-1d07-4bf3-952f-73a683931934/money-bills-dollars-recession-stimulus-cash-4376.jpg",
-         "publishedAt" : "2020-09-16T05:00:04Z",
-         "description" : "If a new round of direct payments gets sent out in 2020, here's how much you could potentially receive.",
          "content" : "We help you calculate the maximum amount that could end up in your pocket if another stimulus payment comes your way.\r\nAngela Lang/CNET\r\nYou know by now that individual Americans could receive up to … [+6724 chars]",
-         "title" : "Stimulus check money: How your family may get more than a $1,200 payment - CNET",
-         "author" : "Clifford Colby",
+         "description" : "If a new round of direct payments gets sent out in 2020, here's how much you could potentially receive.",
          "source" : {
-            "id" : null,
-            "name" : "CNET"
+            "name" : "CNET",
+            "id" : null
          },
-         "url" : "https://www.cnet.com/personal-finance/stimulus-check-money-how-your-family-may-get-more-than-a-1200-payment/"
+         "title" : "Stimulus check money: How your family may get more than a $1,200 payment - CNET",
+         "urlToImage" : "https://cnet2.cbsistatic.com/img/6Wzv9_5m6OSNZudDHF32z0l1Brw=/1200x630/2020/07/25/da2405b0-1d07-4bf3-952f-73a683931934/money-bills-dollars-recession-stimulus-cash-4376.jpg",
+         "url" : "https://www.cnet.com/personal-finance/stimulus-check-money-how-your-family-may-get-more-than-a-1200-payment/",
+         "author" : "Clifford Colby",
+         "publishedAt" : "2020-09-16T05:00:04Z"
       },
       {
-         "url" : "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-stock-market-rally-federal-reserve-apple-tesla-nikola-adobe-earnings-snowflake/",
-         "author" : "Investor's Business Daily",
+         "title" : "Dow Jones Futures Rise Ahead Of Fed Decision; Buffett-Backed SnowFlake IPO Set To Debut - Investor's Business Daily",
          "source" : {
             "name" : "Investor's Business Daily",
             "id" : null
          },
-         "content" : "Dow Jones futures were higher overnight Tuesday, along with S&amp;P 500 futures and Nasdaq 100 futures, after Tuesday's tech-fueled rebound. Dow Jones leaders Apple and Microsoft rallied, while Tesla… [+8843 chars]",
-         "title" : "Dow Jones Futures Rise Ahead Of Fed Decision; Buffett-Backed SnowFlake IPO Set To Debut - Investor's Business Daily",
-         "urlToImage" : "https://www.investors.com/wp-content/uploads/2019/01/stock-FederalReserve-snow-11-shutter.jpg",
          "description" : "Dow Jones futures higher early Wednesday ahead of the Fed's rate decision. Tesla jumped Tuesday, while Nikola dived. Snowflake will IPO Wednesday.",
+         "content" : "Dow Jones futures were higher overnight Tuesday, along with S&amp;P 500 futures and Nasdaq 100 futures, after Tuesday's tech-fueled rebound. Dow Jones leaders Apple and Microsoft rallied, while Tesla… [+8843 chars]",
+         "author" : "Investor's Business Daily",
+         "url" : "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-stock-market-rally-federal-reserve-apple-tesla-nikola-adobe-earnings-snowflake/",
+         "urlToImage" : "https://www.investors.com/wp-content/uploads/2019/01/stock-FederalReserve-snow-11-shutter.jpg",
          "publishedAt" : "2020-09-16T04:09:00Z"
       },
       {
-         "author" : null,
-         "source" : {
-            "name" : "Financial Times",
-            "id" : "financial-times"
-         },
-         "url" : "https://www.ft.com/content/7baea7d0-23c3-4f24-af88-77cf7dce2725",
-         "description" : "FOMC gathers for last time before election and first time since monetary strategy shift",
          "publishedAt" : "2020-09-16T04:01:48Z",
+         "url" : "https://www.ft.com/content/7baea7d0-23c3-4f24-af88-77cf7dce2725",
+         "author" : null,
          "urlToImage" : "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fc5f44fa2-3a4c-48cf-b95c-ad4c7caf162a.jpg?source=next-opengraph&fit=scale-down&width=900",
-         "content" : "The Federal Open Market Committee meets on Wednesday for the last time before the US presidential election — and the first time since it embraced a new monetary strategy that will be more tolerant of… [+6317 chars]",
-         "title" : "Five things to watch at the Federal Reserve meeting - Financial Times"
-      },
-      {
+         "description" : "FOMC gathers for last time before election and first time since monetary strategy shift",
          "source" : {
-            "name" : "Yahoo Entertainment",
-            "id" : null
+            "id" : "financial-times",
+            "name" : "Financial Times"
          },
-         "author" : "Eric Newcomer",
-         "url" : "https://finance.yahoo.com/news/kodak-says-mishandled-ceo-stock-024507268.html",
-         "urlToImage" : "https://s.yimg.com/uu/api/res/1.2/8nsbM2bGfykKQxW5e0cwUg--~B/aD0xMzMzO3c9MjAwMDtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bloomberg_technology_68/e26cf4af3ab9e2ddf27e869e87fe1541",
-         "publishedAt" : "2020-09-16T03:18:12Z",
-         "description" : "(Bloomberg) -- Eastman Kodak Co., seeking to address the firestorm of allegations surrounding a Trump administration loan, said it mishandled the process of awarding stock option grants to its chief executive officer before the announcement.An independent leg…",
-         "title" : "Kodak Says It Mishandled CEO Stock Grants Ahead of Big News - Yahoo Finance",
-         "content" : "(Bloomberg) -- Eastman Kodak Co., seeking to address the firestorm of allegations surrounding a Trump administration loan, said it mishandled the process of awarding stock option grants to its chief … [+3092 chars]"
+         "title" : "Five things to watch at the Federal Reserve meeting - Financial Times",
+         "content" : "The Federal Open Market Committee meets on Wednesday for the last time before the US presidential election — and the first time since it embraced a new monetary strategy that will be more tolerant of… [+6317 chars]"
       },
       {
+         "urlToImage" : "https://s.yimg.com/uu/api/res/1.2/8nsbM2bGfykKQxW5e0cwUg--~B/aD0xMzMzO3c9MjAwMDtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bloomberg_technology_68/e26cf4af3ab9e2ddf27e869e87fe1541",
+         "url" : "https://finance.yahoo.com/news/kodak-says-mishandled-ceo-stock-024507268.html",
+         "author" : "Eric Newcomer",
+         "publishedAt" : "2020-09-16T03:18:12Z",
+         "content" : "(Bloomberg) -- Eastman Kodak Co., seeking to address the firestorm of allegations surrounding a Trump administration loan, said it mishandled the process of awarding stock option grants to its chief … [+3092 chars]",
+         "source" : {
+            "id" : null,
+            "name" : "Yahoo Entertainment"
+         },
+         "description" : "(Bloomberg) -- Eastman Kodak Co., seeking to address the firestorm of allegations surrounding a Trump administration loan, said it mishandled the process of awarding stock option grants to its chief executive officer before the announcement.An independent leg…",
+         "title" : "Kodak Says It Mishandled CEO Stock Grants Ahead of Big News - Yahoo Finance"
+      },
+      {
+         "publishedAt" : "2020-09-16T03:10:20Z",
          "url" : "https://www.wsj.com/articles/kraft-heinz-nears-deal-to-sell-part-of-cheese-business-to-lactalis-11600182175?mod=searchresults&amp;page=1&amp;pos=1",
+         "author" : "The Wall Street Journal",
+         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/09/0/0/Kraft-Cheese.jpg?ve=1&tl=1",
+         "description" : "Kraft Heinz said Tuesday that it had reached a deal to sell its U.S. natural-cheese business and a mix of other cheese brands in North America and internationally to France’s Groupe Lactalis SA for $3.2 billion.",
          "source" : {
             "name" : "The Wall Street Journal",
             "id" : "the-wall-street-journal"
          },
-         "author" : "The Wall Street Journal",
          "title" : "Kraft Heinz to sell part of cheese business for $3.2 Billion - Fox Business",
-         "content" : "Kraft Heinz Co. KHC 0.31% is parting with a big chunk of its cheese business, a sign of the challenges facing food companies whose scale complicated operations as the coronavirus pandemic drove unpre… [+5653 chars]",
-         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/09/0/0/Kraft-Cheese.jpg?ve=1&tl=1",
-         "publishedAt" : "2020-09-16T03:10:20Z",
-         "description" : "Kraft Heinz said Tuesday that it had reached a deal to sell its U.S. natural-cheese business and a mix of other cheese brands in North America and internationally to France’s Groupe Lactalis SA for $3.2 billion."
+         "content" : "Kraft Heinz Co. KHC 0.31% is parting with a big chunk of its cheese business, a sign of the challenges facing food companies whose scale complicated operations as the coronavirus pandemic drove unpre… [+5653 chars]"
       },
       {
-         "content" : null,
-         "title" : "Trump says he heard Oracle is 'very close' to a TikTok deal - Reuters",
-         "urlToImage" : null,
-         "description" : null,
-         "publishedAt" : "2020-09-16T03:01:18Z",
          "url" : "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9RFlSR2FtYTZkUE3SAQA?oc=5",
          "author" : null,
-         "source" : {
-            "name" : "Google News",
-            "id" : "google-news"
-         }
-      },
-      {
-         "source" : {
-            "name" : "MarketWatch",
-            "id" : null
-         },
-         "author" : "Jeremy C. Owens",
-         "url" : "https://www.marketwatch.com/story/snowflake-brings-in-nearly-4-billion-to-kick-off-big-week-for-ipos-11600224459",
-         "publishedAt" : "2020-09-16T02:47:00Z",
-         "description" : "Software company prices shares at $120 apiece, higher than an already raised range, for valuation of more than $33 billion as busiest week for IPOs in more than a year begins",
-         "urlToImage" : "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-         "title" : "Snowflake brings in nearly $4 billion to kick off big week for IPOs - MarketWatch",
-         "content" : "Snowflake Inc. produced a hot start to the busiest week for initial public offerings in more than a year.Snowflake \r\n SNOW, \r\n +2.05%\r\npriced its IPO at $120 a share Tuesday night, which means it wil… [+2450 chars]"
-      },
-      {
-         "publishedAt" : "2020-09-16T02:44:41Z",
-         "description" : "In the latest developments between legalized hemp and illegal marijuana, the DEA recently released proposed rules for hemp and CBD just this month. With the agency explaining how it plans to redefine marijuana to exclude hemp, the DEA's new interim final rule…",
-         "urlToImage" : "http://static-22.sinclairstoryline.com/resources/media/7484e169-0b91-4984-a1a8-e17405f56e59-large16x9_marijuanaplant.jpg?1600215335490",
-         "title" : "DEA: Hemp rules raises concerns among the CBD industry - FOX 29",
-         "content" : null,
-         "source" : {
-            "name" : "FOX 29",
-            "id" : null
-         },
-         "author" : "Yami Virgin",
-         "url" : "http://foxsanantonio.com/news/yami-investigates/dea-hemp-rules-raises-concerns-among-the-cbd-industry"
-      },
-      {
-         "author" : "Manas Mishra",
-         "source" : {
-            "id" : "reuters",
-            "name" : "Reuters"
-         },
-         "url" : "https://www.reuters.com/article/health-coronavirus-pfizer-idUSKBN2670AO",
-         "description" : "Pfizer Inc said on Tuesday participants were showing mild-to-moderate side effects when given either the company's experimental coronavirus vaccine or a placebo in an ongoing late-stage study.",
-         "publishedAt" : "2020-09-16T02:34:00Z",
-         "urlToImage" : "https://static.reuters.com/resources/r/?m=02&d=20200916&t=2&i=1533616800&r=LYNXMPEG8F062&w=800",
-         "content" : "FILE PHOTO: A sign is pictured outside Pfizer Headquarters in the Manhattan borough of New York City, New York, U.S., July 22, 2020. REUTERS/Carlo Allegri\r\n(Reuters) - Pfizer Inc said on Tuesday part… [+1023 chars]",
-         "title" : "Pfizer says late-stage coronavirus vaccine study shows moderate side effects - Reuters"
-      },
-      {
-         "urlToImage" : "https://www.gannett-cdn.com/-mm-/6a620bf7cff8078d958e2fabc3d93216a02314f8/c=0-456-4843-3180/local/-/media/2020/09/09/USATODAY/usatsports/money-wads-of-assorted-bills.jpg?width=3200&height=1680&fit=crop",
-         "publishedAt" : "2020-09-16T01:23:29Z",
-         "description" : "Lola Shalewa Barbara Kasali allegedly received more than $1.9 million in PPP loans and transferred the money into four additional bank accounts.",
-         "content" : "Small business owners share their difficult and confusing journeys in applying for the Paycheck Protection Program loan.\r\nUSA TODAY\r\nA Texas woman who received nearly $2 million in Paycheck Protectio… [+2520 chars]",
-         "title" : "Texas woman fraudulently submitted Paycheck Protection Program loan applications for nearly $2M, DOJ says - USA TODAY",
-         "author" : "Jessica Flores",
-         "source" : {
-            "id" : "usa-today",
-            "name" : "USA Today"
-         },
-         "url" : "https://www.usatoday.com/story/news/nation/2020/09/15/texas-woman-charged-fraud-ppp-loans/5811194002/"
-      },
-      {
-         "content" : "Beginning today through Sept. 16, guests traveling by Oct. 31 could get a whole row to themselves when they book a flight and get a second ticket on the same flight for just the taxes and fees.\r\nThis… [+167 chars]",
-         "title" : "Alaska Airlines launches ‘Get the Row with BOGO’ sale - Hawaii News Now",
-         "publishedAt" : "2020-09-16T01:05:00Z",
-         "description" : "Guests on Alaska traveling by Oct. 31 could get a whole row to themselves.",
-         "urlToImage" : "https://www.hawaiinewsnow.com/resizer/182prJkvvNXFtiU_rfqAwiLUWJs=/1200x0/cloudfront-us-east-1.images.arcpublishing.com/raycom/4SWSQKUYSJAFROO7RVFLCF25EY.aspx",
-         "url" : "https://www.hawaiinewsnow.com/2020/09/15/alaska-airlines-launches-get-row-with-bogo-sale/",
-         "author" : "HNN Staff",
-         "source" : {
-            "name" : "Hawaii News Now",
-            "id" : null
-         }
-      },
-      {
-         "description" : "Yuengling, the storied Philadelphia brewery, is headed west for the first time in its 191-year history.",
-         "publishedAt" : "2020-09-16T00:54:00Z",
-         "urlToImage" : "https://wpcdn.us-east-1.vip.tn-cloud.net/www.channel3000.com/content/uploads/2020/09/Yuengling-Lager-1280.jpg",
-         "title" : "Yuengling beer will be available in Wisconsin as part of new partnership with Molson Coors - Channel3000.com - WISC-TV3",
-         "content" : "September 15, 2020 7:54 PM\r\nPosted: September 15, 2020 7:54 PM\r\nSarah Glenn/Getty Images\r\nYuengling, the storied Philadelphia brewery, is headed west for the first time in its 191-year history.\r\nD.G.… [+2139 chars]",
-         "source" : {
-            "name" : "Channel3000.com - WISC-TV3",
-            "id" : null
-         },
-         "author" : null,
-         "url" : "https://www.channel3000.com/yuengling-beer-will-be-available-in-wisconsin-as-part-of-new-partnership-with-molson-coors/"
-      },
-      {
-         "content" : "The Nissan Z car has inspired generations of sports car fans since it was released in 1969. It has been an upstart, a disco-era style statement, an upscale sports car, and a long-in-the-tooth coupe j… [+3949 chars]",
-         "title" : "Nissan Z Proto previews next-generation sports car with twin-turbo V-6, retro-modern design - Motor Authority",
-         "urlToImage" : "https://images.hgmsites.net/hug/nissan_100761293_h.jpg",
-         "publishedAt" : "2020-09-16T00:45:00Z",
-         "description" : "Could this be the Nissan 400Z? It'll take at least a year to become more clear.",
-         "url" : "https://www.motorauthority.com/news/1129584_nissan-z-proto-previews-next-generation-sports-car-with-twin-turbo-v-6-retro-modern-design",
-         "author" : "Kirk Bell",
-         "source" : {
-            "name" : "Motor Authority",
-            "id" : null
-         }
-      },
-      {
-         "urlToImage" : "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB194SMg.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg",
-         "publishedAt" : "2020-09-16T00:43:00Z",
-         "description" : "The fancy Southern-style sandwich will only be available in the Carolinas.",
-         "title" : "Chick-fil-A testing new chicken sandwich with a southern twist - msnNOW",
-         "content" : "Chick-fil-A is trying to get folks to eat mor chicken by giving them more options.\r\nThe chain announced certain Chick-fil-A restaurants will begin selling a honey pepper pimento chicken sandwich this… [+1277 chars]",
-         "source" : {
-            "name" : "TODAY",
-            "id" : null
-         },
-         "author" : null,
-         "url" : "https://www.today.com/food/chick-fil-testing-new-chicken-sandwich-southern-twist-t191765"
-      },
-      {
-         "source" : {
-            "id" : null,
-            "name" : "NPR"
-         },
-         "author" : "",
-         "url" : "https://www.npr.org/2020/09/15/913328975/google-says-it-doesnt-monopolize-digital-ad-market-senators-don-t-buy-it",
-         "urlToImage" : "https://media.npr.org/assets/img/2020/09/15/gettyimages-1272672191_wide-9f675a0d683d9fd4984e0d56435be87f3cbc6b87.jpg?s=1400",
-         "publishedAt" : "2020-09-15T23:55:00Z",
-         "description" : "Senators pressed the tech giant on the scope and scale of its digital advertising business. Republicans repeated long-running allegations of conservative bias.",
-         "title" : "Google Says It Doesn't Monopolize Digital Ad Market. Senators Don't Buy It - NPR",
-         "content" : "Senators pressed Google executive Donald Harrison over whether the tech giant wields too much power over advertisers and publishers in the digital ad market, amid widening scrutiny of the company's d… [+3548 chars]"
-      },
-      {
-         "url" : "http://kutv.com/news/local/driving-to-the-new-salt-lake-international-airport",
-         "author" : "Cristina Flores",
-         "source" : {
-            "id" : null,
-            "name" : "KUTV 2News"
-         },
-         "content" : null,
-         "title" : "Forget what you knew about driving to, navigating Salt Lake International Airport - KUTV 2News",
-         "urlToImage" : "http://static-41.sinclairstoryline.com/resources/media/ea32ecfd-efa0-49aa-b988-8490604ad10c-large16x9_DrivingtothenewSaltLakeInternationalAirport091520cristina4.png?1600211429806",
-         "description" : "If you are driving to the new Salt Lake International Airport for the first time, give yourself some extra time. Caption: KUTV: Michael Locklear reports Airport bosses say the overall experience of going to the airport should be better in the new facility, bu…",
-         "publishedAt" : "2020-09-15T23:45:00Z"
-      },
-      {
-         "author" : null,
+         "urlToImage" : null,
+         "publishedAt" : "2020-09-16T03:01:18Z",
          "source" : {
             "id" : "google-news",
             "name" : "Google News"
          },
+         "description" : null,
+         "title" : "Trump says he heard Oracle is 'very close' to a TikTok deal - Reuters",
+         "content" : null
+      },
+      {
+         "urlToImage" : "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+         "url" : "https://www.marketwatch.com/story/snowflake-brings-in-nearly-4-billion-to-kick-off-big-week-for-ipos-11600224459",
+         "author" : "Jeremy C. Owens",
+         "publishedAt" : "2020-09-16T02:47:00Z",
+         "content" : "Snowflake Inc. produced a hot start to the busiest week for initial public offerings in more than a year.Snowflake \r\n SNOW, \r\n +2.05%\r\npriced its IPO at $120 a share Tuesday night, which means it wil… [+2450 chars]",
+         "description" : "Software company prices shares at $120 apiece, higher than an already raised range, for valuation of more than $33 billion as busiest week for IPOs in more than a year begins",
+         "source" : {
+            "id" : null,
+            "name" : "MarketWatch"
+         },
+         "title" : "Snowflake brings in nearly $4 billion to kick off big week for IPOs - MarketWatch"
+      },
+      {
+         "content" : null,
+         "source" : {
+            "id" : null,
+            "name" : "FOX 29"
+         },
+         "description" : "In the latest developments between legalized hemp and illegal marijuana, the DEA recently released proposed rules for hemp and CBD just this month. With the agency explaining how it plans to redefine marijuana to exclude hemp, the DEA's new interim final rule…",
+         "title" : "DEA: Hemp rules raises concerns among the CBD industry - FOX 29",
+         "publishedAt" : "2020-09-16T02:44:41Z",
+         "urlToImage" : "http://static-22.sinclairstoryline.com/resources/media/7484e169-0b91-4984-a1a8-e17405f56e59-large16x9_marijuanaplant.jpg?1600215335490",
+         "url" : "http://foxsanantonio.com/news/yami-investigates/dea-hemp-rules-raises-concerns-among-the-cbd-industry",
+         "author" : "Yami Virgin"
+      },
+      {
+         "author" : "Manas Mishra",
+         "url" : "https://www.reuters.com/article/health-coronavirus-pfizer-idUSKBN2670AO",
+         "urlToImage" : "https://static.reuters.com/resources/r/?m=02&d=20200916&t=2&i=1533616800&r=LYNXMPEG8F062&w=800",
+         "publishedAt" : "2020-09-16T02:34:00Z",
+         "title" : "Pfizer says late-stage coronavirus vaccine study shows moderate side effects - Reuters",
+         "source" : {
+            "name" : "Reuters",
+            "id" : "reuters"
+         },
+         "description" : "Pfizer Inc said on Tuesday participants were showing mild-to-moderate side effects when given either the company's experimental coronavirus vaccine or a placebo in an ongoing late-stage study.",
+         "content" : "FILE PHOTO: A sign is pictured outside Pfizer Headquarters in the Manhattan borough of New York City, New York, U.S., July 22, 2020. REUTERS/Carlo Allegri\r\n(Reuters) - Pfizer Inc said on Tuesday part… [+1023 chars]"
+      },
+      {
+         "author" : "Jessica Flores",
+         "url" : "https://www.usatoday.com/story/news/nation/2020/09/15/texas-woman-charged-fraud-ppp-loans/5811194002/",
+         "urlToImage" : "https://www.gannett-cdn.com/-mm-/6a620bf7cff8078d958e2fabc3d93216a02314f8/c=0-456-4843-3180/local/-/media/2020/09/09/USATODAY/usatsports/money-wads-of-assorted-bills.jpg?width=3200&height=1680&fit=crop",
+         "publishedAt" : "2020-09-16T01:23:29Z",
+         "title" : "Texas woman fraudulently submitted Paycheck Protection Program loan applications for nearly $2M, DOJ says - USA TODAY",
+         "description" : "Lola Shalewa Barbara Kasali allegedly received more than $1.9 million in PPP loans and transferred the money into four additional bank accounts.",
+         "source" : {
+            "id" : "usa-today",
+            "name" : "USA Today"
+         },
+         "content" : "Small business owners share their difficult and confusing journeys in applying for the Paycheck Protection Program loan.\r\nUSA TODAY\r\nA Texas woman who received nearly $2 million in Paycheck Protectio… [+2520 chars]"
+      },
+      {
+         "publishedAt" : "2020-09-16T01:05:00Z",
+         "urlToImage" : "https://www.hawaiinewsnow.com/resizer/182prJkvvNXFtiU_rfqAwiLUWJs=/1200x0/cloudfront-us-east-1.images.arcpublishing.com/raycom/4SWSQKUYSJAFROO7RVFLCF25EY.aspx",
+         "url" : "https://www.hawaiinewsnow.com/2020/09/15/alaska-airlines-launches-get-row-with-bogo-sale/",
+         "author" : "HNN Staff",
+         "content" : "Beginning today through Sept. 16, guests traveling by Oct. 31 could get a whole row to themselves when they book a flight and get a second ticket on the same flight for just the taxes and fees.\r\nThis… [+167 chars]",
+         "description" : "Guests on Alaska traveling by Oct. 31 could get a whole row to themselves.",
+         "source" : {
+            "id" : null,
+            "name" : "Hawaii News Now"
+         },
+         "title" : "Alaska Airlines launches ‘Get the Row with BOGO’ sale - Hawaii News Now"
+      },
+      {
+         "content" : "September 15, 2020 7:54 PM\r\nPosted: September 15, 2020 7:54 PM\r\nSarah Glenn/Getty Images\r\nYuengling, the storied Philadelphia brewery, is headed west for the first time in its 191-year history.\r\nD.G.… [+2139 chars]",
+         "source" : {
+            "id" : null,
+            "name" : "Channel3000.com - WISC-TV3"
+         },
+         "description" : "Yuengling, the storied Philadelphia brewery, is headed west for the first time in its 191-year history.",
+         "title" : "Yuengling beer will be available in Wisconsin as part of new partnership with Molson Coors - Channel3000.com - WISC-TV3",
+         "urlToImage" : "https://wpcdn.us-east-1.vip.tn-cloud.net/www.channel3000.com/content/uploads/2020/09/Yuengling-Lager-1280.jpg",
+         "url" : "https://www.channel3000.com/yuengling-beer-will-be-available-in-wisconsin-as-part-of-new-partnership-with-molson-coors/",
+         "author" : null,
+         "publishedAt" : "2020-09-16T00:54:00Z"
+      },
+      {
+         "url" : "https://www.motorauthority.com/news/1129584_nissan-z-proto-previews-next-generation-sports-car-with-twin-turbo-v-6-retro-modern-design",
+         "author" : "Kirk Bell",
+         "urlToImage" : "https://images.hgmsites.net/hug/nissan_100761293_h.jpg",
+         "publishedAt" : "2020-09-16T00:45:00Z",
+         "source" : {
+            "id" : null,
+            "name" : "Motor Authority"
+         },
+         "description" : "Could this be the Nissan 400Z? It'll take at least a year to become more clear.",
+         "title" : "Nissan Z Proto previews next-generation sports car with twin-turbo V-6, retro-modern design - Motor Authority",
+         "content" : "The Nissan Z car has inspired generations of sports car fans since it was released in 1969. It has been an upstart, a disco-era style statement, an upscale sports car, and a long-in-the-tooth coupe j… [+3949 chars]"
+      },
+      {
+         "title" : "Chick-fil-A testing new chicken sandwich with a southern twist - msnNOW",
+         "source" : {
+            "id" : null,
+            "name" : "TODAY"
+         },
+         "description" : "The fancy Southern-style sandwich will only be available in the Carolinas.",
+         "content" : "Chick-fil-A is trying to get folks to eat mor chicken by giving them more options.\r\nThe chain announced certain Chick-fil-A restaurants will begin selling a honey pepper pimento chicken sandwich this… [+1277 chars]",
+         "author" : null,
+         "url" : "https://www.today.com/food/chick-fil-testing-new-chicken-sandwich-southern-twist-t191765",
+         "urlToImage" : "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB194SMg.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg",
+         "publishedAt" : "2020-09-16T00:43:00Z"
+      },
+      {
+         "publishedAt" : "2020-09-15T23:55:00Z",
+         "urlToImage" : "https://media.npr.org/assets/img/2020/09/15/gettyimages-1272672191_wide-9f675a0d683d9fd4984e0d56435be87f3cbc6b87.jpg?s=1400",
+         "author" : "",
+         "url" : "https://www.npr.org/2020/09/15/913328975/google-says-it-doesnt-monopolize-digital-ad-market-senators-don-t-buy-it",
+         "content" : "Senators pressed Google executive Donald Harrison over whether the tech giant wields too much power over advertisers and publishers in the digital ad market, amid widening scrutiny of the company's d… [+3548 chars]",
+         "title" : "Google Says It Doesn't Monopolize Digital Ad Market. Senators Don't Buy It - NPR",
+         "description" : "Senators pressed the tech giant on the scope and scale of its digital advertising business. Republicans repeated long-running allegations of conservative bias.",
+         "source" : {
+            "name" : "NPR",
+            "id" : null
+         }
+      },
+      {
+         "description" : "If you are driving to the new Salt Lake International Airport for the first time, give yourself some extra time. Caption: KUTV: Michael Locklear reports Airport bosses say the overall experience of going to the airport should be better in the new facility, bu…",
+         "source" : {
+            "name" : "KUTV 2News",
+            "id" : null
+         },
+         "title" : "Forget what you knew about driving to, navigating Salt Lake International Airport - KUTV 2News",
+         "content" : null,
+         "url" : "http://kutv.com/news/local/driving-to-the-new-salt-lake-international-airport",
+         "author" : "Cristina Flores",
+         "urlToImage" : "http://static-41.sinclairstoryline.com/resources/media/ea32ecfd-efa0-49aa-b988-8490604ad10c-large16x9_DrivingtothenewSaltLakeInternationalAirport091520cristina4.png?1600211429806",
+         "publishedAt" : "2020-09-15T23:45:00Z"
+      },
+      {
+         "publishedAt" : "2020-09-15T23:36:49Z",
+         "author" : null,
          "url" : "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9bHpadmdBVTg3NjDSAQA?oc=5",
          "urlToImage" : null,
-         "publishedAt" : "2020-09-15T23:36:49Z",
+         "title" : "Jim Cramer: Bank earnings will pull the curtain on the state of small business - CNBC Television",
          "description" : null,
-         "content" : null,
-         "title" : "Jim Cramer: Bank earnings will pull the curtain on the state of small business - CNBC Television"
-      },
-      {
-         "title" : "FTC Preparing Possible Antitrust Suit Against Facebook - The Wall Street Journal",
-         "content" : "WASHINGTONThe Federal Trade Commission is gearing up to file a possible antitrust lawsuit against Facebook Inc. by year-end, according to people familiar with the matter, in a case that would challen… [+333 chars]",
-         "description" : "No final decision has been made on the outcome of a yearlong probe as discussions with the social-media giant continue",
-         "publishedAt" : "2020-09-15T23:17:00Z",
-         "urlToImage" : "https://images.wsj.net/im-232332/social",
-         "url" : "https://www.wsj.com/articles/ftc-preparing-possible-antitrust-suit-against-facebook-11600211840",
          "source" : {
-            "name" : "The Wall Street Journal",
-            "id" : "the-wall-street-journal"
+            "id" : "google-news",
+            "name" : "Google News"
          },
-         "author" : "Brent Kendall, John D. McKinnon, Ryan Tracy"
+         "content" : null
       },
       {
-         "title" : "McDonald’s, Travis Scott's McNugget body pillow is a hit on social media - Fox News",
-         "content" : "Fans of chicken nuggets can cuddle up with a McDonald’s Chicken McNugget body pillow.\r\nThe 3-foot long pillow looks just like the real deal and costs a whopping $90 from rapper Travis Scott’s online … [+2465 chars]",
+         "content" : "WASHINGTONThe Federal Trade Commission is gearing up to file a possible antitrust lawsuit against Facebook Inc. by year-end, according to people familiar with the matter, in a case that would challen… [+333 chars]",
+         "title" : "FTC Preparing Possible Antitrust Suit Against Facebook - The Wall Street Journal",
+         "source" : {
+            "id" : "the-wall-street-journal",
+            "name" : "The Wall Street Journal"
+         },
+         "description" : "No final decision has been made on the outcome of a yearlong probe as discussions with the social-media giant continue",
+         "urlToImage" : "https://images.wsj.net/im-232332/social",
+         "author" : "Brent Kendall, John D. McKinnon, Ryan Tracy",
+         "url" : "https://www.wsj.com/articles/ftc-preparing-possible-antitrust-suit-against-facebook-11600211840",
+         "publishedAt" : "2020-09-15T23:17:00Z"
+      },
+      {
          "urlToImage" : "https://static.foxnews.com/foxnews.com/content/uploads/2019/08/c0c58d8e-McDonalds-arch-exterior.jpg",
-         "publishedAt" : "2020-09-15T23:11:20Z",
-         "description" : "Fans of chicken nuggets can cuddle up with a McDonald’s Chicken McNugget body pillow.",
          "url" : "https://www.foxnews.com/food-drink/mcdonalds-travis-scott-mcnugget-body-pillow-social-media",
+         "author" : "Cortney Moore",
+         "publishedAt" : "2020-09-15T23:11:20Z",
+         "content" : "Fans of chicken nuggets can cuddle up with a McDonald’s Chicken McNugget body pillow.\r\nThe 3-foot long pillow looks just like the real deal and costs a whopping $90 from rapper Travis Scott’s online … [+2465 chars]",
          "source" : {
             "name" : "Fox News",
             "id" : "fox-news"
          },
-         "author" : "Cortney Moore"
+         "description" : "Fans of chicken nuggets can cuddle up with a McDonald’s Chicken McNugget body pillow.",
+         "title" : "McDonald’s, Travis Scott's McNugget body pillow is a hit on social media - Fox News"
       }
    ],
-   "totalResults" : 70,
    "status" : "ok"
 }
