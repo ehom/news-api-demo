@@ -1,266 +1,266 @@
 {
    "totalResults" : 70,
+   "status" : "ok",
    "articles" : [
       {
-         "url" : "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9VVJqd3hMa3JLcW_SAQA?oc=5",
-         "description" : null,
-         "publishedAt" : "2020-09-16T18:30:32Z",
-         "content" : null,
          "title" : "WATCH LIVE: Fed Chairman Jerome Powell speaks on monetary policy amid Covid-19 pandemic – 9/16/2020 - CNBC Television",
-         "urlToImage" : null,
+         "url" : "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9VVJqd3hMa3JLcW_SAQA?oc=5",
          "author" : null,
+         "urlToImage" : null,
+         "publishedAt" : "2020-09-16T18:30:32Z",
          "source" : {
             "name" : "Google News",
             "id" : "google-news"
-         }
+         },
+         "content" : null,
+         "description" : null
       },
       {
-         "url" : "https://news.yahoo.com/senator-rubio-asks-trump-reject-174932916.html",
-         "description" : "Marco Rubio and five other Republican senators called on the Trump administration to reject a proposed deal for Oracle  to become a \"trusted technology ...",
          "publishedAt" : "2020-09-16T17:49:00Z",
-         "content" : "Marco Rubio and five other Republican senators called on the Trump administration to reject a proposed deal for Oracle to become a \"trusted technology provider\" for popular social media platform TikT… [+62 chars]",
-         "title" : "Senator Rubio asks Trump to reject the Oracle, TikTok deal - Yahoo News",
-         "author" : "Yahoo News Video",
-         "urlToImage" : "https://s.yimg.com/uu/api/res/1.2/110LaD_FuVlTsuj0lfjzkg--~B/aD03MjA7dz0xMjgwO3NtPTE7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/hd/cp-video-transcode/prod/2020-09/16/5f62502fe7e29037aeb7caf1/5f62502fe7e29037aeb7caf2_o_U_v2.jpg",
          "source" : {
             "id" : null,
             "name" : "Yahoo Entertainment"
-         }
+         },
+         "content" : "Marco Rubio and five other Republican senators called on the Trump administration to reject a proposed deal for Oracle to become a \"trusted technology provider\" for popular social media platform TikT… [+62 chars]",
+         "title" : "Senator Rubio asks Trump to reject the Oracle, TikTok deal - Yahoo News",
+         "url" : "https://news.yahoo.com/senator-rubio-asks-trump-reject-174932916.html",
+         "author" : "Yahoo News Video",
+         "urlToImage" : "https://s.yimg.com/uu/api/res/1.2/110LaD_FuVlTsuj0lfjzkg--~B/aD03MjA7dz0xMjgwO3NtPTE7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/hd/cp-video-transcode/prod/2020-09/16/5f62502fe7e29037aeb7caf1/5f62502fe7e29037aeb7caf2_o_U_v2.jpg",
+         "description" : "Marco Rubio and five other Republican senators called on the Trump administration to reject a proposed deal for Oracle  to become a \"trusted technology ..."
       },
       {
          "description" : "The OECD warns the world economy will collapse by 4.5% this year, in its worst slowdown since World War Two",
-         "url" : "https://www.businessinsider.com/world-economy-worst-collapse-since-ww2-2020-9",
-         "source" : {
-            "id" : "business-insider",
-            "name" : "Business Insider"
-         },
          "urlToImage" : "https://i.insider.com/5f61d793323fc4001e0d6811?format=jpeg",
          "author" : "Shalini Nagarajan",
+         "url" : "https://www.businessinsider.com/world-economy-worst-collapse-since-ww2-2020-9",
          "title" : "The OECD warns the world economy will collapse by 4.5% this year, in its worst slowdown since World War Two | Markets - Business Insider",
+         "source" : {
+            "name" : "Business Insider",
+            "id" : "business-insider"
+         },
          "content" : "SOPA Images/Getty\r\n<ul><li>The world economy will collapse by 4.5% this year despite a swift recovery from the COVID-19 pandemic, according to the Organization for Economic Cooperation and Developmen… [+3416 chars]",
          "publishedAt" : "2020-09-16T17:12:00Z"
       },
       {
-         "publishedAt" : "2020-09-16T16:24:00Z",
          "title" : "Florida utilities want to gut solar. Here’s why - Electrek",
-         "content" : "Net metering allows residential and commercial customers who generate their own electricity from solar power to sell the electricity they aren’t using back into the grid. That saves money on electric… [+4017 chars]",
-         "urlToImage" : "https://electrek.co/wp-content/uploads/sites/3/2016/12/solar-florida-e1480601913796.jpg?quality=82&strip=all",
+         "url" : "https://electrek.co/2020/09/16/florida-utilities-want-to-gut-solar-heres-why/",
          "author" : null,
+         "urlToImage" : "https://electrek.co/wp-content/uploads/sites/3/2016/12/solar-florida-e1480601913796.jpg?quality=82&strip=all",
+         "publishedAt" : "2020-09-16T16:24:00Z",
+         "content" : "Net metering allows residential and commercial customers who generate their own electricity from solar power to sell the electricity they aren’t using back into the grid. That saves money on electric… [+4017 chars]",
          "source" : {
             "name" : "Electrek",
             "id" : null
          },
-         "url" : "https://electrek.co/2020/09/16/florida-utilities-want-to-gut-solar-heres-why/",
          "description" : "Net metering allows solar power electricity to be sold back to the grid. But Florida utilities want to roll net metering back. There's a hearing tomorrow."
       },
       {
-         "title" : "Dow Jones Rallies On Coronavirus Treatment News, But Apple, Tesla Tumble Ahead Of Fed - Investor's Business Daily",
+         "description" : null,
+         "source" : {
+            "id" : "google-news",
+            "name" : "Google News"
+         },
          "content" : null,
          "publishedAt" : "2020-09-16T16:11:00Z",
-         "source" : {
-            "name" : "Google News",
-            "id" : "google-news"
-         },
          "urlToImage" : null,
          "author" : null,
          "url" : "https://news.google.com/__i/rss/rd/articles/CBMimAFodHRwczovL3d3dy5pbnZlc3RvcnMuY29tL21hcmtldC10cmVuZC9zdG9jay1tYXJrZXQtdG9kYXkvZG93LWpvbmVzLWNvcm9uYXZpcnVzLXRyZWF0bWVudC1zdG9jay1tYXJrZXQtcmFsbHktZmVkZXJhbC1yZXNlcnZlLW5pa29sYS1zbm93Zmxha2UtaXBvLXRlc2xhL9IBAA?oc=5",
-         "description" : null
+         "title" : "Dow Jones Rallies On Coronavirus Treatment News, But Apple, Tesla Tumble Ahead Of Fed - Investor's Business Daily"
       },
       {
          "description" : "A company-sponsored probe into possible insider trading sees no wrongdoing, but it's not time to celebrate just yet.",
-         "url" : "https://www.fool.com/investing/2020/09/16/why-eastman-kodak-stock-rocketed-83-this-morning/",
          "source" : {
             "id" : null,
             "name" : "Motley Fool"
          },
-         "urlToImage" : "https://g.foolcdn.com/editorial/images/591913/auditor-in-business-suit-examines-financial-records-with-a-pen-and-a-magnifying-glass.jpg",
-         "author" : "Rich Smith",
          "content" : "What happened\r\nShares of erstwhile camera-film giant Eastman Kodak (NYSE:KODK) exploded out of the gate this morning, rocketing 83% higher before pausing to catch their breath and retracing a bit. As… [+1668 chars]",
-         "title" : "Why Eastman Kodak Stock Rocketed 83% This Morning - Motley Fool",
-         "publishedAt" : "2020-09-16T16:10:00Z"
+         "publishedAt" : "2020-09-16T16:10:00Z",
+         "urlToImage" : "https://g.foolcdn.com/editorial/images/591913/auditor-in-business-suit-examines-financial-records-with-a-pen-and-a-magnifying-glass.jpg",
+         "url" : "https://www.fool.com/investing/2020/09/16/why-eastman-kodak-stock-rocketed-83-this-morning/",
+         "author" : "Rich Smith",
+         "title" : "Why Eastman Kodak Stock Rocketed 83% This Morning - Motley Fool"
       },
       {
-         "url" : "https://arstechnica.com/tech-policy/2020/09/att-wants-to-put-ads-on-your-smartphone-in-exchange-for-5-discount/",
          "description" : "AT&T CEO: Customers would accept targeted ads if given $5 or $10 price cut.",
-         "content" : "Enlarge/ An AT&amp;T sign outside a company office in New York City.\r\n136 with 103 posters participating\r\nAT&amp;T CEO John Stankey said the company may offer cellphone plans subsidized by advertisin… [+5397 chars]",
+         "urlToImage" : "https://cdn.arstechnica.net/wp-content/uploads/2019/10/getty-att-sign-760x380.jpg",
+         "author" : "Jon Brodkin",
+         "url" : "https://arstechnica.com/tech-policy/2020/09/att-wants-to-put-ads-on-your-smartphone-in-exchange-for-5-discount/",
          "title" : "AT&T wants to put ads on your smartphone in exchange for $5 discount - Ars Technica",
-         "publishedAt" : "2020-09-16T16:05:00Z",
          "source" : {
             "name" : "Ars Technica",
             "id" : "ars-technica"
          },
-         "urlToImage" : "https://cdn.arstechnica.net/wp-content/uploads/2019/10/getty-att-sign-760x380.jpg",
-         "author" : "Jon Brodkin"
+         "content" : "Enlarge/ An AT&amp;T sign outside a company office in New York City.\r\n136 with 103 posters participating\r\nAT&amp;T CEO John Stankey said the company may offer cellphone plans subsidized by advertisin… [+5397 chars]",
+         "publishedAt" : "2020-09-16T16:05:00Z"
       },
       {
-         "url" : "https://oilprice.com/Energy/Crude-Oil/Worlds-No1-Oil-Trader-Sees-Crude-Inventories-Shrinking-This-Year.html",
-         "description" : "Vitol Group, the world's largest independent oil trader, expects global oil inventories to continue drawing down for the rest of the year, unlike its rivals",
-         "title" : "World's No.1 Oil Trader Sees Crude Inventories Shrinking This Year - OilPrice.com",
          "content" : "The International Energy Agency (IEA)…\r\nOil prices continued to rally…\r\nIn May, June and July,…\r\nBy Tsvetana Paraskova - Sep 16, 2020, 11:00 AM CDTVitol Group, the world’s largest independent oil tra… [+2005 chars]",
-         "publishedAt" : "2020-09-16T16:00:00Z",
          "source" : {
-            "id" : null,
-            "name" : "OilPrice.com"
+            "name" : "OilPrice.com",
+            "id" : null
          },
+         "publishedAt" : "2020-09-16T16:00:00Z",
+         "author" : "Tsvetana Paraskova",
          "urlToImage" : "https://d32r1sh890xpii.cloudfront.net/article/718x300/2020-09-16_csvzbcsoez.jpg",
-         "author" : "Tsvetana Paraskova"
+         "url" : "https://oilprice.com/Energy/Crude-Oil/Worlds-No1-Oil-Trader-Sees-Crude-Inventories-Shrinking-This-Year.html",
+         "title" : "World's No.1 Oil Trader Sees Crude Inventories Shrinking This Year - OilPrice.com",
+         "description" : "Vitol Group, the world's largest independent oil trader, expects global oil inventories to continue drawing down for the rest of the year, unlike its rivals"
       },
       {
+         "title" : "Chuck E. Cheese wants to destroy 7 billion prize tickets - CNN",
+         "author" : "Chris Isidore, CNN Business",
+         "url" : "https://www.cnn.com/2020/09/16/business/chuck-e-cheese-prize-tickets/index.html",
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200916102055-chuck-e-cheese-prize-wall-file-super-tease.jpg",
+         "publishedAt" : "2020-09-16T15:56:00Z",
+         "content" : null,
          "source" : {
             "name" : "CNN",
             "id" : "cnn"
          },
-         "author" : "Chris Isidore, CNN Business",
-         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200916102055-chuck-e-cheese-prize-wall-file-super-tease.jpg",
-         "title" : "Chuck E. Cheese wants to destroy 7 billion prize tickets - CNN",
-         "content" : null,
-         "publishedAt" : "2020-09-16T15:56:00Z",
-         "description" : "This might qualify as a kid's wildest dream: a mountain of 7 billion Chuck E. Cheese prize tickets.",
-         "url" : "https://www.cnn.com/2020/09/16/business/chuck-e-cheese-prize-tickets/index.html"
+         "description" : "This might qualify as a kid's wildest dream: a mountain of 7 billion Chuck E. Cheese prize tickets."
       },
       {
-         "source" : {
-            "id" : null,
-            "name" : "Yahoo Entertainment"
-         },
+         "title" : "‘Lenders don’t have the capacity’ to meet mortgage demand: expert - Yahoo Finance",
+         "url" : "https://finance.yahoo.com/news/lenders-dont-have-the-capacity-to-meet-mortgage-demand-expert-155228656.html",
          "author" : "Sarah Paynter",
          "urlToImage" : "https://s.yimg.com/uu/api/res/1.2/.mSZwY10_yp4D78YKXDT1w--~B/aD00MDE2O3c9NjAxNjtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2020-09/56e15220-f82f-11ea-bfed-4b9b91264022",
-         "content" : "Mortgage rates hit a new low last week, the average 30-year fixed rate hit 2.86% for the week ending September 4. Its the ninth time mortgage rates set a record low this year and some experts think i… [+3703 chars]",
-         "title" : "‘Lenders don’t have the capacity’ to meet mortgage demand: expert - Yahoo Finance",
          "publishedAt" : "2020-09-16T15:52:00Z",
-         "description" : "Once lenders catch up, mortgage and refinance rates are expected to fall further.",
-         "url" : "https://finance.yahoo.com/news/lenders-dont-have-the-capacity-to-meet-mortgage-demand-expert-155228656.html"
+         "source" : {
+            "name" : "Yahoo Entertainment",
+            "id" : null
+         },
+         "content" : "Mortgage rates hit a new low last week, the average 30-year fixed rate hit 2.86% for the week ending September 4. Its the ninth time mortgage rates set a record low this year and some experts think i… [+3703 chars]",
+         "description" : "Once lenders catch up, mortgage and refinance rates are expected to fall further."
       },
       {
          "title" : "3 reasons Bitcoin price just hit $11,000 despite altcoin stagnance - Cointelegraph",
-         "content" : "Within the last hour, the price of Bitcoin (BTC) surpassed $11,000 across major exchanges, including Coinbase and Binance. This comes after nearly two weeks of low volatility as the cryptocurrency ma… [+2896 chars]",
-         "publishedAt" : "2020-09-16T15:42:00Z",
-         "source" : {
-            "name" : "Cointelegraph",
-            "id" : null
-         },
-         "urlToImage" : "https://s3.cointelegraph.com/storage/uploads/view/276e2fd3702270ecbdc2440200c06449.jpg",
          "author" : "Joseph Young",
          "url" : "https://cointelegraph.com/news/3-reasons-bitcoin-price-just-hit-11-000-despite-altcoin-stagnance",
+         "urlToImage" : "https://s3.cointelegraph.com/storage/uploads/view/276e2fd3702270ecbdc2440200c06449.jpg",
+         "publishedAt" : "2020-09-16T15:42:00Z",
+         "content" : "Within the last hour, the price of Bitcoin (BTC) surpassed $11,000 across major exchanges, including Coinbase and Binance. This comes after nearly two weeks of low volatility as the cryptocurrency ma… [+2896 chars]",
+         "source" : {
+            "id" : null,
+            "name" : "Cointelegraph"
+         },
          "description" : "The price of Bitcoin surged past $11,000 but it might be too early to expect a significant rally to begin"
       },
       {
-         "publishedAt" : "2020-09-16T15:34:00Z",
-         "content" : "Congress hasn't yet agreed who'll be eligible to receive a second stimulus check, but it's expected that more people will be included the second time around.\r\nSarah Tew/CNET\r\nWhile talks to finalize … [+6213 chars]",
+         "description" : "Congress yet to reach a deal, but here's what we already know about who might qualify for a second direct payment.",
          "title" : "Stimulus check qualifications could be more complicated than you think - CNET",
          "urlToImage" : "https://cnet3.cbsistatic.com/img/IBhl4tRC5pH1GAqfiPFuhQ95-aM=/1200x630/2020/07/31/bc892f23-c324-4125-83d4-50c196526dea/006-cash-money-dollar-bills-colorful-background-stimulus-2020.jpg",
+         "url" : "https://www.cnet.com/personal-finance/stimulus-check-qualifications-could-be-more-complicated-than-you-think/",
          "author" : "Clifford Colby",
+         "publishedAt" : "2020-09-16T15:34:00Z",
+         "content" : "Congress hasn't yet agreed who'll be eligible to receive a second stimulus check, but it's expected that more people will be included the second time around.\r\nSarah Tew/CNET\r\nWhile talks to finalize … [+6213 chars]",
          "source" : {
             "name" : "CNET",
             "id" : null
-         },
-         "url" : "https://www.cnet.com/personal-finance/stimulus-check-qualifications-could-be-more-complicated-than-you-think/",
-         "description" : "Congress yet to reach a deal, but here's what we already know about who might qualify for a second direct payment."
-      },
-      {
-         "url" : "https://finance.yahoo.com/news/kraft-heinz-ceo-warren-buffetts-top-two-lieutenants-on-our-board-liked-our-32-billion-deal-153151409.html",
-         "description" : "Yahoo Finance chats with Kraft Heinz CEO Miguel Patricio about his new plan to overhaul the food giant.",
-         "publishedAt" : "2020-09-16T15:31:00Z",
-         "title" : "Kraft Heinz CEO: Warren Buffett's top two lieutenants on our board liked our $3.2 billion deal - Yahoo Finance",
-         "content" : "One of Kraft Heinz CEO Miguel Patricios first big moves since taking the top job in July 2019 got the blessing of two of the food giants arguably most important board members.\r\nAt the companys long-a… [+3064 chars]",
-         "urlToImage" : "https://s.yimg.com/uu/api/res/1.2/2RvwxQSGOkupRnvkoUbzQg--~B/aD0yOTUxO3c9NDQ4ODtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2020-09/6ed2ede0-f76b-11ea-8756-acfb4359b42f",
-         "author" : "Brian Sozzi",
-         "source" : {
-            "id" : null,
-            "name" : "Yahoo Entertainment"
          }
       },
       {
-         "publishedAt" : "2020-09-16T15:30:50Z",
-         "content" : "A3 Artists Agency has added another four former Paradigm Talent Agency execs to its ranks, including Valarie Phillips as partner and co-head of its motion pictures literary division.\r\nThe Hollywood t… [+1681 chars]",
-         "title" : "A3 Artists Agency Hires Ex-Paradigm Exec Valarie Phillips as Co-Head, Motion Pictures - Hollywood Reporter",
-         "urlToImage" : null,
-         "author" : "Etan Vlessing",
+         "title" : "Kraft Heinz CEO: Warren Buffett's top two lieutenants on our board liked our $3.2 billion deal - Yahoo Finance",
+         "author" : "Brian Sozzi",
+         "urlToImage" : "https://s.yimg.com/uu/api/res/1.2/2RvwxQSGOkupRnvkoUbzQg--~B/aD0yOTUxO3c9NDQ4ODtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2020-09/6ed2ede0-f76b-11ea-8756-acfb4359b42f",
+         "url" : "https://finance.yahoo.com/news/kraft-heinz-ceo-warren-buffetts-top-two-lieutenants-on-our-board-liked-our-32-billion-deal-153151409.html",
+         "publishedAt" : "2020-09-16T15:31:00Z",
+         "content" : "One of Kraft Heinz CEO Miguel Patricios first big moves since taking the top job in July 2019 got the blessing of two of the food giants arguably most important board members.\r\nAt the companys long-a… [+3064 chars]",
          "source" : {
-            "name" : "Hollywood Reporter",
+            "name" : "Yahoo Entertainment",
             "id" : null
          },
-         "url" : "https://www.hollywoodreporter.com/news/a3-artists-agency-hires-ex-paradigm-exec-valarie-phillips-as-co-head-motion-pictures",
-         "description" : "The talent agency has also boarded three other literary agents from Paradigm: Martin Spencer, Antoni Kaczmarek and Kasey Muraszko."
+         "description" : "Yahoo Finance chats with Kraft Heinz CEO Miguel Patricio about his new plan to overhaul the food giant."
       },
       {
-         "url" : "https://cleantechnica.com/2020/09/16/tesla-battery-day-has-elon-musk-already-leaked-the-battery-tech-that-will-give-scale-to-the-ev-revolution/",
-         "description" : "Tesla Battery Day is less than a week away. In my view, most Tesla commentary continues to overlook what is already known when it comes to predictions for what will be revealed on Tesla Battery Day.",
-         "publishedAt" : "2020-09-16T15:30:16Z",
-         "content" : "CarsPublished on September 16th, 2020 |\r\n by Dr. Maximilian Holland\r\n0\r\nSeptember 16th, 2020 by Dr. Maximilian Holland \r\nTesla Battery Day is less than a week away. In my view, most Tesla commentary … [+29681 chars]",
-         "title" : "Tesla Battery Day — Has Elon Musk Already “Leaked” The Battery Tech That Will Give Scale To The EV Revolution? - CleanTechnica",
-         "urlToImage" : "https://cleantechnica.com/files/2020/09/Tesla-battery-cell-production-video.jpg",
-         "author" : "Dr. Maximilian Holland",
+         "description" : "The talent agency has also boarded three other literary agents from Paradigm: Martin Spencer, Antoni Kaczmarek and Kasey Muraszko.",
+         "urlToImage" : null,
+         "url" : "https://www.hollywoodreporter.com/news/a3-artists-agency-hires-ex-paradigm-exec-valarie-phillips-as-co-head-motion-pictures",
+         "author" : "Etan Vlessing",
+         "title" : "A3 Artists Agency Hires Ex-Paradigm Exec Valarie Phillips as Co-Head, Motion Pictures - Hollywood Reporter",
+         "content" : "A3 Artists Agency has added another four former Paradigm Talent Agency execs to its ranks, including Valarie Phillips as partner and co-head of its motion pictures literary division.\r\nThe Hollywood t… [+1681 chars]",
          "source" : {
             "id" : null,
-            "name" : "CleanTechnica"
-         }
+            "name" : "Hollywood Reporter"
+         },
+         "publishedAt" : "2020-09-16T15:30:50Z"
       },
       {
-         "description" : "U.S. consumer spending slowed in August, with a key retail sales gauge unexpectedly declining, as extended unemployment benefits were cut for millions of Americans, offering more evidence that the economic recovery from the COVID-19 recession was faltering.",
-         "url" : "https://uk.reuters.com/article/usa-economy-idUSKBN2672L3",
+         "description" : "Tesla Battery Day is less than a week away. In my view, most Tesla commentary continues to overlook what is already known when it comes to predictions for what will be revealed on Tesla Battery Day.",
+         "publishedAt" : "2020-09-16T15:30:16Z",
+         "source" : {
+            "name" : "CleanTechnica",
+            "id" : null
+         },
+         "content" : "CarsPublished on September 16th, 2020 |\r\n by Dr. Maximilian Holland\r\n0\r\nSeptember 16th, 2020 by Dr. Maximilian Holland \r\nTesla Battery Day is less than a week away. In my view, most Tesla commentary … [+29681 chars]",
+         "title" : "Tesla Battery Day — Has Elon Musk Already “Leaked” The Battery Tech That Will Give Scale To The EV Revolution? - CleanTechnica",
+         "url" : "https://cleantechnica.com/2020/09/16/tesla-battery-day-has-elon-musk-already-leaked-the-battery-tech-that-will-give-scale-to-the-ev-revolution/",
+         "urlToImage" : "https://cleantechnica.com/files/2020/09/Tesla-battery-cell-production-video.jpg",
+         "author" : "Dr. Maximilian Holland"
+      },
+      {
          "urlToImage" : "https://static.reuters.com/resources/r/?m=02&d=20200916&t=2&i=1533702176&r=LYNXMPEG8F1JP&w=800",
          "author" : "Lucia Mutikani",
-         "source" : {
-            "name" : "Reuters",
-            "id" : "reuters"
-         },
-         "publishedAt" : "2020-09-16T15:15:56Z",
+         "url" : "https://uk.reuters.com/article/usa-economy-idUSKBN2672L3",
          "title" : "U.S. consumer spending losing steam as fiscal stimulus ebbs - Reuters",
-         "content" : "WASHINGTON (Reuters) - U.S. consumer spending slowed in August, with a key retail sales gauge unexpectedly declining, as extended unemployment benefits were cut for millions of Americans, offering mo… [+5209 chars]"
+         "source" : {
+            "id" : "reuters",
+            "name" : "Reuters"
+         },
+         "content" : "WASHINGTON (Reuters) - U.S. consumer spending slowed in August, with a key retail sales gauge unexpectedly declining, as extended unemployment benefits were cut for millions of Americans, offering mo… [+5209 chars]",
+         "publishedAt" : "2020-09-16T15:15:56Z",
+         "description" : "U.S. consumer spending slowed in August, with a key retail sales gauge unexpectedly declining, as extended unemployment benefits were cut for millions of Americans, offering more evidence that the economic recovery from the COVID-19 recession was faltering."
       },
       {
-         "description" : "McDonald's is reporting some ingredient shortages tied to its promotion with rapper Travis Scott.",
+         "title" : "McDonald's Travis Scott promotion is so popular, it's causing Quarter Pounder shortages - CNBC",
          "url" : "https://www.cnbc.com/2020/09/16/mcdonalds-travis-scott-promotion-is-so-popular-its-causing-shortages.html",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106704982-1600267075883-travis_scott.jpg?v=1600275157",
          "author" : "Amelia Lucas",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106704982-1600267075883-travis_scott.jpg?v=1600275157",
+         "publishedAt" : "2020-09-16T14:55:00Z",
+         "content" : "Just eight days after McDonald's kicked off its collaboration with rapper Travis Scott, the fast-food giant is reporting some ingredient shortages tied to the promotion. \r\nThe meal comes with a Quart… [+1822 chars]",
          "source" : {
             "name" : "CNBC",
             "id" : null
          },
-         "publishedAt" : "2020-09-16T14:55:00Z",
-         "title" : "McDonald's Travis Scott promotion is so popular, it's causing Quarter Pounder shortages - CNBC",
-         "content" : "Just eight days after McDonald's kicked off its collaboration with rapper Travis Scott, the fast-food giant is reporting some ingredient shortages tied to the promotion. \r\nThe meal comes with a Quart… [+1822 chars]"
+         "description" : "McDonald's is reporting some ingredient shortages tied to its promotion with rapper Travis Scott."
       },
       {
-         "description" : "Eli Lilly CEO David Ricks told FOX Business on Wednesday that the results of a mid-stage clinical trial assessing the drugmaker's experimental antibody treatment reduced the rate of hospitalization in COVID-19 patients.",
+         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/09/0/0/Ricks-Testing.jpg?ve=1&tl=1",
          "url" : "https://www.foxbusiness.com/healthcare/coronavirus-antibody-study-hospitalization-eli-lilly",
+         "author" : "Talia Kaplan",
+         "title" : "New coronavirus antibody treatment by Eli-Lilly reduces need for hospitalization: study - Fox Business",
          "source" : {
             "name" : "Fox Business",
             "id" : null
          },
-         "author" : "Talia Kaplan",
-         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/09/0/0/Ricks-Testing.jpg?ve=1&tl=1",
-         "title" : "New coronavirus antibody treatment by Eli-Lilly reduces need for hospitalization: study - Fox Business",
          "content" : "A clinical trial assessing Eli Lilly’s experimental antibody treatment reduced the rate of hospitalization in COVID-19 patients, the pharmaceutical company's CEO David Ricks told FOX Business' Maria … [+4557 chars]",
-         "publishedAt" : "2020-09-16T14:47:08Z"
+         "publishedAt" : "2020-09-16T14:47:08Z",
+         "description" : "Eli Lilly CEO David Ricks told FOX Business on Wednesday that the results of a mid-stage clinical trial assessing the drugmaker's experimental antibody treatment reduced the rate of hospitalization in COVID-19 patients."
       },
       {
+         "description" : "These companies appear expensive on the surface, but they're actually a bargain when considering their long-term growth and profit potential.",
+         "content" : "Some investors think this year's rally for tech stocks means there are no more deals to be had in that sector. The Nasdaq Composite index has gained almost 25% year to date and is up over 60% from it… [+6563 chars]",
          "source" : {
             "name" : "Motley Fool",
             "id" : null
          },
-         "author" : "Andrew Tseng",
-         "urlToImage" : "https://g.foolcdn.com/editorial/images/590033/young-woman-sitting-in-a-car-and-smiling-while-being-handed-the-keys.jpg",
-         "title" : "3 Cheap Tech Stocks to Buy Now - Motley Fool",
-         "content" : "Some investors think this year's rally for tech stocks means there are no more deals to be had in that sector. The Nasdaq Composite index has gained almost 25% year to date and is up over 60% from it… [+6563 chars]",
          "publishedAt" : "2020-09-16T14:30:00Z",
-         "description" : "These companies appear expensive on the surface, but they're actually a bargain when considering their long-term growth and profit potential.",
-         "url" : "https://www.fool.com/investing/2020/09/16/3-cheap-tech-stocks-to-buy-now/"
+         "author" : "Andrew Tseng",
+         "url" : "https://www.fool.com/investing/2020/09/16/3-cheap-tech-stocks-to-buy-now/",
+         "urlToImage" : "https://g.foolcdn.com/editorial/images/590033/young-woman-sitting-in-a-car-and-smiling-while-being-handed-the-keys.jpg",
+         "title" : "3 Cheap Tech Stocks to Buy Now - Motley Fool"
       },
       {
-         "url" : "https://finance.yahoo.com/news/china-state-media-outlet-calls-140441339.html",
          "description" : "An op-ed in China's state-backed Global Times on Wednesday said U.S. chipmaker Nvidia Corp's planned acquisition of Arm Ltd from Japan's SoftBank...",
          "publishedAt" : "2020-09-16T14:04:00Z",
          "content" : "So far, September has been a wild ride of ups and downs. Following the recent bout of volatility, stocks have ticked higher again. But as uncertainty regarding another rescue program and the presiden… [+9931 chars]",
-         "title" : "China state media outlet calls Nvidia's Arm purchase 'disturbing', urges regulatory caution - Yahoo Finance",
-         "urlToImage" : "https://s.yimg.com/uu/api/res/1.2/ZX.RcVGprTMZrvyP0wQ1_A--~B/aD01MzM7dz04MDA7c209MTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en-US/reuters.com/92b96f9cf2e2d57a5ceff29d7914a828",
-         "author" : "Reuters",
          "source" : {
             "id" : null,
             "name" : "Yahoo Entertainment"
-         }
+         },
+         "title" : "China state media outlet calls Nvidia's Arm purchase 'disturbing', urges regulatory caution - Yahoo Finance",
+         "url" : "https://finance.yahoo.com/news/china-state-media-outlet-calls-140441339.html",
+         "author" : "Reuters",
+         "urlToImage" : "https://s.yimg.com/uu/api/res/1.2/ZX.RcVGprTMZrvyP0wQ1_A--~B/aD01MzM7dz04MDA7c209MTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en-US/reuters.com/92b96f9cf2e2d57a5ceff29d7914a828"
       }
-   ],
-   "status" : "ok"
+   ]
 }
