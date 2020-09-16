@@ -1,266 +1,266 @@
 {
-   "status" : "ok",
    "articles" : [
       {
-         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200916141449-permanently-closed-restaurant-0831-super-tease.jpg",
-         "description" : "About 60% of businesses that have closed during the coronavirus pandemic will never reopen, and restaurants have suffered the most, according to new data from Yelp.",
-         "content" : "New York (CNN Business)About 60% of businesses that have closed during the coronavirus pandemic will never reopen, and restaurants have suffered the most, according to new data from Yelp. \r\nThe revie… [+2347 chars]",
-         "author" : "Danielle Wiener-Bronner, CNN Business",
-         "publishedAt" : "2020-09-16T19:57:00Z",
+         "content" : "U.S. stock futures were flat on Wednesday night as traders digested the Federal Reserve's pledge to keep rates low over the next few years.\r\nDow Jones Industrial Average traded 6 points lower, or 0.0… [+1891 chars]",
+         "description" : "U.S. stock futures were flat on Wednesday night as traders digested the Federal Reserve's pledge to keep rates low over the next few years.",
+         "source" : {
+            "id" : null,
+            "name" : "CNBC"
+         },
+         "publishedAt" : "2020-09-16T22:00:00Z",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106553473-1594656502919preview.jpg?v=1600292295",
+         "url" : "https://www.cnbc.com/2020/09/16/stock-market-futures-open-to-close-news.html",
+         "author" : "Fred Imbert",
+         "title" : "Stock futures are flat after Fed signals no rate hikes until 2023 - CNBC"
+      },
+      {
+         "publishedAt" : "2020-09-16T21:30:40Z",
          "source" : {
             "id" : "cnn",
             "name" : "CNN"
          },
-         "url" : "https://www.cnn.com/2020/09/16/business/yelp-coronavirus-closures/index.html",
-         "title" : "More than half of businesses that closed during the pandemic won't reopen - CNN"
+         "author" : null,
+         "url" : "https://www.cnn.com/videos/media/2020/09/16/trump-shares-manipulated-biden-video-donie-osullivan-nr-vpx.cnn",
+         "title" : "Twitter flags manipulated Biden video shared by Trump - CNN",
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200916160923-trump-shares-manipulated-biden-video-donie-osullivan-nr-vpx-00004627-super-tease.jpg",
+         "content" : "Chat with us in Facebook Messenger. Find out what's happening in the world as it unfolds.",
+         "description" : "A video a manipulated video of Democratic Presidential candidate Joe Biden share by Presdient Donald Trump was flagged by Twitter. CNN's Donie O'Sullivan reports."
       },
       {
-         "urlToImage" : "https://i.insider.com/5f623d1e57b7da001ee11fca?format=jpeg",
-         "description" : "Nikola surges 15% from intraday lows as JPMorgan analyst defends company following CFO meeting",
-         "title" : "Nikola surges 15% from intraday lows as JPMorgan analyst defends company following CFO meeting | Markets - Business Insider",
-         "author" : "Matthew Fox",
-         "content" : "REUTERS/Massimo Pinca\r\n<ul><li>Nikola reversed from intraday lows and rallied as much as 15% on Wednesday after JPMorgan defended the company following a discussion with Nikola management.</li><li>\"T… [+2968 chars]",
-         "url" : "https://www.businessinsider.com/nikola-stock-price-jpmorgan-analyst-defends-company-following-cfo-meeting-2020-9",
+         "urlToImage" : "https://bloximages.newyork1.vip.townnews.com/wfsb.com/content/tncms/assets/v3/editorial/c/13/c1339d0a-f85b-11ea-a320-77214226801e/5f627663820de.image.jpg?resize=423%2C200",
+         "title" : "Pratt & Whitney parent company Raytheon announces more layoffs - WFSB",
+         "url" : "https://www.wfsb.com/news/pratt-whitney-parent-company-raytheon-announces-more-layoffs/article_45555f2a-f85b-11ea-86ad-87c18cd67fb4.html",
+         "author" : "WFSB Staff",
          "source" : {
-            "name" : "Business Insider",
-            "id" : "business-insider"
+            "name" : "WFSB",
+            "id" : null
          },
-         "publishedAt" : "2020-09-16T19:06:45Z"
+         "publishedAt" : "2020-09-16T20:29:00Z",
+         "description" : "Raytheon, the parent company of Pratt &amp; Whitney, announced its plans for layoffs is deepening.",
+         "content" : "(WFSB) -- Raytheon, the parent company of Pratt &amp; Whitney, announced its plans for layoffs is deepening.\r\nThe company announced back in July that it was cutting more than 8,000 jobs.\r\nOn Wednesda… [+910 chars]"
       },
       {
-         "author" : "Michael Corkery, Sapna Maheshwari",
-         "content" : "Nearly 90 percent of its revenue was gone and the company had $10 million worth of food inventory and very few customers. The company, based in the Bronx with about 2,000 employees and 400 trucks, qu… [+1614 chars]",
-         "url" : "https://www.nytimes.com/2020/09/16/business/retail-sales-consumer-spending-rise.html",
+         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/08/0/0/target-store-Getty.jpg?ve=1&tl=1",
+         "url" : "https://www.foxbusiness.com/lifestyle/target-florida-coronavirus",
+         "author" : "Daniella Genovese",
+         "title" : "Anti-mask protesters march through Florida Target, yell: 'Take off your mask!' - Fox Business",
+         "source" : {
+            "name" : "Fox Business",
+            "id" : null
+         },
+         "publishedAt" : "2020-09-16T20:25:10Z",
+         "content" : "A group of anti-mask protesters marched through a Florida Target this week calling for customers to take off their masks despite an increasing number of COVID-19 cases hitting the state.\r\nIn a video … [+1659 chars]",
+         "description" : "The group chanted \"take off your mask,\" \"we're not gonna take it anymore\" as well as \"yeah, we got one\" as they headed down the store aisle."
+      },
+      {
+         "content" : "Shares of Amazon.com Inc. \r\n AMZN, \r\n -2.47%\r\nshed 2.47% to $3,078.10 Wednesday, on what proved to be an all-around mixed trading session for the stock market, with the Dow Jones Industrial Average \r… [+573 chars]",
+         "description" : "",
+         "source" : {
+            "id" : null,
+            "name" : "MarketWatch"
+         },
+         "publishedAt" : "2020-09-16T20:25:00Z",
+         "urlToImage" : "https://images.mktw.net/im-215086/social",
+         "author" : "MarketWatch Automation",
+         "url" : "https://www.marketwatch.com/story/amazon-com-inc-stock-falls-wednesday-underperforms-market-01600287924",
+         "title" : "Amazon.com Inc. stock falls Wednesday, underperforms market - MarketWatch"
+      },
+      {
+         "content" : "New York (CNN Business)It may still be the dog days of summer but there was a blizzard on Wall Street Wednesday. Shares of Snowflake, a cloud data warehousing firm that has the backing of Salesforce(… [+3502 chars]",
+         "description" : "Snowflake, a cloud data warehousing firm that has the backing of Salesforce and Warren Buffett's Berkshire Hathaway, is set to go public in what stands to be the biggest software IPO ever.",
+         "publishedAt" : "2020-09-16T20:19:00Z",
+         "source" : {
+            "id" : "cnn",
+            "name" : "CNN"
+         },
+         "author" : "Paul R. La Monica, CNN Business",
+         "url" : "https://www.cnn.com/2020/09/16/investing/snowflake-ipo/index.html",
+         "title" : "Snowflake shares more than double. It's the biggest software IPO ever - CNN",
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200910095810-snowflake-cloud-data-file-super-tease.jpg"
+      },
+      {
+         "content" : null,
+         "description" : "Kodak stock briefly surged more than 80% on Wednesday after a special committee's investigation found no evidence of insider trading prior to the announcement of a US government loan.",
+         "publishedAt" : "2020-09-16T20:18:00Z",
+         "source" : {
+            "id" : "cnn",
+            "name" : "CNN"
+         },
+         "title" : "Kodak stock soars after review finds no insider trading - CNN",
+         "author" : "Jazmin Goodwin, CNN Business",
+         "url" : "https://www.cnn.com/2020/09/16/investing/kodak-stock-surge/index.html",
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200729103402-01-kodak-booth-file-super-tease.jpg"
+      },
+      {
+         "publishedAt" : "2020-09-16T20:15:21Z",
+         "source" : {
+            "id" : null,
+            "name" : "Visual Capitalist"
+         },
+         "author" : "Iman Ghosh",
+         "url" : "https://www.visualcapitalist.com/shapes-of-recovery-when-will-the-global-economy-bounce-back/",
+         "title" : "Shapes of Recovery: Will The Global Economy Bounce Back? - Visual Capitalist",
+         "urlToImage" : "https://www.visualcapitalist.com/wp-content/uploads/2020/09/Shape_of_recovery_shareable.jpg",
+         "content" : "Social media has seeped into virtually all aspects of modern life. The vast social media universe collectively now holds 3.8 billion users, representing roughly 50% of the global population.\r\nWith an… [+6478 chars]",
+         "description" : "Economic recovery from COVID-19 could come in four shapes—L, U, W, and V. What do they mean, and what do global CEOs see as the most likely?"
+      },
+      {
+         "source" : {
+            "name" : "Daily Mail",
+            "id" : null
+         },
+         "publishedAt" : "2020-09-16T20:11:35Z",
+         "urlToImage" : "https://i.dailymail.co.uk/1s/2020/09/16/22/33273080-0-image-a-30_1600291265617.jpg",
+         "title" : "Oracle's bid for Chinese-owned TikTok fails to gain approval, report says - Daily Mail",
+         "url" : "https://www.dailymail.co.uk/news/article-8740935/Oracles-bid-Chinese-owned-TikTok-fails-gain-approval-report-says.html",
+         "author" : "By Keith Griffith For Dailymail.com Wires",
+         "description" : "The proposed deal has drawn continuing concerns from national security officials could sway President Donald Trump's decision, people familiar with the deal told Bloomberg News.",
+         "content" : "Oracle's bid to buy TikTok from Chinese parent ByteDance has reportedly fallen short of requirements from the Trump administration to resolve concerns that the video-sharing app represents a national… [+3366 chars]"
+      },
+      {
+         "source" : {
+            "name" : "Google News",
+            "id" : "google-news"
+         },
+         "publishedAt" : "2020-09-16T20:10:33Z",
+         "urlToImage" : null,
+         "title" : "Fed Chairman Jerome Powell speaks on monetary policy amid Covid-19 pandemic – 9/16/2020 - CNBC Television",
+         "author" : null,
+         "url" : "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9VVJqd3hMa3JLcW_SAQA?oc=5",
+         "description" : null,
+         "content" : null
+      },
+      {
+         "publishedAt" : "2020-09-16T20:08:32Z",
+         "source" : {
+            "name" : "Eater",
+            "id" : null
+         },
+         "url" : "https://ny.eater.com/2020/9/16/21439566/nyc-restaurants-surcharge-coronavirus",
+         "author" : "Erika Adams",
+         "title" : "NYC Restaurants Will Soon Be Able to Add Up to 10 Percent Surcharge to Diners’ Bills - Eater NY",
+         "urlToImage" : "https://cdn.vox-cdn.com/thumbor/WpGjCXtEQFIF0Nzx4UctTa74fRw=/0x392:5477x3260/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/21885072/1271063805.jpg.jpg",
+         "content" : null,
+         "description" : "Restaurants in the city will be able to tack on the extra charge as a COVID-19 recovery measure"
+      },
+      {
+         "source" : {
+            "name" : "Android Police",
+            "id" : null
+         },
+         "publishedAt" : "2020-09-16T19:13:00Z",
+         "urlToImage" : "https://www.androidpolice.com/wp-content/uploads/2018/06/ATT-Death-Star-668x376.png",
+         "author" : "https://www.facebook.com/rgao007",
+         "url" : "https://www.androidpolice.com/2020/09/16/att-thinks-youll-put-up-with-ads-in-exchange-for-a-cheaper-phone-bill/",
+         "title" : "AT&T thinks you'll put up with ads in exchange for a cheaper phone bill - Android Police",
+         "description" : "You may not have heard of ad-supported phone plans before, but companies have experimented with them since the early 2000s. According to an interview with",
+         "content" : "You may not have heard of ad-supported phone plans before, but companies have experimented with them since the early 2000s. According to an interview with CEO John Stankey, AT&amp;T is looking into s… [+926 chars]"
+      },
+      {
+         "content" : "Washington, DC (CNN)\"VanMoof is like the Mercedes-Benz or the Tesla of electric bikes,\" Casey Neistat, who has 12.2 million subscribers on YouTube, said earlier this month. \r\nAnd now, the Dutch elect… [+3370 chars]",
+         "description" : "\"VanMoof is like the Mercedes-Benz or the Tesla of electric bikes,\" Casey Neistat, who has 12.2 million subscribers on YouTube, said earlier this month.",
+         "title" : "Why a Dutch bicycle company just landed $40 million from venture capitalists - CNN",
+         "author" : "Matt McFarland, CNN Business",
+         "url" : "https://www.cnn.com/2020/09/16/cars/van-moof-ebikes/index.html",
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200916094119-01-van-moof-electric-bikes-super-tease.jpg",
          "publishedAt" : "2020-09-16T19:03:00Z",
          "source" : {
-            "name" : "New York Times",
-            "id" : null
-         },
-         "title" : "Americans Keep Spending, but Growth of Retail Sales Slows - The New York Times",
-         "urlToImage" : "https://static01.nyt.com/images/2020/09/16/business/16retailsales-1/16retailsales-1-facebookJumbo.jpg",
-         "description" : "Retail sales climbed 0.6 percent in August, but the increase was smaller than in previous months, prompting concerns of a recovery that is running out of steam."
+            "name" : "CNN",
+            "id" : "cnn"
+         }
       },
       {
-         "title" : "GM Unveils More Electric-Vehicle Technology. Here’s What That Means. - Barron's",
-         "url" : "https://www.barrons.com/articles/gm-unveils-electric-vehicle-technology-ultium-battery-heres-what-that-means-51600281098",
+         "content" : "WEST MILWAUKEE, Wis. —GE Healthcare announced Wednesday it is investing $50 million in its West Milwaukee facility.\r\nThe company said it intended to create a \"world-class, industry-leading product de… [+2921 chars]",
+         "description" : "The company said it intended to create a \"world-class, industry-leading product development and manufacturing campus for medical imaging.\"",
+         "title" : "GE Healthcare moving jobs to new $50M site in West Milwaukee - WISN Milwaukee",
+         "url" : "https://www.wisn.com/article/ge-healthcare-moving-jobs-to-new-dollar50m-site-in-west-milwaukee/34041465",
+         "author" : null,
+         "urlToImage" : "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/ge-west-milwaukee-1600271608.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
+         "publishedAt" : "2020-09-16T19:00:00Z",
          "source" : {
-            "name" : "Barron's",
+            "name" : "WISN Milwaukee",
             "id" : null
-         },
-         "publishedAt" : "2020-09-16T18:33:00Z",
-         "author" : "Al Root",
-         "content" : "General Motorsunveiled its Ultium Drive on Wednesday. It sounds high-tech, but it isnt science fiction. Ultium is a solution for todays electric-vehicle market and amounts to a set of five interchang… [+2619 chars]",
-         "urlToImage" : "https://images.barrons.com/im-232849/social",
-         "description" : ""
+         }
       },
       {
-         "urlToImage" : "https://images.barrons.com/im-232850/social",
-         "description" : "",
-         "title" : "Tesla Stock Could Be Worth $100 Billion More Thanks to One Thing: Batteries - Barron's",
-         "url" : "https://www.barrons.com/articles/tesla-stock-could-be-worth-100-billion-more-thanks-to-one-thing-batteries-51600279556",
-         "publishedAt" : "2020-09-16T18:05:00Z",
+         "publishedAt" : "2020-09-16T18:57:00Z",
+         "source" : {
+            "name" : "The Wall Street Journal",
+            "id" : "the-wall-street-journal"
+         },
+         "title" : "Oil Rallies on Surprise Supply Drop - The Wall Street Journal",
+         "author" : "David Hodari",
+         "url" : "https://www.wsj.com/articles/oil-rallies-on-surprise-supply-drop-11600254923",
+         "urlToImage" : "https://images.wsj.net/im-232678/social",
+         "description" : "U.S. crude inventories fell by 9.5 million barrels last week despite expectations they would rise",
+         "content" : "Oil prices climbed Wednesday, after unexpectedly upbeat U.S. inventory numbers extended a rally that began Tuesday.\r\nBrent crude, the global benchmark of prices, rose 4.2% to $42.36 a barrel and West… [+250 chars]"
+      },
+      {
          "source" : {
             "id" : null,
             "name" : "Barron's"
          },
+         "publishedAt" : "2020-09-16T18:33:00Z",
+         "urlToImage" : "https://images.barrons.com/im-232849/social",
+         "author" : "Al Root",
+         "url" : "https://www.barrons.com/articles/gm-unveils-electric-vehicle-technology-ultium-battery-heres-what-that-means-51600281098",
+         "title" : "GM Unveils More Electric-Vehicle Technology. Here’s What That Means. - Barron's",
+         "description" : "",
+         "content" : "General Motorsunveiled its Ultium Drive on Wednesday. It sounds high-tech, but it isnt science fiction. Ultium is a solution for todays electric-vehicle market and amounts to a set of five interchang… [+2619 chars]"
+      },
+      {
+         "publishedAt" : "2020-09-16T18:08:00Z",
+         "source" : {
+            "name" : "New York Post",
+            "id" : null
+         },
+         "title" : "Amazon plans to open 1,500 warehouses in US suburbs - New York Post ",
+         "author" : "Lisa Fickenscher",
+         "url" : "https://nypost.com/2020/09/16/amazon-plans-to-open-1500-warehouses-in-us-suburbs/",
+         "urlToImage" : "https://nypost.com/wp-content/uploads/sites/2/2020/09/amazon-eyes-1500-warehouses-e1600279520853.jpg?quality=90&strip=all&w=1200",
+         "content" : "Amazon aims to open as many as 1,500 small warehouses across the US — many of them in suburban locations — as it raises the stakes in its battle against Walmart, according to report.\r\nThe Seattle-bas… [+1499 chars]",
+         "description" : "Amazon aims to open as many as 1,500 small warehouses across the US — many of them in suburban locations — as it raises the stakes in its battle against Walmart, according to report. Th…"
+      },
+      {
+         "urlToImage" : "https://images.barrons.com/im-232850/social",
+         "url" : "https://www.barrons.com/articles/tesla-stock-could-be-worth-100-billion-more-thanks-to-one-thing-batteries-51600279556",
+         "author" : "Al Root",
+         "title" : "Tesla Stock Could Be Worth $100 Billion More Thanks to One Thing: Batteries - Barron's",
+         "source" : {
+            "name" : "Barron's",
+            "id" : null
+         },
+         "publishedAt" : "2020-09-16T18:05:00Z",
          "content" : "Credit Suisse analyst Dan Levy increased his price target for \r\n Tesla\r\n stock to $400 from $280 Wednesday, a 40% jump that works out to more than $100 billion in additional market value. His reasoni… [+2954 chars]",
-         "author" : "Al Root"
+         "description" : ""
       },
       {
-         "urlToImage" : "https://cnet3.cbsistatic.com/img/syvvG-eudfTat6xA0buFgixKFpg=/1200x630/2020/09/06/c5212942-d0f4-41c8-8014-b20e4bed3599/money-dollar-bills-cash-stimulus-taxes-covid-coronavirus-america-7039.jpg",
-         "description" : "Millions of people didn't get the original stimulus check from the IRS, here's how to find out if you're one of them and how to request it.",
-         "url" : "https://www.cnet.com/personal-finance/if-you-dont-file-taxes-the-irs-could-still-owe-you-a-1200-stimulus-check-how-to-claim-it/",
-         "source" : {
-            "id" : null,
-            "name" : "CNET"
-         },
-         "publishedAt" : "2020-09-16T18:00:00Z",
          "content" : "The IRS this month will contact 9 million Americans who may still be owed stimulus money.\r\nAngela Lang/CNET\r\nAmerica is still waiting for Washington lawmakers to strike a deal on a new coronavirus re… [+2289 chars]",
+         "description" : "Millions of people didn't get the original stimulus check from the IRS, here's how to find out if you're one of them and how to request it.",
+         "urlToImage" : "https://cnet3.cbsistatic.com/img/syvvG-eudfTat6xA0buFgixKFpg=/1200x630/2020/09/06/c5212942-d0f4-41c8-8014-b20e4bed3599/money-dollar-bills-cash-stimulus-taxes-covid-coronavirus-america-7039.jpg",
+         "title" : "If you don't file taxes, the IRS could still owe you a $1,200 stimulus check. How to claim it - CNET",
+         "url" : "https://www.cnet.com/personal-finance/if-you-dont-file-taxes-the-irs-could-still-owe-you-a-1200-stimulus-check-how-to-claim-it/",
          "author" : "Clifford Colby",
-         "title" : "If you don't file taxes, the IRS could still owe you a $1,200 stimulus check. How to claim it - CNET"
-      },
-      {
-         "content" : null,
-         "author" : "CNBC.com staff",
-         "url" : "https://www.cnbc.com/2020/09/16/stock-market-live-updates-stock-futures-jump-fed-meeting-on-deck-biggest-ipo-of-the-year.html",
          "source" : {
-            "name" : "CNBC",
+            "name" : "CNET",
             "id" : null
          },
-         "publishedAt" : "2020-09-16T17:54:00Z",
-         "title" : "Stock market live updates: Dow up 200, Fed meeting on deck, Snowflake doubles in massive IPO - CNBC",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106552011-1590501679731preview.jpg?v=1599677493",
-         "description" : "Stocks advanced Wednesday ahead of a key Federal Reserve policy announcement, but tech stocks dragged the market down in afternoon trading."
+         "publishedAt" : "2020-09-16T18:00:00Z"
       },
       {
-         "urlToImage" : "https://s.yimg.com/uu/api/res/1.2/110LaD_FuVlTsuj0lfjzkg--~B/aD03MjA7dz0xMjgwO3NtPTE7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/hd/cp-video-transcode/prod/2020-09/16/5f62502fe7e29037aeb7caf1/5f62502fe7e29037aeb7caf2_o_U_v2.jpg",
-         "description" : "Marco Rubio and five other Republican senators called on the Trump administration to reject a proposed deal for Oracle  to become a \"trusted technology ...",
-         "title" : "Senator Rubio asks Trump to reject the Oracle, TikTok deal - Yahoo News",
-         "publishedAt" : "2020-09-16T17:49:00Z",
+         "content" : "Amazon is kicking off its virtual job fair Wednesday, with 33,000 work-from-home corporate and tech roles available.\r\n“Fueled by demand from our customers, we’ve been privileged to continue to create… [+2628 chars]",
+         "description" : "Amazon is kicking off its virtual job fair Wednesday, with 33,000 work-from-home corporate and tech roles available.",
+         "urlToImage" : "https://ktla.com/wp-content/uploads/sites/4/2020/09/GettyImages-696679794.jpg?w=1280",
+         "author" : "Nexstar Media Wire",
+         "url" : "https://ktla.com/news/nationworld/amazon-kicks-off-career-fair-set-to-fill-33k-remote-jobs-averaging-150k/",
+         "title" : "Amazon kicks off career fair Wednesday, set to fill 33K remote jobs averaging $150K - KTLA",
          "source" : {
             "id" : null,
-            "name" : "Yahoo Entertainment"
+            "name" : "KTLA Los Angeles"
          },
-         "url" : "https://news.yahoo.com/senator-rubio-asks-trump-reject-174932916.html",
-         "content" : "Marco Rubio and five other Republican senators called on the Trump administration to reject a proposed deal for Oracle to become a \"trusted technology provider\" for popular social media platform TikT… [+62 chars]",
-         "author" : "Yahoo News Video"
-      },
-      {
-         "urlToImage" : "https://i.insider.com/5f61d793323fc4001e0d6811?format=jpeg",
-         "description" : "The OECD warns the world economy will collapse by 4.5% this year, in its worst slowdown since World War Two",
-         "title" : "The OECD warns the world economy will collapse by 4.5% this year, in its worst slowdown since World War Two | Markets - Business Insider",
-         "author" : "Shalini Nagarajan",
-         "content" : "SOPA Images/Getty\r\n<ul><li>The world economy will collapse by 4.5% this year despite a swift recovery from the COVID-19 pandemic, according to the Organization for Economic Cooperation and Developmen… [+3416 chars]",
-         "url" : "https://www.businessinsider.com/world-economy-worst-collapse-since-ww2-2020-9",
-         "source" : {
-            "name" : "Business Insider",
-            "id" : "business-insider"
-         },
-         "publishedAt" : "2020-09-16T17:12:00Z"
-      },
-      {
-         "urlToImage" : "https://s.yimg.com/uu/api/res/1.2/b3U8iTtsuNeHwMwRvISuMQ--~B/aD0xMjg7dz0xOTM7c209MTthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2020-09/ab7f2a00-f83e-11ea-bafb-e3223a23a65c",
-         "description" : "Snowflake (SNOW) is soaring 130% during its first minutes of trading on Wednesday. The stock opened at $245 a share. That’s more than double its IPO price of $120.",
-         "url" : "https://finance.yahoo.com/news/snowflake-ipo-how-the-stock-is-trading-on-its-debut-165844442.html",
-         "publishedAt" : "2020-09-16T16:58:00Z",
-         "source" : {
-            "id" : null,
-            "name" : "Yahoo Entertainment"
-         },
-         "author" : "Ines Ferré",
-         "content" : "Snowflake (SNOW) shares soared over 130% during its first minutes of trading on Wednesday, and ended the session at $255.45. The stock opened at $245 a share. Thats more than double its IPO price of … [+2146 chars]",
-         "title" : "Snowflake IPO: How the stock is trading on its debut - Yahoo Finance"
-      },
-      {
-         "urlToImage" : "https://static01.nyt.com/images/2020/09/16/science/16VIRUS-VACCINE-FREE/16VIRUS-VACCINE-FREE-facebookJumbo.jpg",
-         "description" : "Despite the president’s statements about military involvement in the vaccine rollout, officials said that for most people, “there will be no federal official who touches any of this vaccine.”",
-         "source" : {
-            "name" : "New York Times",
-            "id" : null
-         },
-         "publishedAt" : "2020-09-16T16:53:00Z",
-         "url" : "https://www.nytimes.com/2020/09/16/health/covid-vaccines-free.html",
-         "content" : "Federal officials outlined details Wednesday of their preparations to administer a future coronavirus vaccine to Americans, saying they would begin distribution within 24 hours of any approval or eme… [+1370 chars]",
-         "author" : "Katie Thomas",
-         "title" : "Covid-19 Vaccines Will Be Free for Americans, Warp Speed Officials Say - The New York Times"
-      },
-      {
-         "urlToImage" : "https://www.kitco.com/news/2020-09-16/images/goldchart_0916_pm.png",
-         "description" : "Senior Technical Analyst Jim Wyckoff prepares investors with an overview of how the markets opened and closed. What moved metal prices? How do the technicals look? By looking at important developments",
-         "author" : "http://www.facebook.com/kitconews",
-         "content" : "Editor's Note: With so much market volatility, stay on top of daily news! Get caught up in minutes with our speedy summary of today's must-read news and expert opinions. Sign up here! \r\n(Kitco News) … [+3490 chars]",
-         "publishedAt" : "2020-09-16T16:46:00Z",
-         "source" : {
-            "id" : null,
-            "name" : "Kitco NEWS"
-         },
-         "url" : "https://www.kitco.com/news/2020-09-16/Gold-silver-firmer-as-marketplace-awaits-FOMC.html",
-         "title" : "Gold, silver firmer as marketplace awaits FOMC - Kitco NEWS"
-      },
-      {
-         "url" : "https://cointelegraph.com/news/bitcoin-price-finally-breaks-11k-as-traders-assess-btcs-next-move",
-         "source" : {
-            "id" : null,
-            "name" : "Cointelegraph"
-         },
-         "publishedAt" : "2020-09-16T16:30:00Z",
-         "content" : "The price of Bitcoin (BTC) broke above $11,000 at last, after 13 days within a tight range. But this time, the market dynamic is different because Ether (ETH) and most decentralized finance tokens ar… [+6119 chars]",
-         "author" : "Joseph Young",
-         "title" : "Bitcoin price finally breaks $11K as traders assess BTC’s next move - Cointelegraph",
-         "urlToImage" : "https://s3.cointelegraph.com/storage/uploads/view/4cd141bff17e684207c1590002ce1068.jpg",
-         "description" : "The price of Bitcoin surged past $11,000 for the first time in 13 days as traders discuss where BTC is headed next"
-      },
-      {
-         "author" : null,
-         "content" : "Net metering allows residential and commercial customers who generate their own electricity from solar power to sell the electricity they aren’t using back into the grid. That saves money on electric… [+4017 chars]",
-         "url" : "https://electrek.co/2020/09/16/florida-utilities-want-to-gut-solar-heres-why/",
-         "source" : {
-            "id" : null,
-            "name" : "Electrek"
-         },
-         "publishedAt" : "2020-09-16T16:24:00Z",
-         "title" : "Florida utilities want to gut solar. Here’s why - Electrek",
-         "urlToImage" : "https://electrek.co/wp-content/uploads/sites/3/2016/12/solar-florida-e1480601913796.jpg?quality=82&strip=all",
-         "description" : "Net metering allows solar power electricity to be sold back to the grid. But Florida utilities want to roll net metering back. There's a hearing tomorrow."
-      },
-      {
-         "urlToImage" : "https://g.foolcdn.com/editorial/images/591913/auditor-in-business-suit-examines-financial-records-with-a-pen-and-a-magnifying-glass.jpg",
-         "description" : "A company-sponsored probe into possible insider trading sees no wrongdoing, but it's not time to celebrate just yet.",
-         "title" : "Why Eastman Kodak Stock Rocketed 83% This Morning - Motley Fool",
-         "author" : "Rich Smith",
-         "content" : "What happened\r\nShares of erstwhile camera-film giant Eastman Kodak (NYSE:KODK) exploded out of the gate this morning, rocketing 83% higher before pausing to catch their breath and retracing a bit. As… [+1668 chars]",
-         "publishedAt" : "2020-09-16T16:10:00Z",
-         "source" : {
-            "name" : "Motley Fool",
-            "id" : null
-         },
-         "url" : "https://www.fool.com/investing/2020/09/16/why-eastman-kodak-stock-rocketed-83-this-morning/"
-      },
-      {
-         "title" : "AT&T wants to put ads on your smartphone in exchange for $5 discount - Ars Technica",
-         "content" : "Enlarge/ An AT&amp;T sign outside a company office in New York City.\r\n136 with 103 posters participating\r\nAT&amp;T CEO John Stankey said the company may offer cellphone plans subsidized by advertisin… [+5397 chars]",
-         "author" : "Jon Brodkin",
-         "source" : {
-            "id" : "ars-technica",
-            "name" : "Ars Technica"
-         },
-         "publishedAt" : "2020-09-16T16:05:00Z",
-         "url" : "https://arstechnica.com/tech-policy/2020/09/att-wants-to-put-ads-on-your-smartphone-in-exchange-for-5-discount/",
-         "description" : "AT&T CEO: Customers would accept targeted ads if given $5 or $10 price cut.",
-         "urlToImage" : "https://cdn.arstechnica.net/wp-content/uploads/2019/10/getty-att-sign-760x380.jpg"
-      },
-      {
-         "urlToImage" : "https://d32r1sh890xpii.cloudfront.net/article/718x300/2020-09-16_csvzbcsoez.jpg",
-         "description" : "Vitol Group, the world's largest independent oil trader, expects global oil inventories to continue drawing down for the rest of the year, unlike its rivals",
-         "title" : "World's No.1 Oil Trader Sees Crude Inventories Shrinking This Year - OilPrice.com",
-         "url" : "https://oilprice.com/Energy/Crude-Oil/Worlds-No1-Oil-Trader-Sees-Crude-Inventories-Shrinking-This-Year.html",
-         "source" : {
-            "name" : "OilPrice.com",
-            "id" : null
-         },
-         "publishedAt" : "2020-09-16T16:00:00Z",
-         "author" : "Tsvetana Paraskova",
-         "content" : "The International Energy Agency (IEA)…\r\nOil prices continued to rally…\r\nIn May, June and July,…\r\nBy Tsvetana Paraskova - Sep 16, 2020, 11:00 AM CDTVitol Group, the world’s largest independent oil tra… [+2005 chars]"
-      },
-      {
-         "title" : "Chuck E. Cheese wants to destroy 7 billion prize tickets - CNN",
-         "author" : "Chris Isidore, CNN Business",
-         "content" : null,
-         "publishedAt" : "2020-09-16T15:56:00Z",
-         "source" : {
-            "name" : "CNN",
-            "id" : "cnn"
-         },
-         "url" : "https://www.cnn.com/2020/09/16/business/chuck-e-cheese-prize-tickets/index.html",
-         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200916102055-chuck-e-cheese-prize-wall-file-super-tease.jpg",
-         "description" : "This might qualify as a kid's wildest dream: a mountain of 7 billion Chuck E. Cheese prize tickets."
-      },
-      {
-         "urlToImage" : "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/covid-positive-.jpg",
-         "description" : "Thousands of North Carolina residents were recently told they had positive coronavirus tests, but it was a mistake.",
-         "author" : "Amy McGorry",
-         "content" : "Thousands of North Carolina residents were recently told they had positive coronavirus tests, but it was a mistake.\r\nMore than 6,700 individuals in Mecklenburg County in North Carolina were told in a… [+2747 chars]",
-         "publishedAt" : "2020-09-16T15:44:51Z",
-         "source" : {
-            "id" : "fox-news",
-            "name" : "Fox News"
-         },
-         "url" : "https://www.foxnews.com/health/thousands-north-carolina-residents-incorrectly-told-coronavirus-positive",
-         "title" : "Thousands of North Carolina residents incorrectly told they had coronavirus - Fox News"
-      },
-      {
-         "title" : "Kraft Heinz CEO: Warren Buffett's top two lieutenants on our board liked our $3.2 billion deal - Yahoo Finance",
-         "publishedAt" : "2020-09-16T15:31:00Z",
-         "source" : {
-            "name" : "Yahoo Entertainment",
-            "id" : null
-         },
-         "url" : "https://finance.yahoo.com/news/kraft-heinz-ceo-warren-buffetts-top-two-lieutenants-on-our-board-liked-our-32-billion-deal-153151409.html",
-         "content" : "One of Kraft Heinz CEO Miguel Patricios first big moves since taking the top job in July 2019 got the blessing of two of the food giants arguably most important board members.\r\nAt the companys long-a… [+3064 chars]",
-         "author" : "Brian Sozzi",
-         "urlToImage" : "https://s.yimg.com/uu/api/res/1.2/2RvwxQSGOkupRnvkoUbzQg--~B/aD0yOTUxO3c9NDQ4ODtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2020-09/6ed2ede0-f76b-11ea-8756-acfb4359b42f",
-         "description" : "Yahoo Finance chats with Kraft Heinz CEO Miguel Patricio about his new plan to overhaul the food giant."
+         "publishedAt" : "2020-09-16T17:52:00Z"
       }
    ],
-   "totalResults" : 70
+   "totalResults" : 70,
+   "status" : "ok"
 }
