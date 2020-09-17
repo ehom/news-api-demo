@@ -1,266 +1,266 @@
 {
-   "status" : "ok",
    "totalResults" : 70,
+   "status" : "ok",
    "articles" : [
       {
-         "content" : "Teslas Battery Day has been hyped so much that the event will have to include something truly amazing to live up to its expectations. In the lead up to the highly-anticipated event, a leaked image fe… [+3714 chars]",
-         "source" : {
-            "name" : "Teslarati",
-            "id" : null
-         },
-         "description" : "Tesla’s Battery Day has been hyped so much that the event will have to include something truly amazing to live up to its expectations. In the lead up to the highly-anticipated event, a leaked image featuring what is supposedly a cell from Tesla’s “Roadrunner”…",
-         "url" : "https://www.teslarati.com/tesla-roadrunner-battery-day-leak-analysis-video/",
-         "author" : "https://www.facebook.com/sim.alva",
          "title" : "Tesla ‘Roadrunner’ cell leak hints that Battery Day will be more insane than expected - Teslarati",
+         "urlToImage" : "https://www.teslarati.com/wp-content/uploads/2020/07/gigafactory-1-battery-cell-line-1.jpg",
          "publishedAt" : "2020-09-17T07:14:58Z",
-         "urlToImage" : "https://www.teslarati.com/wp-content/uploads/2020/07/gigafactory-1-battery-cell-line-1.jpg"
+         "source" : {
+            "id" : null,
+            "name" : "Teslarati"
+         },
+         "url" : "https://www.teslarati.com/tesla-roadrunner-battery-day-leak-analysis-video/",
+         "content" : "Teslas Battery Day has been hyped so much that the event will have to include something truly amazing to live up to its expectations. In the lead up to the highly-anticipated event, a leaked image fe… [+3714 chars]",
+         "description" : "Tesla’s Battery Day has been hyped so much that the event will have to include something truly amazing to live up to its expectations. In the lead up to the highly-anticipated event, a leaked image featuring what is supposedly a cell from Tesla’s “Roadrunner”…",
+         "author" : "https://www.facebook.com/sim.alva"
       },
       {
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106705379-1600282445819-gettyimages-1228548318-364704684_1-2.jpeg?v=1600282500",
+         "url" : "https://www.cnbc.com/2020/09/17/european-stocks-react-to-fed-boj-boe-meetings.html",
          "publishedAt" : "2020-09-17T05:16:00Z",
-         "title" : "European stocks fall as markets react to Fed meeting - CNBC",
-         "content" : "European stocks retreated Thursday morning as investors around the world reacted to the latest U.S. Federal Reserve meeting.The pan-European Stoxx 600 dropped 0.8% in early trade, banks falling 1.8% … [+1932 chars]",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106705379-1600282445819-gettyimages-1228548318-364704684_1-2.jpeg?v=1600282500",
          "source" : {
             "id" : null,
             "name" : "CNBC"
          },
-         "url" : "https://www.cnbc.com/2020/09/17/european-stocks-react-to-fed-boj-boe-meetings.html",
+         "title" : "European stocks fall as markets react to Fed meeting - CNBC",
+         "author" : "Elliot Smith",
          "description" : "European stocks retreated Thursday morning as investors around the world reacted to the latest U.S. Federal Reserve meeting.",
-         "author" : "Elliot Smith"
+         "content" : "European stocks retreated Thursday morning as investors around the world reacted to the latest U.S. Federal Reserve meeting.The pan-European Stoxx 600 dropped 0.8% in early trade, banks falling 1.8% … [+1932 chars]"
       },
       {
-         "description" : "",
-         "url" : "https://www.billboard.com/articles/news/9449659/travis-scott-fined-crowded-mcdonalds-publicity-stunt",
          "author" : "Lars Brandle",
+         "description" : "",
          "content" : "Travis Scotts visit to a McDonald's restaurant in Downey, California went down a treat with fans. The police, not so much.\r\nScott has reportedly been fined for the promotional stop, which gathered sc… [+1109 chars]",
-         "source" : {
-            "name" : "Billboard",
-            "id" : null
-         },
-         "title" : "Travis Scott Reportedly Fined for Crowded McDonald's Publicity Stunt - Billboard",
          "publishedAt" : "2020-09-17T03:20:35Z",
-         "urlToImage" : "https://static.billboard.com/files/media/travis-scott-rolling-loud-fest-2019-billboard-1548-1024x677.jpg"
+         "url" : "https://www.billboard.com/articles/news/9449659/travis-scott-fined-crowded-mcdonalds-publicity-stunt",
+         "urlToImage" : "https://static.billboard.com/files/media/travis-scott-rolling-loud-fest-2019-billboard-1548-1024x677.jpg",
+         "source" : {
+            "id" : null,
+            "name" : "Billboard"
+         },
+         "title" : "Travis Scott Reportedly Fined for Crowded McDonald's Publicity Stunt - Billboard"
       },
       {
+         "author" : "The Associated Press",
+         "content" : "A looming U.S. ban on the Chinese app WeChat won't target people who use the app to communicate, according to a government court filing Wednesday.\r\nPresident Donald Trump issued orders on August 6 th… [+1775 chars]",
+         "description" : "The U.S. government's filing said that using and downloading the app to communicate won't be a banned transaction, although messaging on the app could be \"directly or indirectly impaired\" by the ban.",
+         "publishedAt" : "2020-09-17T02:10:00Z",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106654920-1596838940110-gettyimages-1227950026-363861058_1-3.jpeg?v=1600308012",
+         "url" : "https://www.cnbc.com/2020/09/17/us-government-says-upcoming-wechat-ban-wont-target-users.html",
          "source" : {
             "name" : "CNBC",
             "id" : null
          },
-         "content" : "A looming U.S. ban on the Chinese app WeChat won't target people who use the app to communicate, according to a government court filing Wednesday.\r\nPresident Donald Trump issued orders on August 6 th… [+1775 chars]",
-         "url" : "https://www.cnbc.com/2020/09/17/us-government-says-upcoming-wechat-ban-wont-target-users.html",
-         "description" : "The U.S. government's filing said that using and downloading the app to communicate won't be a banned transaction, although messaging on the app could be \"directly or indirectly impaired\" by the ban.",
-         "author" : "The Associated Press",
-         "title" : "U.S. government says upcoming WeChat ban won't target users - CNBC",
-         "publishedAt" : "2020-09-17T02:10:00Z",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106654920-1596838940110-gettyimages-1227950026-363861058_1-3.jpeg?v=1600308012"
+         "title" : "U.S. government says upcoming WeChat ban won't target users - CNBC"
       },
       {
-         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/09/0/0/nyc-restaurant-video-grab.jpg?ve=1&tl=1",
-         "publishedAt" : "2020-09-17T01:52:56Z",
-         "title" : "NYC restaurants can add 10% ‘COVID-19 Recovery Charge’ to customers’ bills - Fox Business",
          "source" : {
             "id" : null,
             "name" : "Fox Business"
          },
-         "content" : "A new bill from the New York City Council could help out restaurants -- but at a price for diners.\r\nOn Wednesday, the council approved a law that allows restaurants to add a “COVID-19 Recovery Charge… [+3042 chars]",
-         "description" : "The New York City Council passed a law that allowed restaurants to add a 10 percent charge on customers’ bill in order to provide some relief in the wake of the pandemic.",
+         "publishedAt" : "2020-09-17T01:52:56Z",
+         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/09/0/0/nyc-restaurant-video-grab.jpg?ve=1&tl=1",
          "url" : "https://www.foxbusiness.com/lifestyle/nyc-restaurants-covid-recovery-charge-bill-passed",
-         "author" : "Ann Schmidt"
+         "title" : "NYC restaurants can add 10% ‘COVID-19 Recovery Charge’ to customers’ bills - Fox Business",
+         "author" : "Ann Schmidt",
+         "content" : "A new bill from the New York City Council could help out restaurants -- but at a price for diners.\r\nOn Wednesday, the council approved a law that allows restaurants to add a “COVID-19 Recovery Charge… [+3042 chars]",
+         "description" : "The New York City Council passed a law that allowed restaurants to add a 10 percent charge on customers’ bill in order to provide some relief in the wake of the pandemic."
       },
       {
+         "content" : "Donald Trump has questioned plans by the Chinese tech firm ByteDance to keep a majority stake in TikToks US operations as part of a trusted technology deal with Oracle.\r\nConceptually I can tell you t… [+2940 chars]",
+         "description" : "President warns any agreement to continue operating in US must be ‘100% as far as national security is concerned’",
+         "author" : "Guardian staff reporter",
+         "title" : "TikTok: Trump questions Oracle deal if ByteDance keeps stake - The Guardian",
+         "url" : "https://amp.theguardian.comtechnology/2020/sep/17/tiktok-trump-questions-oracle-deal-if-bytedance-keeps-stake",
          "publishedAt" : "2020-09-17T01:37:00Z",
          "urlToImage" : "https://i.guim.co.uk/img/media/04292743f294f00b079771292aa360a30f37eeb3/0_376_3200_1920/master/3200.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=cb2442f5ef27235f029df482166daf74",
-         "content" : "Donald Trump has questioned plans by the Chinese tech firm ByteDance to keep a majority stake in TikToks US operations as part of a trusted technology deal with Oracle.\r\nConceptually I can tell you t… [+2940 chars]",
          "source" : {
-            "name" : "Theguardian.comtechnology",
-            "id" : null
-         },
-         "url" : "https://amp.theguardian.comtechnology/2020/sep/17/tiktok-trump-questions-oracle-deal-if-bytedance-keeps-stake",
-         "author" : "Guardian staff reporter",
-         "description" : "President warns any agreement to continue operating in US must be ‘100% as far as national security is concerned’",
-         "title" : "TikTok: Trump questions Oracle deal if ByteDance keeps stake - The Guardian"
+            "id" : null,
+            "name" : "Theguardian.comtechnology"
+         }
       },
       {
-         "urlToImage" : "https://images.mktw.net/im-215412/social",
-         "publishedAt" : "2020-09-17T01:16:00Z",
-         "content" : "Amazon.com Inc. aims to open as many as 1,500 small warehouses across the U.S. many of them in suburban locations as it raises the stakes in its battle against Walmart, according to report.The Seattl… [+1610 chars]",
-         "source" : {
-            "name" : "MarketWatch",
-            "id" : null
-         },
          "author" : "By Lisa Fickenscher",
-         "url" : "https://www.marketwatch.com/story/amazon-looks-to-open-1-500-small-warehouses-in-u-s-suburbs-report-11600305391",
          "description" : "E-commerce giant ramping up its delivery capabilities",
+         "content" : "Amazon.com Inc. aims to open as many as 1,500 small warehouses across the U.S. many of them in suburban locations as it raises the stakes in its battle against Walmart, according to report.The Seattl… [+1610 chars]",
+         "publishedAt" : "2020-09-17T01:16:00Z",
+         "source" : {
+            "id" : null,
+            "name" : "MarketWatch"
+         },
+         "urlToImage" : "https://images.mktw.net/im-215412/social",
+         "url" : "https://www.marketwatch.com/story/amazon-looks-to-open-1-500-small-warehouses-in-u-s-suburbs-report-11600305391",
          "title" : "Amazon looks to open 1500 small warehouses in U.S. suburbs: report - MarketWatch"
       },
       {
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106703491-1600193499455-gettyimages-1204847080-154039201.jpeg?v=1600193586",
          "publishedAt" : "2020-09-17T00:34:14Z",
-         "title" : "How this millennial millionaire manages 15 credit cards and his No. 1 piece of advice for beginners - CNBC",
-         "content" : "Todd Baldwin has enough credit card airline miles to travel round trip from Seattle to Europe for free. The 28-year-old millennial millionaire loves to open new credit cards, especially those with si… [+6896 chars]",
          "source" : {
-            "name" : "CNBC",
-            "id" : null
+            "id" : null,
+            "name" : "CNBC"
          },
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106703491-1600193499455-gettyimages-1204847080-154039201.jpeg?v=1600193586",
          "url" : "https://www.cnbc.com/select/managing-multiple-credit-cards-for-millennials/",
-         "description" : "Todd Baldwin has 15 credit cards, but uses them wisely. Here’s how he manages them and why he suggests you should get credit as early as possible.",
-         "author" : "Elizabeth Gravier"
+         "title" : "How this millennial millionaire manages 15 credit cards and his No. 1 piece of advice for beginners - CNBC",
+         "author" : "Elizabeth Gravier",
+         "content" : "Todd Baldwin has enough credit card airline miles to travel round trip from Seattle to Europe for free. The 28-year-old millennial millionaire loves to open new credit cards, especially those with si… [+6896 chars]",
+         "description" : "Todd Baldwin has 15 credit cards, but uses them wisely. Here’s how he manages them and why he suggests you should get credit as early as possible."
       },
       {
-         "title" : "What BP Got Wrong About Global Oil Demand - OilPrice.com",
-         "url" : "https://oilprice.com/Energy/Crude-Oil/What-BP-Got-Wrong-About-Global-Oil-Demand.html",
+         "content" : "Big oils major bet on…\r\nThe unusually large inventory of…\r\nVitol Group, the worlds largest…\r\nBy Cyril Widdershoven - Sep 16, 2020, 6:00 PM CDTEnvironmentalists around the world are having a field day… [+4198 chars]",
          "description" : "The recent BP Energy Outlook 2020 report shocked many in the industry with claims of peak oil demand, but the reality of the situation is quite different to how BP paints it",
          "author" : "Cyril Widdershoven",
-         "content" : "Big oils major bet on…\r\nThe unusually large inventory of…\r\nVitol Group, the worlds largest…\r\nBy Cyril Widdershoven - Sep 16, 2020, 6:00 PM CDTEnvironmentalists around the world are having a field day… [+4198 chars]",
+         "title" : "What BP Got Wrong About Global Oil Demand - OilPrice.com",
+         "url" : "https://oilprice.com/Energy/Crude-Oil/What-BP-Got-Wrong-About-Global-Oil-Demand.html",
+         "publishedAt" : "2020-09-16T23:00:00Z",
+         "urlToImage" : "https://d32r1sh890xpii.cloudfront.net/article/718x300/2020-09-16_fc4pxqj1si.jpg",
          "source" : {
             "name" : "OilPrice.com",
             "id" : null
-         },
-         "publishedAt" : "2020-09-16T23:00:00Z",
-         "urlToImage" : "https://d32r1sh890xpii.cloudfront.net/article/718x300/2020-09-16_fc4pxqj1si.jpg"
+         }
       },
       {
+         "author" : null,
+         "content" : "September 16, 2020 5:43 PM\r\nPosted: September 16, 2020 5:43 PM\r\nCNN image\r\nThe Powerball lottery pot is $430 million, and the top Mega Millions prize is $970 million.\r\nMADISON, Wis. — A lucky winner … [+660 chars]",
+         "description" : "A lucky winner has hit the Mega Millions jackpot in Mount Pleasant, Wisconsin.",
          "publishedAt" : "2020-09-16T22:43:00Z",
          "urlToImage" : "https://wpcdn.us-east-1.vip.tn-cloud.net/www.channel3000.com/content/uploads/2019/11/CHANNEL-3000-3RD-GENERIC_1549226262024.jpg_31888764_ver1.0_1280_720.jpg",
-         "title" : "$119 million Mega Millions lottery ticket sold in Wisconsin - Channel3000.com - WISC-TV3",
          "source" : {
             "id" : null,
             "name" : "Channel3000.com - WISC-TV3"
          },
-         "content" : "September 16, 2020 5:43 PM\r\nPosted: September 16, 2020 5:43 PM\r\nCNN image\r\nThe Powerball lottery pot is $430 million, and the top Mega Millions prize is $970 million.\r\nMADISON, Wis. — A lucky winner … [+660 chars]",
-         "description" : "A lucky winner has hit the Mega Millions jackpot in Mount Pleasant, Wisconsin.",
          "url" : "https://www.channel3000.com/119-million-mega-millions-lottery-ticket-sold-in-wisconsin/",
-         "author" : null
+         "title" : "$119 million Mega Millions lottery ticket sold in Wisconsin - Channel3000.com - WISC-TV3"
       },
       {
+         "title" : "Stock market news live updates: Stock futures little changed after Fed signals rates on hold until at least 2023 - Yahoo Finance",
+         "publishedAt" : "2020-09-16T22:30:00Z",
+         "urlToImage" : "https://s.yimg.com/ny/api/res/1.2/SemDhGpi3iErUYxavFsvsQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyODA7aD04NTMuMzMzMzMzMzMzMzMzNA--/https://s.yimg.com/uu/api/res/1.2/_CovYvZGzB9_KOm.jgHe0Q--~B/aD00MzU3O3c9NjUzNTtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2020-09/5a535450-f864-11ea-bf6f-58b15b081d6d",
+         "url" : "https://finance.yahoo.com/news/stock-market-news-live-september-17-2020-223005390.html",
          "source" : {
-            "id" : null,
-            "name" : "Yahoo Entertainment"
+            "name" : "Yahoo Entertainment",
+            "id" : null
          },
          "content" : "Did the stock markets epic rally just need a little breather? The last few weeks have seen stocks experience their first meaningful correction since the bull market kicked off in March. Now, the ques… [+10203 chars]",
-         "url" : "https://finance.yahoo.com/news/stock-market-news-live-september-17-2020-223005390.html",
          "description" : "Stock futures were little changed as market participants continued to parse through the Federal Reserve’s September monetary policy announcement.",
-         "author" : "Emily McCormick",
-         "title" : "Stock market news live updates: Stock futures little changed after Fed signals rates on hold until at least 2023 - Yahoo Finance",
-         "urlToImage" : "https://s.yimg.com/ny/api/res/1.2/SemDhGpi3iErUYxavFsvsQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyODA7aD04NTMuMzMzMzMzMzMzMzMzNA--/https://s.yimg.com/uu/api/res/1.2/_CovYvZGzB9_KOm.jgHe0Q--~B/aD00MzU3O3c9NjUzNTtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2020-09/5a535450-f864-11ea-bf6f-58b15b081d6d",
-         "publishedAt" : "2020-09-16T22:30:00Z"
+         "author" : "Emily McCormick"
       },
       {
+         "title" : "AT&T thinks you might watch ads in exchange for a cheaper phone plan - CNN",
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200916162957-att-phone-file-restricted-super-tease.jpg",
+         "publishedAt" : "2020-09-16T22:04:00Z",
+         "url" : "https://www.cnn.com/2020/09/16/tech/att-wireless-advertising-offset/index.html",
          "source" : {
             "name" : "CNN",
             "id" : "cnn"
          },
-         "content" : null,
-         "author" : "Shannon Liao, CNN Business",
-         "url" : "https://www.cnn.com/2020/09/16/tech/att-wireless-advertising-offset/index.html",
          "description" : "AT&T is considering offering wireless phone plans partially paid for by advertising, CEO John Stankey said Tuesday.",
-         "title" : "AT&T thinks you might watch ads in exchange for a cheaper phone plan - CNN",
-         "publishedAt" : "2020-09-16T22:04:00Z",
-         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200916162957-att-phone-file-restricted-super-tease.jpg"
+         "content" : null,
+         "author" : "Shannon Liao, CNN Business"
       },
       {
          "title" : "SCDEW implementing Lost Wages Assistance program benefits - WLTX.com",
-         "author" : "Nic Jones",
          "url" : "https://www.wltx.com/article/news/health/coronavirus/scdew-still-working-on-implementing-lost-wages-assistance-program-benefits-into-system/101-bf4b1803-d5fb-4b00-8902-8de434fc1b32",
-         "description" : "On September 1, the state was approved by FEMA for the Lost Wages Assistance (LWA) program. This would provide $300 in federal wage benefits.",
-         "content" : "COLUMBIA, S.C. The South Carolina Department of Employment and Workforce (SCDEW) is working on implementing the Lost Wages Assistance program that will provide additional benefits to those affected b… [+2585 chars]",
+         "publishedAt" : "2020-09-16T21:42:00Z",
+         "urlToImage" : "https://media.wltx.com/assets/WLTX/images/50957fb2-2994-40c5-984a-42f85304f70e/50957fb2-2994-40c5-984a-42f85304f70e_1140x641.jpg",
          "source" : {
             "id" : null,
             "name" : "WLTX.com"
          },
-         "publishedAt" : "2020-09-16T21:42:00Z",
-         "urlToImage" : "https://media.wltx.com/assets/WLTX/images/50957fb2-2994-40c5-984a-42f85304f70e/50957fb2-2994-40c5-984a-42f85304f70e_1140x641.jpg"
+         "description" : "On September 1, the state was approved by FEMA for the Lost Wages Assistance (LWA) program. This would provide $300 in federal wage benefits.",
+         "content" : "COLUMBIA, S.C. The South Carolina Department of Employment and Workforce (SCDEW) is working on implementing the Lost Wages Assistance program that will provide additional benefits to those affected b… [+2585 chars]",
+         "author" : "Nic Jones"
       },
       {
          "publishedAt" : "2020-09-16T21:33:00Z",
+         "url" : "https://boingboing.net/2020/09/16/mountain-dew-and-red-lobster-u.html",
          "urlToImage" : "https://i0.wp.com/boingboing.net/wp-content/uploads/2020/09/0-28.jpg?fit=480%2C360&ssl=1",
          "source" : {
             "id" : null,
             "name" : "Boing Boing"
          },
-         "content" : "This study recently published by the Journal of the American Medical Association says no to drinking soft drinks. I am sure many folks will read this as \"do not drink soft drinks in those 10 European… [+1802 chars]",
-         "url" : "https://boingboing.net/2020/09/16/mountain-dew-and-red-lobster-u.html",
-         "description" : "Mountain Dew and Red Lobster have jointly crafted the Dew Garita. The first official Mountain Dew cocktail will soon be available at Red Lobster.The “Dew Garita” will be rolling out to …",
+         "title" : "Mountain Dew and Red Lobster unveil collaborative cocktail; Doomsday clock unchanged - Boing Boing",
          "author" : null,
-         "title" : "Mountain Dew and Red Lobster unveil collaborative cocktail; Doomsday clock unchanged - Boing Boing"
+         "description" : "Mountain Dew and Red Lobster have jointly crafted the Dew Garita. The first official Mountain Dew cocktail will soon be available at Red Lobster.The “Dew Garita” will be rolling out to …",
+         "content" : "This study recently published by the Journal of the American Medical Association says no to drinking soft drinks. I am sure many folks will read this as \"do not drink soft drinks in those 10 European… [+1802 chars]"
       },
       {
-         "author" : "Rich Smith",
-         "url" : "https://www.fool.com/investing/2020/09/16/why-carnival-corporation-royal-caribbean-and-norwe/",
          "description" : "What went down (yesterday) just came back up (today).",
          "content" : "What happened\r\nShares of major cruise line stocks Carnival Corporation(NYSE:CCL)(NYSE:CUK), Royal Caribbean(NYSE:RCL), and Norwegian Cruise Line Holdings(NASDAQ:NCLH) all took a bath yesterday -- the… [+2162 chars]",
-         "source" : {
-            "name" : "Motley Fool",
-            "id" : null
-         },
+         "author" : "Rich Smith",
          "title" : "Why Carnival Corporation, Royal Caribbean, and Norwegian Cruise Line Holdings Stocks Bounced Back Wednesday - The Motley Fool",
+         "url" : "https://www.fool.com/investing/2020/09/16/why-carnival-corporation-royal-caribbean-and-norwe/",
          "publishedAt" : "2020-09-16T20:31:00Z",
-         "urlToImage" : "https://g.foolcdn.com/editorial/images/591965/3-cruise-liner-ships-lined-up-abreast-in-port.jpg"
-      },
-      {
-         "urlToImage" : "https://s3.cointelegraph.com/storage/uploads/view/cad2a18418cd7b50d472bd0cc253601f.jpg",
-         "publishedAt" : "2020-09-16T20:30:00Z",
-         "title" : "Price analysis 9/16: BTC, ETH, XRP, DOT, BCH, BNB, LINK, CRO, LTC, BSV - Cointelegraph",
-         "url" : "https://cointelegraph.com/news/price-analysis-9-16-btc-eth-xrp-dot-bch-bnb-link-cro-ltc-bsv",
-         "author" : "Rakesh Upadhyay",
-         "description" : "Bitcoin and a few altcoins have broken above key resistance levels, which suggests that the bulls are attempting to take control of the market",
-         "content" : "This week MicroStrategy, a Nasdaq-listed company, announced that it had added 16,796 Bitcoin (BTC) to its existing holding of 21,454 Bitcoin. This means in less than a year the firm has amassed 38,25… [+8889 chars]",
+         "urlToImage" : "https://g.foolcdn.com/editorial/images/591965/3-cruise-liner-ships-lined-up-abreast-in-port.jpg",
          "source" : {
             "id" : null,
-            "name" : "Cointelegraph"
+            "name" : "Motley Fool"
          }
       },
       {
+         "author" : "Rakesh Upadhyay",
+         "description" : "Bitcoin and a few altcoins have broken above key resistance levels, which suggests that the bulls are attempting to take control of the market",
+         "content" : "This week MicroStrategy, a Nasdaq-listed company, announced that it had added 16,796 Bitcoin (BTC) to its existing holding of 21,454 Bitcoin. This means in less than a year the firm has amassed 38,25… [+8889 chars]",
+         "urlToImage" : "https://s3.cointelegraph.com/storage/uploads/view/cad2a18418cd7b50d472bd0cc253601f.jpg",
+         "publishedAt" : "2020-09-16T20:30:00Z",
+         "url" : "https://cointelegraph.com/news/price-analysis-9-16-btc-eth-xrp-dot-bch-bnb-link-cro-ltc-bsv",
+         "source" : {
+            "id" : null,
+            "name" : "Cointelegraph"
+         },
+         "title" : "Price analysis 9/16: BTC, ETH, XRP, DOT, BCH, BNB, LINK, CRO, LTC, BSV - Cointelegraph"
+      },
+      {
          "title" : "Pratt & Whitney parent company Raytheon announces more layoffs - WFSB",
-         "url" : "https://www.wfsb.com/news/pratt-whitney-parent-company-raytheon-announces-more-layoffs/article_45555f2a-f85b-11ea-86ad-87c18cd67fb4.html",
-         "description" : "Raytheon, the parent company of Pratt &amp; Whitney, announced its plans for layoffs is deepening.",
-         "author" : "WFSB Staff",
-         "content" : "(WFSB) -- Raytheon, the parent company of Pratt &amp; Whitney, announced its plans for layoffs is deepening.\r\nThe company announced back in July that it was cutting more than 8,000 jobs.\r\nOn Wednesda… [+910 chars]",
+         "publishedAt" : "2020-09-16T20:29:00Z",
+         "urlToImage" : "https://bloximages.newyork1.vip.townnews.com/wfsb.com/content/tncms/assets/v3/editorial/c/13/c1339d0a-f85b-11ea-a320-77214226801e/5f627663820de.image.jpg?resize=423%2C200",
          "source" : {
             "name" : "WFSB",
             "id" : null
          },
-         "urlToImage" : "https://bloximages.newyork1.vip.townnews.com/wfsb.com/content/tncms/assets/v3/editorial/c/13/c1339d0a-f85b-11ea-a320-77214226801e/5f627663820de.image.jpg?resize=423%2C200",
-         "publishedAt" : "2020-09-16T20:29:00Z"
+         "url" : "https://www.wfsb.com/news/pratt-whitney-parent-company-raytheon-announces-more-layoffs/article_45555f2a-f85b-11ea-86ad-87c18cd67fb4.html",
+         "content" : "(WFSB) -- Raytheon, the parent company of Pratt &amp; Whitney, announced its plans for layoffs is deepening.\r\nThe company announced back in July that it was cutting more than 8,000 jobs.\r\nOn Wednesda… [+910 chars]",
+         "description" : "Raytheon, the parent company of Pratt &amp; Whitney, announced its plans for layoffs is deepening.",
+         "author" : "WFSB Staff"
       },
       {
-         "urlToImage" : "https://cdn.geekwire.com/wp-content/uploads/2017/04/20170401_182058951_iOS.jpg",
-         "publishedAt" : "2020-09-16T20:18:00Z",
-         "source" : {
-            "name" : "GeekWire",
-            "id" : null
-         },
-         "content" : "Madrona Venture Groups S. Somasegar and former Snowflake CEO Bob Muglia previously worked together as Microsoft executives. (Madrona Venture Group Photo)\r\nSnowflake came out with a bang in its public… [+5385 chars]",
-         "author" : "https://www.facebook.com/ichiro51",
          "url" : "https://www.geekwire.com/2020/snowflake-stock-soars-largest-software-ipo-ever-madrona-among-earlier-venture-investors/",
+         "publishedAt" : "2020-09-16T20:18:00Z",
+         "urlToImage" : "https://cdn.geekwire.com/wp-content/uploads/2017/04/20170401_182058951_iOS.jpg",
+         "source" : {
+            "id" : null,
+            "name" : "GeekWire"
+         },
+         "title" : "Snowflake stock soars in largest software IPO ever; Madrona among earlier venture investors - GeekWire",
+         "author" : "https://www.facebook.com/ichiro51",
          "description" : "Snowflake came out with a bang in its public debut, raising $3.4 billion in the largest software IPO ever. The data warehousing company opened at $245/share after pricing its IPO at $120/share.",
-         "title" : "Snowflake stock soars in largest software IPO ever; Madrona among earlier venture investors - GeekWire"
+         "content" : "Madrona Venture Groups S. Somasegar and former Snowflake CEO Bob Muglia previously worked together as Microsoft executives. (Madrona Venture Group Photo)\r\nSnowflake came out with a bang in its public… [+5385 chars]"
       },
       {
-         "content" : "New York (CNN Business)About 60% of businesses that have closed during the coronavirus pandemic will never reopen, and restaurants have suffered the most, according to new data from Yelp. \r\nThe revie… [+2347 chars]",
+         "title" : "More than half of businesses that closed during the pandemic won't reopen - CNN",
+         "url" : "https://www.cnn.com/2020/09/16/business/yelp-coronavirus-closures/index.html",
+         "publishedAt" : "2020-09-16T19:57:00Z",
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200916141449-permanently-closed-restaurant-0831-super-tease.jpg",
          "source" : {
             "id" : "cnn",
             "name" : "CNN"
          },
-         "url" : "https://www.cnn.com/2020/09/16/business/yelp-coronavirus-closures/index.html",
          "description" : "About 60% of businesses that have closed during the coronavirus pandemic will never reopen, and restaurants have suffered the most, according to new data from Yelp.",
-         "author" : "Danielle Wiener-Bronner, CNN Business",
-         "title" : "More than half of businesses that closed during the pandemic won't reopen - CNN",
-         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200916141449-permanently-closed-restaurant-0831-super-tease.jpg",
-         "publishedAt" : "2020-09-16T19:57:00Z"
+         "content" : "New York (CNN Business)About 60% of businesses that have closed during the coronavirus pandemic will never reopen, and restaurants have suffered the most, according to new data from Yelp. \r\nThe revie… [+2347 chars]",
+         "author" : "Danielle Wiener-Bronner, CNN Business"
       },
       {
+         "description" : "The economic might of the federal government is helping to push borrowing costs lower.",
          "content" : "© Tetra Images via Getty Images\r\n Federal Reserve building.\r\nMortgage rates fell again for the umpteenth time this year, with the 30-year fixed slipping to 3.09 percent, the lowest ever in Bankrates … [+1717 chars]",
+         "author" : null,
+         "title" : "30-year mortgage rate slips to new low as Fed vows to keep rates down - MSN Money",
+         "publishedAt" : "2020-09-16T19:52:00Z",
+         "url" : "https://www.bankrate.com/mortgages/30-year-mortgage-rate-for-september-16/",
+         "urlToImage" : "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB1976K7.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg",
          "source" : {
             "name" : "Bankrate.com",
             "id" : null
-         },
-         "description" : "The economic might of the federal government is helping to push borrowing costs lower.",
-         "url" : "https://www.bankrate.com/mortgages/30-year-mortgage-rate-for-september-16/",
-         "author" : null,
-         "title" : "30-year mortgage rate slips to new low as Fed vows to keep rates down - MSN Money",
-         "urlToImage" : "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB1976K7.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg",
-         "publishedAt" : "2020-09-16T19:52:00Z"
+         }
       }
    ]
 }
