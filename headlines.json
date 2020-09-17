@@ -1,256 +1,255 @@
 {
+   "status" : "ok",
+   "totalResults" : 70,
    "articles" : [
       {
-         "url" : "https://www.marketwatch.com/story/asian-markets-retreat-as-fed-envisions-staying-put-for-the-next-few-years-01600314358",
-         "content" : "Asian stock markets declined Thursday after the U.S. Federal Reserve indicated its benchmark interest rate will stay close to zero at least through 2023 but announced no additional stimulus plans.The… [+2585 chars]",
          "source" : {
             "id" : null,
             "name" : "MarketWatch"
          },
          "publishedAt" : "2020-09-17T03:45:00Z",
          "author" : "Associated Press",
-         "title" : "Asian markets retreat as Fed envisions staying put for the next few years - MarketWatch",
+         "urlToImage" : "https://images.mktw.net/im-233165/social",
          "description" : "Stocks pull back in Tokyo, Hong Kong, Shanghai",
-         "urlToImage" : "https://images.mktw.net/im-233165/social"
+         "content" : "Asian stock markets declined Thursday after the U.S. Federal Reserve indicated its benchmark interest rate will stay close to zero at least through 2023 but announced no additional stimulus plans.The… [+2585 chars]",
+         "title" : "Asian markets retreat as Fed envisions staying put for the next few years - MarketWatch",
+         "url" : "https://www.marketwatch.com/story/asian-markets-retreat-as-fed-envisions-staying-put-for-the-next-few-years-01600314358"
       },
       {
-         "author" : "Lars Brandle",
-         "publishedAt" : "2020-09-17T03:20:35Z",
-         "urlToImage" : "https://static.billboard.com/files/media/travis-scott-rolling-loud-fest-2019-billboard-1548-1024x677.jpg",
-         "title" : "Travis Scott Reportedly Fined for Crowded McDonald's Publicity Stunt - Billboard",
          "description" : "",
+         "urlToImage" : "https://static.billboard.com/files/media/travis-scott-rolling-loud-fest-2019-billboard-1548-1024x677.jpg",
+         "content" : "Travis Scotts visit to a McDonald's restaurant in Downey, California went down a treat with fans. The police, not so much.\r\nScott has reportedly been fined for the promotional stop, which gathered sc… [+1109 chars]",
          "url" : "https://www.billboard.com/articles/news/9449659/travis-scott-fined-crowded-mcdonalds-publicity-stunt",
+         "title" : "Travis Scott Reportedly Fined for Crowded McDonald's Publicity Stunt - Billboard",
+         "publishedAt" : "2020-09-17T03:20:35Z",
          "source" : {
             "id" : null,
             "name" : "Billboard"
          },
-         "content" : "Travis Scotts visit to a McDonald's restaurant in Downey, California went down a treat with fans. The police, not so much.\r\nScott has reportedly been fined for the promotional stop, which gathered sc… [+1109 chars]"
+         "author" : "Lars Brandle"
       },
       {
          "title" : "Exclusive: In the weeds - How Bayer, U.S. government teamed up against Thailand's glyphosate ban - Reuters",
+         "url" : "https://in.reuters.com/article/us-thailand-usa-trade-exclusive-idUSKBN268076",
+         "content" : "BANGKOK (Reuters) - Chemicals giant Bayer and the U.S. government cooperated closely last year to lobby Thailand to reverse its ban on glyphosate, used in the companys controversial weedkiller Roundu… [+6065 chars]",
          "description" : "Chemicals giant Bayer and the U.S. government cooperated closely last year to lobby Thailand to reverse its ban on glyphosate, used in the company's controversial weedkiller Roundup, documents obtained by an environmental group and reviewed by Reuters show.",
          "urlToImage" : "https://static.reuters.com/resources/r/?m=02&d=20200917&t=2&i=1533777428&r=LYNXMPEG8G03Q&w=800",
-         "publishedAt" : "2020-09-17T02:34:00Z",
          "author" : "Patpicha Tanakasempipat",
-         "content" : "BANGKOK (Reuters) - Chemicals giant Bayer and the U.S. government cooperated closely last year to lobby Thailand to reverse its ban on glyphosate, used in the companys controversial weedkiller Roundu… [+6065 chars]",
+         "publishedAt" : "2020-09-17T02:34:00Z",
          "source" : {
             "name" : "Reuters",
             "id" : "reuters"
-         },
-         "url" : "https://in.reuters.com/article/us-thailand-usa-trade-exclusive-idUSKBN268076"
-      },
-      {
-         "publishedAt" : "2020-09-17T01:52:56Z",
-         "author" : "Ann Schmidt",
-         "description" : "The New York City Council passed a law that allowed restaurants to add a 10 percent charge on customers’ bill in order to provide some relief in the wake of the pandemic.",
-         "title" : "NYC restaurants can add 10% ‘COVID-19 Recovery Charge’ to customers’ bills - Fox Business",
-         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/09/0/0/nyc-restaurant-video-grab.jpg?ve=1&tl=1",
-         "url" : "https://www.foxbusiness.com/lifestyle/nyc-restaurants-covid-recovery-charge-bill-passed",
-         "content" : "A new bill from the New York City Council could help out restaurants -- but at a price for diners.\r\nOn Wednesday, the council approved a law that allows restaurants to add a “COVID-19 Recovery Charge… [+3042 chars]",
-         "source" : {
-            "id" : null,
-            "name" : "Fox Business"
          }
       },
       {
-         "content" : "Donald Trump has questioned plans by the Chinese tech firm ByteDance to keep a majority stake in TikToks US operations as part of a trusted technology deal with Oracle.\r\nConceptually I can tell you t… [+2940 chars]",
+         "author" : "Ann Schmidt",
          "source" : {
-            "id" : null,
-            "name" : "Theguardian.comtechnology"
+            "name" : "Fox Business",
+            "id" : null
          },
-         "url" : "https://amp.theguardian.comtechnology/2020/sep/17/tiktok-trump-questions-oracle-deal-if-bytedance-keeps-stake",
-         "title" : "TikTok: Trump questions Oracle deal if ByteDance keeps stake - The Guardian",
-         "description" : "President warns any agreement to continue operating in US must be ‘100% as far as national security is concerned’",
-         "urlToImage" : "https://i.guim.co.uk/img/media/04292743f294f00b079771292aa360a30f37eeb3/0_376_3200_1920/master/3200.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=cb2442f5ef27235f029df482166daf74",
-         "publishedAt" : "2020-09-17T01:37:00Z",
-         "author" : "Guardian staff reporter"
+         "publishedAt" : "2020-09-17T01:52:56Z",
+         "url" : "https://www.foxbusiness.com/lifestyle/nyc-restaurants-covid-recovery-charge-bill-passed",
+         "title" : "NYC restaurants can add 10% ‘COVID-19 Recovery Charge’ to customers’ bills - Fox Business",
+         "content" : "A new bill from the New York City Council could help out restaurants -- but at a price for diners.\r\nOn Wednesday, the council approved a law that allows restaurants to add a “COVID-19 Recovery Charge… [+3042 chars]",
+         "description" : "The New York City Council passed a law that allowed restaurants to add a 10 percent charge on customers’ bill in order to provide some relief in the wake of the pandemic.",
+         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/09/0/0/nyc-restaurant-video-grab.jpg?ve=1&tl=1"
       },
       {
-         "url" : "https://www.marketwatch.com/story/amazon-looks-to-open-1-500-small-warehouses-in-u-s-suburbs-report-11600305391",
+         "publishedAt" : "2020-09-17T01:37:00Z",
+         "source" : {
+            "name" : "Theguardian.comtechnology",
+            "id" : null
+         },
+         "author" : "Guardian staff reporter",
+         "description" : "President warns any agreement to continue operating in US must be ‘100% as far as national security is concerned’",
+         "urlToImage" : "https://i.guim.co.uk/img/media/04292743f294f00b079771292aa360a30f37eeb3/0_376_3200_1920/master/3200.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=cb2442f5ef27235f029df482166daf74",
+         "content" : "Donald Trump has questioned plans by the Chinese tech firm ByteDance to keep a majority stake in TikToks US operations as part of a trusted technology deal with Oracle.\r\nConceptually I can tell you t… [+2940 chars]",
+         "url" : "https://amp.theguardian.comtechnology/2020/sep/17/tiktok-trump-questions-oracle-deal-if-bytedance-keeps-stake",
+         "title" : "TikTok: Trump questions Oracle deal if ByteDance keeps stake - The Guardian"
+      },
+      {
+         "author" : "By Lisa Fickenscher",
+         "publishedAt" : "2020-09-17T01:16:00Z",
          "source" : {
             "name" : "MarketWatch",
             "id" : null
          },
+         "title" : "Amazon looks to open 1500 small warehouses in U.S. suburbs: report - MarketWatch",
+         "url" : "https://www.marketwatch.com/story/amazon-looks-to-open-1-500-small-warehouses-in-u-s-suburbs-report-11600305391",
          "content" : "Amazon.com Inc. aims to open as many as 1,500 small warehouses across the U.S. many of them in suburban locations as it raises the stakes in its battle against Walmart, according to report.The Seattl… [+1610 chars]",
-         "author" : "By Lisa Fickenscher",
-         "publishedAt" : "2020-09-17T01:16:00Z",
          "urlToImage" : "https://images.mktw.net/im-215412/social",
-         "description" : "E-commerce giant ramping up its delivery capabilities",
-         "title" : "Amazon looks to open 1500 small warehouses in U.S. suburbs: report - MarketWatch"
+         "description" : "E-commerce giant ramping up its delivery capabilities"
       },
       {
-         "url" : "https://www.businessinsider.com/florida-target-anti-mask-protesters-invade-fort-lauderdale-2020-9",
-         "content" : "Marisa Folz, a 28-year-old boutique owner from Florida, was shopping with her mother and aunt at a Target in Fort Lauderdale Tuesday evening when she heard chanting and screaming coming from a few ai… [+2299 chars]",
          "source" : {
-            "id" : "business-insider",
-            "name" : "Business Insider"
+            "name" : "Business Insider",
+            "id" : "business-insider"
          },
          "publishedAt" : "2020-09-16T23:13:00Z",
          "author" : "Isabella Jibilian",
          "title" : "'Take your masks off': mask-less protesters march through Target - Business Insider - Business Insider",
+         "url" : "https://www.businessinsider.com/florida-target-anti-mask-protesters-invade-fort-lauderdale-2020-9",
+         "urlToImage" : "https://i.insider.com/5f62660e57b7da001ee120cb?width=1200&format=jpeg",
          "description" : "Since the outbreak of the COVID-19 pandemic, mask wearing has been elevated from a medical precaution to a cultural statement.",
-         "urlToImage" : "https://i.insider.com/5f62660e57b7da001ee120cb?width=1200&format=jpeg"
+         "content" : "Marisa Folz, a 28-year-old boutique owner from Florida, was shopping with her mother and aunt at a Target in Fort Lauderdale Tuesday evening when she heard chanting and screaming coming from a few ai… [+2299 chars]"
       },
       {
+         "content" : "September 16, 2020 5:43 PM\r\nPosted: September 16, 2020 5:43 PM\r\nCNN image\r\nThe Powerball lottery pot is $430 million, and the top Mega Millions prize is $970 million.\r\nMADISON, Wis. — A lucky winner … [+660 chars]",
+         "description" : "A lucky winner has hit the Mega Millions jackpot in Mount Pleasant, Wisconsin.",
+         "urlToImage" : "https://wpcdn.us-east-1.vip.tn-cloud.net/www.channel3000.com/content/uploads/2019/11/CHANNEL-3000-3RD-GENERIC_1549226262024.jpg_31888764_ver1.0_1280_720.jpg",
+         "url" : "https://www.channel3000.com/119-million-mega-millions-lottery-ticket-sold-in-wisconsin/",
+         "title" : "$119 million Mega Millions lottery ticket sold in Wisconsin - Channel3000.com - WISC-TV3",
+         "author" : null,
+         "publishedAt" : "2020-09-16T22:43:00Z",
          "source" : {
             "id" : null,
             "name" : "Channel3000.com - WISC-TV3"
-         },
-         "content" : "September 16, 2020 5:43 PM\r\nPosted: September 16, 2020 5:43 PM\r\nCNN image\r\nThe Powerball lottery pot is $430 million, and the top Mega Millions prize is $970 million.\r\nMADISON, Wis. — A lucky winner … [+660 chars]",
-         "url" : "https://www.channel3000.com/119-million-mega-millions-lottery-ticket-sold-in-wisconsin/",
-         "urlToImage" : "https://wpcdn.us-east-1.vip.tn-cloud.net/www.channel3000.com/content/uploads/2019/11/CHANNEL-3000-3RD-GENERIC_1549226262024.jpg_31888764_ver1.0_1280_720.jpg",
-         "title" : "$119 million Mega Millions lottery ticket sold in Wisconsin - Channel3000.com - WISC-TV3",
-         "description" : "A lucky winner has hit the Mega Millions jackpot in Mount Pleasant, Wisconsin.",
-         "author" : null,
-         "publishedAt" : "2020-09-16T22:43:00Z"
+         }
       },
       {
-         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200916162957-att-phone-file-restricted-super-tease.jpg",
-         "title" : "AT&T thinks you might watch ads in exchange for a cheaper phone plan - CNN",
-         "description" : "AT&T is considering offering wireless phone plans partially paid for by advertising, CEO John Stankey said Tuesday.",
          "author" : "Shannon Liao, CNN Business",
-         "publishedAt" : "2020-09-16T22:04:00Z",
          "source" : {
-            "name" : "CNN",
-            "id" : "cnn"
+            "id" : "cnn",
+            "name" : "CNN"
          },
+         "publishedAt" : "2020-09-16T22:04:00Z",
+         "url" : "https://www.cnn.com/2020/09/16/tech/att-wireless-advertising-offset/index.html",
+         "title" : "AT&T thinks you might watch ads in exchange for a cheaper phone plan - CNN",
          "content" : null,
-         "url" : "https://www.cnn.com/2020/09/16/tech/att-wireless-advertising-offset/index.html"
+         "description" : "AT&T is considering offering wireless phone plans partially paid for by advertising, CEO John Stankey said Tuesday.",
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200916162957-att-phone-file-restricted-super-tease.jpg"
       },
       {
-         "urlToImage" : "https://www.kitco.com/commentaries/2020-09-16/images/septdotplot.png",
-         "description" : "Exclusive to Kitco News, technical analyst Gary Wagner provides a daily recap of what happened in the gold market, highlighting important events that captured investors' attention during the U.S. trading session. Wagner's commentary features a mix of fundamen…",
+         "url" : "https://www.kitco.com/commentaries/2020-09-16/FOMC-meeting-concludes-and-investors-gain-clarity.html",
          "title" : "FOMC meeting concludes and investors gain clarity - Kitco NEWS",
-         "author" : "http://www.facebook.com/kitconews",
+         "description" : "Exclusive to Kitco News, technical analyst Gary Wagner provides a daily recap of what happened in the gold market, highlighting important events that captured investors' attention during the U.S. trading session. Wagner's commentary features a mix of fundamen…",
+         "urlToImage" : "https://www.kitco.com/commentaries/2020-09-16/images/septdotplot.png",
+         "content" : "The most important economic event of the month concluded today. The FOMC meeting concluded today, and the Federal Reserve released a statement along with a press conference from the Fed Chairman Jero… [+3516 chars]",
          "publishedAt" : "2020-09-16T22:03:00Z",
          "source" : {
             "id" : null,
             "name" : "Kitco NEWS"
          },
-         "content" : "The most important economic event of the month concluded today. The FOMC meeting concluded today, and the Federal Reserve released a statement along with a press conference from the Fed Chairman Jero… [+3516 chars]",
-         "url" : "https://www.kitco.com/commentaries/2020-09-16/FOMC-meeting-concludes-and-investors-gain-clarity.html"
+         "author" : "http://www.facebook.com/kitconews"
       },
       {
-         "source" : {
-            "name" : "WLTX.com",
-            "id" : null
-         },
-         "content" : "COLUMBIA, S.C. The South Carolina Department of Employment and Workforce (SCDEW) is working on implementing the Lost Wages Assistance program that will provide additional benefits to those affected b… [+2585 chars]",
+         "title" : "SCDEW implementing Lost Wages Assistance program benefits - WLTX.com",
          "url" : "https://www.wltx.com/article/news/health/coronavirus/scdew-still-working-on-implementing-lost-wages-assistance-program-benefits-into-system/101-bf4b1803-d5fb-4b00-8902-8de434fc1b32",
+         "content" : "COLUMBIA, S.C. The South Carolina Department of Employment and Workforce (SCDEW) is working on implementing the Lost Wages Assistance program that will provide additional benefits to those affected b… [+2585 chars]",
          "urlToImage" : "https://media.wltx.com/assets/WLTX/images/50957fb2-2994-40c5-984a-42f85304f70e/50957fb2-2994-40c5-984a-42f85304f70e_1140x641.jpg",
          "description" : "On September 1, the state was approved by FEMA for the Lost Wages Assistance (LWA) program. This would provide $300 in federal wage benefits.",
-         "title" : "SCDEW implementing Lost Wages Assistance program benefits - WLTX.com",
          "author" : "Nic Jones",
+         "source" : {
+            "id" : null,
+            "name" : "WLTX.com"
+         },
          "publishedAt" : "2020-09-16T21:42:00Z"
       },
       {
-         "urlToImage" : "https://i0.wp.com/boingboing.net/wp-content/uploads/2020/09/0-28.jpg?fit=480%2C360&ssl=1",
-         "title" : "Mountain Dew and Red Lobster unveil collaborative cocktail; Doomsday clock unchanged - Boing Boing",
-         "description" : "Mountain Dew and Red Lobster have jointly crafted the Dew Garita. The first official Mountain Dew cocktail will soon be available at Red Lobster.The “Dew Garita” will be rolling out to …",
          "author" : null,
-         "publishedAt" : "2020-09-16T21:33:00Z",
          "source" : {
-            "name" : "Boing Boing",
-            "id" : null
+            "id" : null,
+            "name" : "Boing Boing"
          },
+         "publishedAt" : "2020-09-16T21:33:00Z",
          "content" : "This study recently published by the Journal of the American Medical Association says no to drinking soft drinks. I am sure many folks will read this as \"do not drink soft drinks in those 10 European… [+1802 chars]",
-         "url" : "https://boingboing.net/2020/09/16/mountain-dew-and-red-lobster-u.html"
+         "urlToImage" : "https://i0.wp.com/boingboing.net/wp-content/uploads/2020/09/0-28.jpg?fit=480%2C360&ssl=1",
+         "description" : "Mountain Dew and Red Lobster have jointly crafted the Dew Garita. The first official Mountain Dew cocktail will soon be available at Red Lobster.The “Dew Garita” will be rolling out to …",
+         "url" : "https://boingboing.net/2020/09/16/mountain-dew-and-red-lobster-u.html",
+         "title" : "Mountain Dew and Red Lobster unveil collaborative cocktail; Doomsday clock unchanged - Boing Boing"
       },
       {
+         "content" : "Chat with us in Facebook Messenger. Find out what's happening in the world as it unfolds.",
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200916160923-trump-shares-manipulated-biden-video-donie-osullivan-nr-vpx-00004627-super-tease.jpg",
          "description" : "A video a manipulated video of Democratic Presidential candidate Joe Biden share by Presdient Donald Trump was flagged by Twitter. CNN's Donie O'Sullivan reports.",
          "title" : "Twitter flags manipulated Biden video shared by Trump - CNN",
-         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200916160923-trump-shares-manipulated-biden-video-donie-osullivan-nr-vpx-00004627-super-tease.jpg",
-         "publishedAt" : "2020-09-16T21:30:40Z",
+         "url" : "https://www.cnn.com/videos/media/2020/09/16/trump-shares-manipulated-biden-video-donie-osullivan-nr-vpx.cnn",
          "author" : null,
-         "content" : "Chat with us in Facebook Messenger. Find out what's happening in the world as it unfolds.",
+         "publishedAt" : "2020-09-16T21:30:40Z",
          "source" : {
-            "name" : "CNN",
-            "id" : "cnn"
-         },
-         "url" : "https://www.cnn.com/videos/media/2020/09/16/trump-shares-manipulated-biden-video-donie-osullivan-nr-vpx.cnn"
+            "id" : "cnn",
+            "name" : "CNN"
+         }
       },
       {
+         "url" : "https://decrypt.co/42077/kraken-first-us-crypto-bank-heres-why-matters",
+         "title" : "Kraken Will Be First US Crypto Bank. Here’s Why It Matters - Decrypt",
+         "urlToImage" : "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2020/09/Kraken-first-US-crypto-bank-gID_1.jpg",
+         "description" : "Kraken Financial will be able to provide clients from 49 states with digital asset custody services and help them make payments.",
+         "content" : "In brief\r\n<ul><li>Wyoming granted Kraken a license to create a special purpose depository institution in the state.</li><li>The bank should launch sometime by the first quarter of 2021.</li><li>Krake… [+4823 chars]",
          "source" : {
             "name" : "Decrypt",
             "id" : null
          },
-         "content" : "In brief\r\n<ul><li>Wyoming granted Kraken a license to create a special purpose depository institution in the state.</li><li>The bank should launch sometime by the first quarter of 2021.</li><li>Krake… [+4823 chars]",
-         "url" : "https://decrypt.co/42077/kraken-first-us-crypto-bank-heres-why-matters",
-         "urlToImage" : "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2020/09/Kraken-first-US-crypto-bank-gID_1.jpg",
-         "title" : "Kraken Will Be First US Crypto Bank. Here’s Why It Matters - Decrypt",
-         "description" : "Kraken Financial will be able to provide clients from 49 states with digital asset custody services and help them make payments.",
-         "author" : "Robert Stevens",
-         "publishedAt" : "2020-09-16T21:30:00Z"
+         "publishedAt" : "2020-09-16T21:30:00Z",
+         "author" : "Robert Stevens"
       },
       {
-         "url" : "https://www.postandcourier.com/greenville/news/chicken-wars-upstate-will-decide-fate-of-chick-fil-as-new-honey-pepper-pimento-sandwich/article_d1cca11c-f83c-11ea-bf80-37a8b655ecd5.html",
-         "content" : "Just more than a year after the Popeye's chicken sandwich caused a frenzy across the country, Chick-fil-A has introduced a novel addition in the Chicken Wars.\r\nAnd its fate will be decided by Upstate… [+1597 chars]",
-         "source" : {
-            "id" : null,
-            "name" : "Charleston Post Courier"
-         },
-         "publishedAt" : "2020-09-16T20:39:00Z",
-         "author" : "Conor Hughes chughes@postandcourier.com",
+         "urlToImage" : "https://bloximages.newyork1.vip.townnews.com/postandcourier.com/content/tncms/assets/v3/editorial/f/92/f9279926-f853-11ea-b489-d36d4a6ff617/5f6269fd906c3.image.jpg?resize=852%2C630",
          "description" : "Chick-fil-A has introduced a new sandwich for testing in the Upstate.",
+         "content" : "Just more than a year after the Popeye's chicken sandwich caused a frenzy across the country, Chick-fil-A has introduced a novel addition in the Chicken Wars.\r\nAnd its fate will be decided by Upstate… [+1597 chars]",
+         "url" : "https://www.postandcourier.com/greenville/news/chicken-wars-upstate-will-decide-fate-of-chick-fil-as-new-honey-pepper-pimento-sandwich/article_d1cca11c-f83c-11ea-bf80-37a8b655ecd5.html",
          "title" : "Chicken Wars: Upstate will decide fate of Chick-fil-A's new Honey Pepper Pimento Sandwich - Charleston Post Courier",
-         "urlToImage" : "https://bloximages.newyork1.vip.townnews.com/postandcourier.com/content/tncms/assets/v3/editorial/f/92/f9279926-f853-11ea-b489-d36d4a6ff617/5f6269fd906c3.image.jpg?resize=852%2C630"
-      },
-      {
+         "publishedAt" : "2020-09-16T20:39:00Z",
          "source" : {
-            "id" : null,
-            "name" : "Motley Fool"
-         },
-         "content" : "What happened\r\nShares of major cruise line stocks Carnival Corporation(NYSE:CCL)(NYSE:CUK), Royal Caribbean(NYSE:RCL), and Norwegian Cruise Line Holdings(NASDAQ:NCLH) all took a bath yesterday -- the… [+2162 chars]",
-         "url" : "https://www.fool.com/investing/2020/09/16/why-carnival-corporation-royal-caribbean-and-norwe/",
-         "urlToImage" : "https://g.foolcdn.com/editorial/images/591965/3-cruise-liner-ships-lined-up-abreast-in-port.jpg",
-         "description" : "What went down (yesterday) just came back up (today).",
-         "title" : "Why Carnival Corporation, Royal Caribbean, and Norwegian Cruise Line Holdings Stocks Bounced Back Wednesday - The Motley Fool",
-         "author" : "Rich Smith",
-         "publishedAt" : "2020-09-16T20:31:00Z"
-      },
-      {
-         "urlToImage" : "https://s3.cointelegraph.com/storage/uploads/view/cad2a18418cd7b50d472bd0cc253601f.jpg",
-         "description" : "Bitcoin and a few altcoins have broken above key resistance levels, which suggests that the bulls are attempting to take control of the market",
-         "title" : "Price analysis 9/16: BTC, ETH, XRP, DOT, BCH, BNB, LINK, CRO, LTC, BSV - Cointelegraph",
-         "author" : "Rakesh Upadhyay",
-         "publishedAt" : "2020-09-16T20:30:00Z",
-         "source" : {
-            "name" : "Cointelegraph",
+            "name" : "Charleston Post Courier",
             "id" : null
          },
-         "content" : "This week MicroStrategy, a Nasdaq-listed company, announced that it had added 16,796 Bitcoin (BTC) to its existing holding of 21,454 Bitcoin. This means in less than a year the firm has amassed 38,25… [+8889 chars]",
-         "url" : "https://cointelegraph.com/news/price-analysis-9-16-btc-eth-xrp-dot-bch-bnb-link-cro-ltc-bsv"
+         "author" : "Conor Hughes chughes@postandcourier.com"
+      },
+      {
+         "author" : "Rich Smith",
+         "source" : {
+            "name" : "Motley Fool",
+            "id" : null
+         },
+         "publishedAt" : "2020-09-16T20:31:00Z",
+         "url" : "https://www.fool.com/investing/2020/09/16/why-carnival-corporation-royal-caribbean-and-norwe/",
+         "title" : "Why Carnival Corporation, Royal Caribbean, and Norwegian Cruise Line Holdings Stocks Bounced Back Wednesday - The Motley Fool",
+         "content" : "What happened\r\nShares of major cruise line stocks Carnival Corporation(NYSE:CCL)(NYSE:CUK), Royal Caribbean(NYSE:RCL), and Norwegian Cruise Line Holdings(NASDAQ:NCLH) all took a bath yesterday -- the… [+2162 chars]",
+         "urlToImage" : "https://g.foolcdn.com/editorial/images/591965/3-cruise-liner-ships-lined-up-abreast-in-port.jpg",
+         "description" : "What went down (yesterday) just came back up (today)."
       },
       {
          "source" : {
             "id" : null,
-            "name" : "WFSB"
+            "name" : "Cointelegraph"
          },
-         "content" : "(WFSB) -- Raytheon, the parent company of Pratt &amp; Whitney, announced its plans for layoffs is deepening.\r\nThe company announced back in July that it was cutting more than 8,000 jobs.\r\nOn Wednesda… [+910 chars]",
+         "publishedAt" : "2020-09-16T20:30:00Z",
+         "author" : "Rakesh Upadhyay",
+         "url" : "https://cointelegraph.com/news/price-analysis-9-16-btc-eth-xrp-dot-bch-bnb-link-cro-ltc-bsv",
+         "title" : "Price analysis 9/16: BTC, ETH, XRP, DOT, BCH, BNB, LINK, CRO, LTC, BSV - Cointelegraph",
+         "urlToImage" : "https://s3.cointelegraph.com/storage/uploads/view/cad2a18418cd7b50d472bd0cc253601f.jpg",
+         "description" : "Bitcoin and a few altcoins have broken above key resistance levels, which suggests that the bulls are attempting to take control of the market",
+         "content" : "This week MicroStrategy, a Nasdaq-listed company, announced that it had added 16,796 Bitcoin (BTC) to its existing holding of 21,454 Bitcoin. This means in less than a year the firm has amassed 38,25… [+8889 chars]"
+      },
+      {
          "url" : "https://www.wfsb.com/news/pratt-whitney-parent-company-raytheon-announces-more-layoffs/article_45555f2a-f85b-11ea-86ad-87c18cd67fb4.html",
-         "urlToImage" : "https://bloximages.newyork1.vip.townnews.com/wfsb.com/content/tncms/assets/v3/editorial/c/13/c1339d0a-f85b-11ea-a320-77214226801e/5f627663820de.image.jpg?resize=423%2C200",
          "title" : "Pratt & Whitney parent company Raytheon announces more layoffs - WFSB",
+         "content" : "(WFSB) -- Raytheon, the parent company of Pratt &amp; Whitney, announced its plans for layoffs is deepening.\r\nThe company announced back in July that it was cutting more than 8,000 jobs.\r\nOn Wednesda… [+910 chars]",
          "description" : "Raytheon, the parent company of Pratt &amp; Whitney, announced its plans for layoffs is deepening.",
+         "urlToImage" : "https://bloximages.newyork1.vip.townnews.com/wfsb.com/content/tncms/assets/v3/editorial/c/13/c1339d0a-f85b-11ea-a320-77214226801e/5f627663820de.image.jpg?resize=423%2C200",
          "author" : "WFSB Staff",
+         "source" : {
+            "name" : "WFSB",
+            "id" : null
+         },
          "publishedAt" : "2020-09-16T20:29:00Z"
       },
       {
+         "url" : "https://www.geekwire.com/2020/snowflake-stock-soars-largest-software-ipo-ever-madrona-among-earlier-venture-investors/",
          "title" : "Snowflake stock soars in largest software IPO ever; Madrona among earlier venture investors - GeekWire",
+         "content" : "Madrona Venture Groups S. Somasegar and former Snowflake CEO Bob Muglia previously worked together as Microsoft executives. (Madrona Venture Group Photo)\r\nSnowflake came out with a bang in its public… [+5385 chars]",
          "description" : "Snowflake came out with a bang in its public debut, raising $3.4 billion in the largest software IPO ever. The data warehousing company opened at $245/share after pricing its IPO at $120/share.",
          "urlToImage" : "https://cdn.geekwire.com/wp-content/uploads/2017/04/20170401_182058951_iOS.jpg",
-         "publishedAt" : "2020-09-16T20:18:00Z",
          "author" : "https://www.facebook.com/ichiro51",
-         "content" : "Madrona Venture Groups S. Somasegar and former Snowflake CEO Bob Muglia previously worked together as Microsoft executives. (Madrona Venture Group Photo)\r\nSnowflake came out with a bang in its public… [+5385 chars]",
          "source" : {
-            "name" : "GeekWire",
-            "id" : null
+            "id" : null,
+            "name" : "GeekWire"
          },
-         "url" : "https://www.geekwire.com/2020/snowflake-stock-soars-largest-software-ipo-ever-madrona-among-earlier-venture-investors/"
+         "publishedAt" : "2020-09-16T20:18:00Z"
       },
       {
-         "urlToImage" : "https://www.visualcapitalist.com/wp-content/uploads/2020/09/Shape_of_recovery_shareable.jpg",
-         "description" : "Economic recovery from COVID-19 could come in four shapes—L, U, W, and V. What do they mean, and what do global CEOs see as the most likely?",
-         "title" : "Shapes of Recovery: Will The Global Economy Bounce Back? - Visual Capitalist",
          "author" : "Iman Ghosh",
          "publishedAt" : "2020-09-16T20:15:21Z",
          "source" : {
@@ -258,9 +257,10 @@
             "id" : null
          },
          "content" : "Social media has seeped into virtually all aspects of modern life. The vast social media universe collectively now holds 3.8 billion users, representing roughly 50% of the global population.\r\nWith an… [+6478 chars]",
-         "url" : "https://www.visualcapitalist.com/shapes-of-recovery-when-will-the-global-economy-bounce-back/"
+         "description" : "Economic recovery from COVID-19 could come in four shapes—L, U, W, and V. What do they mean, and what do global CEOs see as the most likely?",
+         "urlToImage" : "https://www.visualcapitalist.com/wp-content/uploads/2020/09/Shape_of_recovery_shareable.jpg",
+         "url" : "https://www.visualcapitalist.com/shapes-of-recovery-when-will-the-global-economy-bounce-back/",
+         "title" : "Shapes of Recovery: Will The Global Economy Bounce Back? - Visual Capitalist"
       }
-   ],
-   "status" : "ok",
-   "totalResults" : 70
+   ]
 }
