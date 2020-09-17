@@ -1,266 +1,266 @@
 {
    "articles" : [
       {
-         "author" : "By Lisa Fickenscher",
+         "source" : {
+            "name" : "Fox Business",
+            "id" : null
+         },
+         "title" : "Delta takes a 'mortgage' out on frequent flier SkyMiles for $6.5B - Fox Business",
+         "url" : "https://www.foxbusiness.com/money/delta-takes-a-mortgage-out-on-frequent-flier-skymiles-for-6-5b",
+         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/08/0/0/DeltaAirbusIstock.jpg?ve=1&tl=1",
+         "author" : "Lucas Manfredi",
+         "content" : "Delta Airlines fighting to stay afloat during the decrease in air travel during the coronavirus pandemic is turning to its popular frequent flyer program to tap into financial options.\r\nEssentially, … [+2961 chars]",
+         "publishedAt" : "2020-09-17T02:58:47Z",
+         "description" : "Delta's frequent flier program has more than 100 million members and generated $6.1 billion in cash in 2019 from sales of miles to its SkyMiles credit card partner American Express, SkyTeam airlines and other partners. The partners offer Delta miles to their …"
+      },
+      {
+         "url" : "https://www.foxbusiness.com/lifestyle/nyc-restaurants-covid-recovery-charge-bill-passed",
+         "source" : {
+            "id" : null,
+            "name" : "Fox Business"
+         },
+         "title" : "NYC restaurants can add 10% ‘COVID-19 Recovery Charge’ to customers’ bills - Fox Business",
+         "author" : "Ann Schmidt",
+         "publishedAt" : "2020-09-17T01:52:56Z",
+         "content" : "A new bill from the New York City Council could help out restaurants -- but at a price for diners.\r\nOn Wednesday, the council approved a law that allows restaurants to add a “COVID-19 Recovery Charge… [+3042 chars]",
+         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/09/0/0/nyc-restaurant-video-grab.jpg?ve=1&tl=1",
+         "description" : "The New York City Council passed a law that allowed restaurants to add a 10 percent charge on customers’ bill in order to provide some relief in the wake of the pandemic."
+      },
+      {
+         "description" : "President warns any agreement to continue operating in US must be ‘100% as far as national security is concerned’",
+         "url" : "https://amp.theguardian.comtechnology/2020/sep/17/tiktok-trump-questions-oracle-deal-if-bytedance-keeps-stake",
+         "source" : {
+            "id" : null,
+            "name" : "Theguardian.comtechnology"
+         },
+         "title" : "TikTok: Trump questions Oracle deal if ByteDance keeps stake - The Guardian",
+         "author" : "Guardian staff reporter",
+         "content" : "Donald Trump has questioned plans by the Chinese tech firm ByteDance to keep a majority stake in TikToks US operations as part of a trusted technology deal with Oracle.\r\nConceptually I can tell you t… [+2940 chars]",
+         "publishedAt" : "2020-09-17T01:37:00Z",
+         "urlToImage" : "https://i.guim.co.uk/img/media/04292743f294f00b079771292aa360a30f37eeb3/0_376_3200_1920/master/3200.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=cb2442f5ef27235f029df482166daf74"
+      },
+      {
          "description" : "E-commerce giant ramping up its delivery capabilities",
          "url" : "https://www.marketwatch.com/story/amazon-looks-to-open-1-500-small-warehouses-in-u-s-suburbs-report-11600305391",
          "title" : "Amazon looks to open 1500 small warehouses in U.S. suburbs: report - MarketWatch",
-         "publishedAt" : "2020-09-17T01:16:00Z",
-         "urlToImage" : "https://images.mktw.net/im-215412/social",
          "source" : {
             "name" : "MarketWatch",
             "id" : null
          },
-         "content" : "Amazon.com Inc. aims to open as many as 1,500 small warehouses across the U.S. many of them in suburban locations as it raises the stakes in its battle against Walmart, according to report.The Seattl… [+1610 chars]"
+         "publishedAt" : "2020-09-17T01:16:00Z",
+         "content" : "Amazon.com Inc. aims to open as many as 1,500 small warehouses across the U.S. many of them in suburban locations as it raises the stakes in its battle against Walmart, according to report.The Seattl… [+1610 chars]",
+         "author" : "By Lisa Fickenscher",
+         "urlToImage" : "https://images.mktw.net/im-215412/social"
       },
       {
-         "url" : "https://oilprice.com/Energy/Crude-Oil/What-BP-Got-Wrong-About-Global-Oil-Demand.html",
-         "title" : "What BP Got Wrong About Global Oil Demand - OilPrice.com",
-         "description" : "The recent BP Energy Outlook 2020 report shocked many in the industry with claims of peak oil demand, but the reality of the situation is quite different to how BP paints it",
+         "description" : "McDonald’s staffers unfamiliar with the slang of “Sicko Mode” got schooled on all things Travis Scott as the rapper’s branded meal continues to sell swiftly coast-to-coast. Driving demand for the meal — which includes a Quarter Pounder with cheese, bacon, let…",
+         "source" : {
+            "id" : null,
+            "name" : "Variety"
+         },
+         "title" : "McDonald’s Travis Scott Meal Leads to Viral TikTok Trend, Employee Memo, Ingredient Shortages - Variety",
+         "url" : "https://variety.com/2020/music/news/mcdonalds-travis-scott-meal-sicko-mode-tiktok-1234772452/",
+         "urlToImage" : "https://pmcvariety.files.wordpress.com/2020/09/ts1.jpg?w=1000",
+         "author" : "Eli Countryman",
+         "content" : "McDonald’s staffers unfamiliar with the slang of “Sicko Mode” got schooled on all things Travis Scott as the rapper’s branded meal continues to sell swiftly coast-to-coast. Driving demand for the mea… [+1804 chars]",
+         "publishedAt" : "2020-09-17T00:48:00Z"
+      },
+      {
          "urlToImage" : "https://d32r1sh890xpii.cloudfront.net/article/718x300/2020-09-16_fc4pxqj1si.jpg",
+         "content" : "A resurgence of coronavirus cases…\r\nBig oils major bet on…\r\nCrude oil production in the…\r\nBy Cyril Widdershoven - Sep 16, 2020, 6:00 PM CDTEnvironmentalists around the world are having a field day th… [+4195 chars]",
          "publishedAt" : "2020-09-16T23:00:00Z",
          "author" : "Cyril Widdershoven",
-         "content" : "A resurgence of coronavirus cases…\r\nBig oils major bet on…\r\nCrude oil production in the…\r\nBy Cyril Widdershoven - Sep 16, 2020, 6:00 PM CDTEnvironmentalists around the world are having a field day th… [+4195 chars]",
+         "title" : "What BP Got Wrong About Global Oil Demand - OilPrice.com",
          "source" : {
             "name" : "OilPrice.com",
             "id" : null
-         }
+         },
+         "url" : "https://oilprice.com/Energy/Crude-Oil/What-BP-Got-Wrong-About-Global-Oil-Demand.html",
+         "description" : "The recent BP Energy Outlook 2020 report shocked many in the industry with claims of peak oil demand, but the reality of the situation is quite different to how BP paints it"
       },
       {
+         "description" : "U.S. stock futures were flat on Wednesday night as traders digested the Federal Reserve's pledge to keep rates low over the next few years.",
+         "url" : "https://www.cnbc.com/2020/09/16/stock-market-futures-open-to-close-news.html",
+         "title" : "Stock futures are flat after Fed signals no rate hikes until 2023 - CNBC",
+         "source" : {
+            "name" : "CNBC",
+            "id" : null
+         },
+         "publishedAt" : "2020-09-16T22:00:00Z",
+         "content" : "U.S. stock futures were flat on Wednesday night as traders digested the Federal Reserve's pledge to keep rates low over the next few years.\r\nDow Jones Industrial Average traded 6 points lower, or 0.0… [+1891 chars]",
+         "author" : "Fred Imbert",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106553473-1594656502919preview.jpg?v=1600292295"
+      },
+      {
+         "description" : "Mountain Dew and Red Lobster have jointly crafted the Dew Garita. The first official Mountain Dew cocktail will soon be available at Red Lobster.The “Dew Garita” will be rolling out to …",
+         "source" : {
+            "name" : "Boing Boing",
+            "id" : null
+         },
+         "title" : "Mountain Dew and Red Lobster unveil collaborative cocktail; Doomsday clock unchanged - Boing Boing",
+         "url" : "https://boingboing.net/2020/09/16/mountain-dew-and-red-lobster-u.html",
+         "urlToImage" : "https://i0.wp.com/boingboing.net/wp-content/uploads/2020/09/0-28.jpg?fit=480%2C360&ssl=1",
+         "author" : null,
+         "publishedAt" : "2020-09-16T21:33:00Z",
+         "content" : "This study recently published by the Journal of the American Medical Association says no to drinking soft drinks. I am sure many folks will read this as \"do not drink soft drinks in those 10 European… [+1802 chars]"
+      },
+      {
+         "author" : null,
+         "publishedAt" : "2020-09-16T21:30:40Z",
+         "content" : "Chat with us in Facebook Messenger. Find out what's happening in the world as it unfolds.",
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200916160923-trump-shares-manipulated-biden-video-donie-osullivan-nr-vpx-00004627-super-tease.jpg",
+         "url" : "https://www.cnn.com/videos/media/2020/09/16/trump-shares-manipulated-biden-video-donie-osullivan-nr-vpx.cnn",
          "source" : {
             "id" : "cnn",
             "name" : "CNN"
          },
-         "content" : null,
-         "author" : "Shannon Liao, CNN Business",
-         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200916162957-att-phone-file-restricted-super-tease.jpg",
-         "publishedAt" : "2020-09-16T22:04:00Z",
-         "title" : "AT&T thinks you might watch ads in exchange for a cheaper phone plan - CNN",
-         "url" : "https://www.cnn.com/2020/09/16/tech/att-wireless-advertising-offset/index.html",
-         "description" : "AT&T is considering offering wireless phone plans partially paid for by advertising, CEO John Stankey said Tuesday."
-      },
-      {
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106553473-1594656502919preview.jpg?v=1600292295",
-         "publishedAt" : "2020-09-16T22:00:00Z",
-         "url" : "https://www.cnbc.com/2020/09/16/stock-market-futures-open-to-close-news.html",
-         "title" : "Stock futures are flat after Fed signals no rate hikes until 2023 - CNBC",
-         "description" : "U.S. stock futures were flat on Wednesday night as traders digested the Federal Reserve's pledge to keep rates low over the next few years.",
-         "author" : "Fred Imbert",
-         "content" : "U.S. stock futures were flat on Wednesday night as traders digested the Federal Reserve's pledge to keep rates low over the next few years.\r\nDow Jones Industrial Average traded 6 points lower, or 0.0… [+1891 chars]",
-         "source" : {
-            "name" : "CNBC",
-            "id" : null
-         }
-      },
-      {
-         "content" : "Chat with us in Facebook Messenger. Find out what's happening in the world as it unfolds.",
-         "source" : {
-            "name" : "CNN",
-            "id" : "cnn"
-         },
-         "description" : "A video a manipulated video of Democratic Presidential candidate Joe Biden share by Presdient Donald Trump was flagged by Twitter. CNN's Donie O'Sullivan reports.",
          "title" : "Twitter flags manipulated Biden video shared by Trump - CNN",
-         "url" : "https://www.cnn.com/videos/media/2020/09/16/trump-shares-manipulated-biden-video-donie-osullivan-nr-vpx.cnn",
-         "publishedAt" : "2020-09-16T21:30:40Z",
-         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200916160923-trump-shares-manipulated-biden-video-donie-osullivan-nr-vpx-00004627-super-tease.jpg",
-         "author" : null
+         "description" : "A video a manipulated video of Democratic Presidential candidate Joe Biden share by Presdient Donald Trump was flagged by Twitter. CNN's Donie O'Sullivan reports."
       },
       {
+         "url" : "https://gizmodo.com/facebooks-ar-ray-bans-are-a-stylish-but-horrible-idea-1845081763",
+         "title" : "Facebook's AR Ray-Bans Are a Stylish but Horrible Idea - Gizmodo",
+         "source" : {
+            "id" : null,
+            "name" : "Gizmodo.com"
+         },
+         "content" : "We learned two things about Facebook today. First, its working on Project Aria, an experimental platform that will eventually lead to a pair of AR glasses that will stream data to your face. Next, we… [+2048 chars]",
+         "publishedAt" : "2020-09-16T21:10:00Z",
+         "author" : "John Biggs",
+         "urlToImage" : "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/mxhnnphjbgjwxv9cxlbw.jpg",
+         "description" : "We learned two things about Facebook today. First, it’s working on Project Aria, an experimental platform that will  eventually lead to a pair of AR glasses that will stream data to your face. Next, we learned that it’s in partnership with sunglasses manufact…"
+      },
+      {
+         "description" : "Chick-fil-A has introduced a new sandwich for testing in the Upstate.",
+         "urlToImage" : "https://bloximages.newyork1.vip.townnews.com/postandcourier.com/content/tncms/assets/v3/editorial/f/92/f9279926-f853-11ea-b489-d36d4a6ff617/5f6269fd906c3.image.jpg?resize=852%2C630",
+         "author" : "Conor Hughes chughes@postandcourier.com",
+         "publishedAt" : "2020-09-16T20:39:00Z",
          "content" : "Just more than a year after the Popeye's chicken sandwich caused a frenzy across the country, Chick-fil-A has introduced a novel addition in the Chicken Wars.\r\nAnd its fate will be decided by Upstate… [+1597 chars]",
          "source" : {
             "name" : "Charleston Post Courier",
             "id" : null
          },
-         "description" : "Chick-fil-A has introduced a new sandwich for testing in the Upstate.",
-         "url" : "https://www.postandcourier.com/greenville/news/chicken-wars-upstate-will-decide-fate-of-chick-fil-as-new-honey-pepper-pimento-sandwich/article_d1cca11c-f83c-11ea-bf80-37a8b655ecd5.html",
          "title" : "Chicken Wars: Upstate will decide fate of Chick-fil-A's new Honey Pepper Pimento Sandwich - Charleston Post Courier",
-         "publishedAt" : "2020-09-16T20:39:00Z",
-         "urlToImage" : "https://bloximages.newyork1.vip.townnews.com/postandcourier.com/content/tncms/assets/v3/editorial/f/92/f9279926-f853-11ea-b489-d36d4a6ff617/5f6269fd906c3.image.jpg?resize=852%2C630",
-         "author" : "Conor Hughes chughes@postandcourier.com"
+         "url" : "https://www.postandcourier.com/greenville/news/chicken-wars-upstate-will-decide-fate-of-chick-fil-as-new-honey-pepper-pimento-sandwich/article_d1cca11c-f83c-11ea-bf80-37a8b655ecd5.html"
       },
       {
-         "urlToImage" : "https://g.foolcdn.com/editorial/images/591965/3-cruise-liner-ships-lined-up-abreast-in-port.jpg",
-         "publishedAt" : "2020-09-16T20:31:00Z",
-         "title" : "Why Carnival Corporation, Royal Caribbean, and Norwegian Cruise Line Holdings Stocks Bounced Back Wednesday - The Motley Fool",
-         "url" : "https://www.fool.com/investing/2020/09/16/why-carnival-corporation-royal-caribbean-and-norwe/",
          "description" : "What went down (yesterday) just came back up (today).",
+         "urlToImage" : "https://g.foolcdn.com/editorial/images/591965/3-cruise-liner-ships-lined-up-abreast-in-port.jpg",
          "author" : "Rich Smith",
          "content" : "What happened\r\nShares of major cruise line stocks Carnival Corporation(NYSE:CCL)(NYSE:CUK), Royal Caribbean(NYSE:RCL), and Norwegian Cruise Line Holdings(NASDAQ:NCLH) all took a bath yesterday -- the… [+2162 chars]",
+         "publishedAt" : "2020-09-16T20:31:00Z",
          "source" : {
-            "name" : "Motley Fool",
-            "id" : null
-         }
+            "id" : null,
+            "name" : "Motley Fool"
+         },
+         "title" : "Why Carnival Corporation, Royal Caribbean, and Norwegian Cruise Line Holdings Stocks Bounced Back Wednesday - The Motley Fool",
+         "url" : "https://www.fool.com/investing/2020/09/16/why-carnival-corporation-royal-caribbean-and-norwe/"
       },
       {
+         "description" : "Bitcoin and a few altcoins have broken above key resistance levels, which suggests that the bulls are attempting to take control of the market",
+         "source" : {
+            "name" : "Cointelegraph",
+            "id" : null
+         },
+         "title" : "Price analysis 9/16: BTC, ETH, XRP, DOT, BCH, BNB, LINK, CRO, LTC, BSV - Cointelegraph",
+         "url" : "https://cointelegraph.com/news/price-analysis-9-16-btc-eth-xrp-dot-bch-bnb-link-cro-ltc-bsv",
+         "urlToImage" : "https://s3.cointelegraph.com/storage/uploads/view/cad2a18418cd7b50d472bd0cc253601f.jpg",
+         "author" : "Rakesh Upadhyay",
+         "content" : "This week MicroStrategy, a Nasdaq-listed company, announced that it had added 16,796 Bitcoin (BTC) to its existing holding of 21,454 Bitcoin. This means in less than a year the firm has amassed 38,25… [+8889 chars]",
+         "publishedAt" : "2020-09-16T20:30:00Z"
+      },
+      {
+         "description" : "Raytheon, the parent company of Pratt &amp; Whitney, announced its plans for layoffs is deepening.",
+         "publishedAt" : "2020-09-16T20:29:00Z",
          "content" : "(WFSB) -- Raytheon, the parent company of Pratt &amp; Whitney, announced its plans for layoffs is deepening.\r\nThe company announced back in July that it was cutting more than 8,000 jobs.\r\nOn Wednesda… [+910 chars]",
+         "author" : "WFSB Staff",
+         "urlToImage" : "https://bloximages.newyork1.vip.townnews.com/wfsb.com/content/tncms/assets/v3/editorial/c/13/c1339d0a-f85b-11ea-a320-77214226801e/5f627663820de.image.jpg?resize=423%2C200",
+         "url" : "https://www.wfsb.com/news/pratt-whitney-parent-company-raytheon-announces-more-layoffs/article_45555f2a-f85b-11ea-86ad-87c18cd67fb4.html",
+         "title" : "Pratt & Whitney parent company Raytheon announces more layoffs - WFSB",
          "source" : {
             "name" : "WFSB",
             "id" : null
-         },
-         "publishedAt" : "2020-09-16T20:29:00Z",
-         "urlToImage" : "https://bloximages.newyork1.vip.townnews.com/wfsb.com/content/tncms/assets/v3/editorial/c/13/c1339d0a-f85b-11ea-a320-77214226801e/5f627663820de.image.jpg?resize=423%2C200",
-         "description" : "Raytheon, the parent company of Pratt &amp; Whitney, announced its plans for layoffs is deepening.",
-         "url" : "https://www.wfsb.com/news/pratt-whitney-parent-company-raytheon-announces-more-layoffs/article_45555f2a-f85b-11ea-86ad-87c18cd67fb4.html",
-         "title" : "Pratt & Whitney parent company Raytheon announces more layoffs - WFSB",
-         "author" : "WFSB Staff"
-      },
-      {
-         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/08/0/0/target-store-Getty.jpg?ve=1&tl=1",
-         "publishedAt" : "2020-09-16T20:25:10Z",
-         "url" : "https://www.foxbusiness.com/lifestyle/target-florida-coronavirus",
-         "title" : "Anti-mask protesters march through Florida Target, yell: 'Take off your mask!' - Fox Business",
-         "description" : "The group chanted \"take off your mask,\" \"we're not gonna take it anymore\" as well as \"yeah, we got one\" as they headed down the store aisle.",
-         "author" : "Daniella Genovese",
-         "content" : "A group of anti-mask protesters marched through a Florida Target this week calling for customers to take off their masks despite an increasing number of COVID-19 cases hitting the state.\r\nIn a video … [+1659 chars]",
-         "source" : {
-            "id" : null,
-            "name" : "Fox Business"
          }
       },
       {
+         "description" : "The group chanted \"take off your mask,\" \"we're not gonna take it anymore\" as well as \"yeah, we got one\" as they headed down the store aisle.",
+         "url" : "https://www.foxbusiness.com/lifestyle/target-florida-coronavirus",
+         "title" : "Anti-mask protesters march through Florida Target, yell: 'Take off your mask!' - Fox Business",
          "source" : {
-            "name" : "MarketWatch",
-            "id" : null
+            "id" : null,
+            "name" : "Fox Business"
          },
-         "content" : "Shares of Netflix Inc. \r\n NFLX, \r\n -2.44%\r\nslipped 2.45% to $483.86 Wednesday, on what proved to be an all-around mixed trading session for the stock market, with the Dow Jones Industrial Average \r\n … [+788 chars]",
-         "author" : "MarketWatch Automation",
-         "title" : "Netflix Inc. stock falls Wednesday, underperforms market - MarketWatch",
-         "url" : "https://www.marketwatch.com/story/netflix-inc-stock-falls-wednesday-underperforms-market-01600287929",
-         "description" : "",
-         "urlToImage" : "https://images.mktw.net/im-215085/social",
-         "publishedAt" : "2020-09-16T20:25:00Z"
+         "publishedAt" : "2020-09-16T20:25:10Z",
+         "content" : "A group of anti-mask protesters marched through a Florida Target this week calling for customers to take off their masks despite an increasing number of COVID-19 cases hitting the state.\r\nIn a video … [+1659 chars]",
+         "author" : "Daniella Genovese",
+         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/08/0/0/target-store-Getty.jpg?ve=1&tl=1"
       },
       {
-         "content" : "New York (CNN Business)It may still be the dog days of summer but there was a blizzard on Wall Street Wednesday. Shares of Snowflake, a cloud data warehousing firm that has the backing of Salesforce(… [+3502 chars]",
+         "author" : "MarketWatch Automation",
+         "publishedAt" : "2020-09-16T20:25:00Z",
+         "content" : "Shares of Bank of America Corp. \r\n BAC, \r\n +1.26%\r\nadvanced 1.27% to $25.60 Wednesday, on what proved to be an all-around mixed trading session for the stock market, with the Dow Jones Industrial Ave… [+795 chars]",
+         "urlToImage" : "https://images.mktw.net/im-215080/social",
+         "url" : "https://www.marketwatch.com/story/bank-of-america-corp-stock-outperforms-market-on-strong-trading-day-01600287943",
+         "source" : {
+            "id" : null,
+            "name" : "MarketWatch"
+         },
+         "title" : "Bank of America Corp. stock outperforms market on strong trading day - MarketWatch",
+         "description" : ""
+      },
+      {
+         "url" : "https://www.cnn.com/2020/09/16/investing/snowflake-ipo/index.html",
          "source" : {
             "id" : "cnn",
             "name" : "CNN"
          },
-         "url" : "https://www.cnn.com/2020/09/16/investing/snowflake-ipo/index.html",
          "title" : "Snowflake shares more than double. It's the biggest software IPO ever - CNN",
-         "description" : "Snowflake, a cloud data warehousing firm that has the backing of Salesforce and Warren Buffett's Berkshire Hathaway, is set to go public in what stands to be the biggest software IPO ever.",
-         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200910095810-snowflake-cloud-data-file-super-tease.jpg",
+         "author" : "Paul R. La Monica, CNN Business",
          "publishedAt" : "2020-09-16T20:19:00Z",
-         "author" : "Paul R. La Monica, CNN Business"
+         "content" : "New York (CNN Business)It may still be the dog days of summer but there was a blizzard on Wall Street Wednesday. Shares of Snowflake, a cloud data warehousing firm that has the backing of Salesforce(… [+3502 chars]",
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200910095810-snowflake-cloud-data-file-super-tease.jpg",
+         "description" : "Snowflake, a cloud data warehousing firm that has the backing of Salesforce and Warren Buffett's Berkshire Hathaway, is set to go public in what stands to be the biggest software IPO ever."
       },
       {
-         "source" : {
-            "id" : null,
-            "name" : "Visual Capitalist"
-         },
-         "content" : "Social media has seeped into virtually all aspects of modern life. The vast social media universe collectively now holds 3.8 billion users, representing roughly 50% of the global population.\r\nWith an… [+6478 chars]",
-         "author" : "Iman Ghosh",
-         "publishedAt" : "2020-09-16T20:15:21Z",
-         "urlToImage" : "https://www.visualcapitalist.com/wp-content/uploads/2020/09/Shape_of_recovery_shareable.jpg",
-         "description" : "Economic recovery from COVID-19 could come in four shapes—L, U, W, and V. What do they mean, and what do global CEOs see as the most likely?",
-         "url" : "https://www.visualcapitalist.com/shapes-of-recovery-when-will-the-global-economy-bounce-back/",
-         "title" : "Shapes of Recovery: Will The Global Economy Bounce Back? - Visual Capitalist"
-      },
-      {
-         "source" : {
-            "name" : "Daily Mail",
-            "id" : null
-         },
-         "content" : "Oracle's bid to buy TikTok from Chinese parent ByteDance has reportedly fallen short of requirements from the Trump administration to resolve concerns that the video-sharing app represents a national… [+3366 chars]",
-         "author" : "By Keith Griffith For Dailymail.com Wires",
-         "description" : "The proposed deal has drawn continuing concerns from national security officials could sway President Donald Trump's decision, people familiar with the deal told Bloomberg News.",
-         "url" : "https://www.dailymail.co.uk/news/article-8740935/Oracles-bid-Chinese-owned-TikTok-fails-gain-approval-report-says.html",
-         "title" : "Oracle's bid for Chinese-owned TikTok fails to gain approval, report says - Daily Mail",
-         "publishedAt" : "2020-09-16T20:11:35Z",
-         "urlToImage" : "https://i.dailymail.co.uk/1s/2020/09/16/22/33273080-0-image-a-30_1600291265617.jpg"
-      },
-      {
-         "content" : null,
-         "source" : {
-            "id" : null,
-            "name" : "Eater"
-         },
-         "urlToImage" : "https://cdn.vox-cdn.com/thumbor/WpGjCXtEQFIF0Nzx4UctTa74fRw=/0x392:5477x3260/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/21885072/1271063805.jpg.jpg",
-         "publishedAt" : "2020-09-16T20:08:32Z",
-         "title" : "NYC Restaurants Will Soon Be Able to Add Up to 10 Percent Surcharge to Diners’ Bills - Eater NY",
-         "url" : "https://ny.eater.com/2020/9/16/21439566/nyc-restaurants-surcharge-coronavirus",
-         "description" : "Restaurants in the city will be able to tack on the extra charge as a COVID-19 recovery measure",
-         "author" : "Erika Adams"
-      },
-      {
-         "url" : "https://www.investing.com/news/stock-market-news/dow-eases-from-highs-as-techs-dive-reins-in-bulls-2298074",
-         "title" : "Dow Eases From Highs as Tech's Dive Reins in Bulls - Investing.com",
-         "description" : "Dow Eases From Highs as Tech's Dive Reins in Bulls",
-         "urlToImage" : "https://i-invdn-com.akamaized.net/news/LYNXMPEE7021H_L.jpg",
-         "publishedAt" : "2020-09-16T20:08:00Z",
-         "author" : null,
-         "content" : "By Yasin Ebrahim\r\nInvesting.com The Dow eased from highs on Wednesday, as investors weighed up a rout in tech and the Federal Reserve's pledge to keep rates lower for a prolonged period. \r\nThe Dow Jo… [+2624 chars]",
-         "source" : {
-            "id" : null,
-            "name" : "Investing.com"
-         }
-      },
-      {
-         "description" : "About 60% of businesses that have closed during the coronavirus pandemic will never reopen, and restaurants have suffered the most, according to new data from Yelp.",
-         "title" : "More than half of businesses that closed during the pandemic won't reopen - CNN",
-         "url" : "https://www.cnn.com/2020/09/16/business/yelp-coronavirus-closures/index.html",
-         "publishedAt" : "2020-09-16T19:57:00Z",
-         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200916141449-permanently-closed-restaurant-0831-super-tease.jpg",
-         "author" : "Danielle Wiener-Bronner, CNN Business",
-         "content" : "New York (CNN Business)About 60% of businesses that have closed during the coronavirus pandemic will never reopen, and restaurants have suffered the most, according to new data from Yelp. \r\nThe revie… [+2347 chars]",
+         "description" : "Kodak stock briefly surged more than 80% on Wednesday after a special committee's investigation found no evidence of insider trading prior to the announcement of a US government loan.",
+         "title" : "Kodak stock soars after review finds no insider trading - CNN",
          "source" : {
             "name" : "CNN",
             "id" : "cnn"
-         }
+         },
+         "url" : "https://www.cnn.com/2020/09/16/investing/kodak-stock-surge/index.html",
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200729103402-01-kodak-booth-file-super-tease.jpg",
+         "publishedAt" : "2020-09-16T20:18:00Z",
+         "content" : null,
+         "author" : "Jazmin Goodwin, CNN Business"
       },
       {
-         "urlToImage" : "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB1976K7.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg",
-         "publishedAt" : "2020-09-16T19:52:00Z",
-         "title" : "30-year mortgage rate slips to new low as Fed vows to keep rates down - MSN Money",
-         "url" : "https://www.bankrate.com/mortgages/30-year-mortgage-rate-for-september-16/",
-         "description" : "The economic might of the federal government is helping to push borrowing costs lower.",
-         "author" : null,
-         "content" : "© Tetra Images via Getty Images\r\n Federal Reserve building.\r\nMortgage rates fell again for the umpteenth time this year, with the 30-year fixed slipping to 3.09 percent, the lowest ever in Bankrates … [+1717 chars]",
+         "author" : "Iman Ghosh",
+         "publishedAt" : "2020-09-16T20:15:21Z",
+         "content" : "Social media has seeped into virtually all aspects of modern life. The vast social media universe collectively now holds 3.8 billion users, representing roughly 50% of the global population.\r\nWith an… [+6478 chars]",
+         "urlToImage" : "https://www.visualcapitalist.com/wp-content/uploads/2020/09/Shape_of_recovery_shareable.jpg",
+         "url" : "https://www.visualcapitalist.com/shapes-of-recovery-when-will-the-global-economy-bounce-back/",
          "source" : {
-            "name" : "Bankrate.com",
-            "id" : null
-         }
-      },
-      {
-         "content" : "Nearly 90 percent of its revenue was gone and the company had $10 million worth of food inventory and very few customers. The company, based in the Bronx with about 2,000 employees and 400 trucks, qu… [+1614 chars]",
-         "source" : {
-            "name" : "New York Times",
+            "name" : "Visual Capitalist",
             "id" : null
          },
-         "urlToImage" : "https://static01.nyt.com/images/2020/09/16/business/16retailsales-1/16retailsales-1-facebookJumbo.jpg",
-         "publishedAt" : "2020-09-16T19:03:00Z",
-         "title" : "Americans Keep Spending, but Growth of Retail Sales Slows - The New York Times",
-         "url" : "https://www.nytimes.com/2020/09/16/business/retail-sales-consumer-spending-rise.html",
-         "description" : "Retail sales climbed 0.6 percent in August, but the increase was smaller than in previous months, prompting concerns of a recovery that is running out of steam.",
-         "author" : "Michael Corkery, Sapna Maheshwari"
+         "title" : "Shapes of Recovery: Will The Global Economy Bounce Back? - Visual Capitalist",
+         "description" : "Economic recovery from COVID-19 could come in four shapes—L, U, W, and V. What do they mean, and what do global CEOs see as the most likely?"
       },
       {
-         "content" : "WEST MILWAUKEE, Wis. —GE Healthcare announced Wednesday it is investing $50 million in its West Milwaukee facility.\r\nThe company said it intended to create a \"world-class, industry-leading product de… [+2921 chars]",
+         "description" : "White House health advisor Dr. Anthony Fauci has shared another coronavirus update, this time predicting when the point will come that we feel like life has returned somewhat to normal. Unfortunately, that won’t happen for about another year. Both Fauci and C…",
+         "url" : "https://bgr.com/2020/09/16/coronavirus-update-anthony-fauci-new-comments-covid-19/",
+         "title" : "Dr. Fauci just gave us the worst possible news about the coronavirus pandemic - BGR",
          "source" : {
             "id" : null,
-            "name" : "WISN Milwaukee"
+            "name" : "BGR"
          },
-         "publishedAt" : "2020-09-16T19:00:00Z",
-         "urlToImage" : "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/ge-west-milwaukee-1600271608.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
-         "description" : "The company said it intended to create a \"world-class, industry-leading product development and manufacturing campus for medical imaging.\"",
-         "title" : "GE Healthcare moving jobs to new $50M site in West Milwaukee - WISN Milwaukee",
-         "url" : "https://www.wisn.com/article/ge-healthcare-moving-jobs-to-new-dollar50m-site-in-west-milwaukee/34041465",
-         "author" : null
-      },
-      {
-         "publishedAt" : "2020-09-16T18:33:00Z",
-         "urlToImage" : "https://images.barrons.com/im-232849/social",
-         "description" : "",
-         "title" : "GM Unveils More Electric-Vehicle Technology. Here’s What That Means. - Barron's",
-         "url" : "https://www.barrons.com/articles/gm-unveils-electric-vehicle-technology-ultium-battery-heres-what-that-means-51600281098",
-         "author" : "Al Root",
-         "content" : "General Motorsunveiled its Ultium Drive on Wednesday. It sounds high-tech, but it isnt science fiction. Ultium is a solution for todays electric-vehicle market and amounts to a set of five interchang… [+2619 chars]",
-         "source" : {
-            "name" : "Barron's",
-            "id" : null
-         }
+         "publishedAt" : "2020-09-16T20:01:00Z",
+         "content" : "<ul><li>White House health advisor Dr. Anthony Fauci has shared another coronavirus update, this time predicting when the point will come that we feel like life has returned somewhat to normal.</li><… [+2830 chars]",
+         "author" : "Andy Meek",
+         "urlToImage" : "https://bgr.com/wp-content/uploads/2020/09/Dr.-Anthony-Fauci.jpg?quality=70&strip=all"
       }
    ],
-   "status" : "ok",
-   "totalResults" : 70
+   "totalResults" : 70,
+   "status" : "ok"
 }
