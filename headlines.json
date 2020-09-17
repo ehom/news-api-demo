@@ -1,103 +1,104 @@
 {
+   "status" : "ok",
    "articles" : [
       {
+         "title" : "Moderna Shares the Blueprint for Its Coronavirus Vaccine Trial - The New York Times",
+         "publishedAt" : "2020-09-17T14:23:00Z",
+         "url" : "https://www.nytimes.com/2020/09/17/health/covid-moderna-vaccine.html",
+         "author" : "Denise Grady, Katie Thomas",
          "description" : "The company hopes to earn the trust of the public and of scientists who have clamored for details of its study.",
          "source" : {
-            "name" : "New York Times",
-            "id" : null
+            "id" : null,
+            "name" : "New York Times"
          },
          "content" : "Modernas protocol release coincided with a call Thursday morning with investors to discuss the companys coronavirus work, research on other vaccines and its plans to begin developing flu vaccines.\r\nT… [+1552 chars]",
-         "author" : "Denise Grady, Katie Thomas",
-         "title" : "Moderna Shares the Blueprint for Its Coronavirus Vaccine Trial - The New York Times",
-         "urlToImage" : "https://static01.nyt.com/images/2020/09/17/science/17VIRUS-MODERNA/17VIRUS-MODERNA-facebookJumbo.jpg",
-         "url" : "https://www.nytimes.com/2020/09/17/health/covid-moderna-vaccine.html",
-         "publishedAt" : "2020-09-17T14:23:00Z"
+         "urlToImage" : "https://static01.nyt.com/images/2020/09/17/science/17VIRUS-MODERNA/17VIRUS-MODERNA-facebookJumbo.jpg"
       },
       {
+         "source" : {
+            "id" : null,
+            "name" : "Investor's Business Daily"
+         },
+         "description" : "BioNTech and Sorrento gained on Covid news, as stocks fell and Apple led declines on the Dow Jones today, despite improved weekly unemployment data.",
+         "urlToImage" : "https://www.investors.com/wp-content/uploads/2020/03/stock-NYSE-stylized-adobe.jpg",
+         "content" : "Stocks fell hard, but came off opening lows early Thursday, as the Nasdaq broke below support at its 50-day moving average. A better-than-forecast weekly jobless claims report had no impact on early … [+8473 chars]",
+         "title" : "Dow Jones Today, Stocks Tumble, Jobless Data Improves; Coronavirus News Lifts Sorrento - Investor's Business Daily",
          "publishedAt" : "2020-09-17T13:56:00Z",
          "url" : "https://www.investors.com/market-trend/stock-market-today/dow-jones-today-futures-tumble-ahead-of-jobless-data-coronavirus-news-lifts-sorrento-moderna/",
-         "urlToImage" : "https://www.investors.com/wp-content/uploads/2020/03/stock-NYSE-stylized-adobe.jpg",
-         "title" : "Dow Jones Today, Stocks Tumble, Jobless Data Improves; Coronavirus News Lifts Sorrento - Investor's Business Daily",
-         "author" : "Investor's Business Daily",
-         "content" : "Stocks fell hard, but came off opening lows early Thursday, as the Nasdaq broke below support at its 50-day moving average. A better-than-forecast weekly jobless claims report had no impact on early … [+8473 chars]",
-         "source" : {
-            "name" : "Investor's Business Daily",
-            "id" : null
-         },
-         "description" : "BioNTech and Sorrento gained on Covid news, as stocks fell and Apple led declines on the Dow Jones today, despite improved weekly unemployment data."
+         "author" : "Investor's Business Daily"
       },
       {
          "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106537153-1589461632396gettyimages-1052567766.jpeg?v=1600348947",
-         "url" : "https://www.cnbc.com/2020/09/17/delta-increases-frequent-flyer-backed-debt-sale-to-9-billion.html",
-         "title" : "Delta increases frequent flyer-backed debt sale to $9 billion - CNBC",
-         "publishedAt" : "2020-09-17T13:43:00Z",
-         "description" : "Delta says it's raising more debt backed by its frequent flyer program.",
+         "content" : "Delta Air Lines is raising $9 billion in a massive debt sale backed by its frequent flyer program, the latest large offering by an airline grappling with the coronavirus pandemic's impact on travel d… [+624 chars]",
          "source" : {
             "name" : "CNBC",
             "id" : null
          },
+         "description" : "Delta says it's raising more debt backed by its frequent flyer program.",
          "author" : "Leslie Josephs",
-         "content" : "Delta Air Lines is raising $9 billion in a massive debt sale backed by its frequent flyer program, the latest large offering by an airline grappling with the coronavirus pandemic's impact on travel d… [+624 chars]"
+         "publishedAt" : "2020-09-17T13:43:00Z",
+         "title" : "Delta increases frequent flyer-backed debt sale to $9 billion - CNBC",
+         "url" : "https://www.cnbc.com/2020/09/17/delta-increases-frequent-flyer-backed-debt-sale-to-9-billion.html"
       },
       {
-         "title" : "Papa John's is moving its main headquarters out of Louisville - WLKY Louisville",
-         "urlToImage" : "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/papa-johns-1600349613.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
-         "url" : "https://www.wlky.com/article/papa-johns-is-moving-its-main-headquarters-out-of-louisville/34055030",
-         "publishedAt" : "2020-09-17T13:34:00Z",
-         "description" : "Papa John’s International Inc. is establishing a new global headquarters in Atlanta, moving a major portion of its workforce away from Louisville.",
          "source" : {
             "id" : null,
             "name" : "WLKY Louisville"
          },
+         "description" : "Papa John’s International Inc. is establishing a new global headquarters in Atlanta, moving a major portion of its workforce away from Louisville.",
          "content" : "LOUISVILLE, Ky. (Haley Cawthon) —Papa Johns International Inc. is establishing a new global headquarters in Atlanta, moving a major portion of its workforce away from Louisville.\r\nThe pizza giant sai… [+1523 chars]",
+         "urlToImage" : "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/papa-johns-1600349613.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
+         "title" : "Papa John's is moving its main headquarters out of Louisville - WLKY Louisville",
+         "publishedAt" : "2020-09-17T13:34:00Z",
+         "url" : "https://www.wlky.com/article/papa-johns-is-moving-its-main-headquarters-out-of-louisville/34055030",
          "author" : "Louisville Business First"
       },
       {
-         "source" : {
-            "name" : "Motley Fool",
-            "id" : null
-         },
-         "description" : "Its COVID-19 antibody gets clearance to begin human trials.",
          "author" : "George Budwell",
-         "content" : "What happened\r\nShares of the mid-cap biopharma Sorrento Therapeutics(NASDAQ:SRNE) jumped by as much as 35% in pre-market trading Thursday morning. The stock is heating up today in response to the Foo… [+1561 chars]",
          "url" : "https://www.fool.com/investing/2020/09/17/why-sorrento-therapeutics-stock-is-ripping-higher/",
-         "urlToImage" : "https://g.foolcdn.com/editorial/images/592029/cv-3.jpg",
          "title" : "Why Sorrento Therapeutics Stock Is Ripping Higher Today - Motley Fool",
-         "publishedAt" : "2020-09-17T13:24:00Z"
+         "publishedAt" : "2020-09-17T13:24:00Z",
+         "urlToImage" : "https://g.foolcdn.com/editorial/images/592029/cv-3.jpg",
+         "content" : "What happened\r\nShares of the mid-cap biopharma Sorrento Therapeutics(NASDAQ:SRNE) jumped by as much as 35% in pre-market trading Thursday morning. The stock is heating up today in response to the Foo… [+1561 chars]",
+         "description" : "Its COVID-19 antibody gets clearance to begin human trials.",
+         "source" : {
+            "id" : null,
+            "name" : "Motley Fool"
+         }
       },
       {
-         "source" : {
-            "id" : "fox-news",
-            "name" : "Fox News"
-         },
-         "description" : "Ford's first all-electric F-150 will go on sale in 2022 as the most powerful model in the lineup.",
-         "content" : "Ford has revealed new information about its upcoming all-electric F-150.\r\nThe battery-powered truck is scheduled to enter production in mid-2022 at a dedicated facility being built at the automaker’s… [+1949 chars]",
          "author" : "Gary Gastelu",
          "title" : "Electric Ford F-150 will be the most powerful model, company says - Fox News",
+         "publishedAt" : "2020-09-17T12:52:15Z",
          "url" : "https://www.foxnews.com/auto/electric-ford-f-150-most-powerful",
          "urlToImage" : "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/electric-.jpg",
-         "publishedAt" : "2020-09-17T12:52:15Z"
+         "content" : "Ford has revealed new information about its upcoming all-electric F-150.\r\nThe battery-powered truck is scheduled to enter production in mid-2022 at a dedicated facility being built at the automaker’s… [+1949 chars]",
+         "source" : {
+            "name" : "Fox News",
+            "id" : "fox-news"
+         },
+         "description" : "Ford's first all-electric F-150 will go on sale in 2022 as the most powerful model in the lineup."
       },
       {
-         "urlToImage" : "https://s.marketwatch.com/public/resources/images/MW-IO655_jobles_ZG_20200917092108.jpg",
+         "author" : "Jeffry Bartash",
          "url" : "https://www.marketwatch.com/story/us-jobless-claims-fall-in-mid-september-but-economy-still-appears-to-be-suffering-sizable-layoffs-2020-09-17",
          "title" : "U.S. jobless claims fall in mid-September, but the economy still suffering lots of layoffs - MarketWatch",
          "publishedAt" : "2020-09-17T12:52:00Z",
+         "urlToImage" : "https://s.marketwatch.com/public/resources/images/MW-IO655_jobles_ZG_20200917092108.jpg",
+         "content" : "The numbers: The number of Americans who applied for unemployment benefits through state and federal programs fell in September for the first time in five weeks, but initial jobless claims are still … [+3862 chars]",
          "description" : "Initial state jobless claims drop to 860,000 from 893,000",
          "source" : {
             "id" : null,
             "name" : "MarketWatch"
-         },
-         "author" : "Jeffry Bartash",
-         "content" : "The numbers: The number of Americans who applied for unemployment benefits through state and federal programs fell in September for the first time in five weeks, but initial jobless claims are still … [+3862 chars]"
+         }
       },
       {
-         "publishedAt" : "2020-09-17T12:46:59Z",
-         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200917132855-flight-to-nowhere-tz-1-super-tease.jpg",
-         "url" : "https://www.cnn.com/travel/article/flights-to-nowhere-qantas/index.html",
-         "title" : "Qantas offers a seven-hour flight to nowhere - CNN",
          "author" : "Francesca Street, CNN",
+         "url" : "https://www.cnn.com/travel/article/flights-to-nowhere-qantas/index.html",
+         "publishedAt" : "2020-09-17T12:46:59Z",
+         "title" : "Qantas offers a seven-hour flight to nowhere - CNN",
          "content" : "(CNN) Pre-pandemic, many of us viewed flying simply as a method of getting from one destination to another as quickly as possible.\r\nBut as travel bans, closed borders and shelter-in-place orders conf… [+2905 chars]",
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200917132855-flight-to-nowhere-tz-1-super-tease.jpg",
          "description" : "With international flights restricted, Australian carrier Qantas is the latest airline to offer a flight to nowhere, taking in local sights to passengers paying up to US$2,700.",
          "source" : {
             "id" : "cnn",
@@ -105,162 +106,161 @@
          }
       },
       {
-         "publishedAt" : "2020-09-17T12:30:00Z",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106583366-15925029982020-06-18t175348z_650862469_rc2tbh9t4nmh_rtrmadp_0_usa-economy-kentucky.jpeg?v=1600342860",
-         "url" : "https://www.cnbc.com/2020/09/17/weekly-jobless-claims.html",
-         "title" : "Jobless claims were lower than expected as trend improves heading into autumn - CNBC",
          "author" : "Jeff Cox",
+         "publishedAt" : "2020-09-17T12:30:00Z",
+         "title" : "Jobless claims were lower than expected as trend improves heading into autumn - CNBC",
+         "url" : "https://www.cnbc.com/2020/09/17/weekly-jobless-claims.html",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106583366-15925029982020-06-18t175348z_650862469_rc2tbh9t4nmh_rtrmadp_0_usa-economy-kentucky.jpeg?v=1600342860",
          "content" : "First-time claims for unemployment insurance beat Wall Street estimates last week as the U.S. economy enters a critical new stage.\r\nFilings totaled 860,000 for the week ended Sept. 12, the Labor Depa… [+2280 chars]",
-         "description" : "First-time claims for unemployment insurance beat Wall Street estimates last week as the U.S. economy enters a critical new stage.",
          "source" : {
-            "id" : null,
-            "name" : "CNBC"
+            "name" : "CNBC",
+            "id" : null
+         },
+         "description" : "First-time claims for unemployment insurance beat Wall Street estimates last week as the U.S. economy enters a critical new stage."
+      },
+      {
+         "author" : "Lauren Bowling",
+         "publishedAt" : "2020-09-17T12:16:36Z",
+         "title" : "Should you lock or float your mortgage rate today? - Fox Business",
+         "url" : "https://www.foxbusiness.com/money/lock-or-float-mortgage-rate",
+         "content" : "If you’re in the market for a new mortgage (either buying your first home or investigating mortgage refinance options), you’re likely checking mortgage rates on a weekly basis.\r\nCurrently, a 30-year … [+5847 chars]",
+         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/08/0/0/Credible-lock-float-mortgage-rates-thumbnail-508545940.jpg?ve=1&tl=1",
+         "description" : "The decision each borrower needs to make before closing.",
+         "source" : {
+            "name" : "Fox Business",
+            "id" : null
          }
       },
       {
-         "description" : "The decision each borrower needs to make before closing.",
-         "source" : {
-            "id" : null,
-            "name" : "Fox Business"
-         },
-         "author" : "Lauren Bowling",
-         "content" : "If you’re in the market for a new mortgage (either buying your first home or investigating mortgage refinance options), you’re likely checking mortgage rates on a weekly basis.\r\nCurrently, a 30-year … [+5847 chars]",
-         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/08/0/0/Credible-lock-float-mortgage-rates-thumbnail-508545940.jpg?ve=1&tl=1",
-         "url" : "https://www.foxbusiness.com/money/lock-or-float-mortgage-rate",
-         "title" : "Should you lock or float your mortgage rate today? - Fox Business",
-         "publishedAt" : "2020-09-17T12:16:36Z"
-      },
-      {
+         "description" : "The Federal Reserve has pledged to keep interest rates near rock bottom for a long time to come. But a hazy outlook for an economy deeply scarred by the pandemic is still worrying investors, pushing US stock futures down sharply on Thursday.",
          "source" : {
             "id" : "cnn",
             "name" : "CNN"
          },
-         "description" : "The Federal Reserve has pledged to keep interest rates near rock bottom for a long time to come. But a hazy outlook for an economy deeply scarred by the pandemic is still worrying investors, pushing US stock futures down sharply on Thursday.",
          "content" : "A version of this story first appeared in CNN Business' Before the Bell newsletter. Not a subscriber? You can sign up right here.\r\nLondon (CNN Business)The Federal Reserve has pledged to keep interes… [+6079 chars]",
-         "author" : "Julia Horowitz, CNN Business",
-         "title" : "Why are stocks dropping? Hint: It involves Jerome Powell - CNN",
-         "url" : "https://www.cnn.com/2020/09/17/investing/premarket-stocks-trading/index.html",
          "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200916143857-02-jerome-powell-0916-super-tease.jpg",
-         "publishedAt" : "2020-09-17T12:04:00Z"
-      },
-      {
-         "content" : "Shares of Tesla Inc. \r\n TSLA, \r\n -1.77%\r\nsank 4.5% in premarket trading Thursday, putting them on track to extend the pullback started in the previous session. The stock fell 1.8% on Wednesday, amid … [+906 chars]",
-         "author" : "Tomi Kilgore",
-         "source" : {
-            "id" : null,
-            "name" : "MarketWatch"
-         },
-         "description" : "",
+         "url" : "https://www.cnn.com/2020/09/17/investing/premarket-stocks-trading/index.html",
+         "title" : "Why are stocks dropping? Hint: It involves Jerome Powell - CNN",
          "publishedAt" : "2020-09-17T12:04:00Z",
-         "title" : "Tesla's stock set to extend pullback, as volatility continues ahead of next week's Battery Day - MarketWatch",
-         "url" : "https://www.marketwatch.com/story/teslas-stock-set-to-extend-pullback-as-volatility-continues-ahead-of-next-weeks-battery-day-2020-09-17",
-         "urlToImage" : "https://s.wsj.net/public/resources/MWimages/MW-GP644_MicroS_ZG_20180906154215.jpg"
+         "author" : "Julia Horowitz, CNN Business"
       },
       {
-         "publishedAt" : "2020-09-17T12:00:00Z",
+         "author" : "Tomi Kilgore",
+         "title" : "Tesla's stock set to extend pullback, as volatility continues ahead of next week's Battery Day - MarketWatch",
+         "publishedAt" : "2020-09-17T12:04:00Z",
+         "url" : "https://www.marketwatch.com/story/teslas-stock-set-to-extend-pullback-as-volatility-continues-ahead-of-next-weeks-battery-day-2020-09-17",
+         "content" : "Shares of Tesla Inc. \r\n TSLA, \r\n -1.77%\r\nsank 4.5% in premarket trading Thursday, putting them on track to extend the pullback started in the previous session. The stock fell 1.8% on Wednesday, amid … [+906 chars]",
+         "urlToImage" : "https://s.wsj.net/public/resources/MWimages/MW-GP644_MicroS_ZG_20180906154215.jpg",
+         "source" : {
+            "name" : "MarketWatch",
+            "id" : null
+         },
+         "description" : ""
+      },
+      {
          "urlToImage" : "https://images.wsj.net/im-233064/social",
-         "url" : "https://www.wsj.com/articles/americas-offices-sit-half-empty-six-months-into-the-covid-19-pandemic-11600344000",
-         "title" : "America’s Offices Sit Half-Empty Six Months Into the Covid-19 Pandemic - The Wall Street Journal",
-         "author" : "Katherine Riley",
          "content" : "Six months after coronavirus lockdown orders closed workplaces across the country, most offices in the U.S. are still quiet.\r\nData from Brivo, a company that provides access-control systems for workp… [+277 chars]",
          "description" : "U.S. stores and factories are getting back to normal occupancy, but offices are lagging",
          "source" : {
             "name" : "The Wall Street Journal",
             "id" : "the-wall-street-journal"
-         }
+         },
+         "author" : "Katherine Riley",
+         "publishedAt" : "2020-09-17T12:00:00Z",
+         "title" : "America’s Offices Sit Half-Empty Six Months Into the Covid-19 Pandemic - The Wall Street Journal",
+         "url" : "https://www.wsj.com/articles/americas-offices-sit-half-empty-six-months-into-the-covid-19-pandemic-11600344000"
       },
       {
-         "content" : "Journalists in 50+ countries follow the constant flow of money made and lost in oil &amp; gas while\r\ntracking emerging trends and opportunities in the future of energy. Dont miss our exclusive\r\nnewsl… [+20 chars]",
-         "author" : "Dave Lee",
          "source" : {
             "id" : "financial-times",
             "name" : "Financial Times"
          },
          "description" : "News, analysis and comment from the Financial Times, the worldʼs leading global business publication",
+         "urlToImage" : null,
+         "content" : "Journalists in 50+ countries follow the constant flow of money made and lost in oil &amp; gas while\r\ntracking emerging trends and opportunities in the future of energy. Dont miss our exclusive\r\nnewsl… [+20 chars]",
+         "url" : "https://www.ft.com/content/3ccb1fdf-26f2-419f-8765-8f7b4a46595f",
          "publishedAt" : "2020-09-17T12:00:00Z",
          "title" : "Tesla co-founder wins Amazon funding for electric battery project - Financial Times",
-         "url" : "https://www.ft.com/content/3ccb1fdf-26f2-419f-8765-8f7b4a46595f",
-         "urlToImage" : null
+         "author" : "Dave Lee"
       },
       {
+         "content" : "Sure you could just lift up the bun, but why bother when Burger King has now printed the ingredients that you already knew were on your sandwich ­­right on the wrapper?\r\nGenius.\r\nIn its latest market… [+1495 chars]",
          "urlToImage" : "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/whopper.png",
-         "url" : "https://www.foxnews.com/food-drink/burger-king-whopper-recipe-artificial-preservatives",
-         "title" : "Burger King is putting Whopper 'recipe' on wrappers, announces item no longer has artificial preservatives - Fox News",
-         "publishedAt" : "2020-09-17T11:02:56Z",
-         "description" : "The Whopper just real. Or, at least, more real.",
          "source" : {
             "name" : "Fox News",
             "id" : "fox-news"
          },
+         "description" : "The Whopper just real. Or, at least, more real.",
          "author" : "Alexandra Deabler",
-         "content" : "Sure you could just lift up the bun, but why bother when Burger King has now printed the ingredients that you already knew were on your sandwich ­­right on the wrapper?\r\nGenius.\r\nIn its latest market… [+1495 chars]"
+         "url" : "https://www.foxnews.com/food-drink/burger-king-whopper-recipe-artificial-preservatives",
+         "publishedAt" : "2020-09-17T11:02:56Z",
+         "title" : "Burger King is putting Whopper 'recipe' on wrappers, announces item no longer has artificial preservatives - Fox News"
       },
       {
-         "title" : "Bank of England holds rates but warns of 'unusually uncertain' outlook - CNBC",
          "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106589975-1592986837409gettyimages-1220646243.jpeg?v=1596635386",
-         "url" : "https://www.cnbc.com/2020/09/17/bank-of-england-leaves-interest-rates-and-asset-purchases-unchanged.html",
-         "publishedAt" : "2020-09-17T11:00:00Z",
-         "description" : "The Bank of England on Thursday left interest rates unchanged and maintained its current level of asset purchases.",
-         "source" : {
-            "id" : null,
-            "name" : "CNBC"
-         },
          "content" : "LONDON - The Bank of England on Thursday left interest rates unchanged and maintained its current level of asset purchases, but warned that the outlook for the economy remains \"unusually uncertain.\"\r… [+4000 chars]",
-         "author" : "Elliot Smith"
-      },
-      {
-         "url" : "https://www.cnbc.com/2020/09/17/billionaire-richard-branson-wants-to-raise-460-million-for-a-new-spac.html",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106312054-1577326733824gettyimages-153269375.jpeg?v=1577326803",
-         "title" : "Billionaire Richard Branson wants to raise $460 million for a new blank check company - CNBC",
-         "publishedAt" : "2020-09-17T10:46:00Z",
          "source" : {
             "name" : "CNBC",
             "id" : null
          },
-         "description" : "Virgin founder Richard Branson is hoping to raise $460 million to create a new special purpose acquisition company.",
+         "description" : "The Bank of England on Thursday left interest rates unchanged and maintained its current level of asset purchases.",
+         "author" : "Elliot Smith",
+         "publishedAt" : "2020-09-17T11:00:00Z",
+         "title" : "Bank of England holds rates but warns of 'unusually uncertain' outlook - CNBC",
+         "url" : "https://www.cnbc.com/2020/09/17/bank-of-england-leaves-interest-rates-and-asset-purchases-unchanged.html"
+      },
+      {
          "author" : "Sam Shead",
-         "content" : "LONDON - Virgin founder Richard Branson is looking to raise $460 million to create a new special purpose acquisition company, or SPAC, becoming the latest in a line of wealthy investors to do so. \r\nI… [+2039 chars]"
+         "url" : "https://www.cnbc.com/2020/09/17/billionaire-richard-branson-wants-to-raise-460-million-for-a-new-spac.html",
+         "title" : "Billionaire Richard Branson wants to raise $460 million for a new blank check company - CNBC",
+         "publishedAt" : "2020-09-17T10:46:00Z",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106312054-1577326733824gettyimages-153269375.jpeg?v=1577326803",
+         "content" : "LONDON - Virgin founder Richard Branson is looking to raise $460 million to create a new special purpose acquisition company, or SPAC, becoming the latest in a line of wealthy investors to do so. \r\nI… [+2039 chars]",
+         "source" : {
+            "name" : "CNBC",
+            "id" : null
+         },
+         "description" : "Virgin founder Richard Branson is hoping to raise $460 million to create a new special purpose acquisition company."
       },
       {
          "title" : "Two Russians Charged in $17M Cryptocurrency Phishing Spree - Krebs on Security",
-         "urlToImage" : "https://krebsonsecurity.com/wp-content/uploads/2020/09/coinphish.png",
-         "url" : "https://krebsonsecurity.com/2020/09/two-russians-charged-in-17m-cryptocurrency-phishing-spree/",
          "publishedAt" : "2020-09-17T09:45:00Z",
-         "description" : "U.S. authorities today announced criminal charges and financial sanctions against two Russian men accused of stealing nearly $17 million worth of virtual currencies in a series of phishing attacks throughout 2017 and 2018 that spoofed websites for some of the…",
+         "url" : "https://krebsonsecurity.com/2020/09/two-russians-charged-in-17m-cryptocurrency-phishing-spree/",
+         "author" : null,
          "source" : {
-            "id" : null,
-            "name" : "Krebs on Security"
-         },
-         "content" : "U.S. authorities today announced criminal charges and financial sanctions against two Russian men accused of stealing nearly $17 million worth of virtual currencies in a series of phishing attacks th… [+5392 chars]",
-         "author" : null
-      },
-      {
-         "url" : "https://www.motor1.com/news/444410/vw-selling-bugatti-to-rimac-rumor/",
-         "urlToImage" : "https://cdn.motor1.com/images/mgl/YoXoJ/s1/bugatti-chiron-veyron-and-eb110-in-dubai.jpg",
-         "title" : "Breaking: Volkswagen Group Allegedly Selling Bugatti To Rimac - Motor1 ",
-         "publishedAt" : "2020-09-17T08:17:35Z",
-         "source" : {
-            "name" : "Motor1 ",
+            "name" : "Krebs on Security",
             "id" : null
          },
-         "description" : "An interesting report from Car Magazine says the VW Group has agreed to offload Bugatti to Croatian hypercar marque Rimac Automobili.",
-         "author" : "Adrian Padeanu",
-         "content" : "[UPDATE] Automotive News is citing German publication Manager Magazin about VW's intention to sell the Bugatti brand to Rimac by the end of this year.\r\nBetween the Nissan Z Proto, next Hyundai Tucson… [+2242 chars]"
+         "description" : "U.S. authorities today announced criminal charges and financial sanctions against two Russian men accused of stealing nearly $17 million worth of virtual currencies in a series of phishing attacks throughout 2017 and 2018 that spoofed websites for some of the…",
+         "content" : "U.S. authorities today announced criminal charges and financial sanctions against two Russian men accused of stealing nearly $17 million worth of virtual currencies in a series of phishing attacks th… [+5392 chars]",
+         "urlToImage" : "https://krebsonsecurity.com/wp-content/uploads/2020/09/coinphish.png"
       },
       {
-         "author" : "Sam Meredith",
-         "content" : "Oil pumping jacks, also known as \"nodding donkeys\", are reflected in a puddle as they operate in an oilfield near Almetyevsk, Russia, on Sunday, Aug. 16, 2020.\r\nLONDON A group of some of the world's … [+4305 chars]",
+         "description" : "An interesting report from Car Magazine says the VW Group has agreed to offload Bugatti to Croatian hypercar marque Rimac Automobili.",
+         "source" : {
+            "id" : null,
+            "name" : "Motor1 "
+         },
+         "urlToImage" : "https://cdn.motor1.com/images/mgl/YoXoJ/s1/bugatti-chiron-veyron-and-eb110-in-dubai.jpg",
+         "content" : "[UPDATE] Automotive News is citing German publication Manager Magazin about VW's intention to sell the Bugatti brand to Rimac by the end of this year.\r\nBetween the Nissan Z Proto, next Hyundai Tucson… [+2242 chars]",
+         "publishedAt" : "2020-09-17T08:17:35Z",
+         "title" : "Breaking: Volkswagen Group Allegedly Selling Bugatti To Rimac - Motor1 ",
+         "url" : "https://www.motor1.com/news/444410/vw-selling-bugatti-to-rimac-rumor/",
+         "author" : "Adrian Padeanu"
+      },
+      {
          "source" : {
             "id" : null,
             "name" : "CNBC"
          },
          "description" : "OPEC and non-OPEC allies will hold a virtual meeting on Thursday to review the oil market and discuss compliance with deep production cuts.",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106706130-1600327919478-gettyimages-1228078344-364050253_1-3.jpeg?v=1600328035",
+         "content" : "Oil pumping jacks, also known as \"nodding donkeys\", are reflected in a puddle as they operate in an oilfield near Almetyevsk, Russia, on Sunday, Aug. 16, 2020.\r\nLONDON A group of some of the world's … [+4305 chars]",
+         "title" : "OPEC and non-OPEC allies to review oil production cuts after dire demand warnings - CNBC",
          "publishedAt" : "2020-09-17T07:35:00Z",
          "url" : "https://www.cnbc.com/2020/09/17/opec-meeting-saudi-russia-review-oil-output-cuts-amid-demand-concerns.html",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106706130-1600327919478-gettyimages-1228078344-364050253_1-3.jpeg?v=1600328035",
-         "title" : "OPEC and non-OPEC allies to review oil production cuts after dire demand warnings - CNBC"
+         "author" : "Sam Meredith"
       }
    ],
-   "totalResults" : 70,
-   "status" : "ok"
+   "totalResults" : 70
 }
