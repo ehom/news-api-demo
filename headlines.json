@@ -1,266 +1,266 @@
 {
    "status" : "ok",
+   "totalResults" : 70,
    "articles" : [
       {
+         "description" : "First-day returns for market debuts are at their highest level since the bubble, professor says, and that data doesn’t include Snowflake and the rest of this week’s big software debuts",
          "publishedAt" : "2020-09-17T20:11:00Z",
          "content" : "As the importance of cloud software has grown in the global pandemic, cloud-software companies have become the most stark example of initial public offerings reaching dot-com-boom levels and beyond.M… [+4576 chars]",
          "author" : "Therese Poletti",
-         "description" : "First-day returns for market debuts are at their highest level since the bubble, professor says, and that data doesn’t include Snowflake and the rest of this week’s big software debuts",
          "urlToImage" : "https://s.marketwatch.com/public/resources/images/MW-IO708_ipo_19_ZG_20200917150941.jpg",
-         "source" : {
-            "id" : null,
-            "name" : "MarketWatch"
-         },
          "title" : "IPO like it’s 1999: Market hitting dot-com-boom levels as Snowflake and other cloud-software stocks keep popping - MarketWatch",
+         "source" : {
+            "name" : "MarketWatch",
+            "id" : null
+         },
          "url" : "https://www.marketwatch.com/story/ipo-like-its-1999-market-hitting-dot-com-boom-levels-as-snowflake-and-other-cloud-software-stocks-keep-popping-2020-09-17"
       },
       {
          "publishedAt" : "2020-09-17T19:46:48Z",
-         "content" : "Chat with us in Facebook Messenger. Find out what's happening in the world as it unfolds.",
          "description" : "CNN's Brianna Keilar says \"misinformation is a virus unto itself and Fox News is the vector.\" She breaks down the misleading and false claims on the coronavius pandemic broadcast by the network.",
+         "content" : "Chat with us in Facebook Messenger. Find out what's happening in the world as it unfolds.",
          "author" : null,
          "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200917141657-brianna-keilar-fox-misinformation-super-tease.jpg",
-         "source" : {
-            "name" : "CNN",
-            "id" : "cnn"
-         },
          "title" : "Brianna Keilar calls out Fox News guest's Covid-19 misinformation - CNN",
+         "source" : {
+            "id" : "cnn",
+            "name" : "CNN"
+         },
          "url" : "https://www.cnn.com/videos/business/2020/09/17/brianna-keilar-fox-news-coronavirus.cnnbusiness"
       },
       {
+         "author" : "Jeff Cox",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106668493-1597769211355-gettyimages-1228093749-364083555_1-6.jpeg?v=1597769277",
+         "description" : "While the move to \"average inflation targeting\" is in a respect historic for the Fed, market participants remain largely skeptical that the Fed can achieve its newly defined goal.",
+         "publishedAt" : "2020-09-17T19:41:00Z",
+         "content" : "The Marriner S. Eccles Federal Reserve building stands behind a fence in Washington, D.C., on Tuesday, Aug. 18, 2020.\r\nFor the past decade or so, the Federal Reserve has been quite effective in helpi… [+6281 chars]",
          "title" : "The market isn't convinced the Federal Reserve can achieve its inflation objective - CNBC",
-         "url" : "https://www.cnbc.com/2020/09/17/the-market-isnt-convinced-the-federal-reserve-can-achieve-its-inflation-objective.html",
          "source" : {
             "id" : null,
             "name" : "CNBC"
          },
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106668493-1597769211355-gettyimages-1228093749-364083555_1-6.jpeg?v=1597769277",
-         "content" : "The Marriner S. Eccles Federal Reserve building stands behind a fence in Washington, D.C., on Tuesday, Aug. 18, 2020.\r\nFor the past decade or so, the Federal Reserve has been quite effective in helpi… [+6281 chars]",
-         "description" : "While the move to \"average inflation targeting\" is in a respect historic for the Fed, market participants remain largely skeptical that the Fed can achieve its newly defined goal.",
-         "author" : "Jeff Cox",
-         "publishedAt" : "2020-09-17T19:41:00Z"
+         "url" : "https://www.cnbc.com/2020/09/17/the-market-isnt-convinced-the-federal-reserve-can-achieve-its-inflation-objective.html"
       },
       {
+         "title" : "TikTok Accepts Deal Revisions as Trump Prepares to Review Proposal - The New York Times",
+         "description" : "The video app is also looking for a new chief executive and has talked to candidates including a founder of Instagram.",
+         "publishedAt" : "2020-09-17T19:25:00Z",
+         "content" : "WASHINGTON The Chinese company that owns TikTok has accepted the Trump administrations changes to a deal designed to mitigate the White Houses concerns that the popular app poses a national security … [+1223 chars]",
+         "author" : "David McCabe, Erin Griffith, Ana Swanson, Mike Isaac",
+         "urlToImage" : "https://static01.nyt.com/images/2020/09/17/business/17tiktok/17tiktok-facebookJumbo.jpg",
+         "url" : "https://www.nytimes.com/2020/09/17/technology/tiktok-deal-revisions-trump-review.html",
          "source" : {
             "name" : "New York Times",
             "id" : null
-         },
-         "urlToImage" : "https://static01.nyt.com/images/2020/09/17/business/17tiktok/17tiktok-facebookJumbo.jpg",
-         "title" : "TikTok Accepts Deal Revisions as Trump Prepares to Review Proposal - The New York Times",
-         "url" : "https://www.nytimes.com/2020/09/17/technology/tiktok-deal-revisions-trump-review.html",
-         "publishedAt" : "2020-09-17T19:25:00Z",
-         "content" : "WASHINGTON The Chinese company that owns TikTok has accepted the Trump administrations changes to a deal designed to mitigate the White Houses concerns that the popular app poses a national security … [+1223 chars]",
-         "description" : "The video app is also looking for a new chief executive and has talked to candidates including a founder of Instagram.",
-         "author" : "David McCabe, Erin Griffith, Ana Swanson, Mike Isaac"
+         }
       },
       {
-         "publishedAt" : "2020-09-17T19:23:04Z",
-         "description" : null,
-         "author" : null,
-         "content" : null,
+         "url" : "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9Mzg4RVdTTVdydEHSAQA?oc=5",
          "source" : {
             "name" : "Google News",
             "id" : "google-news"
          },
-         "urlToImage" : null,
          "title" : "Bill Gates Talks About Elon Musk Saying He Built Great Electric Cars - Torque News",
-         "url" : "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9Mzg4RVdTTVdydEHSAQA?oc=5"
+         "publishedAt" : "2020-09-17T19:23:04Z",
+         "description" : null,
+         "content" : null,
+         "author" : null,
+         "urlToImage" : null
       },
       {
-         "content" : "The Dow Jones Industrial Average tried to rally before slipping lower again in a day where the bears were overpowering the bulls. Warren Buffett-backed IPO Snowflake (SNOW) saw its stock price avalan… [+4268 chars]",
-         "author" : "Investor's Business Daily",
-         "description" : "The Dow Jones Industrial Average slipped again in a day where the bears were overpowering the bulls. A Warren Buffett bet was a notable casualty.",
-         "publishedAt" : "2020-09-17T19:23:00Z",
-         "title" : "Dow Jones Slips As Rally Attempt Fails; This Snowflake Melts Despite Rising From Lows - Investor's Business Daily",
          "url" : "https://www.investors.com/market-trend/stock-market-today/dow-jones-slips-rally-attempt-fails-snowflake-melts-despite-rising-from-lows/",
          "source" : {
             "id" : null,
             "name" : "Investor's Business Daily"
          },
-         "urlToImage" : "https://www.investors.com/wp-content/uploads/2018/11/stock-bear-wave-04-adobe.jpg"
+         "title" : "Dow Jones Slips As Rally Attempt Fails; This Snowflake Melts Despite Rising From Lows - Investor's Business Daily",
+         "author" : "Investor's Business Daily",
+         "urlToImage" : "https://www.investors.com/wp-content/uploads/2018/11/stock-bear-wave-04-adobe.jpg",
+         "publishedAt" : "2020-09-17T19:23:00Z",
+         "description" : "The Dow Jones Industrial Average slipped again in a day where the bears were overpowering the bulls. A Warren Buffett bet was a notable casualty.",
+         "content" : "The Dow Jones Industrial Average tried to rally before slipping lower again in a day where the bears were overpowering the bulls. Warren Buffett-backed IPO Snowflake (SNOW) saw its stock price avalan… [+4268 chars]"
       },
       {
          "title" : "Walmart raising hourly wages for some employees - WJW FOX 8 News Cleveland",
+         "publishedAt" : "2020-09-17T18:48:00Z",
+         "description" : "BENTONVILLE, Ark. (KNWA/KFTA) — Walmart is restructuring the leadership roles at its Supercenters and raising pay for some of its salaried and hourly employees, according to a company press release on Thursday. The retail giant announced the following new pos…",
+         "content" : "BENTONVILLE, Ark. (KNWA/KFTA) Walmart is restructuring the leadership roles at its Supercenters and raising pay for some of its salaried and hourly employees, according to a company press release on … [+2504 chars]",
+         "author" : "Heath Higgs",
+         "urlToImage" : "https://fox8.com/wp-content/uploads/sites/12/2020/09/AP20217621900034.jpg?w=1280",
          "url" : "https://fox8.com/news/walmart-raising-hourly-wages-for-some-employees/",
          "source" : {
             "name" : "fox8.com",
             "id" : null
-         },
-         "urlToImage" : "https://fox8.com/wp-content/uploads/sites/12/2020/09/AP20217621900034.jpg?w=1280",
-         "description" : "BENTONVILLE, Ark. (KNWA/KFTA) — Walmart is restructuring the leadership roles at its Supercenters and raising pay for some of its salaried and hourly employees, according to a company press release on Thursday. The retail giant announced the following new pos…",
-         "author" : "Heath Higgs",
-         "content" : "BENTONVILLE, Ark. (KNWA/KFTA) Walmart is restructuring the leadership roles at its Supercenters and raising pay for some of its salaried and hourly employees, according to a company press release on … [+2504 chars]",
-         "publishedAt" : "2020-09-17T18:48:00Z"
+         }
       },
       {
-         "title" : "Carnival selling 18 cruise ships as coronavirus pandemic continues - Fox Business",
-         "url" : "https://www.foxbusiness.com/lifestyle/carnival-selling-18-cruise-ships-coronavirus-pandemic-continues",
-         "source" : {
-            "name" : "Fox Business",
-            "id" : null
-         },
-         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/09/0/0/iStock-902803706.jpg?ve=1&tl=1",
-         "description" : "Anybody need a cruise ship?",
-         "author" : "Janine Puhak",
-         "content" : "Anybody need a cruise ship?\r\nIn a somber sign of the times, the world’s largest cruise operator is selling 12% of its fleet as the coronavirus pandemic continues to drown demand for travel.\r\nAMID COR… [+1684 chars]",
-         "publishedAt" : "2020-09-17T18:34:48Z"
-      },
-      {
-         "url" : "https://finance.yahoo.com/news/am-well-spikes-in-debut-ipo-seen-as-barometer-of-telehealth-market-growth-174011611.html",
-         "title" : "Google-backed 'plumber' Amwell spikes in debut, IPO a barometer of booming telehealth market - Yahoo Finance",
-         "urlToImage" : "https://s.yimg.com/uu/api/res/1.2/GLBfS0Yqfo6WjjUmJJ6dbw--~B/aD0zMzMzO3c9NTAwMDtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2020-09/41798c30-f90c-11ea-9ef1-a77e71dcfa9e",
          "source" : {
             "id" : null,
-            "name" : "Yahoo Entertainment"
+            "name" : "Fox Business"
          },
-         "content" : "American Well Corp. (AMWL), began trading Thursday in a long-awaited move that may help boost competition in the increasingly hot telehealth market, and rides a wave of growing enthusiasm for virtual… [+2612 chars]",
-         "description" : "Amwell rides a wave of enthusiasm for virtual doctor visits that swelled during the pandemic.",
-         "author" : "Anjalee Khemlani",
-         "publishedAt" : "2020-09-17T18:28:00Z"
+         "url" : "https://www.foxbusiness.com/lifestyle/carnival-selling-18-cruise-ships-coronavirus-pandemic-continues",
+         "description" : "Anybody need a cruise ship?",
+         "publishedAt" : "2020-09-17T18:34:48Z",
+         "content" : "Anybody need a cruise ship?\r\nIn a somber sign of the times, the world’s largest cruise operator is selling 12% of its fleet as the coronavirus pandemic continues to drown demand for travel.\r\nAMID COR… [+1684 chars]",
+         "author" : "Janine Puhak",
+         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/09/0/0/iStock-902803706.jpg?ve=1&tl=1",
+         "title" : "Carnival selling 18 cruise ships as coronavirus pandemic continues - Fox Business"
       },
       {
          "source" : {
             "name" : "Yahoo Entertainment",
             "id" : null
          },
-         "urlToImage" : "https://s.yimg.com/uu/api/res/1.2/qvdLT5Y_jiT52SK7rkoJMQ--~B/aD0xMzMzO3c9MjAwMDtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bloomberg_markets_842/476098108015420c98afca9f4ff413f0",
-         "title" : "Software Maker Sumo Logic Rises in Debut After $326 Million IPO - Yahoo Finance",
-         "url" : "https://finance.yahoo.com/news/software-maker-sumo-logic-rises-172732747.html",
-         "publishedAt" : "2020-09-17T17:27:00Z",
-         "content" : "(Bloomberg) -- Sumo Logic Inc. climbed as much as 25% in its trading debut after raising $326 million in a U.S. initial public offering priced above the targeted range.\r\nThe software companys shares … [+1411 chars]",
-         "description" : "(Bloomberg) -- Sumo Logic Inc. climbed as much as 25% in its trading debut after raising $326 million in a U.S. initial public offering priced above the targeted range.The software company’s shares opened trading Thursday at $26.64 after it sold 14.8 million …",
-         "author" : "Crystal Tse"
-      },
-      {
-         "source" : {
-            "id" : "business-insider",
-            "name" : "Business Insider"
-         },
-         "urlToImage" : "https://i.insider.com/5f63765a323fc4001e0d6d28?format=jpeg",
-         "url" : "https://www.businessinsider.com/penn-national-stock-price-portnoy-momentum-drive-higher-stifel-says-2020-9",
-         "title" : "'Portnoy momentum' can drive Penn National 25% higher, Stifel says | Markets - Business Insider",
-         "publishedAt" : "2020-09-17T17:09:03Z",
-         "content" : "Getty Images / Cliff Hawkins\r\n<ul><li>Shares of Penn National Gaming are set to continue benefiting from the \"Portnoy momentum trade\" as sports-betting euphoria extends into the fall football season,… [+3191 chars]",
-         "description" : "'Portnoy momentum' can drive Penn National 25% higher, Stifel says",
-         "author" : "Matthew Fox"
+         "url" : "https://finance.yahoo.com/news/am-well-spikes-in-debut-ipo-seen-as-barometer-of-telehealth-market-growth-174011611.html",
+         "description" : "Amwell rides a wave of enthusiasm for virtual doctor visits that swelled during the pandemic.",
+         "publishedAt" : "2020-09-17T18:28:00Z",
+         "content" : "American Well Corp. (AMWL), began trading Thursday in a long-awaited move that may help boost competition in the increasingly hot telehealth market, and rides a wave of growing enthusiasm for virtual… [+2612 chars]",
+         "author" : "Anjalee Khemlani",
+         "urlToImage" : "https://s.yimg.com/uu/api/res/1.2/GLBfS0Yqfo6WjjUmJJ6dbw--~B/aD0zMzMzO3c9NTAwMDtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2020-09/41798c30-f90c-11ea-9ef1-a77e71dcfa9e",
+         "title" : "Google-backed 'plumber' Amwell spikes in debut, IPO a barometer of booming telehealth market - Yahoo Finance"
       },
       {
          "source" : {
             "id" : null,
-            "name" : "KLAS - 8 News Now"
+            "name" : "Yahoo Entertainment"
          },
-         "urlToImage" : "https://www.8newsnow.com/wp-content/uploads/sites/59/2018/05/Wynn_resorts_getty_1520554211623_36348712_ver1.0-2.jpg?w=1280",
-         "title" : "Wynn Resorts reports more than 500 employees have tested positive for COVID-19 - KLAS - 8 News Now",
-         "url" : "https://www.8newsnow.com/news/local-news/wynn-resorts-reports-more-than-500-employees-have-tested-positive-for-covid-19/",
-         "publishedAt" : "2020-09-17T17:07:00Z",
-         "content" : "LAS VEGAS (KLAS) — Wynn Resorts Las Vegas is reporting there have been 548 positive cases of COVID-19 among employees leading up to and after the reopening of the property.\r\nAccording to a news relea… [+1580 chars]",
-         "description" : "Wynn Resorts Las Vegas is reporting there have been 548 positive cases of COVID-19 among employees leading up to and after the reopening of the property.",
-         "author" : "Caroline Bleakley"
+         "url" : "https://finance.yahoo.com/news/software-maker-sumo-logic-rises-172732747.html",
+         "content" : "(Bloomberg) -- Sumo Logic Inc. climbed as much as 25% in its trading debut after raising $326 million in a U.S. initial public offering priced above the targeted range.\r\nThe software companys shares … [+1411 chars]",
+         "publishedAt" : "2020-09-17T17:27:00Z",
+         "description" : "(Bloomberg) -- Sumo Logic Inc. climbed as much as 25% in its trading debut after raising $326 million in a U.S. initial public offering priced above the targeted range.The software company’s shares opened trading Thursday at $26.64 after it sold 14.8 million …",
+         "urlToImage" : "https://s.yimg.com/uu/api/res/1.2/qvdLT5Y_jiT52SK7rkoJMQ--~B/aD0xMzMzO3c9MjAwMDtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bloomberg_markets_842/476098108015420c98afca9f4ff413f0",
+         "author" : "Crystal Tse",
+         "title" : "Software Maker Sumo Logic Rises in Debut After $326 Million IPO - Yahoo Finance"
       },
       {
-         "content" : "Dr. Anthony Fauci answers the phone at lunchtime while biting into a cold piece of pizza.\r\nThe head of the National Institute for Allergy and Infectious Diseases has almost no time to eat these days.… [+11228 chars]",
-         "description" : "\"We may not completely eliminate it,\" Fauci said of the coronavirus. \"But 2022 I think is a pretty good bet\" for getting back to a nearly normal life.",
-         "author" : "Hilary Brueck",
-         "publishedAt" : "2020-09-17T16:58:06Z",
+         "source" : {
+            "name" : "Business Insider",
+            "id" : "business-insider"
+         },
+         "url" : "https://www.businessinsider.com/penn-national-stock-price-portnoy-momentum-drive-higher-stifel-says-2020-9",
+         "author" : "Matthew Fox",
+         "urlToImage" : "https://i.insider.com/5f63765a323fc4001e0d6d28?format=jpeg",
+         "publishedAt" : "2020-09-17T17:09:03Z",
+         "description" : "'Portnoy momentum' can drive Penn National 25% higher, Stifel says",
+         "content" : "Getty Images / Cliff Hawkins\r\n<ul><li>Shares of Penn National Gaming are set to continue benefiting from the \"Portnoy momentum trade\" as sports-betting euphoria extends into the fall football season,… [+3191 chars]",
+         "title" : "'Portnoy momentum' can drive Penn National 25% higher, Stifel says | Markets - Business Insider"
+      },
+      {
+         "publishedAt" : "2020-09-17T17:07:00Z",
+         "description" : "Wynn Resorts Las Vegas is reporting there have been 548 positive cases of COVID-19 among employees leading up to and after the reopening of the property.",
+         "content" : "LAS VEGAS (KLAS) — Wynn Resorts Las Vegas is reporting there have been 548 positive cases of COVID-19 among employees leading up to and after the reopening of the property.\r\nAccording to a news relea… [+1580 chars]",
+         "author" : "Caroline Bleakley",
+         "urlToImage" : "https://www.8newsnow.com/wp-content/uploads/sites/59/2018/05/Wynn_resorts_getty_1520554211623_36348712_ver1.0-2.jpg?w=1280",
+         "title" : "Wynn Resorts reports more than 500 employees have tested positive for COVID-19 - KLAS - 8 News Now",
+         "source" : {
+            "name" : "KLAS - 8 News Now",
+            "id" : null
+         },
+         "url" : "https://www.8newsnow.com/news/local-news/wynn-resorts-reports-more-than-500-employees-have-tested-positive-for-covid-19/"
+      },
+      {
          "title" : "Fauci interview: How to stay healthy, gather safely until summer 2022 - Business Insider - Business Insider",
-         "url" : "https://www.businessinsider.com/fauci-interview-how-to-stay-healhy-get-by-until-2022-2020-9",
+         "author" : "Hilary Brueck",
          "urlToImage" : "https://i.insider.com/5f62725d57b7da001ee12106?width=1200&format=jpeg",
+         "publishedAt" : "2020-09-17T16:58:06Z",
+         "description" : "\"We may not completely eliminate it,\" Fauci said of the coronavirus. \"But 2022 I think is a pretty good bet\" for getting back to a nearly normal life.",
+         "content" : "Dr. Anthony Fauci answers the phone at lunchtime while biting into a cold piece of pizza.\r\nThe head of the National Institute for Allergy and Infectious Diseases has almost no time to eat these days.… [+11228 chars]",
+         "url" : "https://www.businessinsider.com/fauci-interview-how-to-stay-healhy-get-by-until-2022-2020-9",
          "source" : {
             "id" : "business-insider",
             "name" : "Business Insider"
          }
       },
       {
-         "title" : "This is GM’s new series of Ultium Drive electric motors - Ars Technica",
-         "url" : "https://arstechnica.com/cars/2020/09/this-family-of-electric-motors-will-drive-gms-new-electric-vehicles/",
          "source" : {
-            "name" : "Ars Technica",
-            "id" : "ars-technica"
+            "id" : "ars-technica",
+            "name" : "Ars Technica"
          },
+         "url" : "https://arstechnica.com/cars/2020/09/this-family-of-electric-motors-will-drive-gms-new-electric-vehicles/",
          "urlToImage" : "https://cdn.arstechnica.net/wp-content/uploads/2020/09/Ultium-Drive-family-760x380.jpg",
-         "content" : "114 with 56 posters participating, including story author\r\n<ul><li>\r\n This is GM's new family of Ultium Drive electric vehicle drive units. From L-R: Assist all-wheel drive unit, front-wheel drive un… [+4829 chars]",
-         "description" : "GM will have 22 new EVs on sale by 2023, and they'll all use these motors.",
          "author" : "Jonathan M. Gitlin",
-         "publishedAt" : "2020-09-17T16:53:00Z"
+         "content" : "114 with 56 posters participating, including story author\r\n<ul><li>\r\n This is GM's new family of Ultium Drive electric vehicle drive units. From L-R: Assist all-wheel drive unit, front-wheel drive un… [+4829 chars]",
+         "publishedAt" : "2020-09-17T16:53:00Z",
+         "description" : "GM will have 22 new EVs on sale by 2023, and they'll all use these motors.",
+         "title" : "This is GM’s new series of Ultium Drive electric motors - Ars Technica"
       },
       {
+         "title" : "GE’s stock surges toward best 2-day rally in 6 months after CEO Larry Culp’s upbeat comments - MarketWatch",
          "publishedAt" : "2020-09-17T16:48:00Z",
+         "description" : "J.P. Morgan analyst struggles to understand the stock’s rally, as he sees CEO comments as ‘more of the same’",
          "content" : "Shares of General Electric Co. surged for a second day on Thursday, as Chief Executive Larry Culps call for cash flow to be positive in the second half of the year emboldened investors, but left a J.… [+2806 chars]",
          "author" : "Tomi Kilgore",
-         "description" : "J.P. Morgan analyst struggles to understand the stock’s rally, as he sees CEO comments as ‘more of the same’",
+         "urlToImage" : "https://s.marketwatch.com/public/resources/images/MW-HR102_culp_l_ZG_20190911121622.jpg",
+         "url" : "https://www.marketwatch.com/story/ges-stock-surges-toward-best-2-day-rally-in-5-months-after-ceo-larry-culps-upbeat-comments-2020-09-17",
          "source" : {
             "id" : null,
             "name" : "MarketWatch"
-         },
-         "urlToImage" : "https://s.marketwatch.com/public/resources/images/MW-HR102_culp_l_ZG_20190911121622.jpg",
-         "title" : "GE’s stock surges toward best 2-day rally in 6 months after CEO Larry Culp’s upbeat comments - MarketWatch",
-         "url" : "https://www.marketwatch.com/story/ges-stock-surges-toward-best-2-day-rally-in-5-months-after-ceo-larry-culps-upbeat-comments-2020-09-17"
-      },
-      {
-         "content" : "RENO, Nev. (AP) — Google will receive more than $25 million in tax breaks after pledging an additional $600 million for a new data center in southern Nevada, state officials said.\r\nBIG TECH'S BATTLE … [+1090 chars]",
-         "description" : "Nevada state officials announced that Google will receive more than $25 million in tax breaks after pledging an additional $600 million for a new data center.",
-         "author" : "Associated Press",
-         "publishedAt" : "2020-09-17T16:24:28Z",
-         "url" : "https://www.foxbusiness.com/money/google-receives-25m-tax-break-from-nevada-to-build-facility",
-         "title" : "Google receives $25M tax break from Nevada to build facility - Fox Business",
-         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/09/0/0/iStock-nevada-google.jpg?ve=1&tl=1",
-         "source" : {
-            "name" : "Fox Business",
-            "id" : null
          }
       },
       {
-         "urlToImage" : "https://cleantechnica.com/files/2020/09/ford-f150-78.jpg",
          "source" : {
             "id" : null,
-            "name" : "CleanTechnica"
+            "name" : "Fox Business"
          },
-         "title" : "Electric Ford F150 Is A Game Changer For Fleets With A 40% Lower Cost Of Ownership - CleanTechnica",
-         "url" : "https://cleantechnica.com/2020/09/17/electric-ford-f150-is-a-game-changer-for-fleets-with-a-40-lower-cost-of-ownership/",
-         "publishedAt" : "2020-09-17T16:23:35Z",
-         "description" : "Ford opened up with more details about its fully electric F-150 in a livestreamed event this morning. The new F-150 will start rolling off the production lines in mid-2022, boasting more power and torque than its gasoline-powered counterparts. Ford is promisi…",
-         "author" : "https://www.facebook.com/mr.kyle.field",
-         "content" : "September 17th, 2020 by Kyle Field \r\nFord opened up with more details about its fully electric F-150 in a livestreamed event this morning. The new F-150 will start rolling off the production lines in… [+4809 chars]"
+         "url" : "https://www.foxbusiness.com/money/google-receives-25m-tax-break-from-nevada-to-build-facility",
+         "author" : "Associated Press",
+         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/09/0/0/iStock-nevada-google.jpg?ve=1&tl=1",
+         "description" : "Nevada state officials announced that Google will receive more than $25 million in tax breaks after pledging an additional $600 million for a new data center.",
+         "publishedAt" : "2020-09-17T16:24:28Z",
+         "content" : "RENO, Nev. (AP) — Google will receive more than $25 million in tax breaks after pledging an additional $600 million for a new data center in southern Nevada, state officials said.\r\nBIG TECH'S BATTLE … [+1090 chars]",
+         "title" : "Google receives $25M tax break from Nevada to build facility - Fox Business"
       },
       {
-         "content" : "VIENNA I have never seen an emergency room so crowded with very, very sick patients, recalls Annalisa Malara, a doctor at Codogno Hospital in Lombardy, Italy. We were literally overwhelmed by the num… [+16838 chars]",
-         "description" : "“My worry is that it’s a long winter.”",
-         "author" : "Julia Belluz",
-         "publishedAt" : "2020-09-17T16:10:00Z",
-         "url" : "https://www.vox.com/21435868/coronavirus-france-italy-spain-uk-europe",
-         "title" : "Covid-19 cases in Europe: Why Spain, France, the UK, and other countries face new outbreaks - Vox.com",
+         "source" : {
+            "name" : "CleanTechnica",
+            "id" : null
+         },
+         "url" : "https://cleantechnica.com/2020/09/17/electric-ford-f150-is-a-game-changer-for-fleets-with-a-40-lower-cost-of-ownership/",
+         "urlToImage" : "https://cleantechnica.com/files/2020/09/ford-f150-78.jpg",
+         "author" : "https://www.facebook.com/mr.kyle.field",
+         "content" : "September 17th, 2020 by Kyle Field \r\nFord opened up with more details about its fully electric F-150 in a livestreamed event this morning. The new F-150 will start rolling off the production lines in… [+4809 chars]",
+         "publishedAt" : "2020-09-17T16:23:35Z",
+         "description" : "Ford opened up with more details about its fully electric F-150 in a livestreamed event this morning. The new F-150 will start rolling off the production lines in mid-2022, boasting more power and torque than its gasoline-powered counterparts. Ford is promisi…",
+         "title" : "Electric Ford F150 Is A Game Changer For Fleets With A 40% Lower Cost Of Ownership - CleanTechnica"
+      },
+      {
          "source" : {
             "id" : null,
             "name" : "Vox"
          },
-         "urlToImage" : "https://cdn.vox-cdn.com/thumbor/-45tIT8XO9n_wl1hjHMbAWtnUJw=/0x126:3000x1697/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/21889110/GettyImages_1228537235.jpg"
+         "url" : "https://www.vox.com/21435868/coronavirus-france-italy-spain-uk-europe",
+         "content" : "VIENNA I have never seen an emergency room so crowded with very, very sick patients, recalls Annalisa Malara, a doctor at Codogno Hospital in Lombardy, Italy. We were literally overwhelmed by the num… [+16838 chars]",
+         "description" : "“My worry is that it’s a long winter.”",
+         "publishedAt" : "2020-09-17T16:10:00Z",
+         "urlToImage" : "https://cdn.vox-cdn.com/thumbor/-45tIT8XO9n_wl1hjHMbAWtnUJw=/0x126:3000x1697/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/21889110/GettyImages_1228537235.jpg",
+         "author" : "Julia Belluz",
+         "title" : "Covid-19 cases in Europe: Why Spain, France, the UK, and other countries face new outbreaks - Vox.com"
       },
       {
-         "urlToImage" : "https://media3.s-nbcnews.com/j/newscms/2020_38/3412526/200916-kroger-se-216p_bbadb4a1452558fc7003a972a11db0d3.nbcnews-fp-1200-630.jpg",
-         "source" : {
-            "name" : "NBC News",
-            "id" : "nbc-news"
-         },
          "url" : "https://www.nbcnews.com/feature/nbc-out/kroger-sued-allegedly-firing-workers-who-refused-wear-rainbow-symbol-n1240252",
+         "source" : {
+            "id" : "nbc-news",
+            "name" : "NBC News"
+         },
          "title" : "Kroger sued for allegedly firing workers who refused to wear rainbow symbol - NBC News",
          "publishedAt" : "2020-09-17T15:56:00Z",
          "description" : "The Equal Employment Opportunity Commission sued Kroger on behalf of former employees who \"hold a sincerely held religious belief that homosexuality is a sin.\"",
+         "content" : "Kroger, one of the country's largest supermarket chains, is being sued in federal court after two former employees claimed they were wrongfully terminated for refusing to wear an apron with a rainbow… [+2236 chars]",
          "author" : "Sakshi Venkatraman",
-         "content" : "Kroger, one of the country's largest supermarket chains, is being sued in federal court after two former employees claimed they were wrongfully terminated for refusing to wear an apron with a rainbow… [+2236 chars]"
+         "urlToImage" : "https://media3.s-nbcnews.com/j/newscms/2020_38/3412526/200916-kroger-se-216p_bbadb4a1452558fc7003a972a11db0d3.nbcnews-fp-1200-630.jpg"
       },
       {
-         "publishedAt" : "2020-09-17T15:49:00Z",
-         "description" : "“I don’t believe BlackRock will be ever 100 percent back in office,” the New York company’s billionaire chairman and chief executive revealed on Thursday.",
+         "title" : "Why BlackRock's Larry Fink isn't happy about the work-from-home trend - New York Post ",
+         "urlToImage" : "https://nypost.com/wp-content/uploads/sites/2/2020/09/Larry-Fink.jpg?quality=90&strip=all&w=1200",
          "author" : "Thornton McEnery",
          "content" : "The coronavirus will likely leave a permanent mark on the world’s largest asset management company, and CEO Larry Fink isn’t thrilled about it.\r\nI dont believe BlackRock will be ever 100 percent back… [+1632 chars]",
-         "source" : {
-            "name" : "New York Post",
-            "id" : null
-         },
-         "urlToImage" : "https://nypost.com/wp-content/uploads/sites/2/2020/09/Larry-Fink.jpg?quality=90&strip=all&w=1200",
+         "publishedAt" : "2020-09-17T15:49:00Z",
+         "description" : "“I don’t believe BlackRock will be ever 100 percent back in office,” the New York company’s billionaire chairman and chief executive revealed on Thursday.",
          "url" : "https://nypost.com/2020/09/17/blackrock-ceo-larry-fink-thinks-working-from-home-is-here-to-stay/",
-         "title" : "Why BlackRock's Larry Fink isn't happy about the work-from-home trend - New York Post "
+         "source" : {
+            "id" : null,
+            "name" : "New York Post"
+         }
       }
-   ],
-   "totalResults" : 70
+   ]
 }
