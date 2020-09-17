@@ -1,266 +1,266 @@
 {
-   "totalResults" : 70,
    "articles" : [
       {
-         "title" : "Fidelity's $230 billion man explains why he dumped Tesla shares but still bets big on Warren Buffett - MarketWatch",
-         "author" : "Shawn Langlois",
+         "publishedAt" : "2020-09-17T17:27:00Z",
          "source" : {
-            "id" : null,
-            "name" : "MarketWatch"
+            "name" : "MarketWatch",
+            "id" : null
          },
          "urlToImage" : "https://images.mktw.net/im-233350/social",
-         "content" : "Will Danoff manages $230 billion for Fidelity Investments, with more than half of that in the Contrafund \r\n FCNTX, \r\n -1.25%\r\n,\r\n a massive mutual fund that has obliterated the S&amp;P 500 indexs \r\n … [+1996 chars]",
          "url" : "https://www.marketwatch.com/story/fidelitys-230-billion-man-explains-why-he-dumped-tesla-but-still-bets-big-on-warren-buffett-11600363626",
-         "publishedAt" : "2020-09-17T17:27:00Z",
-         "description" : "‘With all my tech holdings, this is a very good counterbalance and some ballast for the big fund’"
+         "content" : "Will Danoff manages $230 billion for Fidelity Investments, with more than half of that in the Contrafund \r\n FCNTX, \r\n -1.25%\r\n,\r\n a massive mutual fund that has obliterated the S&amp;P 500 indexs \r\n … [+1996 chars]",
+         "title" : "Fidelity's $230 billion man explains why he dumped Tesla shares but still bets big on Warren Buffett - MarketWatch",
+         "description" : "‘With all my tech holdings, this is a very good counterbalance and some ballast for the big fund’",
+         "author" : "Shawn Langlois"
       },
       {
-         "urlToImage" : "https://i.insider.com/5f63765a323fc4001e0d6d28?format=jpeg",
+         "description" : "'Portnoy momentum' can drive Penn National 25% higher, Stifel says",
+         "author" : "Matthew Fox",
          "content" : "Getty Images / Cliff Hawkins\r\n<ul><li>Shares of Penn National Gaming are set to continue benefiting from the \"Portnoy momentum trade\" as sports-betting euphoria extends into the fall football season,… [+3191 chars]",
+         "title" : "'Portnoy momentum' can drive Penn National 25% higher, Stifel says | Markets - Business Insider",
+         "urlToImage" : "https://i.insider.com/5f63765a323fc4001e0d6d28?format=jpeg",
          "url" : "https://www.businessinsider.com/penn-national-stock-price-portnoy-momentum-drive-higher-stifel-says-2020-9",
          "publishedAt" : "2020-09-17T17:09:03Z",
-         "description" : "'Portnoy momentum' can drive Penn National 25% higher, Stifel says",
-         "title" : "'Portnoy momentum' can drive Penn National 25% higher, Stifel says | Markets - Business Insider",
-         "author" : "Matthew Fox",
          "source" : {
-            "name" : "Business Insider",
-            "id" : "business-insider"
+            "id" : "business-insider",
+            "name" : "Business Insider"
          }
       },
       {
-         "title" : "Fauci interview: How to stay healthy, gather safely until summer 2022 - Business Insider - Business Insider",
+         "description" : "\"We may not completely eliminate it,\" Fauci said of the coronavirus. \"But 2022 I think is a pretty good bet\" for getting back to a nearly normal life.",
          "author" : "Hilary Brueck",
-         "source" : {
-            "name" : "Business Insider",
-            "id" : "business-insider"
-         },
-         "urlToImage" : "https://i.insider.com/5f62725d57b7da001ee12106?width=1200&format=jpeg",
          "content" : "Dr. Anthony Fauci answers the phone at lunchtime while biting into a cold piece of pizza.\r\nThe head of the National Institute for Allergy and Infectious Diseases has almost no time to eat these days.… [+11228 chars]",
+         "title" : "Fauci interview: How to stay healthy, gather safely until summer 2022 - Business Insider - Business Insider",
+         "urlToImage" : "https://i.insider.com/5f62725d57b7da001ee12106?width=1200&format=jpeg",
          "url" : "https://www.businessinsider.com/fauci-interview-how-to-stay-healhy-get-by-until-2022-2020-9",
-         "publishedAt" : "2020-09-17T16:58:06Z",
-         "description" : "\"We may not completely eliminate it,\" Fauci said of the coronavirus. \"But 2022 I think is a pretty good bet\" for getting back to a nearly normal life."
+         "source" : {
+            "id" : "business-insider",
+            "name" : "Business Insider"
+         },
+         "publishedAt" : "2020-09-17T16:58:06Z"
       },
       {
-         "urlToImage" : "https://cdn.arstechnica.net/wp-content/uploads/2020/09/Ultium-Drive-family-760x380.jpg",
-         "content" : "114 with 56 posters participating, including story author\r\n<ul><li>\r\n This is GM's new family of Ultium Drive electric vehicle drive units. From L-R: Assist all-wheel drive unit, front-wheel drive un… [+4829 chars]",
-         "url" : "https://arstechnica.com/cars/2020/09/this-family-of-electric-motors-will-drive-gms-new-electric-vehicles/",
-         "description" : "GM will have 22 new EVs on sale by 2023, and they'll all use these motors.",
          "publishedAt" : "2020-09-17T16:53:00Z",
-         "title" : "This is GM’s new series of Ultium Drive electric motors - Ars Technica",
-         "author" : "Jonathan M. Gitlin",
          "source" : {
-            "name" : "Ars Technica",
-            "id" : "ars-technica"
-         }
+            "id" : "ars-technica",
+            "name" : "Ars Technica"
+         },
+         "url" : "https://arstechnica.com/cars/2020/09/this-family-of-electric-motors-will-drive-gms-new-electric-vehicles/",
+         "urlToImage" : "https://cdn.arstechnica.net/wp-content/uploads/2020/09/Ultium-Drive-family-760x380.jpg",
+         "title" : "This is GM’s new series of Ultium Drive electric motors - Ars Technica",
+         "content" : "114 with 56 posters participating, including story author\r\n<ul><li>\r\n This is GM's new family of Ultium Drive electric vehicle drive units. From L-R: Assist all-wheel drive unit, front-wheel drive un… [+4829 chars]",
+         "author" : "Jonathan M. Gitlin",
+         "description" : "GM will have 22 new EVs on sale by 2023, and they'll all use these motors."
       },
       {
          "description" : "J.P. Morgan analyst struggles to understand the stock’s rally, as he sees CEO comments as ‘more of the same’",
-         "publishedAt" : "2020-09-17T16:48:00Z",
-         "url" : "https://www.marketwatch.com/story/ges-stock-surges-toward-best-2-day-rally-in-5-months-after-ceo-larry-culps-upbeat-comments-2020-09-17",
+         "author" : "Tomi Kilgore",
          "content" : "Shares of General Electric Co. surged for a second day on Thursday, as Chief Executive Larry Culps call for cash flow to be positive in the second half of the year emboldened investors, but left a J.… [+2806 chars]",
+         "title" : "GE’s stock surges toward best 2-day rally in 6 months after CEO Larry Culp’s upbeat comments - MarketWatch",
          "urlToImage" : "https://s.marketwatch.com/public/resources/images/MW-HR102_culp_l_ZG_20190911121622.jpg",
+         "url" : "https://www.marketwatch.com/story/ges-stock-surges-toward-best-2-day-rally-in-5-months-after-ceo-larry-culps-upbeat-comments-2020-09-17",
+         "publishedAt" : "2020-09-17T16:48:00Z",
          "source" : {
             "id" : null,
             "name" : "MarketWatch"
-         },
-         "author" : "Tomi Kilgore",
-         "title" : "GE’s stock surges toward best 2-day rally in 6 months after CEO Larry Culp’s upbeat comments - MarketWatch"
-      },
-      {
-         "content" : "The Dow Jones Industrial Average slid more than 375 points before cutting losses midday Thursday, as the tech-heavy Nasdaq sold off sharply. Dow Jones leader Apple lost as much as 3%, while Tesla bri… [+7127 chars]",
-         "urlToImage" : "https://www.investors.com/wp-content/uploads/2020/03/stock-bulls-bears-red-01-adobe.jpg",
-         "publishedAt" : "2020-09-17T16:27:00Z",
-         "description" : "The Dow Jones Industrial Average slid 375 points early Thursday amid jobless data. Tech stocks sold off sharply, as Apple, Snowflake and Tesla tumble.",
-         "url" : "https://www.investors.com/market-trend/stock-market-today/dow-jones-stock-market-sell-off-apple-snowflake-tesla-stock-jobless-claims/",
-         "title" : "Dow Jones Falls 375 Points, As Tech Stocks Sell-Off; Apple, Tesla Slide, While Snowflake Dives 15% - Investor's Business Daily",
-         "source" : {
-            "id" : null,
-            "name" : "Investor's Business Daily"
-         },
-         "author" : "Investor's Business Daily"
-      },
-      {
-         "url" : "https://www.vox.com/21435868/coronavirus-france-italy-spain-uk-europe",
-         "description" : "“My worry is that it’s a long winter.”",
-         "publishedAt" : "2020-09-17T16:10:00Z",
-         "urlToImage" : "https://cdn.vox-cdn.com/thumbor/-45tIT8XO9n_wl1hjHMbAWtnUJw=/0x126:3000x1697/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/21889110/GettyImages_1228537235.jpg",
-         "content" : "VIENNA I have never seen an emergency room so crowded with very, very sick patients, recalls Annalisa Malara, a doctor at Codogno Hospital in Lombardy, Italy. We were literally overwhelmed by the num… [+16838 chars]",
-         "author" : "Julia Belluz",
-         "source" : {
-            "id" : null,
-            "name" : "Vox"
-         },
-         "title" : "Covid-19 cases in Europe: Why Spain, France, the UK, and other countries face new outbreaks - Vox.com"
-      },
-      {
-         "urlToImage" : "https://media3.s-nbcnews.com/j/newscms/2020_38/3412526/200916-kroger-se-216p_bbadb4a1452558fc7003a972a11db0d3.nbcnews-fp-1200-630.jpg",
-         "content" : "Kroger, one of the country's largest supermarket chains, is being sued in federal court after two former employees claimed they were wrongfully terminated for refusing to wear an apron with a rainbow… [+2236 chars]",
-         "url" : "https://www.nbcnews.com/feature/nbc-out/kroger-sued-allegedly-firing-workers-who-refused-wear-rainbow-symbol-n1240252",
-         "publishedAt" : "2020-09-17T15:56:00Z",
-         "description" : "The Equal Employment Opportunity Commission sued Kroger on behalf of former employees who \"hold a sincerely held religious belief that homosexuality is a sin.\"",
-         "title" : "Kroger sued for allegedly firing workers who refused to wear rainbow symbol - NBC News",
-         "author" : "Sakshi Venkatraman",
-         "source" : {
-            "id" : "nbc-news",
-            "name" : "NBC News"
          }
       },
       {
-         "title" : "Why BlackRock's Larry Fink isn't happy about the work-from-home trend - New York Post ",
-         "author" : "Thornton McEnery",
+         "description" : "The Dow Jones Industrial Average slid 375 points early Thursday amid jobless data. Tech stocks sold off sharply, as Apple, Snowflake and Tesla tumble.",
+         "author" : "Investor's Business Daily",
+         "content" : "The Dow Jones Industrial Average slid more than 375 points before cutting losses midday Thursday, as the tech-heavy Nasdaq sold off sharply. Dow Jones leader Apple lost as much as 3%, while Tesla bri… [+7127 chars]",
+         "title" : "Dow Jones Falls 375 Points, As Tech Stocks Sell-Off; Apple, Tesla Slide, While Snowflake Dives 15% - Investor's Business Daily",
+         "urlToImage" : "https://www.investors.com/wp-content/uploads/2020/03/stock-bulls-bears-red-01-adobe.jpg",
+         "url" : "https://www.investors.com/market-trend/stock-market-today/dow-jones-stock-market-sell-off-apple-snowflake-tesla-stock-jobless-claims/",
+         "publishedAt" : "2020-09-17T16:27:00Z",
+         "source" : {
+            "name" : "Investor's Business Daily",
+            "id" : null
+         }
+      },
+      {
+         "author" : "Julia Belluz",
+         "description" : "“My worry is that it’s a long winter.”",
+         "title" : "Covid-19 cases in Europe: Why Spain, France, the UK, and other countries face new outbreaks - Vox.com",
+         "content" : "VIENNA I have never seen an emergency room so crowded with very, very sick patients, recalls Annalisa Malara, a doctor at Codogno Hospital in Lombardy, Italy. We were literally overwhelmed by the num… [+16838 chars]",
+         "url" : "https://www.vox.com/21435868/coronavirus-france-italy-spain-uk-europe",
+         "urlToImage" : "https://cdn.vox-cdn.com/thumbor/-45tIT8XO9n_wl1hjHMbAWtnUJw=/0x126:3000x1697/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/21889110/GettyImages_1228537235.jpg",
+         "publishedAt" : "2020-09-17T16:10:00Z",
+         "source" : {
+            "name" : "Vox",
+            "id" : null
+         }
+      },
+      {
+         "description" : "The Equal Employment Opportunity Commission sued Kroger on behalf of former employees who \"hold a sincerely held religious belief that homosexuality is a sin.\"",
+         "author" : "Sakshi Venkatraman",
+         "content" : "Kroger, one of the country's largest supermarket chains, is being sued in federal court after two former employees claimed they were wrongfully terminated for refusing to wear an apron with a rainbow… [+2236 chars]",
+         "title" : "Kroger sued for allegedly firing workers who refused to wear rainbow symbol - NBC News",
+         "urlToImage" : "https://media3.s-nbcnews.com/j/newscms/2020_38/3412526/200916-kroger-se-216p_bbadb4a1452558fc7003a972a11db0d3.nbcnews-fp-1200-630.jpg",
+         "url" : "https://www.nbcnews.com/feature/nbc-out/kroger-sued-allegedly-firing-workers-who-refused-wear-rainbow-symbol-n1240252",
+         "source" : {
+            "name" : "NBC News",
+            "id" : "nbc-news"
+         },
+         "publishedAt" : "2020-09-17T15:56:00Z"
+      },
+      {
+         "publishedAt" : "2020-09-17T15:49:00Z",
          "source" : {
             "id" : null,
             "name" : "New York Post"
          },
          "urlToImage" : "https://nypost.com/wp-content/uploads/sites/2/2020/09/Larry-Fink.jpg?quality=90&strip=all&w=1200",
-         "content" : "The coronavirus will likely leave a permanent mark on the world’s largest asset management company, and CEO Larry Fink isn’t thrilled about it.\r\nI dont believe BlackRock will be ever 100 percent back… [+1632 chars]",
          "url" : "https://nypost.com/2020/09/17/blackrock-ceo-larry-fink-thinks-working-from-home-is-here-to-stay/",
-         "publishedAt" : "2020-09-17T15:49:00Z",
-         "description" : "“I don’t believe BlackRock will be ever 100 percent back in office,” the New York company’s billionaire chairman and chief executive revealed on Thursday."
+         "content" : "The coronavirus will likely leave a permanent mark on the world’s largest asset management company, and CEO Larry Fink isn’t thrilled about it.\r\nI dont believe BlackRock will be ever 100 percent back… [+1632 chars]",
+         "title" : "Why BlackRock's Larry Fink isn't happy about the work-from-home trend - New York Post ",
+         "description" : "“I don’t believe BlackRock will be ever 100 percent back in office,” the New York company’s billionaire chairman and chief executive revealed on Thursday.",
+         "author" : "Thornton McEnery"
       },
       {
-         "content" : "Mercedes-Benz's parent company, Daimler, announced this week plans to enter the red-hot electric truck market with two new Mercedes semis that could theoretically compete with Nikola, Tesla, and a wh… [+2336 chars]",
-         "urlToImage" : "https://i.insider.com/5f63823257b7da001ee12387?width=1200&format=jpeg",
-         "publishedAt" : "2020-09-17T15:47:41Z",
          "description" : "Tesla's semi is delayed and Nikola's is involved in a high-profile legal spat — that could be good news for Mercedes.",
-         "url" : "https://www.businessinsider.com/daimler-mercedes-electric-semi-trucks-to-take-on-nikola-tesla-2020-9",
+         "author" : "Graham Rapier",
+         "content" : "Mercedes-Benz's parent company, Daimler, announced this week plans to enter the red-hot electric truck market with two new Mercedes semis that could theoretically compete with Nikola, Tesla, and a wh… [+2336 chars]",
          "title" : "Mercedes unveils 2 new electric semi-trucks to take on Nikola, Tesla - Business Insider - Business Insider",
+         "urlToImage" : "https://i.insider.com/5f63823257b7da001ee12387?width=1200&format=jpeg",
+         "url" : "https://www.businessinsider.com/daimler-mercedes-electric-semi-trucks-to-take-on-nikola-tesla-2020-9",
+         "publishedAt" : "2020-09-17T15:47:41Z",
          "source" : {
             "id" : "business-insider",
             "name" : "Business Insider"
-         },
-         "author" : "Graham Rapier"
+         }
       },
       {
          "title" : "Nvidia's ARM Acquisition: Good For Nvidia, Bad For AMD - Seeking Alpha",
+         "content" : "In my last article on Nvidia (NVDA), I discussed the huge leap forward in GPU technology marked by the launch of the GeForce RTX 30 Series. Only a few days later, NVDA announced the biggest chip deal… [+8348 chars]",
+         "author" : "Damon Verial",
+         "description" : "Nvidia's ARM acquisition is a big deal - literally and figuratively. It's the biggest chip deal ever and should certainly change how you see NVDA's valuation.",
          "source" : {
             "name" : "Seeking Alpha",
             "id" : null
          },
-         "author" : "Damon Verial",
-         "content" : "In my last article on Nvidia (NVDA), I discussed the huge leap forward in GPU technology marked by the launch of the GeForce RTX 30 Series. Only a few days later, NVDA announced the biggest chip deal… [+8348 chars]",
-         "urlToImage" : "https://static1.seekingalpha.com/uploads/2020/9/17/39657916-16003297267007291.png",
-         "description" : "Nvidia's ARM acquisition is a big deal - literally and figuratively. It's the biggest chip deal ever and should certainly change how you see NVDA's valuation.",
          "publishedAt" : "2020-09-17T15:40:00Z",
-         "url" : "https://seekingalpha.com/article/4374914-nvidias-arm-acquisition-good-for-nvidia-bad-for-amd"
+         "url" : "https://seekingalpha.com/article/4374914-nvidias-arm-acquisition-good-for-nvidia-bad-for-amd",
+         "urlToImage" : "https://static1.seekingalpha.com/uploads/2020/9/17/39657916-16003297267007291.png"
       },
       {
-         "author" : "Will Feuer",
-         "source" : {
-            "name" : "CNBC",
-            "id" : null
-         },
+         "content" : "Kodak executive ringing the opening bell on the floor of the New York Stock Exchange on January 8, 2014.\r\nHouse lawmakers on Thursday questioned the findings published earlier this week by the lawfir… [+5377 chars]",
          "title" : "House Democrats question findings of Kodak's internal review in wake of botched pharma deal - CNBC",
-         "url" : "https://www.cnbc.com/2020/09/17/house-democrats-question-findings-of-kodaks-internal-review-in-wake-of-botched-pharma-deal.html",
-         "publishedAt" : "2020-09-17T15:15:00Z",
          "description" : "\"Our Committees plan to vigorously pursue our ongoing investigation into this matter, and we expect full cooperation from Kodak and the Administration,\" Reps. Clyburn, Waters and Maloney said in a joint statement.",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/104938483-RTX176F1.jpg?v=1529452419",
-         "content" : "Kodak executive ringing the opening bell on the floor of the New York Stock Exchange on January 8, 2014.\r\nHouse lawmakers on Thursday questioned the findings published earlier this week by the lawfir… [+5377 chars]"
-      },
-      {
-         "author" : "Daniel Foelber",
+         "author" : "Will Feuer",
+         "publishedAt" : "2020-09-17T15:15:00Z",
          "source" : {
             "id" : null,
-            "name" : "Motley Fool"
+            "name" : "CNBC"
          },
-         "title" : "Where to Invest $5,000 Right Now - Motley Fool",
-         "url" : "https://www.fool.com/investing/2020/09/17/where-to-invest-5000-right-now/",
-         "publishedAt" : "2020-09-17T14:43:00Z",
-         "description" : "The choice is yours between income, value, and growth.",
-         "urlToImage" : "https://g.foolcdn.com/editorial/images/591710/gettyimages-473019082.jpg",
-         "content" : "If you're looking for a way to grow your money, the stock market is a good option. Stocks have historically produced one of the best returns of any asset class, a trend that should continue. \r\nWhethe… [+6137 chars]"
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/104938483-RTX176F1.jpg?v=1529452419",
+         "url" : "https://www.cnbc.com/2020/09/17/house-democrats-question-findings-of-kodaks-internal-review-in-wake-of-botched-pharma-deal.html"
       },
       {
-         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/09/0/0/bugatti-chiron.jpg?ve=1&tl=1",
-         "content" : "Volkswagen is in talks to sell its high-end Bugatti brand to electric supercar maker Rimac, a new report says.\r\nThe Bugatti Chiron is capable of hitting a top speed of 304 mph. (Bugatti)\r\nVolkswagen … [+1422 chars]",
-         "url" : "https://www.foxbusiness.com/lifestyle/volkswagen-selling-bugatti-rimac",
-         "publishedAt" : "2020-09-17T14:42:38Z",
-         "description" : "VW bought Bugatti in 1998 to build the world's fastest car.",
-         "title" : "Volkswagen selling Bugatti to Rimac electric car co., report says - Fox Business",
-         "author" : "Gary Gastelu",
+         "description" : "The choice is yours between income, value, and growth.",
+         "author" : "Daniel Foelber",
+         "content" : "If you're looking for a way to grow your money, the stock market is a good option. Stocks have historically produced one of the best returns of any asset class, a trend that should continue. \r\nWhethe… [+6137 chars]",
+         "title" : "Where to Invest $5,000 Right Now - Motley Fool",
+         "urlToImage" : "https://g.foolcdn.com/editorial/images/591710/gettyimages-473019082.jpg",
+         "url" : "https://www.fool.com/investing/2020/09/17/where-to-invest-5000-right-now/",
+         "source" : {
+            "name" : "Motley Fool",
+            "id" : null
+         },
+         "publishedAt" : "2020-09-17T14:43:00Z"
+      },
+      {
          "source" : {
             "name" : "Fox Business",
             "id" : null
-         }
+         },
+         "publishedAt" : "2020-09-17T14:42:38Z",
+         "url" : "https://www.foxbusiness.com/lifestyle/volkswagen-selling-bugatti-rimac",
+         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/09/0/0/bugatti-chiron.jpg?ve=1&tl=1",
+         "title" : "Volkswagen selling Bugatti to Rimac electric car co., report says - Fox Business",
+         "content" : "Volkswagen is in talks to sell its high-end Bugatti brand to electric supercar maker Rimac, a new report says.\r\nThe Bugatti Chiron is capable of hitting a top speed of 304 mph. (Bugatti)\r\nVolkswagen … [+1422 chars]",
+         "author" : "Gary Gastelu",
+         "description" : "VW bought Bugatti in 1998 to build the world's fastest car."
       },
       {
          "content" : "Theres perhaps never been a better time to take out a mortgage at least from an interest rate perspective. But finding a bank willing to lend to you may prove tricky these days.The 30-year fixed-rate… [+2723 chars]",
-         "urlToImage" : "https://s.marketwatch.com/public/resources/images/MW-IC562_mortga_ZG_20200318162830.jpg",
-         "publishedAt" : "2020-09-17T14:20:00Z",
-         "description" : "The supply of mortgages has dropped to the lowest level since 2014, according to one metric",
-         "url" : "https://www.marketwatch.com/story/mortgage-rates-remain-near-record-lows-now-the-challenge-will-be-finding-a-lender-willing-to-give-you-one-2020-09-17",
          "title" : "Mortgage rates remain near record lows — now the challenge will be finding a lender willing to give you one - MarketWatch",
+         "description" : "The supply of mortgages has dropped to the lowest level since 2014, according to one metric",
+         "author" : "Jacob Passy",
          "source" : {
             "id" : null,
             "name" : "MarketWatch"
          },
-         "author" : "Jacob Passy"
+         "publishedAt" : "2020-09-17T14:20:00Z",
+         "urlToImage" : "https://s.marketwatch.com/public/resources/images/MW-IC562_mortga_ZG_20200318162830.jpg",
+         "url" : "https://www.marketwatch.com/story/mortgage-rates-remain-near-record-lows-now-the-challenge-will-be-finding-a-lender-willing-to-give-you-one-2020-09-17"
       },
       {
-         "description" : "HCA Healthcare had brought in a phalanx of union-busting firms to intimidate nurses into voting no.",
          "publishedAt" : "2020-09-17T14:09:00Z",
-         "url" : "https://theintercept.com/2020/09/17/north-carolina-nurses-union-hca-healthcare/",
-         "content" : "In a dramatic victory\r\n for the beleaguered American labor movement, 1,800 nurses at Asheville, North Carolina-based Mission Hospital will now be represented by a union, National Nurses United, as of… [+2915 chars]",
-         "urlToImage" : "https://theintercept.imgix.net/wp-uploads/sites/1/2020/09/GettyImages-1227655540-crop.jpg?auto=compress%2Cformat&q=90&fit=crop&w=1200&h=800",
          "source" : {
             "name" : "The Intercept",
             "id" : null
          },
+         "url" : "https://theintercept.com/2020/09/17/north-carolina-nurses-union-hca-healthcare/",
+         "urlToImage" : "https://theintercept.imgix.net/wp-uploads/sites/1/2020/09/GettyImages-1227655540-crop.jpg?auto=compress%2Cformat&q=90&fit=crop&w=1200&h=800",
+         "title" : "North Carolina Nurses Win Union in Landslide After Bitter Opposition - The Intercept - First Look Media",
+         "content" : "In a dramatic victory\r\n for the beleaguered American labor movement, 1,800 nurses at Asheville, North Carolina-based Mission Hospital will now be represented by a union, National Nurses United, as of… [+2915 chars]",
          "author" : null,
-         "title" : "North Carolina Nurses Win Union in Landslide After Bitter Opposition - The Intercept - First Look Media"
+         "description" : "HCA Healthcare had brought in a phalanx of union-busting firms to intimidate nurses into voting no."
       },
       {
-         "source" : {
-            "id" : null,
-            "name" : "CNBC"
-         },
          "author" : "Phil LeBeau",
-         "title" : "Amazon invests in battery recycling firm started by former Tesla executive - CNBC",
-         "publishedAt" : "2020-09-17T14:00:00Z",
          "description" : "Redwood Materials will be working with Amazon to recycle electric vehicle batteries, other lithium-ion batteries and e-waste from various operations within Amazon.",
-         "url" : "https://www.cnbc.com/2020/09/17/amazon-invests-in-battery-recycling-firm-started-by-former-tesla-executive.html",
+         "title" : "Amazon invests in battery recycling firm started by former Tesla executive - CNBC",
          "content" : "Amazon, one of the largest consumers of batteries in the world, is investing in battery recycling start-up Redwood Materials, a company started by former Tesla executive JB Straubel. \r\nThe investment… [+1720 chars]",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106597989-15935335822072019-07-31t190053z_1843766188_rc113e464040_rtrmadp_3_amazon-mexico.jpg?v=1593533674"
-      },
-      {
-         "title" : "Snowflake shares tumble a day after IPO surge - CNBC",
-         "author" : "Jessica Bursztynsky",
+         "url" : "https://www.cnbc.com/2020/09/17/amazon-invests-in-battery-recycling-firm-started-by-former-tesla-executive.html",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106597989-15935335822072019-07-31t190053z_1843766188_rc113e464040_rtrmadp_3_amazon-mexico.jpg?v=1593533674",
+         "publishedAt" : "2020-09-17T14:00:00Z",
          "source" : {
             "id" : null,
             "name" : "CNBC"
-         },
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106705207-1600274792763SNOW-OB-Photo-20200916-Press-3-jpg?v=1600274837",
-         "content" : "Shares of Snowflake were down more than 12% Thursday, a day after the cloud company's blockbuster market debut. \r\nShare prices closed Wednesday up more than 111%, giving Snowflake a $70.4 billion val… [+1284 chars]",
+         }
+      },
+      {
          "url" : "https://www.cnbc.com/2020/09/17/snowflake-shares-down-after-ipo-surge.html",
-         "description" : "Shares of Snowflake traded sharply lower a day after the company's blockbuster market debut.",
-         "publishedAt" : "2020-09-17T13:57:00Z"
-      },
-      {
-         "author" : "Leslie Josephs",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106705207-1600274792763SNOW-OB-Photo-20200916-Press-3-jpg?v=1600274837",
+         "publishedAt" : "2020-09-17T13:57:00Z",
          "source" : {
             "id" : null,
             "name" : "CNBC"
          },
-         "title" : "Delta increases frequent flyer-backed debt sale to $9 billion - CNBC",
-         "url" : "https://www.cnbc.com/2020/09/17/delta-increases-frequent-flyer-backed-debt-sale-to-9-billion.html",
-         "publishedAt" : "2020-09-17T13:43:00Z",
-         "description" : "Delta says it's raising more debt backed by its frequent flyer program.",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106537153-1589461632396gettyimages-1052567766.jpeg?v=1600348947",
-         "content" : "Delta Air Lines is raising $9 billion in a massive debt sale backed by its frequent flyer program, the latest large offering by an airline grappling with the coronavirus pandemic's impact on travel d… [+624 chars]"
+         "author" : "Jessica Bursztynsky",
+         "description" : "Shares of Snowflake traded sharply lower a day after the company's blockbuster market debut.",
+         "title" : "Snowflake shares tumble a day after IPO surge - CNBC",
+         "content" : "Shares of Snowflake were down more than 12% Thursday, a day after the cloud company's blockbuster market debut. \r\nShare prices closed Wednesday up more than 111%, giving Snowflake a $70.4 billion val… [+1284 chars]"
       },
       {
-         "author" : "Louisville Business First",
+         "title" : "Delta increases frequent flyer-backed debt sale to $9 billion - CNBC",
+         "content" : "Delta Air Lines is raising $9 billion in a massive debt sale backed by its frequent flyer program, the latest large offering by an airline grappling with the coronavirus pandemic's impact on travel d… [+624 chars]",
+         "author" : "Leslie Josephs",
+         "description" : "Delta says it's raising more debt backed by its frequent flyer program.",
+         "publishedAt" : "2020-09-17T13:43:00Z",
          "source" : {
-            "id" : null,
-            "name" : "WLKY Louisville"
+            "name" : "CNBC",
+            "id" : null
          },
-         "title" : "Papa John's is moving its main headquarters out of Louisville - WLKY Louisville",
-         "url" : "https://www.wlky.com/article/papa-johns-is-moving-its-main-headquarters-out-of-louisville/34055030",
+         "url" : "https://www.cnbc.com/2020/09/17/delta-increases-frequent-flyer-backed-debt-sale-to-9-billion.html",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106537153-1589461632396gettyimages-1052567766.jpeg?v=1600348947"
+      },
+      {
+         "source" : {
+            "name" : "WLKY Louisville",
+            "id" : null
+         },
          "publishedAt" : "2020-09-17T13:34:00Z",
-         "description" : "Papa John’s International Inc. is establishing a new global headquarters in Atlanta, moving a major portion of its workforce away from Louisville.",
          "urlToImage" : "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/papa-johns-1600349613.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
-         "content" : "LOUISVILLE, Ky. (Haley Cawthon) —Papa Johns International Inc. is establishing a new global headquarters in Atlanta, moving a major portion of its workforce away from Louisville.\r\nThe pizza giant sai… [+1523 chars]"
+         "url" : "https://www.wlky.com/article/papa-johns-is-moving-its-main-headquarters-out-of-louisville/34055030",
+         "content" : "LOUISVILLE, Ky. (Haley Cawthon) —Papa Johns International Inc. is establishing a new global headquarters in Atlanta, moving a major portion of its workforce away from Louisville.\r\nThe pizza giant sai… [+1523 chars]",
+         "title" : "Papa John's is moving its main headquarters out of Louisville - WLKY Louisville",
+         "description" : "Papa John’s International Inc. is establishing a new global headquarters in Atlanta, moving a major portion of its workforce away from Louisville.",
+         "author" : "Louisville Business First"
       }
    ],
-   "status" : "ok"
+   "status" : "ok",
+   "totalResults" : 70
 }
