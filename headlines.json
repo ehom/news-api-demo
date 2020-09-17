@@ -1,266 +1,266 @@
 {
+   "status" : "ok",
    "totalResults" : 70,
    "articles" : [
       {
-         "description" : "The final draft of the laws will be released by early October",
-         "source" : {
-            "id" : null,
-            "name" : "Fox Business"
-         },
-         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/04/0/0/Australia-Facebook-Google.png?ve=1&tl=1",
-         "title" : "Australia to amend law making Facebook, Google pay for news - Fox Business",
-         "publishedAt" : "2020-09-17T07:54:20Z",
          "author" : "Associated Press",
+         "publishedAt" : "2020-09-17T07:54:20Z",
          "content" : "The author of proposed Australian laws to make Facebook and Google pay for journalism said Thursday his draft legislation will be altered to allay some of the digital giants’ concerns, but remain fun… [+3127 chars]",
-         "url" : "https://www.foxbusiness.com/technology/australia-to-amend-law-making-facebook-google-pay-for-news"
+         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/04/0/0/Australia-Facebook-Google.png?ve=1&tl=1",
+         "source" : {
+            "name" : "Fox Business",
+            "id" : null
+         },
+         "url" : "https://www.foxbusiness.com/technology/australia-to-amend-law-making-facebook-google-pay-for-news",
+         "description" : "The final draft of the laws will be released by early October",
+         "title" : "Australia to amend law making Facebook, Google pay for news - Fox Business"
       },
       {
+         "description" : "US futures were sharply lower and major European indexes fell over 1% as investors reacted to the latest policy statement from the US Federal Reserve.",
+         "title" : "Stocks slide after US Fed meeting - Yahoo Finance",
+         "url" : "https://finance.yahoo.com/news/stock-market-report-17-september-ftse-dax-cac-sp-500-dow-jones-nasdaq-fed-rates-lower-for-longer-074527572.html",
          "urlToImage" : "https://s.yimg.com/ny/api/res/1.2/y_IT5mCU3P1yIsbwbqIUPA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyODA7aD04NTMuMzMzMzMzMzMzMzMzNA--/https://s.yimg.com/uu/api/res/1.2/d7hR5HG_q9Y0YNTOIoGT0A--~B/aD0yODAwO3c9NDIwMDtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2020-09/5b35af50-f8b7-11ea-bbbf-a0fab1a2670b",
          "source" : {
             "name" : "Yahoo Entertainment",
             "id" : null
          },
-         "description" : "US futures were sharply lower and major European indexes fell over 1% as investors reacted to the latest policy statement from the US Federal Reserve.",
-         "author" : "Oscar Williams-Grut",
+         "content" : "Did the stock markets epic rally just need a little breather? The last few weeks have seen stocks experience their first meaningful correction since the bull market kicked off in March. Now, the ques… [+10203 chars]",
          "publishedAt" : "2020-09-17T07:45:00Z",
-         "title" : "Stocks slide after US Fed meeting - Yahoo Finance",
-         "url" : "https://finance.yahoo.com/news/stock-market-report-17-september-ftse-dax-cac-sp-500-dow-jones-nasdaq-fed-rates-lower-for-longer-074527572.html",
-         "content" : "Did the stock markets epic rally just need a little breather? The last few weeks have seen stocks experience their first meaningful correction since the bull market kicked off in March. Now, the ques… [+10203 chars]"
+         "author" : "Oscar Williams-Grut"
       },
       {
-         "title" : "OPEC and non-OPEC allies to review oil production cuts after dire demand warnings - CNBC",
-         "author" : "Sam Meredith",
          "publishedAt" : "2020-09-17T07:35:00Z",
-         "description" : "OPEC and non-OPEC allies will hold a virtual meeting on Thursday to review the oil market and discuss compliance with deep production cuts.",
+         "author" : "Sam Meredith",
          "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106706130-1600327919478-gettyimages-1228078344-364050253_1-3.jpeg?v=1600328035",
          "source" : {
-            "name" : "CNBC",
-            "id" : null
+            "id" : null,
+            "name" : "CNBC"
          },
-         "content" : "Oil pumping jacks, also known as \"nodding donkeys\", are reflected in a puddle as they operate in an oilfield near Almetyevsk, Russia, on Sunday, Aug. 16, 2020.\r\nLONDON A group of some of the world's … [+4305 chars]",
-         "url" : "https://www.cnbc.com/2020/09/17/opec-meeting-saudi-russia-review-oil-output-cuts-amid-demand-concerns.html"
+         "url" : "https://www.cnbc.com/2020/09/17/opec-meeting-saudi-russia-review-oil-output-cuts-amid-demand-concerns.html",
+         "description" : "OPEC and non-OPEC allies will hold a virtual meeting on Thursday to review the oil market and discuss compliance with deep production cuts.",
+         "title" : "OPEC and non-OPEC allies to review oil production cuts after dire demand warnings - CNBC",
+         "content" : "Oil pumping jacks, also known as \"nodding donkeys\", are reflected in a puddle as they operate in an oilfield near Almetyevsk, Russia, on Sunday, Aug. 16, 2020.\r\nLONDON A group of some of the world's … [+4305 chars]"
       },
       {
-         "urlToImage" : "https://images.mktw.net/im-233189/social",
+         "publishedAt" : "2020-09-17T07:33:00Z",
+         "author" : "Steve Goldstein",
+         "description" : "",
+         "title" : "European stocks fall, Dow futures slump 250 points as traders react to Fed decision - MarketWatch",
+         "url" : "https://www.marketwatch.com/story/european-stocks-fall-dow-futures-slump-300-points-as-traders-react-to-fed-decision-11600328031",
          "source" : {
             "id" : null,
             "name" : "MarketWatch"
          },
-         "description" : "",
-         "author" : "Steve Goldstein",
-         "publishedAt" : "2020-09-17T07:33:00Z",
-         "title" : "European stocks fall, Dow futures slump 250 points as traders react to Fed decision - MarketWatch",
-         "url" : "https://www.marketwatch.com/story/european-stocks-fall-dow-futures-slump-300-points-as-traders-react-to-fed-decision-11600328031",
+         "urlToImage" : "https://images.mktw.net/im-233189/social",
          "content" : "European stocks slumped and U.S. stock futures weakened on Thursday, with traders in Europe getting their first chance to react to the Federal Reserves decision and its cautious outlook on the worlds… [+3168 chars]"
       },
       {
-         "description" : "Tesla’s Battery Day has been hyped so much that the event will have to include something truly amazing to live up to its expectations. In the lead up to the highly-anticipated event, a leaked image featuring what is supposedly a cell from Tesla’s “Roadrunner”…",
+         "publishedAt" : "2020-09-17T07:14:58Z",
+         "author" : "https://www.facebook.com/sim.alva",
          "urlToImage" : "https://www.teslarati.com/wp-content/uploads/2020/07/gigafactory-1-battery-cell-line-1.jpg",
          "source" : {
             "name" : "Teslarati",
             "id" : null
          },
+         "url" : "https://www.teslarati.com/tesla-roadrunner-battery-day-leak-analysis-video/",
          "title" : "Tesla ‘Roadrunner’ cell leak hints that Battery Day will be more insane than expected - Teslarati",
-         "author" : "https://www.facebook.com/sim.alva",
-         "publishedAt" : "2020-09-17T07:14:58Z",
-         "content" : "Teslas Battery Day has been hyped so much that the event will have to include something truly amazing to live up to its expectations. In the lead up to the highly-anticipated event, a leaked image fe… [+3714 chars]",
-         "url" : "https://www.teslarati.com/tesla-roadrunner-battery-day-leak-analysis-video/"
+         "description" : "Tesla’s Battery Day has been hyped so much that the event will have to include something truly amazing to live up to its expectations. In the lead up to the highly-anticipated event, a leaked image featuring what is supposedly a cell from Tesla’s “Roadrunner”…",
+         "content" : "Teslas Battery Day has been hyped so much that the event will have to include something truly amazing to live up to its expectations. In the lead up to the highly-anticipated event, a leaked image fe… [+3714 chars]"
       },
       {
-         "url" : "https://www.npr.org/2020/09/17/913741728/trump-casts-new-doubt-on-any-deal-to-keep-tiktok-alive-in-u-s",
-         "content" : "Icons for the smartphone apps TikTok and WeChat are seen on a smartphone screen in Beijing. President Trump said he does not plan to support any deal to save TikTok in the U.S. that keeps China-based… [+7791 chars]",
          "publishedAt" : "2020-09-17T05:41:00Z",
          "author" : "",
+         "url" : "https://www.npr.org/2020/09/17/913741728/trump-casts-new-doubt-on-any-deal-to-keep-tiktok-alive-in-u-s",
+         "description" : "Trump also said he's been advised \"there is no legal path\" for the U.S. to keep a cut of whatever TikTok deal the government approves, an idea he had earlier floated.",
          "title" : "Trump Casts New Doubt On Any Deal To Keep TikTok Alive In U.S. - NPR",
          "source" : {
             "name" : "NPR",
             "id" : null
          },
          "urlToImage" : "https://media.npr.org/assets/img/2020/09/16/ap_20220143274370-1-_wide-056cb0530ee2814b5440a0cc8117b850d2c2083b.jpg?s=1400",
-         "description" : "Trump also said he's been advised \"there is no legal path\" for the U.S. to keep a cut of whatever TikTok deal the government approves, an idea he had earlier floated."
+         "content" : "Icons for the smartphone apps TikTok and WeChat are seen on a smartphone screen in Beijing. President Trump said he does not plan to support any deal to save TikTok in the U.S. that keeps China-based… [+7791 chars]"
       },
       {
-         "title" : "Sumo Logic prices IPO above range at $22 - Seeking Alpha",
-         "author" : "Mamta Mayani",
-         "publishedAt" : "2020-09-17T03:37:00Z",
-         "description" : "Sumo Logic (NASDAQ:SUMO) has priced its IPO of 14.8M common shares at $22.00/share, above estimated range of $17-21, for the expected gross proceeds of $325.6M.Trading kicks off September 17.Underwriters' over-allotment is an additional 2.22M shares.Closing d…",
-         "urlToImage" : "https://static3.seekingalpha.com/assets/og_image_192-59bfd51c9fe6af025b2f9f96c807e46f8e2f06c5ae787b15bf1423e6c676d4db.png",
          "source" : {
-            "name" : "Seeking Alpha",
-            "id" : null
+            "id" : null,
+            "name" : "Seeking Alpha"
          },
+         "urlToImage" : "https://static3.seekingalpha.com/assets/og_image_192-59bfd51c9fe6af025b2f9f96c807e46f8e2f06c5ae787b15bf1423e6c676d4db.png",
+         "title" : "Sumo Logic prices IPO above range at $22 - Seeking Alpha",
+         "description" : "Sumo Logic (NASDAQ:SUMO) has priced its IPO of 14.8M common shares at $22.00/share, above estimated range of $17-21, for the expected gross proceeds of $325.6M.Trading kicks off September 17.Underwriters' over-allotment is an additional 2.22M shares.Closing d…",
+         "url" : "https://seekingalpha.com/news/3614807-sumo-logic-prices-ipo-above-range-22",
          "content" : "Sumo Logic (NASDAQ:SUMO) has priced its IPO of 14.8M common shares at $22.00/share, above estimated range of $17-21, for the expected gross proceeds of $325.6M.\r\nTrading kicks off September 17.\r\nUnde… [+960 chars]",
-         "url" : "https://seekingalpha.com/news/3614807-sumo-logic-prices-ipo-above-range-22"
+         "publishedAt" : "2020-09-17T03:37:00Z",
+         "author" : "Mamta Mayani"
       },
       {
-         "title" : "Travis Scott Reportedly Fined for Crowded McDonald's Publicity Stunt - Billboard",
          "author" : "Lars Brandle",
          "publishedAt" : "2020-09-17T03:20:35Z",
+         "content" : "Travis Scotts visit to a McDonald's restaurant in Downey, California went down a treat with fans. The police, not so much.\r\nScott has reportedly been fined for the promotional stop, which gathered sc… [+1109 chars]",
+         "url" : "https://www.billboard.com/articles/news/9449659/travis-scott-fined-crowded-mcdonalds-publicity-stunt",
+         "title" : "Travis Scott Reportedly Fined for Crowded McDonald's Publicity Stunt - Billboard",
          "description" : "",
          "urlToImage" : "https://static.billboard.com/files/media/travis-scott-rolling-loud-fest-2019-billboard-1548-1024x677.jpg",
          "source" : {
             "id" : null,
             "name" : "Billboard"
-         },
-         "content" : "Travis Scotts visit to a McDonald's restaurant in Downey, California went down a treat with fans. The police, not so much.\r\nScott has reportedly been fined for the promotional stop, which gathered sc… [+1109 chars]",
-         "url" : "https://www.billboard.com/articles/news/9449659/travis-scott-fined-crowded-mcdonalds-publicity-stunt"
+         }
       },
       {
-         "description" : "The U.S. government's filing said that using and downloading the app to communicate won't be a banned transaction, although messaging on the app could be \"directly or indirectly impaired\" by the ban.",
+         "author" : "The Associated Press",
+         "publishedAt" : "2020-09-17T02:10:00Z",
+         "content" : "A looming U.S. ban on the Chinese app WeChat won't target people who use the app to communicate, according to a government court filing Wednesday.\r\nPresident Donald Trump issued orders on August 6 th… [+1775 chars]",
          "source" : {
-            "name" : "CNBC",
-            "id" : null
+            "id" : null,
+            "name" : "CNBC"
          },
          "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106654920-1596838940110-gettyimages-1227950026-363861058_1-3.jpeg?v=1600308012",
-         "title" : "U.S. government says upcoming WeChat ban won't target users - CNBC",
-         "publishedAt" : "2020-09-17T02:10:00Z",
-         "author" : "The Associated Press",
-         "content" : "A looming U.S. ban on the Chinese app WeChat won't target people who use the app to communicate, according to a government court filing Wednesday.\r\nPresident Donald Trump issued orders on August 6 th… [+1775 chars]",
-         "url" : "https://www.cnbc.com/2020/09/17/us-government-says-upcoming-wechat-ban-wont-target-users.html"
+         "url" : "https://www.cnbc.com/2020/09/17/us-government-says-upcoming-wechat-ban-wont-target-users.html",
+         "description" : "The U.S. government's filing said that using and downloading the app to communicate won't be a banned transaction, although messaging on the app could be \"directly or indirectly impaired\" by the ban.",
+         "title" : "U.S. government says upcoming WeChat ban won't target users - CNBC"
       },
       {
-         "description" : "The New York City Council passed a law that allowed restaurants to add a 10 percent charge on customers’ bill in order to provide some relief in the wake of the pandemic.",
+         "source" : {
+            "id" : null,
+            "name" : "Fox Business"
+         },
          "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/09/0/0/nyc-restaurant-video-grab.jpg?ve=1&tl=1",
-         "source" : {
-            "id" : null,
-            "name" : "Fox Business"
-         },
+         "url" : "https://www.foxbusiness.com/lifestyle/nyc-restaurants-covid-recovery-charge-bill-passed",
+         "description" : "The New York City Council passed a law that allowed restaurants to add a 10 percent charge on customers’ bill in order to provide some relief in the wake of the pandemic.",
          "title" : "NYC restaurants can add 10% ‘COVID-19 Recovery Charge’ to customers’ bills - Fox Business",
-         "author" : "Ann Schmidt",
-         "publishedAt" : "2020-09-17T01:52:56Z",
          "content" : "A new bill from the New York City Council could help out restaurants -- but at a price for diners.\r\nOn Wednesday, the council approved a law that allows restaurants to add a “COVID-19 Recovery Charge… [+3042 chars]",
-         "url" : "https://www.foxbusiness.com/lifestyle/nyc-restaurants-covid-recovery-charge-bill-passed"
+         "publishedAt" : "2020-09-17T01:52:56Z",
+         "author" : "Ann Schmidt"
       },
       {
-         "content" : "President Trump on Wednesday said Pfizer was taking a \"tremendous financial risk\" in developing a coronavirus vaccine but that the pharmaceutical giant is confident in the results.\r\nPfizer CEO Albert… [+1557 chars]",
          "url" : "https://www.foxbusiness.com/markets/trump-pfizer-coronavirus-vaccine",
-         "title" : "Trump says Pfizer taking 'tremendous financial risk' in coronavirus vaccine development - Fox Business",
-         "publishedAt" : "2020-09-17T01:22:14Z",
-         "author" : "Louis Casiano",
          "description" : "President Trump on Wednesday said Pfizer was taking a \"tremendous financial risk\" in developing a coronavirus vaccine but that the pharmaceutical giant is confident in the results.",
+         "title" : "Trump says Pfizer taking 'tremendous financial risk' in coronavirus vaccine development - Fox Business",
          "source" : {
-            "id" : null,
-            "name" : "Fox Business"
+            "name" : "Fox Business",
+            "id" : null
          },
-         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/09/0/0/AP20254744765363.jpg?ve=1&tl=1"
+         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/09/0/0/AP20254744765363.jpg?ve=1&tl=1",
+         "content" : "President Trump on Wednesday said Pfizer was taking a \"tremendous financial risk\" in developing a coronavirus vaccine but that the pharmaceutical giant is confident in the results.\r\nPfizer CEO Albert… [+1557 chars]",
+         "publishedAt" : "2020-09-17T01:22:14Z",
+         "author" : "Louis Casiano"
       },
       {
+         "author" : "By Lisa Fickenscher",
+         "publishedAt" : "2020-09-17T01:16:00Z",
          "content" : "Amazon.com Inc. aims to open as many as 1,500 small warehouses across the U.S. many of them in suburban locations as it raises the stakes in its battle against Walmart, according to report.The Seattl… [+1610 chars]",
          "url" : "https://www.marketwatch.com/story/amazon-looks-to-open-1-500-small-warehouses-in-u-s-suburbs-report-11600305391",
+         "title" : "Amazon looks to open 1500 small warehouses in U.S. suburbs: report - MarketWatch",
          "description" : "E-commerce giant ramping up its delivery capabilities",
+         "urlToImage" : "https://images.mktw.net/im-215412/social",
          "source" : {
             "name" : "MarketWatch",
             "id" : null
-         },
-         "urlToImage" : "https://images.mktw.net/im-215412/social",
-         "title" : "Amazon looks to open 1500 small warehouses in U.S. suburbs: report - MarketWatch",
-         "publishedAt" : "2020-09-17T01:16:00Z",
-         "author" : "By Lisa Fickenscher"
+         }
       },
       {
-         "description" : "The Chase Freedom credit card is no longer open to new applicants, which may make you wonder what happens to your card. Here are the options you have now.",
          "source" : {
             "id" : null,
             "name" : "CNBC"
          },
          "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106703332-1600189658333-gettyimages-1125577376-boyf00934.jpeg?v=1600189732",
+         "description" : "The Chase Freedom credit card is no longer open to new applicants, which may make you wonder what happens to your card. Here are the options you have now.",
          "title" : "The Chase Freedom credit card is closed to new applicants—here's what that means for existing Freedom card holders - CNBC",
-         "publishedAt" : "2020-09-17T00:08:34Z",
-         "author" : "Alexandria White",
+         "url" : "https://www.cnbc.com/select/chase-freedom-not-accepting-new-applicants/",
          "content" : "When you open a new credit card, you probably aren't worried about what could happen if its discontinued. But card issuers continually come out with new products for consumers, and old favorites can … [+4917 chars]",
-         "url" : "https://www.cnbc.com/select/chase-freedom-not-accepting-new-applicants/"
+         "publishedAt" : "2020-09-17T00:08:34Z",
+         "author" : "Alexandria White"
       },
       {
-         "title" : "$119 million Mega Millions lottery ticket sold in Wisconsin - Channel3000.com - WISC-TV3",
-         "publishedAt" : "2020-09-16T22:43:00Z",
-         "author" : null,
-         "description" : "A lucky winner has hit the Mega Millions jackpot in Mount Pleasant, Wisconsin.",
+         "content" : "September 16, 2020 5:43 PM\r\nPosted: September 16, 2020 5:43 PM\r\nCNN image\r\nThe Powerball lottery pot is $430 million, and the top Mega Millions prize is $970 million.\r\nMADISON, Wis. — A lucky winner … [+660 chars]",
+         "urlToImage" : "https://wpcdn.us-east-1.vip.tn-cloud.net/www.channel3000.com/content/uploads/2019/11/CHANNEL-3000-3RD-GENERIC_1549226262024.jpg_31888764_ver1.0_1280_720.jpg",
          "source" : {
             "id" : null,
             "name" : "Channel3000.com - WISC-TV3"
          },
-         "urlToImage" : "https://wpcdn.us-east-1.vip.tn-cloud.net/www.channel3000.com/content/uploads/2019/11/CHANNEL-3000-3RD-GENERIC_1549226262024.jpg_31888764_ver1.0_1280_720.jpg",
-         "content" : "September 16, 2020 5:43 PM\r\nPosted: September 16, 2020 5:43 PM\r\nCNN image\r\nThe Powerball lottery pot is $430 million, and the top Mega Millions prize is $970 million.\r\nMADISON, Wis. — A lucky winner … [+660 chars]",
-         "url" : "https://www.channel3000.com/119-million-mega-millions-lottery-ticket-sold-in-wisconsin/"
+         "description" : "A lucky winner has hit the Mega Millions jackpot in Mount Pleasant, Wisconsin.",
+         "title" : "$119 million Mega Millions lottery ticket sold in Wisconsin - Channel3000.com - WISC-TV3",
+         "url" : "https://www.channel3000.com/119-million-mega-millions-lottery-ticket-sold-in-wisconsin/",
+         "author" : null,
+         "publishedAt" : "2020-09-16T22:43:00Z"
       },
       {
-         "author" : "Julianne Geiger",
-         "publishedAt" : "2020-09-16T22:30:00Z",
+         "content" : "Tensions in the East-Mediterranean flared…\r\nA drive to cut electricity…\r\nBy Julianne Geiger - Sep 16, 2020, 5:30 PM CDTOil prices rose further on Wednesday, with WTI breaking $40 per barrel as Hurric… [+1673 chars]",
+         "url" : "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Rise-On-Hurricane-Crude-Draw.html",
+         "description" : "Oil prices rose further on Wednesday, with WTI breaking $40 per barrel as Hurricane Sally continues to wreak havoc in the Gulf of Mexico",
          "title" : "Oil Prices Rise On Hurricane, Crude Draw - OilPrice.com",
          "urlToImage" : "https://d32r1sh890xpii.cloudfront.net/news/718x300/2020-09-16_zbvwvldxhi.jpg",
          "source" : {
-            "id" : null,
-            "name" : "OilPrice.com"
+            "name" : "OilPrice.com",
+            "id" : null
          },
-         "description" : "Oil prices rose further on Wednesday, with WTI breaking $40 per barrel as Hurricane Sally continues to wreak havoc in the Gulf of Mexico",
-         "url" : "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Rise-On-Hurricane-Crude-Draw.html",
-         "content" : "Tensions in the East-Mediterranean flared…\r\nA drive to cut electricity…\r\nBy Julianne Geiger - Sep 16, 2020, 5:30 PM CDTOil prices rose further on Wednesday, with WTI breaking $40 per barrel as Hurric… [+1673 chars]"
+         "author" : "Julianne Geiger",
+         "publishedAt" : "2020-09-16T22:30:00Z"
       },
       {
-         "title" : "Mountain Dew and Red Lobster unveil collaborative cocktail; Doomsday clock unchanged - Boing Boing",
-         "author" : null,
          "publishedAt" : "2020-09-16T21:33:00Z",
-         "description" : "Mountain Dew and Red Lobster have jointly crafted the Dew Garita. The first official Mountain Dew cocktail will soon be available at Red Lobster.The “Dew Garita” will be rolling out to …",
-         "urlToImage" : "https://i0.wp.com/boingboing.net/wp-content/uploads/2020/09/0-28.jpg?fit=480%2C360&ssl=1",
+         "author" : null,
          "source" : {
             "id" : null,
             "name" : "Boing Boing"
          },
-         "content" : "This study recently published by the Journal of the American Medical Association says no to drinking soft drinks. I am sure many folks will read this as \"do not drink soft drinks in those 10 European… [+1802 chars]",
-         "url" : "https://boingboing.net/2020/09/16/mountain-dew-and-red-lobster-u.html"
+         "urlToImage" : "https://i0.wp.com/boingboing.net/wp-content/uploads/2020/09/0-28.jpg?fit=480%2C360&ssl=1",
+         "url" : "https://boingboing.net/2020/09/16/mountain-dew-and-red-lobster-u.html",
+         "title" : "Mountain Dew and Red Lobster unveil collaborative cocktail; Doomsday clock unchanged - Boing Boing",
+         "description" : "Mountain Dew and Red Lobster have jointly crafted the Dew Garita. The first official Mountain Dew cocktail will soon be available at Red Lobster.The “Dew Garita” will be rolling out to …",
+         "content" : "This study recently published by the Journal of the American Medical Association says no to drinking soft drinks. I am sure many folks will read this as \"do not drink soft drinks in those 10 European… [+1802 chars]"
       },
       {
-         "title" : "Kraken Will Be First US Crypto Bank. Here’s Why It Matters - Decrypt",
-         "author" : "Robert Stevens",
          "publishedAt" : "2020-09-16T21:30:00Z",
+         "author" : "Robert Stevens",
          "description" : "Kraken Financial will be able to provide clients from 49 states with digital asset custody services and help them make payments.",
+         "title" : "Kraken Will Be First US Crypto Bank. Here’s Why It Matters - Decrypt",
+         "url" : "https://decrypt.co/42077/kraken-first-us-crypto-bank-heres-why-matters",
          "urlToImage" : "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2020/09/Kraken-first-US-crypto-bank-gID_1.jpg",
          "source" : {
-            "id" : null,
-            "name" : "Decrypt"
+            "name" : "Decrypt",
+            "id" : null
          },
-         "content" : "In brief\r\n<ul><li>Wyoming granted Kraken a license to create a special purpose depository institution in the state.</li><li>The bank should launch sometime by the first quarter of 2021.</li><li>Krake… [+4823 chars]",
-         "url" : "https://decrypt.co/42077/kraken-first-us-crypto-bank-heres-why-matters"
+         "content" : "In brief\r\n<ul><li>Wyoming granted Kraken a license to create a special purpose depository institution in the state.</li><li>The bank should launch sometime by the first quarter of 2021.</li><li>Krake… [+4823 chars]"
       },
       {
          "description" : "Facebook on Wednesday announced a partnership with Luxottica, the maker of Ray-Ban, to release its first pair of smart glasses in 2021.",
+         "title" : "Facebook teaming up with Ray-Ban maker for first smart glasses in 2021 - NBC News",
+         "url" : "https://www.nbcnews.com/tech/tech-news/facebook-teaming-ray-ban-maker-first-smart-glasses-2021-rcna122",
          "source" : {
-            "id" : "nbc-news",
-            "name" : "NBC News"
+            "name" : "NBC News",
+            "id" : "nbc-news"
          },
          "urlToImage" : "https://media1.s-nbcnews.com/j/rockcms/2020-09/138/200916-mark-zuckerberg-jm-1630-a026f9_dc9f96ce5a66e896706c6455e588ce8c23913624.nbcnews-fp-1200-630.jpg",
-         "title" : "Facebook teaming up with Ray-Ban maker for first smart glasses in 2021 - NBC News",
-         "publishedAt" : "2020-09-16T20:41:00Z",
-         "author" : "Salvador Rodriguez, CNBC",
          "content" : "Facebook on Wednesday announced a partnership with Luxottica, the maker of Ray-Ban, to release its first pair of smart glasses in 2021. \r\n\"After spending time with their team and visiting their facto… [+1972 chars]",
-         "url" : "https://www.nbcnews.com/tech/tech-news/facebook-teaming-ray-ban-maker-first-smart-glasses-2021-rcna122"
+         "publishedAt" : "2020-09-16T20:41:00Z",
+         "author" : "Salvador Rodriguez, CNBC"
       },
       {
-         "publishedAt" : "2020-09-16T20:39:00Z",
          "author" : "Conor Hughes chughes@postandcourier.com",
+         "publishedAt" : "2020-09-16T20:39:00Z",
+         "content" : "Just more than a year after the Popeye's chicken sandwich caused a frenzy across the country, Chick-fil-A has introduced a novel addition in the Chicken Wars.\r\nAnd its fate will be decided by Upstate… [+1597 chars]",
          "title" : "Chicken Wars: Upstate will decide fate of Chick-fil-A's new Honey Pepper Pimento Sandwich - Charleston Post Courier",
-         "source" : {
-            "name" : "Charleston Post Courier",
-            "id" : null
-         },
-         "urlToImage" : "https://bloximages.newyork1.vip.townnews.com/postandcourier.com/content/tncms/assets/v3/editorial/f/92/f9279926-f853-11ea-b489-d36d4a6ff617/5f6269fd906c3.image.jpg?resize=852%2C630",
          "description" : "Chick-fil-A has introduced a new sandwich for testing in the Upstate.",
          "url" : "https://www.postandcourier.com/greenville/news/chicken-wars-upstate-will-decide-fate-of-chick-fil-as-new-honey-pepper-pimento-sandwich/article_d1cca11c-f83c-11ea-bf80-37a8b655ecd5.html",
-         "content" : "Just more than a year after the Popeye's chicken sandwich caused a frenzy across the country, Chick-fil-A has introduced a novel addition in the Chicken Wars.\r\nAnd its fate will be decided by Upstate… [+1597 chars]"
+         "source" : {
+            "id" : null,
+            "name" : "Charleston Post Courier"
+         },
+         "urlToImage" : "https://bloximages.newyork1.vip.townnews.com/postandcourier.com/content/tncms/assets/v3/editorial/f/92/f9279926-f853-11ea-b489-d36d4a6ff617/5f6269fd906c3.image.jpg?resize=852%2C630"
       },
       {
-         "description" : "What went down (yesterday) just came back up (today).",
+         "author" : "Rich Smith",
+         "publishedAt" : "2020-09-16T20:31:00Z",
+         "content" : "What happened\r\nShares of major cruise line stocks Carnival Corporation(NYSE:CCL)(NYSE:CUK), Royal Caribbean(NYSE:RCL), and Norwegian Cruise Line Holdings(NASDAQ:NCLH) all took a bath yesterday -- the… [+2162 chars]",
          "source" : {
             "name" : "Motley Fool",
             "id" : null
          },
          "urlToImage" : "https://g.foolcdn.com/editorial/images/591965/3-cruise-liner-ships-lined-up-abreast-in-port.jpg",
-         "title" : "Why Carnival Corporation, Royal Caribbean, and Norwegian Cruise Line Holdings Stocks Bounced Back Wednesday - The Motley Fool",
-         "publishedAt" : "2020-09-16T20:31:00Z",
-         "author" : "Rich Smith",
-         "content" : "What happened\r\nShares of major cruise line stocks Carnival Corporation(NYSE:CCL)(NYSE:CUK), Royal Caribbean(NYSE:RCL), and Norwegian Cruise Line Holdings(NASDAQ:NCLH) all took a bath yesterday -- the… [+2162 chars]",
-         "url" : "https://www.fool.com/investing/2020/09/16/why-carnival-corporation-royal-caribbean-and-norwe/"
+         "url" : "https://www.fool.com/investing/2020/09/16/why-carnival-corporation-royal-caribbean-and-norwe/",
+         "description" : "What went down (yesterday) just came back up (today).",
+         "title" : "Why Carnival Corporation, Royal Caribbean, and Norwegian Cruise Line Holdings Stocks Bounced Back Wednesday - The Motley Fool"
       }
-   ],
-   "status" : "ok"
+   ]
 }
