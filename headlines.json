@@ -1,55 +1,55 @@
 {
    "articles" : [
       {
-         "url" : "https://www.cnbc.com/2020/09/18/caixabank-and-bankia-to-merge-creating-spains-largest-bank.html",
-         "author" : "Katrina Bishop",
-         "content" : "The boards of Spain's CaixaBank and state-owned Bankia have approved a merger plan between the two lenders, which will create the biggest bank in the country.\r\nThe deal terms will see CaixaBank offer… [+689 chars]",
-         "publishedAt" : "2020-09-18T05:26:00Z",
-         "title" : "CaixaBank and Bankia to merge, creating Spain’s largest bank - CNBC",
          "description" : "The newly created lender, which will keep the CaixaBank brand, will have assets of more than 664 billion euros, the companies said.",
+         "content" : "The boards of Spain's CaixaBank and state-owned Bankia have approved a merger plan between the two lenders, which will create the biggest bank in the country.\r\nThe deal terms will see CaixaBank offer… [+689 chars]",
          "source" : {
             "id" : null,
             "name" : "CNBC"
          },
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106707587-1600406659991-Caixa.jpg?v=1600408319"
+         "url" : "https://www.cnbc.com/2020/09/18/caixabank-and-bankia-to-merge-creating-spains-largest-bank.html",
+         "publishedAt" : "2020-09-18T05:26:00Z",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106707587-1600406659991-Caixa.jpg?v=1600408319",
+         "title" : "CaixaBank and Bankia to merge, creating Spain’s largest bank - CNBC",
+         "author" : "Katrina Bishop"
       },
       {
          "url" : "https://abc7.com/ohio-dad-makes-halloween-candy-cute-trick-or-treating-with-a-twist-chute-holidays-during-covid-19/6431197/",
-         "author" : null,
-         "content" : "DELHI, Ohio -- Some parents may be leery about letting their kids trick-or-treat this Halloween in the middle of the pandemic, but a man came up with an idea to keep the tradition alive and safe.Andr… [+1784 chars]",
          "publishedAt" : "2020-09-18T04:17:01Z",
-         "description" : "Some parents may be leery about letting their kids trick-or-treat this Halloween in the middle of COVID-19, but an Ohio man came up with an idea to keep the tradition alive and safe.",
+         "urlToImage" : "https://cdn.abcotvs.com/dip/images/6431226_091720-ktrk-cnn-dad-creates-candy-chute-irios-vid.jpg?w=1600",
          "title" : "Ohio dad creates \"candy chute\" to keep trick-or-treaters safe in middle of COVID-19 - KABC-TV",
+         "author" : null,
+         "description" : "Some parents may be leery about letting their kids trick-or-treat this Halloween in the middle of COVID-19, but an Ohio man came up with an idea to keep the tradition alive and safe.",
+         "content" : "DELHI, Ohio -- Some parents may be leery about letting their kids trick-or-treat this Halloween in the middle of the pandemic, but a man came up with an idea to keep the tradition alive and safe.Andr… [+1784 chars]",
+         "source" : {
+            "name" : "KABC-TV",
+            "id" : null
+         }
+      },
+      {
+         "url" : "https://www.kcra.com/article/suspects-showed-investigators-how-easy-it-was-to-defraud-edd/34063525",
+         "publishedAt" : "2020-09-18T04:00:00Z",
+         "urlToImage" : "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/edd-1586925993.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
+         "author" : "David Manoucheri",
+         "title" : "Suspects showed investigators 'how easy it was' to defraud EDD - KCRA Sacramento",
+         "description" : "Dozens of people have been arrested in Southern California on suspicion of defrauding the Employment Development Department out of possibly millions of dollars.",
+         "content" : "BEVERLY HILLS, Calif. —Dozens of people have been arrested in Southern California on suspicion of defrauding the Employment Development Department out of possibly millions of dollars.\r\n According to … [+3302 chars]",
          "source" : {
             "id" : null,
-            "name" : "KABC-TV"
-         },
-         "urlToImage" : "https://cdn.abcotvs.com/dip/images/6431226_091720-ktrk-cnn-dad-creates-candy-chute-irios-vid.jpg?w=1600"
+            "name" : "KCRA Sacramento"
+         }
       },
       {
-         "content" : "BEVERLY HILLS, Calif. —Dozens of people have been arrested in Southern California on suspicion of defrauding the Employment Development Department out of possibly millions of dollars.\r\n According to … [+3302 chars]",
-         "publishedAt" : "2020-09-18T04:00:00Z",
-         "author" : "David Manoucheri",
-         "url" : "https://www.kcra.com/article/suspects-showed-investigators-how-easy-it-was-to-defraud-edd/34063525",
-         "source" : {
-            "name" : "KCRA Sacramento",
-            "id" : null
-         },
-         "urlToImage" : "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/edd-1586925993.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
-         "description" : "Dozens of people have been arrested in Southern California on suspicion of defrauding the Employment Development Department out of possibly millions of dollars.",
-         "title" : "Suspects showed investigators 'how easy it was' to defraud EDD - KCRA Sacramento"
-      },
-      {
-         "publishedAt" : "2020-09-18T03:39:57Z",
+         "description" : "(Bloomberg) -- Apple Inc. will this month begin direct sales online in India, more than 20 years after the world’s most valuable tech company first began operating in the South Asian country that’s one of world’s fastest-growing smartphone markets.Cupertino, …",
          "content" : "(Bloomberg) -- Apple Inc. will this month begin direct sales online in India, more than 20 years after the worlds most valuable tech company first began operating in the South Asian country thats one… [+1720 chars]",
-         "url" : "https://finance.yahoo.com/news/apple-begin-online-sales-india-025925460.html",
-         "author" : "Saritha Rai",
-         "urlToImage" : "https://s.yimg.com/uu/api/res/1.2/rB1YsiAOEQemX9QHQYx7Vw--~B/aD0xMzM0O3c9MjAwMDtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bloomberg_technology_68/e8395e455ca014696dc87b2a0dbe30b9",
          "source" : {
             "id" : null,
             "name" : "Yahoo Entertainment"
          },
-         "description" : "(Bloomberg) -- Apple Inc. will this month begin direct sales online in India, more than 20 years after the world’s most valuable tech company first began operating in the South Asian country that’s one of world’s fastest-growing smartphone markets.Cupertino, …",
+         "url" : "https://finance.yahoo.com/news/apple-begin-online-sales-india-025925460.html",
+         "publishedAt" : "2020-09-18T03:39:57Z",
+         "urlToImage" : "https://s.yimg.com/uu/api/res/1.2/rB1YsiAOEQemX9QHQYx7Vw--~B/aD0xMzM0O3c9MjAwMDtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bloomberg_technology_68/e8395e455ca014696dc87b2a0dbe30b9",
+         "author" : "Saritha Rai",
          "title" : "Apple to Begin Online Sales in India Ahead of Holiday Season - Yahoo Finance"
       },
       {
@@ -57,208 +57,208 @@
             "id" : "reuters",
             "name" : "Reuters"
          },
-         "urlToImage" : "https://static.reuters.com/resources/r/?m=02&d=20200918&t=2&i=1533932996&r=LYNXMPEG8H03K&w=800",
-         "title" : "Pfizer vaccine trial bets on early win against coronavirus, documents show - Reuters",
          "description" : "Pfizer Inc is betting that its coronavirus vaccine candidate will show clear evidence of effectiveness early in its clinical trial, according to the company and internal documents reviewed by Reuters that describe how the trial is being run.",
          "content" : "(Reuters) - Pfizer Inc is betting that its coronavirus vaccine candidate will show clear evidence of effectiveness early in its clinical trial, according to the company and internal documents reviewe… [+4962 chars]",
+         "urlToImage" : "https://static.reuters.com/resources/r/?m=02&d=20200918&t=2&i=1533932996&r=LYNXMPEG8H03K&w=800",
+         "title" : "Pfizer vaccine trial bets on early win against coronavirus, documents show - Reuters",
+         "author" : "Marisa Taylor, Dan Levine",
          "publishedAt" : "2020-09-18T02:12:00Z",
-         "url" : "https://www.reuters.com/article/health-coronavirus-usa-vaccines-idUSKBN26907S",
-         "author" : "Marisa Taylor, Dan Levine"
+         "url" : "https://www.reuters.com/article/health-coronavirus-usa-vaccines-idUSKBN26907S"
       },
       {
+         "title" : "Dow Jones Futures: Market Rally Against Ropes - Investor's Business Daily",
+         "author" : "Investor's Business Daily",
+         "urlToImage" : "https://www.investors.com/wp-content/uploads/2017/12/Stock-boxerPunch-01-adobe.jpg",
+         "publishedAt" : "2020-09-18T01:46:00Z",
+         "url" : "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-stock-market-rally-against-ropes-apple-amazon-netflix-tesla-fall/",
          "source" : {
             "name" : "Investor's Business Daily",
             "id" : null
          },
-         "urlToImage" : "https://www.investors.com/wp-content/uploads/2017/12/Stock-boxerPunch-01-adobe.jpg",
-         "title" : "Dow Jones Futures: Market Rally Against Ropes - Investor's Business Daily",
-         "description" : "Dow Jones futures: The stock market rally suffered more damage, but hasn't thrown in the towel yet. Apple, Amazon, Netflix and Tesla were among the losers.",
          "content" : "Dow Jones futures and S&amp;P 500 futures rose slightly early Friday, while Nasdaq futures climbed modestly. The stock market rally suffered significant losses, with the Nasdaq undercutting key suppo… [+7423 chars]",
-         "publishedAt" : "2020-09-18T01:46:00Z",
-         "url" : "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-stock-market-rally-against-ropes-apple-amazon-netflix-tesla-fall/",
-         "author" : "Investor's Business Daily"
+         "description" : "Dow Jones futures: The stock market rally suffered more damage, but hasn't thrown in the towel yet. Apple, Amazon, Netflix and Tesla were among the losers."
       },
       {
-         "author" : null,
-         "url" : "https://www.scmp.com/tech/big-tech/article/3102006/bytedance-deal-us-tiktok-said-give-oracle-access-source-code-includes",
-         "content" : "Published: 9:25am, 18 Sep, 2020\r\nUpdated: 10:35am, 18 Sep, 2020",
-         "publishedAt" : "2020-09-18T01:25:39Z",
-         "description" : "ByteDance is trying to win US approval for a deal with Oracle that would leave the Chinese-headquartered parent company with majority ownership of TikTok",
          "title" : "ByteDance deal for US TikTok said to give Oracle access to source code - South China Morning Post",
+         "author" : null,
+         "urlToImage" : "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/09/18/6b64700a-f94d-11ea-a41c-8cbd1416100a_image_hires_103538.jpg?itok=HyeFDXai&v=1600396545",
+         "url" : "https://www.scmp.com/tech/big-tech/article/3102006/bytedance-deal-us-tiktok-said-give-oracle-access-source-code-includes",
+         "publishedAt" : "2020-09-18T01:25:39Z",
          "source" : {
-            "id" : null,
-            "name" : "Post Magazine"
-         },
-         "urlToImage" : "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/09/18/6b64700a-f94d-11ea-a41c-8cbd1416100a_image_hires_103538.jpg?itok=HyeFDXai&v=1600396545"
-      },
-      {
-         "title" : "Thomas Cook's Chinese owner sees sunny horizons - BBC News",
-         "description" : "Fosun has plans for concept stores, new resorts and a lifestyle platform for the travel brands it owns.",
-         "source" : {
-            "name" : "BBC News",
+            "name" : "Post Magazine",
             "id" : null
          },
-         "urlToImage" : "https://ichef.bbci.co.uk/news/1024/branded_news/2F9F/production/_114419121_gettyimages-1170369972.jpg",
-         "author" : "https://www.facebook.com/bbcnews",
-         "url" : "https://www.bbc.com/news/business-54186810",
-         "content" : "Image copyrightGetty Images\r\nThomas Cook's owner Fosun has ambitious expansion plans for the brands it owns, once the global economy recovers.\r\nThe Chinese travel firm, which also owns Club Med, expe… [+3117 chars]",
-         "publishedAt" : "2020-09-18T01:24:18Z"
+         "content" : "Published: 9:25am, 18 Sep, 2020\r\nUpdated: 10:35am, 18 Sep, 2020",
+         "description" : "ByteDance is trying to win US approval for a deal with Oracle that would leave the Chinese-headquartered parent company with majority ownership of TikTok"
       },
       {
+         "description" : "Fosun has plans for concept stores, new resorts and a lifestyle platform for the travel brands it owns.",
+         "content" : "Image copyrightGetty Images\r\nThomas Cook's owner Fosun has ambitious expansion plans for the brands it owns, once the global economy recovers.\r\nThe Chinese travel firm, which also owns Club Med, expe… [+3117 chars]",
+         "source" : {
+            "id" : null,
+            "name" : "BBC News"
+         },
+         "publishedAt" : "2020-09-18T01:24:18Z",
+         "url" : "https://www.bbc.com/news/business-54186810",
+         "urlToImage" : "https://ichef.bbci.co.uk/news/1024/branded_news/2F9F/production/_114419121_gettyimages-1170369972.jpg",
+         "title" : "Thomas Cook's Chinese owner sees sunny horizons - BBC News",
+         "author" : "https://www.facebook.com/bbcnews"
+      },
+      {
+         "publishedAt" : "2020-09-18T01:16:00Z",
+         "url" : "https://www.bloomberg.com/news/articles/2020-09-18/facebook-accused-of-watching-instagram-users-through-cameras",
+         "author" : "Robert Burnson",
+         "title" : "Facebook Accused of Watching Instagram Users Through Cameras - Bloomberg",
          "urlToImage" : "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iO4Dhau45bzs/v0/1200x800.jpg",
+         "content" : "Facebook Inc. is again being sued for allegedly spying on Instagram users, this time through the unauthorized use of their mobile phone cameras.\r\nThe lawsuit springs from media reports in July that t… [+1350 chars]",
+         "description" : "Facebook Inc. is again being sued for allegedly spying on Instagram users, this time through the unauthorized use of their mobile phone cameras.The lawsuit springs from media reports in July that the photo-sharing app appeared to be accessing iPhone cameras e…",
          "source" : {
             "id" : "bloomberg",
             "name" : "Bloomberg"
-         },
-         "title" : "Facebook Accused of Watching Instagram Users Through Cameras - Bloomberg",
-         "description" : "Facebook Inc. is again being sued for allegedly spying on Instagram users, this time through the unauthorized use of their mobile phone cameras.The lawsuit springs from media reports in July that the photo-sharing app appeared to be accessing iPhone cameras e…",
-         "publishedAt" : "2020-09-18T01:16:00Z",
-         "content" : "Facebook Inc. is again being sued for allegedly spying on Instagram users, this time through the unauthorized use of their mobile phone cameras.\r\nThe lawsuit springs from media reports in July that t… [+1350 chars]",
-         "url" : "https://www.bloomberg.com/news/articles/2020-09-18/facebook-accused-of-watching-instagram-users-through-cameras",
-         "author" : "Robert Burnson"
-      },
-      {
-         "author" : "Char'Nese Turner and Nexstar Media Wire",
-         "url" : "https://fox8.com/news/epa-approves-pine-sol-to-kill-coronavirus-on-surfaces/",
-         "publishedAt" : "2020-09-18T01:15:00Z",
-         "content" : "*See our latest report on a local COVID-19 vaccine trial above.*\r\nOAKLAND, Calif. (NewsNation Now) Pine-Sol has approval from the U.S. Environmental Protection Agency (EPA) “for kill claims against S… [+1275 chars]",
-         "title" : "EPA approves Pine-Sol to kill coronavirus on surfaces - WJW FOX 8 News Cleveland",
-         "description" : "Pine-Sol has approval from the U.S. Environmental Protection Agency (EPA) “for kill claims against SARS-Cov-2, the virus that causes COVID-19, on hard non-porous surfaces,” according to a company news release.",
-         "urlToImage" : "https://fox8.com/wp-content/uploads/sites/12/2020/09/AP20084216660290.jpg?w=1280",
-         "source" : {
-            "id" : null,
-            "name" : "fox8.com"
          }
       },
       {
+         "description" : "Pine-Sol has approval from the U.S. Environmental Protection Agency (EPA) “for kill claims against SARS-Cov-2, the virus that causes COVID-19, on hard non-porous surfaces,” according to a company news release.",
+         "content" : "*See our latest report on a local COVID-19 vaccine trial above.*\r\nOAKLAND, Calif. (NewsNation Now) Pine-Sol has approval from the U.S. Environmental Protection Agency (EPA) “for kill claims against S… [+1275 chars]",
          "source" : {
-            "name" : "Fox News",
-            "id" : "fox-news"
+            "id" : null,
+            "name" : "fox8.com"
          },
-         "urlToImage" : "https://static.foxnews.com/foxnews.com/content/uploads/2019/08/iStock-Dairy-Queen.jpg",
-         "title" : "Dairy Queen gets trolled by TikTok user with Travis Scott music - Fox News",
-         "description" : "Teenagers and young adults who are really into pranks and Travis Scott are driving to fast food establishments to mess with drive-thru workers for TikTok views.",
-         "content" : "Teenagers and young adults who are really into pranks and Travis Scott are driving to fast food establishments to mess with drive-thru workers for TikTok views.\r\nWhen parked in front of drive-thru in… [+1819 chars]",
-         "publishedAt" : "2020-09-18T01:00:12Z",
-         "author" : "Cortney Moore",
-         "url" : "https://www.foxnews.com/food-drink/dairy-queen-trolled-tiktok-travis-scott-music"
+         "publishedAt" : "2020-09-18T01:15:00Z",
+         "url" : "https://fox8.com/news/epa-approves-pine-sol-to-kill-coronavirus-on-surfaces/",
+         "urlToImage" : "https://fox8.com/wp-content/uploads/sites/12/2020/09/AP20084216660290.jpg?w=1280",
+         "title" : "EPA approves Pine-Sol to kill coronavirus on surfaces - WJW FOX 8 News Cleveland",
+         "author" : "Char'Nese Turner and Nexstar Media Wire"
       },
       {
-         "urlToImage" : "https://d32r1sh890xpii.cloudfront.net/article/718x300/2020-09-17_ndcbwqguog.jpg",
+         "description" : "Teenagers and young adults who are really into pranks and Travis Scott are driving to fast food establishments to mess with drive-thru workers for TikTok views.",
+         "content" : "Teenagers and young adults who are really into pranks and Travis Scott are driving to fast food establishments to mess with drive-thru workers for TikTok views.\r\nWhen parked in front of drive-thru in… [+1819 chars]",
+         "source" : {
+            "id" : "fox-news",
+            "name" : "Fox News"
+         },
+         "url" : "https://www.foxnews.com/food-drink/dairy-queen-trolled-tiktok-travis-scott-music",
+         "publishedAt" : "2020-09-18T01:00:12Z",
+         "urlToImage" : "https://static.foxnews.com/foxnews.com/content/uploads/2019/08/iStock-Dairy-Queen.jpg",
+         "author" : "Cortney Moore",
+         "title" : "Dairy Queen gets trolled by TikTok user with Travis Scott music - Fox News"
+      },
+      {
+         "description" : "The oil demand recovery is taking longer to materialize than many analysts initially thought, but it's not just demand, the oversupply situation in markets also continues to be a bearish factor",
+         "content" : "The unusually large inventory of…\r\nThe International Energy Agency (IEA)…\r\nBig oils major bet on…\r\nBy Irina Slav - Sep 17, 2020, 7:00 PM CDTOPEC and the International Energy Agency delivered bad news… [+3702 chars]",
          "source" : {
             "id" : null,
             "name" : "OilPrice.com"
          },
-         "title" : "Oversupply Adds To Grim Oil Demand Outlook - OilPrice.com",
-         "description" : "The oil demand recovery is taking longer to materialize than many analysts initially thought, but it's not just demand, the oversupply situation in markets also continues to be a bearish factor",
+         "url" : "https://oilprice.com/Energy/Crude-Oil/Oversupply-Adds-To-Grim-Oil-Demand-Outlook.html",
          "publishedAt" : "2020-09-18T00:00:00Z",
-         "content" : "The unusually large inventory of…\r\nThe International Energy Agency (IEA)…\r\nBig oils major bet on…\r\nBy Irina Slav - Sep 17, 2020, 7:00 PM CDTOPEC and the International Energy Agency delivered bad news… [+3702 chars]",
+         "urlToImage" : "https://d32r1sh890xpii.cloudfront.net/article/718x300/2020-09-17_ndcbwqguog.jpg",
          "author" : "Irina Slav",
-         "url" : "https://oilprice.com/Energy/Crude-Oil/Oversupply-Adds-To-Grim-Oil-Demand-Outlook.html"
+         "title" : "Oversupply Adds To Grim Oil Demand Outlook - OilPrice.com"
       },
       {
+         "author" : "Louis Casiano",
          "title" : "Wynn Las Vegas reveals 548 positive COVID-19 cases among employees - Fox Business",
-         "description" : "Wynn Resorts in Las Vegas on Thursday reported more than 500 coronavirus cases among its employees since its June reopening.",
          "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/09/0/0/Wynne-Las-Vegas-Coronavirus.jpg?ve=1&tl=1",
+         "publishedAt" : "2020-09-17T23:59:37Z",
+         "url" : "https://www.foxbusiness.com/lifestyle/wynn-las-vegas-covid-19-employees",
+         "source" : {
+            "id" : null,
+            "name" : "Fox Business"
+         },
+         "content" : "Wynn Resorts in Las Vegas on Thursday reported more than 500 coronavirus cases among its employees since its June re-opening.\r\nThe company has so far conducted 15,051 COVID-19 tests on employees with… [+1592 chars]",
+         "description" : "Wynn Resorts in Las Vegas on Thursday reported more than 500 coronavirus cases among its employees since its June reopening."
+      },
+      {
+         "urlToImage" : "https://cdni.rt.com/files/2020.09/article/5f63f19c203027592d42698a.JPG",
+         "author" : "RT",
+         "title" : "AstraZeneca vaccine volunteer developed spinal inflammation & ‘rare neurological condition’ after two doses – report - RT",
+         "publishedAt" : "2020-09-17T23:45:00Z",
+         "url" : "https://www.rt.com/news/500987-astrazeneca-vaccine-neurological-condition/",
+         "source" : {
+            "name" : "RT",
+            "id" : "rt"
+         },
+         "description" : "A British participant in AstraZeneca's coronavirus vaccine trial was diagnosed with a serious neurological disorder weeks after her second dose of the inoculation, an internal company document shows.",
+         "content" : "A previously healthy 37-year-old woman was hospitalized this month after receiving two injections of the pharmaceutical giant’s new vaccine, where it was determined she developed transverse myelitis,… [+2943 chars]"
+      },
+      {
          "source" : {
             "name" : "Fox Business",
             "id" : null
          },
-         "url" : "https://www.foxbusiness.com/lifestyle/wynn-las-vegas-covid-19-employees",
-         "author" : "Louis Casiano",
-         "publishedAt" : "2020-09-17T23:59:37Z",
-         "content" : "Wynn Resorts in Las Vegas on Thursday reported more than 500 coronavirus cases among its employees since its June re-opening.\r\nThe company has so far conducted 15,051 COVID-19 tests on employees with… [+1592 chars]"
-      },
-      {
-         "source" : {
-            "id" : "rt",
-            "name" : "RT"
-         },
-         "urlToImage" : "https://cdni.rt.com/files/2020.09/article/5f63f19c203027592d42698a.JPG",
-         "description" : "A British participant in AstraZeneca's coronavirus vaccine trial was diagnosed with a serious neurological disorder weeks after her second dose of the inoculation, an internal company document shows.",
-         "title" : "AstraZeneca vaccine volunteer developed spinal inflammation & ‘rare neurological condition’ after two doses – report - RT",
-         "content" : "A previously healthy 37-year-old woman was hospitalized this month after receiving two injections of the pharmaceutical giant’s new vaccine, where it was determined she developed transverse myelitis,… [+2943 chars]",
-         "publishedAt" : "2020-09-17T23:45:00Z",
-         "url" : "https://www.rt.com/news/500987-astrazeneca-vaccine-neurological-condition/",
-         "author" : "RT"
-      },
-      {
-         "title" : "Facebook sets new rules for workplace communication to ease social, political debates - Fox Business",
          "description" : "Zuckerberg said the guidelines would help to ensure that employees, especially the company’s Black community, felt supported.",
-         "source" : {
-            "id" : null,
-            "name" : "Fox Business"
-         },
+         "content" : "Facebook is enacting new guidelines for posts on its internal message boards to prevent tension in the workplace regarding social and political issues, the company confirmed on Thursday.\r\nFacebook CE… [+2634 chars]",
          "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/09/0/0/facebook-Zuckerberg-message-boards-2.jpg?ve=1&tl=1",
          "author" : "Thomas Barrabi",
-         "url" : "https://www.foxbusiness.com/markets/facebook-employee-communication-rules-internal-message-board",
-         "content" : "Facebook is enacting new guidelines for posts on its internal message boards to prevent tension in the workplace regarding social and political issues, the company confirmed on Thursday.\r\nFacebook CE… [+2634 chars]",
-         "publishedAt" : "2020-09-17T23:35:36Z"
+         "title" : "Facebook sets new rules for workplace communication to ease social, political debates - Fox Business",
+         "publishedAt" : "2020-09-17T23:35:36Z",
+         "url" : "https://www.foxbusiness.com/markets/facebook-employee-communication-rules-internal-message-board"
       },
       {
-         "source" : {
-            "id" : "cbs-news",
-            "name" : "CBS News"
-         },
-         "urlToImage" : "https://cbsnews1.cbsistatic.com/hub/i/r/2020/09/17/e19dc167-cccf-44e6-9638-ed68c7750e5e/thumbnail/1200x630/22bf7a991be55764ba5d7eadff54559e/0917-en-villarreal.png",
-         "description" : "\"There were so many people, and (my dad) was kind of shocked because he didn't think there would be a turn around that quickly,\" the owner's daughter said.",
-         "title" : "Daughter's plea helps save her father's taco truck during pandemic - CBS News",
          "content" : "Humble, Texas — Elias Aviles spent more than 20 years working in other people's restaurants before he saved enough money to open his own food truck. El Torito Taqueria was born in Humble, Texas, just… [+1098 chars]",
-         "publishedAt" : "2020-09-17T22:53:00Z",
+         "description" : "\"There were so many people, and (my dad) was kind of shocked because he didn't think there would be a turn around that quickly,\" the owner's daughter said.",
+         "source" : {
+            "name" : "CBS News",
+            "id" : "cbs-news"
+         },
          "url" : "https://www.cbsnews.com/news/el-torito-taqueria-twitter-plea-humble-texas/",
-         "author" : "Mireya Villarreal"
+         "publishedAt" : "2020-09-17T22:53:00Z",
+         "title" : "Daughter's plea helps save her father's taco truck during pandemic - CBS News",
+         "author" : "Mireya Villarreal",
+         "urlToImage" : "https://cbsnews1.cbsistatic.com/hub/i/r/2020/09/17/e19dc167-cccf-44e6-9638-ed68c7750e5e/thumbnail/1200x630/22bf7a991be55764ba5d7eadff54559e/0917-en-villarreal.png"
       },
       {
-         "title" : "Uniswap's Distribution Is Built on Something That Can't Be Forked: Actual Users - CoinDesk - Coindesk",
-         "description" : "Uniswap distributed 400 of its new UNI tokens, a $1,400 value, to all its past users. Observers say the big surprise is likely to pay years of dividends.",
-         "urlToImage" : "https://static.coindesk.com/wp-content/uploads/2020/09/james-lee-qSf_4bNsoWc-unsplash.jpg",
-         "source" : {
-            "id" : null,
-            "name" : "CoinDesk"
-         },
-         "url" : "https://www.coindesk.com/uniswap-uni-distribution-growth-token-defi-strategy",
-         "author" : "Brady Dale",
          "publishedAt" : "2020-09-17T22:50:59Z",
-         "content" : "“I think that Uniswap is one of the premier DeFi [decentralized finance] protocols, and its token is as well,” Sam Bankman-Fried, CEO at Alameda Research, told CoinDesk via email. “It has been the la… [+7682 chars]"
+         "url" : "https://www.coindesk.com/uniswap-uni-distribution-growth-token-defi-strategy",
+         "urlToImage" : "https://static.coindesk.com/wp-content/uploads/2020/09/james-lee-qSf_4bNsoWc-unsplash.jpg",
+         "title" : "Uniswap's Distribution Is Built on Something That Can't Be Forked: Actual Users - CoinDesk - Coindesk",
+         "author" : "Brady Dale",
+         "description" : "Uniswap distributed 400 of its new UNI tokens, a $1,400 value, to all its past users. Observers say the big surprise is likely to pay years of dividends.",
+         "content" : "“I think that Uniswap is one of the premier DeFi [decentralized finance] protocols, and its token is as well,” Sam Bankman-Fried, CEO at Alameda Research, told CoinDesk via email. “It has been the la… [+7682 chars]",
+         "source" : {
+            "name" : "CoinDesk",
+            "id" : null
+         }
       },
       {
          "description" : "Gov. John Bel Edwards has amended his phase 3 restrictions plan to allow bars, restaurant and casinos to sell alcohol until 11 p.m.",
-         "title" : "Gov. Edwards amends last call for phase 3, extends alcohol sale by one hour - WDSU New Orleans",
+         "content" : "Gov. John Bel Edwards has amended his phase 3 restrictions plan to allow bars, restaurants and casinos to sell alcohol until 11 p.m. \r\nEdwards said this amendment followed discussions with restaurant… [+1717 chars]",
          "source" : {
             "name" : "WDSU New Orleans",
             "id" : null
          },
+         "publishedAt" : "2020-09-17T22:45:00Z",
+         "url" : "https://www.wdsu.com/article/gov-edwards-amends-last-call-for-phase-3-extends-alcohol-sale-by-one-hour/34064330",
          "urlToImage" : "https://kubrick.htvapps.com/htv-prod/ibmig/cms/image/wapt/26824044-26824044.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
          "author" : "WDSU Digital Team",
-         "url" : "https://www.wdsu.com/article/gov-edwards-amends-last-call-for-phase-3-extends-alcohol-sale-by-one-hour/34064330",
-         "content" : "Gov. John Bel Edwards has amended his phase 3 restrictions plan to allow bars, restaurants and casinos to sell alcohol until 11 p.m. \r\nEdwards said this amendment followed discussions with restaurant… [+1717 chars]",
-         "publishedAt" : "2020-09-17T22:45:00Z"
+         "title" : "Gov. Edwards amends last call for phase 3, extends alcohol sale by one hour - WDSU New Orleans"
       },
       {
+         "author" : "Tyler Clifford",
+         "title" : "'I think it's time to start putting cash to work,' Jim Cramer says - CNBC",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106578271-1592237659478trad.jpg?v=1597145909",
+         "publishedAt" : "2020-09-17T22:43:00Z",
+         "url" : "https://www.cnbc.com/2020/09/17/i-think-its-time-to-start-putting-cash-to-work-jim-cramer-says.html",
          "source" : {
             "id" : null,
             "name" : "CNBC"
          },
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106578271-1592237659478trad.jpg?v=1597145909",
-         "title" : "'I think it's time to start putting cash to work,' Jim Cramer says - CNBC",
-         "description" : "\"I recommend picking up some of [the] historically cheap stocks that are being brought down by the entire averages,\" the \"Mad Money\" host said.",
          "content" : "CNBC's Jim Cramer on Thursday recommended that investors start hunting for cyclical stocks that are at bargain rates and attracting interest from big fund investors.\r\nAs a series of large IPOs consum… [+1681 chars]",
-         "publishedAt" : "2020-09-17T22:43:00Z",
-         "url" : "https://www.cnbc.com/2020/09/17/i-think-its-time-to-start-putting-cash-to-work-jim-cramer-says.html",
-         "author" : "Tyler Clifford"
+         "description" : "\"I recommend picking up some of [the] historically cheap stocks that are being brought down by the entire averages,\" the \"Mad Money\" host said."
       },
       {
-         "url" : "https://www.foxbusiness.com/markets/richard-bransons-vg-acquisition-tries-the-spac-route-to-raise-capital",
-         "author" : "Lucas Manfredi",
-         "publishedAt" : "2020-09-17T22:38:56Z",
+         "source" : {
+            "name" : "Fox Business",
+            "id" : null
+         },
          "content" : "Maverick billionaire Richard Branson, founder of Virgin Group, is looking to ride the hot SPAC trend with the hopes of raising $460 million.\r\nBranson's VG Acquisition Corp is the latest to move on a … [+2998 chars]",
          "description" : "The company is looking to raise $460 million in capital by buying undervalued American and European consumer-facing businesses in sectors where Virgin has had success, including travel, leisure, entertainment and financial services.",
+         "author" : "Lucas Manfredi",
          "title" : "Billionaire Richard Branson aims to raise $460M with SPAC IPO - Fox Business",
          "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/09/0/0/Richard-Branson-GETTY.jpg?ve=1&tl=1",
-         "source" : {
-            "id" : null,
-            "name" : "Fox Business"
-         }
+         "url" : "https://www.foxbusiness.com/markets/richard-bransons-vg-acquisition-tries-the-spac-route-to-raise-capital",
+         "publishedAt" : "2020-09-17T22:38:56Z"
       }
    ],
    "status" : "ok",
