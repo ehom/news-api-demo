@@ -2,264 +2,264 @@
    "status" : "ok",
    "articles" : [
       {
+         "source" : {
+            "name" : "Atlanta Journal Constitution",
+            "id" : null
+         },
+         "author" : "Asia Simone Burns, Ada Wood, Jeremy Redmon",
+         "description" : "",
          "urlToImage" : "https://www.ajc.com/resizer/jZ9WHouheEHmGj4SmjtVk24pMdE=/1200x630/cloudfront-us-east-1.images.arcpublishing.com/ajc/H4VD4RVO4WYL7BK4SBC2O6KFQI.jpg",
          "url" : "https://www.ajc.com/news/hurricane-sallys-remains-rake-georgia/3S75JFAMZRAPVIE5PT7XXMZFFU/",
-         "description" : "",
          "publishedAt" : "2020-09-18T00:45:00Z",
-         "source" : {
-            "id" : null,
-            "name" : "Atlanta Journal Constitution"
-         },
-         "content" : "More than 28,000 Georgia Power customers lost service amid the storm, which dumped as much as six inches of rain across parts of the Atlanta metro region. Areas around Macon and Americus soaked up 8 … [+2045 chars]",
          "title" : "Hurricane Sally’s remains rake Georgia - Atlanta Journal Constitution",
-         "author" : "Asia Simone Burns, Ada Wood, Jeremy Redmon"
+         "content" : "More than 28,000 Georgia Power customers lost service amid the storm, which dumped as much as six inches of rain across parts of the Atlanta metro region. Areas around Macon and Americus soaked up 8 … [+2045 chars]"
       },
       {
          "content" : "Dow Jones futures tilted lower late Thursday, along with S&amp;P 500 futures and Nasdaq futures. The stock market rally suffered significant losses, with the Nasdaq undercutting key support. Apple st… [+7400 chars]",
          "title" : "Dow Jones Futures: Market Rally Against Ropes - Investor's Business Daily",
-         "author" : "Investor's Business Daily",
-         "urlToImage" : "https://www.investors.com/wp-content/uploads/2017/12/Stock-boxerPunch-01-adobe.jpg",
-         "url" : "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-stock-market-rally-against-ropes-apple-amazon-netflix-tesla-fall/",
          "publishedAt" : "2020-09-18T00:11:00Z",
+         "url" : "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-stock-market-rally-against-ropes-apple-amazon-netflix-tesla-fall/",
+         "urlToImage" : "https://www.investors.com/wp-content/uploads/2017/12/Stock-boxerPunch-01-adobe.jpg",
          "description" : "Dow Jones futures: The stock market rally suffered more damage, but hasn't thrown in the towel yet. Apple, Amazon, Netflix and Tesla were among the losers.",
          "source" : {
-            "name" : "Investor's Business Daily",
-            "id" : null
-         }
+            "id" : null,
+            "name" : "Investor's Business Daily"
+         },
+         "author" : "Investor's Business Daily"
       },
       {
-         "content" : "Wynn Resorts in Las Vegas on Thursday reported more than 500 coronavirus cases among its employees since its June re-opening.\r\nThe company has so far conducted 15,051 COVID-19 tests on employees with… [+1592 chars]",
-         "title" : "Wynn Las Vegas reveals 548 positive COVID-19 cases among employees - Fox Business",
-         "author" : "Louis Casiano",
-         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/09/0/0/Wynne-Las-Vegas-Coronavirus.jpg?ve=1&tl=1",
-         "url" : "https://www.foxbusiness.com/lifestyle/wynn-las-vegas-covid-19-employees",
-         "description" : "Wynn Resorts in Las Vegas on Thursday reported more than 500 coronavirus cases among its employees since its June reopening.",
-         "publishedAt" : "2020-09-17T23:59:37Z",
          "source" : {
             "name" : "Fox Business",
             "id" : null
-         }
+         },
+         "author" : "Louis Casiano",
+         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/09/0/0/Wynne-Las-Vegas-Coronavirus.jpg?ve=1&tl=1",
+         "description" : "Wynn Resorts in Las Vegas on Thursday reported more than 500 coronavirus cases among its employees since its June reopening.",
+         "url" : "https://www.foxbusiness.com/lifestyle/wynn-las-vegas-covid-19-employees",
+         "publishedAt" : "2020-09-17T23:59:37Z",
+         "title" : "Wynn Las Vegas reveals 548 positive COVID-19 cases among employees - Fox Business",
+         "content" : "Wynn Resorts in Las Vegas on Thursday reported more than 500 coronavirus cases among its employees since its June re-opening.\r\nThe company has so far conducted 15,051 COVID-19 tests on employees with… [+1592 chars]"
       },
       {
-         "content" : null,
-         "title" : "Cramer: Today's action was reminiscent of past boom-bust IPO cycles - CNBC Television",
          "author" : null,
-         "urlToImage" : null,
-         "url" : "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9ZzZ0VnVZWDlReE3SAQA?oc=5",
-         "description" : null,
-         "publishedAt" : "2020-09-17T23:46:39Z",
          "source" : {
             "id" : "google-news",
             "name" : "Google News"
-         }
+         },
+         "urlToImage" : null,
+         "description" : null,
+         "url" : "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9ZzZ0VnVZWDlReE3SAQA?oc=5",
+         "publishedAt" : "2020-09-17T23:46:39Z",
+         "title" : "Cramer: Today's action was reminiscent of past boom-bust IPO cycles - CNBC Television",
+         "content" : null
       },
       {
-         "description" : "Unity is set to wrap up a big week for tech IPOs on Friday, and investors showed bullishness, pricing the stock above its expected range.",
-         "publishedAt" : "2020-09-17T23:26:00Z",
          "source" : {
             "name" : "CNBC",
             "id" : null
          },
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106675937-1598283603012-gettyimages-1027207472-775105076GB00018_TechCrunch.jpeg?v=1598283709",
-         "url" : "https://www.cnbc.com/2020/09/17/unity-prices-ipo-above-range-at-52-valuing-company-at-13point7-billion.html",
          "author" : "Ari Levy",
-         "content" : "Video game software developer Unity priced its IPO above the expected range on Thursday in an offering that initially values the company at $13.7 billion, CNBC has confirmed.\r\nUnity sold shares at $5… [+2017 chars]",
-         "title" : "Unity prices IPO above range at $52, initially valuing game software company at $13.7 billion - CNBC"
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106675937-1598283603012-gettyimages-1027207472-775105076GB00018_TechCrunch.jpeg?v=1598283709",
+         "description" : "Unity is set to wrap up a big week for tech IPOs on Friday, and investors showed bullishness, pricing the stock above its expected range.",
+         "url" : "https://www.cnbc.com/2020/09/17/unity-prices-ipo-above-range-at-52-valuing-company-at-13point7-billion.html",
+         "publishedAt" : "2020-09-17T23:26:00Z",
+         "title" : "Unity prices IPO above range at $52, initially valuing game software company at $13.7 billion - CNBC",
+         "content" : "Video game software developer Unity priced its IPO above the expected range on Thursday in an offering that initially values the company at $13.7 billion, CNBC has confirmed.\r\nUnity sold shares at $5… [+2017 chars]"
       },
       {
-         "title" : "Trump says his administration spoke to Walmart, Oracle about TikTok - Reuters",
-         "content" : "By Reuters Staff\r\nFILE PHOTO: U.S. President Donald Trump speaks to reporters during a news conference in the Brady Press Briefing Room at the White House in Washington, U.S., September 16, 2020. REU… [+702 chars]",
-         "author" : "Reuters Staff",
-         "url" : "https://www.reuters.com/article/us-usa-tiktok-trump-idUSKBN2683ER",
-         "urlToImage" : "https://static.reuters.com/resources/r/?m=02&d=20200917&t=2&i=1533919092&r=LYNXMPEG8G25J&w=800",
          "source" : {
-            "name" : "Reuters",
-            "id" : "reuters"
+            "id" : "reuters",
+            "name" : "Reuters"
          },
+         "author" : "Reuters Staff",
+         "publishedAt" : "2020-09-17T22:56:00Z",
+         "content" : "By Reuters Staff\r\nFILE PHOTO: U.S. President Donald Trump speaks to reporters during a news conference in the Brady Press Briefing Room at the White House in Washington, U.S., September 16, 2020. REU… [+702 chars]",
+         "title" : "Trump says his administration spoke to Walmart, Oracle about TikTok - Reuters",
          "description" : "U.S. President Donald Trump said his administration had spoken to Walmart Inc and Oracle Corp on Thursday about TikTok, but that not much had changed about a deal for the Chinese-owned short video app.",
-         "publishedAt" : "2020-09-17T22:56:00Z"
+         "urlToImage" : "https://static.reuters.com/resources/r/?m=02&d=20200917&t=2&i=1533919092&r=LYNXMPEG8G25J&w=800",
+         "url" : "https://www.reuters.com/article/us-usa-tiktok-trump-idUSKBN2683ER"
       },
       {
          "source" : {
             "name" : "CBS News",
             "id" : "cbs-news"
          },
-         "description" : "\"There were so many people, and (my dad) was kind of shocked because he didn't think there would be a turn around that quickly,\" the owner's daughter said.",
-         "publishedAt" : "2020-09-17T22:53:00Z",
-         "url" : "https://www.cbsnews.com/news/el-torito-taqueria-twitter-plea-humble-texas/",
-         "urlToImage" : "https://cbsnews1.cbsistatic.com/hub/i/r/2020/09/17/e19dc167-cccf-44e6-9638-ed68c7750e5e/thumbnail/1200x630/22bf7a991be55764ba5d7eadff54559e/0917-en-villarreal.png",
          "author" : "Mireya Villarreal",
+         "publishedAt" : "2020-09-17T22:53:00Z",
+         "content" : "Humble, Texas — Elias Aviles spent more than 20 years working in other people's restaurants before he saved enough money to open his own food truck. El Torito Taqueria was born in Humble, Texas, just… [+1098 chars]",
          "title" : "Daughter's plea helps save her father's taco truck during pandemic - CBS News",
-         "content" : "Humble, Texas — Elias Aviles spent more than 20 years working in other people's restaurants before he saved enough money to open his own food truck. El Torito Taqueria was born in Humble, Texas, just… [+1098 chars]"
+         "description" : "\"There were so many people, and (my dad) was kind of shocked because he didn't think there would be a turn around that quickly,\" the owner's daughter said.",
+         "urlToImage" : "https://cbsnews1.cbsistatic.com/hub/i/r/2020/09/17/e19dc167-cccf-44e6-9638-ed68c7750e5e/thumbnail/1200x630/22bf7a991be55764ba5d7eadff54559e/0917-en-villarreal.png",
+         "url" : "https://www.cbsnews.com/news/el-torito-taqueria-twitter-plea-humble-texas/"
       },
       {
-         "author" : "Tom McKay",
-         "content" : "Facebook employees have recently been wondering if perhaps Facebookwhich lets politicians lie in ads, festers with extremist movements like QAnon, and by design amplifies authoritarian propaganda, mi… [+4425 chars]",
-         "title" : "Free Speech Champion Mark Zuckerberg Announces Plan to Censor His Employees - Gizmodo",
-         "description" : "Facebook employees have recently been wondering if perhaps Facebook—which lets politicians lie in ads, festers with extremist movements like QAnon, and by design amplifies authoritarian propaganda, misinformation, and hate speech—is actually the bad guy.",
          "publishedAt" : "2020-09-17T22:40:00Z",
-         "source" : {
-            "id" : null,
-            "name" : "Gizmodo.com"
-         },
+         "title" : "Free Speech Champion Mark Zuckerberg Announces Plan to Censor His Employees - Gizmodo",
+         "content" : "Facebook employees have recently been wondering if perhaps Facebookwhich lets politicians lie in ads, festers with extremist movements like QAnon, and by design amplifies authoritarian propaganda, mi… [+4425 chars]",
          "urlToImage" : "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/pugx7bodoikv4cyzz2qt.jpg",
-         "url" : "https://gizmodo.com/free-speech-champion-mark-zuckerberg-announces-plan-to-1845097521"
-      },
-      {
-         "urlToImage" : "https://static01.nyt.com/images/2020/09/17/business/17markets-brf-zip/17markets-brf-zip-facebookJumbo.jpg",
-         "url" : "https://www.nytimes.com/2020/09/17/business/economy/unemployment-claims.html",
-         "description" : "“I’m concerned about a plateau,” one economist said, pointing to a slower phase of the recovery after a hiring bounce in the spring.",
-         "publishedAt" : "2020-09-17T22:17:00Z",
+         "description" : "Facebook employees have recently been wondering if perhaps Facebook—which lets politicians lie in ads, festers with extremist movements like QAnon, and by design amplifies authoritarian propaganda, misinformation, and hate speech—is actually the bad guy.",
+         "url" : "https://gizmodo.com/free-speech-champion-mark-zuckerberg-announces-plan-to-1845097521",
          "source" : {
-            "name" : "New York Times",
+            "name" : "Gizmodo.com",
             "id" : null
          },
-         "content" : "Federal data suggests that the program now has more beneficiaries than regular unemployment insurance. But there is evidence that both overcounting and fraud may have contributed to a jump in claims.… [+1587 chars]",
-         "title" : "Unemployment Claims Dip, but Layoffs Remain a Worry - The New York Times",
-         "author" : "Nelson D. Schwartz, Gillian Friedman"
+         "author" : "Tom McKay"
       },
       {
+         "title" : "Unemployment Claims Dip, but Layoffs Remain a Worry - The New York Times",
+         "content" : "Federal data suggests that the program now has more beneficiaries than regular unemployment insurance. But there is evidence that both overcounting and fraud may have contributed to a jump in claims.… [+1587 chars]",
+         "publishedAt" : "2020-09-17T22:17:00Z",
+         "url" : "https://www.nytimes.com/2020/09/17/business/economy/unemployment-claims.html",
+         "urlToImage" : "https://static01.nyt.com/images/2020/09/17/business/17markets-brf-zip/17markets-brf-zip-facebookJumbo.jpg",
+         "description" : "“I’m concerned about a plateau,” one economist said, pointing to a slower phase of the recovery after a hiring bounce in the spring.",
+         "author" : "Nelson D. Schwartz, Gillian Friedman",
          "source" : {
             "id" : null,
-            "name" : "BuzzFeed News"
-         },
-         "publishedAt" : "2020-09-17T22:15:00Z",
-         "description" : "The disclosures from the two frontrunners, Pfizer and Moderna, come as public trust in a coronavirus vaccine is declining.",
-         "url" : "https://www.buzzfeednews.com/article/stephaniemlee/coronavirus-vaccine-blueprint-moderna-pfizer",
-         "urlToImage" : "https://img.buzzfeed.com/buzzfeed-static/static/2020-09/17/22/asset/49f653424ccb/sub-buzz-13406-1600380130-17.jpg?crop=1024:536;0,73",
-         "author" : "Stephanie M. Lee",
-         "title" : "Two Pharma Companies Released Their Coronavirus Vaccine Blueprints In A Bid To Regain Public Trust - BuzzFeed News",
-         "content" : "In a scramble to restore fading public trust in the coronavirus vaccine pipeline, two leading pharmaceutical companies released their trial plans for the first time on Thursday.\r\nThose details first … [+6088 chars]"
+            "name" : "New York Times"
+         }
       },
       {
-         "content" : "The Federal Reserve has said for some time that it didnt want to become impotent with its policy rate stuck at zero. Now we know their plan of action to avoid this outcome.On Wednesday, the Fed rolle… [+4957 chars]",
-         "title" : "Fed makes its last stand in struggle to keep potent in age of low interest rates - MarketWatch",
-         "author" : "Greg Robb",
+         "urlToImage" : "https://img.buzzfeed.com/buzzfeed-static/static/2020-09/17/22/asset/49f653424ccb/sub-buzz-13406-1600380130-17.jpg?crop=1024:536;0,73",
+         "description" : "The disclosures from the two frontrunners, Pfizer and Moderna, come as public trust in a coronavirus vaccine is declining.",
+         "url" : "https://www.buzzfeednews.com/article/stephaniemlee/coronavirus-vaccine-blueprint-moderna-pfizer",
+         "publishedAt" : "2020-09-17T22:15:00Z",
+         "content" : "In a scramble to restore fading public trust in the coronavirus vaccine pipeline, two leading pharmaceutical companies released their trial plans for the first time on Thursday.\r\nThose details first … [+6088 chars]",
+         "title" : "Two Pharma Companies Released Their Coronavirus Vaccine Blueprints In A Bid To Regain Public Trust - BuzzFeed News",
+         "source" : {
+            "name" : "BuzzFeed News",
+            "id" : null
+         },
+         "author" : "Stephanie M. Lee"
+      },
+      {
          "urlToImage" : "https://s.marketwatch.com/public/resources/images/MW-IO698_powell_ZG_20200917135452.jpg",
-         "url" : "https://www.marketwatch.com/story/fed-makes-its-last-stand-in-struggle-to-keep-potent-in-age-of-low-interest-rates-2020-09-17",
          "description" : "Once you get into zero-rate territory, it is hard to get out",
+         "url" : "https://www.marketwatch.com/story/fed-makes-its-last-stand-in-struggle-to-keep-potent-in-age-of-low-interest-rates-2020-09-17",
          "publishedAt" : "2020-09-17T21:59:00Z",
+         "title" : "Fed makes its last stand in struggle to keep potent in age of low interest rates - MarketWatch",
+         "content" : "The Federal Reserve has said for some time that it didnt want to become impotent with its policy rate stuck at zero. Now we know their plan of action to avoid this outcome.On Wednesday, the Fed rolle… [+4957 chars]",
+         "author" : "Greg Robb",
          "source" : {
             "id" : null,
             "name" : "MarketWatch"
          }
       },
       {
-         "publishedAt" : "2020-09-17T21:46:41Z",
+         "url" : "https://www.foxbusiness.com/politics/house-republicans-push-to-reopen-paycheck-protection-program-amid-coronavirus-relief-gridlock",
          "description" : "House Republicans are pushing to reopen a key federal relief program designed to keep small businesses afloat during the coronavirus pandemic.",
+         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/09/0/0/AP20255783434552.jpg?ve=1&tl=1",
+         "content" : "House Republicans are pushing to reopen a key federal relief program designed to keep small businesses afloat during the coronavirus pandemic — and will try to quickly force a vote on the newly intro… [+3979 chars]",
+         "title" : "House Republicans push to reopen Paycheck Protection Program amid coronavirus relief gridlock - Fox Business",
+         "publishedAt" : "2020-09-17T21:46:41Z",
          "source" : {
             "id" : null,
             "name" : "Fox Business"
          },
-         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/09/0/0/AP20255783434552.jpg?ve=1&tl=1",
-         "url" : "https://www.foxbusiness.com/politics/house-republicans-push-to-reopen-paycheck-protection-program-amid-coronavirus-relief-gridlock",
-         "author" : "Megan Henney",
-         "content" : "House Republicans are pushing to reopen a key federal relief program designed to keep small businesses afloat during the coronavirus pandemic — and will try to quickly force a vote on the newly intro… [+3979 chars]",
-         "title" : "House Republicans push to reopen Paycheck Protection Program amid coronavirus relief gridlock - Fox Business"
+         "author" : "Megan Henney"
       },
       {
+         "publishedAt" : "2020-09-17T21:15:00Z",
          "title" : "Telehealth transformation will still take years despite pandemic boom, says Amwell co-CEO - CNBC",
          "content" : "Telehealth company Amwell made its public market debut Thursday after months of rapid growth because of the coronavirus pandemic. But co-CEO Ido Schoenberg told CNBC that the \"enormous\" digital trans… [+3283 chars]",
-         "author" : "Kevin Stankiewicz",
-         "url" : "https://www.cnbc.com/2020/09/17/amwell-co-ceo-ido-schoenberg-on-growth-of-teleheatlh-after-coronavirus.html",
+         "description" : "\"It's not a doc in the box in the cloud. It's basically another tool in the tool set of our trusted providers, and that will take years to develop,\" Amwell co-CEO Ido Schoenberg told CNBC.",
          "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106449813-1584534130058gettyimages-1212961465.jpeg?v=1584534172",
+         "url" : "https://www.cnbc.com/2020/09/17/amwell-co-ceo-ido-schoenberg-on-growth-of-teleheatlh-after-coronavirus.html",
+         "author" : "Kevin Stankiewicz",
          "source" : {
             "id" : null,
             "name" : "CNBC"
-         },
-         "description" : "\"It's not a doc in the box in the cloud. It's basically another tool in the tool set of our trusted providers, and that will take years to develop,\" Amwell co-CEO Ido Schoenberg told CNBC.",
-         "publishedAt" : "2020-09-17T21:15:00Z"
+         }
       },
       {
-         "title" : "The Volkswagen Taos And The Most Legendary Repair Manual Ever Written - Jalopnik",
-         "content" : "The Taos will slot in under the Tiguan and will compete with the Hyundai Konas and Honda HR-Vs of the world. VW said today it would debut October 13. VW said it was naming it Taos after the town of T… [+7610 chars]",
-         "author" : "Erik Shilling",
-         "url" : "https://jalopnik.com/the-volkswagen-taos-and-the-most-legendary-repair-manua-1845094766",
-         "urlToImage" : "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/dt8xl24nigu3hgoyyvjd.jpg",
          "source" : {
             "id" : null,
             "name" : "Jalopnik"
          },
+         "author" : "Erik Shilling",
+         "urlToImage" : "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/dt8xl24nigu3hgoyyvjd.jpg",
          "description" : "The new compact Volkswagen SUV slated for North America will be called Taos, the company said today. Initially, I thought it was more name alphabet soup from the automaker but it turns out the name has roots in the most legendary VW repair guide ever written.",
-         "publishedAt" : "2020-09-17T21:10:00Z"
+         "url" : "https://jalopnik.com/the-volkswagen-taos-and-the-most-legendary-repair-manua-1845094766",
+         "publishedAt" : "2020-09-17T21:10:00Z",
+         "content" : "The Taos will slot in under the Tiguan and will compete with the Hyundai Konas and Honda HR-Vs of the world. VW said today it would debut October 13. VW said it was naming it Taos after the town of T… [+7610 chars]",
+         "title" : "The Volkswagen Taos And The Most Legendary Repair Manual Ever Written - Jalopnik"
       },
       {
          "author" : "Joey Klender",
-         "title" : "Tesla (TSLA) selloff ‘was a mistake,’ $230 billion investment manager says - Teslarati",
-         "content" : "Tesla (NASDAQ: TSLA) shares have spiked almost fivefold this year and have given many the company’s investors a terrific surge in value. However, some investors and managers are kicking themselves fo… [+2289 chars]",
          "source" : {
             "name" : "Teslarati",
             "id" : null
          },
+         "title" : "Tesla (TSLA) selloff ‘was a mistake,’ $230 billion investment manager says - Teslarati",
+         "content" : "Tesla (NASDAQ: TSLA) shares have spiked almost fivefold this year and have given many the company’s investors a terrific surge in value. However, some investors and managers are kicking themselves fo… [+2289 chars]",
          "publishedAt" : "2020-09-17T20:58:34Z",
-         "description" : "Tesla (NASDAQ: TSLA) shares have spiked almost fivefold this year and have given many the company’s investors a terrific surge in value. However, some investors and managers are kicking themselves for selling off the stock early. Will Danoff of Fidelity is on…",
          "url" : "https://www.teslarati.com/tesla-tsla-selloff-investment-manager-will-danoff/",
-         "urlToImage" : "https://www.teslarati.com/wp-content/uploads/2018/10/Unplugged-Performance-S-APEX-Tesla-Model-S-P100D-_01.jpg"
+         "urlToImage" : "https://www.teslarati.com/wp-content/uploads/2018/10/Unplugged-Performance-S-APEX-Tesla-Model-S-P100D-_01.jpg",
+         "description" : "Tesla (NASDAQ: TSLA) shares have spiked almost fivefold this year and have given many the company’s investors a terrific surge in value. However, some investors and managers are kicking themselves for selling off the stock early. Will Danoff of Fidelity is on…"
       },
       {
+         "description" : "Reports claim that Nikola has been lying about having working vehicles and fuel cell technology.",
          "urlToImage" : "https://www.extremetech.com/wp-content/uploads/2017/04/nikola_one_14-2.jpg",
          "url" : "https://www.extremetech.com/extreme/315151-electric-vehicle-company-admits-it-faked-fuel-cell-semi-truck-demo",
-         "description" : "Reports claim that Nikola has been lying about having working vehicles and fuel cell technology.",
          "publishedAt" : "2020-09-17T20:52:29Z",
-         "source" : {
-            "id" : null,
-            "name" : "ExtremeTech"
-         },
          "content" : "Numerous companies are trying to perfect electric vehicles. Tesla has a particularly large following, but traditional automakers like Chevrolet and GM are also trying to get a piece of the emerging E… [+2312 chars]",
          "title" : "Electric Vehicle Company Admits It Faked Fuel-Cell Semi Truck Demo - ExtremeTech",
+         "source" : {
+            "name" : "ExtremeTech",
+            "id" : null
+         },
          "author" : "Ryan Whitwam"
       },
       {
-         "author" : "https://www.facebook.com/bbcnews",
-         "title" : "Canada Tesla driver charged over 'napping while speeding' - BBC News",
-         "content" : "Image copyrightAlberta RCMPImage caption\r\n The car had been driving along a highway near Ponoka in Alberta\r\nA Canadian man has been charged with dangerous driving for allegedly taking a nap while his… [+1579 chars]",
          "source" : {
-            "name" : "BBC News",
-            "id" : null
+            "id" : null,
+            "name" : "BBC News"
          },
-         "description" : "Canadian police said both front seats were fully reclined as the car drove at 150km/h.",
+         "author" : "https://www.facebook.com/bbcnews",
+         "content" : "Image copyrightAlberta RCMPImage caption\r\n The car had been driving along a highway near Ponoka in Alberta\r\nA Canadian man has been charged with dangerous driving for allegedly taking a nap while his… [+1579 chars]",
+         "title" : "Canada Tesla driver charged over 'napping while speeding' - BBC News",
          "publishedAt" : "2020-09-17T20:50:51Z",
          "url" : "https://www.bbc.com/news/world-us-canada-54197344",
+         "description" : "Canadian police said both front seats were fully reclined as the car drove at 150km/h.",
          "urlToImage" : "https://ichef.bbci.co.uk/news/1024/branded_news/13737/production/_114417697_mediaitem114417696.jpg"
       },
       {
-         "url" : "https://www.engadget.com/amazon-fresh-woodland-hills-la-open-to-public-200248518.html",
-         "urlToImage" : "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-09%2F80e6e760-f91f-11ea-bdef-67eaef902386&client=amp-blogside-v2&signature=feb13f3eb3129eee29ae9fdb247faefeb9226e03",
+         "author" : "",
          "source" : {
-            "name" : "Engadget",
-            "id" : "engadget"
+            "id" : "engadget",
+            "name" : "Engadget"
          },
-         "publishedAt" : "2020-09-17T20:40:38Z",
          "description" : "The centerpiece of the store is Amazon's new Dash Cart. Each one features a scale and a variety of cameras and sensors, allowing it to calculate your total as you shop.",
-         "title" : "Amazon Fresh grocery store in Los Angeles opens to the public - Engadget",
+         "urlToImage" : "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-09%2F80e6e760-f91f-11ea-bdef-67eaef902386&client=amp-blogside-v2&signature=feb13f3eb3129eee29ae9fdb247faefeb9226e03",
+         "url" : "https://www.engadget.com/amazon-fresh-woodland-hills-la-open-to-public-200248518.html",
+         "publishedAt" : "2020-09-17T20:40:38Z",
          "content" : "After a short period where you could only visit the store if you had an invite, Amazon's first Fresh grocery location is now open to the public. Starting today, anyone who wants to visit the Woodland… [+618 chars]",
-         "author" : ""
+         "title" : "Amazon Fresh grocery store in Los Angeles opens to the public - Engadget"
       },
       {
-         "publishedAt" : "2020-09-17T20:34:00Z",
-         "description" : "New York City will soon let restaurants add a temporary charge of up to 10 percent as help in the pandemic, but reaction in the business is divided.",
          "source" : {
             "name" : "New York Times",
             "id" : null
          },
+         "author" : "Rachel Wharton",
+         "description" : "New York City will soon let restaurants add a temporary charge of up to 10 percent as help in the pandemic, but reaction in the business is divided.",
          "urlToImage" : "https://static01.nyt.com/images/2020/09/17/lens/17ny-surcharge4/17ny-surcharge4-facebookJumbo.jpg",
          "url" : "https://www.nytimes.com/2020/09/17/dining/nyc-restaurant-surcharge-covid.html",
-         "author" : "Rachel Wharton",
-         "content" : "He has raised his prices by about 5 or 6 percent, he said, and has noticed that other places have done the same. Unless new, unforeseen costs arise, he said, it kind of feels like price gouging.\r\nPhi… [+1635 chars]",
-         "title" : "A Covid Surcharge on Restaurant Checks? Some Owners Are Wary - The New York Times"
+         "publishedAt" : "2020-09-17T20:34:00Z",
+         "title" : "A Covid Surcharge on Restaurant Checks? Some Owners Are Wary - The New York Times",
+         "content" : "He has raised his prices by about 5 or 6 percent, he said, and has noticed that other places have done the same. Unless new, unforeseen costs arise, he said, it kind of feels like price gouging.\r\nPhi… [+1635 chars]"
       },
       {
-         "url" : "https://arstechnica.com/information-technology/2020/09/patient-dies-after-ransomware-attack-reroutes-her-to-remote-hospital/",
+         "publishedAt" : "2020-09-17T20:06:00Z",
+         "content" : "107 with 70 posters participating\r\nA woman seeking emergency treatment for a life-threatening condition died after a ransomware attack crippled a nearby hospital in Duesseldorf, Germany, and forced h… [+2713 chars]",
+         "title" : "Patient dies after ransomware attack reroutes her to remote hospital - Ars Technica",
          "urlToImage" : "https://cdn.arstechnica.net/wp-content/uploads/2019/10/ambulance-760x380.jpg",
+         "description" : "Outage caused an hour delay in treatment for woman with life-threatening condition.",
+         "url" : "https://arstechnica.com/information-technology/2020/09/patient-dies-after-ransomware-attack-reroutes-her-to-remote-hospital/",
+         "author" : "Dan Goodin",
          "source" : {
             "name" : "Ars Technica",
             "id" : "ars-technica"
-         },
-         "publishedAt" : "2020-09-17T20:06:00Z",
-         "description" : "Outage caused an hour delay in treatment for woman with life-threatening condition.",
-         "title" : "Patient dies after ransomware attack reroutes her to remote hospital - Ars Technica",
-         "content" : "107 with 70 posters participating\r\nA woman seeking emergency treatment for a life-threatening condition died after a ransomware attack crippled a nearby hospital in Duesseldorf, Germany, and forced h… [+2713 chars]",
-         "author" : "Dan Goodin"
+         }
       }
    ],
    "totalResults" : 70
