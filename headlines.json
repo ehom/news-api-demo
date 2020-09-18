@@ -1,266 +1,266 @@
 {
    "status" : "ok",
-   "totalResults" : 70,
    "articles" : [
       {
-         "title" : "Fed’s Kashkari says warnings of runaway inflation are just ‘ghost stories’ - MarketWatch",
+         "urlToImage" : "https://s.marketwatch.com/public/resources/images/MW-HH475_kashka_ZG_20190411155645.jpg",
+         "source" : {
+            "name" : "MarketWatch",
+            "id" : null
+         },
+         "description" : "Fed’s Bostic says COVID-19 pandemic has generated “a lot of noise” in the inflation data",
+         "publishedAt" : "2020-09-18T16:34:00Z",
          "author" : "Greg Robb",
          "content" : "Warnings that U.S. inflation is about to surge arent supported by any evidence, and are tantamount to ghost stories, said Minneapolis Federal Reserve President Neel Kashkari on Friday.These has been … [+3267 chars]",
-         "source" : {
-            "id" : null,
-            "name" : "MarketWatch"
-         },
-         "publishedAt" : "2020-09-18T16:34:00Z",
          "url" : "https://www.marketwatch.com/story/feds-kashkari-says-warnings-of-uncontrollable-inflation-are-just-ghost-stories-2020-09-18",
-         "urlToImage" : "https://s.marketwatch.com/public/resources/images/MW-HH475_kashka_ZG_20190411155645.jpg",
-         "description" : "Fed’s Bostic says COVID-19 pandemic has generated “a lot of noise” in the inflation data"
+         "title" : "Fed’s Kashkari says warnings of runaway inflation are just ‘ghost stories’ - MarketWatch"
       },
       {
-         "url" : "https://www.fool.com/investing/2020/09/18/why-inovio-stock-is-bouncing-back-today/",
-         "urlToImage" : "https://g.foolcdn.com/editorial/images/592204/covid-19-vaccine-and-100-bills.jpg",
          "description" : "No news is good news for the coronavirus-focused biotech.",
-         "title" : "Why Inovio Stock Is Bouncing Back Today - Motley Fool",
+         "publishedAt" : "2020-09-18T15:49:00Z",
+         "url" : "https://www.fool.com/investing/2020/09/18/why-inovio-stock-is-bouncing-back-today/",
          "author" : "Keith Speights",
          "content" : "What happened\r\nShares of Inovio Pharmaceuticals(NASDAQ:INO) were bouncing back somewhat on Friday after Thursday's sharp decline. The stock was up 6.1% as of 11:22 a.m. EDT today after rising as much… [+2251 chars]",
+         "title" : "Why Inovio Stock Is Bouncing Back Today - Motley Fool",
+         "urlToImage" : "https://g.foolcdn.com/editorial/images/592204/covid-19-vaccine-and-100-bills.jpg",
          "source" : {
             "name" : "Motley Fool",
             "id" : null
-         },
-         "publishedAt" : "2020-09-18T15:49:00Z"
+         }
       },
       {
-         "url" : "https://www.investors.com/market-trend/stock-market-today/dow-jones-stock-market-rally-tesla-stock-beyond-meat-downgrade-apple-microsoft-tiktok/",
-         "description" : "The Dow Jones Industrial Average fell 150 points early Friday after Thursday's stock market sell-off. Tesla jumped 6%, while Beyond Meat dived 5%.",
          "urlToImage" : "https://www.investors.com/wp-content/uploads/2020/06/Stock-tesladelivery-01-shutt.jpg",
-         "title" : "Dow Jones Falls 150 Points, As Apple Tumbles; Tesla Jumps 6%, But Beyond Meat Dives - Investor's Business Daily",
+         "source" : {
+            "name" : "Investor's Business Daily",
+            "id" : null
+         },
          "author" : "Investor's Business Daily",
-         "publishedAt" : "2020-09-18T15:40:00Z",
-         "source" : {
-            "id" : null,
-            "name" : "Investor's Business Daily"
-         },
-         "content" : "The Dow Jones Industrial Average briefly lost more than 150 points early Friday before cutting losses, while the Nasdaq continued lower after Thursday's stock market sell-off. Dow Jones leader Apple … [+7033 chars]"
+         "content" : "The Dow Jones Industrial Average briefly lost more than 150 points early Friday before cutting losses, while the Nasdaq continued lower after Thursday's stock market sell-off. Dow Jones leader Apple … [+7033 chars]",
+         "url" : "https://www.investors.com/market-trend/stock-market-today/dow-jones-stock-market-rally-tesla-stock-beyond-meat-downgrade-apple-microsoft-tiktok/",
+         "title" : "Dow Jones Falls 150 Points, As Apple Tumbles; Tesla Jumps 6%, But Beyond Meat Dives - Investor's Business Daily",
+         "description" : "The Dow Jones Industrial Average fell 150 points early Friday after Thursday's stock market sell-off. Tesla jumped 6%, while Beyond Meat dived 5%.",
+         "publishedAt" : "2020-09-18T15:40:00Z"
       },
       {
-         "title" : "Comcast may force Roku to drop some NBCUniversal channels - Engadget",
-         "content" : "NBCU’s distribution deal with Roku expired last week. Roku offered to extend the existing deal for TV Everywhere channels while the two companies negotiated an agreement to distribute Peacock. Comcas… [+1413 chars]",
          "source" : {
-            "name" : "Engadget",
-            "id" : "engadget"
+            "id" : "engadget",
+            "name" : "Engadget"
          },
-         "publishedAt" : "2020-09-18T15:08:32Z",
-         "author" : "",
          "urlToImage" : "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2019-07%2Fce952c60-9d09-11e9-9ded-e0425819635c&client=amp-blogside-v2&signature=271610e3aa2c5460bbbb9251aa9378b33f9f1e97",
-         "description" : "Roku may lose NBCUniversal channels as early as this weekend.",
-         "url" : "https://www.engadget.com/comcast-nbc-universal-roku-peacock-dispute-142058425.html"
+         "title" : "Comcast may force Roku to drop some NBCUniversal channels - Engadget",
+         "author" : "",
+         "url" : "https://www.engadget.com/comcast-nbc-universal-roku-peacock-dispute-142058425.html",
+         "content" : "NBCU’s distribution deal with Roku expired last week. Roku offered to extend the existing deal for TV Everywhere channels while the two companies negotiated an agreement to distribute Peacock. Comcas… [+1413 chars]",
+         "publishedAt" : "2020-09-18T15:08:32Z",
+         "description" : "Roku may lose NBCUniversal channels as early as this weekend."
       },
       {
-         "author" : "Tsvetana Paraskova",
-         "publishedAt" : "2020-09-18T15:00:00Z",
+         "urlToImage" : "https://d32r1sh890xpii.cloudfront.net/article/718x300/2020-09-18_fen0cgqrul.jpg",
          "source" : {
-            "id" : null,
-            "name" : "OilPrice.com"
+            "name" : "OilPrice.com",
+            "id" : null
          },
+         "author" : "Tsvetana Paraskova",
          "content" : "Russias central bank has warned…\r\nCrude prices rose on Tuesday…\r\nOil prices are fighting hard…\r\nBy Tsvetana Paraskova - Sep 18, 2020, 10:00 AM CDTGoldman Sachs is bullish on oil, expecting the market… [+1998 chars]",
-         "title" : "Bullish Goldman Sachs Expects Brent To Hit $49 By Year-End - OilPrice.com",
          "url" : "https://oilprice.com/Energy/Oil-Prices/Bullish-Goldman-Sachs-Expects-Brent-To-Hit-49-By-Year-End.html",
+         "title" : "Bullish Goldman Sachs Expects Brent To Hit $49 By Year-End - OilPrice.com",
          "description" : "Goldman Sachs is bullish on oil, expecting the market to be in a deficit of around 3 million barrels per day bpd by the fourth quarter of 2020",
-         "urlToImage" : "https://d32r1sh890xpii.cloudfront.net/article/718x300/2020-09-18_fen0cgqrul.jpg"
+         "publishedAt" : "2020-09-18T15:00:00Z"
       },
       {
-         "urlToImage" : "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/electric-f.jpg",
-         "description" : "Teaser image shows the front of the upcoming battery-powered truck.",
-         "url" : "https://www.foxnews.com/auto/heres-what-the-electric-ford-f-150-looks-like",
          "title" : "Here's what the electric Ford F-150 looks like - Fox News",
+         "author" : "Gary Gastelu",
+         "content" : "Ford released the first image of its upcoming all-electric F-150 earlier this week, during the groundbreaking ceremony for the factory that will build it.\r\nThe battery-powered truck will be manufactu… [+1175 chars]",
+         "url" : "https://www.foxnews.com/auto/heres-what-the-electric-ford-f-150-looks-like",
+         "publishedAt" : "2020-09-18T14:57:37Z",
+         "description" : "Teaser image shows the front of the upcoming battery-powered truck.",
          "source" : {
             "id" : "fox-news",
             "name" : "Fox News"
          },
-         "content" : "Ford released the first image of its upcoming all-electric F-150 earlier this week, during the groundbreaking ceremony for the factory that will build it.\r\nThe battery-powered truck will be manufactu… [+1175 chars]",
-         "publishedAt" : "2020-09-18T14:57:37Z",
-         "author" : "Gary Gastelu"
+         "urlToImage" : "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/electric-f.jpg"
       },
       {
-         "url" : "https://www.cnbc.com/2020/09/18/tesla-battery-day-will-be-potentially-narrative-changing-says-morgan-stanley.html",
-         "description" : "Tesla's widely-anticipated battery day is on Tuesday.",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106689818-1599150563582-musk.jpg?v=1599150599",
-         "title" : "Tesla battery day will be 'potentially narrative changing,' says Morgan Stanley - CNBC",
-         "author" : "Pippa Stevens",
          "publishedAt" : "2020-09-18T14:57:00Z",
+         "description" : "Tesla's widely-anticipated battery day is on Tuesday.",
+         "title" : "Tesla battery day will be 'potentially narrative changing,' says Morgan Stanley - CNBC",
+         "url" : "https://www.cnbc.com/2020/09/18/tesla-battery-day-will-be-potentially-narrative-changing-says-morgan-stanley.html",
+         "author" : "Pippa Stevens",
          "content" : "(This story is for CNBC PRO subscribers only.)\r\nTesla's so-called battery day is set for next Tuesday, Sept. 22, and analysts and investors alike are expecting big things from Elon Musk's electric ca… [+269 chars]",
          "source" : {
-            "id" : null,
-            "name" : "CNBC"
-         }
+            "name" : "CNBC",
+            "id" : null
+         },
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106689818-1599150563582-musk.jpg?v=1599150599"
       },
       {
-         "url" : "https://www.breitbart.com/economy/2020/09/18/trump-and-biden-virtually-tied-in-university-of-michigan-consumer-sentiment-survey/",
-         "description" : "Trump has the lead on the economy and household finances. | Economy",
-         "urlToImage" : "https://media.breitbart.com/media/2020/09/donald-trump-joe-biden-profiles-640x335.jpg",
-         "title" : "Trump and Biden Virtually Tied in University of Michigan Consumer Sentiment Survey - Breitbart",
-         "author" : "John Carney",
-         "publishedAt" : "2020-09-18T14:51:00Z",
-         "content" : "Donald Trump and Joe Biden are virtually tied in a critical poll about the presidential electionand have been for months.\r\nIn the University of Michigan consumer sentiment poll released Friday, forty… [+2541 chars]",
          "source" : {
             "name" : "Breitbart News",
             "id" : "breitbart-news"
-         }
+         },
+         "urlToImage" : "https://media.breitbart.com/media/2020/09/donald-trump-joe-biden-profiles-640x335.jpg",
+         "publishedAt" : "2020-09-18T14:51:00Z",
+         "description" : "Trump has the lead on the economy and household finances. | Economy",
+         "title" : "Trump and Biden Virtually Tied in University of Michigan Consumer Sentiment Survey - Breitbart",
+         "author" : "John Carney",
+         "url" : "https://www.breitbart.com/economy/2020/09/18/trump-and-biden-virtually-tied-in-university-of-michigan-consumer-sentiment-survey/",
+         "content" : "Donald Trump and Joe Biden are virtually tied in a critical poll about the presidential electionand have been for months.\r\nIn the University of Michigan consumer sentiment poll released Friday, forty… [+2541 chars]"
       },
       {
-         "content" : "Without masks and a vaccine, we could reach Herd Immunity from COVID-19, but deaths would skyrocket. We break down the science of it.\r\nUSA TODAY\r\nWith the U.S. approaching 200,000 confirmed COVID-19 … [+11264 chars]",
          "source" : {
-            "name" : "USA Today",
-            "id" : "usa-today"
+            "id" : "usa-today",
+            "name" : "USA Today"
          },
-         "publishedAt" : "2020-09-18T14:40:18Z",
-         "author" : "Jessica Flores, Adrianna Rodriguez",
-         "title" : "Coronavirus updates: USPS scrapped plan to send 650M masks to Americans; public still split on COVID-19 vaccine; Las Vegas bars to reopen - USA TODAY",
          "urlToImage" : "https://www.gannett-cdn.com/presto/2020/09/18/USAT/3d4fa807-c2ce-4897-82e8-3637568fbd93-AP_Virus_Outbreak_Germany.jpg?crop=5500,3094,x0,y579&width=3200&height=1680&fit=bounds",
-         "description" : "USPS scrapped plan to send 650 million masks. Nearly half of Americans say they won't get vaccinated. Bars in Las Vegas to reopen. Latest COVID-19 news.",
-         "url" : "https://www.usatoday.com/story/news/health/2020/09/18/covid-19-news-texas-las-vegas-restrictions-moderna-vaccine/3488885001/"
+         "title" : "Coronavirus updates: USPS scrapped plan to send 650M masks to Americans; public still split on COVID-19 vaccine; Las Vegas bars to reopen - USA TODAY",
+         "content" : "Without masks and a vaccine, we could reach Herd Immunity from COVID-19, but deaths would skyrocket. We break down the science of it.\r\nUSA TODAY\r\nWith the U.S. approaching 200,000 confirmed COVID-19 … [+11264 chars]",
+         "url" : "https://www.usatoday.com/story/news/health/2020/09/18/covid-19-news-texas-las-vegas-restrictions-moderna-vaccine/3488885001/",
+         "author" : "Jessica Flores, Adrianna Rodriguez",
+         "publishedAt" : "2020-09-18T14:40:18Z",
+         "description" : "USPS scrapped plan to send 650 million masks. Nearly half of Americans say they won't get vaccinated. Bars in Las Vegas to reopen. Latest COVID-19 news."
       },
       {
-         "title" : "Pine-Sol now approved to kill coronavirus on surfaces: EPA - KABC-TV",
-         "publishedAt" : "2020-09-18T14:35:49Z",
          "source" : {
-            "id" : null,
-            "name" : "KABC-TV"
+            "name" : "KABC-TV",
+            "id" : null
          },
-         "content" : "Clorox wipes are still in short supply due to increased demand as Americans continue to clean off frequently used surfaces to combat the spread of coronavirus, but another household cleaner has been … [+1044 chars]",
-         "author" : "By Kelly McCarthy",
-         "description" : "Pine-Sol Original Multi-Surface Cleaner received approval from the U.S. Environmental Protection Agency (EPA) \"for kill claims against SARS-Cov-2, the virus that causes COVID-19, on hard non-porous surfaces.\"",
          "urlToImage" : "https://cdn.abcotvs.com/dip/images/6437647_091820-wtvd-Pine-Sol-kills-coronavirus-img.jpg?w=1600",
-         "url" : "https://abc7.com/pine-sol-pine-sol-coronavirus-covid/6437577/"
+         "publishedAt" : "2020-09-18T14:35:49Z",
+         "description" : "Pine-Sol Original Multi-Surface Cleaner received approval from the U.S. Environmental Protection Agency (EPA) \"for kill claims against SARS-Cov-2, the virus that causes COVID-19, on hard non-porous surfaces.\"",
+         "title" : "Pine-Sol now approved to kill coronavirus on surfaces: EPA - KABC-TV",
+         "author" : "By Kelly McCarthy",
+         "url" : "https://abc7.com/pine-sol-pine-sol-coronavirus-covid/6437577/",
+         "content" : "Clorox wipes are still in short supply due to increased demand as Americans continue to clean off frequently used surfaces to combat the spread of coronavirus, but another household cleaner has been … [+1044 chars]"
       },
       {
-         "url" : "https://apnews.com/1f17825984f734b19904ed2cbb7035d8",
-         "description" : "A drug company said Friday that a medicine it sells to tamp down inflammation has helped prevent the need for breathing machines in hospitalized COVID-19 patients in the first large study that...",
-         "urlToImage" : "https://storage.googleapis.com/afs-prod/media/ba59d91891b2443e81d7223754f54692/3000.jpeg",
-         "author" : "Marilynn Marchione",
          "publishedAt" : "2020-09-18T14:31:31Z",
+         "description" : "A drug company said Friday that a medicine it sells to tamp down inflammation has helped prevent the need for breathing machines in hospitalized COVID-19 patients in the first large study that...",
+         "title" : "Drug shows promise in 1st largely minority COVID-19 study - The Associated Press",
+         "author" : "Marilynn Marchione",
+         "url" : "https://apnews.com/1f17825984f734b19904ed2cbb7035d8",
          "content" : "A drug company said Friday that a medicine it sells to tamp down inflammation has helped prevent the need for breathing machines in hospitalized COVID-19 patients in the first large study that primar… [+2145 chars]",
          "source" : {
             "id" : "associated-press",
             "name" : "Associated Press"
          },
-         "title" : "Drug shows promise in 1st largely minority COVID-19 study - The Associated Press"
+         "urlToImage" : "https://storage.googleapis.com/afs-prod/media/ba59d91891b2443e81d7223754f54692/3000.jpeg"
       },
       {
-         "url" : "https://www.coindesk.com/uniswap-uni-token-price",
-         "description" : "Uniswap's new UNI token is already trading at double the price it started out when it launched less than two days ago.",
-         "urlToImage" : "https://static.coindesk.com/wp-content/uploads/2020/09/Screen-Shot-2020-09-18-at-14.37.47-e1600436362643.png",
          "title" : "Uniswap's Newly Launched UNI Token Has Already Doubled in Price - CoinDesk - CoinDesk",
+         "content" : "Uniswap’s UNI token may be only two days old, but its price has already risen by around 100%.\r\n<ul><li>Data from CoinGecko shows the UNI token price has surged from just under $2.80 to a high of $5.8… [+1501 chars]",
+         "url" : "https://www.coindesk.com/uniswap-uni-token-price",
          "author" : "Paddy Baker",
          "publishedAt" : "2020-09-18T14:27:37Z",
-         "content" : "Uniswap’s UNI token may be only two days old, but its price has already risen by around 100%.\r\n<ul><li>Data from CoinGecko shows the UNI token price has surged from just under $2.80 to a high of $5.8… [+1501 chars]",
+         "description" : "Uniswap's new UNI token is already trading at double the price it started out when it launched less than two days ago.",
          "source" : {
-            "id" : null,
-            "name" : "CoinDesk"
-         }
-      },
-      {
-         "url" : "https://www.cnbc.com/2020/09/18/bill-gates-difference-between-elon-musk-and-steve-jobs-as-leaders.html",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106612522-1594558367160gettyimages-1252191631.jpeg?v=1600353940",
-         "description" : "While Elon Musk and Steve Jobs contributed important innovations to society, Microsoft co-founder Bill Gates said that the way they operate is pretty different, in an interview with Bloomberg. \"You wouldn't walk into a room and confuse them with each other,\" …",
-         "title" : "Bill Gates on the difference between Elon Musk and Steve Jobs - CNBC",
-         "author" : "Cory Stieg",
-         "source" : {
-            "name" : "CNBC",
+            "name" : "CoinDesk",
             "id" : null
          },
+         "urlToImage" : "https://static.coindesk.com/wp-content/uploads/2020/09/Screen-Shot-2020-09-18-at-14.37.47-e1600436362643.png"
+      },
+      {
+         "description" : "While Elon Musk and Steve Jobs contributed important innovations to society, Microsoft co-founder Bill Gates said that the way they operate is pretty different, in an interview with Bloomberg. \"You wouldn't walk into a room and confuse them with each other,\" …",
+         "publishedAt" : "2020-09-18T14:25:00Z",
          "content" : "Microsoft co-founder Bill Gates has had the opportunity to meet and work alongside major tech giants, including late Apple co-founder, Steve Jobs. In an interview with Bloomberg, Gates was asked whet… [+3491 chars]",
-         "publishedAt" : "2020-09-18T14:25:00Z"
-      },
-      {
-         "description" : "A Tesla owner was caught sleeping while speeding down a Canadian highway. Police say the 21-year-old had his seats reclined all the way back and appeared to be sleeping while driving. Tesla’s Autopilot has been blamed for causing driver inattention in the pas…",
-         "urlToImage" : "https://cdn.vox-cdn.com/thumbor/5p-7cPOqy1wp_IBCHymDgKPUW1c=/0x15:861x466/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/21893401/tesla_mr_image.jpg",
-         "url" : "https://www.theverge.com/2020/9/18/21445168/tesla-driver-sleeping-police-charged-canada-autopilot",
-         "title" : "Tesla owner in Canada charged with ‘sleeping’ while driving over 90 mph - The Verge",
-         "publishedAt" : "2020-09-18T14:24:54Z",
-         "content" : "They are not self-driving systems, they still come with the responsibility of driving\r\nA Tesla Model S owner in Alberta, Canada, was charged with dangerous driving after being pulled over for sleepin… [+3543 chars]",
-         "source" : {
-            "id" : "the-verge",
-            "name" : "The Verge"
-         },
-         "author" : "Andrew J. Hawkins"
-      },
-      {
-         "author" : "Ari Levy",
-         "publishedAt" : "2020-09-18T14:22:00Z",
-         "content" : "Unity's top executives said at the company's virtual IPO event on Friday that employees are allowed to sell some shares on the company's first day of trading, rather than waiting for the 180-day lock… [+2020 chars]",
+         "author" : "Cory Stieg",
+         "url" : "https://www.cnbc.com/2020/09/18/bill-gates-difference-between-elon-musk-and-steve-jobs-as-leaders.html",
+         "title" : "Bill Gates on the difference between Elon Musk and Steve Jobs - CNBC",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106612522-1594558367160gettyimages-1252191631.jpeg?v=1600353940",
          "source" : {
             "id" : null,
             "name" : "CNBC"
-         },
-         "title" : "Unity is letting employees sell 15% of vested shares on day one - CNBC",
-         "url" : "https://www.cnbc.com/2020/09/18/unity-ipo-employees-can-sell-some-shares-on-day-one-altering-lockup.html",
-         "description" : "In Unity's virtual IPO presentation on Friday, the CEO and CFO said employees are able to sell some shares on day one.",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106699312-1599847193592-john.jpg?v=1599847254"
+         }
       },
       {
-         "content" : "But the seven-day rolling average of new cases has drifted up for several days, and Georgia remains the state with the 12th most new cases per capita in the past 14 days, according to data kept by Th… [+1028 chars]",
+         "source" : {
+            "name" : "The Verge",
+            "id" : "the-verge"
+         },
+         "urlToImage" : "https://cdn.vox-cdn.com/thumbor/5p-7cPOqy1wp_IBCHymDgKPUW1c=/0x15:861x466/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/21893401/tesla_mr_image.jpg",
+         "publishedAt" : "2020-09-18T14:24:54Z",
+         "description" : "A Tesla owner was caught sleeping while speeding down a Canadian highway. Police say the 21-year-old had his seats reclined all the way back and appeared to be sleeping while driving. Tesla’s Autopilot has been blamed for causing driver inattention in the pas…",
+         "title" : "Tesla owner in Canada charged with ‘sleeping’ while driving over 90 mph - The Verge",
+         "author" : "Andrew J. Hawkins",
+         "url" : "https://www.theverge.com/2020/9/18/21445168/tesla-driver-sleeping-police-charged-canada-autopilot",
+         "content" : "They are not self-driving systems, they still come with the responsibility of driving\r\nA Tesla Model S owner in Alberta, Canada, was charged with dangerous driving after being pulled over for sleepin… [+3543 chars]"
+      },
+      {
+         "description" : "In Unity's virtual IPO presentation on Friday, the CEO and CFO said employees are able to sell some shares on day one.",
+         "publishedAt" : "2020-09-18T14:22:00Z",
+         "content" : "Unity's top executives said at the company's virtual IPO event on Friday that employees are allowed to sell some shares on the company's first day of trading, rather than waiting for the 180-day lock… [+2020 chars]",
+         "url" : "https://www.cnbc.com/2020/09/18/unity-ipo-employees-can-sell-some-shares-on-day-one-altering-lockup.html",
+         "author" : "Ari Levy",
+         "title" : "Unity is letting employees sell 15% of vested shares on day one - CNBC",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106699312-1599847193592-john.jpg?v=1599847254",
+         "source" : {
+            "id" : null,
+            "name" : "CNBC"
+         }
+      },
+      {
          "source" : {
             "name" : "Atlanta Journal Constitution",
             "id" : null
          },
-         "publishedAt" : "2020-09-18T14:17:43Z",
-         "author" : "null",
-         "title" : "Georgia tops 300,000 cases; decline in new cases flattens - Atlanta Journal Constitution",
          "urlToImage" : "https://www.ajc.com/resizer/nKHnvKQi9Tbkt8SvtQHhPg3xF64=/1200x630/d1fegwn2wjh0cs.cloudfront.net/06-10-2020/t_c3b3953d6d10454583be384e45518079_name_154f555cbb2f4607b828282bdb72c051.jpg",
-         "description" : "Georgia has surpassed 300,000 confirmed coronavirus infections amid hints that a decline in new cases may be leveling out.",
-         "url" : "https://www.ajc.com/news/georgia-news/georgia-tops-300000-cases-decline-in-new-cases-flattens/EUTJLTXIHFH6BCEHQAE7HS225A/"
+         "title" : "Georgia tops 300,000 cases; decline in new cases flattens - Atlanta Journal Constitution",
+         "url" : "https://www.ajc.com/news/georgia-news/georgia-tops-300000-cases-decline-in-new-cases-flattens/EUTJLTXIHFH6BCEHQAE7HS225A/",
+         "author" : "null",
+         "content" : "But the seven-day rolling average of new cases has drifted up for several days, and Georgia remains the state with the 12th most new cases per capita in the past 14 days, according to data kept by Th… [+1028 chars]",
+         "publishedAt" : "2020-09-18T14:17:43Z",
+         "description" : "Georgia has surpassed 300,000 confirmed coronavirus infections amid hints that a decline in new cases may be leveling out."
       },
       {
          "title" : "The Incredible Shrinking GM: Mary Barra Bets That Smaller Is Better - The Wall Street Journal",
-         "author" : "Mike Colias",
          "content" : "Nearly a decade ago, Toyota Motor Corp. dethroned General Motors Co. as the worlds largest car company, leaving some GM executives wringing their hands.\r\n Mary Barra wasnt among them. When she took t… [+189 chars]",
+         "author" : "Mike Colias",
+         "url" : "https://www.wsj.com/articles/the-incredible-shrinking-gm-mary-barra-finds-success-by-getting-smaller-11600438421",
+         "publishedAt" : "2020-09-18T14:13:00Z",
+         "description" : "The CEO streamlined a company that for decades reigned as the world’s largest auto maker. Now, she is readying for the next big bet: electric cars.",
          "source" : {
             "name" : "The Wall Street Journal",
             "id" : "the-wall-street-journal"
          },
-         "publishedAt" : "2020-09-18T14:13:00Z",
-         "url" : "https://www.wsj.com/articles/the-incredible-shrinking-gm-mary-barra-finds-success-by-getting-smaller-11600438421",
-         "urlToImage" : "https://images.wsj.net/im-233699/social",
-         "description" : "The CEO streamlined a company that for decades reigned as the world’s largest auto maker. Now, she is readying for the next big bet: electric cars."
+         "urlToImage" : "https://images.wsj.net/im-233699/social"
       },
       {
+         "title" : "Why Is Carnival Stock Worth More Than $8 a Share? - Motley Fool",
          "author" : "Rick Munarriz",
-         "publishedAt" : "2020-09-18T14:11:00Z",
          "content" : "Cruise lines were dealt a heavy blow during the initial stages of the COVID-19 crisis. Investors walked the plank the moment that Carnival (NYSE:CCL)(NYSE:CUK) and smaller rivals Royal Caribbean Crui… [+3208 chars]",
+         "url" : "https://www.fool.com/investing/2020/09/18/why-is-carnival-stock-worth-more-than-8-a-share/",
+         "publishedAt" : "2020-09-18T14:11:00Z",
+         "description" : "It's been more than five months since Carnival was printing new shares at $8 apiece to stay afloat, but not a lot has changed for the world's leading cruise line operator.",
          "source" : {
             "id" : null,
             "name" : "Motley Fool"
          },
-         "title" : "Why Is Carnival Stock Worth More Than $8 a Share? - Motley Fool",
-         "url" : "https://www.fool.com/investing/2020/09/18/why-is-carnival-stock-worth-more-than-8-a-share/",
-         "description" : "It's been more than five months since Carnival was printing new shares at $8 apiece to stay afloat, but not a lot has changed for the world's leading cruise line operator.",
          "urlToImage" : "https://g.foolcdn.com/editorial/images/592174/gettycruisecouples.jpg"
       },
       {
-         "url" : "https://in.reuters.com/article/usa-economy-idUSKBN2692O2",
          "urlToImage" : "https://static.reuters.com/resources/r/?m=02&d=20200918&t=2&i=1534028781&r=LYNXMPEG8H1K3&w=800",
-         "description" : "U.S. consumer sentiment increased in early September, with Democrats more upbeat about the economy's outlook compared to Republicans ahead of the Nov. 3 presidential election.",
-         "title" : "U.S. current account deficit jumps 52.9% as COVID-19 disrupts trade - Reuters",
-         "author" : "Lucia Mutikani",
          "source" : {
-            "name" : "Reuters",
-            "id" : "reuters"
+            "id" : "reuters",
+            "name" : "Reuters"
          },
+         "description" : "U.S. consumer sentiment increased in early September, with Democrats more upbeat about the economy's outlook compared to Republicans ahead of the Nov. 3 presidential election.",
+         "publishedAt" : "2020-09-18T14:02:00Z",
+         "author" : "Lucia Mutikani",
+         "url" : "https://in.reuters.com/article/usa-economy-idUSKBN2692O2",
          "content" : "WASHINGTON (Reuters) - U.S. consumer sentiment increased in early September, with Democrats more upbeat about the economys outlook compared to Republicans ahead of the Nov. 3 presidential election.\r\n… [+4960 chars]",
-         "publishedAt" : "2020-09-18T14:02:00Z"
+         "title" : "U.S. current account deficit jumps 52.9% as COVID-19 disrupts trade - Reuters"
       },
       {
-         "urlToImage" : "http://static-35.sinclairstoryline.com/resources/media/6d22133e-2415-4d11-8da9-dc19d60f7e30-large16x9_DaveBusters.bmp?1600436712310",
-         "description" : "(WHAM) - Nearly 300 employees at Dave & Buster's in Henrietta will be laid off after being furloughed. The gaming and entertainment center located on the Marketplace Mall property has been closed since mid-March. According to the WARN notice filed with the st…",
-         "url" : "http://13wham.com/news/local/dave-busters-in-henrietta-to-lay-off-nearly-300-workers",
          "source" : {
-            "name" : "13WHAM-TV",
-            "id" : null
+            "id" : null,
+            "name" : "13WHAM-TV"
          },
+         "urlToImage" : "http://static-35.sinclairstoryline.com/resources/media/6d22133e-2415-4d11-8da9-dc19d60f7e30-large16x9_DaveBusters.bmp?1600436712310",
+         "title" : "Dave & Buster's in Henrietta to lay off nearly 300 workers - 13WHAM-TV",
+         "url" : "http://13wham.com/news/local/dave-busters-in-henrietta-to-lay-off-nearly-300-workers",
+         "author" : "WHAM Staff",
          "content" : null,
          "publishedAt" : "2020-09-18T13:49:00Z",
-         "author" : "WHAM Staff",
-         "title" : "Dave & Buster's in Henrietta to lay off nearly 300 workers - 13WHAM-TV"
+         "description" : "(WHAM) - Nearly 300 employees at Dave & Buster's in Henrietta will be laid off after being furloughed. The gaming and entertainment center located on the Marketplace Mall property has been closed since mid-March. According to the WARN notice filed with the st…"
       }
-   ]
+   ],
+   "totalResults" : 70
 }
