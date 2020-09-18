@@ -1,266 +1,266 @@
 {
-   "totalResults" : 70,
    "articles" : [
       {
-         "urlToImage" : "https://images.barrons.com/im-197210/social",
+         "title" : "Stocks Are Slipping Because ‘Quadruple Witching’ Is Spooking the Market - Barron's",
+         "url" : "https://www.barrons.com/articles/dow-joines-industrial-sp-500-stocks-are-slipipng-quadruple-witching-51600443787",
+         "author" : "Teresa Rivas",
+         "description" : "",
          "publishedAt" : "2020-09-18T20:34:00Z",
          "source" : {
-            "id" : null,
-            "name" : "Barron's"
-         },
-         "url" : "https://www.barrons.com/articles/dow-joines-industrial-sp-500-stocks-are-slipipng-quadruple-witching-51600443787",
-         "content" : "Stocks fell Friday, with indexes closing out a third consecutive week of losses.As Barrons reported earlier today, markets are braced for quadruple witching, as both futures and options tied to indiv… [+1360 chars]",
-         "description" : "",
-         "author" : "Teresa Rivas",
-         "title" : "Stocks Are Slipping Because ‘Quadruple Witching’ Is Spooking the Market - Barron's"
-      },
-      {
-         "description" : "Maryland Gov. Larry Hogan announced expanded capacity for indoor dining can begin next week.",
-         "title" : "Hogan: Expanded capacity for indoor dining can begin next week - WBAL TV Baltimore",
-         "author" : null,
-         "content" : "ANNAPOLIS, Md. —Maryland Gov. Larry Hogan announced expanded capacity for indoor dining can begin next week.\r\n|| Coronavirus updates | Maryland's latest numbers | Where to get tested ||\r\nEffective at… [+1312 chars]",
-         "source" : {
-            "name" : "WBAL TV Baltimore",
+            "name" : "Barron's",
             "id" : null
          },
-         "url" : "https://www.wbaltv.com/article/maryland-expanded-capacity-indoor-dining-restaurant-begins-september-21/34079503",
-         "urlToImage" : "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/easing-restaurant-restrictions-1591646394.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
-         "publishedAt" : "2020-09-18T20:12:00Z"
+         "urlToImage" : "https://images.barrons.com/im-197210/social",
+         "content" : "Stocks fell Friday, with indexes closing out a third consecutive week of losses.As Barrons reported earlier today, markets are braced for quadruple witching, as both futures and options tied to indiv… [+1360 chars]"
       },
       {
-         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200909094021-01-grand-teton-mall-idaho-falls-sears-super-tease.jpeg",
-         "publishedAt" : "2020-09-18T19:27:00Z",
+         "urlToImage" : "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/easing-restaurant-restrictions-1591646394.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
          "source" : {
-            "name" : "CNN",
-            "id" : "cnn"
+            "id" : null,
+            "name" : "WBAL TV Baltimore"
          },
-         "url" : "https://www.cnn.com/2020/09/18/business/malls-repurpose-empty-stores/index.html",
-         "content" : null,
+         "content" : "ANNAPOLIS, Md. —Maryland Gov. Larry Hogan announced expanded capacity for indoor dining can begin next week.\r\n|| Coronavirus updates | Maryland's latest numbers | Where to get tested ||\r\nEffective at… [+1312 chars]",
+         "publishedAt" : "2020-09-18T20:12:00Z",
+         "description" : "Maryland Gov. Larry Hogan announced expanded capacity for indoor dining can begin next week.",
+         "author" : null,
+         "url" : "https://www.wbaltv.com/article/maryland-expanded-capacity-indoor-dining-restaurant-begins-september-21/34079503",
+         "title" : "Hogan: Expanded capacity for indoor dining can begin next week - WBAL TV Baltimore"
+      },
+      {
+         "publishedAt" : "2020-09-18T19:27:00Z",
          "description" : "With mall vacancies accelerating amid a surge in online shopping, landlords are quickly looking for other ways to reuse the empty space.",
          "title" : "You might be surprised who's moving into those sad, abandoned malls - CNN",
-         "author" : "Parija Kavilanz, CNN Business"
-      },
-      {
-         "description" : "Aerospace giant Raytheon Technologies will cut 15,000 jobs as a result of the downturn in commercial air travel — more than double the number it had previously forecast.",
-         "title" : "Raytheon announces 15,000 job cuts - CNN",
-         "author" : "Pete Muntean",
-         "content" : "(CNN)Aerospace giant Raytheon Technologies will cut 15,000 jobs as a result of the downturn in commercial air travel more than double the number it had previously forecast.\r\nDuring a Thursday earning… [+981 chars]",
+         "url" : "https://www.cnn.com/2020/09/18/business/malls-repurpose-empty-stores/index.html",
+         "author" : "Parija Kavilanz, CNN Business",
          "source" : {
             "name" : "CNN",
             "id" : "cnn"
          },
-         "url" : "https://www.cnn.com/2020/09/18/business/raytheon-job-cuts/index.html",
-         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200918144654-raytheon-technologies-campus-file-super-tease.jpg",
-         "publishedAt" : "2020-09-18T19:01:00Z"
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200909094021-01-grand-teton-mall-idaho-falls-sears-super-tease.jpeg",
+         "content" : null
       },
       {
-         "urlToImage" : "https://www.gannett-cdn.com/presto/2020/09/18/USAT/f4a2210a-fe2b-4548-b8a9-02a43e5fb60a-BedBathTradition.jpg?crop=2922,1644,x1,y327&width=1600&height=800&fit=bounds",
+         "url" : "https://www.cnn.com/2020/09/18/business/raytheon-job-cuts/index.html",
+         "title" : "Raytheon announces 15,000 job cuts - CNN",
+         "author" : "Pete Muntean",
+         "publishedAt" : "2020-09-18T19:01:00Z",
+         "description" : "Aerospace giant Raytheon Technologies will cut 15,000 jobs as a result of the downturn in commercial air travel — more than double the number it had previously forecast.",
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200918144654-raytheon-technologies-campus-file-super-tease.jpg",
+         "source" : {
+            "name" : "CNN",
+            "id" : "cnn"
+         },
+         "content" : "(CNN)Aerospace giant Raytheon Technologies will cut 15,000 jobs as a result of the downturn in commercial air travel more than double the number it had previously forecast.\r\nDuring a Thursday earning… [+981 chars]"
+      },
+      {
+         "title" : "Is your Bed Bath & Beyond store closing? See the full list of the 63 stores slated to close by the end of 2020 - USA TODAY",
+         "author" : "Kelly Tyko",
+         "url" : "https://www.usatoday.com/story/money/2020/09/18/bed-bath-beyond-store-closures-2020-list-coronavirus/3478536001/",
+         "description" : "Bed Bath & Beyond Inc. plans to close 200 stores or 21% of Bed Bath stores over the next two years. Here's the list of the first 63 stores to shutter.",
          "publishedAt" : "2020-09-18T19:00:43Z",
+         "content" : "Consumers are scared to go out and retailers are floundering. Is there a future for the traditional indoor shopping mall?\r\nWochit\r\nMore than two months after Bed Bath &amp; Beyond Inc. announced plan… [+8168 chars]",
+         "urlToImage" : "https://www.gannett-cdn.com/presto/2020/09/18/USAT/f4a2210a-fe2b-4548-b8a9-02a43e5fb60a-BedBathTradition.jpg?crop=2922,1644,x1,y327&width=1600&height=800&fit=bounds",
          "source" : {
             "id" : "usa-today",
             "name" : "USA Today"
-         },
-         "url" : "https://www.usatoday.com/story/money/2020/09/18/bed-bath-beyond-store-closures-2020-list-coronavirus/3478536001/",
-         "content" : "Consumers are scared to go out and retailers are floundering. Is there a future for the traditional indoor shopping mall?\r\nWochit\r\nMore than two months after Bed Bath &amp; Beyond Inc. announced plan… [+8168 chars]",
-         "description" : "Bed Bath & Beyond Inc. plans to close 200 stores or 21% of Bed Bath stores over the next two years. Here's the list of the first 63 stores to shutter.",
-         "author" : "Kelly Tyko",
-         "title" : "Is your Bed Bath & Beyond store closing? See the full list of the 63 stores slated to close by the end of 2020 - USA TODAY"
+         }
       },
       {
+         "url" : "https://www.cnet.com/news/roku-comcast-battle-over-peacock-could-see-nbc-apps-removed-from-the-platform/",
+         "author" : "Eli Blumenthal",
+         "title" : "Roku, Comcast battle over Peacock could see NBC apps removed from the platform - CNET",
+         "description" : "NBC fans are in the crossfire as Peacock remains absent on Roku.",
          "publishedAt" : "2020-09-18T18:49:00Z",
+         "content" : "Roku may be about to lose NBC apps in its dispute with Comcast over the Peacock streaming service. \r\nSarah Tew/CNET\r\nThe battle between Roku and Comcast over Peacock is expanding, with the telecom an… [+3898 chars]",
          "urlToImage" : "https://cnet3.cbsistatic.com/img/mmL_nqhgzWhvjAYO4YH0Mr-0unc=/1200x630/2020/06/29/478a9744-7511-420b-b02b-3593bc069bd9/013-streaming-services-app-screen-roku-tv.jpg",
          "source" : {
-            "id" : null,
-            "name" : "CNET"
-         },
-         "url" : "https://www.cnet.com/news/roku-comcast-battle-over-peacock-could-see-nbc-apps-removed-from-the-platform/",
-         "content" : "Roku may be about to lose NBC apps in its dispute with Comcast over the Peacock streaming service. \r\nSarah Tew/CNET\r\nThe battle between Roku and Comcast over Peacock is expanding, with the telecom an… [+3898 chars]",
-         "description" : "NBC fans are in the crossfire as Peacock remains absent on Roku.",
-         "author" : "Eli Blumenthal",
-         "title" : "Roku, Comcast battle over Peacock could see NBC apps removed from the platform - CNET"
+            "name" : "CNET",
+            "id" : null
+         }
       },
       {
-         "description" : null,
          "title" : "Nasdaq falls nearly 2 percent as investors continue to dump tech stocks - CNBC Television",
+         "url" : "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9UTR6NDZUck9Yc2PSAQA?oc=5",
          "author" : null,
+         "publishedAt" : "2020-09-18T18:45:30Z",
+         "description" : null,
          "content" : null,
          "source" : {
-            "name" : "Google News",
-            "id" : "google-news"
+            "id" : "google-news",
+            "name" : "Google News"
          },
-         "url" : "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9UTR6NDZUck9Yc2PSAQA?oc=5",
-         "publishedAt" : "2020-09-18T18:45:30Z",
          "urlToImage" : null
       },
       {
-         "content" : "The former big cheese of Papa John’s is weighing in on the pizza chain moving part of its business.\r\nJohn Schnatter, the now-billionaire who founded Papa John’s in a Louisville, Ky., suburb, said Thu… [+1649 chars]",
-         "description" : "John Schnatter says he's \"saddened\" that the chain is moving 200 employees to Atlanta.",
+         "url" : "https://www.foxbusiness.com/lifestyle/papa-johns-founder-john-schnatter-atlanta-move",
          "title" : "Papa John's founder John Schnatter responds to pizza chain's Atlanta move - Fox Business",
          "author" : "Jeanette Settembre",
-         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/09/0/0/GettyImages-john-schnatter-.jpg?ve=1&tl=1",
          "publishedAt" : "2020-09-18T18:36:24Z",
+         "description" : "John Schnatter says he's \"saddened\" that the chain is moving 200 employees to Atlanta.",
          "source" : {
             "id" : null,
             "name" : "Fox Business"
          },
-         "url" : "https://www.foxbusiness.com/lifestyle/papa-johns-founder-john-schnatter-atlanta-move"
+         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/09/0/0/GettyImages-john-schnatter-.jpg?ve=1&tl=1",
+         "content" : "The former big cheese of Papa John’s is weighing in on the pizza chain moving part of its business.\r\nJohn Schnatter, the now-billionaire who founded Papa John’s in a Louisville, Ky., suburb, said Thu… [+1649 chars]"
       },
       {
          "content" : "<ul><li>San Francisco Mayor London Breed speaks at a press conference at Dolores Park on Sept. 4, 2020.\r\nSan Francisco Mayor London Breed speaks at a press conference at Dolores Park on Sept. 4, 2020… [+3129 chars]",
-         "description" : "San Francisco County currently has a green light to bring back indoor dining as a result of its status in the red tier of the state's color-coded reopening plan, but city officials said Friday that restaurants cannot let patrons dine inside until the county c…",
-         "author" : "Eric Ting",
-         "title" : "San Francisco says indoor dining won't resume until end of month at earliest - SFGate",
          "urlToImage" : "https://s.hdnux.com/photos/01/13/76/04/19915031/5/rawImage.jpg",
-         "publishedAt" : "2020-09-18T18:35:00Z",
          "source" : {
-            "id" : null,
-            "name" : "SFGate"
+            "name" : "SFGate",
+            "id" : null
          },
-         "url" : "https://www.sfgate.com/coronavirus/article/San-Francisco-indoor-dining-when-timeline-COVID-SF-15577881.php"
+         "url" : "https://www.sfgate.com/coronavirus/article/San-Francisco-indoor-dining-when-timeline-COVID-SF-15577881.php",
+         "title" : "San Francisco says indoor dining won't resume until end of month at earliest - SFGate",
+         "author" : "Eric Ting",
+         "description" : "San Francisco County currently has a green light to bring back indoor dining as a result of its status in the red tier of the state's color-coded reopening plan, but city officials said Friday that restaurants cannot let patrons dine inside until the county c…",
+         "publishedAt" : "2020-09-18T18:35:00Z"
       },
       {
-         "url" : "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9NDh4QnREMkpCQTTSAQA?oc=5",
+         "urlToImage" : null,
          "source" : {
             "name" : "Google News",
             "id" : "google-news"
          },
-         "urlToImage" : null,
-         "publishedAt" : "2020-09-18T18:34:09Z",
-         "author" : null,
-         "title" : "Trump to block U.S. downloads of TikTok, WeChat on Sunday - Reuters",
+         "content" : null,
          "description" : null,
-         "content" : null
+         "publishedAt" : "2020-09-18T18:34:09Z",
+         "url" : "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9NDh4QnREMkpCQTTSAQA?oc=5",
+         "author" : null,
+         "title" : "Trump to block U.S. downloads of TikTok, WeChat on Sunday - Reuters"
       },
       {
-         "publishedAt" : "2020-09-18T18:30:00Z",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106462142-15852360072282020-03-16t224713z_1944974557_rc2alf9znxjv_rtrmadp_3_health-coronavirus-amazon-com.jpg?v=1585236086",
-         "source" : {
-            "name" : "CNBC",
-            "id" : null
-         },
-         "url" : "https://www.cnbc.com/2020/09/18/doj-charges-six-people-in-scheme-to-bribe-amazon-employees.html",
          "content" : "The U.S. Department of Justice on Friday accused six individuals of participating in a scheme to bribe Amazon employees and contractors to gain \"an unfair advantage\" on the company's online marketpla… [+5027 chars]",
+         "source" : {
+            "id" : null,
+            "name" : "CNBC"
+         },
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106462142-15852360072282020-03-16t224713z_1944974557_rc2alf9znxjv_rtrmadp_3_health-coronavirus-amazon-com.jpg?v=1585236086",
          "description" : "Consultants allegedly bribed Amazon employees for privileged information on sellers' competitors, giving them an unfair advantage.",
+         "publishedAt" : "2020-09-18T18:30:00Z",
+         "url" : "https://www.cnbc.com/2020/09/18/doj-charges-six-people-in-scheme-to-bribe-amazon-employees.html",
          "title" : "DOJ charges six people in scheme to bribe Amazon employees to 'gain upper hand' on marketplace - CNBC",
          "author" : "Annie Palmer"
       },
       {
+         "content" : "If you've thought about refinancing your mortgage, be aware that it may soon be a more expensive proposition.\r\nDue to a 0.5% \"adverse market\" fee, effective Dec. 1 and imposed on lenders by mortgage … [+2908 chars]",
          "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106516196-1588354901697gettyimages-1146490777.jpeg?v=1594050286",
-         "publishedAt" : "2020-09-18T18:07:00Z",
-         "url" : "https://www.cnbc.com/2020/09/18/refinancing-a-mortgage-will-cost-more-thanks-to-an-adverse-market-fee.html",
          "source" : {
             "id" : null,
             "name" : "CNBC"
          },
-         "content" : "If you've thought about refinancing your mortgage, be aware that it may soon be a more expensive proposition.\r\nDue to a 0.5% \"adverse market\" fee, effective Dec. 1 and imposed on lenders by mortgage … [+2908 chars]",
-         "title" : "Refinancing your mortgage will cost more thanks to an 'adverse market' fee - CNBC",
+         "description" : "Homeowners who refinance their mortgage may end up paying a higher interest rate. This is because lenders may pass on some of the costs incurred from an \"adverse market\" fee that they will soon have to start paying on certain loans sold to Fannie Mae and Fred…",
+         "publishedAt" : "2020-09-18T18:07:00Z",
+         "url" : "https://www.cnbc.com/2020/09/18/refinancing-a-mortgage-will-cost-more-thanks-to-an-adverse-market-fee.html",
          "author" : "Sarah O'Brien",
-         "description" : "Homeowners who refinance their mortgage may end up paying a higher interest rate. This is because lenders may pass on some of the costs incurred from an \"adverse market\" fee that they will soon have to start paying on certain loans sold to Fannie Mae and Fred…"
+         "title" : "Refinancing your mortgage will cost more thanks to an 'adverse market' fee - CNBC"
       },
       {
-         "publishedAt" : "2020-09-18T17:55:00Z",
-         "urlToImage" : "https://g.foolcdn.com/editorial/images/592220/cruise-ship-at-sea.jpg",
+         "title" : "Why Carnival, Royal Caribbean, and Norwegian Cruise Line Stocks Dropped Again on Friday - The Motley Fool",
          "url" : "https://www.fool.com/investing/2020/09/18/time-sensitive-why-carnival-corporation-royal-cari/",
+         "author" : "Rich Smith",
+         "publishedAt" : "2020-09-18T17:55:00Z",
+         "description" : "But there are some glimmers of hope.",
+         "urlToImage" : "https://g.foolcdn.com/editorial/images/592220/cruise-ship-at-sea.jpg",
          "source" : {
             "id" : null,
             "name" : "Motley Fool"
          },
-         "content" : "What happened\r\nFor the second day in a row, shares of major cruise line stocks Norwegian Cruise Line Holdings(NASDAQ:NCLH), Carnival (NYSE:CCL)(NYSE:CUK), and Royal Caribbean(NYSE:RCL) are falling on… [+1944 chars]",
-         "author" : "Rich Smith",
-         "title" : "Why Carnival, Royal Caribbean, and Norwegian Cruise Line Stocks Dropped Again on Friday - The Motley Fool",
-         "description" : "But there are some glimmers of hope."
+         "content" : "What happened\r\nFor the second day in a row, shares of major cruise line stocks Norwegian Cruise Line Holdings(NASDAQ:NCLH), Carnival (NYSE:CCL)(NYSE:CUK), and Royal Caribbean(NYSE:RCL) are falling on… [+1944 chars]"
       },
       {
-         "publishedAt" : "2020-09-18T17:37:00Z",
-         "urlToImage" : "https://media4.s-nbcnews.com/j/newscms/2020_38/1610915/bar-bans-masks-kb-main-200918_12cd21aa716cb794482d8619fa1c2d10.social_share_1200x630_center.jpg",
+         "content" : "These days, most businesses have a \"no mask, no service\" policy, but one restaurant in Florida is causing quite a stir after banning masks from its establishment.\r\nOn Sept. 11, the owner of Westside … [+4504 chars]",
          "source" : {
             "name" : "TODAY",
             "id" : null
          },
-         "url" : "https://www.today.com/food/florida-bar-bans-customers-wearing-masks-t191975",
-         "content" : "These days, most businesses have a \"no mask, no service\" policy, but one restaurant in Florida is causing quite a stir after banning masks from its establishment.\r\nOn Sept. 11, the owner of Westside … [+4504 chars]",
-         "description" : "West Side Sports Bar in West Melbourne, Florida is banning face masks. Its owner, Gary Kirby, said, \"I don't believe in masks.\"",
+         "urlToImage" : "https://media4.s-nbcnews.com/j/newscms/2020_38/1610915/bar-bans-masks-kb-main-200918_12cd21aa716cb794482d8619fa1c2d10.social_share_1200x630_center.jpg",
+         "title" : "Florida bar bans customers wearing masks - TODAY",
          "author" : "Chrissy Callahan",
-         "title" : "Florida bar bans customers wearing masks - TODAY"
+         "url" : "https://www.today.com/food/florida-bar-bans-customers-wearing-masks-t191975",
+         "publishedAt" : "2020-09-18T17:37:00Z",
+         "description" : "West Side Sports Bar in West Melbourne, Florida is banning face masks. Its owner, Gary Kirby, said, \"I don't believe in masks.\""
       },
       {
          "content" : "National Cheeseburger Day 2020 is today, Friday, September 18, and that means freebies, deals and special offers at some of your favorite fast food and restaurant chains. Who can say no to a free bur… [+2075 chars]",
-         "description" : "National Cheeseburger Day 2020 is on Friday, September 18.",
-         "author" : "Ben Axelson | baxelson@syracuse.com",
-         "title" : "National cheeseburger day: 10 freebies, deals from McDonald’s, Sonic and more today - syracuse.com",
+         "source" : {
+            "name" : "syracuse.com",
+            "id" : null
+         },
          "urlToImage" : "https://www.syracuse.com/resizer/3k3w-n0OKnYSaGWjZ7ZFxAphdIM=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/VJIJ6S4ORNDCTOTFJQNW45H5VA.JPG",
+         "description" : "National Cheeseburger Day 2020 is on Friday, September 18.",
          "publishedAt" : "2020-09-18T17:07:00Z",
-         "source" : {
-            "id" : null,
-            "name" : "syracuse.com"
-         },
-         "url" : "https://www.syracuse.com/food/2020/09/national-cheeseburger-day-10-freebies-deals-from-mcdonalds-sonic-and-more-today.html"
+         "url" : "https://www.syracuse.com/food/2020/09/national-cheeseburger-day-10-freebies-deals-from-mcdonalds-sonic-and-more-today.html",
+         "title" : "National cheeseburger day: 10 freebies, deals from McDonald’s, Sonic and more today - syracuse.com",
+         "author" : "Ben Axelson | baxelson@syracuse.com"
       },
       {
-         "content" : null,
-         "author" : "Sara Spary, CNN Business",
-         "title" : "Canadian police charge Tesla driver who was allegedly doing 90 miles per hour while asleep - CNN",
-         "description" : "Canadian police have charged a 20-year-old man with dangerous driving after he was arrested for allegedly being asleep at the wheel of a 2019 Tesla Model S while it was operating in its semi-autonomous \"Autopilot\" mode.",
          "publishedAt" : "2020-09-18T16:53:00Z",
-         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200918090237-restricted-canada-tesla-charge-scli-intl-super-tease.jpg",
+         "description" : "Canadian police have charged a 20-year-old man with dangerous driving after he was arrested for allegedly being asleep at the wheel of a 2019 Tesla Model S while it was operating in its semi-autonomous \"Autopilot\" mode.",
+         "author" : "Sara Spary, CNN Business",
          "url" : "https://www.cnn.com/2020/09/18/business/canada-tesla-charge-scli-intl/index.html",
+         "title" : "Canadian police charge Tesla driver who was allegedly doing 90 miles per hour while asleep - CNN",
          "source" : {
-            "name" : "CNN",
-            "id" : "cnn"
-         }
+            "id" : "cnn",
+            "name" : "CNN"
+         },
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200918090237-restricted-canada-tesla-charge-scli-intl-super-tease.jpg",
+         "content" : null
       },
       {
+         "content" : "A New York City bus driver was reportedly knocked out by an unmasked rider after he reminded the passenger to wear a face covering on public transit. \r\nAnthony Reid says that a group of passengers co… [+1741 chars]",
+         "urlToImage" : "https://thehill.com/sites/default/files/nycbuse_9182020_gettyimages.jpg",
          "source" : {
-            "id" : "the-hill",
-            "name" : "The Hill"
+            "name" : "The Hill",
+            "id" : "the-hill"
          },
+         "title" : "New York City bus driver knocked out by passenger he told to wear a mask | TheHill - The Hill",
+         "author" : "Lauren Vella",
          "url" : "https://thehill.com/policy/transportation/517075-new-york-city-bus-driver-knocked-out-by-passenger-he-told-to-wear-a",
          "publishedAt" : "2020-09-18T16:41:00Z",
-         "urlToImage" : "https://thehill.com/sites/default/files/nycbuse_9182020_gettyimages.jpg",
-         "description" : "A New York City bus driver was reportedly knocked out by an unmasked rider after he reminded...",
-         "author" : "Lauren Vella",
-         "title" : "New York City bus driver knocked out by passenger he told to wear a mask | TheHill - The Hill",
-         "content" : "A New York City bus driver was reportedly knocked out by an unmasked rider after he reminded the passenger to wear a face covering on public transit. \r\nAnthony Reid says that a group of passengers co… [+1741 chars]"
+         "description" : "A New York City bus driver was reportedly knocked out by an unmasked rider after he reminded..."
       },
       {
+         "source" : {
+            "name" : "CNBC",
+            "id" : null
+         },
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106604723-15940672478542010-06-29t000000z_916876415_gm1e66u02ha01_rtrmadp_3_tesla-ipo.jpg?v=1595503362",
          "content" : "Check out the companies making headlines in midday trading. \r\nU.S. Steel U.S. Steel shares popped more than 9% after the company reported a smaller-than-expected loss for its fiscal third quarter. U.… [+2917 chars]",
          "author" : "Yun Li",
          "title" : "Stocks making the biggest moves midday: U.S. Steel, Tesla, Unity Software, Beyond Meat & more - CNBC",
-         "description" : "Check out the companies making headlines in midday trading.",
-         "publishedAt" : "2020-09-18T16:30:00Z",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106604723-15940672478542010-06-29t000000z_916876415_gm1e66u02ha01_rtrmadp_3_tesla-ipo.jpg?v=1595503362",
          "url" : "https://www.cnbc.com/2020/09/18/stocks-making-the-biggest-moves-midday-us-steel-tesla-unity-software-beyond-meat-more.html",
-         "source" : {
-            "id" : null,
-            "name" : "CNBC"
-         }
+         "publishedAt" : "2020-09-18T16:30:00Z",
+         "description" : "Check out the companies making headlines in midday trading."
       },
       {
+         "description" : "Bullard also said he sees the unemployment rate falling to 6.5% by the end of the year, an estimate well below the median projection of 7.6% that his Fed colleagues released earlier this week.",
+         "publishedAt" : "2020-09-18T16:19:00Z",
+         "title" : "Fed's Bullard says 'biggest growth quarter of all time' will lift inflation - CNBC",
+         "author" : "Jeff Cox",
          "url" : "https://www.cnbc.com/2020/09/18/feds-bullard-says-biggest-growth-quarter-of-all-time-will-lift-inflation.html",
          "source" : {
-            "id" : null,
-            "name" : "CNBC"
+            "name" : "CNBC",
+            "id" : null
          },
          "urlToImage" : "https://image.cnbcfm.com/api/v1/image/105022750-IMG_2169.JPG?v=1519313152",
-         "publishedAt" : "2020-09-18T16:19:00Z",
-         "author" : "Jeff Cox",
-         "title" : "Fed's Bullard says 'biggest growth quarter of all time' will lift inflation - CNBC",
-         "description" : "Bullard also said he sees the unemployment rate falling to 6.5% by the end of the year, an estimate well below the median projection of 7.6% that his Fed colleagues released earlier this week.",
          "content" : "St. Louis Federal Reserve President James Bullard offered an optimistic look on the U.S. economy, with \"off the charts\" growth that will help lift inflation.\r\nBullard also said he sees the unemployme… [+1623 chars]"
       },
       {
          "content" : "Roche's rheumatoid arthritis treatment may reduce the likelihood that patients with COVID-19-related pneumonia would need a ventilator, the Swiss pharmaceutical company said Friday.\r\nPeople who recei… [+1788 chars]",
-         "description" : "Patients who received the drugs were 44% less likely to progress to the point where they would need to rely on ventilation.",
-         "author" : "Daniella Genovese",
-         "title" : "Roche arthritis drug reduces likelihood COVID-19 patients will need ventilator, company claims - Fox Business",
          "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/09/0/0/iStock-covid-ventilator.jpg?ve=1&tl=1",
-         "publishedAt" : "2020-09-18T16:08:51Z",
          "source" : {
             "id" : null,
             "name" : "Fox Business"
          },
-         "url" : "https://www.foxbusiness.com/healthcare/roche-coronavirus-patients"
+         "title" : "Roche arthritis drug reduces likelihood COVID-19 patients will need ventilator, company claims - Fox Business",
+         "author" : "Daniella Genovese",
+         "url" : "https://www.foxbusiness.com/healthcare/roche-coronavirus-patients",
+         "publishedAt" : "2020-09-18T16:08:51Z",
+         "description" : "Patients who received the drugs were 44% less likely to progress to the point where they would need to rely on ventilation."
       }
    ],
-   "status" : "ok"
+   "status" : "ok",
+   "totalResults" : 70
 }
