@@ -1,6 +1,11 @@
 {
+   "status" : "ok",
+   "totalResults" : 70,
    "articles" : [
       {
+         "author" : "Sarah O'Brien",
+         "title" : "Refinancing your mortgage will cost more thanks to an 'adverse market' fee - CNBC",
+         "url" : "https://www.cnbc.com/2020/09/18/refinancing-a-mortgage-will-cost-more-thanks-to-an-adverse-market-fee.html",
          "content" : "If you've thought about refinancing your mortgage, be aware that it may soon be a more expensive proposition.\r\nDue to a 0.5% \"adverse market\" fee, effective Dec. 1 and imposed on lenders by mortgage … [+2908 chars]",
          "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106516196-1588354901697gettyimages-1146490777.jpeg?v=1594050286",
          "description" : "Homeowners who refinance their mortgage may end up paying a higher interest rate. This is because lenders may pass on some of the costs incurred from an \"adverse market\" fee that they will soon have to start paying on certain loans sold to Fannie Mae and Fred…",
@@ -8,259 +13,254 @@
             "id" : null,
             "name" : "CNBC"
          },
-         "url" : "https://www.cnbc.com/2020/09/18/refinancing-a-mortgage-will-cost-more-thanks-to-an-adverse-market-fee.html",
-         "author" : "Sarah O'Brien",
-         "publishedAt" : "2020-09-18T18:07:00Z",
-         "title" : "Refinancing your mortgage will cost more thanks to an 'adverse market' fee - CNBC"
+         "publishedAt" : "2020-09-18T18:07:00Z"
       },
       {
-         "urlToImage" : "https://techcrunch.com/wp-content/uploads/2020/04/GettyImages-1214219588.jpg?w=709",
+         "author" : "Alex Wilhelm",
+         "title" : "Chime adds $485M at a $14.5B valuation, claims EBITDA profitability - TechCrunch",
          "content" : "In the midst of IPO week we have to add another name to our future debuts list, namely Chime, which announced a huge new round of capital today. The $485 million Series F values the consumer fintech … [+2729 chars]",
+         "url" : "http://techcrunch.com/2020/09/18/chime-adds-485m-at-a-14-5b-valuation-claims-ebitda-profitability/",
+         "urlToImage" : "https://techcrunch.com/wp-content/uploads/2020/04/GettyImages-1214219588.jpg?w=709",
          "source" : {
-            "name" : "TechCrunch",
-            "id" : "techcrunch"
+            "id" : "techcrunch",
+            "name" : "TechCrunch"
          },
          "description" : "In the midst of IPO week we have to add another name to our future debuts list, namely Chime, which announced a huge new round of capital today. The $485 million Series F values the consumer fintech giant at $14.5 billion, a huge figure given that Chime was m…",
-         "publishedAt" : "2020-09-18T16:42:32Z",
-         "author" : "Alex Wilhelm",
-         "url" : "http://techcrunch.com/2020/09/18/chime-adds-485m-at-a-14-5b-valuation-claims-ebitda-profitability/",
-         "title" : "Chime adds $485M at a $14.5B valuation, claims EBITDA profitability - TechCrunch"
+         "publishedAt" : "2020-09-18T16:42:32Z"
       },
       {
+         "urlToImage" : "https://s.marketwatch.com/public/resources/images/MW-HH475_kashka_ZG_20190411155645.jpg",
+         "publishedAt" : "2020-09-18T16:34:00Z",
          "source" : {
             "id" : null,
             "name" : "MarketWatch"
          },
          "description" : "Fed’s Bostic says COVID-19 pandemic has generated “a lot of noise” in the inflation data",
-         "urlToImage" : "https://s.marketwatch.com/public/resources/images/MW-HH475_kashka_ZG_20190411155645.jpg",
-         "content" : "Warnings that U.S. inflation is about to surge arent supported by any evidence, and are tantamount to ghost stories, said Minneapolis Federal Reserve President Neel Kashkari on Friday.These has been … [+3267 chars]",
          "title" : "Fed’s Kashkari says warnings of runaway inflation are just ‘ghost stories’ - MarketWatch",
-         "publishedAt" : "2020-09-18T16:34:00Z",
-         "url" : "https://www.marketwatch.com/story/feds-kashkari-says-warnings-of-uncontrollable-inflation-are-just-ghost-stories-2020-09-18",
-         "author" : "Greg Robb"
+         "author" : "Greg Robb",
+         "content" : "Warnings that U.S. inflation is about to surge arent supported by any evidence, and are tantamount to ghost stories, said Minneapolis Federal Reserve President Neel Kashkari on Friday.These has been … [+3267 chars]",
+         "url" : "https://www.marketwatch.com/story/feds-kashkari-says-warnings-of-uncontrollable-inflation-are-just-ghost-stories-2020-09-18"
       },
       {
-         "author" : "Timothy B. Lee",
-         "url" : "https://arstechnica.com/cars/2020/09/cop-arrests-apparently-sleeping-tesla-driver-going-93mph/",
-         "publishedAt" : "2020-09-18T16:29:00Z",
-         "title" : "Cop arrests apparently sleeping Tesla driver going 93mph - Ars Technica",
-         "content" : "Enlarge/ Frankfurt, Germany - July 12, 2016: Tesla Model S luxury electric sedan.\r\n149 with 81 posters participating, including story author\r\nPolice in Alberta, Canada, arrested a driver in July who … [+1534 chars]",
          "urlToImage" : "https://cdn.arstechnica.net/wp-content/uploads/2020/09/GettyImages-582261244-760x380.jpg",
-         "description" : "The vehicle had “both front seats completely reclined,” according to police.",
          "source" : {
             "id" : "ars-technica",
             "name" : "Ars Technica"
-         }
-      },
-      {
-         "content" : "Roche's rheumatoid arthritis treatment may reduce the likelihood that patients with COVID-19-related pneumonia would need a ventilator, the Swiss pharmaceutical company said Friday.\r\nPeople who recei… [+1788 chars]",
-         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/09/0/0/iStock-covid-ventilator.jpg?ve=1&tl=1",
-         "description" : "Patients who received the drugs were 44% less likely to progress to the point where they would need to rely on ventilation.",
-         "source" : {
-            "id" : null,
-            "name" : "Fox Business"
          },
-         "url" : "https://www.foxbusiness.com/healthcare/roche-coronavirus-patients",
-         "author" : "Daniella Genovese",
-         "publishedAt" : "2020-09-18T16:08:51Z",
-         "title" : "Roche arthritis drug reduces likelihood COVID-19 patients will need ventilator, company claims - Fox Business"
+         "description" : "The vehicle had “both front seats completely reclined,” according to police.",
+         "publishedAt" : "2020-09-18T16:29:00Z",
+         "author" : "Timothy B. Lee",
+         "title" : "Cop arrests apparently sleeping Tesla driver going 93mph - Ars Technica",
+         "url" : "https://arstechnica.com/cars/2020/09/cop-arrests-apparently-sleeping-tesla-driver-going-93mph/",
+         "content" : "Enlarge/ Frankfurt, Germany - July 12, 2016: Tesla Model S luxury electric sedan.\r\n149 with 81 posters participating, including story author\r\nPolice in Alberta, Canada, arrested a driver in July who … [+1534 chars]"
       },
       {
-         "description" : "The County said these violations include violations of Gov. Tim Walz's executive orders, including lack of physical distancing by customers and staff, lack of mask wearing and not restricting the number of occupants in the building to 50% or less.",
+         "publishedAt" : "2020-09-18T16:08:51Z",
+         "source" : {
+            "name" : "Fox Business",
+            "id" : null
+         },
+         "description" : "Patients who received the drugs were 44% less likely to progress to the point where they would need to rely on ventilation.",
+         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/09/0/0/iStock-covid-ventilator.jpg?ve=1&tl=1",
+         "content" : "Roche's rheumatoid arthritis treatment may reduce the likelihood that patients with COVID-19-related pneumonia would need a ventilator, the Swiss pharmaceutical company said Friday.\r\nPeople who recei… [+1788 chars]",
+         "url" : "https://www.foxbusiness.com/healthcare/roche-coronavirus-patients",
+         "title" : "Roche arthritis drug reduces likelihood COVID-19 patients will need ventilator, company claims - Fox Business",
+         "author" : "Daniella Genovese"
+      },
+      {
+         "urlToImage" : "https://quincy-network.s3.ca-central-1.amazonaws.com/wp-content/uploads/sites/3/2020/07/dooleys.png",
+         "publishedAt" : "2020-09-18T15:54:32Z",
          "source" : {
             "name" : "KTTC",
             "id" : null
          },
-         "content" : "ROCHESTER, Minn. (KTTC) -- Olmsted County announced on Friday that it is suspending the food and beverage license of Dooley's Pub in Rochester due to health and safety hazards.\r\nThis comes just 10 da… [+1638 chars]",
-         "urlToImage" : "https://quincy-network.s3.ca-central-1.amazonaws.com/wp-content/uploads/sites/3/2020/07/dooleys.png",
+         "description" : "The County said these violations include violations of Gov. Tim Walz's executive orders, including lack of physical distancing by customers and staff, lack of mask wearing and not restricting the number of occupants in the building to 50% or less.",
          "title" : "Olmsted County announces temporary closure of Dooley's Pub due to health and safety hazards - KTTC",
          "author" : "Nicole Valinote",
-         "url" : "http://kttc.com/2020/09/18/olmsted-county-announces-temporary-closure-of-dooleys-pub-due-to-health-and-safety-hazards/",
-         "publishedAt" : "2020-09-18T15:54:32Z"
+         "content" : "ROCHESTER, Minn. (KTTC) -- Olmsted County announced on Friday that it is suspending the food and beverage license of Dooley's Pub in Rochester due to health and safety hazards.\r\nThis comes just 10 da… [+1638 chars]",
+         "url" : "http://kttc.com/2020/09/18/olmsted-county-announces-temporary-closure-of-dooleys-pub-due-to-health-and-safety-hazards/"
       },
       {
+         "urlToImage" : "https://s.marketwatch.com/public/resources/images/MW-IO774_Dalio__ZG_20200918111722.jpg",
          "description" : "Also, an interview with Schwab chief investment strategist Liz Ann Sonders. Plus, attractive locations for retirement living.",
          "source" : {
-            "name" : "MarketWatch",
-            "id" : null
+            "id" : null,
+            "name" : "MarketWatch"
          },
-         "content" : "Ray Dalio is a billionaire fund manager. Hes an ardent capitalist but sees an imbalance that threatens the U.S., which he calls a 75-year empire in decline. In an interview with Jonathan Burton, Dali… [+3843 chars]",
-         "urlToImage" : "https://s.marketwatch.com/public/resources/images/MW-IO774_Dalio__ZG_20200918111722.jpg",
-         "title" : "Weekend reads: Ray Dalio on what business and political leaders must do to keep the U.S. from splintering - MarketWatch",
+         "publishedAt" : "2020-09-18T15:47:00Z",
          "author" : "Philip van Doorn",
+         "title" : "Weekend reads: Ray Dalio on what business and political leaders must do to keep the U.S. from splintering - MarketWatch",
          "url" : "https://www.marketwatch.com/story/weekend-reads-ray-dalio-on-what-business-and-political-leaders-must-do-to-keep-the-us-from-splintering-2020-09-18",
-         "publishedAt" : "2020-09-18T15:47:00Z"
+         "content" : "Ray Dalio is a billionaire fund manager. Hes an ardent capitalist but sees an imbalance that threatens the U.S., which he calls a 75-year empire in decline. In an interview with Jonathan Burton, Dali… [+3843 chars]"
       },
       {
          "urlToImage" : "https://www.investors.com/wp-content/uploads/2020/06/Stock-tesladelivery-01-shutt.jpg",
-         "content" : "The Dow Jones Industrial Average briefly lost more than 150 points early Friday before cutting losses, while the Nasdaq continued lower after Thursday's stock market sell-off. Dow Jones leader Apple … [+7033 chars]",
-         "source" : {
-            "id" : null,
-            "name" : "Investor's Business Daily"
-         },
          "description" : "The Dow Jones Industrial Average fell 150 points early Friday after Thursday's stock market sell-off. Tesla jumped 6%, while Beyond Meat dived 5%.",
-         "publishedAt" : "2020-09-18T15:40:00Z",
-         "url" : "https://www.investors.com/market-trend/stock-market-today/dow-jones-stock-market-rally-tesla-stock-beyond-meat-downgrade-apple-microsoft-tiktok/",
-         "author" : "Investor's Business Daily",
-         "title" : "Dow Jones Falls 150 Points, As Apple Tumbles; Tesla Jumps 6%, But Beyond Meat Dives - Investor's Business Daily"
-      },
-      {
-         "description" : "Environmental campaigners have criticized global airlines for launching \"flights to nowhere\" in response to coronavirus pandemic travel restrictions",
          "source" : {
-            "id" : "nbc-news",
-            "name" : "NBC News"
+            "name" : "Investor's Business Daily",
+            "id" : null
          },
-         "content" : "Climate campaigners have criticized airlines for launching sightseeing \"flights to nowhere\" that take off and land at the same airport in response to travel restrictions imposed during the coronaviru… [+2725 chars]",
-         "urlToImage" : "https://media1.s-nbcnews.com/j/newscms/2019_42/3059011/106187988-1571339868067dreamliner-quokka-aircraft-3_0_80178f4194db88c2b4472fdd2ffecb91.nbcnews-fp-1200-630.jpg",
-         "title" : "Sightseeing 'flights to nowhere' criticized by environmental campaigners - NBC News",
-         "author" : "Luke Denne",
-         "url" : "https://www.nbcnews.com/news/world/sightseeing-flights-nowhere-criticized-environmental-campaigners-n1240405",
-         "publishedAt" : "2020-09-18T15:38:00Z"
+         "publishedAt" : "2020-09-18T15:40:00Z",
+         "author" : "Investor's Business Daily",
+         "title" : "Dow Jones Falls 150 Points, As Apple Tumbles; Tesla Jumps 6%, But Beyond Meat Dives - Investor's Business Daily",
+         "content" : "The Dow Jones Industrial Average briefly lost more than 150 points early Friday before cutting losses, while the Nasdaq continued lower after Thursday's stock market sell-off. Dow Jones leader Apple … [+7033 chars]",
+         "url" : "https://www.investors.com/market-trend/stock-market-today/dow-jones-stock-market-rally-tesla-stock-beyond-meat-downgrade-apple-microsoft-tiktok/"
       },
       {
-         "urlToImage" : "https://s.yimg.com/uu/api/res/1.2/AbcMr7wqIUVyPHuyas72tw--~B/aD00MDAwO3c9NjAwMDtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2020-09/c3e46560-f9ba-11ea-8dbf-8d634d8dbf9b",
+         "publishedAt" : "2020-09-18T15:38:00Z",
+         "source" : {
+            "name" : "NBC News",
+            "id" : "nbc-news"
+         },
+         "description" : "Environmental campaigners have criticized global airlines for launching \"flights to nowhere\" in response to coronavirus pandemic travel restrictions",
+         "urlToImage" : "https://media1.s-nbcnews.com/j/newscms/2019_42/3059011/106187988-1571339868067dreamliner-quokka-aircraft-3_0_80178f4194db88c2b4472fdd2ffecb91.nbcnews-fp-1200-630.jpg",
+         "url" : "https://www.nbcnews.com/news/world/sightseeing-flights-nowhere-criticized-environmental-campaigners-n1240405",
+         "content" : "Climate campaigners have criticized airlines for launching sightseeing \"flights to nowhere\" that take off and land at the same airport in response to travel restrictions imposed during the coronaviru… [+2725 chars]",
+         "title" : "Sightseeing 'flights to nowhere' criticized by environmental campaigners - NBC News",
+         "author" : "Luke Denne"
+      },
+      {
          "content" : "The Paycheck Protection Program was designed to be a two-step process. A small business would receive a forgivable loan to keep them afloat during the pandemic. Then later, if they used the money in … [+4477 chars]",
+         "url" : "https://finance.yahoo.com/news/this-tweak-to-the-ppp-could-save-small-businesses-7-billion-153543681.html",
+         "author" : "Ben Werschkul",
+         "title" : "This tweak to the PPP could save small businesses $7 billion - Yahoo Finance",
          "source" : {
             "name" : "Yahoo Entertainment",
             "id" : null
          },
          "description" : "The Paycheck Protection Program was designed to be a two-step process. A small business would receive a loan then later get it forgiven. Many are looking to reform the second step for the smallest borrowers.",
          "publishedAt" : "2020-09-18T15:35:00Z",
-         "url" : "https://finance.yahoo.com/news/this-tweak-to-the-ppp-could-save-small-businesses-7-billion-153543681.html",
-         "author" : "Ben Werschkul",
-         "title" : "This tweak to the PPP could save small businesses $7 billion - Yahoo Finance"
+         "urlToImage" : "https://s.yimg.com/uu/api/res/1.2/AbcMr7wqIUVyPHuyas72tw--~B/aD00MDAwO3c9NjAwMDtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2020-09/c3e46560-f9ba-11ea-8dbf-8d634d8dbf9b"
       },
       {
-         "title" : "Dow under pressure early Friday as tech stocks stumble, dragging down S&P 500, Nasdaq - msnNOW",
+         "urlToImage" : "https://s.marketwatch.com/public/resources/images/MW-IJ233_advise_ZG_20200624131428.jpg",
          "publishedAt" : "2020-09-18T15:17:00Z",
-         "author" : "Mark DeCambre, MarketWatch, Andrea Riquier",
-         "url" : "https://www.marketwatch.com/story/dow-futures-slip-early-friday-but-sp-500-and-nasdaq-aim-to-rebound-to-end-the-week-2020-09-18",
+         "description" : "S&P500 index falls to 6-week low",
          "source" : {
             "id" : null,
             "name" : "MarketWatch"
          },
-         "description" : "S&P500 index falls to 6-week low",
-         "urlToImage" : "https://s.marketwatch.com/public/resources/images/MW-IJ233_advise_ZG_20200624131428.jpg",
-         "content" : "U.S. stock indexes turned lower Friday, on track for a third weekly slump in a row, amid uncertainty about a fresh round of fiscal stimulus from Washington lawmakers and concerns about tensions betwe… [+8448 chars]"
+         "title" : "Dow under pressure early Friday as tech stocks stumble, dragging down S&P 500, Nasdaq - msnNOW",
+         "author" : "Mark DeCambre, MarketWatch, Andrea Riquier",
+         "content" : "U.S. stock indexes turned lower Friday, on track for a third weekly slump in a row, amid uncertainty about a fresh round of fiscal stimulus from Washington lawmakers and concerns about tensions betwe… [+8448 chars]",
+         "url" : "https://www.marketwatch.com/story/dow-futures-slip-early-friday-but-sp-500-and-nasdaq-aim-to-rebound-to-end-the-week-2020-09-18"
       },
       {
          "urlToImage" : "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2019-07%2Fce952c60-9d09-11e9-9ded-e0425819635c&client=amp-blogside-v2&signature=271610e3aa2c5460bbbb9251aa9378b33f9f1e97",
-         "content" : "NBCU’s distribution deal with Roku expired last week. Roku offered to extend the existing deal for TV Everywhere channels while the two companies negotiated an agreement to distribute Peacock. Comcas… [+1413 chars]",
-         "source" : {
-            "id" : "engadget",
-            "name" : "Engadget"
-         },
-         "description" : "Roku may lose NBCUniversal channels as early as this weekend.",
          "publishedAt" : "2020-09-18T15:08:32Z",
-         "url" : "https://www.engadget.com/comcast-nbc-universal-roku-peacock-dispute-142058425.html",
+         "description" : "Roku may lose NBCUniversal channels as early as this weekend.",
+         "source" : {
+            "name" : "Engadget",
+            "id" : "engadget"
+         },
+         "title" : "Comcast may force Roku to drop some NBCUniversal channels - Engadget",
          "author" : "",
-         "title" : "Comcast may force Roku to drop some NBCUniversal channels - Engadget"
+         "url" : "https://www.engadget.com/comcast-nbc-universal-roku-peacock-dispute-142058425.html",
+         "content" : "NBCU’s distribution deal with Roku expired last week. Roku offered to extend the existing deal for TV Everywhere channels while the two companies negotiated an agreement to distribute Peacock. Comcas… [+1413 chars]"
       },
       {
-         "publishedAt" : "2020-09-18T15:00:00Z",
-         "author" : "Tsvetana Paraskova",
-         "url" : "https://oilprice.com/Energy/Oil-Prices/Bullish-Goldman-Sachs-Expects-Brent-To-Hit-49-By-Year-End.html",
          "title" : "Bullish Goldman Sachs Expects Brent To Hit $49 By Year-End - OilPrice.com",
-         "urlToImage" : "https://d32r1sh890xpii.cloudfront.net/article/718x300/2020-09-18_fen0cgqrul.jpg",
+         "author" : "Tsvetana Paraskova",
          "content" : "Russias central bank has warned…\r\nCrude prices rose on Tuesday…\r\nOil prices are fighting hard…\r\nBy Tsvetana Paraskova - Sep 18, 2020, 10:00 AM CDTGoldman Sachs is bullish on oil, expecting the market… [+1998 chars]",
+         "url" : "https://oilprice.com/Energy/Oil-Prices/Bullish-Goldman-Sachs-Expects-Brent-To-Hit-49-By-Year-End.html",
+         "urlToImage" : "https://d32r1sh890xpii.cloudfront.net/article/718x300/2020-09-18_fen0cgqrul.jpg",
+         "publishedAt" : "2020-09-18T15:00:00Z",
+         "description" : "Goldman Sachs is bullish on oil, expecting the market to be in a deficit of around 3 million barrels per day bpd by the fourth quarter of 2020",
          "source" : {
             "name" : "OilPrice.com",
             "id" : null
-         },
-         "description" : "Goldman Sachs is bullish on oil, expecting the market to be in a deficit of around 3 million barrels per day bpd by the fourth quarter of 2020"
+         }
       },
       {
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106660054-1597231617767-gettyimages-1227915938-hennessy-modernac200804_npkpp.jpeg?v=1597231683",
+         "title" : "Moderna expects to make 20 million doses of coronavirus vaccine by 2020 end - CNBC",
+         "author" : "Reuters",
+         "url" : "https://www.cnbc.com/2020/09/18/moderna-expects-to-make-20-million-doses-of-coronavirus-vaccine-by-2020-end.html",
          "content" : "Moderna said on Friday it was on track to produce 20 million doses of its experimental coronavirus vaccine by the end of the year, while maintaining its goal of readying 500 million to 1 billion dose… [+1104 chars]",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106660054-1597231617767-gettyimages-1227915938-hennessy-modernac200804_npkpp.jpeg?v=1597231683",
+         "publishedAt" : "2020-09-18T14:58:00Z",
+         "description" : "Moderna said on Friday it expects to produce 20 million doses of its experimental coronavirus vaccine by the end of the year.",
          "source" : {
             "name" : "CNBC",
             "id" : null
-         },
-         "description" : "Moderna said on Friday it expects to produce 20 million doses of its experimental coronavirus vaccine by the end of the year.",
-         "publishedAt" : "2020-09-18T14:58:00Z",
-         "author" : "Reuters",
-         "url" : "https://www.cnbc.com/2020/09/18/moderna-expects-to-make-20-million-doses-of-coronavirus-vaccine-by-2020-end.html",
-         "title" : "Moderna expects to make 20 million doses of coronavirus vaccine by 2020 end - CNBC"
+         }
       },
       {
          "title" : "Here's what the electric Ford F-150 looks like - Fox News",
-         "publishedAt" : "2020-09-18T14:57:37Z",
-         "url" : "https://www.foxnews.com/auto/heres-what-the-electric-ford-f-150-looks-like",
          "author" : "Gary Gastelu",
+         "content" : "Ford released the first image of its upcoming all-electric F-150 earlier this week, during the groundbreaking ceremony for the factory that will build it.\r\nThe battery-powered truck will be manufactu… [+1175 chars]",
+         "url" : "https://www.foxnews.com/auto/heres-what-the-electric-ford-f-150-looks-like",
+         "urlToImage" : "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/electric-f.jpg",
+         "publishedAt" : "2020-09-18T14:57:37Z",
          "source" : {
             "name" : "Fox News",
             "id" : "fox-news"
          },
-         "description" : "Teaser image shows the front of the upcoming battery-powered truck.",
-         "urlToImage" : "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/electric-f.jpg",
-         "content" : "Ford released the first image of its upcoming all-electric F-150 earlier this week, during the groundbreaking ceremony for the factory that will build it.\r\nThe battery-powered truck will be manufactu… [+1175 chars]"
+         "description" : "Teaser image shows the front of the upcoming battery-powered truck."
       },
       {
-         "title" : "Trump and Biden Virtually Tied in University of Michigan Consumer Sentiment Survey - Breitbart",
-         "url" : "https://www.breitbart.com/economy/2020/09/18/trump-and-biden-virtually-tied-in-university-of-michigan-consumer-sentiment-survey/",
-         "author" : "John Carney",
+         "urlToImage" : "https://media.breitbart.com/media/2020/09/donald-trump-joe-biden-profiles-640x335.jpg",
          "publishedAt" : "2020-09-18T14:51:00Z",
          "description" : "Trump has the lead on the economy and household finances. | Economy",
          "source" : {
-            "id" : "breitbart-news",
-            "name" : "Breitbart News"
+            "name" : "Breitbart News",
+            "id" : "breitbart-news"
          },
+         "title" : "Trump and Biden Virtually Tied in University of Michigan Consumer Sentiment Survey - Breitbart",
+         "author" : "John Carney",
          "content" : "Donald Trump and Joe Biden are virtually tied in a critical poll about the presidential electionand have been for months.\r\nIn the University of Michigan consumer sentiment poll released Friday, forty… [+2541 chars]",
-         "urlToImage" : "https://media.breitbart.com/media/2020/09/donald-trump-joe-biden-profiles-640x335.jpg"
+         "url" : "https://www.breitbart.com/economy/2020/09/18/trump-and-biden-virtually-tied-in-university-of-michigan-consumer-sentiment-survey/"
       },
       {
-         "publishedAt" : "2020-09-18T14:41:11Z",
-         "url" : "https://preview.houstonchronicle.com/dining/best-burgers-around-houston-cheese-alison-cook-15576073",
-         "author" : "Alison Cook",
-         "title" : "Alison Cook’s list of the greatest cheeseburgers in Houston - Houston Chronicle",
          "urlToImage" : "https://s3.amazonaws.com/sfc-datebook-wordpress/wp-content/uploads/sites/8/2020/09/featured_event19808--700x500.jpg",
-         "content" : "I never have to think twice about adding cheese to my burgers.\r\nOf course I want cheese! The cheeseburger is my default mode at the burger joints I prowl ceaselessly, over the length and breadth of o… [+9575 chars]",
+         "publishedAt" : "2020-09-18T14:41:11Z",
          "source" : {
-            "id" : null,
-            "name" : "Houston Chronicle"
-         },
-         "description" : "In honor of National Cheeseburger Day, food critic Alison Cook gives a special Burger Friday guide to her favorite cheeseburgers around Houston."
-      },
-      {
-         "content" : "Clorox wipes are still in short supply due to increased demand as Americans continue to clean off frequently used surfaces to combat the spread of coronavirus, but another household cleaner has been … [+1044 chars]",
-         "urlToImage" : "https://cdn.abcotvs.com/dip/images/6437647_091820-wtvd-Pine-Sol-kills-coronavirus-img.jpg?w=1600",
-         "description" : "Pine-Sol Original Multi-Surface Cleaner received approval from the U.S. Environmental Protection Agency (EPA) \"for kill claims against SARS-Cov-2, the virus that causes COVID-19, on hard non-porous surfaces.\"",
-         "source" : {
-            "name" : "KABC-TV",
+            "name" : "Houston Chronicle",
             "id" : null
          },
-         "author" : "By Kelly McCarthy",
-         "url" : "https://abc7.com/pine-sol-pine-sol-coronavirus-covid/6437577/",
+         "description" : "In honor of National Cheeseburger Day, food critic Alison Cook gives a special Burger Friday guide to her favorite cheeseburgers around Houston.",
+         "title" : "Alison Cook’s list of the greatest cheeseburgers in Houston - Houston Chronicle",
+         "author" : "Alison Cook",
+         "url" : "https://preview.houstonchronicle.com/dining/best-burgers-around-houston-cheese-alison-cook-15576073",
+         "content" : "I never have to think twice about adding cheese to my burgers.\r\nOf course I want cheese! The cheeseburger is my default mode at the burger joints I prowl ceaselessly, over the length and breadth of o… [+9575 chars]"
+      },
+      {
+         "source" : {
+            "id" : null,
+            "name" : "KABC-TV"
+         },
+         "description" : "Pine-Sol Original Multi-Surface Cleaner received approval from the U.S. Environmental Protection Agency (EPA) \"for kill claims against SARS-Cov-2, the virus that causes COVID-19, on hard non-porous surfaces.\"",
          "publishedAt" : "2020-09-18T14:35:49Z",
+         "urlToImage" : "https://cdn.abcotvs.com/dip/images/6437647_091820-wtvd-Pine-Sol-kills-coronavirus-img.jpg?w=1600",
+         "content" : "Clorox wipes are still in short supply due to increased demand as Americans continue to clean off frequently used surfaces to combat the spread of coronavirus, but another household cleaner has been … [+1044 chars]",
+         "url" : "https://abc7.com/pine-sol-pine-sol-coronavirus-covid/6437577/",
+         "author" : "By Kelly McCarthy",
          "title" : "Pine-Sol now approved to kill coronavirus on surfaces: EPA - KABC-TV"
       },
       {
-         "publishedAt" : "2020-09-18T14:29:00Z",
-         "url" : "https://www.barrons.com/articles/elon-musks-pay-helps-tesla-gets-a-record-price-target-51600439395",
-         "author" : "Al Root",
-         "title" : "Elon Musk’s Pay Helps Tesla Get a Record Price Target - Barron's",
          "urlToImage" : "https://images.barrons.com/im-233738/social",
-         "content" : "Tesla\r\n just received another record price target from a Wall Street analyst. Piper Sandlers Alex Potter raised his target price for the electric-vehicle makers stock to $515 from $480 a share. His r… [+3774 chars]",
+         "publishedAt" : "2020-09-18T14:29:00Z",
          "source" : {
             "name" : "Barron's",
             "id" : null
          },
-         "description" : ""
+         "description" : "",
+         "title" : "Elon Musk’s Pay Helps Tesla Get a Record Price Target - Barron's",
+         "author" : "Al Root",
+         "url" : "https://www.barrons.com/articles/elon-musks-pay-helps-tesla-gets-a-record-price-target-51600439395",
+         "content" : "Tesla\r\n just received another record price target from a Wall Street analyst. Piper Sandlers Alex Potter raised his target price for the electric-vehicle makers stock to $515 from $480 a share. His r… [+3774 chars]"
       },
       {
-         "title" : "Bill Gates on the difference between Elon Musk and Steve Jobs - CNBC",
-         "author" : "Cory Stieg",
-         "url" : "https://www.cnbc.com/2020/09/18/bill-gates-difference-between-elon-musk-and-steve-jobs-as-leaders.html",
          "publishedAt" : "2020-09-18T14:25:00Z",
-         "description" : "While Elon Musk and Steve Jobs contributed important innovations to society, Microsoft co-founder Bill Gates said that the way they operate is pretty different, in an interview with Bloomberg. \"You wouldn't walk into a room and confuse them with each other,\" …",
          "source" : {
             "name" : "CNBC",
             "id" : null
          },
+         "description" : "While Elon Musk and Steve Jobs contributed important innovations to society, Microsoft co-founder Bill Gates said that the way they operate is pretty different, in an interview with Bloomberg. \"You wouldn't walk into a room and confuse them with each other,\" …",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106612522-1594558367160gettyimages-1252191631.jpeg?v=1600353940",
+         "url" : "https://www.cnbc.com/2020/09/18/bill-gates-difference-between-elon-musk-and-steve-jobs-as-leaders.html",
          "content" : "Microsoft co-founder Bill Gates has had the opportunity to meet and work alongside major tech giants, including late Apple co-founder, Steve Jobs. In an interview with Bloomberg, Gates was asked whet… [+3491 chars]",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106612522-1594558367160gettyimages-1252191631.jpeg?v=1600353940"
+         "title" : "Bill Gates on the difference between Elon Musk and Steve Jobs - CNBC",
+         "author" : "Cory Stieg"
       }
-   ],
-   "status" : "ok",
-   "totalResults" : 70
+   ]
 }
