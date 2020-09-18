@@ -1,266 +1,266 @@
 {
-   "totalResults" : 70,
    "status" : "ok",
+   "totalResults" : 70,
    "articles" : [
       {
-         "title" : "Trump to block U.S. downloads of TikTok, WeChat on Sunday - CNBC",
-         "content" : "The Commerce Department announced Friday morning that it would ban U.S. business transactions with Chinese-owned social apps WeChat and TikTok on Sunday.\r\nThe announcement comes ahead of an expected … [+4276 chars]",
-         "url" : "https://www.cnbc.com/2020/09/18/trump-to-block-us-downloads-of-tiktok-wechat-on-sunday-officials-tell-reuters.html",
-         "author" : "Steve Kovach",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106338381-1579110977281gettyimages-1193896492.jpeg?v=1579111043",
-         "description" : "The Commerce department announced Friday morning that it would ban U.S. business transactions with China-owned social apps WeChat and TikTok on Sunday.",
-         "source" : {
-            "id" : null,
-            "name" : "CNBC"
-         },
-         "publishedAt" : "2020-09-18T11:35:00Z"
-      },
-      {
-         "author" : "Al Root",
-         "url" : "https://www.barrons.com/articles/tesla-battery-day-and-the-future-of-electric-batteries-51600386083",
-         "content" : "Tesla\r\n hosts its highly anticipated battery technology day next week. Analysts are using phrases like long anticipated, major milestones and mind blowing to describe the event. Tesla (ticker: TSLA) … [+6764 chars]",
-         "title" : "Tesla Battery Day Is Coming. Here’s What to Expect. - Barron's",
-         "source" : {
-            "id" : null,
-            "name" : "Barron's"
-         },
-         "description" : "",
-         "urlToImage" : "https://images.barrons.com/im-233238/social",
-         "publishedAt" : "2020-09-18T11:27:00Z"
-      },
-      {
-         "source" : {
-            "id" : null,
-            "name" : "Gizmodo.com"
-         },
-         "description" : "Australia’s Qantas Airlines will fly a seven-hour “flight to nowhere” that takes off and lands in Sydney, a bizarre idea hinging on the belief that people who have been cooped up during the pandemic would want to just experience air travel, even if their dest…",
-         "urlToImage" : "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/gizqflhwfquvjzxuni8w.jpg",
-         "author" : "Matt Novak",
-         "url" : "https://gizmodo.com/australias-7-hour-flight-to-nowhere-sells-out-instantly-1845101789",
-         "content" : "Australias Qantas Airlines will fly a seven-hour flight to nowhere that takes off and lands in Sydney, a bizarre idea hinging on the belief that people who have been cooped up during the pandemic wou… [+3172 chars]",
-         "title" : "Australia's 7-Hour 'Flight to Nowhere' Sells Out Instantly As People Lose Their Damn Minds Hoping to Feel Norm - Gizmodo",
-         "publishedAt" : "2020-09-18T11:20:00Z"
-      },
-      {
-         "source" : {
-            "name" : "MarketWatch",
-            "id" : null
-         },
-         "description" : "",
-         "urlToImage" : "https://images.mktw.net/im-233689/social",
-         "author" : "Steve Goldstein",
-         "url" : "https://www.marketwatch.com/story/tech-bubble-credit-suisse-strategists-say-no-but-say-its-time-to-get-pickier-with-these-stocks-11600425763",
-         "content" : "The market still seems to be nursing a post-Federal Reserve hangover, though seemingly because of too little rather than too much liquidity the central bank said it would add to the proverbial punchb… [+6197 chars]",
-         "title" : "Tech bubble? Credit Suisse strategists say 'no' but say it's time to get pickier with these stocks - MarketWatch",
-         "publishedAt" : "2020-09-18T10:42:00Z"
-      },
-      {
-         "publishedAt" : "2020-09-18T10:17:00Z",
-         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200917151634-national-cheeseburger-day-2020-stock-super-tease.jpg",
-         "description" : "For burger lovers out there, a dream job has opened up: getting paid to eat cheeseburgers.",
-         "source" : {
-            "id" : "cnn",
-            "name" : "CNN"
-         },
-         "title" : "Wanted: People who want to get paid to taste cheeseburgers - CNN",
-         "content" : null,
-         "url" : "https://www.cnn.com/2020/09/18/us/cheeseburger-eat-job-trnd/index.html",
-         "author" : "Joe Bagliere, CNN"
-      },
-      {
-         "source" : {
-            "name" : "Fox News",
-            "id" : "fox-news"
-         },
-         "urlToImage" : "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/RCMP.png",
-         "description" : "A Canadian man has been charged after he was found asleep at the wheel of a self-driving Tesla traveling over 93 mph down a highway in the province of Alberta, authorities said on Thursday.",
-         "content" : "A Canadian man has been charged after he was found asleep at the wheel of a \"self-driving\" Tesla traveling over 93 mph down a highway in the province of Alberta, authorities said on Thursday.\r\nThe Ju… [+1872 chars]",
-         "title" : "Tesla driver, 20, charged after found asleep at wheel of 'self-driving' car traveling over 90 mph: cops - Fox News",
-         "author" : "David Aaro",
-         "url" : "https://www.foxnews.com/auto/tesla-driver-20-charged-after-found-asleep-at-wheel-of-self-driving-vehicle-going-over-90-mph",
-         "publishedAt" : "2020-09-18T09:26:46Z"
-      },
-      {
-         "publishedAt" : "2020-09-18T07:56:09Z",
-         "source" : {
-            "name" : "Fox Business",
-            "id" : null
-         },
-         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/07/0/0/stock-market-trader-AP-003.jpg?ve=1&tl=1",
-         "description" : "Stocks are on the brink of a 3-day losing streak",
-         "content" : "U.S. equity futures are trading mixed heading into the final trading day of the week.\r\nDow futures are suggesting a decline of 0.2%.\r\nAnother slide in technology companies helped pull stocks lower on… [+2639 chars]",
-         "title" : "Stock futures trade mostly lower as selling continues - Fox Business",
-         "author" : "Ken Martin",
-         "url" : "https://www.foxbusiness.com/markets/stock-futures-trade-mostly-lower-as-selling-continues"
-      },
-      {
-         "publishedAt" : "2020-09-18T07:31:23Z",
-         "url" : "https://www.ajc.com/news/hurricane-sallys-remains-rake-georgia/3S75JFAMZRAPVIE5PT7XXMZFFU/",
-         "author" : "Asia Simone Burns, Ada Wood, Jeremy Redmon",
-         "title" : "Hurricane Sally’s remains rake Georgia - Atlanta Journal Constitution",
-         "content" : "More than 28,000 Georgia Power customers lost service amid the storm, which dumped as much as six inches of rain across parts of the Atlanta metro region. Areas around Macon and Americus soaked up 8 … [+2045 chars]",
-         "urlToImage" : "https://www.ajc.com/resizer/jZ9WHouheEHmGj4SmjtVk24pMdE=/1200x630/cloudfront-us-east-1.images.arcpublishing.com/ajc/H4VD4RVO4WYL7BK4SBC2O6KFQI.jpg",
-         "description" : "",
+         "urlToImage" : "https://www.ajc.com/resizer/nKHnvKQi9Tbkt8SvtQHhPg3xF64=/1200x630/d1fegwn2wjh0cs.cloudfront.net/06-10-2020/t_c3b3953d6d10454583be384e45518079_name_154f555cbb2f4607b828282bdb72c051.jpg",
+         "description" : "Georgia has surpassed 300,000 confirmed coronavirus infections amid hints that a decline in new cases may be leveling out.",
+         "url" : "https://www.ajc.com/news/georgia-news/georgia-tops-300000-cases-decline-in-new-cases-flattens/EUTJLTXIHFH6BCEHQAE7HS225A/",
+         "author" : "null",
+         "publishedAt" : "2020-09-18T14:17:43Z",
          "source" : {
             "id" : null,
             "name" : "Atlanta Journal Constitution"
-         }
-      },
-      {
-         "publishedAt" : "2020-09-18T07:06:00Z",
-         "source" : {
-            "id" : "the-washington-post",
-            "name" : "The Washington Post"
          },
-         "description" : "The share of Americans who would be willing to get a coronavirus vaccine if it were available today has dropped significantly from a few months ago, according to a new survey from Pew Research Center.",
-         "urlToImage" : "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/62MAV4HYDAI6VBPXLFARRCUYZU.jpg&w=1440",
-         "author" : "Antonia Farzan, Jennifer Hassan, Rick Noack, Adam Taylor, Paulina Villegas, Derek Hawkins, Paulina Firozi, Hannah Denham",
-         "url" : "https://www.washingtonpost.com/nation/2020/09/18/coronavirus-covid-live-updates-us/",
-         "content" : "BERLIN A German soccer team deliberately lost a match 37-0 after its players socially distanced amid concerns over the novel coronavirus.\r\nThe social distancing maneuvers came after the lower-league … [+1773 chars]",
-         "title" : "Live updates: Three-quarters of Americans worry that a coronavirus vaccine will be approved too quickly - The Washington Post"
+         "content" : "But the seven-day rolling average of new cases has drifted up for several days, and Georgia remains the state with the 12th most new cases per capita in the past 14 days, according to data kept by Th… [+1028 chars]",
+         "title" : "Georgia tops 300,000 cases; decline in new cases flattens - Atlanta Journal Constitution"
       },
       {
-         "publishedAt" : "2020-09-18T05:26:00Z",
-         "content" : "The boards of Spain's CaixaBank and state-owned Bankia have approved a merger plan between the two lenders, which will create the biggest bank in the country.\r\nThe deal terms will see CaixaBank offer… [+689 chars]",
-         "title" : "CaixaBank and Bankia to merge, creating Spain’s largest bank - CNBC",
-         "author" : "Katrina Bishop",
-         "url" : "https://www.cnbc.com/2020/09/18/caixabank-and-bankia-to-merge-creating-spains-largest-bank.html",
          "source" : {
             "name" : "CNBC",
             "id" : null
          },
-         "description" : "The newly created lender, which will keep the CaixaBank brand, will have assets of more than 664 billion euros, the companies said.",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106707587-1600406659991-Caixa.jpg?v=1600408319"
+         "publishedAt" : "2020-09-18T14:10:00Z",
+         "author" : "CNBC.com staff",
+         "url" : "https://www.cnbc.com/2020/09/18/coronavirus-live-updates.html",
+         "description" : "The coronavirus has infected more than 30.2 million people globally as of Friday, killing at least 946,685 people so far.",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106707957-16004302552020-09-18t111927z_1753328751_rc2z0j9aa4w4_rtrmadp_0_health-coronavirus-israel-lockdown.jpeg?v=1600432607",
+         "title" : "Coronavirus live updates: Israel locks down again ahead of High Holidays; EU strikes vaccine deal with Sanofi, GSK - CNBC",
+         "content" : "Global cases of the coronavirus have now crossed 30 million, as new infection rates remain stubbornly high in some countries and show early signs of resurgence in others. The U.S., India and Brazil h… [+452 chars]"
       },
       {
-         "publishedAt" : "2020-09-18T04:34:00Z",
-         "title" : "Apple will launch its online store in India on September 23 - TechCrunch",
-         "content" : "Apple will launch its online store in India on September 23, bringing a range of services for the first to customers in the worlds second largest smartphone market in over 20 years since it began ope… [+2780 chars]",
-         "url" : "http://techcrunch.com/2020/09/17/apple-will-launch-its-online-store-in-india-on-september-23/",
-         "author" : "Manish Singh",
-         "description" : "Apple will launch its online store in India on September 23, bringing a range of services for the first to customers in the world’s second largest smartphone market in over 20 years since it began operating in the country. The company, which currently relies …",
-         "urlToImage" : "https://techcrunch.com/wp-content/uploads/2020/09/apple-online-store-india.jpg?w=684",
+         "content" : "© JOHANNES EISELE/AFP via Getty ImagesU.S. stock indexes saw modest losses gather steam early Friday, with the indexes trying to avoid a three-session weekly losing streak amid a slump in technology … [+5935 chars]",
+         "title" : "Dow futures slip early Friday but S&P 500 and Nasdaq aim to rebound to end the week - msnNOW",
+         "description" : "U.S. stock indexes traded mixed early Friday but may post a gain for the week after a slump in technology stocks since early September.",
+         "urlToImage" : null,
          "source" : {
-            "id" : "techcrunch",
-            "name" : "TechCrunch"
+            "name" : "MarketWatch",
+            "id" : null
+         },
+         "author" : null,
+         "publishedAt" : "2020-09-18T12:01:00Z",
+         "url" : "https://www.marketwatch.com/story/dow-futures-slip-early-friday-but-sp-500-and-nasdaq-aim-to-rebound-to-end-the-week-2020-09-18"
+      },
+      {
+         "source" : {
+            "id" : null,
+            "name" : "BuzzFeed News"
+         },
+         "url" : "https://www.buzzfeednews.com/article/tanyachen/is-this-gucci-tiktok-campaign-an-ad",
+         "publishedAt" : "2020-09-18T12:00:00Z",
+         "author" : "Tanya Chen",
+         "description" : "Is Gucci making fun of itself for profit?",
+         "urlToImage" : "https://img.buzzfeed.com/buzzfeed-static/static/2020-09/17/21/enhanced/19b0de03aa06/original-13541-1600379936-36.png?crop=1802:944;0,60",
+         "title" : "Is Gucci Sharing Other TikTokers' Content An Ad Campaign For Themselves? - BuzzFeed News",
+         "content" : "This is an excerpt from Please Like Me, BuzzFeed News newsletter about how influencers are battling for your attention.You can sign up here.\r\nThis past week, Gucci has been sharing videos of people d… [+3417 chars]"
+      },
+      {
+         "urlToImage" : "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f64a32bb54c057efc28d381%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3398%26cropY1%3D189%26cropY2%3D2100",
+         "description" : "Executive orders will take aim at TikTok parent ByteDance, as well as WeChat owner Tencent.",
+         "url" : "https://www.forbes.com/sites/lisettevoytko/2020/09/18/reports-trump-will-ban-tiktok-wechat-downloads-beginning-sunday/",
+         "author" : "Lisette Voytko",
+         "publishedAt" : "2020-09-18T11:45:00Z",
+         "source" : {
+            "id" : null,
+            "name" : "Forbes"
+         },
+         "content" : "President Trump is banning downloads of the apps TikTok and WeChat from Sunday, according to a press release from the U.S. Commerce Department, through executive orders and coming amid ongoing negoti… [+3376 chars]",
+         "title" : "Trump Banning TikTok, WeChat Downloads Beginning Sunday - Forbes"
+      },
+      {
+         "description" : "In this article, I’ll be talking about the extreme concentration driving the S&P 500 index and the five mega-tech stocks that have given rise to the index’s forbidding valuation.",
+         "urlToImage" : "https://static3.seekingalpha.com/uploads/2020/9/18/accident_994007_1280.jpg",
+         "source" : {
+            "name" : "Seeking Alpha",
+            "id" : null
+         },
+         "url" : "https://seekingalpha.com/article/4375090-truth-your-s-and-p-500-etf-is-riskier-you-realize",
+         "author" : "Steven Cress",
+         "publishedAt" : "2020-09-18T11:30:00Z",
+         "content" : "In this article, Ill be talking about the extreme concentration driving the S&amp;P 500 index and the five mega-tech stocks that have given rise to the indexs forbidding valuation. Ill also be lettin… [+10663 chars]",
+         "title" : "The Truth: Your S&P 500 ETF Is Riskier Than You Realize - Seeking Alpha"
+      },
+      {
+         "title" : "Australia's 7-Hour 'Flight to Nowhere' Sells Out Instantly As People Lose Their Damn Minds Hoping to Feel Norm - Gizmodo",
+         "content" : "Australias Qantas Airlines will fly a seven-hour flight to nowhere that takes off and lands in Sydney, a bizarre idea hinging on the belief that people who have been cooped up during the pandemic wou… [+3172 chars]",
+         "url" : "https://gizmodo.com/australias-7-hour-flight-to-nowhere-sells-out-instantly-1845101789",
+         "publishedAt" : "2020-09-18T11:20:00Z",
+         "author" : "Matt Novak",
+         "source" : {
+            "name" : "Gizmodo.com",
+            "id" : null
+         },
+         "urlToImage" : "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/gizqflhwfquvjzxuni8w.jpg",
+         "description" : "Australia’s Qantas Airlines will fly a seven-hour “flight to nowhere” that takes off and lands in Sydney, a bizarre idea hinging on the belief that people who have been cooped up during the pandemic would want to just experience air travel, even if their dest…"
+      },
+      {
+         "title" : "Ohio dad creates \"candy chute\" to keep trick-or-treaters safe in middle of COVID-19 - WPVI-TV",
+         "content" : "DELHI, Ohio -- Some parents may be leery about letting their kids trick-or-treat this Halloween in the middle of the pandemic, but a man came up with an idea to keep the tradition alive and safe.Andr… [+1784 chars]",
+         "url" : "https://6abc.com/ohio-dad-makes-halloween-candy-cute-trick-or-treating-with-a-twist-chute-holidays-during-covid-19/6431197/",
+         "author" : null,
+         "publishedAt" : "2020-09-18T10:43:34Z",
+         "source" : {
+            "id" : null,
+            "name" : "WPVI-TV"
+         },
+         "urlToImage" : "https://cdn.abcotvs.com/dip/images/6431226_091720-ktrk-cnn-dad-creates-candy-chute-irios-vid.jpg?w=1600",
+         "description" : "Some parents may be leery about letting their kids trick-or-treat this Halloween in the middle of COVID-19, but an Ohio man came up with an idea to keep the tradition alive and safe."
+      },
+      {
+         "description" : "",
+         "urlToImage" : "https://images.mktw.net/im-233689/social",
+         "source" : {
+            "id" : null,
+            "name" : "MarketWatch"
+         },
+         "url" : "https://www.marketwatch.com/story/tech-bubble-credit-suisse-strategists-say-no-but-say-its-time-to-get-pickier-with-these-stocks-11600425763",
+         "publishedAt" : "2020-09-18T10:42:00Z",
+         "author" : "Steve Goldstein",
+         "content" : "The market still seems to be nursing a post-Federal Reserve hangover, though seemingly because of too little rather than too much liquidity the central bank said it would add to the proverbial punchb… [+6197 chars]",
+         "title" : "Tech bubble? Credit Suisse strategists say 'no' but say it's time to get pickier with these stocks - MarketWatch"
+      },
+      {
+         "title" : "Wanted: People who want to get paid to taste cheeseburgers - CNN",
+         "content" : null,
+         "author" : "Joe Bagliere, CNN",
+         "publishedAt" : "2020-09-18T10:17:00Z",
+         "url" : "https://www.cnn.com/2020/09/18/us/cheeseburger-eat-job-trnd/index.html",
+         "source" : {
+            "name" : "CNN",
+            "id" : "cnn"
+         },
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200917151634-national-cheeseburger-day-2020-stock-super-tease.jpg",
+         "description" : "For burger lovers out there, a dream job has opened up: getting paid to eat cheeseburgers."
+      },
+      {
+         "description" : "The federal government has no clear process for recovering undeserved Paycheck Protect Program loans.",
+         "urlToImage" : "https://www.ajc.com/resizer/z1TjFLTq5D2ga6YR2TopUWnckRo=/1200x630/cloudfront-us-east-1.images.arcpublishing.com/ajc/JO3ALNW2AWIUAQITQUQ3WOONUU.JPG",
+         "source" : {
+            "id" : null,
+            "name" : "Atlanta Journal Constitution"
+         },
+         "author" : "Johnny Edwards",
+         "publishedAt" : "2020-09-18T10:11:40Z",
+         "url" : "https://www.ajc.com/news/coronavirus/billions-in-low-dollar-stimulus-loans-may-never-be-scrutinized/R44AQASHC5B2JISZRTWOYJ4L2A/",
+         "content" : "Two people who worked for her earlier this year say Lets Talk About the Family is just that talk.\r\nIt didnt exist, said Alison Greene, who until early this month was listed on the organizations websi… [+10976 chars]",
+         "title" : "Billions in low-dollar stimulus loans may never be scrutinized - Atlanta Journal Constitution"
+      },
+      {
+         "content" : "Shares of Dave &amp; Busters Entertainment tumbled over 26.1% on Thursday, after the Wall Street Journal reported that the company might have to file for bankruptcy if it fails to strike a deal with … [+1780 chars]",
+         "title" : "Dave & Buster’s Sinks 26% On Bankruptcy Threat Report; Truist Says Buy - Yahoo Finance",
+         "urlToImage" : "https://s.yimg.com/uu/api/res/1.2/nJHkmb1LS1TAdLF9JgZxhA--~B/aD01MTQ7dz04Mzg7c209MTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en-US/smarteranalyst_347/86fd91e0be8a317da0919ab607e1a288",
+         "description" : "Shares of Dave & Buster’s Entertainment tumbled over 26.1% on Thursday, after the Wall Street Journal reported that the company might have to file for bankruptcy if it fails to strike a deal with a lender.Meanwhile, shares of the dining and entertainment comp…",
+         "url" : "https://finance.yahoo.com/news/dave-buster-sinks-26-bankruptcy-065117977.html",
+         "author" : "support@smarteranalyst.com (Ben Mahaney)",
+         "publishedAt" : "2020-09-18T10:04:18Z",
+         "source" : {
+            "name" : "Yahoo Entertainment",
+            "id" : null
          }
       },
       {
-         "publishedAt" : "2020-09-18T04:17:01Z",
-         "urlToImage" : "https://cdn.abcotvs.com/dip/images/6431226_091720-ktrk-cnn-dad-creates-candy-chute-irios-vid.jpg?w=1600",
-         "description" : "Some parents may be leery about letting their kids trick-or-treat this Halloween in the middle of COVID-19, but an Ohio man came up with an idea to keep the tradition alive and safe.",
+         "title" : "Man charged with going 87 mph while asleep in Tesla on autopilot - CBS News",
+         "content" : "A driver who allegedly set his car to autopilot and then took a nap as it broke the speed limit on a rural Canadian highway has been charged with dangerous driving, police said.\r\n The incident took p… [+1253 chars]",
+         "publishedAt" : "2020-09-18T09:45:00Z",
+         "author" : "CBS News",
+         "url" : "https://www.cbsnews.com/news/tesla-man-charged-87-mph-asleep-autopilot/",
          "source" : {
-            "id" : null,
-            "name" : "KABC-TV"
+            "id" : "cbs-news",
+            "name" : "CBS News"
          },
-         "title" : "Ohio dad creates \"candy chute\" to keep trick-or-treaters safe in middle of COVID-19 - KABC-TV",
-         "content" : "DELHI, Ohio -- Some parents may be leery about letting their kids trick-or-treat this Halloween in the middle of the pandemic, but a man came up with an idea to keep the tradition alive and safe.Andr… [+1784 chars]",
-         "url" : "https://abc7.com/ohio-dad-makes-halloween-candy-cute-trick-or-treating-with-a-twist-chute-holidays-during-covid-19/6431197/",
-         "author" : null
+         "urlToImage" : "https://cbsnews1.cbsistatic.com/hub/i/r/2016/03/30/7469b886-4622-475b-a84b-c83df25374da/thumbnail/1200x630/b5c73c1c5747c42f589476e36087cd46/gettyimages-187005523.jpg",
+         "description" : "Authorities say he simply took a nap. \"Nobody was looking out the windshield to see where the car was going,\" one officer said."
       },
       {
-         "source" : {
-            "id" : "techcrunch",
-            "name" : "TechCrunch"
-         },
-         "urlToImage" : "https://techcrunch.com/wp-content/uploads/2020/09/Screen-Shot-2020-09-18-at-11.15.08-AM-e1600399332189.png?w=751",
-         "description" : "In China, short video apps aren’t just for mindless time killing. These services are becoming online bazaars where users can examine products, see how they are grown and made, and ask sellers questions during live sessions. Kuaishou, the main rival of TikTok’…",
-         "author" : "Rita Liao",
-         "url" : "http://techcrunch.com/2020/09/17/tiktoks-chinese-rival-kuaishou-becomes-a-popular-online-bazaar/",
-         "content" : "In China, short video apps aren’t just for mindless time killing. These services are becoming online bazaars where users can examine products, see how they are grown and made, and ask sellers questio… [+2591 chars]",
-         "title" : "TikTok’s Chinese rival Kuaishou becomes a popular online bazaar - TechCrunch",
-         "publishedAt" : "2020-09-18T03:39:00Z"
-      },
-      {
-         "title" : "Coronavirus deaths surpass 197K in the US, also physician talks vaccine timeline and COVID-19 risks - Yahoo Finance",
-         "content" : null,
-         "url" : "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9Y3p4UDJkQU80SGPSAQA?oc=5",
-         "author" : null,
-         "description" : null,
-         "urlToImage" : null,
-         "source" : {
-            "name" : "Google News",
-            "id" : "google-news"
-         },
-         "publishedAt" : "2020-09-18T02:39:11Z"
-      },
-      {
-         "content" : "(Reuters) - Pfizer Inc is betting that its coronavirus vaccine candidate will show clear evidence of effectiveness early in its clinical trial, according to the company and internal documents reviewe… [+4962 chars]",
-         "title" : "Pfizer vaccine trial bets on early win against coronavirus, documents show - Reuters",
-         "author" : "Marisa Taylor, Dan Levine",
-         "url" : "https://www.reuters.com/article/health-coronavirus-usa-vaccines-idUSKBN26907S",
-         "source" : {
-            "name" : "Reuters",
-            "id" : "reuters"
-         },
-         "description" : "Pfizer Inc is betting that its coronavirus vaccine candidate will show clear evidence of effectiveness early in its clinical trial, according to the company and internal documents reviewed by Reuters that describe how the trial is being run.",
-         "urlToImage" : "https://static.reuters.com/resources/r/?m=02&d=20200918&t=2&i=1533932996&r=LYNXMPEG8H03K&w=800",
-         "publishedAt" : "2020-09-18T02:12:00Z"
-      },
-      {
-         "publishedAt" : "2020-09-18T02:02:23Z",
-         "url" : "https://www.benzinga.com/news/20/09/17552946/why-dave-busters-stock-is-trading-lower-today",
-         "author" : "Tanzeel Akhtar",
-         "title" : "Why Dave & Buster's Stock Is Trading Lower Today - Benzinga",
-         "content" : "Dave &amp; Buster's Entertainment Inc (NASDAQ: PLAY) shares are trading lower on Thursday on a report that noted the company may need to file for bankruptcy if it can't reach a deal with its lenders.… [+762 chars]",
-         "description" : "Dave & Buster's Entertainment Inc (NASDAQ: PLAY) shares are trading lower on Thursday on a report that noted the company may need to file for ...",
-         "urlToImage" : "https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/images/story/2012/15847391903_4ff821545d_o_2_2.jpg",
+         "content" : "Many people see a likening between Tesla Inc (NASDAQ: TSLA) CEO Elon Musk and Apple Inc (NASDAQ: AAPL) co-founder Steve Jobs, but Bill Gates isn't one of them.\r\nWhat Happened: “You wouldn't walk into… [+1632 chars]",
+         "title" : "Is Elon Musk The New Steve Jobs? Bill Gates Says No - Benzinga",
+         "description" : "Many people see a likening between Tesla Inc (NASDAQ: TSLA) CEO Elon Musk and Apple Inc (NASDAQ: AAPL) co-founder Steve Jobs, but Bill Gates ...",
+         "urlToImage" : "https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/images/story/2012/musk_6.jpg",
          "source" : {
             "id" : null,
             "name" : "Benzinga"
-         }
-      },
-      {
-         "publishedAt" : "2020-09-18T01:16:00Z",
-         "source" : {
-            "id" : "bloomberg",
-            "name" : "Bloomberg"
          },
-         "urlToImage" : "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iO4Dhau45bzs/v0/1200x800.jpg",
-         "description" : "Facebook Inc. is again being sued for allegedly spying on Instagram users, this time through the unauthorized use of their mobile phone cameras.The lawsuit springs from media reports in July that the photo-sharing app appeared to be accessing iPhone cameras e…",
-         "content" : "Facebook Inc. is again being sued for allegedly spying on Instagram users, this time through the unauthorized use of their mobile phone cameras.\r\nThe lawsuit springs from media reports in July that t… [+1350 chars]",
-         "title" : "Facebook Accused of Watching Instagram Users Through Cameras - Bloomberg",
-         "author" : "Robert Burnson",
-         "url" : "https://www.bloomberg.com/news/articles/2020-09-18/facebook-accused-of-watching-instagram-users-through-cameras"
+         "publishedAt" : "2020-09-18T08:59:30Z",
+         "author" : "Shivdeep Dhaliwal",
+         "url" : "https://www.benzinga.com/news/20/09/17558428/is-elon-musk-the-new-steve-jobs-bill-gates-says-no"
       },
       {
-         "publishedAt" : "2020-09-18T01:15:00Z",
-         "content" : "*See our latest report on a local COVID-19 vaccine trial above.*\r\nOAKLAND, Calif. (NewsNation Now) Pine-Sol has approval from the U.S. Environmental Protection Agency (EPA) “for kill claims against S… [+1275 chars]",
-         "title" : "EPA approves Pine-Sol to kill coronavirus on surfaces - WJW FOX 8 News Cleveland",
-         "author" : "Char'Nese Turner and Nexstar Media Wire",
-         "url" : "https://fox8.com/news/epa-approves-pine-sol-to-kill-coronavirus-on-surfaces/",
+         "publishedAt" : "2020-09-18T08:52:00Z",
+         "author" : "Dakin Andone, CNN",
+         "url" : "https://www.cnn.com/2020/09/18/health/hbcu-presidents-covid-19-vaccine-trial-trnd/index.html",
+         "source" : {
+            "name" : "CNN",
+            "id" : "cnn"
+         },
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200903034347-02-us-coronavirus-thursday-0807-super-tease.jpg",
+         "description" : "When the presidents of two historically Black colleges announced they were participating in a Covid-19 vaccine trial, they hoped to encourage other African Americans to do the same to ensure that an eventual vaccine has been tested on -- and is effective for …",
+         "title" : "2 HBCU presidents joined Covid-19 vaccine trials to encourage participation, but past racist experiments haunt such efforts - CNN",
+         "content" : "(CNN)When the presidents of two historically Black colleges announced they were participating in a Covid-19 vaccine trial, they hoped to encourage other African Americans to do the same to ensure tha… [+5086 chars]"
+      },
+      {
+         "title" : "Ericsson to buy US wireless networking firm Cradlepoint in $1.1B deal - Fox Business",
+         "content" : "Ericsson has agreed to buy U.S.-based wireless networking company Cradlepoint in a $1.1 billion deal, the Swedish telecoms gear maker said on Friday.\r\nThe deal, Ericsson's largest in more than a deca… [+1576 chars]",
+         "publishedAt" : "2020-09-18T08:38:09Z",
+         "author" : "Reuters",
+         "url" : "https://www.foxbusiness.com/markets/ericsson-to-buy-us-wireless-networking-firm-cradlepoint-in-1-1b-deal",
          "source" : {
             "id" : null,
-            "name" : "fox8.com"
+            "name" : "Fox Business"
          },
-         "urlToImage" : "https://fox8.com/wp-content/uploads/sites/12/2020/09/AP20084216660290.jpg?w=1280",
-         "description" : "Pine-Sol has approval from the U.S. Environmental Protection Agency (EPA) “for kill claims against SARS-Cov-2, the virus that causes COVID-19, on hard non-porous surfaces,” according to a company news release."
+         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2018/02/0/0/2016-12-08T081219Z_1_LYNXMPECB70A1_3_ERICSSON-AFRICA.jpg?ve=1&tl=1",
+         "description" : "The deal is Ericsson's largest in more than a decade"
       },
       {
-         "title" : "Dairy Queen gets trolled by TikTok user with Travis Scott music - Fox News",
-         "content" : "Teenagers and young adults who are really into pranks and Travis Scott are driving to fast food establishments to mess with drive-thru workers for TikTok views.\r\nWhen parked in front of drive-thru in… [+1819 chars]",
-         "url" : "https://www.foxnews.com/food-drink/dairy-queen-trolled-tiktok-travis-scott-music",
-         "author" : "Cortney Moore",
-         "urlToImage" : "https://static.foxnews.com/foxnews.com/content/uploads/2019/08/iStock-Dairy-Queen.jpg",
-         "description" : "Teenagers and young adults who are really into pranks and Travis Scott are driving to fast food establishments to mess with drive-thru workers for TikTok views.",
+         "description" : "Bankia shares fall as merger with CaixaBank announced",
+         "urlToImage" : "https://images.mktw.net/im-233670/social",
          "source" : {
-            "id" : "fox-news",
-            "name" : "Fox News"
+            "id" : null,
+            "name" : "MarketWatch"
          },
-         "publishedAt" : "2020-09-18T01:00:12Z"
+         "publishedAt" : "2020-09-18T07:58:00Z",
+         "author" : "Barbara Kollmeyer",
+         "url" : "https://www.marketwatch.com/story/european-travel-stocks-slump-amid-rising-concerns-over-second-wave-of-coronavirus-as-m-a-chatter-lifts-covestro-11600415939",
+         "content" : "European stocks slipped on Friday with investor concern growing over a worsening second wave of coronavirus cases in the region denting the travel sector. Meanwhile, deal news was moving shares of Co… [+3686 chars]",
+         "title" : "European travel stocks slump amid rising concerns over second wave of coronavirus as M&A chatter lifts Covestro - MarketWatch"
       },
       {
-         "publishedAt" : "2020-09-18T00:24:19Z",
-         "author" : "https://www.facebook.com/saltlaketribune",
-         "url" : "https://www.sltrib.com/news/education/2020/09/17/students-havent-logged/",
-         "content" : "Roughly one out of every seven students in Salt Lake City hasnt logged on for the first week of classes, which started online-only Monday because of the coronavirus pandemic.\r\n And one big reason is … [+5945 chars]",
-         "title" : "3000 students haven't logged on for the first week of school in Salt Lake City - Salt Lake Tribune",
+         "author" : "https://www.facebook.com/sim.alva",
+         "publishedAt" : "2020-09-18T07:19:03Z",
+         "url" : "https://www.teslarati.com/ford-throws-shade-tesla-cybertruck-not-real-work-truck/",
          "source" : {
-            "name" : "Salt Lake Tribune",
+            "id" : null,
+            "name" : "Teslarati"
+         },
+         "urlToImage" : "https://www.teslarati.com/wp-content/uploads/2019/07/ford-f-150-ev-2.jpg",
+         "description" : "Ford, the maker of America’s most popular pickups, recently threw some shade at its competitors in the electric pickup market like Tesla and GM. In a recent statement, a Ford executive remarked that the electric F-150 will have an edge against its competitors…",
+         "title" : "Ford throws shade at Tesla and GM, says F-150 EV will be a ‘real’ work truck - Teslarati",
+         "content" : "Ford, the maker of Americas most popular pickups, recently threw some shade at its competitors in the electric pickup market like Tesla and GM. In a recent statement, a Ford executive remarked that t… [+3043 chars]"
+      },
+      {
+         "content" : "Shannon Wright, a 45-year-old beautician, drove six hours with her family to Osmington Mills, a coastal hamlet in Dorset that offers some of the best views of the ships. Nobody really knew how the vi… [+1664 chars]",
+         "title" : "Cruise Ships Can’t Sail. But the Behemoth Vessels Are Still a Draw. - The New York Times",
+         "description" : "Empty cruise liners idling in the English Channel have become a tourist destination of their own, drawing cruise fans temporarily stuck on land.",
+         "urlToImage" : "https://static01.nyt.com/images/2020/09/18/travel/18cruise-fans1/merlin_177019521_30acc50e-c137-4168-8c08-da45a00d714e-facebookJumbo.jpg",
+         "source" : {
+            "name" : "New York Times",
             "id" : null
          },
-         "urlToImage" : "https://www.sltrib.com/resizer/kMBYJRrDydlx-CGlqxBTlbRgnnY=/1200x630/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/sltrib/U42DJMFKQBGDJOQ723RUO66Q4Y.jpg",
-         "description" : "Roughly one out of every seven students in Salt Lake City hasn’t logged on for the first week of classes, <a href=\"https://www.sltrib.com/news/education/2020/09/14/salt-lake-city-schools/\" target=_blank>which started online-only Monday because of the coronavi…"
+         "url" : "https://www.nytimes.com/2020/09/18/travel/virused-cruise-ships.html",
+         "author" : "Ceylan Yeginsu",
+         "publishedAt" : "2020-09-18T06:38:15Z"
+      },
+      {
+         "content" : "New analysis of public data estimate that 15% of all TikTok users will be first-time voters, a sizable chunk of the apps 100 million monthly users.\r\nThe app’s parent company Bytedance is close to wra… [+2593 chars]",
+         "title" : "Analysts estimate 15% of TikTok users will be first-time voters as details emerge from negotiations - Fox Business",
+         "description" : "Under the deal - all of TikTok US would receive extensive scrutiny from an independent board",
+         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/09/0/0/tiktok-oracle-share-boom-2.jpg?ve=1&tl=1",
+         "source" : {
+            "name" : "Fox Business",
+            "id" : null
+         },
+         "publishedAt" : "2020-09-18T06:31:39Z",
+         "author" : "Hillary Vaughn",
+         "url" : "https://www.foxbusiness.com/technology/new-analysis-estimates-15-of-tiktok-users-will-be-first-time-voters-as-details-emerge-from-negotiations"
       }
    ]
 }
