@@ -1,266 +1,266 @@
 {
-   "totalResults" : 70,
    "articles" : [
       {
          "source" : {
-            "name" : "Yahoo Entertainment",
-            "id" : null
+            "id" : null,
+            "name" : "Fox Business"
          },
-         "publishedAt" : "2020-09-19T06:57:15Z",
-         "author" : "Jonathan Stempel",
-         "title" : "Judge narrows Tesla lawsuit against former employee, dismisses defamation counterclaim - Yahoo Finance",
-         "url" : "https://finance.yahoo.com/news/judge-narrows-tesla-lawsuit-against-065325095.html",
-         "description" : "The judge also dismissed a defamation counterclaim by the former employee.  In a decision on Thursday, Chief Judge Miranda Du of the federal court in Reno, Nevada said Tesla failed to show that Martin Tripp's disclosure of confidential information caused a $1…",
-         "urlToImage" : "https://s.yimg.com/uu/api/res/1.2/KYHTYTnoditeSHQG9ZNtrA--~B/aD01MjY7dz04MDA7c209MTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en-US/reuters.com/5bf77af3d0fbfb6eeeae2b4475d2cfc0",
-         "content" : "By Jonathan Stempel\r\n(Reuters) - A federal judge narrowed Tesla Inc's &lt;TSLA.O&gt; lawsuit against a former employee it accused of hacking into its computers and leaking proprietary data to a repor… [+1800 chars]"
+         "title" : "Thousands told to return unemployment overpayment - Fox Business",
+         "content" : "A programming mistake caused more than 4,000 out-of-work Louisiana residents to get notices saying they’d been overpaid thousands of dollars in unemployment compensation and had to return the money, … [+1473 chars]",
+         "publishedAt" : "2020-09-19T08:43:27Z",
+         "url" : "https://www.foxbusiness.com/markets/thousands-told-to-return-unemployment-overpayment",
+         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/04/0/0/unemployment-iStock.jpg?ve=1&tl=1",
+         "description" : "The erroneous notices were sent Sept. 9 and 10 to people who applied for benefits on March 29 and 30",
+         "author" : "Associated Press"
       },
       {
-         "author" : null,
-         "title" : "Feds charge 6 people with bribing Amazon employees - msnNOW",
+         "source" : {
+            "id" : null,
+            "name" : "Yahoo Entertainment"
+         },
+         "urlToImage" : "https://s.yimg.com/uu/api/res/1.2/KYHTYTnoditeSHQG9ZNtrA--~B/aD01MjY7dz04MDA7c209MTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en-US/reuters.com/5bf77af3d0fbfb6eeeae2b4475d2cfc0",
+         "url" : "https://finance.yahoo.com/news/judge-narrows-tesla-lawsuit-against-065325095.html",
+         "content" : "By Jonathan Stempel\r\n(Reuters) - A federal judge narrowed Tesla Inc's &lt;TSLA.O&gt; lawsuit against a former employee it accused of hacking into its computers and leaking proprietary data to a repor… [+1800 chars]",
+         "publishedAt" : "2020-09-19T06:57:15Z",
+         "title" : "Judge narrows Tesla lawsuit against former employee, dismisses defamation counterclaim - Yahoo Finance",
+         "author" : "Jonathan Stempel",
+         "description" : "The judge also dismissed a defamation counterclaim by the former employee.  In a decision on Thursday, Chief Judge Miranda Du of the federal court in Reno, Nevada said Tesla failed to show that Martin Tripp's disclosure of confidential information caused a $1…"
+      },
+      {
          "source" : {
             "name" : "CBS News",
             "id" : "cbs-news"
          },
-         "publishedAt" : "2020-09-19T04:54:00Z",
          "description" : "Suspects allegedly paid employees at the ecommerce giant to help some third-party sellers gain \"unfair advantages.\"",
-         "urlToImage" : "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB13roMQ.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg",
+         "author" : null,
          "content" : "Six people allegedly conspired to bribe Amazon employees and contractors in order to gain a competitive advantage on the retailer's marketplace, federal prosecutors announced Friday. \r\n© Jim Watson /… [+3080 chars]",
-         "url" : "https://www.cbsnews.com/news/amazon-marketplace-fraud-scheme-six-indicted/"
+         "title" : "Feds charge 6 people with bribing Amazon employees - msnNOW",
+         "publishedAt" : "2020-09-19T04:54:00Z",
+         "url" : "https://www.cbsnews.com/news/amazon-marketplace-fraud-scheme-six-indicted/",
+         "urlToImage" : "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB13roMQ.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
       },
       {
-         "urlToImage" : "https://images.wsj.net/im-233295/social",
-         "content" : "During modern computings first epoch, one trend reigned supreme: Moores Law.\r\nActually a prediction by Intel Corp. co-founder Gordon Moore rather than any sort of physical law, Moores Law held that t… [+329 chars]",
-         "description" : "The rule that the same dollar buys twice the computing power every 18 months is no longer true, but a new law—which we named for the CEO of Nvidia, the company now most emblematic of commercial AI—is in full effect",
-         "url" : "https://www.wsj.com/articles/huangs-law-is-the-new-moores-law-and-explains-why-nvidia-wants-arm-11600488001",
-         "author" : "Christopher Mims",
-         "title" : "Huang’s Law Is the New Moore’s Law, and Explains Why Nvidia Wants Arm - The Wall Street Journal",
-         "publishedAt" : "2020-09-19T04:00:00Z",
          "source" : {
-            "name" : "The Wall Street Journal",
-            "id" : "the-wall-street-journal"
-         }
+            "id" : "techcrunch",
+            "name" : "TechCrunch"
+         },
+         "urlToImage" : "https://techcrunch.com/wp-content/uploads/2019/06/GettyImages-615650710.jpg?w=506",
+         "content" : "SPACs are going to rule the world, or at least, Chamaths future portfolio.\r\nChamath Palihapitiya, the founder of Social Capital, has already tripled down on SPACs, the so-called blank check vehicle t… [+2085 chars]",
+         "publishedAt" : "2020-09-19T04:24:10Z",
+         "title" : "Chamath launches SPAC, SPAC and SPAC as he SPACs the world with SPACs - TechCrunch",
+         "url" : "http://techcrunch.com/2020/09/18/chamath-launches-spac-spac-and-spac-as-he-spacs-the-world-with-spacs/",
+         "author" : "Danny Crichton",
+         "description" : "SPACs are going to rule the world, or at least, Chamath’s future portfolio. Chamath Palihapitiya, the founder of Social Capital, has already tripled down on SPACs, the so-called “blank check” vehicle that takes private companies and flips them onto the public…"
       },
       {
-         "publishedAt" : "2020-09-19T03:07:00Z",
+         "source" : {
+            "id" : "the-wall-street-journal",
+            "name" : "The Wall Street Journal"
+         },
+         "author" : "Christopher Mims",
+         "description" : "The rule that the same dollar buys twice the computing power every 18 months is no longer true, but a new law—which we named for the CEO of Nvidia, the company now most emblematic of commercial AI—is in full effect",
+         "urlToImage" : "https://images.wsj.net/im-233295/social",
+         "url" : "https://www.wsj.com/articles/huangs-law-is-the-new-moores-law-and-explains-why-nvidia-wants-arm-11600488001",
+         "content" : "During modern computings first epoch, one trend reigned supreme: Moores Law.\r\nActually a prediction by Intel Corp. co-founder Gordon Moore rather than any sort of physical law, Moores Law held that t… [+329 chars]",
+         "publishedAt" : "2020-09-19T04:00:00Z",
+         "title" : "Huang’s Law Is the New Moore’s Law, and Explains Why Nvidia Wants Arm - The Wall Street Journal"
+      },
+      {
          "source" : {
             "name" : "NBC Connecticut",
             "id" : null
          },
          "author" : "NBC Connecticut",
-         "title" : "Four Bed Bath & Beyond Stores in Conn. to Close - NBC Connecticut",
+         "description" : "Four Bed Bath & Beyond stores in Connecticut are set to close by the end of this year as the company works to optimize its locations. A spokesperson for Bed…",
          "urlToImage" : "https://media.nbcconnecticut.com/2020/08/GettyImages-1226032222-1.jpg?resize=1200%2C675",
          "content" : "Four Bed Bath &amp; Beyond stores in Connecticut are set to close by the end of this year as the company works to optimize its locations.\r\nA spokesperson for Bed Bath &amp; Beyond said the following … [+847 chars]",
-         "description" : "Four Bed Bath & Beyond stores in Connecticut are set to close by the end of this year as the company works to optimize its locations. A spokesperson for Bed…",
+         "title" : "Four Bed Bath & Beyond Stores in Conn. to Close - NBC Connecticut",
+         "publishedAt" : "2020-09-19T03:07:00Z",
          "url" : "https://www.nbcconnecticut.com/news/local/four-bed-bath-beyond-stores-in-conn-to-close/2334559/"
       },
       {
-         "url" : "https://thehill.com/blogs/blog-briefing-room/news/517163-programming-error-overpaid-thousands-of-unemployed-louisianans",
-         "description" : "The Louisiana government admitted this week that a technical issue caused thousands of out-of-work residents to receive notices informing them they’d been overpaid in unemployment benefits and had to return the money to Baton Rouge.",
-         "content" : "© Getty Images\r\n Programming error overpaid thousands of unemployed Louisianans\r\nThe Louisiana government admitted this week that a technical issue caused thousands of out-of-work residents to receiv… [+974 chars]",
-         "urlToImage" : null,
+         "description" : "Those who receive their LWA payments through Key2Benefits pre-paid cards may have to wait longer to receive their payments. KeyBank says they have encountered a further unexpected delay. This comes after they had a processing error earlier today causing a del…",
+         "author" : "Troy Licastro",
+         "content" : "Those who receive their LWA payments through Key2Benefits pre-paid cards may have to wait longer to receive their payments.\r\nKeyBank says they have encountered a further unexpected delay.\r\nThis comes… [+1218 chars]",
+         "url" : "https://www.wivb.com/news/local-news/keybank-encounters-further-unexpected-delay-with-key2benefits-payments/",
+         "publishedAt" : "2020-09-19T00:51:00Z",
+         "title" : "KeyBank encounters “further, unexpected delay” with Key2Benefits payments - WIVB.com - News 4",
+         "urlToImage" : "https://www.wivb.com/wp-content/uploads/sites/97/2019/01/KeyBankEastSide_1543082467197_63065416_ver1.0.jpg?w=1280",
          "source" : {
-            "id" : "the-hill",
-            "name" : "The Hill"
-         },
-         "publishedAt" : "2020-09-19T01:41:00Z",
-         "title" : "Programming error overpaid thousands of unemployed Louisianans - msnNOW",
-         "author" : null
-      },
-      {
-         "title" : "Supply and Demand: Cramer's 'Mad Money' Recap (Friday 9/18/20) - TheStreet",
-         "author" : "Scott Rutt",
-         "publishedAt" : "2020-09-19T00:46:00Z",
-         "source" : {
-            "id" : null,
-            "name" : "TheStreet"
-         },
-         "content" : "The avalanche of IPOs is really hurting the stock market, Jim Cramer told his Mad Money viewers Friday, after another down day on Wall Street. Cramer reminded viewers that the market operates on supp… [+6453 chars]",
-         "urlToImage" : "https://www.thestreet.com/.image/t_share/MTcwOTE2MTE1MjUyMjU4MTA2/hong-kong-stocks-on-track-for-biggest-gains-in-a-month-as-traders-scramble-into-tencent-wh-group-aac-tech.jpg",
-         "description" : "Jim Cramer says after a blizzard of IPOs, there's a post-Snowflake hangover. Plus, he's got your game plan for next week.",
-         "url" : "https://www.thestreet.com/jim-cramer/supply-and-demand-cramers-mad-money-recap-sept-18"
-      },
-      {
-         "title" : "Lawsuit accuses Facebook and Instagram of spying on users via smartphone cameras - PhoneArena",
-         "author" : "Alan Friedman",
-         "publishedAt" : "2020-09-19T00:26:50Z",
-         "source" : {
-            "id" : null,
-            "name" : "PhoneArena"
-         },
-         "url" : "https://www.phonearena.com/news/facebook-instagram-accused-in-lawsuit-of-spying-on-users_id127307",
-         "urlToImage" : "https://m-cdn.phonearena.com/images/article/127307-two_1200/Lawsuit-accuses-Facebook-and-Instagram-of-spying-on-users-via-smartphone-cameras.jpg",
-         "content" : "All content, features, and design are Copyright 2001-2020 PhoneArena.com.PhoneArena may receive a small commission if you purchase through affiliate links on this page.All rights reserved. Reproducti… [+88 chars]",
-         "description" : "Facebook and Instagram are accused of using smartphone cameras to spy on users in order to obtain important personal information that can be used for to generate more advertising revenue."
-      },
-      {
-         "author" : "Paul Best",
-         "title" : "Just 51% of Americans would get coronavirus vaccine right now - Fox News",
-         "publishedAt" : "2020-09-18T23:19:56Z",
-         "source" : {
-            "name" : "Fox News",
-            "id" : "fox-news"
-         },
-         "urlToImage" : "https://static.foxnews.com/foxnews.com/content/uploads/2020/07/iStock-1205972800-3.jpg",
-         "content" : "Americans are divided on the forthcoming coronavirus vaccine as just 51% say they would get vaccinated for the disease if a vaccine was available today, according to a Pew Research Center poll.\r\nThat… [+2268 chars]",
-         "description" : "Americans are divided on the forthcoming coronavirus vaccine as just 51% say they would get vaccinated for the disease if a vaccine was available today, according to a Pew Research Center poll.",
-         "url" : "https://www.foxnews.com/us/just-half-of-americans-would-get-coronavirus-vaccine"
-      },
-      {
-         "title" : "Connecting the dots – Plotting where gold pricing is headed - Kitco NEWS",
-         "author" : "http://www.facebook.com/kitconews",
-         "source" : {
-            "id" : null,
-            "name" : "Kitco NEWS"
-         },
-         "publishedAt" : "2020-09-18T23:15:00Z",
-         "description" : "Exclusive to Kitco News, technical analyst Gary Wagner provides a daily recap of what happened in the gold market, highlighting important events that captured investors' attention during the U.S. trading session. Wagner's commentary features a mix of fundamen…",
-         "urlToImage" : "https://www.kitco.com/commentaries/2020-09-18/images/goldkitcosept18.png",
-         "content" : "Over the last few days, we have been focusing upon the FOMC meeting which concluded on Wednesday of this week. We have spoken about how recent changes in the monetary policy of the Federal Reserve ha… [+3926 chars]",
-         "url" : "https://www.kitco.com/commentaries/2020-09-18/Connecting-the-dots-Plotting-where-gold-pricing-is-headed.html"
-      },
-      {
-         "description" : "Michelob Ultra recently announced it will be hiring a new ‘chief exploration officer’ to travel for six months in a camper van for $50,000.",
-         "content" : "Michelob Ultra is paying big bucks to send someone to explore national parks.\r\nThe beer brand recently announced it is hiring a new “CEO” -- a chief exploration officer.\r\nThe “CEO” will travel for si… [+1812 chars]",
-         "urlToImage" : "https://static.foxnews.com/foxnews.com/content/uploads/2020/07/iStock-1143980347.jpg",
-         "url" : "https://www.foxnews.com/travel/michelob-ultra-hiring-chief-exploration-officer",
-         "title" : "Michelob Ultra hiring ‘chief exploration officer’ to visit national parks - Fox News",
-         "author" : "Ann Schmidt",
-         "source" : {
-            "id" : "fox-news",
-            "name" : "Fox News"
-         },
-         "publishedAt" : "2020-09-18T23:12:12Z"
-      },
-      {
-         "url" : "https://decrypt.co/42251/uniswap-trading-volume-trails-only-bitcoin-ethereum-tether",
-         "content" : "In brief\r\n<ul><li>Uniswap's new token, UNI, has logged about $4.7 in trading volume over the last 24 hours.</li><li>Uniswap also tops all DeFi protocols in terms of total value locked, at $1.6 billio… [+3401 chars]",
-         "urlToImage" : "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2020/09/four-runners-feet-gID_1.jpg",
-         "description" : "Just two days after decentralized exchange Uniswap launched its governance token, the UNI is doing twice the daily trading volume of Bitcoin Cash.",
-         "title" : "Uniswap Trading Volume Trails Only Bitcoin, Ethereum, Tether - Decrypt",
-         "author" : "Jeff Benson",
-         "publishedAt" : "2020-09-18T22:30:00Z",
-         "source" : {
-            "name" : "Decrypt",
+            "name" : "WIVB.com - News 4",
             "id" : null
          }
       },
       {
-         "description" : "Analyst warnings about dot-com bubble valuations have investors selling big tech stocks, while investors continue offloading real estate and utility stocks, usually considered safer investments in uncertainty.",
-         "urlToImage" : "https://g.foolcdn.com/editorial/images/592246/bull-bear.jpg",
-         "content" : "Make it three bad days to get to three bad weeks in a row. The S&amp;P 500 index (SNPINDEX:^SPX) closed down 38 points, a 1.1% loss on Friday, after three straight days of declines to finish the week… [+4531 chars]",
-         "url" : "https://www.fool.com/investing/2020/09/18/sp-500-drops-33-points-as-mega-tech-stocks-slide-c/",
-         "title" : "S&P 500 Drops 33 Points as Mega-Tech Stocks Slide, Cruise Stocks Sink, and Investors Sell \"Safe\" Stocks Too - Motley Fool",
-         "author" : "Jason Hall",
+         "source" : {
+            "name" : "TheStreet",
+            "id" : null
+         },
+         "urlToImage" : "https://www.thestreet.com/.image/t_share/MTcwOTE2MTE1MjUyMjU4MTA2/hong-kong-stocks-on-track-for-biggest-gains-in-a-month-as-traders-scramble-into-tencent-wh-group-aac-tech.jpg",
+         "content" : "The avalanche of IPOs is really hurting the stock market, Jim Cramer told his Mad Money viewers Friday, after another down day on Wall Street. Cramer reminded viewers that the market operates on supp… [+6453 chars]",
+         "title" : "Supply and Demand: Cramer's 'Mad Money' Recap (Friday 9/18/20) - TheStreet",
+         "publishedAt" : "2020-09-19T00:46:00Z",
+         "url" : "https://www.thestreet.com/jim-cramer/supply-and-demand-cramers-mad-money-recap-sept-18",
+         "author" : "Scott Rutt",
+         "description" : "Jim Cramer says after a blizzard of IPOs, there's a post-Snowflake hangover. Plus, he's got your game plan for next week."
+      },
+      {
+         "source" : {
+            "id" : null,
+            "name" : "PhoneArena"
+         },
+         "author" : "Alan Friedman",
+         "description" : "Facebook and Instagram are accused of using smartphone cameras to spy on users in order to obtain important personal information that can be used for to generate more advertising revenue.",
+         "urlToImage" : "https://m-cdn.phonearena.com/images/article/127307-two_1200/Lawsuit-accuses-Facebook-and-Instagram-of-spying-on-users-via-smartphone-cameras.jpg",
+         "content" : "All content, features, and design are Copyright 2001-2020 PhoneArena.com.PhoneArena may receive a small commission if you purchase through affiliate links on this page.All rights reserved. Reproducti… [+88 chars]",
+         "publishedAt" : "2020-09-19T00:26:50Z",
+         "title" : "Lawsuit accuses Facebook and Instagram of spying on users via smartphone cameras - PhoneArena",
+         "url" : "https://www.phonearena.com/news/facebook-instagram-accused-in-lawsuit-of-spying-on-users_id127307"
+      },
+      {
+         "description" : "Americans are divided on the forthcoming coronavirus vaccine as just 51% say they would get vaccinated for the disease if a vaccine was available today, according to a Pew Research Center poll.",
+         "author" : "Paul Best",
+         "content" : "Americans are divided on the forthcoming coronavirus vaccine as just 51% say they would get vaccinated for the disease if a vaccine was available today, according to a Pew Research Center poll.\r\nThat… [+2268 chars]",
+         "url" : "https://www.foxnews.com/us/just-half-of-americans-would-get-coronavirus-vaccine",
+         "publishedAt" : "2020-09-18T23:19:56Z",
+         "title" : "Just 51% of Americans would get coronavirus vaccine right now - Fox News",
+         "urlToImage" : "https://static.foxnews.com/foxnews.com/content/uploads/2020/07/iStock-1205972800-3.jpg",
+         "source" : {
+            "name" : "Fox News",
+            "id" : "fox-news"
+         }
+      },
+      {
+         "content" : "Michelob Ultra is paying big bucks to send someone to explore national parks.\r\nThe beer brand recently announced it is hiring a new “CEO” -- a chief exploration officer.\r\nThe “CEO” will travel for si… [+1812 chars]",
+         "url" : "https://www.foxnews.com/travel/michelob-ultra-hiring-chief-exploration-officer",
+         "publishedAt" : "2020-09-18T23:12:12Z",
+         "title" : "Michelob Ultra hiring ‘chief exploration officer’ to visit national parks - Fox News",
+         "urlToImage" : "https://static.foxnews.com/foxnews.com/content/uploads/2020/07/iStock-1143980347.jpg",
+         "description" : "Michelob Ultra recently announced it will be hiring a new ‘chief exploration officer’ to travel for six months in a camper van for $50,000.",
+         "author" : "Ann Schmidt",
+         "source" : {
+            "id" : "fox-news",
+            "name" : "Fox News"
+         }
+      },
+      {
          "source" : {
             "name" : "Motley Fool",
             "id" : null
          },
-         "publishedAt" : "2020-09-18T22:16:57Z"
+         "content" : "Make it three bad days to get to three bad weeks in a row. The S&amp;P 500 index (SNPINDEX:^SPX) closed down 38 points, a 1.1% loss on Friday, after three straight days of declines to finish the week… [+4531 chars]",
+         "publishedAt" : "2020-09-18T22:16:57Z",
+         "title" : "S&P 500 Drops 33 Points as Mega-Tech Stocks Slide, Cruise Stocks Sink, and Investors Sell \"Safe\" Stocks Too - Motley Fool",
+         "url" : "https://www.fool.com/investing/2020/09/18/sp-500-drops-33-points-as-mega-tech-stocks-slide-c/",
+         "urlToImage" : "https://g.foolcdn.com/editorial/images/592246/bull-bear.jpg",
+         "description" : "Analyst warnings about dot-com bubble valuations have investors selling big tech stocks, while investors continue offloading real estate and utility stocks, usually considered safer investments in uncertainty.",
+         "author" : "Jason Hall"
       },
       {
          "description" : "Apple will launch its online store in India on September 23rd, the company announced Thursday, giving customers in India a way to buy Apple products directly from the company for the first time. India has become an increasingly important market for the iPhone…",
-         "content" : "It will be Apples first direct retail channel in India\r\nImage: Apple\r\nApple will launch its online store in India on September 23rd, giving customers in India a way to buy Apple products directly fro… [+1356 chars]",
-         "urlToImage" : "https://cdn.vox-cdn.com/thumbor/OcQ3rzQ6yS9Z3C4jnnHmMDXsjr0=/0x21:692x383/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/21894520/apple_new_india_online_duckworth_09172020_big.jpg.medium.jpg",
-         "url" : "https://www.theverge.com/2020/9/18/21446056/apple-india-launch-online-store-september-23rd",
-         "source" : {
-            "name" : "The Verge",
-            "id" : "the-verge"
-         },
-         "publishedAt" : "2020-09-18T22:10:25Z",
          "author" : "Jay Peters",
-         "title" : "Apple will launch its online store in India on September 23rd - The Verge"
+         "url" : "https://www.theverge.com/2020/9/18/21446056/apple-india-launch-online-store-september-23rd",
+         "content" : "It will be Apples first direct retail channel in India\r\nImage: Apple\r\nApple will launch its online store in India on September 23rd, giving customers in India a way to buy Apple products directly fro… [+1356 chars]",
+         "publishedAt" : "2020-09-18T22:10:25Z",
+         "title" : "Apple will launch its online store in India on September 23rd - The Verge",
+         "urlToImage" : "https://cdn.vox-cdn.com/thumbor/OcQ3rzQ6yS9Z3C4jnnHmMDXsjr0=/0x21:692x383/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/21894520/apple_new_india_online_duckworth_09172020_big.jpg.medium.jpg",
+         "source" : {
+            "id" : "the-verge",
+            "name" : "The Verge"
+         }
       },
       {
-         "title" : "You might be surprised who's moving into abandoned malls - KCRA Sacramento",
          "author" : null,
+         "description" : "With mall vacancies accelerating at a rapid clip amid a surge in online shopping, landlords are quickly looking for other ways to reuse the glut of empty stores that will help boost traffic to shopping centers.",
+         "urlToImage" : "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/hypatia-h-dea052f82122cdfa2b794d79bc1bcdb7-h-65e8f69f036c5d4e7b40ad55ee40387f-preview-1600457315825972402.JPG?crop=1xw:0.75000000000000000xh;center,top&resize=1200:*",
+         "content" : "CNN —Consumers will still be heading to malls in the future. But their trips might have little or nothing to do with shopping.\r\nWith mall vacancies accelerating at a rapid clip amid a surge in online… [+5572 chars]",
+         "publishedAt" : "2020-09-18T22:02:00Z",
+         "title" : "You might be surprised who's moving into abandoned malls - KCRA Sacramento",
+         "url" : "https://www.kcra.com/article/you-might-be-surprised-who-s-moving-into-those-sad-abandoned-malls/34079235",
          "source" : {
             "name" : "KCRA Sacramento",
             "id" : null
-         },
-         "publishedAt" : "2020-09-18T22:02:00Z",
-         "url" : "https://www.kcra.com/article/you-might-be-surprised-who-s-moving-into-those-sad-abandoned-malls/34079235",
-         "description" : "With mall vacancies accelerating at a rapid clip amid a surge in online shopping, landlords are quickly looking for other ways to reuse the glut of empty stores that will help boost traffic to shopping centers.",
-         "urlToImage" : "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/hypatia-h-dea052f82122cdfa2b794d79bc1bcdb7-h-65e8f69f036c5d4e7b40ad55ee40387f-preview-1600457315825972402.JPG?crop=1xw:0.75000000000000000xh;center,top&resize=1200:*",
-         "content" : "CNN —Consumers will still be heading to malls in the future. But their trips might have little or nothing to do with shopping.\r\nWith mall vacancies accelerating at a rapid clip amid a surge in online… [+5572 chars]"
+         }
       },
       {
-         "description" : "These flights to nowhere are high priced and arrive back at the same airport -- and they have aroused concern from environmentalists.",
-         "urlToImage" : "https://www.gannett-cdn.com/presto/2019/09/10/USAT/433a6a55-0a29-4c14-a53c-c437623a7813-Qantas_Dreamliner.jpg?crop=1799,1012,x0,y91&width=1600&height=800&fit=bounds",
-         "content" : "After a final flight over the Australian capital, Qantas farewelled its fleet of Boeing 747-400 aircraft.\r\nStoryful\r\nFor those who can't wait to get back to the skies, some airlines have started sche… [+3085 chars]",
-         "url" : "https://www.usatoday.com/story/travel/airline-news/2020/09/18/qantas-eva-ana-offer-sightseeing-flights-despite-covid-19-pandemic/5827916002/",
-         "title" : "Flight to nowhere? Qantas, EVA and ANA offer sightseeing trips to pandemic-weary passengers - USA TODAY",
-         "author" : "Chris Woodyard",
          "source" : {
             "id" : "usa-today",
             "name" : "USA Today"
          },
-         "publishedAt" : "2020-09-18T21:59:42Z"
+         "urlToImage" : "https://www.gannett-cdn.com/presto/2019/09/10/USAT/433a6a55-0a29-4c14-a53c-c437623a7813-Qantas_Dreamliner.jpg?crop=1799,1012,x0,y91&width=1600&height=800&fit=bounds",
+         "content" : "After a final flight over the Australian capital, Qantas farewelled its fleet of Boeing 747-400 aircraft.\r\nStoryful\r\nFor those who can't wait to get back to the skies, some airlines have started sche… [+3085 chars]",
+         "publishedAt" : "2020-09-18T21:59:42Z",
+         "title" : "Flight to nowhere? Qantas, EVA and ANA offer sightseeing trips to pandemic-weary passengers - USA TODAY",
+         "url" : "https://www.usatoday.com/story/travel/airline-news/2020/09/18/qantas-eva-ana-offer-sightseeing-flights-despite-covid-19-pandemic/5827916002/",
+         "author" : "Chris Woodyard",
+         "description" : "These flights to nowhere are high priced and arrive back at the same airport -- and they have aroused concern from environmentalists."
       },
       {
-         "url" : "https://variety.com/2020/digital/news/roku-nbcuniversal-peacock-deal-nbc-tv-apps-1234775220/",
-         "urlToImage" : "https://pmcvariety.files.wordpress.com/2020/09/peacock-nbcuniversal.png?w=1024",
-         "content" : "Peacock will finally be taking flight on Roku devices, after months of wrangling — and NBCUniversal’s TV apps will not be going dark on Roku after all.\r\nRoku and NBCU reached a deal Friday afternoon … [+3015 chars]",
-         "description" : "Peacock will finally be taking flight on Roku devices, after months of wrangling — and NBCUniversal’s TV apps will not be going dark on Roku after all. Roku and NBCU reached a deal Friday afternoon that will provide access to the Peacock streaming app on the …",
-         "publishedAt" : "2020-09-18T21:58:00Z",
          "source" : {
             "id" : null,
             "name" : "Variety"
          },
          "title" : "Roku and NBCUniversal Reach Deal for Peacock, Renew Agreement for NBC TV Apps - Variety",
+         "content" : "Peacock will finally be taking flight on Roku devices, after months of wrangling — and NBCUniversal’s TV apps will not be going dark on Roku after all.\r\nRoku and NBCU reached a deal Friday afternoon … [+3015 chars]",
+         "publishedAt" : "2020-09-18T21:58:00Z",
+         "url" : "https://variety.com/2020/digital/news/roku-nbcuniversal-peacock-deal-nbc-tv-apps-1234775220/",
+         "urlToImage" : "https://pmcvariety.files.wordpress.com/2020/09/peacock-nbcuniversal.png?w=1024",
+         "description" : "Peacock will finally be taking flight on Roku devices, after months of wrangling — and NBCUniversal’s TV apps will not be going dark on Roku after all. Roku and NBCU reached a deal Friday afternoon that will provide access to the Peacock streaming app on the …",
          "author" : "Todd Spangler"
       },
       {
-         "url" : "https://www.latimes.com/business/story/2020-09-18/california-unemployment-rate-dips-covid-19-restrictions",
-         "description" : "California gained 101,900 jobs in August, mostly due to the temporary hiring of federal census takers.",
-         "content" : "Californias job market improved slightly in August, but the state has regained just a third of the jobs it lost since the COVID-19 pandemic forced thousands of businesses to close. \r\nThe state added … [+7088 chars]",
-         "urlToImage" : "https://ca-times.brightspotcdn.com/dims4/default/d6ff3ad/2147483647/strip/true/crop/4000x2100+0+284/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F19%2F66%2F449e4cde4996a3385eb10a093018%2Fla-photos-1staff-598099-la-me-new-school-jobs-14-als.jpg",
          "source" : {
             "name" : "Los Angeles Times",
             "id" : null
          },
+         "description" : "California gained 101,900 jobs in August, mostly due to the temporary hiring of federal census takers.",
+         "author" : "Margot Roosevelt",
          "publishedAt" : "2020-09-18T21:53:00Z",
+         "content" : "Californias job market improved slightly in August, but the state has regained just a third of the jobs it lost since the COVID-19 pandemic forced thousands of businesses to close. \r\nThe state added … [+7088 chars]",
+         "url" : "https://www.latimes.com/business/story/2020-09-18/california-unemployment-rate-dips-covid-19-restrictions",
          "title" : "California unemployment rate dips amid COVID-19 restrictions - Los Angeles Times",
-         "author" : "Margot Roosevelt"
+         "urlToImage" : "https://ca-times.brightspotcdn.com/dims4/default/d6ff3ad/2147483647/strip/true/crop/4000x2100+0+284/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F19%2F66%2F449e4cde4996a3385eb10a093018%2Fla-photos-1staff-598099-la-me-new-school-jobs-14-als.jpg"
       },
       {
          "source" : {
-            "name" : "TribLIVE",
-            "id" : null
+            "id" : null,
+            "name" : "TribLIVE"
          },
          "publishedAt" : "2020-09-18T21:49:54Z",
-         "author" : "Paul Guggenheimer",
-         "title" : "Gov. Wolf's on-site alcohol sales order extended an hour to 11 p.m. - TribLIVE",
-         "description" : "Alcohol sales at bars and restaurants won’t have to end until 11 p.m. starting Monday, according to orders for on-site alcohol consumption from Gov. Wolf and state Health Secretary Dr. Rachel Levine. Wolf had earlier said that alcohol sales would be required …",
-         "urlToImage" : "https://triblive.com/wp-content/uploads/2020/09/3031713_web1_AP20135040369463-1-.jpg",
          "content" : "TribLIVE's Daily and Weekly email newsletters deliver the news you want and information you need, right to your inbox.\r\nAlcohol sales at bars and restaurants won’t have to end until 11 p.m. starting … [+2918 chars]",
-         "url" : "https://triblive.com/news/pennsylvania/gov-wolfs-on-site-alcohol-sales-order-extended-an-hour-to-11-p-m/"
+         "title" : "Gov. Wolf's on-site alcohol sales order extended an hour to 11 p.m. - TribLIVE",
+         "url" : "https://triblive.com/news/pennsylvania/gov-wolfs-on-site-alcohol-sales-order-extended-an-hour-to-11-p-m/",
+         "urlToImage" : "https://triblive.com/wp-content/uploads/2020/09/3031713_web1_AP20135040369463-1-.jpg",
+         "description" : "Alcohol sales at bars and restaurants won’t have to end until 11 p.m. starting Monday, according to orders for on-site alcohol consumption from Gov. Wolf and state Health Secretary Dr. Rachel Levine. Wolf had earlier said that alcohol sales would be required …",
+         "author" : "Paul Guggenheimer"
       },
       {
-         "url" : "http://www.mortgagenewsdaily.com/consumer_rates/955014.aspx",
-         "urlToImage" : "http://www.mortgagenewsdaily.com/utility/images/mnd_social_share_logo.jpg",
-         "content" : "Mortgage rates are most influenced by the bond market and the bond market is most influenced by the Federal Reserve (aka \"The Fed\").  So when the Fed says it expects rates to be \"zero\" at least until… [+4803 chars]",
+         "source" : {
+            "id" : null,
+            "name" : "Mortgage News Daily"
+         },
          "description" : "Mortgage rates are most influenced by the bond market and the bond market is most influenced by the Federal Reserve (aka \"The Fed\"). So when the Fed says it expects rates to be \"zero\" at least until the end of 2023, does the same go for mortgage rates? That...",
+         "author" : null,
+         "content" : "Mortgage rates are most influenced by the bond market and the bond market is most influenced by the Federal Reserve (aka \"The Fed\").  So when the Fed says it expects rates to be \"zero\" at least until… [+4803 chars]",
          "publishedAt" : "2020-09-18T21:49:46Z",
-         "source" : {
-            "name" : "Mortgage News Daily",
-            "id" : null
-         },
+         "url" : "http://www.mortgagenewsdaily.com/consumer_rates/955014.aspx",
          "title" : "Here's What The Fed's 0% Rate Outlook Means For Mortgages and Housing - Mortgage News Daily",
-         "author" : null
+         "urlToImage" : "http://www.mortgagenewsdaily.com/utility/images/mnd_social_share_logo.jpg"
       },
       {
-         "title" : "Gore-Tex technology inventor Robert W. Gore dies at 83 - The News Journal",
-         "author" : "Jeff Neiburg",
-         "publishedAt" : "2020-09-18T21:33:04Z",
          "source" : {
-            "name" : "The News Journal",
-            "id" : null
+            "id" : null,
+            "name" : "The News Journal"
          },
-         "urlToImage" : "https://www.gannett-cdn.com/presto/2019/11/22/PWIL/63f80aee-b8e1-44d9-aa67-106486ed2168-Bob_Gore_expanding_PTFE.jpg?crop=2007,1129,x0,y132&width=1600&height=800&fit=bounds",
-         "content" : "Here are some of the top stories we're following for Friday, September 18, 2020.\r\nWochit\r\nRobert W. Gore, the inventor of Gore-Tex who turned the Delaware-based W. L. Gore &amp; Associates into a bil… [+8496 chars]",
+         "author" : "Jeff Neiburg",
          "description" : "Robert W. Gore, chairman emeritus of the board of directors of Delaware's W. L. Gore & Associates, died Thursday at the age of 83.",
+         "urlToImage" : "https://www.gannett-cdn.com/presto/2019/11/22/PWIL/63f80aee-b8e1-44d9-aa67-106486ed2168-Bob_Gore_expanding_PTFE.jpg?crop=2007,1129,x0,y132&width=1600&height=800&fit=bounds",
+         "publishedAt" : "2020-09-18T21:33:04Z",
+         "content" : "Here are some of the top stories we're following for Friday, September 18, 2020.\r\nWochit\r\nRobert W. Gore, the inventor of Gore-Tex who turned the Delaware-based W. L. Gore &amp; Associates into a bil… [+8496 chars]",
+         "title" : "Gore-Tex technology inventor Robert W. Gore dies at 83 - The News Journal",
          "url" : "https://www.delawareonline.com/story/news/2020/09/18/robert-w-gore-inventor-gore-tex-technology-dies-83/5829392002/"
       }
    ],
+   "totalResults" : 70,
    "status" : "ok"
 }
