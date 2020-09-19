@@ -1,266 +1,266 @@
 {
+   "totalResults" : 70,
    "articles" : [
       {
-         "content" : "Authorities say the paid to get dangerous products reinstated and post fake negative reviews of competitors products\r\nIllustration by Alex Castro / The Verge\r\nSix people have been indicted by a grand… [+3067 chars]",
-         "publishedAt" : "2020-09-19T13:35:11Z",
-         "title" : "Six people indicted in Amazon Marketplace bribery scheme to help third-party sellers - The Verge",
          "description" : "Authorities say the paid to get dangerous products reinstated and post fake negative reviews of competitors’ products",
-         "url" : "https://www.theverge.com/2020/9/19/21446549/six-people-indicted-amazon-bribery-marketplace-third-party-sellers",
-         "source" : {
-            "name" : "The Verge",
-            "id" : "the-verge"
-         },
          "urlToImage" : "https://cdn.vox-cdn.com/thumbor/ANbApt8_hpnu2eYB5cWXLfhac_g=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/13443461/acastro_181114_1777_amazon_hq2_0002.jpg",
-         "author" : "Kim Lyons"
+         "author" : "Kim Lyons",
+         "title" : "Six people indicted in Amazon Marketplace bribery scheme to help third-party sellers - The Verge",
+         "source" : {
+            "id" : "the-verge",
+            "name" : "The Verge"
+         },
+         "publishedAt" : "2020-09-19T13:35:11Z",
+         "url" : "https://www.theverge.com/2020/9/19/21446549/six-people-indicted-amazon-bribery-marketplace-third-party-sellers",
+         "content" : "Authorities say the paid to get dangerous products reinstated and post fake negative reviews of competitors products\r\nIllustration by Alex Castro / The Verge\r\nSix people have been indicted by a grand… [+3067 chars]"
       },
       {
-         "url" : "https://www.cnn.com/2020/09/19/business/new-fast-food-september-2020/index.html",
-         "source" : {
-            "name" : "CNN",
-            "id" : "cnn"
-         },
-         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200915114931-chick-fil-a-new-drinks-super-tease.jpg",
-         "author" : "Jordan Valinsky, CNN Business",
          "content" : null,
+         "url" : "https://www.cnn.com/2020/09/19/business/new-fast-food-september-2020/index.html",
          "publishedAt" : "2020-09-19T12:12:00Z",
+         "source" : {
+            "id" : "cnn",
+            "name" : "CNN"
+         },
          "title" : "6 new mouth-watering fast-food items - CNN",
+         "author" : "Jordan Valinsky, CNN Business",
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200915114931-chick-fil-a-new-drinks-super-tease.jpg",
          "description" : "September started off rough for fast-food fanatics: Taco Bell announced it was eliminating the beloved Mexican Pizza as well as several other items. It didn't help fans that this was the company's second major menu makeover this summer -- earlier the spicy po…"
       },
       {
-         "content" : "The stock market has been a bit disconnected from the U.S. economy as of late. The economy is still reeling from the effects of the coronavirus, resulting in an unemployment rate of 8.4%. And yet, th… [+8510 chars]",
-         "publishedAt" : "2020-09-19T12:11:00Z",
-         "title" : "3 Tech Stocks to Buy in the Market Correction - Motley Fool",
-         "description" : "The market may be all over the place, but these stocks are still great long-term bets.",
-         "url" : "https://www.fool.com/investing/2020/09/19/3-tech-stocks-to-buy-in-the-market-correction/",
-         "source" : {
-            "id" : null,
-            "name" : "Motley Fool"
-         },
          "urlToImage" : "https://g.foolcdn.com/editorial/images/592052/gettyimages-1195117847.jpg",
-         "author" : "Chris Neiger, Danny Vena, and Brian Withers"
+         "description" : "The market may be all over the place, but these stocks are still great long-term bets.",
+         "source" : {
+            "name" : "Motley Fool",
+            "id" : null
+         },
+         "title" : "3 Tech Stocks to Buy in the Market Correction - Motley Fool",
+         "author" : "Chris Neiger, Danny Vena, and Brian Withers",
+         "publishedAt" : "2020-09-19T12:11:00Z",
+         "url" : "https://www.fool.com/investing/2020/09/19/3-tech-stocks-to-buy-in-the-market-correction/",
+         "content" : "The stock market has been a bit disconnected from the U.S. economy as of late. The economy is still reeling from the effects of the coronavirus, resulting in an unemployment rate of 8.4%. And yet, th… [+8510 chars]"
       },
       {
-         "urlToImage" : "https://g.foolcdn.com/editorial/images/592136/older-man-in-sweater-with-serious-expression-sitting-on-park-bench_gettyimages-1189989806.jpg",
-         "author" : "Maurie Backman",
+         "content" : "It's estimated that 48% of Americans wind up retiring sooner than they'd like, whether due to health issues, layoffs, or other factors. On the other hand, some people specifically plan to retire earl… [+2863 chars]",
+         "publishedAt" : "2020-09-19T11:18:00Z",
          "url" : "https://www.fool.com/retirement/2020/09/19/3-reasons-youll-regret-retiring-early/",
          "source" : {
-            "id" : null,
-            "name" : "Motley Fool"
+            "name" : "Motley Fool",
+            "id" : null
          },
+         "author" : "Maurie Backman",
          "title" : "3 Reasons You'll Regret Retiring Early - The Motley Fool",
-         "description" : "Leaving the workforce at a relatively young age might seem like a good idea, but it could also backfire.",
-         "content" : "It's estimated that 48% of Americans wind up retiring sooner than they'd like, whether due to health issues, layoffs, or other factors. On the other hand, some people specifically plan to retire earl… [+2863 chars]",
-         "publishedAt" : "2020-09-19T11:18:00Z"
+         "urlToImage" : "https://g.foolcdn.com/editorial/images/592136/older-man-in-sweater-with-serious-expression-sitting-on-park-bench_gettyimages-1189989806.jpg",
+         "description" : "Leaving the workforce at a relatively young age might seem like a good idea, but it could also backfire."
       },
       {
-         "url" : "https://www.wsj.com/articles/how-to-think-long-term-with-near-zero-interest-rates-11600507800",
+         "title" : "How to Think Long Term With Near-Zero Interest Rates - The Wall Street Journal",
+         "author" : "Julia Carpenter, Bourree Lam",
          "source" : {
             "id" : "the-wall-street-journal",
             "name" : "The Wall Street Journal"
          },
          "urlToImage" : "https://images.wsj.net/im-234031/social",
-         "author" : "Julia Carpenter, Bourree Lam",
-         "publishedAt" : "2020-09-19T09:30:00Z",
+         "description" : "America’s savers and borrowers face possibly harder choices than they did in the previous recession",
          "content" : "A long-term environment with superlow interest rates can mean different things to different peoplesometimes multiple things to the same person.\r\nWith the Federal Reserve signaling that benchmark, sho… [+181 chars]",
-         "title" : "How to Think Long Term With Near-Zero Interest Rates - The Wall Street Journal",
-         "description" : "America’s savers and borrowers face possibly harder choices than they did in the previous recession"
+         "publishedAt" : "2020-09-19T09:30:00Z",
+         "url" : "https://www.wsj.com/articles/how-to-think-long-term-with-near-zero-interest-rates-11600507800"
       },
       {
          "content" : "A programming mistake caused more than 4,000 out-of-work Louisiana residents to get notices saying they’d been overpaid thousands of dollars in unemployment compensation and had to return the money, … [+1473 chars]",
          "publishedAt" : "2020-09-19T08:43:27Z",
-         "title" : "Thousands told to return unemployment overpayment - Fox Business",
-         "description" : "The erroneous notices were sent Sept. 9 and 10 to people who applied for benefits on March 29 and 30",
          "url" : "https://www.foxbusiness.com/markets/thousands-told-to-return-unemployment-overpayment",
+         "title" : "Thousands told to return unemployment overpayment - Fox Business",
+         "author" : "Associated Press",
          "source" : {
-            "name" : "Fox Business",
-            "id" : null
+            "id" : null,
+            "name" : "Fox Business"
          },
          "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/04/0/0/unemployment-iStock.jpg?ve=1&tl=1",
-         "author" : "Associated Press"
+         "description" : "The erroneous notices were sent Sept. 9 and 10 to people who applied for benefits on March 29 and 30"
       },
       {
          "urlToImage" : null,
-         "author" : null,
-         "url" : "https://www.reuters.com/article/tesla-court-tripp-idUSKBN26A0EL",
+         "description" : null,
          "source" : {
             "id" : "reuters",
             "name" : "Reuters"
          },
          "title" : "Judge narrows Tesla lawsuit against former employee, dismisses defamation counterclaim - Reuters",
-         "description" : null,
-         "content" : "FILE PHOTO: The Tesla logo is seen on a car at Tesla's new showroom in Manhattan's Meatpacking District in New York City, U.S., Dec. 14, 2017. REUTERS/Brendan McDermid\r\nAPAC\r\nJonathan Stempel\r\n(Reute… [+2046 chars]",
-         "publishedAt" : "2020-09-19T06:55:00Z"
+         "author" : null,
+         "url" : "https://www.reuters.com/article/tesla-court-tripp-idUSKBN26A0EL",
+         "publishedAt" : "2020-09-19T06:55:00Z",
+         "content" : "FILE PHOTO: The Tesla logo is seen on a car at Tesla's new showroom in Manhattan's Meatpacking District in New York City, U.S., Dec. 14, 2017. REUTERS/Brendan McDermid\r\nAPAC\r\nJonathan Stempel\r\n(Reute… [+2046 chars]"
       },
       {
+         "url" : "http://techcrunch.com/2020/09/18/chamath-launches-spac-spac-and-spac-as-he-spacs-the-world-with-spacs/",
          "publishedAt" : "2020-09-19T04:24:10Z",
          "content" : "SPACs are going to rule the world, or at least, Chamaths future portfolio.\r\nChamath Palihapitiya, the founder of Social Capital, has already tripled down on SPACs, the so-called blank check vehicle t… [+2085 chars]",
-         "title" : "Chamath launches SPAC, SPAC and SPAC as he SPACs the world with SPACs - TechCrunch",
+         "urlToImage" : "https://techcrunch.com/wp-content/uploads/2019/06/GettyImages-615650710.jpg?w=506",
          "description" : "SPACs are going to rule the world, or at least, Chamath’s future portfolio. Chamath Palihapitiya, the founder of Social Capital, has already tripled down on SPACs, the so-called “blank check” vehicle that takes private companies and flips them onto the public…",
-         "url" : "http://techcrunch.com/2020/09/18/chamath-launches-spac-spac-and-spac-as-he-spacs-the-world-with-spacs/",
+         "title" : "Chamath launches SPAC, SPAC and SPAC as he SPACs the world with SPACs - TechCrunch",
+         "author" : "Danny Crichton",
          "source" : {
             "name" : "TechCrunch",
             "id" : "techcrunch"
-         },
-         "urlToImage" : "https://techcrunch.com/wp-content/uploads/2019/06/GettyImages-615650710.jpg?w=506",
-         "author" : "Danny Crichton"
+         }
       },
       {
-         "urlToImage" : "https://images.wsj.net/im-233295/social",
-         "author" : "Christopher Mims",
+         "content" : "During modern computings first epoch, one trend reigned supreme: Moores Law.\r\nActually a prediction by Intel Corp. co-founder Gordon Moore rather than any sort of physical law, Moores Law held that t… [+329 chars]",
+         "publishedAt" : "2020-09-19T04:00:00Z",
          "url" : "https://www.wsj.com/articles/huangs-law-is-the-new-moores-law-and-explains-why-nvidia-wants-arm-11600488001",
+         "author" : "Christopher Mims",
+         "title" : "Huang’s Law Is the New Moore’s Law, and Explains Why Nvidia Wants Arm - The Wall Street Journal",
          "source" : {
             "id" : "the-wall-street-journal",
             "name" : "The Wall Street Journal"
          },
-         "title" : "Huang’s Law Is the New Moore’s Law, and Explains Why Nvidia Wants Arm - The Wall Street Journal",
          "description" : "The rule that the same dollar buys twice the computing power every 18 months is no longer true, but a new law—which we named for the CEO of Nvidia, the company now most emblematic of commercial AI—is in full effect",
-         "content" : "During modern computings first epoch, one trend reigned supreme: Moores Law.\r\nActually a prediction by Intel Corp. co-founder Gordon Moore rather than any sort of physical law, Moores Law held that t… [+329 chars]",
-         "publishedAt" : "2020-09-19T04:00:00Z"
+         "urlToImage" : "https://images.wsj.net/im-233295/social"
       },
       {
-         "description" : "Four Bed Bath & Beyond stores in Connecticut are set to close by the end of this year as the company works to optimize its locations. A spokesperson for Bed…",
-         "title" : "Four Bed Bath & Beyond Stores in Conn. to Close - NBC Connecticut",
-         "publishedAt" : "2020-09-19T03:07:00Z",
-         "content" : "Four Bed Bath &amp; Beyond stores in Connecticut are set to close by the end of this year as the company works to optimize its locations.\r\nA spokesperson for Bed Bath &amp; Beyond said the following … [+847 chars]",
-         "author" : "NBC Connecticut",
          "urlToImage" : "https://media.nbcconnecticut.com/2020/08/GettyImages-1226032222-1.jpg?resize=1200%2C675",
+         "description" : "Four Bed Bath & Beyond stores in Connecticut are set to close by the end of this year as the company works to optimize its locations. A spokesperson for Bed…",
          "source" : {
-            "name" : "NBC Connecticut",
-            "id" : null
+            "id" : null,
+            "name" : "NBC Connecticut"
          },
-         "url" : "https://www.nbcconnecticut.com/news/local/four-bed-bath-beyond-stores-in-conn-to-close/2334559/"
+         "title" : "Four Bed Bath & Beyond Stores in Conn. to Close - NBC Connecticut",
+         "author" : "NBC Connecticut",
+         "publishedAt" : "2020-09-19T03:07:00Z",
+         "url" : "https://www.nbcconnecticut.com/news/local/four-bed-bath-beyond-stores-in-conn-to-close/2334559/",
+         "content" : "Four Bed Bath &amp; Beyond stores in Connecticut are set to close by the end of this year as the company works to optimize its locations.\r\nA spokesperson for Bed Bath &amp; Beyond said the following … [+847 chars]"
       },
       {
-         "title" : "Many frustrated as promised LWA funds don't arrive for Key2Benefits users - WRGB",
-         "description" : "Many were expecting to get their lost wage assistance benefit funds today, but some are still not seeing their money. The DOL said The funds should be there today, but there people still waiting for them, hours after they expected to get them. And many of the…",
-         "publishedAt" : "2020-09-19T02:49:21Z",
          "content" : null,
-         "urlToImage" : "http://static-20.sinclairstoryline.com/resources/media/31578b0f-7084-48f7-8656-435c4ba7767e-large16x9_UNEMPLOYMENT1.jpg?1600483570042",
-         "author" : "Steve Maugeri",
          "url" : "http://cbs6albany.com/news/coronavirus/many-frustrated-as-promised-lwa-funds-dont-arrive-for-key2benefits-users",
+         "publishedAt" : "2020-09-19T02:49:21Z",
          "source" : {
-            "name" : "WRGB",
-            "id" : null
-         }
+            "id" : null,
+            "name" : "WRGB"
+         },
+         "title" : "Many frustrated as promised LWA funds don't arrive for Key2Benefits users - WRGB",
+         "author" : "Steve Maugeri",
+         "description" : "Many were expecting to get their lost wage assistance benefit funds today, but some are still not seeing their money. The DOL said The funds should be there today, but there people still waiting for them, hours after they expected to get them. And many of the…",
+         "urlToImage" : "http://static-20.sinclairstoryline.com/resources/media/31578b0f-7084-48f7-8656-435c4ba7767e-large16x9_UNEMPLOYMENT1.jpg?1600483570042"
       },
       {
          "source" : {
             "name" : "News3LV",
             "id" : null
          },
-         "url" : "http://news3lv.com/news/local/over-25-of-people-who-contracted-covid-19-in-clark-co-reported-visiting-hotel-or-resort",
+         "title" : "Over 25% of people who contracted COVID-19 in Clark Co. reported visiting hotel or resort - News3LV",
          "author" : "Lauren Clark",
+         "description" : "For the first time we've heard data on how our bread and butter industry of tourism could be impacting our COVID-19 case numbers. Health officials are now reporting over 25 percent of people who contracted COVID-19 in Clark County reported visiting a hotel, m…",
          "urlToImage" : "http://static-27.sinclairstoryline.com/resources/media/3c3f3938-d8d3-4c34-9174-7e720eb79fc8-large16x9_thumb_65600.png?1600482447594",
          "content" : null,
          "publishedAt" : "2020-09-19T02:35:36Z",
-         "description" : "For the first time we've heard data on how our bread and butter industry of tourism could be impacting our COVID-19 case numbers. Health officials are now reporting over 25 percent of people who contracted COVID-19 in Clark County reported visiting a hotel, m…",
-         "title" : "Over 25% of people who contracted COVID-19 in Clark Co. reported visiting hotel or resort - News3LV"
+         "url" : "http://news3lv.com/news/local/over-25-of-people-who-contracted-covid-19-in-clark-co-reported-visiting-hotel-or-resort"
       },
       {
-         "publishedAt" : "2020-09-19T00:46:00Z",
-         "content" : "The avalanche of IPOs is really hurting the stock market, Jim Cramer told his Mad Money viewers Friday, after another down day on Wall Street. Cramer reminded viewers that the market operates on supp… [+6453 chars]",
+         "urlToImage" : "https://www.thestreet.com/.image/t_share/MTcwOTE2MTE1MjUyMjU4MTA2/hong-kong-stocks-on-track-for-biggest-gains-in-a-month-as-traders-scramble-into-tencent-wh-group-aac-tech.jpg",
          "description" : "Jim Cramer says after a blizzard of IPOs, there's a post-Snowflake hangover. Plus, he's got your game plan for next week.",
          "title" : "Supply and Demand: Cramer's 'Mad Money' Recap (Friday 9/18/20) - TheStreet",
+         "author" : "Scott Rutt",
          "source" : {
             "id" : null,
             "name" : "TheStreet"
          },
          "url" : "https://www.thestreet.com/jim-cramer/supply-and-demand-cramers-mad-money-recap-sept-18",
-         "author" : "Scott Rutt",
-         "urlToImage" : "https://www.thestreet.com/.image/t_share/MTcwOTE2MTE1MjUyMjU4MTA2/hong-kong-stocks-on-track-for-biggest-gains-in-a-month-as-traders-scramble-into-tencent-wh-group-aac-tech.jpg"
+         "publishedAt" : "2020-09-19T00:46:00Z",
+         "content" : "The avalanche of IPOs is really hurting the stock market, Jim Cramer told his Mad Money viewers Friday, after another down day on Wall Street. Cramer reminded viewers that the market operates on supp… [+6453 chars]"
       },
       {
+         "source" : {
+            "id" : null,
+            "name" : "PhoneArena"
+         },
+         "title" : "Lawsuit accuses Facebook and Instagram of spying on users via smartphone cameras - PhoneArena",
+         "author" : "Alan Friedman",
+         "description" : "Facebook and Instagram are accused of using smartphone cameras to spy on users in order to obtain important personal information that can be used for to generate more advertising revenue.",
+         "urlToImage" : "https://m-cdn.phonearena.com/images/article/127307-two_1200/Lawsuit-accuses-Facebook-and-Instagram-of-spying-on-users-via-smartphone-cameras.jpg",
          "content" : "All content, features, and design are Copyright 2001-2020 PhoneArena.com.PhoneArena may receive a small commission if you purchase through affiliate links on this page.All rights reserved. Reproducti… [+88 chars]",
          "publishedAt" : "2020-09-19T00:26:50Z",
-         "title" : "Lawsuit accuses Facebook and Instagram of spying on users via smartphone cameras - PhoneArena",
-         "description" : "Facebook and Instagram are accused of using smartphone cameras to spy on users in order to obtain important personal information that can be used for to generate more advertising revenue.",
-         "url" : "https://www.phonearena.com/news/facebook-instagram-accused-in-lawsuit-of-spying-on-users_id127307",
-         "source" : {
-            "name" : "PhoneArena",
-            "id" : null
-         },
-         "urlToImage" : "https://m-cdn.phonearena.com/images/article/127307-two_1200/Lawsuit-accuses-Facebook-and-Instagram-of-spying-on-users-via-smartphone-cameras.jpg",
-         "author" : "Alan Friedman"
+         "url" : "https://www.phonearena.com/news/facebook-instagram-accused-in-lawsuit-of-spying-on-users_id127307"
       },
       {
          "publishedAt" : "2020-09-18T23:12:12Z",
+         "url" : "https://www.foxnews.com/travel/michelob-ultra-hiring-chief-exploration-officer",
          "content" : "Michelob Ultra is paying big bucks to send someone to explore national parks.\r\nThe beer brand recently announced it is hiring a new “CEO” -- a chief exploration officer.\r\nThe “CEO” will travel for si… [+1812 chars]",
          "description" : "Michelob Ultra recently announced it will be hiring a new ‘chief exploration officer’ to travel for six months in a camper van for $50,000.",
+         "urlToImage" : "https://static.foxnews.com/foxnews.com/content/uploads/2020/07/iStock-1143980347.jpg",
          "title" : "Michelob Ultra hiring ‘chief exploration officer’ to visit national parks - Fox News",
-         "source" : {
-            "id" : "fox-news",
-            "name" : "Fox News"
-         },
-         "url" : "https://www.foxnews.com/travel/michelob-ultra-hiring-chief-exploration-officer",
          "author" : "Ann Schmidt",
-         "urlToImage" : "https://static.foxnews.com/foxnews.com/content/uploads/2020/07/iStock-1143980347.jpg"
+         "source" : {
+            "name" : "Fox News",
+            "id" : "fox-news"
+         }
       },
       {
-         "publishedAt" : "2020-09-18T22:47:00Z",
-         "content" : "BENTONVILLE, Ark. Walmart Inc. will raise wages for around 165,000 hourly employees at all of its American stores.\r\nThe company on Thursday announced new salaried and hourly leadership roles, as well… [+619 chars]",
-         "title" : "Walmart giving pay raises to hourly workers - West Virginia MetroNews",
+         "urlToImage" : "https://wvmetronews.com/wp-content/uploads/2016/01/walmart.png",
          "description" : "The new wages will range between $18 and $21 an hour and as much as $30 an hour at Walmart Supercenter locations.",
-         "url" : "https://wvmetronews.com/2020/09/18/walmart-giving-pay-raises-to-hourly-workers/",
+         "title" : "Walmart giving pay raises to hourly workers - West Virginia MetroNews",
+         "author" : "WVMetroNews",
          "source" : {
             "id" : null,
             "name" : "West Virginia MetroNews"
          },
-         "urlToImage" : "https://wvmetronews.com/wp-content/uploads/2016/01/walmart.png",
-         "author" : "WVMetroNews"
+         "url" : "https://wvmetronews.com/2020/09/18/walmart-giving-pay-raises-to-hourly-workers/",
+         "publishedAt" : "2020-09-18T22:47:00Z",
+         "content" : "BENTONVILLE, Ark. Walmart Inc. will raise wages for around 165,000 hourly employees at all of its American stores.\r\nThe company on Thursday announced new salaried and hourly leadership roles, as well… [+619 chars]"
       },
       {
-         "author" : "Jason Hall",
+         "description" : "Analyst warnings about dot-com bubble valuations have investors selling big tech stocks, while investors continue offloading real estate and utility stocks, usually considered safer investments in uncertainty.",
          "urlToImage" : "https://g.foolcdn.com/editorial/images/592246/bull-bear.jpg",
          "source" : {
             "id" : null,
             "name" : "Motley Fool"
          },
-         "url" : "https://www.fool.com/investing/2020/09/18/sp-500-drops-33-points-as-mega-tech-stocks-slide-c/",
-         "description" : "Analyst warnings about dot-com bubble valuations have investors selling big tech stocks, while investors continue offloading real estate and utility stocks, usually considered safer investments in uncertainty.",
          "title" : "S&P 500 Drops 33 Points as Mega-Tech Stocks Slide, Cruise Stocks Sink, and Investors Sell \"Safe\" Stocks Too - Motley Fool",
+         "author" : "Jason Hall",
          "publishedAt" : "2020-09-18T22:16:57Z",
+         "url" : "https://www.fool.com/investing/2020/09/18/sp-500-drops-33-points-as-mega-tech-stocks-slide-c/",
          "content" : "Make it three bad days to get to three bad weeks in a row. The S&amp;P 500 index (SNPINDEX:^SPX) closed down 38 points, a 1.1% loss on Friday, after three straight days of declines to finish the week… [+4531 chars]"
       },
       {
-         "urlToImage" : "https://cdn.vox-cdn.com/thumbor/OcQ3rzQ6yS9Z3C4jnnHmMDXsjr0=/0x21:692x383/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/21894520/apple_new_india_online_duckworth_09172020_big.jpg.medium.jpg",
-         "author" : "Jay Peters",
+         "content" : "It will be Apples first direct retail channel in India\r\nImage: Apple\r\nApple will launch its online store in India on September 23rd, giving customers in India a way to buy Apple products directly fro… [+1356 chars]",
+         "publishedAt" : "2020-09-18T22:10:25Z",
          "url" : "https://www.theverge.com/2020/9/18/21446056/apple-india-launch-online-store-september-23rd",
          "source" : {
-            "name" : "The Verge",
-            "id" : "the-verge"
+            "id" : "the-verge",
+            "name" : "The Verge"
          },
          "title" : "Apple will launch its online store in India on September 23rd - The Verge",
+         "author" : "Jay Peters",
          "description" : "Apple will launch its online store in India on September 23rd, the company announced Thursday, giving customers in India a way to buy Apple products directly from the company for the first time. India has become an increasingly important market for the iPhone…",
-         "publishedAt" : "2020-09-18T22:10:25Z",
-         "content" : "It will be Apples first direct retail channel in India\r\nImage: Apple\r\nApple will launch its online store in India on September 23rd, giving customers in India a way to buy Apple products directly fro… [+1356 chars]"
+         "urlToImage" : "https://cdn.vox-cdn.com/thumbor/OcQ3rzQ6yS9Z3C4jnnHmMDXsjr0=/0x21:692x383/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/21894520/apple_new_india_online_duckworth_09172020_big.jpg.medium.jpg"
       },
       {
-         "urlToImage" : "https://www.gannett-cdn.com/presto/2019/09/10/USAT/433a6a55-0a29-4c14-a53c-c437623a7813-Qantas_Dreamliner.jpg?crop=1799,1012,x0,y91&width=1600&height=800&fit=bounds",
-         "author" : "Chris Woodyard",
+         "publishedAt" : "2020-09-18T21:59:42Z",
          "url" : "https://www.usatoday.com/story/travel/airline-news/2020/09/18/qantas-eva-ana-offer-sightseeing-flights-despite-covid-19-pandemic/5827916002/",
+         "content" : "After a final flight over the Australian capital, Qantas farewelled its fleet of Boeing 747-400 aircraft.\r\nStoryful\r\nFor those who can't wait to get back to the skies, some airlines have started sche… [+3085 chars]",
+         "description" : "These flights to nowhere are high priced and arrive back at the same airport -- and they have aroused concern from environmentalists.",
+         "urlToImage" : "https://www.gannett-cdn.com/presto/2019/09/10/USAT/433a6a55-0a29-4c14-a53c-c437623a7813-Qantas_Dreamliner.jpg?crop=1799,1012,x0,y91&width=1600&height=800&fit=bounds",
          "source" : {
             "name" : "USA Today",
             "id" : "usa-today"
          },
          "title" : "Flight to nowhere? Qantas, EVA and ANA offer sightseeing trips to pandemic-weary passengers - USA TODAY",
-         "description" : "These flights to nowhere are high priced and arrive back at the same airport -- and they have aroused concern from environmentalists.",
-         "publishedAt" : "2020-09-18T21:59:42Z",
-         "content" : "After a final flight over the Australian capital, Qantas farewelled its fleet of Boeing 747-400 aircraft.\r\nStoryful\r\nFor those who can't wait to get back to the skies, some airlines have started sche… [+3085 chars]"
+         "author" : "Chris Woodyard"
       },
       {
          "url" : "https://variety.com/2020/digital/news/roku-nbcuniversal-peacock-deal-nbc-tv-apps-1234775220/",
+         "publishedAt" : "2020-09-18T21:58:00Z",
+         "content" : "Peacock will finally be taking flight on Roku devices, after months of wrangling — and NBCUniversal’s TV apps will not be going dark on Roku after all.\r\nRoku and NBCU reached a deal Friday afternoon … [+3015 chars]",
+         "urlToImage" : "https://pmcvariety.files.wordpress.com/2020/09/peacock-nbcuniversal.png?w=1024",
+         "description" : "Peacock will finally be taking flight on Roku devices, after months of wrangling — and NBCUniversal’s TV apps will not be going dark on Roku after all. Roku and NBCU reached a deal Friday afternoon that will provide access to the Peacock streaming app on the …",
          "source" : {
             "name" : "Variety",
             "id" : null
          },
-         "urlToImage" : "https://pmcvariety.files.wordpress.com/2020/09/peacock-nbcuniversal.png?w=1024",
          "author" : "Todd Spangler",
-         "content" : "Peacock will finally be taking flight on Roku devices, after months of wrangling — and NBCUniversal’s TV apps will not be going dark on Roku after all.\r\nRoku and NBCU reached a deal Friday afternoon … [+3015 chars]",
-         "publishedAt" : "2020-09-18T21:58:00Z",
-         "title" : "Roku and NBCUniversal Reach Deal for Peacock, Renew Agreement for NBC TV Apps - Variety",
-         "description" : "Peacock will finally be taking flight on Roku devices, after months of wrangling — and NBCUniversal’s TV apps will not be going dark on Roku after all. Roku and NBCU reached a deal Friday afternoon that will provide access to the Peacock streaming app on the …"
+         "title" : "Roku and NBCUniversal Reach Deal for Peacock, Renew Agreement for NBC TV Apps - Variety"
       }
    ],
-   "totalResults" : 70,
    "status" : "ok"
 }
