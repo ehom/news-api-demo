@@ -1,266 +1,266 @@
 {
-   "status" : "ok",
-   "totalResults" : 70,
    "articles" : [
       {
-         "url" : "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9NmNsM0wyM0NzOGvSAQA?oc=5",
-         "title" : "Jim Cramer previews corporate earnings reports for the trading week of Sept. 21 - CNBC Television",
+         "url" : "https://thehill.com/blogs/blog-briefing-room/news/517163-programming-error-overpaid-thousands-of-unemployed-louisianans",
+         "urlToImage" : "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB19bS2A.img?h=315&w=600&m=6&q=60&o=t&l=f&f=jpg&x=237&y=208",
+         "publishedAt" : "2020-09-19T01:41:00Z",
          "author" : null,
+         "content" : "© Getty Images\r\n Programming error overpaid thousands of unemployed Louisianans\r\nThe Louisiana government admitted this week that a technical issue caused thousands of out-of-work residents to receiv… [+1059 chars]",
+         "title" : "Programming error overpaid thousands of unemployed Louisianans - msnNOW",
+         "description" : "The Louisiana government admitted this week that a technical issue caused thousands of out-of-work residents to receive notices informing them they’d been overpaid in unemployment benefits and had to return the money to Baton Rouge.",
          "source" : {
-            "id" : "google-news",
-            "name" : "Google News"
-         },
-         "publishedAt" : "2020-09-18T23:48:13Z",
-         "description" : null,
-         "content" : null,
-         "urlToImage" : null
-      },
-      {
-         "title" : "Just 51% of Americans would get coronavirus vaccine right now - Fox News",
-         "url" : "https://www.foxnews.com/us/just-half-of-americans-would-get-coronavirus-vaccine",
-         "author" : "Paul Best",
-         "source" : {
-            "id" : "fox-news",
-            "name" : "Fox News"
-         },
-         "publishedAt" : "2020-09-18T23:19:56Z",
-         "description" : "Americans are divided on the forthcoming coronavirus vaccine as just 51% say they would get vaccinated for the disease if a vaccine was available today, according to a Pew Research Center poll.",
-         "content" : "Americans are divided on the forthcoming coronavirus vaccine as just 51% say they would get vaccinated for the disease if a vaccine was available today, according to a Pew Research Center poll.\r\nThat… [+2268 chars]",
-         "urlToImage" : "https://static.foxnews.com/foxnews.com/content/uploads/2020/07/iStock-1205972800-3.jpg"
-      },
-      {
-         "urlToImage" : "https://static.foxnews.com/foxnews.com/content/uploads/2020/07/iStock-1143980347.jpg",
-         "content" : "Michelob Ultra is paying big bucks to send someone to explore national parks.\r\nThe beer brand recently announced it is hiring a new “CEO” -- a chief exploration officer.\r\nThe “CEO” will travel for si… [+1812 chars]",
-         "publishedAt" : "2020-09-18T23:12:12Z",
-         "description" : "Michelob Ultra recently announced it will be hiring a new ‘chief exploration officer’ to travel for six months in a camper van for $50,000.",
-         "source" : {
-            "id" : "fox-news",
-            "name" : "Fox News"
-         },
-         "author" : "Ann Schmidt",
-         "title" : "Michelob Ultra hiring ‘chief exploration officer’ to visit national parks - Fox News",
-         "url" : "https://www.foxnews.com/travel/michelob-ultra-hiring-chief-exploration-officer"
-      },
-      {
-         "description" : "The TikTok video has nearly 3 million views since it was posted earlier this month.",
-         "publishedAt" : "2020-09-18T22:52:23Z",
-         "content" : "Old habits die hard.\r\nA former Dairy Queen employee has gone viral on TikTok for forgetting where she was working while she was serving a customer their drink earlier this month.\r\nDAIRY QUEEN GETS TR… [+1424 chars]",
-         "urlToImage" : "https://static.foxnews.com/foxnews.com/content/uploads/2020/02/Whataburger-iStock.jpg",
-         "title" : "Whataburger employee shocks customer by flipping over order, but has a good excuse - Fox News",
-         "url" : "https://www.foxnews.com/food-drink/whataburger-employee-shocks-customer-flipping-order",
-         "author" : "Alexandra Deabler",
-         "source" : {
-            "id" : "fox-news",
-            "name" : "Fox News"
+            "name" : "The Hill",
+            "id" : "the-hill"
          }
       },
       {
+         "publishedAt" : "2020-09-19T01:06:12Z",
+         "url" : "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9LXJ1dlNiNWJOVmPSAQA?oc=5",
          "urlToImage" : null,
-         "content" : null,
-         "description" : null,
-         "publishedAt" : "2020-09-18T22:19:58Z",
+         "title" : "TikTok and WeChat ban takes effect this weekend - ABC News",
          "source" : {
             "name" : "Google News",
             "id" : "google-news"
          },
+         "description" : null,
          "author" : null,
-         "title" : "TikTok, WeChat ban explained - CNET",
-         "url" : "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9NkRyRnZlUzVNWFXSAQA?oc=5"
+         "content" : null
       },
       {
-         "urlToImage" : "https://cdn.vox-cdn.com/thumbor/OcQ3rzQ6yS9Z3C4jnnHmMDXsjr0=/0x21:692x383/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/21894520/apple_new_india_online_duckworth_09172020_big.jpg.medium.jpg",
-         "description" : "Apple will launch its online store in India on September 23rd, the company announced Thursday, giving customers in India a way to buy Apple products directly from the company for the first time. India has become an increasingly important market for the iPhone…",
-         "publishedAt" : "2020-09-18T22:10:25Z",
-         "content" : "It will be Apples first direct retail channel in India\r\nImage: Apple\r\nApple will launch its online store in India on September 23rd, giving customers in India a way to buy Apple products directly fro… [+1356 chars]",
-         "author" : "Jay Peters",
+         "publishedAt" : "2020-09-18T23:19:56Z",
+         "urlToImage" : "https://static.foxnews.com/foxnews.com/content/uploads/2020/07/iStock-1205972800-3.jpg",
+         "url" : "https://www.foxnews.com/us/just-half-of-americans-would-get-coronavirus-vaccine",
+         "description" : "Americans are divided on the forthcoming coronavirus vaccine as just 51% say they would get vaccinated for the disease if a vaccine was available today, according to a Pew Research Center poll.",
          "source" : {
-            "id" : "the-verge",
-            "name" : "The Verge"
+            "name" : "Fox News",
+            "id" : "fox-news"
          },
-         "title" : "Apple will launch its online store in India on September 23rd - The Verge",
-         "url" : "https://www.theverge.com/2020/9/18/21446056/apple-india-launch-online-store-september-23rd"
+         "title" : "Just 51% of Americans would get coronavirus vaccine right now - Fox News",
+         "content" : "Americans are divided on the forthcoming coronavirus vaccine as just 51% say they would get vaccinated for the disease if a vaccine was available today, according to a Pew Research Center poll.\r\nThat… [+2268 chars]",
+         "author" : "Paul Best"
       },
       {
-         "description" : "These flights to nowhere are high priced and arrive back at the same airport -- and they have aroused concern from environmentalists.",
-         "publishedAt" : "2020-09-18T21:59:42Z",
-         "content" : "After a final flight over the Australian capital, Qantas farewelled its fleet of Boeing 747-400 aircraft.\r\nStoryful\r\nFor those who can't wait to get back to the skies, some airlines have started sche… [+3085 chars]",
-         "urlToImage" : "https://www.gannett-cdn.com/presto/2019/09/10/USAT/433a6a55-0a29-4c14-a53c-c437623a7813-Qantas_Dreamliner.jpg?crop=1799,1012,x0,y91&width=1600&height=800&fit=bounds",
-         "url" : "https://www.usatoday.com/story/travel/airline-news/2020/09/18/qantas-eva-ana-offer-sightseeing-flights-despite-covid-19-pandemic/5827916002/",
-         "title" : "Flight to nowhere? Qantas, EVA and ANA offer sightseeing trips to pandemic-weary passengers - USA TODAY",
+         "url" : "https://www.foxnews.com/travel/michelob-ultra-hiring-chief-exploration-officer",
+         "urlToImage" : "https://static.foxnews.com/foxnews.com/content/uploads/2020/07/iStock-1143980347.jpg",
+         "publishedAt" : "2020-09-18T23:12:12Z",
+         "author" : "Ann Schmidt",
+         "content" : "Michelob Ultra is paying big bucks to send someone to explore national parks.\r\nThe beer brand recently announced it is hiring a new “CEO” -- a chief exploration officer.\r\nThe “CEO” will travel for si… [+1812 chars]",
+         "title" : "Michelob Ultra hiring ‘chief exploration officer’ to visit national parks - Fox News",
+         "source" : {
+            "name" : "Fox News",
+            "id" : "fox-news"
+         },
+         "description" : "Michelob Ultra recently announced it will be hiring a new ‘chief exploration officer’ to travel for six months in a camper van for $50,000."
+      },
+      {
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/100573780-1600463027517-GettyImages-102087404r.jpg?v=1600463102",
+         "url" : "https://www.cnbc.com/2020/09/18/jim-cramer-reacts-to-unity-stock-market-debut-patience-is-a-virtue.html",
+         "publishedAt" : "2020-09-18T23:01:00Z",
+         "content" : "Unity Software began trading on public markets on Friday, and CNBC's Jim Cramer advised investors to follow the same buying strategy he laid out for the debuts of other companies earlier this week.\r\n… [+2651 chars]",
+         "author" : "Tyler Clifford",
+         "description" : "\"Like all the other red-hot IPOs we've seen this week, you need to let Unity cool down before you even think about touching it,\" the \"Mad Money\" host said.",
+         "source" : {
+            "id" : null,
+            "name" : "CNBC"
+         },
+         "title" : "Jim Cramer reacts to Unity stock market debut: 'Patience is a virtue' - CNBC"
+      },
+      {
+         "publishedAt" : "2020-09-18T22:52:23Z",
+         "url" : "https://www.foxnews.com/food-drink/whataburger-employee-shocks-customer-flipping-order",
+         "urlToImage" : "https://static.foxnews.com/foxnews.com/content/uploads/2020/02/Whataburger-iStock.jpg",
+         "title" : "Whataburger employee shocks customer by flipping over order, but has a good excuse - Fox News",
+         "source" : {
+            "name" : "Fox News",
+            "id" : "fox-news"
+         },
+         "description" : "The TikTok video has nearly 3 million views since it was posted earlier this month.",
+         "author" : "Alexandra Deabler",
+         "content" : "Old habits die hard.\r\nA former Dairy Queen employee has gone viral on TikTok for forgetting where she was working while she was serving a customer their drink earlier this month.\r\nDAIRY QUEEN GETS TR… [+1424 chars]"
+      },
+      {
+         "urlToImage" : null,
+         "url" : "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9NkRyRnZlUzVNWFXSAQA?oc=5",
+         "publishedAt" : "2020-09-18T22:19:58Z",
+         "content" : null,
+         "author" : null,
+         "source" : {
+            "name" : "Google News",
+            "id" : "google-news"
+         },
+         "description" : null,
+         "title" : "TikTok, WeChat ban explained - CNET"
+      },
+      {
+         "publishedAt" : "2020-09-18T22:10:25Z",
+         "urlToImage" : "https://cdn.vox-cdn.com/thumbor/OcQ3rzQ6yS9Z3C4jnnHmMDXsjr0=/0x21:692x383/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/21894520/apple_new_india_online_duckworth_09172020_big.jpg.medium.jpg",
+         "url" : "https://www.theverge.com/2020/9/18/21446056/apple-india-launch-online-store-september-23rd",
+         "source" : {
+            "name" : "The Verge",
+            "id" : "the-verge"
+         },
+         "description" : "Apple will launch its online store in India on September 23rd, the company announced Thursday, giving customers in India a way to buy Apple products directly from the company for the first time. India has become an increasingly important market for the iPhone…",
+         "title" : "Apple will launch its online store in India on September 23rd - The Verge",
+         "content" : "It will be Apples first direct retail channel in India\r\nImage: Apple\r\nApple will launch its online store in India on September 23rd, giving customers in India a way to buy Apple products directly fro… [+1356 chars]",
+         "author" : "Jay Peters"
+      },
+      {
          "author" : "Chris Woodyard",
+         "content" : "After a final flight over the Australian capital, Qantas farewelled its fleet of Boeing 747-400 aircraft.\r\nStoryful\r\nFor those who can't wait to get back to the skies, some airlines have started sche… [+3085 chars]",
+         "title" : "Flight to nowhere? Qantas, EVA and ANA offer sightseeing trips to pandemic-weary passengers - USA TODAY",
          "source" : {
             "name" : "USA Today",
             "id" : "usa-today"
-         }
+         },
+         "description" : "These flights to nowhere are high priced and arrive back at the same airport -- and they have aroused concern from environmentalists.",
+         "url" : "https://www.usatoday.com/story/travel/airline-news/2020/09/18/qantas-eva-ana-offer-sightseeing-flights-despite-covid-19-pandemic/5827916002/",
+         "urlToImage" : "https://www.gannett-cdn.com/presto/2019/09/10/USAT/433a6a55-0a29-4c14-a53c-c437623a7813-Qantas_Dreamliner.jpg?crop=1799,1012,x0,y91&width=1600&height=800&fit=bounds",
+         "publishedAt" : "2020-09-18T21:59:42Z"
       },
       {
-         "author" : "Todd Spangler",
-         "source" : {
-            "name" : "Variety",
-            "id" : null
-         },
-         "title" : "Roku and NBCUniversal Reach Deal for Peacock, Renew Agreement for NBC TV Apps - Variety",
          "url" : "https://variety.com/2020/digital/news/roku-nbcuniversal-peacock-deal-nbc-tv-apps-1234775220/",
          "urlToImage" : "https://pmcvariety.files.wordpress.com/2020/09/peacock-nbcuniversal.png?w=1024",
          "publishedAt" : "2020-09-18T21:58:00Z",
+         "author" : "Todd Spangler",
+         "content" : "Peacock will finally be taking flight on Roku devices, after months of wrangling — and NBCUniversal’s TV apps will not be going dark on Roku after all.\r\nRoku and NBCU reached a deal Friday afternoon … [+3015 chars]",
+         "title" : "Roku and NBCUniversal Reach Deal for Peacock, Renew Agreement for NBC TV Apps - Variety",
          "description" : "Peacock will finally be taking flight on Roku devices, after months of wrangling — and NBCUniversal’s TV apps will not be going dark on Roku after all. Roku and NBCU reached a deal Friday afternoon that will provide access to the Peacock streaming app on the …",
-         "content" : "Peacock will finally be taking flight on Roku devices, after months of wrangling — and NBCUniversal’s TV apps will not be going dark on Roku after all.\r\nRoku and NBCU reached a deal Friday afternoon … [+3015 chars]"
+         "source" : {
+            "id" : null,
+            "name" : "Variety"
+         }
       },
       {
-         "content" : "Demand for Snowflake (SNOW) shares was high when it went public on the New York Stock Exchange on 09/16/2020, but that does not mean that a prospective long-term investor should get caught up in the … [+6821 chars]",
          "publishedAt" : "2020-09-18T21:58:00Z",
-         "description" : "Snowflake saw its share price surge when it went public. Its competitive factors do not make it a strong contender long term, especially in the face of Alphabet, Amazon, and Microsoft.",
-         "urlToImage" : "https://static1.seekingalpha.com/uploads/2020/9/18/saupload_106405967-15825476788691u8a3338.jpg",
          "url" : "https://seekingalpha.com/article/4375251-snowflake-may-melt-your-eyes",
+         "urlToImage" : "https://static1.seekingalpha.com/uploads/2020/9/18/saupload_106405967-15825476788691u8a3338.jpg",
          "title" : "Snowflake May Melt Before Your Eyes - Seeking Alpha",
          "source" : {
-            "name" : "Seeking Alpha",
+            "id" : null,
+            "name" : "Seeking Alpha"
+         },
+         "description" : "Snowflake saw its share price surge when it went public. Its competitive factors do not make it a strong contender long term, especially in the face of Alphabet, Amazon, and Microsoft.",
+         "author" : "Cash-Centered Creep",
+         "content" : "Demand for Snowflake (SNOW) shares was high when it went public on the New York Stock Exchange on 09/16/2020, but that does not mean that a prospective long-term investor should get caught up in the … [+6821 chars]"
+      },
+      {
+         "source" : {
+            "name" : "Mortgage News Daily",
             "id" : null
          },
-         "author" : "Cash-Centered Creep"
+         "description" : "Mortgage rates are most influenced by the bond market and the bond market is most influenced by the Federal Reserve (aka \"The Fed\"). So when the Fed says it expects rates to be \"zero\" at least until the end of 2023, does the same go for mortgage rates? That...",
+         "title" : "Here's What The Fed's 0% Rate Outlook Means For Mortgages and Housing - Mortgage News Daily",
+         "content" : "Mortgage rates are most influenced by the bond market and the bond market is most influenced by the Federal Reserve (aka \"The Fed\").  So when the Fed says it expects rates to be \"zero\" at least until… [+4803 chars]",
+         "author" : null,
+         "publishedAt" : "2020-09-18T21:49:46Z",
+         "urlToImage" : "http://www.mortgagenewsdaily.com/utility/images/mnd_social_share_logo.jpg",
+         "url" : "http://www.mortgagenewsdaily.com/consumer_rates/955014.aspx"
       },
       {
+         "url" : "https://www.businessinsider.com/bill-gates-says-cant-confuse-elon-musk-with-steve-jobs-2020-9",
          "urlToImage" : "https://i.insider.com/5ee0985e2618b93bfd32e5c6?width=1200&format=jpeg",
          "publishedAt" : "2020-09-18T21:27:49Z",
-         "description" : "\"Elon's more of a hands-on engineer; Steve was a genius at design and picking people and marketing.\"",
-         "content" : null,
          "author" : "Taylor Nicole Rogers",
+         "content" : null,
+         "title" : "Bill Gates says Elon Musk couldn't be confused with Steve Jobs - Business Insider - Business Insider",
          "source" : {
-            "name" : "Business Insider",
-            "id" : "business-insider"
+            "id" : "business-insider",
+            "name" : "Business Insider"
          },
-         "url" : "https://www.businessinsider.com/bill-gates-says-cant-confuse-elon-musk-with-steve-jobs-2020-9",
-         "title" : "Bill Gates says Elon Musk couldn't be confused with Steve Jobs - Business Insider - Business Insider"
+         "description" : "\"Elon's more of a hands-on engineer; Steve was a genius at design and picking people and marketing.\""
       },
       {
+         "url" : "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9SnJESmlNaGZJTmPSAQA?oc=5",
+         "urlToImage" : null,
+         "publishedAt" : "2020-09-18T21:03:12Z",
+         "author" : null,
+         "content" : null,
+         "title" : "It's likely we'll have Covid-19 vaccine towards the end of second quarter 2021: Fmr. FDA chief - CNBC Television",
+         "source" : {
+            "id" : "google-news",
+            "name" : "Google News"
+         },
+         "description" : null
+      },
+      {
+         "urlToImage" : "https://cbsnews2.cbsistatic.com/hub/i/r/2020/04/30/1f28879d-c623-4215-92f9-6a358c97dd1f/thumbnail/1200x630/ba634c053af7de20eb08b439972b7f25/2020-04-22t000000z-818107154-rc2m9g9c5pxy-rtrmadp-3-health-coronavirus-france-amazon.jpg",
+         "url" : "https://www.cbsnews.com/news/amazon-marketplace-fraud-scheme-six-indicted/",
+         "publishedAt" : "2020-09-18T20:54:00Z",
+         "content" : "Six people allegedly conspired to bribe Amazon employees and contractors in order to gain a competitive advantage on the retailer's marketplace, federal prosecutors announced Friday. \r\nAccording to t… [+2891 chars]",
          "author" : "Khristopher J. Brooks",
          "source" : {
             "id" : "cbs-news",
             "name" : "CBS News"
          },
-         "url" : "https://www.cbsnews.com/news/amazon-marketplace-fraud-scheme-six-indicted/",
-         "title" : "Feds charge 6 people with bribing Amazon employees to gain edge on marketplace - CBS News",
-         "urlToImage" : "https://cbsnews2.cbsistatic.com/hub/i/r/2020/04/30/1f28879d-c623-4215-92f9-6a358c97dd1f/thumbnail/1200x630/ba634c053af7de20eb08b439972b7f25/2020-04-22t000000z-818107154-rc2m9g9c5pxy-rtrmadp-3-health-coronavirus-france-amazon.jpg",
-         "publishedAt" : "2020-09-18T20:54:00Z",
          "description" : "Suspects allegedly paid employees at the ecommerce giant to help some third-party sellers gain \"unfair advantages.\"",
-         "content" : "Six people allegedly conspired to bribe Amazon employees and contractors in order to gain a competitive advantage on the retailer's marketplace, federal prosecutors announced Friday. \r\nAccording to t… [+2891 chars]"
+         "title" : "Feds charge 6 people with bribing Amazon employees to gain edge on marketplace - CBS News"
       },
       {
-         "description" : "Tesla's long-awaited battery day is finally happening on Tuesday, September 22nd. We explain were to best view the livestream from.",
-         "publishedAt" : "2020-09-18T20:41:52Z",
-         "content" : "We know you won't want to miss Tesla's long-awaited Battery Day event, so we wanted to make sure our readers knew how to watch it. Unlike many other livestream events, Tesla usually doesn't allow oth… [+2047 chars]",
-         "urlToImage" : "https://cdn.motor1.com/images/mgl/rv396/s1/tesla-battery.jpg",
-         "url" : "https://insideevs.com/news/444738/watch-tesla-battery-day-livestream/",
-         "title" : "How To Watch The Tesla Battery Day Livestream - InsideEVs ",
-         "author" : "Tom Moloughney",
          "source" : {
-            "name" : "InsideEVs ",
-            "id" : null
-         }
+            "id" : null,
+            "name" : "InsideEVs "
+         },
+         "description" : "Tesla's long-awaited battery day is finally happening on Tuesday, September 22nd. We explain were to best view the livestream from.",
+         "title" : "How To Watch The Tesla Battery Day Livestream - InsideEVs ",
+         "content" : "We know you won't want to miss Tesla's long-awaited Battery Day event, so we wanted to make sure our readers knew how to watch it. Unlike many other livestream events, Tesla usually doesn't allow oth… [+2047 chars]",
+         "author" : "Tom Moloughney",
+         "publishedAt" : "2020-09-18T20:41:52Z",
+         "urlToImage" : "https://cdn.motor1.com/images/mgl/rv396/s1/tesla-battery.jpg",
+         "url" : "https://insideevs.com/news/444738/watch-tesla-battery-day-livestream/"
       },
       {
+         "content" : "Minneapolis Fed President Neel Kashkari on Friday decried the U.S. financial system as absurd because it has needed a central bank bailout twice in less than 20 years.In March when it became clear th… [+2314 chars]",
          "author" : "Greg Robb",
          "source" : {
             "id" : null,
             "name" : "MarketWatch"
          },
-         "title" : "Fed’s Kashkari decries ‘absurd’ U.S. financial system that needs bailout every 10 years - MarketWatch",
-         "url" : "https://www.marketwatch.com/story/feds-kashkari-decries-absurd-us-financial-system-that-needs-bailout-every-10-years-2020-09-18",
-         "urlToImage" : "https://s.marketwatch.com/public/resources/images/MW-IO811_kashka_ZG_20200918153705.jpg",
-         "publishedAt" : "2020-09-18T20:34:00Z",
          "description" : "‘How can it possibly be this fragile?’ Minneapolis Fed President asks",
-         "content" : "Minneapolis Fed President Neel Kashkari on Friday decried the U.S. financial system as absurd because it has needed a central bank bailout twice in less than 20 years.In March when it became clear th… [+2314 chars]"
+         "title" : "Fed’s Kashkari decries ‘absurd’ U.S. financial system that needs bailout every 10 years - MarketWatch",
+         "urlToImage" : "https://s.marketwatch.com/public/resources/images/MW-IO811_kashka_ZG_20200918153705.jpg",
+         "url" : "https://www.marketwatch.com/story/feds-kashkari-decries-absurd-us-financial-system-that-needs-bailout-every-10-years-2020-09-18",
+         "publishedAt" : "2020-09-18T20:34:00Z"
       },
       {
+         "urlToImage" : "https://g.foolcdn.com/editorial/images/592237/a-man-working-on-a-tablet-producing-a-cloud-computing-image-and-various-graphs.jpg",
+         "url" : "https://www.fool.com/investing/2020/09/18/unity-software-caps-off-a-week-of-blockbuster-ipos/",
+         "publishedAt" : "2020-09-18T20:33:00Z",
+         "content" : "Unity Software(NYSE:U) made its public debut on Friday, the latest in a string of high-profile initial public offerings (IPO) this week involving tech companies. The stock initially jumped more than … [+4478 chars]",
+         "author" : "Danny Vena",
+         "description" : "IPO fever had investors in its grip this week, leading to several fledgling companies having dynamite debuts.",
          "source" : {
             "name" : "Motley Fool",
             "id" : null
          },
-         "author" : "Danny Vena",
-         "url" : "https://www.fool.com/investing/2020/09/18/unity-software-caps-off-a-week-of-blockbuster-ipos/",
-         "title" : "Unity Software Caps Off a Week of Blockbuster IPOs - Motley Fool",
-         "urlToImage" : "https://g.foolcdn.com/editorial/images/592237/a-man-working-on-a-tablet-producing-a-cloud-computing-image-and-various-graphs.jpg",
-         "content" : "Unity Software(NYSE:U) made its public debut on Friday, the latest in a string of high-profile initial public offerings (IPO) this week involving tech companies. The stock initially jumped more than … [+4478 chars]",
-         "publishedAt" : "2020-09-18T20:33:00Z",
-         "description" : "IPO fever had investors in its grip this week, leading to several fledgling companies having dynamite debuts."
+         "title" : "Unity Software Caps Off a Week of Blockbuster IPOs - Motley Fool"
       },
       {
-         "urlToImage" : "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-09%2Fa942e7f0-f9e6-11ea-bd7b-1e6061093c9f&client=amp-blogside-v2&signature=e917a750d7b0287d3e55d5f0d9e219d583f55f5c",
-         "description" : "The 2019 Model S was spotted speeding on a Canadian highway with both front seats \"completely reclined.\"",
          "publishedAt" : "2020-09-18T20:28:29Z",
-         "content" : "It's unclear how the Model S driver misused Autopilot in the way that they did. The incident occurred before Tesla updated the system to give it the ability to detect speed limit signs using a vehicl… [+1097 chars]",
-         "author" : "",
+         "urlToImage" : "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-09%2Fa942e7f0-f9e6-11ea-bd7b-1e6061093c9f&client=amp-blogside-v2&signature=e917a750d7b0287d3e55d5f0d9e219d583f55f5c",
+         "url" : "https://www.engadget.com/tesla-autopilot-rcmp-speeding-195140837.html",
+         "description" : "The 2019 Model S was spotted speeding on a Canadian highway with both front seats \"completely reclined.\"",
          "source" : {
             "id" : "engadget",
             "name" : "Engadget"
          },
-         "url" : "https://www.engadget.com/tesla-autopilot-rcmp-speeding-195140837.html",
-         "title" : "Canadian police charged a Tesla owner for sleeping while driving - Engadget"
+         "title" : "Canadian police charged a Tesla owner for sleeping while driving - Engadget",
+         "content" : "It's unclear how the Model S driver misused Autopilot in the way that they did. The incident occurred before Tesla updated the system to give it the ability to detect speed limit signs using a vehicl… [+1097 chars]",
+         "author" : ""
       },
       {
-         "urlToImage" : "https://images.mktw.net/im-215085/social",
-         "content" : "Shares of Netflix Inc. \r\n NFLX, \r\n -0.05%\r\nslipped 0.05% to $469.96 Friday, on what proved to be an all-around rough trading session for the stock market, with the S&amp;P 500 Index \r\n SPX, \r\n -1.11%… [+817 chars]",
-         "publishedAt" : "2020-09-18T20:25:00Z",
-         "description" : "",
+         "content" : "English coronavirus patients George Gilbert, 85, and his wife, Domneva Gilbert, 84, were part of a clinical trial that included Eli Lilly &amp; Co.'s baricitinib.\r\nKirsty Wigglesworth/AP\r\nIf the coro… [+6278 chars]",
+         "author" : "",
          "source" : {
-            "name" : "MarketWatch",
+            "name" : "NPR",
             "id" : null
          },
-         "author" : "MarketWatch Automation",
-         "url" : "https://www.marketwatch.com/story/netflix-inc-stock-outperforms-competitors-despite-losses-on-the-day-01600460723",
-         "title" : "Netflix Inc. stock outperforms competitors despite losses on the day - MarketWatch"
-      },
-      {
-         "title" : "3 Northeast Ohio bars among those cited overnight for violating coronavirus orders - WJW FOX 8 News Cleveland",
-         "url" : "https://fox8.com/news/coronavirus/3-northeast-ohio-bars-among-those-cited-overnight-for-violating-coronavirus-orders/",
-         "author" : "Natasha Anderson",
-         "source" : {
-            "name" : "fox8.com",
-            "id" : null
-         },
-         "publishedAt" : "2020-09-18T19:57:00Z",
-         "description" : "CLEVELAND (WJW) — Three Northeast Ohio bars were cited overnight for violating Ohio Department of Health orders aimed at reducing the spread of COVID-19, as were four other establishments across the state. According to authorities, the local citations occurre…",
-         "content" : "CLEVELAND (WJW) — Three Northeast Ohio bars were cited overnight for violating Ohio Department of Health orders aimed at reducing the spread of COVID-19, as were four other establishments across the … [+3192 chars]",
-         "urlToImage" : "https://fox8.com/wp-content/uploads/sites/12/2020/08/GettyImages-1203481068-e1598064334816.jpg?w=1280"
-      },
-      {
-         "publishedAt" : "2020-09-18T19:45:00Z",
-         "description" : "Libya Action Pauses Oil Rally After Weekly Gain of 10%",
-         "content" : "By Barani Krishnan\r\nInvesting.com - Make my day, Saudi Energy Minister Abdulaziz bin Salman told oil bears Thursday, daring them to bet against higher crude prices. Renegade Libyan general Khalifa Ha… [+2460 chars]",
-         "urlToImage" : "https://i-invdn-com.akamaized.net/news/LYNXNPEAB10O6_L.jpg",
-         "url" : "https://www.investing.com/news/commodities-news/libya-action-pauses-oil-rally-after-weekly-gain-of-10-2300657",
-         "title" : "Libya Action Pauses Oil Rally After Weekly Gain of 10% - Investing.com",
-         "author" : null,
-         "source" : {
-            "id" : null,
-            "name" : "Investing.com"
-         }
-      },
-      {
-         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200909094021-01-grand-teton-mall-idaho-falls-sears-super-tease.jpeg",
-         "content" : null,
-         "description" : "With mall vacancies accelerating amid a surge in online shopping, landlords are quickly looking for other ways to reuse the empty space.",
-         "publishedAt" : "2020-09-18T19:27:00Z",
-         "source" : {
-            "name" : "CNN",
-            "id" : "cnn"
-         },
-         "author" : "Parija Kavilanz, CNN Business",
-         "title" : "You might be surprised who's moving into those sad, abandoned malls - CNN",
-         "url" : "https://www.cnn.com/2020/09/18/business/malls-repurpose-empty-stores/index.html"
-      },
-      {
-         "publishedAt" : "2020-09-18T19:01:13Z",
-         "description" : "The CEO of publicly traded MicroStrategy (MSTR) shares why he started to feel like he was “sitting on a 500-lb block of ice” and how he came to bitcoin as a solution.",
-         "content" : "The CEO of publicly traded MicroStrategy (MSTR) shares why he started to feel like he was sitting on a 500-lb block of ice and how he came to bitcoin as a solution.\r\nFor more episodes and free early … [+1361 chars]",
-         "urlToImage" : "https://static.coindesk.com/wp-content/uploads/2020/09/Breakdown-9.18.jpg",
-         "title" : "‘I Didn’t Buy It to Sell It. Ever.’ MicroStrategy CEO on buying $425M of BTC - CoinDesk - Coindesk",
-         "url" : "https://www.coindesk.com/microstrategy-michael-saylor-never-sell-bitcoin",
-         "author" : "Nathaniel Whittemore",
-         "source" : {
-            "id" : null,
-            "name" : "CoinDesk"
-         }
+         "description" : "Drugs are being tested that could reduce symptoms and save lives. But, given the way drugs are developed, it's unlikely that any single medicine will be anywhere as potent as a successful vaccine.",
+         "title" : "New Drugs For COVID-19 In The Works : Shots - Health News - NPR",
+         "urlToImage" : "https://media.npr.org/assets/img/2020/09/18/drugtrial_ap_20142585422690_wide-917d8de9fe5c9e6c2066587f9e2ca11ca2698cd2.jpg?s=1400",
+         "url" : "https://www.npr.org/sections/health-shots/2020/09/18/914528227/experimental-medicines-for-covid-19-could-help-someday-but-home-runs-not-guarant",
+         "publishedAt" : "2020-09-18T20:22:36Z"
       }
-   ]
+   ],
+   "totalResults" : 70,
+   "status" : "ok"
 }
