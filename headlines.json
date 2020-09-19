@@ -2,126 +2,123 @@
    "totalResults" : 70,
    "articles" : [
       {
-         "urlToImage" : null,
-         "content" : null,
-         "title" : "Elon Musk on Battery Cost: Iron Alleviates The Problem - Torque News",
-         "url" : "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9ZGFqN0hHT2huVFXSAQA?oc=5",
-         "author" : null,
-         "publishedAt" : "2020-09-19T18:57:58Z",
          "description" : null,
+         "author" : null,
+         "url" : "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9ZGFqN0hHT2huVFXSAQA?oc=5",
+         "title" : "Elon Musk on Battery Cost: Iron Alleviates The Problem - Torque News",
+         "urlToImage" : null,
          "source" : {
-            "id" : "google-news",
-            "name" : "Google News"
-         }
+            "name" : "Google News",
+            "id" : "google-news"
+         },
+         "publishedAt" : "2020-09-19T18:57:58Z",
+         "content" : null
       },
       {
          "description" : "Dow Jones futures: The stock market rally is hanging on but bears are landing the punches. Here's what investors should do. Tesla Battery Day is on tap.",
-         "publishedAt" : "2020-09-19T17:40:00Z",
+         "author" : "Investor's Business Daily",
+         "url" : "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-stock-market-rally-fighting-tesla-battery-day/",
+         "title" : "Dow Jones Futures: Stock Market Rally Still Fighting, But Bears Landing The Punches; Tesla Battery Day Key - Investor's Business Daily",
+         "urlToImage" : "https://www.investors.com/wp-content/uploads/2018/02/stock-bear-night-03-adobe.jpg",
          "source" : {
             "name" : "Investor's Business Daily",
             "id" : null
          },
-         "content" : "Dow Jones futures won't open until Sunday evening, along with S&amp;P 500 futures and Nasdaq futures. The stock market rally suffered another losing week. A negative reversal, undercutting key suppor… [+10136 chars]",
-         "title" : "Dow Jones Futures: Stock Market Rally Still Fighting, But Bears Landing The Punches; Tesla Battery Day Key - Investor's Business Daily",
-         "urlToImage" : "https://www.investors.com/wp-content/uploads/2018/02/stock-bear-night-03-adobe.jpg",
-         "url" : "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-stock-market-rally-fighting-tesla-battery-day/",
-         "author" : "Investor's Business Daily"
+         "publishedAt" : "2020-09-19T17:40:00Z",
+         "content" : "Dow Jones futures won't open until Sunday evening, along with S&amp;P 500 futures and Nasdaq futures. The stock market rally suffered another losing week. A negative reversal, undercutting key suppor… [+10136 chars]"
       },
       {
+         "publishedAt" : "2020-09-19T16:09:00Z",
+         "content" : "Public health experts previously worried that the coronavirus pandemic threatens to make the opioid crisis substantially worse. \r\nAnd data from the Wall Street Journal appears to be validating that c… [+4742 chars]",
          "source" : {
             "name" : "Yahoo Entertainment",
             "id" : null
          },
-         "description" : "Public health experts worried that the pandemic “threatens to make the opioid crisis” substantially worse. Data shows they were right to be concerned.",
-         "publishedAt" : "2020-09-19T16:09:00Z",
+         "title" : "2020 is 'a perfect storm' for substance abuse and 'it's really scary' - Yahoo Finance",
+         "urlToImage" : "https://s.yimg.com/uu/api/res/1.2/XB33og8zWbkDeHBLzBfASQ--~B/aD0zNzQ5O3c9NTYyNDtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2020-09/f9a47cd0-fa91-11ea-9d7b-a69b085c83a6",
          "url" : "https://finance.yahoo.com/news/2020-substance-abuse-pandemic-160934275.html",
          "author" : "Adriana Belmonte",
-         "urlToImage" : "https://s.yimg.com/uu/api/res/1.2/XB33og8zWbkDeHBLzBfASQ--~B/aD0zNzQ5O3c9NTYyNDtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2020-09/f9a47cd0-fa91-11ea-9d7b-a69b085c83a6",
-         "content" : "Public health experts previously worried that the coronavirus pandemic threatens to make the opioid crisis substantially worse. \r\nAnd data from the Wall Street Journal appears to be validating that c… [+4742 chars]",
-         "title" : "2020 is 'a perfect storm' for substance abuse and 'it's really scary' - Yahoo Finance"
+         "description" : "Public health experts worried that the pandemic “threatens to make the opioid crisis” substantially worse. Data shows they were right to be concerned."
       },
       {
-         "content" : "Santa Clara County passed 20,000 COVID-19 cases on Friday, joining Alameda County as the second Bay Area county to reach that somber milestone, while new cases and hospitalizations continued to decre… [+2104 chars]",
-         "title" : "Coronavirus: Santa Clara County passes 20,000 cases amid statewide decline - The Mercury News",
-         "urlToImage" : "https://www.mercurynews.com/wp-content/uploads/2020/05/TEASER_coronavirus_CALIFORNIA_STATE-18-1-2-2-1.jpg?w=1024&h=688",
-         "author" : "Leonardo Castañeda",
-         "url" : "http://www.mercurynews.com/2020/09/19/coronavirus-santa-clara-county-passes-20000-cases-amid-statewide-decline/",
-         "description" : "It becomes the second Bay Area county to cross that milestone",
-         "publishedAt" : "2020-09-19T16:05:00Z",
          "source" : {
             "name" : "The Mercury News",
             "id" : null
-         }
+         },
+         "publishedAt" : "2020-09-19T16:05:00Z",
+         "content" : "Santa Clara County passed 20,000 COVID-19 cases on Friday, joining Alameda County as the second Bay Area county to reach that somber milestone, while new cases and hospitalizations continued to decre… [+2104 chars]",
+         "title" : "Coronavirus: Santa Clara County passes 20,000 cases amid statewide decline - The Mercury News",
+         "urlToImage" : "https://www.mercurynews.com/wp-content/uploads/2020/05/TEASER_coronavirus_CALIFORNIA_STATE-18-1-2-2-1.jpg?w=1024&h=688",
+         "url" : "http://www.mercurynews.com/2020/09/19/coronavirus-santa-clara-county-passes-20000-cases-amid-statewide-decline/",
+         "author" : "Leonardo Castañeda",
+         "description" : "It becomes the second Bay Area county to cross that milestone"
       },
       {
+         "urlToImage" : "https://g.foolcdn.com/editorial/images/592070/social-security-cards-with-hundred-dollar-bills.jpg",
+         "title" : "Here's What It Takes to Collect $3,790 Per Month in Social Security Benefits - The Motley Fool",
          "publishedAt" : "2020-09-19T16:03:00Z",
-         "description" : "If the program is going to be a major source of income in retirement, it pays to maximize your checks.",
+         "content" : "For millions of older Americans, Social Security benefits are a lifeline in retirement. Half of married couples depend on their benefits for at least 50% of their retirement income, and for nearly on… [+3033 chars]",
          "source" : {
             "name" : "Motley Fool",
             "id" : null
          },
-         "content" : "For millions of older Americans, Social Security benefits are a lifeline in retirement. Half of married couples depend on their benefits for at least 50% of their retirement income, and for nearly on… [+3033 chars]",
-         "title" : "Here's What It Takes to Collect $3,790 Per Month in Social Security Benefits - The Motley Fool",
-         "urlToImage" : "https://g.foolcdn.com/editorial/images/592070/social-security-cards-with-hundred-dollar-bills.jpg",
+         "description" : "If the program is going to be a major source of income in retirement, it pays to maximize your checks.",
          "author" : "Katie Brockman",
          "url" : "https://www.fool.com/retirement/2020/09/19/heres-how-collect-3790-per-month-social-security/"
       },
       {
+         "description" : "He’s made his governance intentions clear",
          "author" : "Emilia David",
          "url" : "https://cointelegraph.com/news/yearn-finance-founder-nominates-self-as-uniswap-delegate",
-         "title" : "Yearn Finance founder nominates self as Uniswap delegate - Cointelegraph",
-         "content" : "Yearn Finance founder Andre Cronje puts himself up as a delegate for Uniswap hoping to influence the governance of the protocol.\r\nIn a tweet, Cronje said he will build tooling to facilitate delegatio… [+1844 chars]",
          "urlToImage" : "https://s3.cointelegraph.com/storage/uploads/view/677897dcd2281d546d2f98cf1bcdd7f4.jpg",
+         "title" : "Yearn Finance founder nominates self as Uniswap delegate - Cointelegraph",
          "source" : {
             "id" : null,
             "name" : "Cointelegraph"
          },
-         "description" : "He’s made his governance intentions clear",
-         "publishedAt" : "2020-09-19T16:00:00Z"
+         "publishedAt" : "2020-09-19T16:00:00Z",
+         "content" : "Yearn Finance founder Andre Cronje puts himself up as a delegate for Uniswap hoping to influence the governance of the protocol.\r\nIn a tweet, Cronje said he will build tooling to facilitate delegatio… [+1844 chars]"
       },
       {
+         "title" : "Six Ohio bars cited after not complying with COVID-19 health guidelines Friday night - WJW FOX 8 News Cleveland",
+         "urlToImage" : "https://fox8.com/wp-content/uploads/sites/12/2020/06/GettyImages-555859475.jpg?w=1280",
+         "publishedAt" : "2020-09-19T15:41:00Z",
+         "content" : "COLUMBUS, Ohio (WJW) Last night, six more Ohio bars were found to be in violation of various state health orders, including serving alcohol past 10 p.m. (as seen in the video above), the Ohio Investi… [+1433 chars]",
          "source" : {
-            "name" : "fox8.com",
-            "id" : null
+            "id" : null,
+            "name" : "fox8.com"
          },
          "description" : "Last night, six more Ohio bars were found to be in violation of various state health orders.",
-         "publishedAt" : "2020-09-19T15:41:00Z",
          "author" : "Laura Morrison",
-         "url" : "https://fox8.com/news/coronavirus/six-ohio-bars-cited-after-not-complying-with-covid-19-health-guidelines-friday-night/",
-         "urlToImage" : "https://fox8.com/wp-content/uploads/sites/12/2020/06/GettyImages-555859475.jpg?w=1280",
-         "content" : "COLUMBUS, Ohio (WJW) Last night, six more Ohio bars were found to be in violation of various state health orders, including serving alcohol past 10 p.m. (as seen in the video above), the Ohio Investi… [+1433 chars]",
-         "title" : "Six Ohio bars cited after not complying with COVID-19 health guidelines Friday night - WJW FOX 8 News Cleveland"
+         "url" : "https://fox8.com/news/coronavirus/six-ohio-bars-cited-after-not-complying-with-covid-19-health-guidelines-friday-night/"
       },
       {
-         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/07/0/0/Cyber-crime-amazon-2.png?ve=1&tl=1",
-         "title" : "Six charged with bribing Amazon employees to help third-party sellers - Fox Business",
-         "content" : "A federal grand jury in the state of Washington has indicted six people on charges of bribing Amazon.com employees to gaining advantages for third-party sellers on the retailer's online storefront.\r\n… [+2889 chars]",
          "url" : "https://www.foxbusiness.com/technology/six-charged-in-scheme-to-bribe-amazon-employees-to-help-third-party-sellers",
          "author" : "Julia Musto",
          "description" : "Six people are accused of paying more than $100,000 in bribes to Amazon employees.",
          "publishedAt" : "2020-09-19T15:02:15Z",
          "source" : {
-            "id" : null,
-            "name" : "Fox Business"
-         }
+            "name" : "Fox Business",
+            "id" : null
+         },
+         "content" : "A federal grand jury in the state of Washington has indicted six people on charges of bribing Amazon.com employees to gaining advantages for third-party sellers on the retailer's online storefront.\r\n… [+2889 chars]",
+         "title" : "Six charged with bribing Amazon employees to help third-party sellers - Fox Business",
+         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/07/0/0/Cyber-crime-amazon-2.png?ve=1&tl=1"
       },
       {
          "publishedAt" : "2020-09-19T14:49:00Z",
-         "description" : "Just 25 of the timeless models are being built.",
          "source" : {
-            "id" : "cbs-news",
-            "name" : "CBS News"
+            "name" : "CBS News",
+            "id" : "cbs-news"
          },
-         "urlToImage" : "https://cbsnews1.cbsistatic.com/hub/i/r/2020/09/19/6b9359f7-d31b-41ee-be40-90fc4093325a/thumbnail/1200x630/2dae121aaf6a496990855ff8a1a2315d/cbsn-fusion-james-bonds-aston-martin-is-back-on-the-market-for-35-million-thumbnail-550000-640x360.jpg",
          "content" : "The Aston Martin DB5 that has provided British super spy James Bond with a much-loved iconic car since 1964 is now being faithfully rebuilt for avid collectors — at a price tag of $3.5 million.\r\n\"We'… [+1438 chars]",
          "title" : "James Bond's Aston Martin DB5 is back on the market for $3.5 million - CBS News",
+         "urlToImage" : "https://cbsnews1.cbsistatic.com/hub/i/r/2020/09/19/6b9359f7-d31b-41ee-be40-90fc4093325a/thumbnail/1200x630/2dae121aaf6a496990855ff8a1a2315d/cbsn-fusion-james-bonds-aston-martin-is-back-on-the-market-for-35-million-thumbnail-550000-640x360.jpg",
+         "url" : "https://www.cbsnews.com/news/james-bond-aston-martin-db5-car-back-on-market/",
          "author" : "CBS News",
-         "url" : "https://www.cbsnews.com/news/james-bond-aston-martin-db5-car-back-on-market/"
+         "description" : "Just 25 of the timeless models are being built."
       },
       {
-         "urlToImage" : "https://cdn.mos.cms.futurecdn.net/oS9eNxGSJGW22S8TQh4n2o-1200-80.jpg",
-         "title" : "How Nvidia buying ARM could change mobile tech forever - Tom's Guide",
-         "content" : "Nvidia is buying chip designer giant Arm for $40 billion from its owner SoftBank. In the world of chips thats a big deal, and not just in monetary terms. \r\nArm doesn't make chips instead, it designs … [+11636 chars]",
          "url" : "https://www.tomsguide.com/features/how-nvidia-buying-arm-could-change-mobile-tech-forever",
          "author" : "Roland Moore-Colyer",
          "description" : "Here’s what Nvidia's ARM acquisition means for the tech you know and love",
@@ -129,137 +126,140 @@
          "source" : {
             "name" : "Tom's Guide",
             "id" : null
-         }
+         },
+         "content" : "Nvidia is buying chip designer giant Arm for $40 billion from its owner SoftBank. In the world of chips thats a big deal, and not just in monetary terms. \r\nArm doesn't make chips instead, it designs … [+11636 chars]",
+         "title" : "How Nvidia buying ARM could change mobile tech forever - Tom's Guide",
+         "urlToImage" : "https://cdn.mos.cms.futurecdn.net/oS9eNxGSJGW22S8TQh4n2o-1200-80.jpg"
       },
       {
+         "url" : "https://finance.yahoo.com/news/coronavirus-vaccine-president-trump-timeline-125517983.html",
+         "author" : "Adriana Belmonte",
+         "description" : "President Trump recently claimed a vaccine will be available within a few weeks, but Dr. Ezekiel Emanuel stressed that Trump’s claims are only wishful thinking.",
+         "content" : "The search for an effective coronavirus vaccine is ongoing, with more than 20 companies (and five main U.S. candidates) involved in finding the first and most effective one.\r\nPresident Trump recently… [+6799 chars]",
+         "publishedAt" : "2020-09-19T12:55:00Z",
          "source" : {
             "name" : "Yahoo Entertainment",
             "id" : null
          },
-         "description" : "President Trump recently claimed a vaccine will be available within a few weeks, but Dr. Ezekiel Emanuel stressed that Trump’s claims are only wishful thinking.",
-         "publishedAt" : "2020-09-19T12:55:00Z",
-         "url" : "https://finance.yahoo.com/news/coronavirus-vaccine-president-trump-timeline-125517983.html",
-         "author" : "Adriana Belmonte",
-         "content" : "The search for an effective coronavirus vaccine is ongoing, with more than 20 companies (and five main U.S. candidates) involved in finding the first and most effective one.\r\nPresident Trump recently… [+6799 chars]",
-         "title" : "Coronavirus vaccine doesn't depend on President Trump's rhetoric, doctor explains - Yahoo Finance",
-         "urlToImage" : "https://s.yimg.com/uu/api/res/1.2/SJpllDZqUEMeNNbcMC1aXA--~B/aD00MjA2O3c9NjM0ODtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2020-08/e77c7510-e945-11ea-9f7e-32d1903d9d00"
+         "urlToImage" : "https://s.yimg.com/uu/api/res/1.2/SJpllDZqUEMeNNbcMC1aXA--~B/aD00MjA2O3c9NjM0ODtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2020-08/e77c7510-e945-11ea-9f7e-32d1903d9d00",
+         "title" : "Coronavirus vaccine doesn't depend on President Trump's rhetoric, doctor explains - Yahoo Finance"
       },
       {
          "description" : "September started off rough for fast-food fanatics: Taco Bell announced it was eliminating the beloved Mexican Pizza as well as several other items. It didn't help fans that this was the company's second major menu makeover this summer -- earlier the spicy po…",
+         "author" : "Jordan Valinsky, CNN Business",
+         "url" : "https://www.cnn.com/2020/09/19/business/new-fast-food-september-2020/index.html",
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200915114931-chick-fil-a-new-drinks-super-tease.jpg",
+         "title" : "6 new mouth-watering fast-food items - CNN",
          "publishedAt" : "2020-09-19T12:12:00Z",
          "source" : {
             "name" : "CNN",
             "id" : "cnn"
          },
-         "content" : null,
-         "title" : "6 new mouth-watering fast-food items - CNN",
-         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200915114931-chick-fil-a-new-drinks-super-tease.jpg",
-         "url" : "https://www.cnn.com/2020/09/19/business/new-fast-food-september-2020/index.html",
-         "author" : "Jordan Valinsky, CNN Business"
+         "content" : null
       },
       {
-         "publishedAt" : "2020-09-19T10:17:00Z",
+         "url" : "https://decrypt.co/42365/etherum-fees-double-in-a-week-as-defi-heats-up",
          "description" : "The average fee for transactions on Ethereum has reached its second-highest level ever, after setting the record earlier this month.",
+         "author" : "Alexander Behrens",
          "source" : {
             "name" : "Decrypt",
             "id" : null
          },
-         "title" : "Etherum Fees Double In a Week As DeFi Heats Up - Decrypt",
+         "publishedAt" : "2020-09-19T10:17:00Z",
          "content" : "In brief\r\n<ul><li>The average Ethereum transaction fee rose to more than $11, more than double last weeks figure.</li><li>Daily average fees still havent dipped below $2, continuing a record-breaking… [+2751 chars]",
-         "urlToImage" : "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2020/07/ethereum-transactions-gas-fees-defi-gID_6.jpg",
-         "author" : "Alexander Behrens",
-         "url" : "https://decrypt.co/42365/etherum-fees-double-in-a-week-as-defi-heats-up"
+         "title" : "Etherum Fees Double In a Week As DeFi Heats Up - Decrypt",
+         "urlToImage" : "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2020/07/ethereum-transactions-gas-fees-defi-gID_6.jpg"
       },
       {
-         "author" : "Hugh Robert | Special to The Republican",
-         "url" : "https://www.masslive.com/dining/2020/09/the-big-e-fair-foods-now-available-at-three-spots.html",
-         "title" : "The Big E fair foods now available at three spots - MassLive.com",
-         "content" : "One of the treasured seasonal rituals that the pandemic has denied us is indulgence in state fair food.\r\n In a pre-coronavirus year, midways from Texas to Minnesota would have been crowded with those… [+7421 chars]",
-         "urlToImage" : "https://www.masslive.com/resizer/y3eM0kbC_WvDy2Pj0efkWc_-oR4=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/Z3MR2PCLKFEAHK3D7HVWXYIJVI.jpg",
-         "source" : {
-            "name" : "MassLive.com",
-            "id" : null
-         },
          "publishedAt" : "2020-09-19T09:39:00Z",
+         "content" : "One of the treasured seasonal rituals that the pandemic has denied us is indulgence in state fair food.\r\n In a pre-coronavirus year, midways from Texas to Minnesota would have been crowded with those… [+7421 chars]",
+         "source" : {
+            "id" : null,
+            "name" : "MassLive.com"
+         },
+         "urlToImage" : "https://www.masslive.com/resizer/y3eM0kbC_WvDy2Pj0efkWc_-oR4=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/Z3MR2PCLKFEAHK3D7HVWXYIJVI.jpg",
+         "title" : "The Big E fair foods now available at three spots - MassLive.com",
+         "url" : "https://www.masslive.com/dining/2020/09/the-big-e-fair-foods-now-available-at-three-spots.html",
+         "author" : "Hugh Robert | Special to The Republican",
          "description" : "Just because the Big E’s midway is silent and empty doesn’t necessarily mean that state fair food junkies can’t get their annual fix."
       },
       {
-         "urlToImage" : "https://images.wsj.net/im-234031/social",
-         "title" : "How to Think Long Term With Near-Zero Interest Rates - The Wall Street Journal",
-         "content" : "A long-term environment with superlow interest rates can mean different things to different peoplesometimes multiple things to the same person.\r\nWith the Federal Reserve signaling that benchmark, sho… [+181 chars]",
-         "author" : "Julia Carpenter, Bourree Lam",
          "url" : "https://www.wsj.com/articles/how-to-think-long-term-with-near-zero-interest-rates-11600507800",
          "description" : "America’s savers and borrowers face possibly harder choices than they did in the previous recession",
+         "author" : "Julia Carpenter, Bourree Lam",
          "publishedAt" : "2020-09-19T09:30:00Z",
+         "content" : "A long-term environment with superlow interest rates can mean different things to different peoplesometimes multiple things to the same person.\r\nWith the Federal Reserve signaling that benchmark, sho… [+181 chars]",
          "source" : {
             "name" : "The Wall Street Journal",
             "id" : "the-wall-street-journal"
-         }
+         },
+         "title" : "How to Think Long Term With Near-Zero Interest Rates - The Wall Street Journal",
+         "urlToImage" : "https://images.wsj.net/im-234031/social"
       },
       {
-         "description" : "People who miss flying are rushing to buy tickets for flights that land in the same place they depart from.",
-         "publishedAt" : "2020-09-19T09:13:11Z",
-         "source" : {
-            "name" : "New York Times",
-            "id" : null
-         },
          "urlToImage" : "https://static01.nyt.com/images/2020/09/19/travel/19flighttonowherereplacement/19flighttonowherereplacement-facebookJumbo.png",
          "title" : "The Flight Goes Nowhere. And It’s Sold Out. - The New York Times",
          "content" : "The concept of going on a flight to nowhere isnt appetizing if its the same rushed cattle-being-thrown-in experience it is when youre going on a trip, Mr. Malby-Tynan said. If it changed and felt lik… [+1336 chars]",
+         "source" : {
+            "id" : null,
+            "name" : "New York Times"
+         },
+         "publishedAt" : "2020-09-19T09:13:11Z",
          "author" : "Tariro Mzezewa",
+         "description" : "People who miss flying are rushing to buy tickets for flights that land in the same place they depart from.",
          "url" : "https://www.nytimes.com/2020/09/19/travel/airlines-pandemic-flights-to-nowhere.html"
       },
       {
-         "description" : "The erroneous notices were sent Sept. 9 and 10 to people who applied for benefits on March 29 and 30",
          "publishedAt" : "2020-09-19T08:43:27Z",
          "source" : {
             "id" : null,
             "name" : "Fox Business"
          },
+         "content" : "A programming mistake caused more than 4,000 out-of-work Louisiana residents to get notices saying they’d been overpaid thousands of dollars in unemployment compensation and had to return the money, … [+1473 chars]",
          "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/04/0/0/unemployment-iStock.jpg?ve=1&tl=1",
          "title" : "Thousands told to return unemployment overpayment - Fox Business",
-         "content" : "A programming mistake caused more than 4,000 out-of-work Louisiana residents to get notices saying they’d been overpaid thousands of dollars in unemployment compensation and had to return the money, … [+1473 chars]",
+         "url" : "https://www.foxbusiness.com/markets/thousands-told-to-return-unemployment-overpayment",
          "author" : "Associated Press",
-         "url" : "https://www.foxbusiness.com/markets/thousands-told-to-return-unemployment-overpayment"
+         "description" : "The erroneous notices were sent Sept. 9 and 10 to people who applied for benefits on March 29 and 30"
       },
       {
          "url" : "https://6abc.com/bars-restaurant-owners-gov.-wolf&#x27;s-new-mandate-double-edge-sword/6443428/",
          "author" : "Dann Cuellar",
-         "content" : "PHILADELPHIA (WPVI) -- The hard-hit restaurant and bar business is facing what some are calling a \"double-edged sword\" come Monday.On the one hand, Pennsylvania Governor Tom Wolf is going to allow bu… [+2522 chars]",
-         "title" : "Bars, restaurant owners say Gov. Wolf's new mandate is 'double-edge sword' - WPVI-TV",
-         "urlToImage" : "https://cdn.abcotvs.com/dip/images/6444573_091820-wpvi-dann-bars-restaurant-2-video-vid.jpg?w=1600",
-         "source" : {
-            "name" : "WPVI-TV",
-            "id" : null
-         },
          "description" : "The hard-hit restaurant and bar business is facing what some are calling a \"double-edged sword\" come Monday.",
-         "publishedAt" : "2020-09-19T03:42:29Z"
+         "content" : "PHILADELPHIA (WPVI) -- The hard-hit restaurant and bar business is facing what some are calling a \"double-edged sword\" come Monday.On the one hand, Pennsylvania Governor Tom Wolf is going to allow bu… [+2522 chars]",
+         "publishedAt" : "2020-09-19T03:42:29Z",
+         "source" : {
+            "id" : null,
+            "name" : "WPVI-TV"
+         },
+         "title" : "Bars, restaurant owners say Gov. Wolf's new mandate is 'double-edge sword' - WPVI-TV",
+         "urlToImage" : "https://cdn.abcotvs.com/dip/images/6444573_091820-wpvi-dann-bars-restaurant-2-video-vid.jpg?w=1600"
       },
       {
-         "content" : "Four Bed Bath &amp; Beyond stores in Connecticut are set to close by the end of this year as the company works to optimize its locations.\r\nA spokesperson for Bed Bath &amp; Beyond said the following … [+847 chars]",
-         "title" : "Four Bed Bath & Beyond Stores in Conn. to Close - NBC Connecticut",
-         "urlToImage" : "https://media.nbcconnecticut.com/2020/08/GettyImages-1226032222-1.jpg?resize=1200%2C675",
+         "description" : "Four Bed Bath & Beyond stores in Connecticut are set to close by the end of this year as the company works to optimize its locations. A spokesperson for Bed…",
          "author" : "NBC Connecticut",
          "url" : "https://www.nbcconnecticut.com/news/local/four-bed-bath-beyond-stores-in-conn-to-close/2334559/",
+         "title" : "Four Bed Bath & Beyond Stores in Conn. to Close - NBC Connecticut",
+         "urlToImage" : "https://media.nbcconnecticut.com/2020/08/GettyImages-1226032222-1.jpg?resize=1200%2C675",
          "publishedAt" : "2020-09-19T03:07:00Z",
-         "description" : "Four Bed Bath & Beyond stores in Connecticut are set to close by the end of this year as the company works to optimize its locations. A spokesperson for Bed…",
          "source" : {
             "name" : "NBC Connecticut",
             "id" : null
-         }
+         },
+         "content" : "Four Bed Bath &amp; Beyond stores in Connecticut are set to close by the end of this year as the company works to optimize its locations.\r\nA spokesperson for Bed Bath &amp; Beyond said the following … [+847 chars]"
       },
       {
-         "author" : "Steve Maugeri",
-         "url" : "http://cbs6albany.com/news/coronavirus/many-frustrated-as-promised-lwa-funds-dont-arrive-for-key2benefits-users",
-         "urlToImage" : "http://static-20.sinclairstoryline.com/resources/media/31578b0f-7084-48f7-8656-435c4ba7767e-large16x9_UNEMPLOYMENT1.jpg?1600483570042",
-         "title" : "Many frustrated as promised LWA funds don't arrive for Key2Benefits users - WRGB",
+         "publishedAt" : "2020-09-19T02:49:21Z",
          "content" : null,
          "source" : {
             "id" : null,
             "name" : "WRGB"
          },
-         "description" : "Many were expecting to get their lost wage assistance benefit funds today, but some are still not seeing their money. The DOL said The funds should be there today, but there people still waiting for them, hours after they expected to get them. And many of the…",
-         "publishedAt" : "2020-09-19T02:49:21Z"
+         "title" : "Many frustrated as promised LWA funds don't arrive for Key2Benefits users - WRGB",
+         "urlToImage" : "http://static-20.sinclairstoryline.com/resources/media/31578b0f-7084-48f7-8656-435c4ba7767e-large16x9_UNEMPLOYMENT1.jpg?1600483570042",
+         "url" : "http://cbs6albany.com/news/coronavirus/many-frustrated-as-promised-lwa-funds-dont-arrive-for-key2benefits-users",
+         "author" : "Steve Maugeri",
+         "description" : "Many were expecting to get their lost wage assistance benefit funds today, but some are still not seeing their money. The DOL said The funds should be there today, but there people still waiting for them, hours after they expected to get them. And many of the…"
       }
    ],
    "status" : "ok"
