@@ -2,264 +2,264 @@
    "status" : "ok",
    "articles" : [
       {
-         "title" : "Jim Cramer previews corporate earnings reports for the trading week of Sept. 21 - CNBC Television",
-         "content" : null,
-         "description" : null,
          "source" : {
-            "id" : "google-news",
-            "name" : "Google News"
+            "name" : "Google News",
+            "id" : "google-news"
          },
-         "url" : "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9NmNsM0wyM0NzOGvSAQA?oc=5",
-         "author" : null,
+         "urlToImage" : null,
+         "title" : "Jim Cramer previews corporate earnings reports for the trading week of Sept. 21 - CNBC Television",
          "publishedAt" : "2020-09-18T23:48:13Z",
-         "urlToImage" : null
+         "description" : null,
+         "content" : null,
+         "url" : "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9NmNsM0wyM0NzOGvSAQA?oc=5",
+         "author" : null
       },
       {
+         "url" : "https://www.foxnews.com/us/just-half-of-americans-would-get-coronavirus-vaccine",
+         "content" : "Americans are divided on the forthcoming coronavirus vaccine as just 51% say they would get vaccinated for the disease if a vaccine was available today, according to a Pew Research Center poll.\r\nThat… [+2268 chars]",
+         "author" : "Paul Best",
+         "title" : "Just 51% of Americans would get coronavirus vaccine right now - Fox News",
          "source" : {
             "id" : "fox-news",
             "name" : "Fox News"
          },
-         "description" : "Americans are divided on the forthcoming coronavirus vaccine as just 51% say they would get vaccinated for the disease if a vaccine was available today, according to a Pew Research Center poll.",
-         "content" : "Americans are divided on the forthcoming coronavirus vaccine as just 51% say they would get vaccinated for the disease if a vaccine was available today, according to a Pew Research Center poll.\r\nThat… [+2268 chars]",
-         "title" : "Just 51% of Americans would get coronavirus vaccine right now - Fox News",
-         "publishedAt" : "2020-09-18T23:19:56Z",
          "urlToImage" : "https://static.foxnews.com/foxnews.com/content/uploads/2020/07/iStock-1205972800-3.jpg",
-         "url" : "https://www.foxnews.com/us/just-half-of-americans-would-get-coronavirus-vaccine",
-         "author" : "Paul Best"
+         "description" : "Americans are divided on the forthcoming coronavirus vaccine as just 51% say they would get vaccinated for the disease if a vaccine was available today, according to a Pew Research Center poll.",
+         "publishedAt" : "2020-09-18T23:19:56Z"
       },
       {
-         "urlToImage" : "https://static.foxnews.com/foxnews.com/content/uploads/2020/02/Whataburger-iStock.jpg",
+         "description" : "The TikTok video has nearly 3 million views since it was posted earlier this month.",
          "publishedAt" : "2020-09-18T22:52:23Z",
-         "author" : "Alexandra Deabler",
-         "url" : "https://www.foxnews.com/food-drink/whataburger-employee-shocks-customer-flipping-order",
-         "content" : "Old habits die hard.\r\nA former Dairy Queen employee has gone viral on TikTok for forgetting where she was working while she was serving a customer their drink earlier this month.\r\nDAIRY QUEEN GETS TR… [+1424 chars]",
          "title" : "Whataburger employee shocks customer by flipping over order, but has a good excuse - Fox News",
+         "urlToImage" : "https://static.foxnews.com/foxnews.com/content/uploads/2020/02/Whataburger-iStock.jpg",
          "source" : {
             "name" : "Fox News",
             "id" : "fox-news"
          },
-         "description" : "The TikTok video has nearly 3 million views since it was posted earlier this month."
-      },
-      {
-         "source" : {
-            "id" : "usa-today",
-            "name" : "USA Today"
-         },
-         "description" : "These flights to nowhere are high priced and arrive back at the same airport -- and they have aroused concern from environmentalists.",
-         "content" : "After a final flight over the Australian capital, Qantas farewelled its fleet of Boeing 747-400 aircraft.\r\nStoryful\r\nFor those who can't wait to get back to the skies, some airlines have started sche… [+3085 chars]",
-         "title" : "Flight to nowhere? Qantas, EVA and ANA offer sightseeing trips to pandemic-weary passengers - USA TODAY",
-         "urlToImage" : "https://www.gannett-cdn.com/presto/2019/09/10/USAT/433a6a55-0a29-4c14-a53c-c437623a7813-Qantas_Dreamliner.jpg?crop=1799,1012,x0,y91&width=1600&height=800&fit=bounds",
-         "publishedAt" : "2020-09-18T21:59:42Z",
-         "author" : "Chris Woodyard",
-         "url" : "https://www.usatoday.com/story/travel/airline-news/2020/09/18/qantas-eva-ana-offer-sightseeing-flights-despite-covid-19-pandemic/5827916002/"
-      },
-      {
-         "url" : "https://variety.com/2020/digital/news/roku-nbcuniversal-peacock-deal-nbc-tv-apps-1234775220/",
-         "author" : "Todd Spangler",
-         "publishedAt" : "2020-09-18T21:58:00Z",
-         "urlToImage" : "https://pmcvariety.files.wordpress.com/2020/09/peacock-nbcuniversal.png?w=1024",
-         "title" : "Roku and NBCUniversal Reach Deal for Peacock, Renew Agreement for NBC TV Apps - Variety",
-         "content" : "Peacock will finally be taking flight on Roku devices, after months of wrangling — and NBCUniversal’s TV apps will not be going dark on Roku after all.\r\nRoku and NBCU reached a deal Friday afternoon … [+3015 chars]",
-         "description" : "Peacock will finally be taking flight on Roku devices, after months of wrangling — and NBCUniversal’s TV apps will not be going dark on Roku after all. Roku and NBCU reached a deal Friday afternoon that will provide access to the Peacock streaming app on the …",
-         "source" : {
-            "name" : "Variety",
-            "id" : null
-         }
-      },
-      {
-         "urlToImage" : "https://s.marketwatch.com/public/resources/images/MW-IO708_ipo_19_ZG_20200917150941.jpg",
-         "publishedAt" : "2020-09-18T21:37:00Z",
-         "author" : "Therese Poletti",
-         "url" : "https://www.marketwatch.com/story/ipo-like-its-1999-market-hitting-dot-com-boom-levels-as-snowflake-and-other-cloud-software-stocks-keep-popping-2020-09-17",
-         "source" : {
-            "name" : "MarketWatch",
-            "id" : null
-         },
-         "description" : "First-day returns for market debuts are at their highest level since the bubble, professor says, and that data doesn’t include Snowflake and the rest of this week’s big software debuts",
-         "content" : "As the importance of cloud software has grown in the global pandemic, cloud-software companies have become the most stark example of initial public offerings reaching dot-com-boom levels and beyond.T… [+5244 chars]",
-         "title" : "IPO like it’s 1999: Snowflake and other software stocks pop as market nears dot-com-boom levels - MarketWatch"
-      },
-      {
-         "urlToImage" : "https://i.insider.com/5ee0985e2618b93bfd32e5c6?width=1200&format=jpeg",
-         "publishedAt" : "2020-09-18T21:27:49Z",
-         "author" : "Taylor Nicole Rogers",
-         "url" : "https://www.businessinsider.com/bill-gates-says-cant-confuse-elon-musk-with-steve-jobs-2020-9",
-         "content" : null,
-         "title" : "Bill Gates says Elon Musk couldn't be confused with Steve Jobs - Business Insider - Business Insider",
-         "source" : {
-            "id" : "business-insider",
-            "name" : "Business Insider"
-         },
-         "description" : "\"Elon's more of a hands-on engineer; Steve was a genius at design and picking people and marketing.\""
-      },
-      {
-         "author" : "Khristopher J. Brooks",
-         "url" : "https://www.cbsnews.com/news/amazon-marketplace-fraud-scheme-six-indicted/",
-         "publishedAt" : "2020-09-18T20:54:00Z",
-         "urlToImage" : "https://cbsnews2.cbsistatic.com/hub/i/r/2020/04/30/1f28879d-c623-4215-92f9-6a358c97dd1f/thumbnail/1200x630/ba634c053af7de20eb08b439972b7f25/2020-04-22t000000z-818107154-rc2m9g9c5pxy-rtrmadp-3-health-coronavirus-france-amazon.jpg",
-         "title" : "Feds charge 6 people with bribing Amazon employees to gain edge on marketplace - CBS News",
-         "content" : "Six people allegedly conspired to bribe Amazon employees and contractors in order to gain a competitive advantage on the retailer's marketplace, federal prosecutors announced Friday. \r\nAccording to t… [+2891 chars]",
-         "description" : "Suspects allegedly paid employees at the ecommerce giant to help some third-party sellers gain \"unfair advantages.\"",
-         "source" : {
-            "id" : "cbs-news",
-            "name" : "CBS News"
-         }
-      },
-      {
-         "url" : "https://insideevs.com/news/444738/watch-tesla-battery-day-livestream/",
-         "author" : "Tom Moloughney",
-         "urlToImage" : "https://cdn.motor1.com/images/mgl/rv396/s1/tesla-battery.jpg",
-         "publishedAt" : "2020-09-18T20:41:52Z",
-         "description" : "Tesla's long-awaited battery day is finally happening on Tuesday, September 22nd. We explain were to best view the livestream from.",
-         "source" : {
-            "id" : null,
-            "name" : "InsideEVs "
-         },
-         "title" : "How To Watch The Tesla Battery Day Livestream - InsideEVs ",
-         "content" : "We know you won't want to miss Tesla's long-awaited Battery Day event, so we wanted to make sure our readers knew how to watch it. Unlike many other livestream events, Tesla usually doesn't allow oth… [+2047 chars]"
-      },
-      {
-         "url" : "https://www.marketwatch.com/story/feds-kashkari-decries-absurd-us-financial-system-that-needs-bailout-every-10-years-2020-09-18",
-         "author" : "Greg Robb",
-         "publishedAt" : "2020-09-18T20:34:00Z",
-         "urlToImage" : "https://s.marketwatch.com/public/resources/images/MW-IO811_kashka_ZG_20200918153705.jpg",
-         "title" : "Fed’s Kashkari decries ‘absurd’ U.S. financial system that needs bailout every 10 years - MarketWatch",
-         "content" : "Minneapolis Fed President Neel Kashkari on Friday decried the U.S. financial system as absurd because it has needed a central bank bailout twice in less than 20 years.In March when it became clear th… [+2314 chars]",
-         "description" : "‘How can it possibly be this fragile?’ Minneapolis Fed President asks",
-         "source" : {
-            "name" : "MarketWatch",
-            "id" : null
-         }
-      },
-      {
-         "author" : "Danny Vena",
-         "url" : "https://www.fool.com/investing/2020/09/18/unity-software-caps-off-a-week-of-blockbuster-ipos/",
-         "urlToImage" : "https://g.foolcdn.com/editorial/images/592237/a-man-working-on-a-tablet-producing-a-cloud-computing-image-and-various-graphs.jpg",
-         "publishedAt" : "2020-09-18T20:33:00Z",
-         "title" : "Unity Software Caps Off a Week of Blockbuster IPOs - Motley Fool",
-         "content" : "Unity Software(NYSE:U) made its public debut on Friday, the latest in a string of high-profile initial public offerings (IPO) this week involving tech companies. The stock initially jumped more than … [+4478 chars]",
-         "description" : "IPO fever had investors in its grip this week, leading to several fledgling companies having dynamite debuts.",
-         "source" : {
-            "id" : null,
-            "name" : "Motley Fool"
-         }
-      },
-      {
-         "content" : "It's unclear how the Model S driver misused Autopilot in the way that they did. The incident occurred before Tesla updated the system to give it the ability to detect speed limit signs using a vehicl… [+1097 chars]",
-         "title" : "Canadian police charged a Tesla owner for sleeping while driving - Engadget",
-         "source" : {
-            "id" : "engadget",
-            "name" : "Engadget"
-         },
-         "description" : "The 2019 Model S was spotted speeding on a Canadian highway with both front seats \"completely reclined.\"",
-         "publishedAt" : "2020-09-18T20:28:29Z",
-         "urlToImage" : "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-09%2Fa942e7f0-f9e6-11ea-bd7b-1e6061093c9f&client=amp-blogside-v2&signature=e917a750d7b0287d3e55d5f0d9e219d583f55f5c",
-         "url" : "https://www.engadget.com/tesla-autopilot-rcmp-speeding-195140837.html",
-         "author" : ""
-      },
-      {
-         "title" : "Apple Inc. stock underperforms Friday when compared to competitors - MarketWatch",
-         "content" : "Shares of Apple Inc. \r\n AAPL, \r\n -3.17%\r\nslid 3.17% to $106.84 Friday, on what proved to be an all-around dismal trading session for the stock market, with the NASDAQ Composite Index \r\n COMP, \r\n -1.0… [+829 chars]",
-         "description" : "",
-         "source" : {
-            "name" : "MarketWatch",
-            "id" : null
-         },
-         "url" : "https://www.marketwatch.com/story/apple-inc-stock-underperforms-friday-when-compared-to-competitors-01600460723",
-         "author" : "MarketWatch Automation",
-         "publishedAt" : "2020-09-18T20:25:00Z",
-         "urlToImage" : "https://images.mktw.net/im-213861/social"
-      },
-      {
-         "publishedAt" : "2020-09-18T20:25:00Z",
-         "urlToImage" : "https://images.mktw.net/im-215085/social",
-         "url" : "https://www.marketwatch.com/story/netflix-inc-stock-outperforms-competitors-despite-losses-on-the-day-01600460723",
-         "author" : "MarketWatch Automation",
-         "content" : "Shares of Netflix Inc. \r\n NFLX, \r\n -0.05%\r\nslipped 0.05% to $469.96 Friday, on what proved to be an all-around rough trading session for the stock market, with the S&amp;P 500 Index \r\n SPX, \r\n -1.11%… [+817 chars]",
-         "title" : "Netflix Inc. stock outperforms competitors despite losses on the day - MarketWatch",
-         "source" : {
-            "name" : "MarketWatch",
-            "id" : null
-         },
-         "description" : ""
-      },
-      {
-         "url" : "https://www.wsj.com/articles/soybean-prices-hit-two-year-high-buoyed-by-chinese-demand-11600442022",
-         "author" : "Kirk Maltais",
-         "urlToImage" : "https://images.wsj.net/im-233810/social",
-         "publishedAt" : "2020-09-18T19:43:00Z",
-         "title" : "Soybean Prices Hit Two-Year High, Buoyed by Chinese Demand - The Wall Street Journal",
-         "content" : "Soybean prices have surged to their highest levels in more than two years, driven by heavy buying from Chinese importers.\r\nMost-active soybean futures trading on the Chicago Board of Trade closed Fri… [+148 chars]",
-         "description" : "Soybean futures trade above $10 a bushel for first time since 2018 as China ramps up buying of U.S. exports",
-         "source" : {
-            "id" : "the-wall-street-journal",
-            "name" : "The Wall Street Journal"
-         }
-      },
-      {
-         "content" : null,
-         "title" : "You might be surprised who's moving into those sad, abandoned malls - CNN",
-         "source" : {
-            "id" : "cnn",
-            "name" : "CNN"
-         },
-         "description" : "With mall vacancies accelerating amid a surge in online shopping, landlords are quickly looking for other ways to reuse the empty space.",
-         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200909094021-01-grand-teton-mall-idaho-falls-sears-super-tease.jpeg",
-         "publishedAt" : "2020-09-18T19:27:00Z",
-         "url" : "https://www.cnn.com/2020/09/18/business/malls-repurpose-empty-stores/index.html",
-         "author" : "Parija Kavilanz, CNN Business"
-      },
-      {
-         "url" : "https://www.cnn.com/2020/09/18/business/raytheon-job-cuts/index.html",
-         "author" : "Pete Muntean",
-         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200918144654-raytheon-technologies-campus-file-super-tease.jpg",
-         "publishedAt" : "2020-09-18T19:01:00Z",
-         "title" : "Raytheon announces 15,000 job cuts - CNN",
-         "content" : "(CNN)Aerospace giant Raytheon Technologies will cut 15,000 jobs as a result of the downturn in commercial air travel more than double the number it had previously forecast.\r\nDuring a Thursday earning… [+981 chars]",
-         "description" : "Aerospace giant Raytheon Technologies will cut 15,000 jobs as a result of the downturn in commercial air travel — more than double the number it had previously forecast.",
-         "source" : {
-            "id" : "cnn",
-            "name" : "CNN"
-         }
+         "author" : "Alexandra Deabler",
+         "url" : "https://www.foxnews.com/food-drink/whataburger-employee-shocks-customer-flipping-order",
+         "content" : "Old habits die hard.\r\nA former Dairy Queen employee has gone viral on TikTok for forgetting where she was working while she was serving a customer their drink earlier this month.\r\nDAIRY QUEEN GETS TR… [+1424 chars]"
       },
       {
          "source" : {
             "name" : "USA Today",
             "id" : "usa-today"
          },
-         "description" : "Bed Bath & Beyond Inc. plans to close 200 stores or 21% of Bed Bath stores over the next two years. Here's the list of the first 63 stores to shutter.",
-         "content" : "Consumers are scared to go out and retailers are floundering. Is there a future for the traditional indoor shopping mall?\r\nWochit\r\nMore than two months after Bed Bath &amp; Beyond Inc. announced plan… [+8168 chars]",
-         "title" : "Is your Bed Bath & Beyond store closing? See the full list of the 63 stores slated to close by the end of 2020 - USA TODAY",
-         "urlToImage" : "https://www.gannett-cdn.com/presto/2020/09/18/USAT/f4a2210a-fe2b-4548-b8a9-02a43e5fb60a-BedBathTradition.jpg?crop=2922,1644,x1,y327&width=1600&height=800&fit=bounds",
-         "publishedAt" : "2020-09-18T19:00:43Z",
+         "urlToImage" : "https://www.gannett-cdn.com/presto/2019/09/10/USAT/433a6a55-0a29-4c14-a53c-c437623a7813-Qantas_Dreamliner.jpg?crop=1799,1012,x0,y91&width=1600&height=800&fit=bounds",
+         "title" : "Flight to nowhere? Qantas, EVA and ANA offer sightseeing trips to pandemic-weary passengers - USA TODAY",
+         "publishedAt" : "2020-09-18T21:59:42Z",
+         "description" : "These flights to nowhere are high priced and arrive back at the same airport -- and they have aroused concern from environmentalists.",
+         "content" : "After a final flight over the Australian capital, Qantas farewelled its fleet of Boeing 747-400 aircraft.\r\nStoryful\r\nFor those who can't wait to get back to the skies, some airlines have started sche… [+3085 chars]",
+         "url" : "https://www.usatoday.com/story/travel/airline-news/2020/09/18/qantas-eva-ana-offer-sightseeing-flights-despite-covid-19-pandemic/5827916002/",
+         "author" : "Chris Woodyard"
+      },
+      {
+         "author" : "Todd Spangler",
+         "url" : "https://variety.com/2020/digital/news/roku-nbcuniversal-peacock-deal-nbc-tv-apps-1234775220/",
+         "content" : "Peacock will finally be taking flight on Roku devices, after months of wrangling — and NBCUniversal’s TV apps will not be going dark on Roku after all.\r\nRoku and NBCU reached a deal Friday afternoon … [+3015 chars]",
+         "description" : "Peacock will finally be taking flight on Roku devices, after months of wrangling — and NBCUniversal’s TV apps will not be going dark on Roku after all. Roku and NBCU reached a deal Friday afternoon that will provide access to the Peacock streaming app on the …",
+         "publishedAt" : "2020-09-18T21:58:00Z",
+         "title" : "Roku and NBCUniversal Reach Deal for Peacock, Renew Agreement for NBC TV Apps - Variety",
+         "source" : {
+            "id" : null,
+            "name" : "Variety"
+         },
+         "urlToImage" : "https://pmcvariety.files.wordpress.com/2020/09/peacock-nbcuniversal.png?w=1024"
+      },
+      {
+         "description" : "First-day returns for market debuts are at their highest level since the bubble, professor says, and that data doesn’t include Snowflake and the rest of this week’s big software debuts",
+         "publishedAt" : "2020-09-18T21:37:00Z",
+         "title" : "IPO like it’s 1999: Snowflake and other software stocks pop as market nears dot-com-boom levels - MarketWatch",
+         "source" : {
+            "name" : "MarketWatch",
+            "id" : null
+         },
+         "urlToImage" : "https://s.marketwatch.com/public/resources/images/MW-IO708_ipo_19_ZG_20200917150941.jpg",
+         "author" : "Therese Poletti",
+         "url" : "https://www.marketwatch.com/story/ipo-like-its-1999-market-hitting-dot-com-boom-levels-as-snowflake-and-other-cloud-software-stocks-keep-popping-2020-09-17",
+         "content" : "As the importance of cloud software has grown in the global pandemic, cloud-software companies have become the most stark example of initial public offerings reaching dot-com-boom levels and beyond.T… [+5244 chars]"
+      },
+      {
+         "urlToImage" : "https://i.insider.com/5ee0985e2618b93bfd32e5c6?width=1200&format=jpeg",
+         "source" : {
+            "id" : "business-insider",
+            "name" : "Business Insider"
+         },
+         "title" : "Bill Gates says Elon Musk couldn't be confused with Steve Jobs - Business Insider - Business Insider",
+         "publishedAt" : "2020-09-18T21:27:49Z",
+         "description" : "\"Elon's more of a hands-on engineer; Steve was a genius at design and picking people and marketing.\"",
+         "content" : null,
+         "url" : "https://www.businessinsider.com/bill-gates-says-cant-confuse-elon-musk-with-steve-jobs-2020-9",
+         "author" : "Taylor Nicole Rogers"
+      },
+      {
+         "url" : "https://www.cbsnews.com/news/amazon-marketplace-fraud-scheme-six-indicted/",
+         "content" : "Six people allegedly conspired to bribe Amazon employees and contractors in order to gain a competitive advantage on the retailer's marketplace, federal prosecutors announced Friday. \r\nAccording to t… [+2891 chars]",
+         "author" : "Khristopher J. Brooks",
+         "title" : "Feds charge 6 people with bribing Amazon employees to gain edge on marketplace - CBS News",
+         "urlToImage" : "https://cbsnews2.cbsistatic.com/hub/i/r/2020/04/30/1f28879d-c623-4215-92f9-6a358c97dd1f/thumbnail/1200x630/ba634c053af7de20eb08b439972b7f25/2020-04-22t000000z-818107154-rc2m9g9c5pxy-rtrmadp-3-health-coronavirus-france-amazon.jpg",
+         "source" : {
+            "name" : "CBS News",
+            "id" : "cbs-news"
+         },
+         "description" : "Suspects allegedly paid employees at the ecommerce giant to help some third-party sellers gain \"unfair advantages.\"",
+         "publishedAt" : "2020-09-18T20:54:00Z"
+      },
+      {
+         "publishedAt" : "2020-09-18T20:41:52Z",
+         "description" : "Tesla's long-awaited battery day is finally happening on Tuesday, September 22nd. We explain were to best view the livestream from.",
+         "urlToImage" : "https://cdn.motor1.com/images/mgl/rv396/s1/tesla-battery.jpg",
+         "source" : {
+            "id" : null,
+            "name" : "InsideEVs "
+         },
+         "title" : "How To Watch The Tesla Battery Day Livestream - InsideEVs ",
+         "author" : "Tom Moloughney",
+         "content" : "We know you won't want to miss Tesla's long-awaited Battery Day event, so we wanted to make sure our readers knew how to watch it. Unlike many other livestream events, Tesla usually doesn't allow oth… [+2047 chars]",
+         "url" : "https://insideevs.com/news/444738/watch-tesla-battery-day-livestream/"
+      },
+      {
+         "publishedAt" : "2020-09-18T20:34:00Z",
+         "description" : "‘How can it possibly be this fragile?’ Minneapolis Fed President asks",
+         "urlToImage" : "https://s.marketwatch.com/public/resources/images/MW-IO811_kashka_ZG_20200918153705.jpg",
+         "source" : {
+            "name" : "MarketWatch",
+            "id" : null
+         },
+         "title" : "Fed’s Kashkari decries ‘absurd’ U.S. financial system that needs bailout every 10 years - MarketWatch",
+         "author" : "Greg Robb",
+         "content" : "Minneapolis Fed President Neel Kashkari on Friday decried the U.S. financial system as absurd because it has needed a central bank bailout twice in less than 20 years.In March when it became clear th… [+2314 chars]",
+         "url" : "https://www.marketwatch.com/story/feds-kashkari-decries-absurd-us-financial-system-that-needs-bailout-every-10-years-2020-09-18"
+      },
+      {
+         "description" : "IPO fever had investors in its grip this week, leading to several fledgling companies having dynamite debuts.",
+         "publishedAt" : "2020-09-18T20:33:00Z",
+         "title" : "Unity Software Caps Off a Week of Blockbuster IPOs - Motley Fool",
+         "source" : {
+            "name" : "Motley Fool",
+            "id" : null
+         },
+         "urlToImage" : "https://g.foolcdn.com/editorial/images/592237/a-man-working-on-a-tablet-producing-a-cloud-computing-image-and-various-graphs.jpg",
+         "author" : "Danny Vena",
+         "url" : "https://www.fool.com/investing/2020/09/18/unity-software-caps-off-a-week-of-blockbuster-ipos/",
+         "content" : "Unity Software(NYSE:U) made its public debut on Friday, the latest in a string of high-profile initial public offerings (IPO) this week involving tech companies. The stock initially jumped more than … [+4478 chars]"
+      },
+      {
+         "content" : "It's unclear how the Model S driver misused Autopilot in the way that they did. The incident occurred before Tesla updated the system to give it the ability to detect speed limit signs using a vehicl… [+1097 chars]",
+         "url" : "https://www.engadget.com/tesla-autopilot-rcmp-speeding-195140837.html",
+         "author" : "",
+         "source" : {
+            "id" : "engadget",
+            "name" : "Engadget"
+         },
+         "urlToImage" : "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-09%2Fa942e7f0-f9e6-11ea-bd7b-1e6061093c9f&client=amp-blogside-v2&signature=e917a750d7b0287d3e55d5f0d9e219d583f55f5c",
+         "title" : "Canadian police charged a Tesla owner for sleeping while driving - Engadget",
+         "publishedAt" : "2020-09-18T20:28:29Z",
+         "description" : "The 2019 Model S was spotted speeding on a Canadian highway with both front seats \"completely reclined.\""
+      },
+      {
+         "author" : "MarketWatch Automation",
+         "url" : "https://www.marketwatch.com/story/apple-inc-stock-underperforms-friday-when-compared-to-competitors-01600460723",
+         "content" : "Shares of Apple Inc. \r\n AAPL, \r\n -3.17%\r\nslid 3.17% to $106.84 Friday, on what proved to be an all-around dismal trading session for the stock market, with the NASDAQ Composite Index \r\n COMP, \r\n -1.0… [+829 chars]",
+         "description" : "",
+         "publishedAt" : "2020-09-18T20:25:00Z",
+         "title" : "Apple Inc. stock underperforms Friday when compared to competitors - MarketWatch",
+         "source" : {
+            "id" : null,
+            "name" : "MarketWatch"
+         },
+         "urlToImage" : "https://images.mktw.net/im-213861/social"
+      },
+      {
+         "author" : "MarketWatch Automation",
+         "content" : "Shares of Netflix Inc. \r\n NFLX, \r\n -0.05%\r\nslipped 0.05% to $469.96 Friday, on what proved to be an all-around rough trading session for the stock market, with the S&amp;P 500 Index \r\n SPX, \r\n -1.11%… [+817 chars]",
+         "url" : "https://www.marketwatch.com/story/netflix-inc-stock-outperforms-competitors-despite-losses-on-the-day-01600460723",
+         "publishedAt" : "2020-09-18T20:25:00Z",
+         "description" : "",
+         "urlToImage" : "https://images.mktw.net/im-215085/social",
+         "source" : {
+            "name" : "MarketWatch",
+            "id" : null
+         },
+         "title" : "Netflix Inc. stock outperforms competitors despite losses on the day - MarketWatch"
+      },
+      {
+         "content" : "Soybean prices have surged to their highest levels in more than two years, driven by heavy buying from Chinese importers.\r\nMost-active soybean futures trading on the Chicago Board of Trade closed Fri… [+148 chars]",
+         "url" : "https://www.wsj.com/articles/soybean-prices-hit-two-year-high-buoyed-by-chinese-demand-11600442022",
+         "author" : "Kirk Maltais",
+         "source" : {
+            "id" : "the-wall-street-journal",
+            "name" : "The Wall Street Journal"
+         },
+         "urlToImage" : "https://images.wsj.net/im-233810/social",
+         "title" : "Soybean Prices Hit Two-Year High, Buoyed by Chinese Demand - The Wall Street Journal",
+         "publishedAt" : "2020-09-18T19:43:00Z",
+         "description" : "Soybean futures trade above $10 a bushel for first time since 2018 as China ramps up buying of U.S. exports"
+      },
+      {
+         "author" : "Parija Kavilanz, CNN Business",
+         "content" : null,
+         "url" : "https://www.cnn.com/2020/09/18/business/malls-repurpose-empty-stores/index.html",
+         "publishedAt" : "2020-09-18T19:27:00Z",
+         "description" : "With mall vacancies accelerating amid a surge in online shopping, landlords are quickly looking for other ways to reuse the empty space.",
+         "source" : {
+            "id" : "cnn",
+            "name" : "CNN"
+         },
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200909094021-01-grand-teton-mall-idaho-falls-sears-super-tease.jpeg",
+         "title" : "You might be surprised who's moving into those sad, abandoned malls - CNN"
+      },
+      {
+         "title" : "Raytheon announces 15,000 job cuts - CNN",
+         "source" : {
+            "name" : "CNN",
+            "id" : "cnn"
+         },
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200918144654-raytheon-technologies-campus-file-super-tease.jpg",
+         "description" : "Aerospace giant Raytheon Technologies will cut 15,000 jobs as a result of the downturn in commercial air travel — more than double the number it had previously forecast.",
+         "publishedAt" : "2020-09-18T19:01:00Z",
+         "url" : "https://www.cnn.com/2020/09/18/business/raytheon-job-cuts/index.html",
+         "content" : "(CNN)Aerospace giant Raytheon Technologies will cut 15,000 jobs as a result of the downturn in commercial air travel more than double the number it had previously forecast.\r\nDuring a Thursday earning… [+981 chars]",
+         "author" : "Pete Muntean"
+      },
+      {
          "url" : "https://www.usatoday.com/story/money/2020/09/18/bed-bath-beyond-store-closures-2020-list-coronavirus/3478536001/",
-         "author" : "Kelly Tyko"
+         "content" : "Consumers are scared to go out and retailers are floundering. Is there a future for the traditional indoor shopping mall?\r\nWochit\r\nMore than two months after Bed Bath &amp; Beyond Inc. announced plan… [+8168 chars]",
+         "author" : "Kelly Tyko",
+         "title" : "Is your Bed Bath & Beyond store closing? See the full list of the 63 stores slated to close by the end of 2020 - USA TODAY",
+         "source" : {
+            "id" : "usa-today",
+            "name" : "USA Today"
+         },
+         "urlToImage" : "https://www.gannett-cdn.com/presto/2020/09/18/USAT/f4a2210a-fe2b-4548-b8a9-02a43e5fb60a-BedBathTradition.jpg?crop=2922,1644,x1,y327&width=1600&height=800&fit=bounds",
+         "description" : "Bed Bath & Beyond Inc. plans to close 200 stores or 21% of Bed Bath stores over the next two years. Here's the list of the first 63 stores to shutter.",
+         "publishedAt" : "2020-09-18T19:00:43Z"
       },
       {
          "title" : "The U.S. plans to block TikTok, WeChat downloads—Fve experts break down what's next - CNBC Television",
-         "content" : null,
-         "description" : null,
+         "urlToImage" : null,
          "source" : {
             "name" : "Google News",
             "id" : "google-news"
          },
+         "description" : null,
+         "publishedAt" : "2020-09-18T18:52:20Z",
          "url" : "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9QjhIT0tkbWZrY1HSAQA?oc=5",
-         "author" : null,
-         "urlToImage" : null,
-         "publishedAt" : "2020-09-18T18:52:20Z"
+         "content" : null,
+         "author" : null
       },
       {
+         "content" : null,
          "url" : "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9UTR6NDZUck9Yc2PSAQA?oc=5",
          "author" : null,
-         "publishedAt" : "2020-09-18T18:45:30Z",
          "urlToImage" : null,
-         "description" : null,
          "source" : {
             "name" : "Google News",
             "id" : "google-news"
          },
          "title" : "Nasdaq falls nearly 2 percent as investors continue to dump tech stocks - CNBC Television",
-         "content" : null
+         "publishedAt" : "2020-09-18T18:45:30Z",
+         "description" : null
       }
    ],
    "totalResults" : 70
