@@ -1,266 +1,266 @@
 {
    "totalResults" : 70,
-   "status" : "ok",
    "articles" : [
       {
-         "title" : "Cracker Barrel is adding alcohol to the menu for the first time in its history - CNN",
-         "author" : "Lauren M. Johnson, CNN",
+         "url" : "https://www.nytimes.com/2020/09/19/health/azar-hhs-fda.html",
+         "title" : "In ‘Power Grab,’ Health Secretary Azar Asserts Authority Over F.D.A. - The New York Times",
+         "urlToImage" : "https://static01.nyt.com/images/2020/09/19/science/19virus-azar-pix1/19virus-azar-pix1-facebookJumbo.jpg",
+         "source" : {
+            "name" : "New York Times",
+            "id" : null
+         },
+         "content" : "This was simply pushing a reset button, Mr. Harrison said. This is good governance and should have no operational impact.\r\nH.H.S. has long eyed the rule-making process as ripe for revision. Dr. Scott… [+1368 chars]",
+         "description" : "Experts said the memo would make it more difficult for the F.D.A. to issue new rules, but it’s unclear how it would affect the vetting of coronavirus vaccines.",
+         "author" : "Sheila Kaplan",
+         "publishedAt" : "2020-09-19T23:53:00Z"
+      },
+      {
+         "publishedAt" : "2020-09-19T21:27:00Z",
+         "urlToImage" : "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/coronavirus-state-of-massachusetts-graphic-1596160658.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
+         "title" : "569 new COVID-19 cases confirmed in Massachusetts, 26 additional deaths - WCVB Boston",
+         "url" : "https://www.wcvb.com/article/massachusetts-covid-19-cornonavirus-numbers-daily-update-september-19-2020/34085288",
+         "author" : null,
+         "description" : "The Massachusetts Department of Public Health has released the latest COVID-19 case numbers for the state.",
+         "content" : "BOSTON —The Massachusetts Department of Public Health reported an additional 569 confirmed cases of COVID-19 on Saturday, bringing the statewide total to 125,139.\r\nThere were 21,298 new molecular tes… [+926 chars]",
+         "source" : {
+            "id" : null,
+            "name" : "WCVB Boston"
+         }
+      },
+      {
+         "urlToImage" : "https://techcrunch.com/wp-content/uploads/2020/09/GettyImages-671033610.jpg?w=600",
+         "title" : "Homeland Security issues rare emergency alert over ‘critical’ Windows bug - TechCrunch",
+         "url" : "http://techcrunch.com/2020/09/19/homeland-security-emergency-alert-critical-windows-bug/",
+         "author" : "Zack Whittaker",
+         "description" : "The bug can give attackers full control of an entire network in seconds.",
+         "content" : "Homeland Security’s cybersecurity advisory unit has issued a rare emergency alert to government departments after the recent disclosure of a “critical”-rated security vulnerability in server versions… [+1803 chars]",
+         "source" : {
+            "name" : "TechCrunch",
+            "id" : "techcrunch"
+         },
+         "publishedAt" : "2020-09-19T21:15:52Z"
+      },
+      {
          "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200919145712-cracker-barrel-file-restricted-super-tease.jpg",
-         "content" : null,
+         "title" : "Cracker Barrel is adding alcohol to the menu for the first time in its history - CNN",
+         "url" : "https://www.cnn.com/2020/09/19/business/cracker-barrel-alcohol-sales-trnd/index.html",
+         "author" : "Lauren M. Johnson, CNN",
          "description" : "The next time you go to order a Momma's Pancake Breakfast, you can add a mimosa to your order.",
+         "content" : null,
          "source" : {
             "name" : "CNN",
             "id" : "cnn"
          },
-         "url" : "https://www.cnn.com/2020/09/19/business/cracker-barrel-alcohol-sales-trnd/index.html",
          "publishedAt" : "2020-09-19T20:04:00Z"
       },
       {
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200918121436-new-york-dining-0917-restricted-super-tease.jpg",
+         "url" : "https://www.cnn.com/2020/09/19/us/nyc-covid-restaurant-surcharge-trnd/index.html",
+         "title" : "NYC restaurants can soon add a Covid-19 surcharge to customers' bills - CNN",
+         "description" : "New York City diners may soon see a Covid-19 surcharge on their bills as the restaurant industry continues to hobble due to the coronavirus pandemic.",
+         "author" : "Ganesh Setty, CNN",
          "source" : {
-            "name" : "FOX19",
-            "id" : null
+            "name" : "CNN",
+            "id" : "cnn"
          },
-         "description" : "Two Cincinnati area bars were cited Saturday for violating health orders put into place by Gov. Mike DeWine, agents from the Ohio Investigative Unit, OIU, said.",
-         "content" : "CINCINNATI (FOX19) -Two Cincinnati area bars were cited Saturday for violating health orders put into place by Gov. Mike DeWine, agents from the Ohio Investigative Unit, OIU, said.\r\nGrub Pub in Hamil… [+797 chars]",
-         "urlToImage" : "https://www.fox19.com/resizer/61o6gCkytrtzWk_CwXNcCykoU38=/1200x0/cloudfront-us-east-1.images.arcpublishing.com/raycom/QVCUNJHJU5DPDLVRTYKOKDVBGA.jpg",
-         "title" : "2 Cincinnati-area bars cited for violating Gov. Mike Dewine’s alcohol curfew - WXIX",
-         "author" : "Natalya Daoud",
-         "publishedAt" : "2020-09-19T19:10:00Z",
-         "url" : "https://www.fox19.com/2020/09/19/cincinnati-area-bars-cited-violating-gov-mike-dewines-alcohol-curfew/"
+         "content" : null,
+         "publishedAt" : "2020-09-19T19:56:00Z"
       },
       {
-         "description" : null,
+         "publishedAt" : "2020-09-19T18:57:58Z",
+         "title" : "Elon Musk on Battery Cost: Iron Alleviates The Problem - Torque News",
+         "url" : "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9ZGFqN0hHT2huVFXSAQA?oc=5",
+         "urlToImage" : null,
+         "content" : null,
          "source" : {
             "name" : "Google News",
             "id" : "google-news"
          },
-         "urlToImage" : null,
-         "content" : null,
          "author" : null,
-         "title" : "Elon Musk on Battery Cost: Iron Alleviates The Problem - Torque News",
-         "url" : "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9ZGFqN0hHT2huVFXSAQA?oc=5",
-         "publishedAt" : "2020-09-19T18:57:58Z"
+         "description" : null
       },
       {
-         "description" : "Dow Jones futures: The stock market rally is hanging on but bears are landing the punches. Here's what investors should do. Tesla Battery Day is on tap.",
+         "publishedAt" : "2020-09-19T17:40:00Z",
+         "content" : "Dow Jones futures won't open until Sunday evening, along with S&amp;P 500 futures and Nasdaq futures. The stock market rally suffered another losing week. A negative reversal, undercutting key suppor… [+10136 chars]",
          "source" : {
             "id" : null,
             "name" : "Investor's Business Daily"
          },
-         "urlToImage" : "https://www.investors.com/wp-content/uploads/2018/02/stock-bear-night-03-adobe.jpg",
-         "content" : "Dow Jones futures won't open until Sunday evening, along with S&amp;P 500 futures and Nasdaq futures. The stock market rally suffered another losing week. A negative reversal, undercutting key suppor… [+10136 chars]",
          "author" : "Investor's Business Daily",
+         "description" : "Dow Jones futures: The stock market rally is hanging on but bears are landing the punches. Here's what investors should do. Tesla Battery Day is on tap.",
          "title" : "Dow Jones Futures: Stock Market Rally Still Fighting, But Bears Landing The Punches; Tesla Battery Day Key - Investor's Business Daily",
          "url" : "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-stock-market-rally-fighting-tesla-battery-day/",
-         "publishedAt" : "2020-09-19T17:40:00Z"
+         "urlToImage" : "https://www.investors.com/wp-content/uploads/2018/02/stock-bear-night-03-adobe.jpg"
       },
       {
+         "publishedAt" : "2020-09-19T17:20:00Z",
          "author" : "Ari Levy",
-         "title" : "Silicon Valley IPOs are being celebrated in parking lots and conference rooms, as CEOs navigate pandemic and wildfire smoke - CNBC",
-         "source" : {
-            "id" : null,
-            "name" : "CNBC"
-         },
          "description" : "During the busiest IPO week of the year, tech companies were forced to celebrate in unique ways because of the coronavirus and raging wildfires.",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106708796-1600473325256-JFrog_Bell_Ringing.jpg?v=1600473363",
          "content" : "Sumo Logic CEO Ramin Sayar on IPO day\r\nThere were masked parking lot festivities, Times Square replicas and virtual bell ringings. There were technical glitches and a corporate logo beamed onto San F… [+6349 chars]",
-         "url" : "https://www.cnbc.com/2020/09/19/silicon-valley-was-inundated-with-virtual-ipo-celebrations-as-e.html",
-         "publishedAt" : "2020-09-19T17:20:00Z"
+         "source" : {
+            "name" : "CNBC",
+            "id" : null
+         },
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106708796-1600473325256-JFrog_Bell_Ringing.jpg?v=1600473363",
+         "title" : "Silicon Valley IPOs are being celebrated in parking lots and conference rooms, as CEOs navigate pandemic and wildfire smoke - CNBC",
+         "url" : "https://www.cnbc.com/2020/09/19/silicon-valley-was-inundated-with-virtual-ipo-celebrations-as-e.html"
       },
       {
-         "title" : "Osimertinib in Resected EGFR-Mutated Non–Small-Cell Lung Cancer | NEJM - nejm.org",
-         "author" : null,
+         "publishedAt" : "2020-09-19T16:31:06Z",
          "content" : "From the Guangdong Lung Cancer Institute, Guangdong Provincial Peoples Hospital, and Guangdong Academy of Medical Sciences, Guangzhou (Y.-L.W.), the Thoracic Surgery Department, National Cancer Cente… [+2885 chars]",
-         "urlToImage" : "https://www.nejm.org/na101/home/literatum/publisher/mms/journals/content/nejm/0/nejm.ahead-of-print/nejmoa2027071/20200918/images/img_small/nejmoa2027071_f1.jpeg",
-         "description" : "Original Article from The New England Journal of Medicine — Osimertinib in Resected EGFR-Mutated Non–Small-Cell Lung Cancer",
          "source" : {
             "id" : null,
             "name" : "nejm.org"
          },
-         "publishedAt" : "2020-09-19T16:31:06Z",
-         "url" : "https://www.nejm.org/doi/full/10.1056/NEJMoa2027071"
+         "author" : null,
+         "description" : "Original Article from The New England Journal of Medicine — Osimertinib in Resected EGFR-Mutated Non–Small-Cell Lung Cancer",
+         "title" : "Osimertinib in Resected EGFR-Mutated Non–Small-Cell Lung Cancer | NEJM - nejm.org",
+         "url" : "https://www.nejm.org/doi/full/10.1056/NEJMoa2027071",
+         "urlToImage" : "https://www.nejm.org/na101/home/literatum/publisher/mms/journals/content/nejm/0/nejm.ahead-of-print/nejmoa2027071/20200918/images/img_small/nejmoa2027071_f1.jpeg"
+      },
+      {
+         "url" : "https://www.travelpulse.com/news/airlines/numerous-airlines-now-offering-flights-to-nowhere.html",
+         "title" : "Numerous Airlines Now Offering Flights to Nowhere - msnNOW",
+         "urlToImage" : "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AAGbr7f.img?h=315&w=600&m=6&q=60&o=t&l=f&f=jpg",
+         "source" : {
+            "id" : null,
+            "name" : "TravelPulse"
+         },
+         "content" : "Ten minutes.\r\n© Qantas Airways\r\n Qantas Airbus 380 jet over Sydney Harbor\r\nThats how long it took a flight on Qantas Airways to sell out.\r\nA flight that takes off in Sydney, flies for seven hours and… [+1825 chars]",
+         "description" : "And travel-happy people are paying for them.",
+         "author" : null,
+         "publishedAt" : "2020-09-19T16:15:00Z"
       },
       {
          "urlToImage" : "https://s.yimg.com/uu/api/res/1.2/XB33og8zWbkDeHBLzBfASQ--~B/aD0zNzQ5O3c9NTYyNDtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2020-09/f9a47cd0-fa91-11ea-9d7b-a69b085c83a6",
-         "content" : "Public health experts previously worried that the coronavirus pandemic threatens to make the opioid crisis substantially worse. \r\nAnd data from the Wall Street Journal appears to be validating that c… [+4742 chars]",
+         "url" : "https://finance.yahoo.com/news/2020-substance-abuse-pandemic-160934275.html",
+         "title" : "2020 is 'a perfect storm' for substance abuse and 'it's really scary' - Yahoo Finance",
          "description" : "Public health experts worried that the pandemic “threatens to make the opioid crisis” substantially worse. Data shows they were right to be concerned.",
+         "author" : "Adriana Belmonte",
          "source" : {
             "id" : null,
             "name" : "Yahoo Entertainment"
          },
-         "author" : "Adriana Belmonte",
-         "title" : "2020 is 'a perfect storm' for substance abuse and 'it's really scary' - Yahoo Finance",
-         "url" : "https://finance.yahoo.com/news/2020-substance-abuse-pandemic-160934275.html",
+         "content" : "Public health experts previously worried that the coronavirus pandemic threatens to make the opioid crisis substantially worse. \r\nAnd data from the Wall Street Journal appears to be validating that c… [+4742 chars]",
          "publishedAt" : "2020-09-19T16:09:00Z"
       },
       {
-         "url" : "http://www.mercurynews.com/2020/09/19/coronavirus-santa-clara-county-passes-20000-cases-amid-statewide-decline/",
          "publishedAt" : "2020-09-19T16:05:00Z",
-         "title" : "Coronavirus: Santa Clara County passes 20,000 cases amid statewide decline - The Mercury News",
          "author" : "Leonardo Castañeda",
-         "urlToImage" : "https://www.mercurynews.com/wp-content/uploads/2020/05/TEASER_coronavirus_CALIFORNIA_STATE-18-1-2-2-1.jpg?w=1024&h=688",
+         "description" : "It becomes the second Bay Area county to cross that milestone",
          "content" : "Santa Clara County passed 20,000 COVID-19 cases on Friday, joining Alameda County as the second Bay Area county to reach that somber milestone, while new cases and hospitalizations continued to decre… [+2104 chars]",
          "source" : {
-            "id" : null,
-            "name" : "The Mercury News"
+            "name" : "The Mercury News",
+            "id" : null
          },
-         "description" : "It becomes the second Bay Area county to cross that milestone"
+         "urlToImage" : "https://www.mercurynews.com/wp-content/uploads/2020/05/TEASER_coronavirus_CALIFORNIA_STATE-18-1-2-2-1.jpg?w=1024&h=688",
+         "title" : "Coronavirus: Santa Clara County passes 20,000 cases amid statewide decline - The Mercury News",
+         "url" : "http://www.mercurynews.com/2020/09/19/coronavirus-santa-clara-county-passes-20000-cases-amid-statewide-decline/"
       },
       {
+         "publishedAt" : "2020-09-19T16:03:00Z",
          "title" : "Here's What It Takes to Collect $3,790 Per Month in Social Security Benefits - The Motley Fool",
-         "author" : "Katie Brockman",
-         "content" : "For millions of older Americans, Social Security benefits are a lifeline in retirement. Half of married couples depend on their benefits for at least 50% of their retirement income, and for nearly on… [+3033 chars]",
+         "url" : "https://www.fool.com/retirement/2020/09/19/heres-how-collect-3790-per-month-social-security/",
          "urlToImage" : "https://g.foolcdn.com/editorial/images/592070/social-security-cards-with-hundred-dollar-bills.jpg",
+         "content" : "For millions of older Americans, Social Security benefits are a lifeline in retirement. Half of married couples depend on their benefits for at least 50% of their retirement income, and for nearly on… [+3033 chars]",
          "source" : {
             "name" : "Motley Fool",
             "id" : null
          },
-         "description" : "If the program is going to be a major source of income in retirement, it pays to maximize your checks.",
-         "publishedAt" : "2020-09-19T16:03:00Z",
-         "url" : "https://www.fool.com/retirement/2020/09/19/heres-how-collect-3790-per-month-social-security/"
+         "author" : "Katie Brockman",
+         "description" : "If the program is going to be a major source of income in retirement, it pays to maximize your checks."
       },
       {
          "publishedAt" : "2020-09-19T16:03:00Z",
+         "urlToImage" : "https://electrek.co/wp-content/uploads/sites/3/2019/10/Tesla-Autopilot-hero-4-e1570845324247.jpg?quality=82&strip=all",
+         "title" : "Tesla reintroduces ‘Enhanced Autopilot’ – offering cheaper alternative to ‘Full Self-Driving’ - Electrek.co",
          "url" : "https://electrek.co/2020/09/19/tesla-reintroduce-enhanced-autopilot-alternative-full-self-driving/",
+         "author" : null,
          "description" : "Tesla has reintroduced the ‘Enhanced Autopilot’ option – offering a cheaper alternative to the ‘Full Self-Driving’ package for existing owners. Over the last few years, Tesla has changed its Autopilot options and pricing so many times, it has been hard to fol…",
+         "content" : "Tesla has reintroduced the ‘Enhanced Autopilot’ option – offering a cheaper alternative to the ‘Full Self-Driving’ package for existing owners.\r\nOver the last few years, Tesla has changed its Autopil… [+2118 chars]",
          "source" : {
             "name" : "Electrek",
             "id" : null
-         },
-         "content" : "Tesla has reintroduced the ‘Enhanced Autopilot’ option – offering a cheaper alternative to the ‘Full Self-Driving’ package for existing owners.\r\nOver the last few years, Tesla has changed its Autopil… [+2118 chars]",
-         "urlToImage" : "https://electrek.co/wp-content/uploads/sites/3/2019/10/Tesla-Autopilot-hero-4-e1570845324247.jpg?quality=82&strip=all",
-         "title" : "Tesla reintroduces ‘Enhanced Autopilot’ – offering cheaper alternative to ‘Full Self-Driving’ - Electrek.co",
-         "author" : null
+         }
       },
       {
-         "author" : null,
-         "title" : "What Is An mRNA Coronavirus Vaccine? - CNBC",
-         "source" : {
-            "id" : "google-news",
-            "name" : "Google News"
-         },
-         "description" : null,
-         "content" : null,
-         "urlToImage" : null,
-         "publishedAt" : "2020-09-19T16:00:04Z",
-         "url" : "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9RldXUEo5VGFSYkHSAQA?oc=5"
-      },
-      {
+         "urlToImage" : "https://s3.cointelegraph.com/storage/uploads/view/677897dcd2281d546d2f98cf1bcdd7f4.jpg",
+         "url" : "https://cointelegraph.com/news/yearn-finance-founder-nominates-self-as-uniswap-delegate",
          "title" : "Yearn Finance founder nominates self as Uniswap delegate - Cointelegraph",
+         "description" : "He’s made his governance intentions clear",
          "author" : "Emilia David",
          "source" : {
-            "id" : null,
-            "name" : "Cointelegraph"
+            "name" : "Cointelegraph",
+            "id" : null
          },
-         "description" : "He’s made his governance intentions clear",
-         "urlToImage" : "https://s3.cointelegraph.com/storage/uploads/view/677897dcd2281d546d2f98cf1bcdd7f4.jpg",
          "content" : "Yearn Finance founder Andre Cronje puts himself up as a delegate for Uniswap hoping to influence the governance of the protocol.\r\nIn a tweet, Cronje said he will build tooling to facilitate delegatio… [+1844 chars]",
-         "url" : "https://cointelegraph.com/news/yearn-finance-founder-nominates-self-as-uniswap-delegate",
          "publishedAt" : "2020-09-19T16:00:00Z"
       },
       {
-         "publishedAt" : "2020-09-19T15:02:15Z",
-         "url" : "https://www.foxbusiness.com/technology/six-charged-in-scheme-to-bribe-amazon-employees-to-help-third-party-sellers",
-         "description" : "Six people are accused of paying more than $100,000 in bribes to Amazon employees.",
+         "publishedAt" : "2020-09-19T15:48:00Z",
+         "urlToImage" : "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/unemployment-office-sign-1-1586383864.png?crop=0.9903057419835943xw:1xh;center,top&resize=1200:*",
+         "title" : "Massachusetts no longer has nation's highest unemployment rate - WCVB Boston",
+         "url" : "https://www.wcvb.com/article/massachusetts-no-longer-has-nation-s-highest-unemployment-rate/34083943",
+         "author" : null,
+         "description" : "The unemployment rate in the Bay State fell nearly 5 percent from July to August.",
+         "content" : "BOSTON —The state of Massachusetts is dropping a dubious distinction, as the Bay State no longer has the highest unemployment rate in the country.\r\nMassachusetts is now ranked No. 7 on the list of hi… [+668 chars]",
          "source" : {
-            "name" : "Fox Business",
+            "id" : null,
+            "name" : "WCVB Boston"
+         }
+      },
+      {
+         "description" : "Last night, six more Ohio bars were found to be in violation of various state health orders.",
+         "author" : "Laura Morrison",
+         "source" : {
+            "name" : "fox8.com",
             "id" : null
          },
+         "content" : "COLUMBUS, Ohio (WJW) Last night, six more Ohio bars were found to be in violation of various state health orders, including serving alcohol past 10 p.m. (as seen in the video above), the Ohio Investi… [+1433 chars]",
+         "urlToImage" : "https://fox8.com/wp-content/uploads/sites/12/2020/06/GettyImages-555859475.jpg?w=1280",
+         "url" : "https://fox8.com/news/coronavirus/six-ohio-bars-cited-after-not-complying-with-covid-19-health-guidelines-friday-night/",
+         "title" : "Six Ohio bars cited after not complying with COVID-19 health guidelines Friday night - WJW FOX 8 News Cleveland",
+         "publishedAt" : "2020-09-19T15:41:00Z"
+      },
+      {
+         "author" : "WRGB STAFF",
+         "description" : "ALBANY, NY (WRGB) The New York State Department of Labor said millions of New Yorkers would get that extra money from FEMA on Friday, however it appears that some may have not, and the state is placing blame on KeyBank.",
+         "content" : null,
+         "source" : {
+            "name" : "WRGB",
+            "id" : null
+         },
+         "urlToImage" : "http://static-21.sinclairstoryline.com/resources/media/9835c154-85b1-4006-8ec5-ce90248d4638-large16x9_money.PNG?1600529028187",
+         "title" : "KeyBank under criticism from NY DOL over delays on unemployment payouts - WRGB",
+         "url" : "http://cbs6albany.com/news/local/harsh-criticism-aimed-at-keybank-from-the-dol-commissioner-lost-wages-dol-unemployment-new-york",
+         "publishedAt" : "2020-09-19T15:24:00Z"
+      },
+      {
+         "publishedAt" : "2020-09-19T15:02:15Z",
          "content" : "A federal grand jury in the state of Washington has indicted six people on charges of bribing Amazon.com employees to gaining advantages for third-party sellers on the retailer's online storefront.\r\n… [+2889 chars]",
-         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/07/0/0/Cyber-crime-amazon-2.png?ve=1&tl=1",
+         "source" : {
+            "id" : null,
+            "name" : "Fox Business"
+         },
          "author" : "Julia Musto",
-         "title" : "Six charged with bribing Amazon employees to help third-party sellers - Fox Business"
+         "description" : "Six people are accused of paying more than $100,000 in bribes to Amazon employees.",
+         "title" : "Six charged with bribing Amazon employees to help third-party sellers - Fox Business",
+         "url" : "https://www.foxbusiness.com/technology/six-charged-in-scheme-to-bribe-amazon-employees-to-help-third-party-sellers",
+         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/07/0/0/Cyber-crime-amazon-2.png?ve=1&tl=1"
       },
       {
          "content" : "Now, after weeks in limbo, Spyhouse workers are striking all day Saturday. \r\n\"We don't feel safe as workers in this pandemic. Instead of making every step possible to keep us protected, the company i… [+1361 chars]",
-         "urlToImage" : "http://stmedia.stimg.co/ctyp-spyhouse-union-1.jpg?w=1200&h=630",
-         "description" : "In August, around 34 workers at Spyhouse Coffee announced the formation of a union. Christian Johnson, owner of the Twin Cities coffee chain with…",
          "source" : {
             "name" : "City Pages",
             "id" : null
          },
          "author" : "Jay Boller",
+         "description" : "In August, around 34 workers at Spyhouse Coffee announced the formation of a union. Christian Johnson, owner of the Twin Cities coffee chain with…",
          "title" : "Spyhouse Coffee workers are striking today - City Pages",
-         "publishedAt" : "2020-09-19T13:37:33Z",
-         "url" : "http://www.citypages.com/restaurants/spyhouse-coffee-workers-are-striking-today/572461741"
-      },
-      {
-         "source" : {
-            "name" : "Tom's Guide",
-            "id" : null
-         },
-         "description" : "Here’s what Nvidia's ARM acquisition means for the tech you know and love",
-         "urlToImage" : "https://cdn.mos.cms.futurecdn.net/oS9eNxGSJGW22S8TQh4n2o-1200-80.jpg",
-         "content" : "Nvidia is buying chip designer giant Arm for $40 billion from its owner SoftBank. In the world of chips thats a big deal, and not just in monetary terms. \r\nArm doesn't make chips instead, it designs … [+11636 chars]",
-         "title" : "How Nvidia buying ARM could change mobile tech forever - Tom's Guide",
-         "author" : "Roland Moore-Colyer",
-         "url" : "https://www.tomsguide.com/features/how-nvidia-buying-arm-could-change-mobile-tech-forever",
-         "publishedAt" : "2020-09-19T13:00:00Z"
-      },
-      {
-         "url" : "https://www.fool.com/investing/2020/09/19/3-tech-stocks-to-buy-in-the-market-correction/",
-         "publishedAt" : "2020-09-19T12:11:00Z",
-         "description" : "The market may be all over the place, but these stocks are still great long-term bets.",
-         "source" : {
-            "name" : "Motley Fool",
-            "id" : null
-         },
-         "urlToImage" : "https://g.foolcdn.com/editorial/images/592052/gettyimages-1195117847.jpg",
-         "content" : "The stock market has been a bit disconnected from the U.S. economy as of late. The economy is still reeling from the effects of the coronavirus, resulting in an unemployment rate of 8.4%. And yet, th… [+8510 chars]",
-         "author" : "Chris Neiger, Danny Vena, and Brian Withers",
-         "title" : "3 Tech Stocks to Buy in the Market Correction - Motley Fool"
-      },
-      {
-         "url" : "https://decrypt.co/42365/etherum-fees-double-in-a-week-as-defi-heats-up",
-         "publishedAt" : "2020-09-19T10:17:00Z",
-         "author" : "Alexander Behrens",
-         "title" : "Etherum Fees Double In a Week As DeFi Heats Up - Decrypt",
-         "source" : {
-            "name" : "Decrypt",
-            "id" : null
-         },
-         "description" : "The average fee for transactions on Ethereum has reached its second-highest level ever, after setting the record earlier this month.",
-         "urlToImage" : "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2020/07/ethereum-transactions-gas-fees-defi-gID_6.jpg",
-         "content" : "In brief\r\n<ul><li>The average Ethereum transaction fee rose to more than $11, more than double last weeks figure.</li><li>Daily average fees still havent dipped below $2, continuing a record-breaking… [+2751 chars]"
-      },
-      {
-         "description" : "Just because the Big E’s midway is silent and empty doesn’t necessarily mean that state fair food junkies can’t get their annual fix.",
-         "source" : {
-            "name" : "MassLive.com",
-            "id" : null
-         },
-         "urlToImage" : "https://www.masslive.com/resizer/y3eM0kbC_WvDy2Pj0efkWc_-oR4=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/Z3MR2PCLKFEAHK3D7HVWXYIJVI.jpg",
-         "content" : "One of the treasured seasonal rituals that the pandemic has denied us is indulgence in state fair food.\r\n In a pre-coronavirus year, midways from Texas to Minnesota would have been crowded with those… [+7421 chars]",
-         "author" : "Hugh Robert | Special to The Republican",
-         "title" : "The Big E fair foods now available at three spots - MassLive.com",
-         "url" : "https://www.masslive.com/dining/2020/09/the-big-e-fair-foods-now-available-at-three-spots.html",
-         "publishedAt" : "2020-09-19T09:39:00Z"
-      },
-      {
-         "url" : "https://www.wsj.com/articles/death-toll-from-covid-19-pandemic-extends-far-beyond-virus-victims-11600507800",
-         "publishedAt" : "2020-09-19T09:30:00Z",
-         "title" : "Death Toll From Covid-19 Pandemic Extends Far Beyond Virus Victims - The Wall Street Journal",
-         "author" : "Jon Kamp",
-         "urlToImage" : "https://images.wsj.net/im-233927/social",
-         "content" : "Researchers are finding growing evidence that the Covid-19 pandemics deadly reach is stretching far beyond people who died from coronavirus infections.\r\n From Alzheimers disease deaths to fatal heart… [+299 chars]",
-         "source" : {
-            "name" : "The Wall Street Journal",
-            "id" : "the-wall-street-journal"
-         },
-         "description" : "Doctors and researchers say more Americans are dying from heart attacks and other health issues; drop in ER visits, health screenings"
-      },
-      {
-         "author" : "Julia Carpenter, Bourree Lam",
-         "title" : "How to Think Long Term With Near-Zero Interest Rates - The Wall Street Journal",
-         "description" : "America’s savers and borrowers face possibly harder choices than they did in the previous recession",
-         "source" : {
-            "id" : "the-wall-street-journal",
-            "name" : "The Wall Street Journal"
-         },
-         "content" : "A long-term environment with superlow interest rates can mean different things to different peoplesometimes multiple things to the same person.\r\nWith the Federal Reserve signaling that benchmark, sho… [+181 chars]",
-         "urlToImage" : "https://images.wsj.net/im-234031/social",
-         "publishedAt" : "2020-09-19T09:30:00Z",
-         "url" : "https://www.wsj.com/articles/how-to-think-long-term-with-near-zero-interest-rates-11600507800"
+         "url" : "http://www.citypages.com/restaurants/spyhouse-coffee-workers-are-striking-today/572461741",
+         "urlToImage" : "http://stmedia.stimg.co/ctyp-spyhouse-union-1.jpg?w=1200&h=630",
+         "publishedAt" : "2020-09-19T13:37:33Z"
       }
-   ]
+   ],
+   "status" : "ok"
 }
