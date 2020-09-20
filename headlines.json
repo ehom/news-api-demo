@@ -1,266 +1,266 @@
 {
-   "status" : "ok",
    "articles" : [
       {
-         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200920112639-pine-sol-stock-super-tease.jpg",
-         "author" : "Alaa Elassar, CNN",
-         "title" : "Pine-Sol cleaner has been approved to kill coronavirus on hard surfaces - CNN",
+         "content" : "The recent pullbacks in megacapitalization technology stocks have now gone far enough and lasted long enough that they have triggered chart signals warning investors that at the very least, dont buy … [+4044 chars]",
+         "url" : "https://www.marketwatch.com/story/this-chart-signal-says-stop-buying-megacap-technology-stocks-2020-09-20",
+         "publishedAt" : "2020-09-20T22:13:00Z",
          "source" : {
-            "id" : "cnn",
-            "name" : "CNN"
+            "id" : null,
+            "name" : "MarketWatch"
          },
-         "description" : "Pine-Sol's original cleaner has been approved by the US Environmental Protection Agency (EPA) as a product that can kill the coronavirus on frequently used surfaces.",
-         "content" : "(CNN)Pine-Sol's original cleaner has been approved by the US Environmental Protection Agency (EPA) as a product that can kill the coronavirus on frequently used surfaces.\r\nThe product was added to th… [+2138 chars]",
-         "publishedAt" : "2020-09-20T19:48:00Z",
-         "url" : "https://www.cnn.com/2020/09/20/health/pine-sol-covid-19-surfaces-kills-coronavirus-trnd/index.html"
+         "description" : "Fifty-day moving average is falling for Microsoft, Amazon and Google parent Alphabet but still rising slightly for Apple and the Nasdaq-100 Index",
+         "urlToImage" : "https://s.marketwatch.com/public/resources/images/MW-IO833_Bear_p_ZG_20200919153725.jpg",
+         "author" : "Tomi Kilgore",
+         "title" : "This chart signal says stop buying megacap technology stocks - MarketWatch"
       },
       {
-         "content" : "A Spirit Airlines flight attendant has threatened to call police on a passenger who was wearing a neck gaiter as a face covering, claiming it was 'illegal' because it did not have two layers of cloth… [+3028 chars]",
-         "url" : "https://www.dailymail.co.uk/news/article-8753069/Spirit-Airlines-flight-attendant-passenger-clash-neck-gaiter.html",
-         "publishedAt" : "2020-09-20T19:27:16Z",
-         "source" : {
-            "name" : "Daily Mail",
-            "id" : null
-         },
-         "title" : "Spirit Airlines flight attendant and passenger clash over neck gaiter - Daily Mail",
-         "urlToImage" : "https://i.dailymail.co.uk/1s/2020/09/20/20/33405068-0-image-a-6_1600629770260.jpg",
-         "author" : "By Andrew Court For Dailymail.com",
-         "description" : "The incident, which occurred during a flight on the budget carrier sometime last week, was recorded by the passenger and posted to social media."
-      },
-      {
-         "urlToImage" : "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-09%2F28952e10-fb67-11ea-befb-79e1462ebfcc&client=amp-blogside-v2&signature=db36ffe77439f8c400f09a5584064bbc1abfed13",
-         "author" : "",
-         "title" : "Homeland Security warns of a 'critical' security flaw in Windows servers - Engadget",
-         "source" : {
-            "id" : "engadget",
-            "name" : "Engadget"
-         },
-         "description" : "Homeland Security has issued an emergency alert for a Windows security flaw, Zerologon, that allows attackers to compromise entire networks.",
-         "content" : "The security hole isn’t difficult to use. It takes “about three seconds in practice,” according to Secura.\r\nAgencies have to install the patch no later than September 21st.\r\nWhile the alert is clearl… [+485 chars]",
-         "publishedAt" : "2020-09-20T18:35:05Z",
-         "url" : "https://www.engadget.com/homeland-security-warning-zerologon-windows-server-flaw-175800739.html"
-      },
-      {
-         "description" : "Tesla is preparing to launch a new Full Self-Driving monthly subscription based on an update to its mobile app and it is putting a deadline on the newly reintroduced Enhanced Autopilot package. Earlier this year, we reported on indications that Tesla is worki…",
-         "title" : "Tesla is preparing to launch Full Self-Driving subscription, puts deadline on Enhanced Autopilot - Electrek",
+         "author" : null,
+         "title" : "Tesla to bring new Roadster to Nürburgring racetrack next year as production remains unclear - Electrek",
          "source" : {
             "name" : "Electrek",
             "id" : null
          },
-         "author" : null,
-         "urlToImage" : "https://electrek.co/wp-content/uploads/sites/3/2019/04/Tesla-self-driving.jpg?quality=82&strip=all",
-         "url" : "https://electrek.co/2020/09/20/tesla-full-self-driving-subscription-deadline-enhanced-autopilot/",
+         "description" : "Tesla is going to bring a new Roadster to the famous Nürburgring racetrack next year, according to CEO Elon Musk, as the production timeline remains unclear. After Porsche brought its brand new Taycan electric car at the Nürburgring racetrack to break a recor…",
+         "urlToImage" : "https://electrek.co/wp-content/uploads/sites/3/2020/09/Tesla-Roadster-prototype-e1600637860743.jpg?quality=82&strip=all",
+         "publishedAt" : "2020-09-20T21:52:00Z",
+         "url" : "https://electrek.co/2020/09/20/tesla-roadster-nurburgring-racetrack-next-year-production-unclear/",
+         "content" : "Tesla is going to bring a new Roadster to the famous Nürburgring racetrack next year, according to CEO Elon Musk, as the production timeline remains unclear.\r\nAfter Porsche brought its brand new Tayc… [+2533 chars]"
+      },
+      {
+         "content" : "(CNN)Robert W. Gore, inventor of the technology that spawned the waterproof Gore-Tex fabric, died Thursday, according to the family company, W. L. Gore &amp; Associates. \r\nGore, commonly known as \"Bo… [+2640 chars]",
+         "url" : "https://www.cnn.com/2020/09/20/business/robert-w-gore-gore-tex-obit/index.html",
+         "publishedAt" : "2020-09-20T21:48:00Z",
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200920164937-robert-w-gore-file-super-tease.jpg",
+         "description" : "Robert W. Gore invented the technology that spawned the waterproof Gore-Tex fabric and revolutionized outdoor outerwear.",
+         "source" : {
+            "id" : "cnn",
+            "name" : "CNN"
+         },
+         "title" : "Robert Gore, inventor of waterproof outerwear Gore-Tex, dies at 83 - CNN",
+         "author" : "Amir Vera, CNN"
+      },
+      {
+         "content" : "We found multiple videos released about half a day ago which all claim the truck was going for a 3,000 horsepower dyno pull. The \"event\" seems to have taken place in Ogden, Utah.Apparently, the truck… [+1358 chars]",
+         "publishedAt" : "2020-09-20T20:15:00Z",
+         "url" : "https://www.autoevolution.com/news/3000-hp-cummins-diesel-truck-exploses-during-dyno-test-148966.html",
+         "author" : "Mihnea Radu",
+         "title" : "3000 HP Cummins Diesel Truck Exploses During Dyno Test - autoevolution",
+         "urlToImage" : "https://s1.cdn.autoevolution.com/images/news/3000-hp-cummins-diesel-truck-exploses-during-dyno-test-148966-7.jpg",
+         "description" : "What's the most dramatic video of all time featuring a diesel truck? This, probably this. It shows the motor of a custom Cummins rig blowing up like a land mine. Fortunately, nobody died.",
+         "source" : {
+            "name" : "autoevolution",
+            "id" : null
+         }
+      },
+      {
+         "url" : "https://www.dailymail.co.uk/news/article-8753069/Spirit-Airlines-flight-attendant-passenger-clash-neck-gaiter.html",
+         "publishedAt" : "2020-09-20T19:27:16Z",
+         "source" : {
+            "id" : null,
+            "name" : "Daily Mail"
+         },
+         "description" : "The incident, which occurred during a flight on the budget carrier sometime last week, was recorded by the passenger and posted to social media.",
+         "urlToImage" : "https://i.dailymail.co.uk/1s/2020/09/20/20/33405068-0-image-a-6_1600629770260.jpg",
+         "author" : "By Andrew Court For Dailymail.com",
+         "title" : "Spirit Airlines flight attendant and passenger clash over neck gaiter - Daily Mail",
+         "content" : "A Spirit Airlines flight attendant has threatened to call police on a passenger who was wearing a neck gaiter as a face covering, claiming it was 'illegal' because it did not have two layers of cloth… [+3028 chars]"
+      },
+      {
+         "content" : "The security hole isn’t difficult to use. It takes “about three seconds in practice,” according to Secura.\r\nAgencies have to install the patch no later than September 21st.\r\nWhile the alert is clearl… [+485 chars]",
+         "url" : "https://www.engadget.com/homeland-security-warning-zerologon-windows-server-flaw-175800739.html",
+         "publishedAt" : "2020-09-20T18:35:05Z",
+         "description" : "Homeland Security has issued an emergency alert for a Windows security flaw, Zerologon, that allows attackers to compromise entire networks.",
+         "source" : {
+            "id" : "engadget",
+            "name" : "Engadget"
+         },
+         "urlToImage" : "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-09%2F28952e10-fb67-11ea-befb-79e1462ebfcc&client=amp-blogside-v2&signature=db36ffe77439f8c400f09a5584064bbc1abfed13",
+         "title" : "Homeland Security warns of a 'critical' security flaw in Windows servers - Engadget",
+         "author" : ""
+      },
+      {
          "publishedAt" : "2020-09-20T17:55:00Z",
+         "url" : "https://electrek.co/2020/09/20/tesla-full-self-driving-subscription-deadline-enhanced-autopilot/",
+         "author" : null,
+         "title" : "Tesla is preparing to launch Full Self-Driving subscription, puts deadline on Enhanced Autopilot - Electrek",
+         "description" : "Tesla is preparing to launch a new Full Self-Driving monthly subscription based on an update to its mobile app and it is putting a deadline on the newly reintroduced Enhanced Autopilot package. Earlier this year, we reported on indications that Tesla is worki…",
+         "urlToImage" : "https://electrek.co/wp-content/uploads/sites/3/2019/04/Tesla-self-driving.jpg?quality=82&strip=all",
+         "source" : {
+            "id" : null,
+            "name" : "Electrek"
+         },
          "content" : "Tesla is preparing to launch a new Full Self-Driving monthly subscription based on an update to its mobile app and it is putting a deadline on the newly reintroduced Enhanced Autopilot package.\r\nEarl… [+2722 chars]"
       },
       {
-         "publishedAt" : "2020-09-20T16:30:11Z",
-         "url" : "https://www.nejm.org/doi/full/10.1056/NEJMoa2022485",
+         "content" : "HSBC allowed fraudsters to transfer millions of dollars around the world even after it had learned of their scam, leaked secret files show.\r\nBritain's biggest bank moved the money through its US busi… [+9279 chars]",
+         "url" : "https://www.bbc.com/news/uk-54225572",
+         "publishedAt" : "2020-09-20T17:11:56Z",
+         "source" : {
+            "id" : null,
+            "name" : "BBC News"
+         },
+         "description" : "The transfers took place after officials were told of the $80m fraud, the secret files reveal.",
+         "urlToImage" : "https://ichef.bbci.co.uk/news/1024/branded_news/4F74/production/_114504302_index_promo_fincen_version03_976.png",
+         "title" : "FinCEN Files: HSBC moved Ponzi scheme millions despite warning - BBC News",
+         "author" : "https://www.facebook.com/bbcnews"
+      },
+      {
+         "content" : "A subway train in New York City  derailed after hitting debris that was thrown on the tracks, leaving three people with minor injuries, according to officials.\r\nNew York City Transit Authority Interi… [+2862 chars]",
+         "source" : {
+            "name" : "Fox News",
+            "id" : "fox-news"
+         },
+         "description" : "A subway train in New York City jumped the tracks and derailed after hitting debris that was thrown on the tracks, leaving three people with minor injuries, according to officials.",
+         "urlToImage" : "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/subwayderailment_1.jpg",
+         "author" : "Travis Fedschun",
+         "title" : "NYC subway train derails after striking 'debris' on tracks, suspect identified by police - Fox News",
+         "url" : "https://www.foxnews.com/us/nyc-subway-train-derailment-manhattan-a-train-new-york-city-nypd-suspect",
+         "publishedAt" : "2020-09-20T16:48:53Z"
+      },
+      {
          "content" : "From the Robert H. Lurie Comprehensive Cancer Center, Northwestern University Feinberg School of Medicine, Chicago (M.H.); Vall dHebron Institute of Oncology and Vall dHebron University Hospital, Bar… [+1722 chars]",
+         "url" : "https://www.nejm.org/doi/full/10.1056/NEJMoa2022485",
+         "publishedAt" : "2020-09-20T16:30:11Z",
          "description" : "Original Article from The New England Journal of Medicine — Survival with Olaparib in Metastatic Castration-Resistant Prostate Cancer",
-         "author" : null,
          "urlToImage" : "https://www.nejm.org/na101/home/literatum/publisher/mms/journals/content/nejm/0/nejm.ahead-of-print/nejmoa2022485/20200916/images/img_small/nejmoa2022485_f1.jpeg",
          "source" : {
             "name" : "nejm.org",
             "id" : null
          },
-         "title" : "Survival with Olaparib in Metastatic Castration-Resistant Prostate Cancer - nejm.org"
+         "title" : "Survival with Olaparib in Metastatic Castration-Resistant Prostate Cancer - nejm.org",
+         "author" : null
       },
       {
-         "urlToImage" : "https://s1.cdn.autoevolution.com/images/news/nissan-400z-rendered-with-370z-s-boomerang-headlight-design-148959-7.jpg",
-         "author" : "Mihnea Radu",
-         "source" : {
-            "id" : null,
-            "name" : "autoevolution"
-         },
-         "title" : "Nissan 400Z Rendered With 370Z's Boomerang Headlight Design - autoevolution",
-         "description" : "Nissan recently unveiled the Z Proto concept, a preview for the 400Z sports car that could potentially arrive for the 2023 model year. The retro design seems to be loved by everybody, but we're not sure it's the right move.",
          "content" : "You see, everybody says retro lines, which the Z concept has, are cool. However, when it's time to buy cars, money seems to flow towards the aggressive, modern sports models. For example, the MINI ha… [+1347 chars]",
+         "author" : "Mihnea Radu",
+         "title" : "Nissan 400Z Rendered With 370Z's Boomerang Headlight Design - autoevolution",
+         "source" : {
+            "name" : "autoevolution",
+            "id" : null
+         },
+         "description" : "Nissan recently unveiled the Z Proto concept, a preview for the 400Z sports car that could potentially arrive for the 2023 model year. The retro design seems to be loved by everybody, but we're not sure it's the right move.",
+         "urlToImage" : "https://s1.cdn.autoevolution.com/images/news/nissan-400z-rendered-with-370z-s-boomerang-headlight-design-148959-7.jpg",
          "publishedAt" : "2020-09-20T16:14:00Z",
          "url" : "https://www.autoevolution.com/news/nissan-400z-rendered-with-370z-s-boomerang-headlight-design-148959.html"
       },
       {
          "content" : "Warm-up on a cool fall day with Chicken Pot Pie that is available every single day, the restaurant recently announced. \"The Chicken Pot Pie, which features slow-simmered chicken, potatoes, peas, carr… [+796 chars]",
-         "publishedAt" : "2020-09-20T15:55:00Z",
-         "url" : "https://www.eatthis.com/cracker-barrel-changes/",
+         "title" : "5 Major Changes You'll See at Cracker Barrel - msnNOW",
          "author" : null,
-         "urlToImage" : "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB1588Pa.img?h=315&w=600&m=6&q=60&o=t&l=f&f=jpg",
+         "description" : "Say hello to some new menu items but goodbye to others!",
          "source" : {
             "id" : null,
             "name" : "Eatthis.com"
          },
-         "title" : "5 Major Changes You'll See at Cracker Barrel - msnNOW",
-         "description" : "Say hello to some new menu items but goodbye to others!"
+         "urlToImage" : "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB1588Pa.img?h=315&w=600&m=6&q=60&o=t&l=f&f=jpg",
+         "publishedAt" : "2020-09-20T15:55:00Z",
+         "url" : "https://www.eatthis.com/cracker-barrel-changes/"
       },
       {
          "content" : "Although unconfirmed, the next Z is understood to ride on a version of the current car's long-serving chassis.\r\nAs a result, even though the Proto Z is 5 inches longer than today's car, it's possible… [+110 chars]",
-         "publishedAt" : "2020-09-20T15:43:31Z",
-         "url" : "https://www.cnet.com/roadshow/pictures/nissan-z-proto-400z-370z/",
          "urlToImage" : "https://cnet1.cbsistatic.com/img/MVgNFTmAzduTMgtVWQ3WNAMBvC4=/1200x630/2020/09/14/d5b534b5-330c-4194-8446-2a925bf8b327/nissan-z-proto-400z-ogi.jpg",
-         "author" : "Chris Paukert",
+         "description" : "After many years of rumors, the Nissan Z Proto proves that a successor to today's Z-Car is coming.This rear-wheel-drive sports car is one for driving enthusiasts, powered by a twin-turbo V6 stirred by a six-speed manual transmission.",
          "source" : {
             "name" : "CNET",
             "id" : null
          },
+         "author" : "Chris Paukert",
          "title" : "Nissan Z Proto is a four-wheeled love letter to driving purists - Roadshow - CNET",
-         "description" : "After many years of rumors, the Nissan Z Proto proves that a successor to today's Z-Car is coming.This rear-wheel-drive sports car is one for driving enthusiasts, powered by a twin-turbo V6 stirred by a six-speed manual transmission."
+         "url" : "https://www.cnet.com/roadshow/pictures/nissan-z-proto-400z-370z/",
+         "publishedAt" : "2020-09-20T15:43:31Z"
       },
       {
-         "author" : "Christina Morales",
-         "urlToImage" : "https://static01.nyt.com/images/2020/09/20/multimedia/20xp-derailment/20xp-derailment-facebookJumbo.jpg",
-         "title" : "Subway Derailment Injures 3, Officials Say - The New York Times",
-         "source" : {
-            "name" : "New York Times",
-            "id" : null
-         },
-         "description" : "Three people had minor injuries after a northbound A train jumped the tracks at the 14th Street station, officials said.",
-         "content" : "The authorities suspect that someone threw an object onto the trains track, causing the accident, a Police Department spokesman, Adam Navarro, said. The police took a 30-year-old man who is believed … [+859 chars]",
-         "publishedAt" : "2020-09-20T15:17:00Z",
-         "url" : "https://www.nytimes.com/2020/09/20/nyregion/nyc-subway-derailment.html"
-      },
-      {
-         "content" : "Ogden, Utah, witnessed the annual gathering of coal-rollers on Saturday's Weekend on the Edge Dyno competition. It's a motoring event that's been described by Diesel Tech as a celebration of \"all thi… [+1987 chars]",
-         "url" : "https://www.thedrive.com/news/36562/watch-this-cummins-diesel-engine-launch-itself-out-of-the-engine-bay-at-a-dyno-competition",
-         "publishedAt" : "2020-09-20T15:14:02Z",
+         "content" : "A 20-year-old supermarket staff employee in Vermont was fired from his job after stopping a man who tried to steal an elderly woman's purse, WCAX reported.\r\nThe Hannaford grocery store employee, Amir… [+1156 chars]",
+         "urlToImage" : "https://i.insider.com/5f67699e323fc4001e0d751d?width=1200&format=jpeg",
          "source" : {
             "id" : null,
-            "name" : "The Drive"
+            "name" : "INSIDER"
          },
-         "title" : "Watch This Cummins Diesel Engine Launch Itself Out of the Engine Bay at a Dyno Competition - The Drive",
-         "urlToImage" : "https://api.thedrive.com/wp-content/uploads/2020/09/Diesel-Dyno-Kaboom.jpg?quality=85",
-         "author" : "Jesus Garcia",
-         "description" : "What happens when a diesel engine decides it wants to be a rocket instead."
+         "description" : "Amir Shedyak, a grocery store employee, told local news that he was fired after trying to stop a purse snatcher during a shift in August.",
+         "author" : "Taylor Ardrey",
+         "title" : "Vermont supermarket worker fired for stopping purse snatcher - Insider - INSIDER",
+         "url" : "https://www.insider.com/vermont-supermarket-worker-fired-for-stopping-purse-snatcher-2020-9",
+         "publishedAt" : "2020-09-20T15:43:07Z"
       },
       {
-         "publishedAt" : "2020-09-20T15:00:00Z",
-         "url" : "https://www.wsj.com/articles/meat-was-once-in-short-supply-amid-pandemic-now-its-on-sale-11600614000",
+         "content" : "New York (CNN Business)With the presidential election looming and uncertainty growing about what will happen to the stock market and economy after that, private companies are racing to make their deb… [+5690 chars]",
+         "source" : {
+            "id" : "cnn",
+            "name" : "CNN"
+         },
+         "description" : "With the presidential election looming and uncertainty growing about what will happen to the stock market and economy after that, private companies are racing to make their debuts on Wall Street.",
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200427124425-airbnb-0420-restricted-super-tease.jpg",
+         "author" : "Paul R. La Monica, CNN Business",
+         "title" : "More new stocks, please! Companies are rushing to IPO before the election - CNN",
+         "url" : "https://www.cnn.com/2020/09/20/investing/ipos-spacs-stocks/index.html",
+         "publishedAt" : "2020-09-20T15:06:00Z"
+      },
+      {
          "content" : "Meat prices are falling at grocery stores as last springs shortages fade and livestock clog farms, benefiting consumers but hurting meatpackers and farmers already hit by Covid-19 disruptions.\r\nPrice… [+1252 chars]",
+         "url" : "https://www.wsj.com/articles/meat-was-once-in-short-supply-amid-pandemic-now-its-on-sale-11600614000",
+         "publishedAt" : "2020-09-20T15:00:00Z",
          "description" : "After springtime shortages, supermarkets are selling meat for lower prices as supplies rebound and exports decline",
-         "urlToImage" : "https://images.wsj.net/im-231992/social",
-         "author" : "Jacob Bunge, Jaewon Kang",
-         "title" : "Meat Was Once in Short Supply Amid Pandemic. Now, It’s on Sale. - The Wall Street Journal",
-         "source" : {
-            "id" : "the-wall-street-journal",
-            "name" : "The Wall Street Journal"
-         }
-      },
-      {
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106432993-1583778228450gettyimages-1211215110.jpeg?v=1584120487",
-         "author" : "Lorie Konish",
-         "title" : "Here's what a Biden presidential win may mean for your Social Security benefits - CNBC",
-         "source" : {
-            "id" : null,
-            "name" : "CNBC"
-         },
-         "description" : "Democratic presidential nominee Joe Biden's plan for Social Security calls for increased benefits for low earners and more taxes for high-income individuals.",
-         "content" : "Democratic presidential candidate former Vice President Joe Biden reacts while giving a speech during a campaign event at Tougaloo College on March 08, 2020 in Tougaloo, Mississippi.\r\nThe 2020 presid… [+7287 chars]",
-         "publishedAt" : "2020-09-20T14:19:00Z",
-         "url" : "https://www.cnbc.com/2020/09/20/what-a-biden-presidency-could-mean-for-social-security-benefits.html"
-      },
-      {
-         "description" : "Most people are shocked when they realize how much they’re actually spending at the grocery store.",
-         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/09/0/0/money-savings-istock.jpg?ve=1&tl=1",
-         "author" : "Dave Ramsey",
-         "title" : "Dave Ramsey: Why this habit may give you more money than a salary boost - Fox Business",
-         "source" : {
-            "id" : null,
-            "name" : "Fox Business"
-         },
-         "publishedAt" : "2020-09-20T13:43:15Z",
-         "url" : "https://www.foxbusiness.com/personal-finance/dave-ramsey-habit-money-salary-boost",
-         "content" : "Editor's note: Money expert Dave Ramsey is CEO of Ramsey Solutions. He has authored seven best-selling books, including \"The Total Money Makeover.\" His radio show \"The Dave Ramsey Show\" is heard by m… [+2968 chars]"
-      },
-      {
-         "content" : "USPTO (United States Patent and Trademark Office) published a patent application filed by the USPS. The patent claims that a combination of the security of the blockchain and the mail service provide… [+6560 chars]",
-         "publishedAt" : "2020-09-20T13:24:00Z",
-         "url" : "https://www.forbes.com/sites/vipinbharathan/2020/09/20/us-postal-service-files-a-patent-for--voting-system-combining-mail-and-a-blockchain/",
-         "author" : "Vipin Bharathan",
-         "urlToImage" : "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6675de618265f4ddf3bd8d%2F0x0.jpg",
-         "source" : {
-            "name" : "Forbes",
-            "id" : null
-         },
-         "title" : "US Postal Service Files A Patent For Voting System Combining Mail And A Blockchain - Forbes",
-         "description" : "USPTO (United States Patent and Trademark Office) published a patent application filed by the USPS. A reading of the patent itself. Opposition to technology in election systems, from election \"experts\". Why this year is different."
-      },
-      {
-         "description" : "Before a blackout hits your area, here are the phone settings you’ll want to enable and the gear that will keep you connected in case of a power outage",
          "source" : {
             "name" : "The Wall Street Journal",
             "id" : "the-wall-street-journal"
          },
-         "title" : "Prep Your Tech for Power Outages and Other Emergencies - The Wall Street Journal",
-         "author" : "Nicole Nguyen",
-         "urlToImage" : "https://images.wsj.net/im-233457/social",
-         "url" : "https://www.wsj.com/articles/prep-your-tech-for-power-outages-and-other-emergencies-11600606800",
-         "publishedAt" : "2020-09-20T13:00:00Z",
-         "content" : "As an inferno sweeps the West and hurricanes spin over the Atlantic, power outages pose a big risk for those living in affected areas. Recently, in California, the utility PG&amp;E pre-emptively shut… [+332 chars]"
+         "urlToImage" : "https://images.wsj.net/im-231992/social",
+         "author" : "Jacob Bunge, Jaewon Kang",
+         "title" : "Meat Was Once in Short Supply Amid Pandemic. Now, It’s on Sale. - The Wall Street Journal"
       },
       {
-         "publishedAt" : "2020-09-20T12:40:00Z",
-         "url" : "https://www.nj.com/business/2020/09/nj-top-workplaces-ranking-reveals-the-40-employers-who-took-home-top-honors.html",
-         "content" : "(Editors note: Employee surveys were conducted in 2019 prior to the pandemic.)\r\nWorking for a company where you believe youre making a valuable contribution and your work is appreciated can often fee… [+19058 chars]",
-         "description" : "Nominees for New Jersey’s Top Workplace honors were limited to companies with 50 or more employees that spanned from northern New Jersey through the Jersey Shore area.",
-         "author" : null,
-         "urlToImage" : "https://www.nj.com/resizer/yhGtAfTBE9_b6X3CljqMhFc8VE8=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/7ELJSJTJB5DMHHPHG3LGRXR5QI.jpg",
-         "title" : "N.J. Top Workplaces: Ranking reveals the 40 employers who took home top honors - nj.com",
+         "content" : "Democratic presidential candidate former Vice President Joe Biden reacts while giving a speech during a campaign event at Tougaloo College on March 08, 2020 in Tougaloo, Mississippi.\r\nThe 2020 presid… [+7287 chars]",
+         "publishedAt" : "2020-09-20T14:19:00Z",
+         "url" : "https://www.cnbc.com/2020/09/20/what-a-biden-presidency-could-mean-for-social-security-benefits.html",
+         "title" : "Here's what a Biden presidential win may mean for your Social Security benefits - CNBC",
+         "author" : "Lorie Konish",
+         "description" : "Democratic presidential nominee Joe Biden's plan for Social Security calls for increased benefits for low earners and more taxes for high-income individuals.",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106432993-1583778228450gettyimages-1211215110.jpeg?v=1584120487",
          "source" : {
-            "name" : "nj.com",
+            "name" : "CNBC",
             "id" : null
          }
       },
       {
-         "urlToImage" : "https://www.nejm.org/na101/home/literatum/publisher/mms/journals/content/nejm/0/nejm.ahead-of-print/nejmoa1917239/20200909/images/img_small/nejmoa1917239_f1.jpeg",
-         "author" : null,
+         "content" : "Editor's note: Money expert Dave Ramsey is CEO of Ramsey Solutions. He has authored seven best-selling books, including \"The Total Money Makeover.\" His radio show \"The Dave Ramsey Show\" is heard by m… [+2968 chars]",
+         "publishedAt" : "2020-09-20T13:43:15Z",
+         "url" : "https://www.foxbusiness.com/personal-finance/dave-ramsey-habit-money-salary-boost",
+         "author" : "Dave Ramsey",
+         "title" : "Dave Ramsey: Why this habit may give you more money than a salary boost - Fox Business",
+         "description" : "Most people are shocked when they realize how much they’re actually spending at the grocery store.",
          "source" : {
-            "name" : "nejm.org",
+            "name" : "Fox Business",
             "id" : null
          },
-         "title" : "KRASG12C Inhibition with Sotorasib in Advanced Solid Tumors - nejm.org",
-         "description" : "Original Article from The New England Journal of Medicine — KRASG12C Inhibition with Sotorasib in Advanced Solid Tumors",
-         "content" : "From the Department of Investigational Cancer Therapeutics, Phase I Clinical Trials Program, University of Texas M.D. Anderson Cancer Center, Houston (D.S.H., F.M.-B.); the Department of Medical Onco… [+2519 chars]",
-         "publishedAt" : "2020-09-20T12:26:49Z",
-         "url" : "https://www.nejm.org/doi/full/10.1056/NEJMoa1917239"
+         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/09/0/0/money-savings-istock.jpg?ve=1&tl=1"
       },
       {
-         "title" : "ESMO: Where will Merck, Eisai take Keytruda-Lenvima next? Ovarian and colorectal cancer could be good options, data show - FiercePharma",
-         "source" : {
-            "name" : "FiercePharma",
-            "id" : null
-         },
-         "urlToImage" : "https://qtxasset.com/fiercepharma/1600545874/Lenvima%20Eisai.png/Lenvima%20Eisai.png?5wmmdSXVhmMp5.KTcE8HiisjdUsjPsVG",
-         "author" : null,
-         "description" : "Merck & Co. already has an approval for Keytruda in tandem with Lenvima—a drug it shares with Eisai—in endometrial cancer. But the partners are trying to take the combo into additional cancers, and new data provide a glimpse of where it might go next.",
-         "content" : "Merck &amp; Co. already has an approval for Keytruda in tandem with Lenvimaa drug it shares with Eisaiin endometrial cancer. But the partners are trying to take the combo into additional cancers, and… [+3574 chars]",
-         "url" : "https://www.fiercepharma.com/pharma/esmo-where-will-merck-eisai-take-keytruda-lenvima-next-ovarian-and-colorectal-cancer-could",
-         "publishedAt" : "2020-09-20T12:25:00Z"
-      },
-      {
-         "url" : "https://www.businessinsider.com/rv-camper-van-travel-trailer-makers-changing-digital-nomads-2020-9",
-         "publishedAt" : "2020-09-20T12:23:00Z",
-         "content" : "© Blacksford\r\n Blacksford's van. Blacksford\r\nMany RV, camper van, and travel trailer makers have started catering their road travel builds to accommodate the rising popularity of digital nomads and \"… [+7675 chars]",
-         "description" : "As the pandemic rages and people around the world take up a \"digital nomad\" lifestyle RV makers are coming with floor plans that include workstations, WiFi, and more.",
-         "title" : "RV makers are rushing to cater to the new 'work from anywhere' crowd as the pandemic continues to force people to rethink their lives - msnNOW",
-         "source" : {
-            "id" : "business-insider",
-            "name" : "Business Insider"
-         },
-         "urlToImage" : "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB19eel6.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg",
-         "author" : null
-      },
-      {
-         "content" : "Image copyrightGetty Images\r\nRolls-Royce is considering tapping investors for £2.5bn to boost its finances as coronavirus continues to wreak havoc on global travel.\r\nThe firm, which makes engines for… [+2474 chars]",
-         "publishedAt" : "2020-09-20T11:05:51Z",
-         "url" : "https://www.bbc.com/news/business-54223864",
-         "urlToImage" : "https://ichef.bbci.co.uk/news/1024/branded_news/9A41/production/_114498493__112696022_gettyimages-626687434.jpg",
-         "author" : "https://www.facebook.com/bbcnews",
-         "title" : "Coronavirus: Rolls-Royce considers tapping investors for £2.5bn - BBC News",
+         "url" : "https://lifehacker.com/how-to-apply-for-a-job-that-pays-50k-to-explore-nation-1845116265",
+         "publishedAt" : "2020-09-20T13:30:00Z",
          "source" : {
             "id" : null,
-            "name" : "BBC News"
+            "name" : "Lifehacker.com"
          },
-         "description" : "The jet engine-maker is reportedly in talks with sovereign wealth funds to raise money."
+         "description" : "The job title is Chief Exploration Officer.",
+         "urlToImage" : "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/hpc0o1599wefs8u7pp5y.jpg",
+         "title" : "How to Apply for a Job That Pays $50K to Explore National Parks - Lifehacker",
+         "author" : "Elizabeth Yuko",
+         "content" : "It appears as though we are currently living in the golden age of contests marketed as dream jobs, with new opportunities being announced regularly. The latest one comes from Michelob ULTRA Pure Gold… [+2083 chars]"
+      },
+      {
+         "content" : "USPTO (United States Patent and Trademark Office) published a patent application filed by the USPS. The patent claims that a combination of the security of the blockchain and the mail service provide… [+6560 chars]",
+         "url" : "https://www.forbes.com/sites/vipinbharathan/2020/09/20/us-postal-service-files-a-patent-for--voting-system-combining-mail-and-a-blockchain/",
+         "publishedAt" : "2020-09-20T13:24:00Z",
+         "urlToImage" : "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6675de618265f4ddf3bd8d%2F0x0.jpg",
+         "source" : {
+            "id" : null,
+            "name" : "Forbes"
+         },
+         "description" : "USPTO (United States Patent and Trademark Office) published a patent application filed by the USPS. A reading of the patent itself. Opposition to technology in election systems, from election \"experts\". Why this year is different.",
+         "title" : "US Postal Service Files A Patent For Voting System Combining Mail And A Blockchain - Forbes",
+         "author" : "Vipin Bharathan"
       }
    ],
-   "totalResults" : 70
+   "totalResults" : 70,
+   "status" : "ok"
 }
