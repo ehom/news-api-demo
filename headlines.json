@@ -1,266 +1,266 @@
 {
-   "status" : "ok",
+   "totalResults" : 70,
    "articles" : [
       {
+         "author" : "Alaa Elassar, CNN",
+         "url" : "https://www.cnn.com/2020/09/20/health/pine-sol-covid-19-surfaces-kills-coronavirus-trnd/index.html",
+         "description" : "Pine-Sol's original cleaner has been approved by the US Environmental Protection Agency (EPA) as a product that can kill the coronavirus on frequently used surfaces.",
+         "title" : "Pine-Sol cleaner has been approved to kill coronavirus on hard surfaces - CNN",
+         "source" : {
+            "name" : "CNN",
+            "id" : "cnn"
+         },
+         "publishedAt" : "2020-09-20T19:48:00Z",
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200920112639-pine-sol-stock-super-tease.jpg",
+         "content" : "(CNN)Pine-Sol's original cleaner has been approved by the US Environmental Protection Agency (EPA) as a product that can kill the coronavirus on frequently used surfaces.\r\nThe product was added to th… [+2138 chars]"
+      },
+      {
+         "urlToImage" : "https://i.dailymail.co.uk/1s/2020/09/20/20/33405068-0-image-a-6_1600629770260.jpg",
+         "publishedAt" : "2020-09-20T19:27:16Z",
+         "source" : {
+            "id" : null,
+            "name" : "Daily Mail"
+         },
+         "content" : "A Spirit Airlines flight attendant has threatened to call police on a passenger who was wearing a neck gaiter as a face covering, claiming it was 'illegal' because it did not have two layers of cloth… [+3028 chars]",
+         "description" : "The incident, which occurred during a flight on the budget carrier sometime last week, was recorded by the passenger and posted to social media.",
+         "url" : "https://www.dailymail.co.uk/news/article-8753069/Spirit-Airlines-flight-attendant-passenger-clash-neck-gaiter.html",
+         "author" : "By Andrew Court For Dailymail.com",
+         "title" : "Spirit Airlines flight attendant and passenger clash over neck gaiter - Daily Mail"
+      },
+      {
+         "content" : "The security hole isn’t difficult to use. It takes “about three seconds in practice,” according to Secura.\r\nAgencies have to install the patch no later than September 21st.\r\nWhile the alert is clearl… [+485 chars]",
+         "source" : {
+            "id" : "engadget",
+            "name" : "Engadget"
+         },
+         "publishedAt" : "2020-09-20T18:35:05Z",
+         "urlToImage" : "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-09%2F28952e10-fb67-11ea-befb-79e1462ebfcc&client=amp-blogside-v2&signature=db36ffe77439f8c400f09a5584064bbc1abfed13",
+         "title" : "Homeland Security warns of a 'critical' security flaw in Windows servers - Engadget",
+         "author" : "",
+         "url" : "https://www.engadget.com/homeland-security-warning-zerologon-windows-server-flaw-175800739.html",
+         "description" : "Homeland Security has issued an emergency alert for a Windows security flaw, Zerologon, that allows attackers to compromise entire networks."
+      },
+      {
+         "author" : null,
+         "description" : "Tesla is preparing to launch a new Full Self-Driving monthly subscription based on an update to its mobile app and it is putting a deadline on the newly reintroduced Enhanced Autopilot package. Earlier this year, we reported on indications that Tesla is worki…",
          "url" : "https://electrek.co/2020/09/20/tesla-full-self-driving-subscription-deadline-enhanced-autopilot/",
+         "title" : "Tesla is preparing to launch Full Self-Driving subscription, puts deadline on Enhanced Autopilot - Electrek",
          "publishedAt" : "2020-09-20T17:55:00Z",
          "source" : {
-            "name" : "Electrek",
-            "id" : null
+            "id" : null,
+            "name" : "Electrek"
          },
          "urlToImage" : "https://electrek.co/wp-content/uploads/sites/3/2019/04/Tesla-self-driving.jpg?quality=82&strip=all",
-         "author" : null,
-         "title" : "Tesla is preparing to launch Full Self-Driving subscription, puts deadline on Enhanced Autopilot - Electrek",
-         "description" : "Tesla is preparing to launch a new Full Self-Driving monthly subscription based on an update to its mobile app and it is putting a deadline on the newly reintroduced Enhanced Autopilot package. Earlier this year, we reported on indications that Tesla is worki…",
          "content" : "Tesla is preparing to launch a new Full Self-Driving monthly subscription based on an update to its mobile app and it is putting a deadline on the newly reintroduced Enhanced Autopilot package.\r\nEarl… [+2722 chars]"
       },
       {
-         "title" : "Bird releases more affordable, foldable Air electric scooter for $599 - Engadget",
-         "author" : "",
-         "description" : "Bird has released the Air, a custom foldable e-scooter you can buy outright for a more affordable $599.",
-         "content" : "If the premium Bird One is overkill for your transportation needs, Bird has a more reasonably priced electric scooter in store. The mobility company has released a custom-made Bird Air e-scooter that… [+419 chars]",
-         "publishedAt" : "2020-09-20T17:30:09Z",
-         "url" : "https://www.engadget.com/bird-air-electric-scooter-170120903.html",
-         "urlToImage" : "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-09%2Fca6a8ea0-fb5e-11ea-a93f-7c2c7d3a6d0c&client=amp-blogside-v2&signature=14b363fbcc43f2fdc157701fbd172fe5657ac89d",
+         "urlToImage" : "https://www.nejm.org/na101/home/literatum/publisher/mms/journals/content/nejm/0/nejm.ahead-of-print/nejmoa2022485/20200916/images/img_small/nejmoa2022485_f1.jpeg",
          "source" : {
-            "name" : "Engadget",
-            "id" : "engadget"
-         }
-      },
-      {
-         "title" : "Spirit Airlines reiterates mask policy, CDC standards after passenger refuses to swap gaiter - USA TODAY",
-         "description" : "Spirit Airlines reiterates its policy for wearing only CDC-approved masks during the COVID-19 pandemic after a passenger insists on wearing a gaiter.",
-         "author" : "Hannah Yasharoff",
-         "content" : "Here are 6 tips to know before you book your flight during the COVID-19 pandemic.\r\nUSA TODAY\r\nSpirit Airlines reiterated its policy for wearing only masks approved by the Centers for Disease Control … [+3676 chars]",
-         "publishedAt" : "2020-09-20T16:13:35Z",
-         "url" : "https://www.usatoday.com/story/travel/news/2020/09/20/spirit-passenger-wears-neck-gaiter-airline-reiterates-cdc-mask-policy/5844435002/",
-         "urlToImage" : "https://www.gannett-cdn.com/-mm-/332da3aedc12b08bb9f423776682dae5c2629588/c=0-46-1487-882/local/-/media/2020/08/29/USATODAY/usatsports/airline-spirit-airlines-airbus-a319-save.JPG?width=1600&height=800&fit=crop",
-         "source" : {
-            "name" : "USA Today",
-            "id" : "usa-today"
-         }
-      },
-      {
-         "content" : "New York (CNN Business)With the presidential election looming and uncertainty growing about what will happen to the stock market and economy after that, private companies are racing to make their deb… [+5690 chars]",
-         "author" : "Paul R. La Monica, CNN Business",
-         "title" : "More new stocks, please! Companies are rushing to IPO before the election - CNN",
-         "description" : "With the presidential election looming and uncertainty growing about what will happen to the stock market and economy after that, private companies are racing to make their debuts on Wall Street.",
-         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200427124425-airbnb-0420-restricted-super-tease.jpg",
-         "source" : {
-            "id" : "cnn",
-            "name" : "CNN"
+            "name" : "nejm.org",
+            "id" : null
          },
-         "publishedAt" : "2020-09-20T15:06:00Z",
-         "url" : "https://www.cnn.com/2020/09/20/investing/ipos-spacs-stocks/index.html"
+         "publishedAt" : "2020-09-20T16:30:11Z",
+         "content" : "From the Robert H. Lurie Comprehensive Cancer Center, Northwestern University Feinberg School of Medicine, Chicago (M.H.); Vall dHebron Institute of Oncology and Vall dHebron University Hospital, Bar… [+1722 chars]",
+         "url" : "https://www.nejm.org/doi/full/10.1056/NEJMoa2022485",
+         "description" : "Original Article from The New England Journal of Medicine — Survival with Olaparib in Metastatic Castration-Resistant Prostate Cancer",
+         "author" : null,
+         "title" : "Survival with Olaparib in Metastatic Castration-Resistant Prostate Cancer - nejm.org"
       },
       {
-         "title" : "What to expect from Tesla on 'battery day' - CNBC",
-         "author" : "Lora Kolodny",
-         "description" : "Elon Musk's electric car company is likely to disclose specifications for at least one new type of battery cell that the company has been developing, and may give an aspiring start-date for manufacturing its own cells at scale, too.",
-         "content" : "Tesla plans to host its annual shareholder meeting, followed by a \"battery technology day\" presentation, on Tuesday, September 22.\r\nElon Musk's electric car company is likely to disclose specificatio… [+4136 chars]",
-         "publishedAt" : "2020-09-20T14:27:00Z",
-         "url" : "https://www.cnbc.com/2020/09/20/what-to-expect-from-tesla-on-battery-day-.html",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/105530343-1540479093997rts2465d.jpg?v=1551454714",
+         "title" : "Nissan 400Z Rendered With 370Z's Boomerang Headlight Design - autoevolution",
+         "author" : "Mihnea Radu",
+         "url" : "https://www.autoevolution.com/news/nissan-400z-rendered-with-370z-s-boomerang-headlight-design-148959.html",
+         "description" : "Nissan recently unveiled the Z Proto concept, a preview for the 400Z sports car that could potentially arrive for the 2023 model year. The retro design seems to be loved by everybody, but we're not sure it's the right move.",
+         "content" : "You see, everybody says retro lines, which the Z concept has, are cool. However, when it's time to buy cars, money seems to flow towards the aggressive, modern sports models. For example, the MINI ha… [+1347 chars]",
          "source" : {
-            "name" : "CNBC",
+            "name" : "autoevolution",
+            "id" : null
+         },
+         "publishedAt" : "2020-09-20T16:14:00Z",
+         "urlToImage" : "https://s1.cdn.autoevolution.com/images/news/nissan-400z-rendered-with-370z-s-boomerang-headlight-design-148959-7.jpg"
+      },
+      {
+         "title" : "5 Major Changes You'll See at Cracker Barrel - msnNOW",
+         "author" : null,
+         "url" : "https://www.eatthis.com/cracker-barrel-changes/",
+         "description" : "Say hello to some new menu items but goodbye to others!",
+         "content" : "Warm-up on a cool fall day with Chicken Pot Pie that is available every single day, the restaurant recently announced. \"The Chicken Pot Pie, which features slow-simmered chicken, potatoes, peas, carr… [+796 chars]",
+         "source" : {
+            "name" : "Eatthis.com",
+            "id" : null
+         },
+         "publishedAt" : "2020-09-20T15:55:00Z",
+         "urlToImage" : "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB1588Pa.img?h=315&w=600&m=6&q=60&o=t&l=f&f=jpg"
+      },
+      {
+         "url" : "https://www.cnet.com/roadshow/pictures/nissan-z-proto-400z-370z/",
+         "description" : "After many years of rumors, the Nissan Z Proto proves that a successor to today's Z-Car is coming.This rear-wheel-drive sports car is one for driving enthusiasts, powered by a twin-turbo V6 stirred by a six-speed manual transmission.",
+         "author" : "Chris Paukert",
+         "title" : "Nissan Z Proto is a four-wheeled love letter to driving purists - Roadshow - CNET",
+         "urlToImage" : "https://cnet1.cbsistatic.com/img/MVgNFTmAzduTMgtVWQ3WNAMBvC4=/1200x630/2020/09/14/d5b534b5-330c-4194-8446-2a925bf8b327/nissan-z-proto-400z-ogi.jpg",
+         "source" : {
+            "id" : null,
+            "name" : "CNET"
+         },
+         "publishedAt" : "2020-09-20T15:43:31Z",
+         "content" : "Although unconfirmed, the next Z is understood to ride on a version of the current car's long-serving chassis.\r\nAs a result, even though the Proto Z is 5 inches longer than today's car, it's possible… [+110 chars]"
+      },
+      {
+         "author" : "Christina Morales",
+         "description" : "Three people had minor injuries after a northbound A train jumped the tracks at the 14th Street station, officials said.",
+         "url" : "https://www.nytimes.com/2020/09/20/nyregion/nyc-subway-derailment.html",
+         "title" : "Subway Derailment Injures 3, Officials Say - The New York Times",
+         "publishedAt" : "2020-09-20T15:17:00Z",
+         "source" : {
+            "id" : null,
+            "name" : "New York Times"
+         },
+         "urlToImage" : "https://static01.nyt.com/images/2020/09/20/multimedia/20xp-derailment/20xp-derailment-facebookJumbo.jpg",
+         "content" : "The authorities suspect that someone threw an object onto the trains track, causing the accident, a Police Department spokesman, Adam Navarro, said. The police took a 30-year-old man who is believed … [+859 chars]"
+      },
+      {
+         "title" : "Watch This Cummins Diesel Engine Launch Itself Out of the Engine Bay at a Dyno Competition - The Drive",
+         "description" : "What happens when a diesel engine decides it wants to be a rocket instead.",
+         "url" : "https://www.thedrive.com/news/36562/watch-this-cummins-diesel-engine-launch-itself-out-of-the-engine-bay-at-a-dyno-competition",
+         "author" : "Jesus Garcia",
+         "content" : "Ogden, Utah, witnessed the annual gathering of coal-rollers on Saturday's Weekend on the Edge Dyno competition. It's a motoring event that's been described by Diesel Tech as a celebration of \"all thi… [+1987 chars]",
+         "urlToImage" : "https://api.thedrive.com/wp-content/uploads/2020/09/Diesel-Dyno-Kaboom.jpg?quality=85",
+         "publishedAt" : "2020-09-20T15:14:02Z",
+         "source" : {
+            "name" : "The Drive",
             "id" : null
          }
       },
       {
+         "title" : "Meat Was Once in Short Supply Amid Pandemic. Now, It’s on Sale. - The Wall Street Journal",
+         "url" : "https://www.wsj.com/articles/meat-was-once-in-short-supply-amid-pandemic-now-its-on-sale-11600614000",
+         "description" : "After springtime shortages, supermarkets are selling meat for lower prices as supplies rebound and exports decline",
+         "author" : "Jacob Bunge, Jaewon Kang",
+         "content" : "Meat prices are falling at grocery stores as last springs shortages fade and livestock clog farms, benefiting consumers but hurting meatpackers and farmers already hit by Covid-19 disruptions.\r\nPrice… [+1252 chars]",
+         "urlToImage" : "https://images.wsj.net/im-231992/social",
+         "source" : {
+            "name" : "The Wall Street Journal",
+            "id" : "the-wall-street-journal"
+         },
+         "publishedAt" : "2020-09-20T15:00:00Z"
+      },
+      {
+         "author" : "Lorie Konish",
          "url" : "https://www.cnbc.com/2020/09/20/what-a-biden-presidency-could-mean-for-social-security-benefits.html",
-         "publishedAt" : "2020-09-20T14:19:00Z",
+         "description" : "Democratic presidential nominee Joe Biden's plan for Social Security calls for increased benefits for low earners and more taxes for high-income individuals.",
+         "title" : "Here's what a Biden presidential win may mean for your Social Security benefits - CNBC",
          "source" : {
             "id" : null,
             "name" : "CNBC"
          },
+         "publishedAt" : "2020-09-20T14:19:00Z",
          "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106432993-1583778228450gettyimages-1211215110.jpeg?v=1584120487",
-         "title" : "Here's what a Biden presidential win may mean for your Social Security benefits - CNBC",
-         "author" : "Lorie Konish",
-         "description" : "Democratic presidential nominee Joe Biden's plan for Social Security calls for increased benefits for low earners and more taxes for high-income individuals.",
          "content" : "Democratic presidential candidate former Vice President Joe Biden reacts while giving a speech during a campaign event at Tougaloo College on March 08, 2020 in Tougaloo, Mississippi.\r\nThe 2020 presid… [+7287 chars]"
       },
       {
-         "url" : "https://abc7ny.com/train-derailment-nyc-crash-subway/6463446/",
-         "publishedAt" : "2020-09-20T14:08:27Z",
-         "source" : {
-            "id" : null,
-            "name" : "WABC-TV"
-         },
-         "urlToImage" : "https://cdn.abcotvs.com/dip/images/6463382_092020-wabc-train-derail-img2.jpg?w=1600",
-         "title" : "NYC northbound A train derails at 8th Avenue and 14th Street train station in Chelsea; 1 injury reported - WABC-TV",
-         "author" : null,
-         "description" : "The subway derailment happened at the 8th Avenue and 14th Street train station in the Chelsea on a northbound A train.",
-         "content" : "CHELSEA, Manhattan (WABC) -- Police are questioning a man they say tossed debris onto subway tracks in Manhattan Sunday morning, causing a train to derail, snarling service for hours but causing no s… [+3563 chars]"
-      },
-      {
          "title" : "Dave Ramsey: Why this habit may give you more money than a salary boost - Fox Business",
-         "author" : "Dave Ramsey",
          "description" : "Most people are shocked when they realize how much they’re actually spending at the grocery store.",
-         "content" : "Editor's note: Money expert Dave Ramsey is CEO of Ramsey Solutions. He has authored seven best-selling books, including \"The Total Money Makeover.\" His radio show \"The Dave Ramsey Show\" is heard by m… [+2968 chars]",
-         "publishedAt" : "2020-09-20T13:43:15Z",
          "url" : "https://www.foxbusiness.com/personal-finance/dave-ramsey-habit-money-salary-boost",
+         "author" : "Dave Ramsey",
+         "content" : "Editor's note: Money expert Dave Ramsey is CEO of Ramsey Solutions. He has authored seven best-selling books, including \"The Total Money Makeover.\" His radio show \"The Dave Ramsey Show\" is heard by m… [+2968 chars]",
          "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/09/0/0/money-savings-istock.jpg?ve=1&tl=1",
+         "publishedAt" : "2020-09-20T13:43:15Z",
          "source" : {
             "id" : null,
             "name" : "Fox Business"
          }
       },
       {
-         "urlToImage" : "https://i.insider.com/5f672dad323fc4001e0d7503?width=1200&format=jpeg",
+         "content" : "USPTO (United States Patent and Trademark Office) published a patent application filed by the USPS. The patent claims that a combination of the security of the blockchain and the mail service provide… [+6560 chars]",
          "source" : {
-            "name" : "Business Insider",
-            "id" : "business-insider"
+            "name" : "Forbes",
+            "id" : null
          },
-         "publishedAt" : "2020-09-20T13:09:04Z",
-         "url" : "https://www.businessinsider.com/eu-new-powers-tech-giants-2020-9",
-         "content" : "The EU is looking to give itself sweeping new powers to crack down on US tech giants, EU commissioner Thierry Breton revealed to The Financial Times in an interview Sunday.\r\nBreton told the FT the ne… [+1703 chars]",
-         "author" : "Isobel Asher Hamilton",
-         "description" : "EU Commissioner Thierry Breton compared the power tech giants wield now to that of the banks before the financial crisis.",
-         "title" : "The EU wants to give itself the power to kick US tech giants out of Europe - Business Insider - Business Insider"
+         "publishedAt" : "2020-09-20T13:24:00Z",
+         "urlToImage" : "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6675de618265f4ddf3bd8d%2F0x0.jpg",
+         "title" : "US Postal Service Files A Patent For Voting System Combining Mail And A Blockchain - Forbes",
+         "author" : "Vipin Bharathan",
+         "url" : "https://www.forbes.com/sites/vipinbharathan/2020/09/20/us-postal-service-files-a-patent-for--voting-system-combining-mail-and-a-blockchain/",
+         "description" : "USPTO (United States Patent and Trademark Office) published a patent application filed by the USPS. A reading of the patent itself. Opposition to technology in election systems, from election \"experts\". Why this year is different."
       },
       {
-         "description" : "The Caddy California has a modular set up with a folding bed, pull-out rear kitchen box, tent, and storage options throughout the interior.",
-         "author" : "Brittany Chang",
-         "title" : "Volkswagen unveiled its Caddy California camper van that can sleep 4 - Business Insider - Business Insider",
-         "content" : "Volkswagen has unveiled the new Caddy California, a modular camper van with a a bed, kitchen, and tent.\r\nThe German automaker has long been a player in the camper van industry. The new Caddy Californ… [+844 chars]",
-         "url" : "https://www.businessinsider.com/volkswagen-caddy-california-camper-van-that-can-sleep-4-2020-9",
-         "publishedAt" : "2020-09-20T13:00:19Z",
+         "content" : "As an inferno sweeps the West and hurricanes spin over the Atlantic, power outages pose a big risk for those living in affected areas. Recently, in California, the utility PG&amp;E pre-emptively shut… [+332 chars]",
          "source" : {
-            "id" : "business-insider",
-            "name" : "Business Insider"
+            "id" : "the-wall-street-journal",
+            "name" : "The Wall Street Journal"
          },
-         "urlToImage" : "https://i.insider.com/5f58ea577ed0ee001e25e2ff?width=1200&format=jpeg"
-      },
-      {
-         "url" : "https://www.wsj.com/articles/prep-your-tech-for-power-outages-and-other-emergencies-11600606800",
          "publishedAt" : "2020-09-20T13:00:00Z",
-         "source" : {
-            "name" : "The Wall Street Journal",
-            "id" : "the-wall-street-journal"
-         },
          "urlToImage" : "https://images.wsj.net/im-233457/social",
-         "author" : "Nicole Nguyen",
          "title" : "Prep Your Tech for Power Outages and Other Emergencies - The Wall Street Journal",
-         "description" : "Before a blackout hits your area, here are the phone settings you’ll want to enable and the gear that will keep you connected in case of a power outage",
-         "content" : "As an inferno sweeps the West and hurricanes spin over the Atlantic, power outages pose a big risk for those living in affected areas. Recently, in California, the utility PG&amp;E pre-emptively shut… [+332 chars]"
+         "author" : "Nicole Nguyen",
+         "url" : "https://www.wsj.com/articles/prep-your-tech-for-power-outages-and-other-emergencies-11600606800",
+         "description" : "Before a blackout hits your area, here are the phone settings you’ll want to enable and the gear that will keep you connected in case of a power outage"
       },
       {
-         "url" : "https://decrypt.co/42388/how-microstrategy-ceo-went-from-bitcoin-basher-to-425m-buy",
-         "publishedAt" : "2020-09-20T12:55:00Z",
-         "source" : {
-            "name" : "Decrypt",
-            "id" : null
-         },
-         "urlToImage" : "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2020/05/bitcoin-social-media-twitter-metrics-gID_5.jpg",
-         "title" : "How MicroStrategy CEO Went From Bitcoin Basher to $425m Buy - Decrypt",
-         "description" : "MicroStrategy's Michael Saylor said Bitcoin’s days were numbered in a 2013 tweet. Now he's talking about his state of mind during the prediction",
-         "author" : "Alexander Behrens",
-         "content" : "In brief\r\n<ul><li>CEO Michael Saylor recently led business intelligence firm MicroStrategy into buying more than $400 million worth of Bitcoin.</li><li>Saylor tweeted that Bitcoins days were numbered… [+2292 chars]"
-      },
-      {
-         "urlToImage" : "https://g.foolcdn.com/editorial/images/592276/buffett-pick-looking.jpg",
-         "source" : {
-            "name" : "Motley Fool",
-            "id" : null
-         },
-         "publishedAt" : "2020-09-20T12:35:00Z",
-         "url" : "https://www.fool.com/investing/2020/09/20/now-we-know-who-at-berkshire-invested-in-snowflake/",
-         "content" : "The hottest IPO of the year is cloud-based data warehouse provider Snowflake(NYSE:SNOW). It was initially slated to go public at $75 to $85 per share last Wednesday, but interest in the stock was so … [+4927 chars]",
-         "title" : "Now We Know Who at Berkshire Invested in Snowflake, and Why - Motley Fool",
-         "author" : "Billy Duberstein",
-         "description" : "Meanwhile, even CEO Frank Slootman thinks the market's mania for the stock got out of hand last week."
-      },
-      {
-         "content" : "From the Department of Investigational Cancer Therapeutics, Phase I Clinical Trials Program, University of Texas M.D. Anderson Cancer Center, Houston (D.S.H., F.M.-B.); the Department of Medical Onco… [+2519 chars]",
+         "title" : "N.J. Top Workplaces: Ranking reveals the 40 employers who took home top honors - nj.com",
          "author" : null,
-         "title" : "KRASG12C Inhibition with Sotorasib in Advanced Solid Tumors - nejm.org",
+         "description" : "Nominees for New Jersey’s Top Workplace honors were limited to companies with 50 or more employees that spanned from northern New Jersey through the Jersey Shore area.",
+         "url" : "https://www.nj.com/business/2020/09/nj-top-workplaces-ranking-reveals-the-40-employers-who-took-home-top-honors.html",
+         "content" : "(Editors note: Employee surveys were conducted in 2019 prior to the pandemic.)\r\nWorking for a company where you believe youre making a valuable contribution and your work is appreciated can often fee… [+19058 chars]",
+         "publishedAt" : "2020-09-20T12:40:00Z",
+         "source" : {
+            "id" : null,
+            "name" : "nj.com"
+         },
+         "urlToImage" : "https://www.nj.com/resizer/yhGtAfTBE9_b6X3CljqMhFc8VE8=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/7ELJSJTJB5DMHHPHG3LGRXR5QI.jpg"
+      },
+      {
+         "author" : null,
          "description" : "Original Article from The New England Journal of Medicine — KRASG12C Inhibition with Sotorasib in Advanced Solid Tumors",
-         "urlToImage" : "https://www.nejm.org/na101/home/literatum/publisher/mms/journals/content/nejm/0/nejm.ahead-of-print/nejmoa1917239/20200909/images/img_small/nejmoa1917239_f1.jpeg",
+         "url" : "https://www.nejm.org/doi/full/10.1056/NEJMoa1917239",
+         "title" : "KRASG12C Inhibition with Sotorasib in Advanced Solid Tumors - nejm.org",
+         "publishedAt" : "2020-09-20T12:26:49Z",
          "source" : {
             "name" : "nejm.org",
             "id" : null
          },
-         "publishedAt" : "2020-09-20T12:26:49Z",
-         "url" : "https://www.nejm.org/doi/full/10.1056/NEJMoa1917239"
+         "urlToImage" : "https://www.nejm.org/na101/home/literatum/publisher/mms/journals/content/nejm/0/nejm.ahead-of-print/nejmoa1917239/20200909/images/img_small/nejmoa1917239_f1.jpeg",
+         "content" : "From the Department of Investigational Cancer Therapeutics, Phase I Clinical Trials Program, University of Texas M.D. Anderson Cancer Center, Houston (D.S.H., F.M.-B.); the Department of Medical Onco… [+2519 chars]"
       },
       {
-         "publishedAt" : "2020-09-20T11:05:51Z",
-         "url" : "https://www.bbc.com/news/business-54223864",
-         "urlToImage" : "https://ichef.bbci.co.uk/news/1024/branded_news/9A41/production/_114498493__112696022_gettyimages-626687434.jpg",
+         "content" : "Merck &amp; Co. already has an approval for Keytruda in tandem with Lenvimaa drug it shares with Eisaiin endometrial cancer. But the partners are trying to take the combo into additional cancers, and… [+3574 chars]",
+         "urlToImage" : "https://qtxasset.com/fiercepharma/1600545874/Lenvima%20Eisai.png/Lenvima%20Eisai.png?5wmmdSXVhmMp5.KTcE8HiisjdUsjPsVG",
          "source" : {
-            "name" : "BBC News",
-            "id" : null
+            "id" : null,
+            "name" : "FiercePharma"
          },
-         "title" : "Coronavirus: Rolls-Royce considers tapping investors for £2.5bn - BBC News",
-         "author" : "https://www.facebook.com/bbcnews",
+         "publishedAt" : "2020-09-20T12:25:00Z",
+         "title" : "ESMO: Where will Merck, Eisai take Keytruda-Lenvima next? Ovarian and colorectal cancer could be good options, data show - FiercePharma",
+         "url" : "https://www.fiercepharma.com/pharma/esmo-where-will-merck-eisai-take-keytruda-lenvima-next-ovarian-and-colorectal-cancer-could",
+         "description" : "Merck & Co. already has an approval for Keytruda in tandem with Lenvima—a drug it shares with Eisai—in endometrial cancer. But the partners are trying to take the combo into additional cancers, and new data provide a glimpse of where it might go next.",
+         "author" : null
+      },
+      {
+         "title" : "RV makers are rushing to cater to the new 'work from anywhere' crowd as the pandemic continues to force people to rethink their lives - msnNOW",
+         "author" : null,
+         "description" : "As the pandemic rages and people around the world take up a \"digital nomad\" lifestyle RV makers are coming with floor plans that include workstations, WiFi, and more.",
+         "url" : "https://www.businessinsider.com/rv-camper-van-travel-trailer-makers-changing-digital-nomads-2020-9",
+         "content" : "© Blacksford\r\n Blacksford's van. Blacksford\r\nMany RV, camper van, and travel trailer makers have started catering their road travel builds to accommodate the rising popularity of digital nomads and \"… [+7675 chars]",
+         "publishedAt" : "2020-09-20T12:23:00Z",
+         "source" : {
+            "id" : "business-insider",
+            "name" : "Business Insider"
+         },
+         "urlToImage" : "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB19eel6.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
+      },
+      {
          "description" : "The jet engine-maker is reportedly in talks with sovereign wealth funds to raise money.",
+         "url" : "https://www.bbc.com/news/business-54223864",
+         "author" : "https://www.facebook.com/bbcnews",
+         "title" : "Coronavirus: Rolls-Royce considers tapping investors for £2.5bn - BBC News",
+         "urlToImage" : "https://ichef.bbci.co.uk/news/1024/branded_news/9A41/production/_114498493__112696022_gettyimages-626687434.jpg",
+         "publishedAt" : "2020-09-20T11:05:51Z",
+         "source" : {
+            "id" : null,
+            "name" : "BBC News"
+         },
          "content" : "Image copyrightGetty Images\r\nRolls-Royce is considering tapping investors for £2.5bn to boost its finances as coronavirus continues to wreak havoc on global travel.\r\nThe firm, which makes engines for… [+2474 chars]"
-      },
-      {
-         "source" : {
-            "id" : "usa-today",
-            "name" : "USA Today"
-         },
-         "urlToImage" : "https://www.gannett-cdn.com/presto/2020/08/27/USAT/242e1745-5440-46be-ad51-660be7c8f8ae-GTY_1266147873.jpg?crop=2999,1687,x0,y0&width=1600&height=800&fit=bounds",
-         "url" : "https://www.usatoday.com/story/money/2020/09/20/coronavirus-checks-u-s-may-fall-back-into-slump-without-stimulus-checks-other-aid/5830514002/",
-         "publishedAt" : "2020-09-20T11:01:31Z",
-         "content" : "Nancy Pelosi told CNBC's \"Squawk on the Street\" that the Democrats are \"committed to staying\" until a coronavirus stimulus deal is reached.\r\nUSA TODAY\r\nThe U.S. economy is at a crossroads, with some … [+6131 chars]",
-         "author" : "Paul Davidson",
-         "description" : "The nation could slip back into recession if Congress doesn't pass another stimulus package, economists say.",
-         "title" : "U.S. could slip into double-dip recession if Congress doesn't pass new stimulus, some economists say - USA TODAY"
-      },
-      {
-         "urlToImage" : "//els-jbs-prod-cdn.jbs.elsevierhealth.com/cms/asset/b72b132c-54cd-4d56-8eb7-73bbe4b39bbc/gr2.jpg",
-         "source" : {
-            "id" : null,
-            "name" : "The Lancet"
-         },
-         "publishedAt" : "2020-09-20T10:44:43Z",
-         "url" : "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)31953-X/fulltext",
-         "content" : "We use cookies to help provide and enhance our service and tailor content and ads. By continuing you agree to the use of cookies.\r\nCopyright © 2020 Elsevier Inc. except certain content provided by th… [+50 chars]",
-         "author" : null,
-         "title" : "Neoadjuvant atezolizumab in combination with sequential nab-paclitaxel and anthracycline-based chemotherapy versus placebo and chemotherapy in patients with early-stage triple-negative breast cancer (IMpassion031): a randomised, double-blind, phase 3 trial - The Lancet",
-         "description" : "In patients with early-stage TNBC, neoadjuvant treatment with atezolizumab in combination\nwith nab-paclitaxel and anthracycline-based chemotherapy significantly improved pathological\ncomplete response rates with an acceptable safety profile."
-      },
-      {
-         "url" : "https://www.fool.com/taxes/2020/09/20/3-moves-that-will-slash-your-tax-bill-this-year/",
-         "publishedAt" : "2020-09-20T10:18:00Z",
-         "source" : {
-            "id" : null,
-            "name" : "Motley Fool"
-         },
-         "urlToImage" : "https://g.foolcdn.com/editorial/images/592207/smiling-man-at-laptop_gettyimages-1152603283.jpg",
-         "description" : "Get ready to pay the IRS a lot less -- and enjoy more of your money.",
-         "author" : "Maurie Backman",
-         "title" : "3 Moves That Will Slash Your Tax Bill This Year - Motley Fool",
-         "content" : "No matter how much money you make, your goal should be to pay the IRS as little tax as possible. And the smarter you are about taking advantage of tax breaks, the greater your chances of that happeni… [+3057 chars]"
-      },
-      {
-         "urlToImage" : "https://g.foolcdn.com/editorial/images/592078/bubble-about-to-be-popped.jpg",
-         "source" : {
-            "id" : null,
-            "name" : "Motley Fool"
-         },
-         "publishedAt" : "2020-09-20T10:08:00Z",
-         "url" : "https://www.fool.com/investing/2020/09/20/3-bubbles-that-could-pop-in-the-next-market-crash/",
-         "content" : "Last week, 860,000 Americans filed for unemployment for the first time. There are more than 12 million people out of work, and according to data from Yelp, approximately 60% of businesses that are cl… [+5976 chars]",
-         "title" : "3 Bubbles That Could Pop in the Next Market Crash - Motley Fool",
-         "description" : "These stocks are grossly overpriced.",
-         "author" : "David Jagielski"
-      },
-      {
-         "source" : {
-            "id" : null,
-            "name" : "Thegardenisland.com"
-         },
-         "urlToImage" : "https://www.thegardenisland.com/wp-content/uploads/2020/09/web1_Sue-Kanoho-2013.jpg",
-         "url" : "https://www.thegardenisland.com/2020/09/20/hawaii-news/balancing-resort-bubble-and-pre-travel-testing/",
-         "publishedAt" : "2020-09-20T10:05:00Z",
-         "content" : "LIHU‘E — Last week, two major sign-offs to reopening the island of Kaua‘i were announced: approval to start a “resort bubble” program, and the date for the state’s pre-travel testing program reopenin… [+4790 chars]",
-         "author" : null,
-         "title" : "Balancing resort bubble and pre-travel testing - Thegardenisland.com",
-         "description" : "LIHU‘E — Last week, two major sign-offs to reopening the island of Kaua‘i were announced: approval to start a “resort bubble” program, and the date for the state’s pre-travel testing program reopening strategy."
       }
    ],
-   "totalResults" : 70
+   "status" : "ok"
 }
