@@ -1,266 +1,266 @@
 {
+   "totalResults" : 70,
+   "status" : "ok",
    "articles" : [
       {
-         "urlToImage" : "https://g.foolcdn.com/editorial/images/592207/smiling-man-at-laptop_gettyimages-1152603283.jpg",
+         "content" : "No matter how much money you make, your goal should be to pay the IRS as little tax as possible. And the smarter you are about taking advantage of tax breaks, the greater your chances of that happeni… [+3057 chars]",
+         "description" : "Get ready to pay the IRS a lot less -- and enjoy more of your money.",
+         "author" : "Maurie Backman",
          "url" : "https://www.fool.com/taxes/2020/09/20/3-moves-that-will-slash-your-tax-bill-this-year/",
          "publishedAt" : "2020-09-20T10:18:00Z",
-         "author" : "Maurie Backman",
-         "content" : "No matter how much money you make, your goal should be to pay the IRS as little tax as possible. And the smarter you are about taking advantage of tax breaks, the greater your chances of that happeni… [+3057 chars]",
-         "title" : "3 Moves That Will Slash Your Tax Bill This Year - Motley Fool",
-         "description" : "Get ready to pay the IRS a lot less -- and enjoy more of your money.",
-         "source" : {
-            "name" : "Motley Fool",
-            "id" : null
-         }
-      },
-      {
-         "urlToImage" : "https://g.foolcdn.com/editorial/images/591537/warren-buffett-tmf-photo.jpg",
-         "url" : "https://www.fool.com/investing/2020/09/20/warren-buffetts-3-best-performing-stocks-so-far-th/",
-         "publishedAt" : "2020-09-20T10:14:00Z",
-         "author" : "Keith Speights",
-         "title" : "Warren Buffett's 3 Best-Performing Stocks So Far This Year: Are They Buys Now? - Motley Fool",
-         "content" : "How's Warren Buffett doing these days? Quite well. The legendary investor recently celebrated his 90th birthday, and he appears to be as active as ever.\r\nOn the other hand, Buffett's investments have… [+4588 chars]",
-         "description" : "These Buffett stocks have all delivered sizzling year-to-date gains. Can they keep the momentum going?",
-         "source" : {
-            "id" : null,
-            "name" : "Motley Fool"
-         }
-      },
-      {
-         "content" : "Last week, 860,000 Americans filed for unemployment for the first time. There are more than 12 million people out of work, and according to data from Yelp, approximately 60% of businesses that are cl… [+5976 chars]",
-         "title" : "3 Bubbles That Could Pop in the Next Market Crash - Motley Fool",
-         "publishedAt" : "2020-09-20T10:08:00Z",
-         "author" : "David Jagielski",
-         "urlToImage" : "https://g.foolcdn.com/editorial/images/592078/bubble-about-to-be-popped.jpg",
-         "url" : "https://www.fool.com/investing/2020/09/20/3-bubbles-that-could-pop-in-the-next-market-crash/",
          "source" : {
             "name" : "Motley Fool",
             "id" : null
          },
-         "description" : "These stocks are grossly overpriced."
+         "title" : "3 Moves That Will Slash Your Tax Bill This Year - Motley Fool",
+         "urlToImage" : "https://g.foolcdn.com/editorial/images/592207/smiling-man-at-laptop_gettyimages-1152603283.jpg"
       },
       {
-         "description" : "Robert W. Gore's invention has been used in space suits, guitar strings and waterproof jackets.",
+         "title" : "Warren Buffett's 3 Best-Performing Stocks So Far This Year: Are They Buys Now? - Motley Fool",
+         "urlToImage" : "https://g.foolcdn.com/editorial/images/591537/warren-buffett-tmf-photo.jpg",
+         "source" : {
+            "name" : "Motley Fool",
+            "id" : null
+         },
+         "url" : "https://www.fool.com/investing/2020/09/20/warren-buffetts-3-best-performing-stocks-so-far-th/",
+         "publishedAt" : "2020-09-20T10:14:00Z",
+         "content" : "How's Warren Buffett doing these days? Quite well. The legendary investor recently celebrated his 90th birthday, and he appears to be as active as ever.\r\nOn the other hand, Buffett's investments have… [+4588 chars]",
+         "description" : "These Buffett stocks have all delivered sizzling year-to-date gains. Can they keep the momentum going?",
+         "author" : "Keith Speights"
+      },
+      {
+         "title" : "3 Bubbles That Could Pop in the Next Market Crash - Motley Fool",
+         "urlToImage" : "https://g.foolcdn.com/editorial/images/592078/bubble-about-to-be-popped.jpg",
+         "source" : {
+            "id" : null,
+            "name" : "Motley Fool"
+         },
+         "url" : "https://www.fool.com/investing/2020/09/20/3-bubbles-that-could-pop-in-the-next-market-crash/",
+         "publishedAt" : "2020-09-20T10:08:00Z",
+         "content" : "Last week, 860,000 Americans filed for unemployment for the first time. There are more than 12 million people out of work, and according to data from Yelp, approximately 60% of businesses that are cl… [+5976 chars]",
+         "description" : "These stocks are grossly overpriced.",
+         "author" : "David Jagielski"
+      },
+      {
          "source" : {
             "id" : null,
             "name" : "BBC News"
          },
          "urlToImage" : "https://ichef.bbci.co.uk/news/1024/branded_news/030B/production/_114497700_bobgoreatchalkboard2000s_2.jpg",
-         "url" : "https://www.bbc.com/news/world-us-canada-54224405",
-         "publishedAt" : "2020-09-20T09:56:35Z",
-         "author" : "https://www.facebook.com/bbcnews",
+         "title" : "Gore-Tex: Inventor of waterproof fabric Robert Gore dies aged 83 - BBC News",
+         "description" : "Robert W. Gore's invention has been used in space suits, guitar strings and waterproof jackets.",
          "content" : "Image copyrightWL Gore &amp; AssociatesImage caption\r\n Robert Gore won awards for his contributions to science\r\nRobert W Gore, who invented Gore-Tex technology while working for his father's company … [+2109 chars]",
-         "title" : "Gore-Tex: Inventor of waterproof fabric Robert Gore dies aged 83 - BBC News"
+         "author" : "https://www.facebook.com/bbcnews",
+         "url" : "https://www.bbc.com/news/world-us-canada-54224405",
+         "publishedAt" : "2020-09-20T09:56:35Z"
       },
       {
-         "url" : "https://www.forbes.com/sites/bradjaphe/2020/09/20/the-worlds-best-scotch-whisky-according-to-the-2020-international-wine-and-spirits-competition/",
-         "urlToImage" : "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f653b25ee6091fe6e3e07e5%2F0x0.jpg%3FcropX1%3D42%26cropX2%3D1215%26cropY1%3D129%26cropY2%3D790",
-         "publishedAt" : "2020-09-20T08:20:00Z",
-         "author" : "Brad Japhe",
          "title" : "The World’s Best Scotch Whisky—According To The 2020 International Wine And Spirits Competition - Forbes",
-         "content" : "A 25 Year Old Blended Scotch from Dewar's tops the list. \r\nPhoto Illustration: Brad Japhe\r\nAs we noted earlier in the month, the International Wine And Spirits Competition is one of the most influent… [+3365 chars]",
-         "description" : "This widely-available blended scotch is about to get a lot harder to find.",
-         "source" : {
-            "id" : null,
-            "name" : "Forbes"
-         }
-      },
-      {
-         "title" : "A happy ending after homeless woman's story featured on TV - CNN",
-         "content" : "(CNN)Tucked away from Skid Row's main thoroughfare, Q sweeps the sidewalk outside her makeshift tent before her best friend and \"angel\" arrives with some food.\r\n\"Hey Q-Q!\" Shirley Raines calls out. C… [+1947 chars]",
-         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200915134008-united-shades-la-skid-row-q-transgender-woman-00022306-super-tease.jpg",
-         "url" : "https://www.cnn.com/2020/09/20/us/skid-row-homeless-transgender-woman-reunited-with-family-trnd/index.html",
-         "publishedAt" : "2020-09-20T07:01:00Z",
-         "author" : "Tricia Escobedo, CNN",
-         "source" : {
-            "name" : "CNN",
-            "id" : "cnn"
-         },
-         "description" : "Tucked away from Skid Row's main thoroughfare, Q sweeps the sidewalk outside her makeshift tent before her best friend and \"angel\" arrives with some food."
-      },
-      {
-         "description" : "The German billionaire dynasty behind popular budget supermarkets Aldi and Trader Joe’s is at war again as the legacy of the family’s frugal forefathers is tested by the younger generation.",
+         "urlToImage" : "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f653b25ee6091fe6e3e07e5%2F0x0.jpg%3FcropX1%3D42%26cropX2%3D1215%26cropY1%3D129%26cropY2%3D790",
          "source" : {
             "name" : "Forbes",
             "id" : null
          },
-         "author" : "David Dawkins",
-         "publishedAt" : "2020-09-20T06:30:00Z",
-         "urlToImage" : "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f65e5125f952c24b4c1aaa2%2F0x0.jpg%3FcropX1%3D50%26cropX2%3D3987%26cropY1%3D341%26cropY2%3D2556",
-         "url" : "https://www.forbes.com/sites/daviddawkins/2020/09/20/billionaire-aldi-family-fortune-to-hit-german-court-as-son-sues-mother-for-embezzling-funds-reports/",
-         "title" : "Billionaire Aldi Family Fortune To Hit German Court As Son Sues Mother For Embezzling Funds: Reports - Forbes",
-         "content" : "Marie Amiere and Babette Albrecht (r) attend the Titanic United Hearts gala at Titanic Hotel on ... [+] February 25, 2020 in Berlin\r\nGetty Images for Titanic Hotel\r\nThe fortune of Aldi supermarket co… [+5603 chars]"
+         "publishedAt" : "2020-09-20T08:20:00Z",
+         "url" : "https://www.forbes.com/sites/bradjaphe/2020/09/20/the-worlds-best-scotch-whisky-according-to-the-2020-international-wine-and-spirits-competition/",
+         "author" : "Brad Japhe",
+         "content" : "A 25 Year Old Blended Scotch from Dewar's tops the list. \r\nPhoto Illustration: Brad Japhe\r\nAs we noted earlier in the month, the International Wine And Spirits Competition is one of the most influent… [+3365 chars]",
+         "description" : "This widely-available blended scotch is about to get a lot harder to find."
       },
       {
          "source" : {
-            "id" : null,
-            "name" : "KABC-TV"
+            "name" : "CNN",
+            "id" : "cnn"
          },
-         "description" : "You can say goodbye to the Nissan 370Z, the two-seater that recently helped the company celebrate 50 years of sports car performance.",
-         "title" : "New Nissan Z sports car pays tribute to original Datsun 240Z - KABC-TV",
-         "content" : "You can say goodbye to the Nissan 370Z, the two-seater that recently helped the company celebrate 50 years of sports car performance.That's because it's time to say hello to an all-new Nissan Z, poss… [+1952 chars]",
-         "author" : "Dave Kunz",
-         "publishedAt" : "2020-09-20T04:59:56Z",
-         "url" : "https://abc7.com/nissan-datsun-sports-car-new/6441051/",
-         "urlToImage" : "https://cdn.abcotvs.com/dip/images/6442859_091820-kabc-7pm-new-nissan-z-vid.jpg?w=1600"
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200915134008-united-shades-la-skid-row-q-transgender-woman-00022306-super-tease.jpg",
+         "title" : "A happy ending after homeless woman's story featured on TV - CNN",
+         "description" : "Tucked away from Skid Row's main thoroughfare, Q sweeps the sidewalk outside her makeshift tent before her best friend and \"angel\" arrives with some food.",
+         "content" : "(CNN)Tucked away from Skid Row's main thoroughfare, Q sweeps the sidewalk outside her makeshift tent before her best friend and \"angel\" arrives with some food.\r\n\"Hey Q-Q!\" Shirley Raines calls out. C… [+1947 chars]",
+         "author" : "Tricia Escobedo, CNN",
+         "url" : "https://www.cnn.com/2020/09/20/us/skid-row-homeless-transgender-woman-reunited-with-family-trnd/index.html",
+         "publishedAt" : "2020-09-20T07:01:00Z"
       },
       {
-         "author" : null,
-         "publishedAt" : "2020-09-19T23:44:00Z",
-         "url" : "https://cryptobriefing.com/eth-2-0-wont-fix-ethereums-scalability-problems-analyst-argues/",
-         "urlToImage" : "https://cryptobriefing.com/wp-content/uploads/2019/06/Ethereum-Price-Analysis-ETH-USD-Losing-Pressure.jpg",
-         "content" : null,
-         "title" : "ETH 2.0 Won’t Fix Ethereum’s Scalability Problems, Analyst Argues - Crypto Briefing",
-         "description" : "The average transaction fee on Ethereum costs $7.5, three times that of Bitcoin. These ludicrous fees are not sustainable.",
          "source" : {
-            "name" : "Crypto Briefing",
+            "name" : "Forbes",
+            "id" : null
+         },
+         "title" : "Billionaire Aldi Family Fortune To Hit German Court As Son Sues Mother For Embezzling Funds: Reports - Forbes",
+         "urlToImage" : "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f65e5125f952c24b4c1aaa2%2F0x0.jpg%3FcropX1%3D50%26cropX2%3D3987%26cropY1%3D341%26cropY2%3D2556",
+         "author" : "David Dawkins",
+         "description" : "The German billionaire dynasty behind popular budget supermarkets Aldi and Trader Joe’s is at war again as the legacy of the family’s frugal forefathers is tested by the younger generation.",
+         "content" : "Marie Amiere and Babette Albrecht (r) attend the Titanic United Hearts gala at Titanic Hotel on ... [+] February 25, 2020 in Berlin\r\nGetty Images for Titanic Hotel\r\nThe fortune of Aldi supermarket co… [+5603 chars]",
+         "publishedAt" : "2020-09-20T06:30:00Z",
+         "url" : "https://www.forbes.com/sites/daviddawkins/2020/09/20/billionaire-aldi-family-fortune-to-hit-german-court-as-son-sues-mother-for-embezzling-funds-reports/"
+      },
+      {
+         "url" : "https://abc7.com/nissan-datsun-sports-car-new/6441051/",
+         "publishedAt" : "2020-09-20T04:59:56Z",
+         "content" : "You can say goodbye to the Nissan 370Z, the two-seater that recently helped the company celebrate 50 years of sports car performance.That's because it's time to say hello to an all-new Nissan Z, poss… [+1952 chars]",
+         "description" : "You can say goodbye to the Nissan 370Z, the two-seater that recently helped the company celebrate 50 years of sports car performance.",
+         "author" : "Dave Kunz",
+         "title" : "New Nissan Z sports car pays tribute to original Datsun 240Z - KABC-TV",
+         "urlToImage" : "https://cdn.abcotvs.com/dip/images/6442859_091820-kabc-7pm-new-nissan-z-vid.jpg?w=1600",
+         "source" : {
+            "name" : "KABC-TV",
             "id" : null
          }
       },
       {
-         "content" : "The US is cracking down on an elaborate scheme to boost some third-party Amazon sellers at the expense of others. A Grand Jury in Washington has indicted six people (via The Verge) for allegedly brib… [+678 chars]",
-         "title" : "Six people face charges for allegedly bribing Amazon staff to help sellers - Engadget",
-         "url" : "https://www.engadget.com/amazon-third-party-seller-bribery-scheme-214225399.html",
-         "urlToImage" : "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-09%2Faf41f600-fabd-11ea-84be-f5bd03d386af&client=amp-blogside-v2&signature=c82af07edb79449ac62a2d70d901e3ec2e562ac0",
-         "publishedAt" : "2020-09-19T22:24:10Z",
-         "author" : "",
-         "source" : {
-            "id" : "engadget",
-            "name" : "Engadget"
-         },
-         "description" : "Six people have been indicted over an alleged scheme that bribed Amazon employees to help third-party sellers."
-      },
-      {
-         "description" : "Tesla’s Autopilot is meant to be an assistance feature for alert drivers to both increase their enjoyment of driving and add a layer of vehicle safety. However, stories about irresponsible users come into the news cycle on occasion, this time from a 2019 Mode…",
+         "publishedAt" : "2020-09-19T23:44:00Z",
+         "url" : "https://cryptobriefing.com/eth-2-0-wont-fix-ethereums-scalability-problems-analyst-argues/",
+         "author" : null,
+         "content" : null,
+         "description" : "The average transaction fee on Ethereum costs $7.5, three times that of Bitcoin. These ludicrous fees are not sustainable.",
+         "title" : "ETH 2.0 Won’t Fix Ethereum’s Scalability Problems, Analyst Argues - Crypto Briefing",
+         "urlToImage" : "https://cryptobriefing.com/wp-content/uploads/2019/06/Ethereum-Price-Analysis-ETH-USD-Losing-Pressure.jpg",
          "source" : {
             "id" : null,
-            "name" : "Teslarati"
-         },
-         "url" : "https://www.teslarati.com/tesla-driver-sleeping-autopilot-alberta-90-mph/",
-         "urlToImage" : "https://www.teslarati.com/wp-content/uploads/2020/09/Tesla-Model-S-Autopilot-Canada-Arrested.jpg",
-         "author" : "Dacia J. Ferris",
-         "publishedAt" : "2020-09-19T21:55:24Z",
-         "title" : "Tesla Model S driver using Autopilot arrested for sleeping while driving 90 mph - Teslarati",
-         "content" : "Tesla’s Autopilot is meant to be an assistance feature for alert drivers to both increase their enjoyment of driving and add a layer of vehicle safety. However, stories about irresponsible users come… [+3770 chars]"
+            "name" : "Crypto Briefing"
+         }
       },
       {
-         "title" : "Textron Aviation, labor union accept new contract - KWCH",
-         "content" : "WICHITA, Kan. (KWCH) - Textron Aviation and its labor union accepted a new contract that will take effect Monday.\r\nMembers of the union gathered at Century II Saturday morning where they were briefed… [+2280 chars]",
-         "publishedAt" : "2020-09-19T21:54:00Z",
+         "source" : {
+            "name" : "Engadget",
+            "id" : "engadget"
+         },
+         "urlToImage" : "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-09%2Faf41f600-fabd-11ea-84be-f5bd03d386af&client=amp-blogside-v2&signature=c82af07edb79449ac62a2d70d901e3ec2e562ac0",
+         "title" : "Six people face charges for allegedly bribing Amazon staff to help sellers - Engadget",
+         "content" : "The US is cracking down on an elaborate scheme to boost some third-party Amazon sellers at the expense of others. A Grand Jury in Washington has indicted six people (via The Verge) for allegedly brib… [+678 chars]",
+         "description" : "Six people have been indicted over an alleged scheme that bribed Amazon employees to help third-party sellers.",
+         "author" : "",
+         "url" : "https://www.engadget.com/amazon-third-party-seller-bribery-scheme-214225399.html",
+         "publishedAt" : "2020-09-19T22:24:10Z"
+      },
+      {
+         "publishedAt" : "2020-09-19T21:55:24Z",
+         "url" : "https://www.teslarati.com/tesla-driver-sleeping-autopilot-alberta-90-mph/",
+         "author" : "Dacia J. Ferris",
+         "content" : "Tesla’s Autopilot is meant to be an assistance feature for alert drivers to both increase their enjoyment of driving and add a layer of vehicle safety. However, stories about irresponsible users come… [+3770 chars]",
+         "description" : "Tesla’s Autopilot is meant to be an assistance feature for alert drivers to both increase their enjoyment of driving and add a layer of vehicle safety. However, stories about irresponsible users come into the news cycle on occasion, this time from a 2019 Mode…",
+         "urlToImage" : "https://www.teslarati.com/wp-content/uploads/2020/09/Tesla-Model-S-Autopilot-Canada-Arrested.jpg",
+         "title" : "Tesla Model S driver using Autopilot arrested for sleeping while driving 90 mph - Teslarati",
+         "source" : {
+            "name" : "Teslarati",
+            "id" : null
+         }
+      },
+      {
          "author" : "KWCH  Staff",
-         "urlToImage" : "https://gray-kwch-prod.cdn.arcpublishing.com/resizer/phye-xp2wdgiD9qitV2fxqoPAgo=/980x0/smart/cloudfront-us-east-1.images.arcpublishing.com/gray/YXJRX7IWWNGTJHB7PMXRHLCYRI.jpg",
+         "content" : "WICHITA, Kan. (KWCH) - Textron Aviation and its labor union accepted a new contract that will take effect Monday.\r\nMembers of the union gathered at Century II Saturday morning where they were briefed… [+2280 chars]",
+         "description" : "The contract lasts for four years and will cover thousands of workers.",
+         "publishedAt" : "2020-09-19T21:54:00Z",
          "url" : "https://www.kwch.com/2020/09/19/textron-aviation-labor-union-accept-new-contract/",
          "source" : {
-            "name" : "KWCH",
-            "id" : null
+            "id" : null,
+            "name" : "KWCH"
          },
-         "description" : "The contract lasts for four years and will cover thousands of workers."
+         "title" : "Textron Aviation, labor union accept new contract - KWCH",
+         "urlToImage" : "https://gray-kwch-prod.cdn.arcpublishing.com/resizer/phye-xp2wdgiD9qitV2fxqoPAgo=/980x0/smart/cloudfront-us-east-1.images.arcpublishing.com/gray/YXJRX7IWWNGTJHB7PMXRHLCYRI.jpg"
       },
       {
-         "description" : "The bug can give attackers full control of an entire network in seconds.",
          "source" : {
             "id" : "techcrunch",
             "name" : "TechCrunch"
          },
-         "author" : "Zack Whittaker",
-         "publishedAt" : "2020-09-19T21:15:52Z",
          "urlToImage" : "https://techcrunch.com/wp-content/uploads/2020/09/GettyImages-671033610.jpg?w=600",
-         "url" : "http://techcrunch.com/2020/09/19/homeland-security-emergency-alert-critical-windows-bug/",
+         "title" : "Homeland Security issues rare emergency alert over ‘critical’ Windows bug - TechCrunch",
          "content" : "Homeland Security’s cybersecurity advisory unit has issued a rare emergency alert to government departments after the recent disclosure of a “critical”-rated security vulnerability in server versions… [+1803 chars]",
-         "title" : "Homeland Security issues rare emergency alert over ‘critical’ Windows bug - TechCrunch"
+         "description" : "The bug can give attackers full control of an entire network in seconds.",
+         "author" : "Zack Whittaker",
+         "url" : "http://techcrunch.com/2020/09/19/homeland-security-emergency-alert-critical-windows-bug/",
+         "publishedAt" : "2020-09-19T21:15:52Z"
       },
       {
+         "url" : "https://bringmethenews.com/minnesota-lifestyle/spyhouse-coffee-employees-strike-across-twin-cities-saturday",
+         "publishedAt" : "2020-09-19T21:10:59Z",
+         "content" : "Credit: Jackie Renzetti\r\nWorkers at all Spyhouse Coffee locations in the Twin Cities refused to work Saturday, striking in an effort to improve health and safety conditions during ever-evolving coron… [+1035 chars]",
          "description" : "Spyhouse Coffee locations can be found in Minneapolis and St. Paul.",
+         "author" : "Joe Nelson",
+         "title" : "Spyhouse Coffee employees strike across Twin Cities Saturday - Bring Me The News",
+         "urlToImage" : "https://bringmethenews.com/.image/t_share/MTc1NTE5ODk4MjEzMDMzMTk1/image-from-ios-69.jpg",
          "source" : {
             "id" : null,
             "name" : "Bring Me The News"
-         },
-         "publishedAt" : "2020-09-19T21:10:59Z",
-         "author" : "Joe Nelson",
-         "urlToImage" : "https://bringmethenews.com/.image/t_share/MTc1NTE5ODk4MjEzMDMzMTk1/image-from-ios-69.jpg",
-         "url" : "https://bringmethenews.com/minnesota-lifestyle/spyhouse-coffee-employees-strike-across-twin-cities-saturday",
-         "title" : "Spyhouse Coffee employees strike across Twin Cities Saturday - Bring Me The News",
-         "content" : "Credit: Jackie Renzetti\r\nWorkers at all Spyhouse Coffee locations in the Twin Cities refused to work Saturday, striking in an effort to improve health and safety conditions during ever-evolving coron… [+1035 chars]"
+         }
       },
       {
-         "publishedAt" : "2020-09-19T21:10:00Z",
-         "author" : "Paul Thompson, ABJ",
          "url" : "https://www.kxan.com/news/local/austin/p-terrys-closes-downtown-austin-location-due-to-covid-19-losses/",
-         "urlToImage" : "https://www.kxan.com/wp-content/uploads/sites/40/2020/09/P.-Terrys-downtown-location-ABJ.jpg?w=1280",
-         "content" : "AUSTIN (Austin Business Journal) — Downtown Austin is losing another local business.\r\nP. Terry’s Burger Stand has shuttered its location at 515 Congress Ave., which CEO Todd Coerver said was no longe… [+1422 chars]",
-         "title" : "P. Terry’s closes downtown Austin location due to COVID-19 losses - KXAN.com",
+         "publishedAt" : "2020-09-19T21:10:00Z",
          "description" : "The P. Terry;s location in downtown Austin has closed after losses during the pandemic.",
+         "content" : "AUSTIN (Austin Business Journal) — Downtown Austin is losing another local business.\r\nP. Terry’s Burger Stand has shuttered its location at 515 Congress Ave., which CEO Todd Coerver said was no longe… [+1422 chars]",
+         "author" : "Paul Thompson, ABJ",
+         "title" : "P. Terry’s closes downtown Austin location due to COVID-19 losses - KXAN.com",
+         "urlToImage" : "https://www.kxan.com/wp-content/uploads/sites/40/2020/09/P.-Terrys-downtown-location-ABJ.jpg?w=1280",
          "source" : {
             "name" : "KXAN.com",
             "id" : null
          }
       },
       {
-         "description" : "The next time you go to order a Momma's Pancake Breakfast, you can add a mimosa to your order.",
+         "title" : "Cracker Barrel is adding alcohol to the menu for the first time in its history - WRAL.com",
+         "urlToImage" : "https://wwwcache.wral.com/asset/news/political/2019/06/19/18461125/37343394584_e4923f1b74_b-DMID1-5j6z5wkcw-640x480.jpg",
          "source" : {
             "name" : "CNN",
             "id" : "cnn"
          },
          "publishedAt" : "2020-09-19T20:04:00Z",
-         "author" : "WRAL",
-         "urlToImage" : "https://wwwcache.wral.com/asset/news/political/2019/06/19/18461125/37343394584_e4923f1b74_b-DMID1-5j6z5wkcw-640x480.jpg",
          "url" : "https://www.cnn.com/2020/09/19/business/cracker-barrel-alcohol-sales-trnd/index.html",
+         "author" : "WRAL",
          "content" : "By Lauren M. Johnson, CNN\r\nCNN — The next time you go to order a Momma's Pancake Breakfast, you can add a mimosa to your order.\r\nCracker Barrel is getting bubbly with the addition of beer, wine and m… [+1904 chars]",
-         "title" : "Cracker Barrel is adding alcohol to the menu for the first time in its history - WRAL.com"
+         "description" : "The next time you go to order a Momma's Pancake Breakfast, you can add a mimosa to your order."
       },
       {
-         "source" : {
-            "name" : "CNN",
-            "id" : "cnn"
-         },
-         "description" : "New York City diners may soon see a Covid-19 surcharge on their bills as the restaurant industry continues to hobble due to the coronavirus pandemic.",
-         "content" : null,
-         "title" : "NYC restaurants can soon add a Covid-19 surcharge to customers' bills - CNN",
-         "publishedAt" : "2020-09-19T19:56:00Z",
          "author" : "Ganesh Setty, CNN",
-         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200918121436-new-york-dining-0917-restricted-super-tease.jpg",
-         "url" : "https://www.cnn.com/2020/09/19/us/nyc-covid-restaurant-surcharge-trnd/index.html"
-      },
-      {
+         "content" : null,
+         "description" : "New York City diners may soon see a Covid-19 surcharge on their bills as the restaurant industry continues to hobble due to the coronavirus pandemic.",
+         "publishedAt" : "2020-09-19T19:56:00Z",
+         "url" : "https://www.cnn.com/2020/09/19/us/nyc-covid-restaurant-surcharge-trnd/index.html",
          "source" : {
-            "id" : null,
-            "name" : "Visual Capitalist"
+            "id" : "cnn",
+            "name" : "CNN"
          },
-         "description" : "This graphic breaks down how the air quality index is measured, and looks at which regions are hardest hit by atmospheric pollution and wildfires.",
-         "title" : "Understanding How the Air Quality Index Works - Visual Capitalist",
-         "content" : "Its clear that sustainable investing has been thrown into the limelight.\r\nIncreasingly, investors are seeing both the financial and social imperative for sustainable investing. In particular, the rap… [+5476 chars]",
-         "url" : "https://www.visualcapitalist.com/how-air-quality-index-works/",
-         "urlToImage" : "https://www.visualcapitalist.com/wp-content/uploads/2020/09/how-air-quality-works-prev.png",
-         "publishedAt" : "2020-09-19T19:35:35Z",
-         "author" : "Nick Routley"
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200918121436-new-york-dining-0917-restricted-super-tease.jpg",
+         "title" : "NYC restaurants can soon add a Covid-19 surcharge to customers' bills - CNN"
       },
       {
-         "title" : "Spirit Airlines flight attendant, passenger argue over neck gaiter as a face covering - Fox News",
+         "urlToImage" : "https://www.visualcapitalist.com/wp-content/uploads/2020/09/how-air-quality-works-prev.png",
+         "title" : "Understanding How the Air Quality Index Works - Visual Capitalist",
+         "source" : {
+            "name" : "Visual Capitalist",
+            "id" : null
+         },
+         "publishedAt" : "2020-09-19T19:35:35Z",
+         "url" : "https://www.visualcapitalist.com/how-air-quality-index-works/",
+         "author" : "Nick Routley",
+         "content" : "Its clear that sustainable investing has been thrown into the limelight.\r\nIncreasingly, investors are seeing both the financial and social imperative for sustainable investing. In particular, the rap… [+5476 chars]",
+         "description" : "This graphic breaks down how the air quality index is measured, and looks at which regions are hardest hit by atmospheric pollution and wildfires."
+      },
+      {
+         "description" : "A Spirit Airlines flight attendant and a passenger argued over whether a gaiter was a sufficient face covering in a video that has been posted on social media.",
          "content" : "A Spirit Airlines flight attendant recently got into an argument with a passenger over whether or not a neck gaiter is an appropriate face covering aboard its aircrafts, and a video of the encounter … [+3541 chars]",
          "author" : "Ann Schmidt",
-         "publishedAt" : "2020-09-19T18:29:39Z",
          "url" : "https://www.foxnews.com/travel/spirit-airlines-passenger-argument-gaiter",
-         "urlToImage" : "https://static.foxnews.com/foxnews.com/content/uploads/2019/06/spirit-airlines-plane.jpg",
+         "publishedAt" : "2020-09-19T18:29:39Z",
          "source" : {
-            "name" : "Fox News",
-            "id" : "fox-news"
+            "id" : "fox-news",
+            "name" : "Fox News"
          },
-         "description" : "A Spirit Airlines flight attendant and a passenger argued over whether a gaiter was a sufficient face covering in a video that has been posted on social media."
+         "title" : "Spirit Airlines flight attendant, passenger argue over neck gaiter as a face covering - Fox News",
+         "urlToImage" : "https://static.foxnews.com/foxnews.com/content/uploads/2019/06/spirit-airlines-plane.jpg"
       },
       {
+         "description" : "The Lotto Texas jackpot will hit nearly $43 million on Saturday — larger than both the current Powerball and Mega Millions prizes.",
+         "content" : "The Lotto Texas jackpot will hit nearly $43 million on Saturday — larger than both the current Powerball and Mega Millions prizes.\r\nNobody won the Lotto Texas jackpot on Wednesday, pushing the estima… [+363 chars]",
+         "author" : "",
+         "url" : "http://www.krgv.com/news/lotto-texas-jackpot-estimated-at-43-million-bigger-than-powerball-and-mega-millions/",
+         "publishedAt" : "2020-09-19T17:17:42Z",
          "source" : {
             "id" : null,
             "name" : "KRGV"
          },
-         "description" : "The Lotto Texas jackpot will hit nearly $43 million on Saturday — larger than both the current Powerball and Mega Millions prizes.",
-         "content" : "The Lotto Texas jackpot will hit nearly $43 million on Saturday — larger than both the current Powerball and Mega Millions prizes.\r\nNobody won the Lotto Texas jackpot on Wednesday, pushing the estima… [+363 chars]",
-         "title" : "Lotto Texas jackpot estimated at $43 million, bigger than Powerball and Mega Millions - KRGV",
-         "publishedAt" : "2020-09-19T17:17:42Z",
-         "author" : "",
          "urlToImage" : "http://dcer237tfveol.cloudfront.net/v2/zE1leqVdgZuXd6zNfQBsegprajgSx5ldhRI6WpcRct6yivqCqhMmVqBp-xxQDKOnjGhDUDyipT90pkKs65bqCOi7cGQAKDUn57UGJD8s6szuidEMK8ZoqrxuH9_Hfhd4SSNPp8m9yZAybZ0JZ8g1XY",
-         "url" : "http://www.krgv.com/news/lotto-texas-jackpot-estimated-at-43-million-bigger-than-powerball-and-mega-millions/"
+         "title" : "Lotto Texas jackpot estimated at $43 million, bigger than Powerball and Mega Millions - KRGV"
       }
-   ],
-   "status" : "ok",
-   "totalResults" : 70
+   ]
 }
