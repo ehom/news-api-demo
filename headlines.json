@@ -1,177 +1,202 @@
 {
-   "status" : "ok",
    "articles" : [
       {
+         "url" : "https://www.cnn.com/2020/09/20/us/skid-row-homeless-transgender-woman-reunited-with-family-trnd/index.html",
+         "title" : "A happy ending after homeless woman's story featured on TV - CNN",
+         "description" : "Tucked away from Skid Row's main thoroughfare, Q sweeps the sidewalk outside her makeshift tent before her best friend and \"angel\" arrives with some food.",
          "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200915134008-united-shades-la-skid-row-q-transgender-woman-00022306-super-tease.jpg",
          "author" : "Tricia Escobedo, CNN",
          "source" : {
-            "id" : "cnn",
-            "name" : "CNN"
+            "name" : "CNN",
+            "id" : "cnn"
          },
          "publishedAt" : "2020-09-20T07:01:00Z",
-         "title" : "A happy ending after homeless woman's story featured on TV - CNN",
-         "content" : "(CNN)Tucked away from Skid Row's main thoroughfare, Q sweeps the sidewalk outside her makeshift tent before her best friend and \"angel\" arrives with some food.\r\n\"Hey Q-Q!\" Shirley Raines calls out. C… [+1947 chars]",
-         "description" : "Tucked away from Skid Row's main thoroughfare, Q sweeps the sidewalk outside her makeshift tent before her best friend and \"angel\" arrives with some food.",
-         "url" : "https://www.cnn.com/2020/09/20/us/skid-row-homeless-transgender-woman-reunited-with-family-trnd/index.html"
+         "content" : "(CNN)Tucked away from Skid Row's main thoroughfare, Q sweeps the sidewalk outside her makeshift tent before her best friend and \"angel\" arrives with some food.\r\n\"Hey Q-Q!\" Shirley Raines calls out. C… [+1947 chars]"
       },
       {
+         "url" : "https://www.foxbusiness.com/business-leaders/robert-w-gore-the-inventor-of-gore-tex-fabric-dead-at-83",
+         "description" : "Gore discovered a new form of a polymer in 1969 at a company lab in Newark, Delaware",
+         "title" : "Robert W. Gore, the inventor of Gore-Tex fabric, dead at 83 - Fox Business",
+         "author" : "Associated Press",
+         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/09/0/0/Gore-tex.jpg?ve=1&tl=1",
+         "source" : {
+            "id" : null,
+            "name" : "Fox Business"
+         },
+         "publishedAt" : "2020-09-20T07:00:50Z",
+         "content" : "Robert W. Gore, whose invention of what created the breathable-yet-waterproof fabric known as Gore-Tex revolutionized outdoor wear and helped spawn uses in numerous other fields, has died. He was 83.… [+2128 chars]"
+      },
+      {
+         "author" : "Dave Kunz",
+         "urlToImage" : "https://cdn.abcotvs.com/dip/images/6442859_091820-kabc-7pm-new-nissan-z-vid.jpg?w=1600",
+         "title" : "New Nissan Z sports car pays tribute to original Datsun 240Z - KABC-TV",
+         "description" : "You can say goodbye to the Nissan 370Z, the two-seater that recently helped the company celebrate 50 years of sports car performance.",
          "url" : "https://abc7.com/nissan-datsun-sports-car-new/6441051/",
          "content" : "You can say goodbye to the Nissan 370Z, the two-seater that recently helped the company celebrate 50 years of sports car performance.That's because it's time to say hello to an all-new Nissan Z, poss… [+1952 chars]",
-         "description" : "You can say goodbye to the Nissan 370Z, the two-seater that recently helped the company celebrate 50 years of sports car performance.",
-         "title" : "New Nissan Z sports car pays tribute to original Datsun 240Z - KABC-TV",
          "publishedAt" : "2020-09-20T04:59:56Z",
          "source" : {
-            "name" : "KABC-TV",
-            "id" : null
-         },
-         "author" : "Dave Kunz",
-         "urlToImage" : "https://cdn.abcotvs.com/dip/images/6442859_091820-kabc-7pm-new-nissan-z-vid.jpg?w=1600"
+            "id" : null,
+            "name" : "KABC-TV"
+         }
       },
       {
-         "author" : "",
-         "urlToImage" : "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-09%2Faf41f600-fabd-11ea-84be-f5bd03d386af&client=amp-blogside-v2&signature=c82af07edb79449ac62a2d70d901e3ec2e562ac0",
-         "title" : "Six people face charges for allegedly bribing Amazon staff to help sellers - Engadget",
+         "urlToImage" : "https://techcrunch.com/wp-content/uploads/2020/09/GettyImages-1228561830.jpg?w=600",
+         "author" : "Eric Eldon",
+         "description" : "Snowflake, Jfrog, Sumo Logic and Unity each raised price ranges days before IPO, to meet what had seemed like growing enthusiasm from public markets. Each one still popped.",
+         "title" : "From Unity to Disrupt, tech has an especially optimistic week - TechCrunch",
+         "url" : "http://techcrunch.com/2020/09/19/from-unity-to-disrupt-a-look-back-at-an-especially-optimistic-week-in-tech/",
+         "content" : "Editors note: Get this free weekly recap of TechCrunch news that any startup can use by email every Saturday morning (7 a.m. PT). Subscribe here.\r\nWhile TechCrunch was busy producing our first-ever o… [+8680 chars]",
+         "publishedAt" : "2020-09-20T00:00:00Z",
+         "source" : {
+            "name" : "TechCrunch",
+            "id" : "techcrunch"
+         }
+      },
+      {
+         "urlToImage" : "https://cryptobriefing.com/wp-content/uploads/2019/06/Ethereum-Price-Analysis-ETH-USD-Losing-Pressure.jpg",
+         "author" : null,
+         "description" : "The average transaction fee on Ethereum costs $7.5, three times that of Bitcoin. These ludicrous fees are not sustainable.",
+         "title" : "ETH 2.0 Won’t Fix Ethereum’s Scalability Problems, Analyst Argues - Crypto Briefing",
+         "url" : "https://cryptobriefing.com/eth-2-0-wont-fix-ethereums-scalability-problems-analyst-argues/",
+         "content" : null,
+         "publishedAt" : "2020-09-19T23:44:00Z",
+         "source" : {
+            "name" : "Crypto Briefing",
+            "id" : null
+         }
+      },
+      {
          "source" : {
             "name" : "Engadget",
             "id" : "engadget"
          },
          "publishedAt" : "2020-09-19T22:24:10Z",
-         "url" : "https://www.engadget.com/amazon-third-party-seller-bribery-scheme-214225399.html",
          "content" : "The US is cracking down on an elaborate scheme to boost some third-party Amazon sellers at the expense of others. A Grand Jury in Washington has indicted six people (via The Verge) for allegedly brib… [+678 chars]",
-         "description" : "Six people have been indicted over an alleged scheme that bribed Amazon employees to help third-party sellers."
+         "title" : "Six people face charges for allegedly bribing Amazon staff to help sellers - Engadget",
+         "description" : "Six people have been indicted over an alleged scheme that bribed Amazon employees to help third-party sellers.",
+         "url" : "https://www.engadget.com/amazon-third-party-seller-bribery-scheme-214225399.html",
+         "urlToImage" : "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-09%2Faf41f600-fabd-11ea-84be-f5bd03d386af&client=amp-blogside-v2&signature=c82af07edb79449ac62a2d70d901e3ec2e562ac0",
+         "author" : ""
       },
       {
-         "title" : "Robert W. Gore, the inventor of Gore-Tex fabric, dead at 83 - ABC News",
-         "publishedAt" : "2020-09-19T22:07:30Z",
-         "source" : {
-            "id" : "abc-news",
-            "name" : "ABC News"
-         },
-         "author" : "The Associated Press",
-         "urlToImage" : "https://s.abcnews.com/images/US/WireAP_1cb045d3fce04e51855fe8b2e2cd8035_16x9_992.jpg",
-         "url" : "https://abcnews.go.com/US/wireStory/robert-gore-inventor-gore-tex-fabric-dead-83-73117856",
-         "description" : "",
-         "content" : "NEWARK, Del. -- Robert W. Gore, whose invention of what created the breathable-yet-waterproof fabric known as Gore-Tex revolutionized outdoor wear and helped spawn uses in numerous other fields, has … [+2062 chars]"
-      },
-      {
+         "publishedAt" : "2020-09-19T21:55:24Z",
          "content" : "Tesla’s Autopilot is meant to be an assistance feature for alert drivers to both increase their enjoyment of driving and add a layer of vehicle safety. However, stories about irresponsible users come… [+3770 chars]",
-         "description" : "Tesla’s Autopilot is meant to be an assistance feature for alert drivers to both increase their enjoyment of driving and add a layer of vehicle safety. However, stories about irresponsible users come into the news cycle on occasion, this time from a 2019 Mode…",
-         "url" : "https://www.teslarati.com/tesla-driver-sleeping-autopilot-alberta-90-mph/",
          "source" : {
             "id" : null,
             "name" : "Teslarati"
          },
-         "publishedAt" : "2020-09-19T21:55:24Z",
-         "title" : "Tesla Model S driver using Autopilot arrested for sleeping while driving 90 mph - Teslarati",
+         "author" : "Dacia J. Ferris",
          "urlToImage" : "https://www.teslarati.com/wp-content/uploads/2020/09/Tesla-Model-S-Autopilot-Canada-Arrested.jpg",
-         "author" : "Dacia J. Ferris"
+         "url" : "https://www.teslarati.com/tesla-driver-sleeping-autopilot-alberta-90-mph/",
+         "title" : "Tesla Model S driver using Autopilot arrested for sleeping while driving 90 mph - Teslarati",
+         "description" : "Tesla’s Autopilot is meant to be an assistance feature for alert drivers to both increase their enjoyment of driving and add a layer of vehicle safety. However, stories about irresponsible users come into the news cycle on occasion, this time from a 2019 Mode…"
       },
       {
+         "author" : null,
+         "urlToImage" : null,
+         "description" : null,
          "title" : "Tesla's Relationship With Panasonic After The Battery Day - Torque News",
+         "url" : "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9UlZEXzZZb19Na0nSAQA?oc=5",
+         "content" : null,
          "publishedAt" : "2020-09-19T21:55:01Z",
          "source" : {
             "id" : "google-news",
             "name" : "Google News"
-         },
-         "author" : null,
-         "urlToImage" : null,
-         "url" : "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9UlZEXzZZb19Na0nSAQA?oc=5",
-         "content" : null,
-         "description" : null
+         }
       },
       {
-         "url" : "https://www.kwch.com/2020/09/19/textron-aviation-labor-union-accept-new-contract/",
          "content" : "WICHITA, Kan. (KWCH) - Textron Aviation and its labor union accepted a new contract that will take effect Monday.\r\nMembers of the union gathered at Century II Saturday morning where they were briefed… [+2280 chars]",
-         "description" : "The contract lasts for four years and will cover thousands of workers.",
-         "author" : "KWCH  Staff",
-         "urlToImage" : "https://gray-kwch-prod.cdn.arcpublishing.com/resizer/phye-xp2wdgiD9qitV2fxqoPAgo=/980x0/smart/cloudfront-us-east-1.images.arcpublishing.com/gray/YXJRX7IWWNGTJHB7PMXRHLCYRI.jpg",
-         "title" : "Textron Aviation, labor union accept new contract - KWCH",
+         "publishedAt" : "2020-09-19T21:54:00Z",
          "source" : {
-            "name" : "KWCH",
-            "id" : null
+            "id" : null,
+            "name" : "KWCH"
          },
-         "publishedAt" : "2020-09-19T21:54:00Z"
+         "urlToImage" : "https://gray-kwch-prod.cdn.arcpublishing.com/resizer/phye-xp2wdgiD9qitV2fxqoPAgo=/980x0/smart/cloudfront-us-east-1.images.arcpublishing.com/gray/YXJRX7IWWNGTJHB7PMXRHLCYRI.jpg",
+         "author" : "KWCH  Staff",
+         "url" : "https://www.kwch.com/2020/09/19/textron-aviation-labor-union-accept-new-contract/",
+         "title" : "Textron Aviation, labor union accept new contract - KWCH",
+         "description" : "The contract lasts for four years and will cover thousands of workers."
       },
       {
-         "author" : "Zack Whittaker",
-         "urlToImage" : "https://techcrunch.com/wp-content/uploads/2020/09/GettyImages-671033610.jpg?w=600",
+         "url" : "http://techcrunch.com/2020/09/19/homeland-security-emergency-alert-critical-windows-bug/",
          "title" : "Homeland Security issues rare emergency alert over ‘critical’ Windows bug - TechCrunch",
-         "publishedAt" : "2020-09-19T21:15:52Z",
+         "description" : "The bug can give attackers full control of an entire network in seconds.",
+         "urlToImage" : "https://techcrunch.com/wp-content/uploads/2020/09/GettyImages-671033610.jpg?w=600",
+         "author" : "Zack Whittaker",
          "source" : {
             "id" : "techcrunch",
             "name" : "TechCrunch"
          },
-         "url" : "http://techcrunch.com/2020/09/19/homeland-security-emergency-alert-critical-windows-bug/",
-         "content" : "Homeland Security’s cybersecurity advisory unit has issued a rare emergency alert to government departments after the recent disclosure of a “critical”-rated security vulnerability in server versions… [+1803 chars]",
-         "description" : "The bug can give attackers full control of an entire network in seconds."
+         "publishedAt" : "2020-09-19T21:15:52Z",
+         "content" : "Homeland Security’s cybersecurity advisory unit has issued a rare emergency alert to government departments after the recent disclosure of a “critical”-rated security vulnerability in server versions… [+1803 chars]"
       },
       {
-         "urlToImage" : "https://bringmethenews.com/.image/t_share/MTc1NTE5ODk4MjEzMDMzMTk1/image-from-ios-69.jpg",
-         "author" : "Joe Nelson",
+         "content" : "Credit: Jackie Renzetti\r\nWorkers at all Spyhouse Coffee locations in the Twin Cities refused to work Saturday, striking in an effort to improve health and safety conditions during ever-evolving coron… [+1035 chars]",
          "publishedAt" : "2020-09-19T21:10:59Z",
          "source" : {
             "name" : "Bring Me The News",
             "id" : null
          },
-         "title" : "Spyhouse Coffee employees strike across Twin Cities Saturday - Bring Me The News",
-         "content" : "Credit: Jackie Renzetti\r\nWorkers at all Spyhouse Coffee locations in the Twin Cities refused to work Saturday, striking in an effort to improve health and safety conditions during ever-evolving coron… [+1035 chars]",
+         "author" : "Joe Nelson",
+         "urlToImage" : "https://bringmethenews.com/.image/t_share/MTc1NTE5ODk4MjEzMDMzMTk1/image-from-ios-69.jpg",
          "description" : "Spyhouse Coffee locations can be found in Minneapolis and St. Paul.",
+         "title" : "Spyhouse Coffee employees strike across Twin Cities Saturday - Bring Me The News",
          "url" : "https://bringmethenews.com/minnesota-lifestyle/spyhouse-coffee-employees-strike-across-twin-cities-saturday"
       },
       {
-         "description" : "The P. Terry;s location in downtown Austin has closed after losses during the pandemic.",
-         "content" : "AUSTIN (Austin Business Journal) — Downtown Austin is losing another local business.\r\nP. Terry’s Burger Stand has shuttered its location at 515 Congress Ave., which CEO Todd Coerver said was no longe… [+1422 chars]",
-         "url" : "https://www.kxan.com/news/local/austin/p-terrys-closes-downtown-austin-location-due-to-covid-19-losses/",
          "publishedAt" : "2020-09-19T21:10:00Z",
+         "content" : "AUSTIN (Austin Business Journal) — Downtown Austin is losing another local business.\r\nP. Terry’s Burger Stand has shuttered its location at 515 Congress Ave., which CEO Todd Coerver said was no longe… [+1422 chars]",
          "source" : {
-            "id" : null,
-            "name" : "KXAN.com"
+            "name" : "KXAN.com",
+            "id" : null
          },
-         "title" : "P. Terry’s closes downtown Austin location due to COVID-19 losses - KXAN.com",
+         "author" : "Paul Thompson, ABJ",
          "urlToImage" : "https://www.kxan.com/wp-content/uploads/sites/40/2020/09/P.-Terrys-downtown-location-ABJ.jpg?w=1280",
-         "author" : "Paul Thompson, ABJ"
+         "url" : "https://www.kxan.com/news/local/austin/p-terrys-closes-downtown-austin-location-due-to-covid-19-losses/",
+         "description" : "The P. Terry;s location in downtown Austin has closed after losses during the pandemic.",
+         "title" : "P. Terry’s closes downtown Austin location due to COVID-19 losses - KXAN.com"
       },
       {
          "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200919145712-cracker-barrel-file-restricted-super-tease.jpg",
          "author" : "Lauren M. Johnson, CNN",
-         "source" : {
-            "id" : "cnn",
-            "name" : "CNN"
-         },
-         "publishedAt" : "2020-09-19T20:04:00Z",
          "title" : "Cracker Barrel is adding alcohol to the menu for the first time in its history - CNN",
-         "content" : null,
          "description" : "The next time you go to order a Momma's Pancake Breakfast, you can add a mimosa to your order.",
-         "url" : "https://www.cnn.com/2020/09/19/business/cracker-barrel-alcohol-sales-trnd/index.html"
-      },
-      {
-         "author" : "Ganesh Setty, CNN",
-         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200918121436-new-york-dining-0917-restricted-super-tease.jpg",
-         "title" : "NYC restaurants can soon add a Covid-19 surcharge to customers' bills - CNN",
+         "url" : "https://www.cnn.com/2020/09/19/business/cracker-barrel-alcohol-sales-trnd/index.html",
+         "publishedAt" : "2020-09-19T20:04:00Z",
+         "content" : null,
          "source" : {
             "name" : "CNN",
             "id" : "cnn"
-         },
-         "publishedAt" : "2020-09-19T19:56:00Z",
-         "url" : "https://www.cnn.com/2020/09/19/us/nyc-covid-restaurant-surcharge-trnd/index.html",
-         "description" : "New York City diners may soon see a Covid-19 surcharge on their bills as the restaurant industry continues to hobble due to the coronavirus pandemic.",
-         "content" : null
+         }
       },
       {
-         "urlToImage" : "https://images.axios.com/NtIoJOv78WVG9mwQIzMbIINVOB0=/fit-in/1366x1366/2020/09/19/1600524576171.jpg",
-         "author" : "Bryan Walsh",
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200918121436-new-york-dining-0917-restricted-super-tease.jpg",
+         "author" : "Ganesh Setty, CNN",
+         "title" : "NYC restaurants can soon add a Covid-19 surcharge to customers' bills - CNN",
+         "description" : "New York City diners may soon see a Covid-19 surcharge on their bills as the restaurant industry continues to hobble due to the coronavirus pandemic.",
+         "url" : "https://www.cnn.com/2020/09/19/us/nyc-covid-restaurant-surcharge-trnd/index.html",
+         "publishedAt" : "2020-09-19T19:56:00Z",
+         "content" : null,
+         "source" : {
+            "id" : "cnn",
+            "name" : "CNN"
+         }
+      },
+      {
          "publishedAt" : "2020-09-19T19:41:36Z",
+         "content" : "Physicists have figured out a way to determine the authenticity of rare whisky without opening the bottle, by using laser lights.\r\nWhy it matters: The demand for rare Scotch whisky has been rising in… [+1227 chars]",
          "source" : {
             "id" : "axios",
             "name" : "Axios"
          },
-         "title" : "Detecting counterfeit whisky - Axios",
+         "author" : "Bryan Walsh",
+         "urlToImage" : "https://images.axios.com/NtIoJOv78WVG9mwQIzMbIINVOB0=/fit-in/1366x1366/2020/09/19/1600524576171.jpg",
          "description" : "The new technology could help determine whether your four-figure single malt is actually rotgut.",
-         "content" : "Physicists have figured out a way to determine the authenticity of rare whisky without opening the bottle, by using laser lights.\r\nWhy it matters: The demand for rare Scotch whisky has been rising in… [+1227 chars]",
+         "title" : "Detecting counterfeit whisky - Axios",
          "url" : "https://www.axios.com/detecting-counterfeit-whisky-scotch-9bab06f8-131e-4a30-9cbc-8d2c6de2e825.html"
       },
       {
-         "title" : "Understanding How the Air Quality Index Works - Visual Capitalist",
+         "content" : "Its clear that sustainable investing has been thrown into the limelight.\r\nIncreasingly, investors are seeing both the financial and social imperative for sustainable investing. In particular, the rap… [+5476 chars]",
          "publishedAt" : "2020-09-19T19:35:35Z",
          "source" : {
             "id" : null,
@@ -180,87 +205,62 @@
          "author" : "Nick Routley",
          "urlToImage" : "https://www.visualcapitalist.com/wp-content/uploads/2020/09/how-air-quality-works-prev.png",
          "url" : "https://www.visualcapitalist.com/how-air-quality-index-works/",
-         "description" : "This graphic breaks down how the air quality index is measured, and looks at which regions are hardest hit by atmospheric pollution and wildfires.",
-         "content" : "Its clear that sustainable investing has been thrown into the limelight.\r\nIncreasingly, investors are seeing both the financial and social imperative for sustainable investing. In particular, the rap… [+5476 chars]"
+         "title" : "Understanding How the Air Quality Index Works - Visual Capitalist",
+         "description" : "This graphic breaks down how the air quality index is measured, and looks at which regions are hardest hit by atmospheric pollution and wildfires."
       },
       {
+         "author" : "Natalya Daoud",
+         "urlToImage" : "https://www.fox19.com/resizer/61o6gCkytrtzWk_CwXNcCykoU38=/1200x0/cloudfront-us-east-1.images.arcpublishing.com/raycom/QVCUNJHJU5DPDLVRTYKOKDVBGA.jpg",
+         "url" : "https://www.fox19.com/2020/09/19/cincinnati-area-bars-cited-violating-gov-mike-dewines-alcohol-curfew/",
+         "title" : "2 Cincinnati-area bars cited for violating Gov. Mike Dewine’s alcohol curfew - WXIX",
+         "description" : "Two Cincinnati area bars were cited Saturday for violating health orders put into place by Gov. Mike DeWine, agents from the Ohio Investigative Unit, OIU, said.",
+         "content" : "CINCINNATI (FOX19) -Two Cincinnati area bars were cited Saturday for violating health orders put into place by Gov. Mike DeWine, agents from the Ohio Investigative Unit, OIU, said.\r\nGrub Pub in Hamil… [+797 chars]",
          "publishedAt" : "2020-09-19T19:10:00Z",
          "source" : {
             "id" : null,
             "name" : "FOX19"
-         },
-         "title" : "2 Cincinnati-area bars cited for violating Gov. Mike Dewine’s alcohol curfew - WXIX",
-         "urlToImage" : "https://www.fox19.com/resizer/61o6gCkytrtzWk_CwXNcCykoU38=/1200x0/cloudfront-us-east-1.images.arcpublishing.com/raycom/QVCUNJHJU5DPDLVRTYKOKDVBGA.jpg",
-         "author" : "Natalya Daoud",
-         "description" : "Two Cincinnati area bars were cited Saturday for violating health orders put into place by Gov. Mike DeWine, agents from the Ohio Investigative Unit, OIU, said.",
-         "content" : "CINCINNATI (FOX19) -Two Cincinnati area bars were cited Saturday for violating health orders put into place by Gov. Mike DeWine, agents from the Ohio Investigative Unit, OIU, said.\r\nGrub Pub in Hamil… [+797 chars]",
-         "url" : "https://www.fox19.com/2020/09/19/cincinnati-area-bars-cited-violating-gov-mike-dewines-alcohol-curfew/"
-      },
-      {
-         "url" : "https://www.teslarati.com/tesla-battery-day-silence-critics-once-and-for-all/",
-         "description" : "The hype surrounding Tesla’s Battery Day is very real. Enthusiasts and unknowns are talking about the potential findings that Elon Musk and his crew could unveil on September 22nd, and the event could make way for Tesla to become much larger than it already i…",
-         "content" : "The hype surrounding Tesla’s Battery Day is very real. Enthusiasts and unknowns are talking about the potential findings that Elon Musk and his crew could unveil on September 22nd, and the event coul… [+6158 chars]",
-         "author" : "Joey Klender",
-         "urlToImage" : "https://www.teslarati.com/wp-content/uploads/2020/07/gigafactory-1-battery-cell-line-1.jpg",
-         "title" : "How Tesla Battery Day can silence critics once and for all - Teslarati",
-         "publishedAt" : "2020-09-19T19:07:16Z",
-         "source" : {
-            "id" : null,
-            "name" : "Teslarati"
          }
       },
       {
-         "url" : "http://www.krgv.com/news/lotto-texas-jackpot-estimated-at-43-million-bigger-than-powerball-and-mega-millions/",
-         "content" : "The Lotto Texas jackpot will hit nearly $43 million on Saturday — larger than both the current Powerball and Mega Millions prizes.\r\nNobody won the Lotto Texas jackpot on Wednesday, pushing the estima… [+363 chars]",
-         "description" : "The Lotto Texas jackpot will hit nearly $43 million on Saturday — larger than both the current Powerball and Mega Millions prizes.",
-         "author" : "",
-         "urlToImage" : "http://dcer237tfveol.cloudfront.net/v2/zE1leqVdgZuXd6zNfQBsegprajgSx5ldhRI6WpcRct6yivqCqhMmVqBp-xxQDKOnjGhDUDyipT90pkKs65bqCOi7cGQAKDUn57UGJD8s6szuidEMK8ZoqrxuH9_Hfhd4SSNPp8m9yZAybZ0JZ8g1XY",
-         "title" : "Lotto Texas jackpot estimated at $43 million, bigger than Powerball and Mega Millions - KRGV",
          "publishedAt" : "2020-09-19T17:17:42Z",
+         "content" : "The Lotto Texas jackpot will hit nearly $43 million on Saturday — larger than both the current Powerball and Mega Millions prizes.\r\nNobody won the Lotto Texas jackpot on Wednesday, pushing the estima… [+363 chars]",
          "source" : {
             "id" : null,
             "name" : "KRGV"
-         }
+         },
+         "author" : "",
+         "urlToImage" : "http://dcer237tfveol.cloudfront.net/v2/zE1leqVdgZuXd6zNfQBsegprajgSx5ldhRI6WpcRct6yivqCqhMmVqBp-xxQDKOnjGhDUDyipT90pkKs65bqCOi7cGQAKDUn57UGJD8s6szuidEMK8ZoqrxuH9_Hfhd4SSNPp8m9yZAybZ0JZ8g1XY",
+         "title" : "Lotto Texas jackpot estimated at $43 million, bigger than Powerball and Mega Millions - KRGV",
+         "description" : "The Lotto Texas jackpot will hit nearly $43 million on Saturday — larger than both the current Powerball and Mega Millions prizes.",
+         "url" : "http://www.krgv.com/news/lotto-texas-jackpot-estimated-at-43-million-bigger-than-powerball-and-mega-millions/"
       },
       {
-         "title" : "NBC's Peacock finally arrives on Roku two months after launch - Mashable",
+         "content" : "Peacock and a handful of other NBC apps are coming to Roku after the two parties reach a deal on Friday.\r\nWhen Peacock launched in mid-July, it was notably absent from Roku, Fire TV, and some smart T… [+1724 chars]",
          "publishedAt" : "2020-09-19T17:10:00Z",
          "source" : {
-            "name" : "Mashable",
-            "id" : "mashable"
+            "id" : "mashable",
+            "name" : "Mashable"
          },
-         "author" : "Kellen Beck",
          "urlToImage" : "https://mondrian.mashable.com/2020%252F09%252F19%252Ffe%252Ffe958c54c4c540be9c3588207d4b99f9.6b4c7.png%252F1200x630.png?signature=paFL8DPfXJ2MCA_6oDp9KtEo9yk=",
+         "author" : "Kellen Beck",
          "url" : "https://mashable.com/article/peacock-roku-arrival/",
-         "content" : "Peacock and a handful of other NBC apps are coming to Roku after the two parties reach a deal on Friday.\r\nWhen Peacock launched in mid-July, it was notably absent from Roku, Fire TV, and some smart T… [+1724 chars]",
-         "description" : "A disagreement over advertising."
+         "description" : "A disagreement over advertising.",
+         "title" : "NBC's Peacock finally arrives on Roku two months after launch - Mashable"
       },
       {
-         "url" : "https://www.bostonglobe.com/2020/09/19/metro/mass-reports-26-new-deaths-569-new-cases-covid-19-saturday/",
-         "content" : "Massachusetts health department reported 26 new deaths due to COVID-19 Saturday, along with 569 new confirmed cases of the virus.\r\nThe latest data from the Department of Public Health brings the stat… [+1814 chars]",
-         "description" : "Massachusetts’s health department reported new deaths due to COVID-19 Saturday, along with new confirmed cases of the virus.",
-         "author" : null,
-         "urlToImage" : "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/9FpXIbNU1rmzL4Rc814V-awJTIk=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/VCF7UNFNW3HD2VYW7DRV2X55K4.jpg",
-         "title" : "Mass. reports 26 new deaths, 569 new cases of COVID-19 Saturday - The Boston Globe",
-         "publishedAt" : "2020-09-19T16:36:00Z",
+         "publishedAt" : "2020-09-19T17:03:00Z",
+         "content" : "In brief: The U.S. Postal Service (USPS) generated a huge $1.6 billion in profit from Amazon deliveries in the 2019 fiscal year, debunking claims from President Trump that the service loses money on … [+1632 chars]",
          "source" : {
             "id" : null,
-            "name" : "The Boston Globe"
-         }
-      },
-      {
-         "url" : "https://www.fiercepharma.com/pharma/bristol-myers-preps-2nd-kidney-cancer-combo-nod-as-opdivo-cabometyx-duo-slash-death-risk-40",
-         "description" : "Bristol-Myers Squibb already has one Opdivo combo approved in kidney cancer, but it’s going for another—and new trial data presented Saturday could be just the ticket, not only for winning an FDA approval, but for stacking up against its immuno-oncology rival…",
-         "content" : "Bristol-Myers Squibb already has one Opdivo combo approved in kidney cancer, but its going for anotherand new trial data presented Saturday could be just the ticket, not only for winning an FDA appro… [+4339 chars]",
-         "title" : "ESMO: Bristol Myers preps 2nd kidney cancer combo nod as Opdivo-Cabometyx duo slashes death risk 40% - FiercePharma",
-         "publishedAt" : "2020-09-19T16:30:00Z",
-         "source" : {
-            "id" : null,
-            "name" : "FiercePharma"
+            "name" : "TechSpot"
          },
-         "author" : null,
-         "urlToImage" : "https://qtxasset.com/fiercepharma/1600532714/samit%20hirawat.jpg/samit%20hirawat.jpg?csKNMrJKcd6A_UWfOoj3ynyt71HFAwqW"
+         "urlToImage" : "https://static.techspot.com/images2/news/bigimage/2020/09/2020-09-19-image-2.jpg",
+         "author" : "Joe White",
+         "description" : "The information comes from internal emails and financial statements obtained by the American Oversight watchdog group and shared in a report from the Washington Post. According to...",
+         "title" : "U.S. Postal Service made $1.6 billion profit on Amazon deliveries last year - TechSpot",
+         "url" : "https://www.techspot.com/news/86810-us-postal-service-made-16-billion-profit-amazon.html"
       }
    ],
+   "status" : "ok",
    "totalResults" : 70
 }
