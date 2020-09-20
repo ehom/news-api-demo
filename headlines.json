@@ -1,266 +1,266 @@
 {
-   "totalResults" : 70,
+   "status" : "ok",
    "articles" : [
       {
-         "urlToImage" : "https://cdn.abcotvs.com/dip/images/6463382_092020-wabc-train-derail-img2.jpg?w=1600",
-         "content" : "CHELSEA, Manhattan (WABC) -- A train derailed after coming into contact with debris on the roadbed as it was pulling into a subway station in Manhattan Sunday morning, according to the MTA.The incide… [+1215 chars]",
-         "url" : "https://abc7ny.com/train-derailment-nyc-crash-subway/6463446/",
-         "publishedAt" : "2020-09-20T13:23:20Z",
-         "title" : "NYC northbound A train derails at 8th Avenue and 14th Street train station in Chelsea; 1 injury reported - WABC-TV",
-         "author" : null,
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200427124425-airbnb-0420-restricted-super-tease.jpg",
+         "url" : "https://www.cnn.com/2020/09/20/investing/ipos-spacs-stocks/index.html",
+         "content" : "New York (CNN Business)With the presidential election looming and uncertainty growing about what will happen to the stock market and economy after that, private companies are racing to make their deb… [+5690 chars]",
+         "description" : "With the presidential election looming and uncertainty growing about what will happen to the stock market and economy after that, private companies are racing to make their debuts on Wall Street.",
          "source" : {
-            "name" : "WABC-TV",
+            "name" : "CNN",
+            "id" : "cnn"
+         },
+         "publishedAt" : "2020-09-20T15:06:00Z",
+         "author" : "Paul R. La Monica, CNN Business",
+         "title" : "More new stocks, please! Companies are rushing to IPO before the election - CNN"
+      },
+      {
+         "description" : "Moscow is in various stages of talks and has received requests to supply as many as 1.2 billion doses of its vaccine, which is still in the trial phase",
+         "content" : "Russia has struck preliminary agreements to sell its Covid-19 vaccine to more than 10 countries in Asia, South America and the Middle East, a development that could give Moscow valuable economic and … [+193 chars]",
+         "url" : "https://www.wsj.com/articles/russia-strikes-deals-to-sell-its-coronavirus-vaccine-internationally-11600610554",
+         "urlToImage" : "https://images.wsj.net/im-234208/social",
+         "publishedAt" : "2020-09-20T14:02:00Z",
+         "title" : "Russia Strikes Deals to Sell Its Coronavirus Vaccine Internationally - The Wall Street Journal",
+         "author" : "Georgi Kantchev",
+         "source" : {
+            "id" : "the-wall-street-journal",
+            "name" : "The Wall Street Journal"
+         }
+      },
+      {
+         "title" : "Dave Ramsey: Why this habit may give you more money than a salary boost - Fox Business",
+         "publishedAt" : "2020-09-20T13:43:15Z",
+         "author" : "Dave Ramsey",
+         "source" : {
+            "name" : "Fox Business",
             "id" : null
          },
-         "description" : "The subway derailment happened at the 8th Avenue and 14th Street train station in the Chelsea on a northbound A train."
+         "content" : "Editor's note: Money expert Dave Ramsey is CEO of Ramsey Solutions. He has authored seven best-selling books, including \"The Total Money Makeover.\" His radio show \"The Dave Ramsey Show\" is heard by m… [+2968 chars]",
+         "description" : "Most people are shocked when they realize how much they’re actually spending at the grocery store.",
+         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/09/0/0/money-savings-istock.jpg?ve=1&tl=1",
+         "url" : "https://www.foxbusiness.com/personal-finance/dave-ramsey-habit-money-salary-boost"
       },
       {
-         "urlToImage" : "https://cdn.vox-cdn.com/thumbor/yNqfUzS6fiH9uvGQWK9VuEaJA98=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/21893920/acastro_200917_4200_coffeeTea_0001.jpg",
-         "content" : "The Verges favorite gadgets for coffee and tea\r\nWhen you want your caffeine with class\r\nIf you buy something from a Verge link, Vox Media may earn a commission. See our ethics statement.\r\nIm not sure… [+12768 chars]",
-         "url" : "https://www.theverge.com/21437846/coffee-tea-gadgets-tech-gear-accessories",
-         "title" : "The Verge’s favorite gadgets for coffee and tea - The Verge",
+         "source" : {
+            "id" : null,
+            "name" : "WABC-TV"
+         },
+         "author" : null,
+         "publishedAt" : "2020-09-20T13:23:20Z",
+         "title" : "NYC northbound A train derails at 8th Avenue and 14th Street train station in Chelsea; 1 injury reported - WABC-TV",
+         "url" : "https://abc7ny.com/train-derailment-nyc-crash-subway/6463446/",
+         "urlToImage" : "https://cdn.abcotvs.com/dip/images/6463382_092020-wabc-train-derail-img2.jpg?w=1600",
+         "description" : "The subway derailment happened at the 8th Avenue and 14th Street train station in the Chelsea on a northbound A train.",
+         "content" : "CHELSEA, Manhattan (WABC) -- A train derailed after coming into contact with debris on the roadbed as it was pulling into a subway station in Manhattan Sunday morning, according to the MTA.The incide… [+1215 chars]"
+      },
+      {
+         "content" : "Volkswagen has unveiled the new Caddy California, a modular camper van with a a bed, kitchen, and tent.\r\nThe German automaker has long been a player in the camper van industry. The new Caddy Californ… [+844 chars]",
+         "description" : "The Caddy California has a modular set up with a folding bed, pull-out rear kitchen box, tent, and storage options throughout the interior.",
+         "urlToImage" : "https://i.insider.com/5f58ea577ed0ee001e25e2ff?width=1200&format=jpeg",
+         "url" : "https://www.businessinsider.com/volkswagen-caddy-california-camper-van-that-can-sleep-4-2020-9",
+         "author" : "Brittany Chang",
+         "publishedAt" : "2020-09-20T13:00:19Z",
+         "title" : "Volkswagen unveiled its Caddy California camper van that can sleep 4 - Business Insider - Business Insider",
+         "source" : {
+            "id" : "business-insider",
+            "name" : "Business Insider"
+         }
+      },
+      {
          "publishedAt" : "2020-09-20T13:00:00Z",
          "author" : "Verge Staff",
+         "title" : "The Verge’s favorite gadgets for coffee and tea - The Verge",
          "source" : {
-            "id" : "the-verge",
-            "name" : "The Verge"
+            "name" : "The Verge",
+            "id" : "the-verge"
          },
-         "description" : "The staff of The Verge talks about their favorite coffee and tea brewers, grinders, and other paraphernalia, including the Moka pot, the AeroPress, and an Ikea frother,"
+         "description" : "The staff of The Verge talks about their favorite coffee and tea brewers, grinders, and other paraphernalia, including the Moka pot, the AeroPress, and an Ikea frother,",
+         "content" : "The Verges favorite gadgets for coffee and tea\r\nWhen you want your caffeine with class\r\nIf you buy something from a Verge link, Vox Media may earn a commission. See our ethics statement.\r\nIm not sure… [+12768 chars]",
+         "url" : "https://www.theverge.com/21437846/coffee-tea-gadgets-tech-gear-accessories",
+         "urlToImage" : "https://cdn.vox-cdn.com/thumbor/yNqfUzS6fiH9uvGQWK9VuEaJA98=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/21893920/acastro_200917_4200_coffeeTea_0001.jpg"
       },
       {
-         "publishedAt" : "2020-09-20T12:48:03Z",
-         "title" : "Gangster capitalism and the American theft of Chinese innovation - TechCrunch",
-         "author" : "Danny Crichton",
+         "urlToImage" : "https://techcrunch.com/wp-content/uploads/2018/12/GettyImages-872040216.jpg?w=600",
+         "url" : "http://techcrunch.com/2020/09/20/gangster-capitalism-and-the-american-theft-of-chinese-innovation/",
+         "content" : "It used to be easy to tell the American and Chinese economies apart. One was innovative, one made clones. One was a free market while the other demanded payments to a political party and its leadersh… [+6255 chars]",
          "description" : "It used to be “easy” to tell the American and Chinese economies apart. One was innovative, one made clones. One was a free market while the other demanded payments to a political party and its leadership, a corrupt wealth generating scam that by some estimate…",
          "source" : {
             "id" : "techcrunch",
             "name" : "TechCrunch"
          },
-         "content" : "It used to be easy to tell the American and Chinese economies apart. One was innovative, one made clones. One was a free market while the other demanded payments to a political party and its leadersh… [+6255 chars]",
-         "urlToImage" : "https://techcrunch.com/wp-content/uploads/2018/12/GettyImages-872040216.jpg?w=600",
-         "url" : "http://techcrunch.com/2020/09/20/gangster-capitalism-and-the-american-theft-of-chinese-innovation/"
+         "publishedAt" : "2020-09-20T12:48:03Z",
+         "title" : "Gangster capitalism and the American theft of Chinese innovation - TechCrunch",
+         "author" : "Danny Crichton"
       },
       {
-         "url" : "https://www.nejm.org/doi/full/10.1056/NEJMoa1917239",
-         "content" : "From the Department of Investigational Cancer Therapeutics, Phase I Clinical Trials Program, University of Texas M.D. Anderson Cancer Center, Houston (D.S.H., F.M.-B.); the Department of Medical Onco… [+2519 chars]",
-         "urlToImage" : "https://www.nejm.org/na101/home/literatum/publisher/mms/journals/content/nejm/0/nejm.ahead-of-print/nejmoa1917239/20200909/images/img_small/nejmoa1917239_f1.jpeg",
-         "description" : "Original Article from The New England Journal of Medicine — KRASG12C Inhibition with Sotorasib in Advanced Solid Tumors",
+         "publishedAt" : "2020-09-20T12:35:00Z",
+         "author" : "Billy Duberstein",
+         "title" : "Now We Know Who at Berkshire Invested in Snowflake, and Why - Motley Fool",
          "source" : {
-            "name" : "nejm.org",
-            "id" : null
+            "id" : null,
+            "name" : "Motley Fool"
          },
+         "description" : "Meanwhile, even CEO Frank Slootman thinks the market's mania for the stock got out of hand last week.",
+         "content" : "The hottest IPO of the year is cloud-based data warehouse provider Snowflake(NYSE:SNOW). It was initially slated to go public at $75 to $85 per share last Wednesday, but interest in the stock was so … [+4927 chars]",
+         "url" : "https://www.fool.com/investing/2020/09/20/now-we-know-who-at-berkshire-invested-in-snowflake/",
+         "urlToImage" : "https://g.foolcdn.com/editorial/images/592276/buffett-pick-looking.jpg"
+      },
+      {
+         "publishedAt" : "2020-09-20T12:26:49Z",
          "author" : null,
          "title" : "KRASG12C Inhibition with Sotorasib in Advanced Solid Tumors - nejm.org",
-         "publishedAt" : "2020-09-20T12:26:49Z"
+         "source" : {
+            "id" : null,
+            "name" : "nejm.org"
+         },
+         "content" : "From the Department of Investigational Cancer Therapeutics, Phase I Clinical Trials Program, University of Texas M.D. Anderson Cancer Center, Houston (D.S.H., F.M.-B.); the Department of Medical Onco… [+2519 chars]",
+         "description" : "Original Article from The New England Journal of Medicine — KRASG12C Inhibition with Sotorasib in Advanced Solid Tumors",
+         "urlToImage" : "https://www.nejm.org/na101/home/literatum/publisher/mms/journals/content/nejm/0/nejm.ahead-of-print/nejmoa1917239/20200909/images/img_small/nejmoa1917239_f1.jpeg",
+         "url" : "https://www.nejm.org/doi/full/10.1056/NEJMoa1917239"
       },
       {
-         "title" : "Musk’s Showy Events Gin Up Hype Tesla Doesn’t Always Live Up To - Yahoo Finance",
-         "publishedAt" : "2020-09-20T11:00:00Z",
-         "author" : "Craig Trudell",
+         "description" : "The jet engine-maker is reportedly in talks with sovereign wealth funds to raise money.",
+         "content" : "Image copyrightGetty Images\r\nRolls-Royce is considering tapping investors for £2.5bn to boost its finances as coronavirus continues to wreak havoc on global travel.\r\nThe firm, which makes engines for… [+2474 chars]",
+         "url" : "https://www.bbc.com/news/business-54223864",
+         "urlToImage" : "https://ichef.bbci.co.uk/news/1024/branded_news/9A41/production/_114498493__112696022_gettyimages-626687434.jpg",
+         "publishedAt" : "2020-09-20T11:05:51Z",
+         "title" : "Coronavirus: Rolls-Royce considers tapping investors for £2.5bn - BBC News",
+         "author" : "https://www.facebook.com/bbcnews",
+         "source" : {
+            "id" : null,
+            "name" : "BBC News"
+         }
+      },
+      {
+         "source" : {
+            "id" : "usa-today",
+            "name" : "USA Today"
+         },
+         "publishedAt" : "2020-09-20T11:01:31Z",
+         "author" : "Paul Davidson",
+         "title" : "U.S. could slip into double-dip recession if Congress doesn't pass new stimulus, some economists say - USA TODAY",
+         "url" : "https://www.usatoday.com/story/money/2020/09/20/coronavirus-checks-u-s-may-fall-back-into-slump-without-stimulus-checks-other-aid/5830514002/",
+         "urlToImage" : "https://www.gannett-cdn.com/presto/2020/08/27/USAT/242e1745-5440-46be-ad51-660be7c8f8ae-GTY_1266147873.jpg?crop=2999,1687,x0,y0&width=1600&height=800&fit=bounds",
+         "description" : "The nation could slip back into recession if Congress doesn't pass another stimulus package, economists say.",
+         "content" : "Nancy Pelosi told CNBC's \"Squawk on the Street\" that the Democrats are \"committed to staying\" until a coronavirus stimulus deal is reached.\r\nUSA TODAY\r\nThe U.S. economy is at a crossroads, with some … [+6131 chars]"
+      },
+      {
+         "url" : "https://finance.yahoo.com/news/musk-showy-events-gin-hype-110005192.html",
+         "urlToImage" : "https://s.yimg.com/uu/api/res/1.2/XdpLC2_KOzRQVcBlwsKsvA--~B/aD0xMTQzO3c9MjAwMDtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bloomberg_markets_842/23f9d1abdaeb52faf4079dee7e3d1f56",
+         "description" : "(Bloomberg) -- The last time Elon Musk held a Tesla Inc. briefing similar to the battery day event he’ll host this week, he boasted about his track record of following through on big promises.“All these things, I said we would do them, we did it,” Musk said d…",
+         "content" : "(Bloomberg) -- The last time Elon Musk held a Tesla Inc. briefing similar to the battery day event hell host this week, he boasted about his track record of following through on big promises.\r\nAll th… [+9348 chars]",
          "source" : {
             "id" : null,
             "name" : "Yahoo Entertainment"
          },
-         "description" : "(Bloomberg) -- The last time Elon Musk held a Tesla Inc. briefing similar to the battery day event he’ll host this week, he boasted about his track record of following through on big promises.“All these things, I said we would do them, we did it,” Musk said d…",
-         "content" : "(Bloomberg) -- The last time Elon Musk held a Tesla Inc. briefing similar to the battery day event hell host this week, he boasted about his track record of following through on big promises.\r\nAll th… [+9348 chars]",
-         "urlToImage" : "https://s.yimg.com/uu/api/res/1.2/XdpLC2_KOzRQVcBlwsKsvA--~B/aD0xMTQzO3c9MjAwMDtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bloomberg_markets_842/23f9d1abdaeb52faf4079dee7e3d1f56",
-         "url" : "https://finance.yahoo.com/news/musk-showy-events-gin-hype-110005192.html"
+         "publishedAt" : "2020-09-20T11:00:00Z",
+         "title" : "Musk’s Showy Events Gin Up Hype Tesla Doesn’t Always Live Up To - Yahoo Finance",
+         "author" : "Craig Trudell"
       },
       {
-         "urlToImage" : "https://g.foolcdn.com/editorial/images/592207/smiling-man-at-laptop_gettyimages-1152603283.jpg",
          "content" : "No matter how much money you make, your goal should be to pay the IRS as little tax as possible. And the smarter you are about taking advantage of tax breaks, the greater your chances of that happeni… [+3057 chars]",
+         "description" : "Get ready to pay the IRS a lot less -- and enjoy more of your money.",
+         "urlToImage" : "https://g.foolcdn.com/editorial/images/592207/smiling-man-at-laptop_gettyimages-1152603283.jpg",
          "url" : "https://www.fool.com/taxes/2020/09/20/3-moves-that-will-slash-your-tax-bill-this-year/",
-         "publishedAt" : "2020-09-20T10:18:00Z",
          "title" : "3 Moves That Will Slash Your Tax Bill This Year - Motley Fool",
+         "publishedAt" : "2020-09-20T10:18:00Z",
          "author" : "Maurie Backman",
          "source" : {
-            "name" : "Motley Fool",
-            "id" : null
-         },
-         "description" : "Get ready to pay the IRS a lot less -- and enjoy more of your money."
+            "id" : null,
+            "name" : "Motley Fool"
+         }
       },
       {
          "publishedAt" : "2020-09-20T10:08:00Z",
          "title" : "3 Bubbles That Could Pop in the Next Market Crash - Motley Fool",
          "author" : "David Jagielski",
          "source" : {
-            "name" : "Motley Fool",
-            "id" : null
+            "id" : null,
+            "name" : "Motley Fool"
          },
          "description" : "These stocks are grossly overpriced.",
-         "url" : "https://www.fool.com/investing/2020/09/20/3-bubbles-that-could-pop-in-the-next-market-crash/",
          "content" : "Last week, 860,000 Americans filed for unemployment for the first time. There are more than 12 million people out of work, and according to data from Yelp, approximately 60% of businesses that are cl… [+5976 chars]",
+         "url" : "https://www.fool.com/investing/2020/09/20/3-bubbles-that-could-pop-in-the-next-market-crash/",
          "urlToImage" : "https://g.foolcdn.com/editorial/images/592078/bubble-about-to-be-popped.jpg"
       },
       {
-         "content" : "Image copyrightWL Gore &amp; AssociatesImage caption\r\n Robert Gore won awards for his contributions to science\r\nRobert W Gore, who invented Gore-Tex technology while working for his father's company … [+2109 chars]",
-         "urlToImage" : "https://ichef.bbci.co.uk/news/1024/branded_news/030B/production/_114497700_bobgoreatchalkboard2000s_2.jpg",
-         "url" : "https://www.bbc.com/news/world-us-canada-54224405",
+         "content" : null,
+         "description" : null,
+         "urlToImage" : null,
+         "url" : "https://news.google.com/__i/rss/rd/articles/CBMiRGh0dHBzOi8vd3d3LmthbnNhc2NpdHkuY29tL25ld3Mvc3RhdGUvbWlzc291cmkvYXJ0aWNsZTI0NTgzMzkyNS5odG1s0gFEaHR0cHM6Ly9hbXAua2Fuc2FzY2l0eS5jb20vbmV3cy9zdGF0ZS9taXNzb3VyaS9hcnRpY2xlMjQ1ODMzOTI1Lmh0bWw?oc=5",
+         "publishedAt" : "2020-09-20T10:00:00Z",
+         "author" : null,
+         "title" : "‘We’re one of the winners in this Covid thing.’ A record summer at Lake of the Ozarks - Kansas City Star",
          "source" : {
-            "id" : null,
-            "name" : "BBC News"
-         },
-         "author" : "https://www.facebook.com/bbcnews",
-         "description" : "Robert W. Gore's invention has been used in space suits, guitar strings and waterproof jackets.",
-         "title" : "Gore-Tex: Inventor of waterproof fabric Robert Gore dies aged 83 - BBC News",
-         "publishedAt" : "2020-09-20T09:56:35Z"
-      },
-      {
-         "content" : "A 25 Year Old Blended Scotch from Dewar's tops the list. \r\nPhoto Illustration: Brad Japhe\r\nAs we noted earlier in the month, the International Wine And Spirits Competition is one of the most influent… [+3365 chars]",
-         "urlToImage" : "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f653b25ee6091fe6e3e07e5%2F0x0.jpg%3FcropX1%3D42%26cropX2%3D1215%26cropY1%3D129%26cropY2%3D790",
-         "url" : "https://www.forbes.com/sites/bradjaphe/2020/09/20/the-worlds-best-scotch-whisky-according-to-the-2020-international-wine-and-spirits-competition/",
-         "title" : "The World’s Best Scotch Whisky—According To The 2020 International Wine And Spirits Competition - Forbes",
-         "publishedAt" : "2020-09-20T08:20:00Z",
-         "author" : "Brad Japhe",
-         "description" : "This widely-available blended scotch is about to get a lot harder to find.",
-         "source" : {
-            "id" : null,
-            "name" : "Forbes"
+            "name" : "Google News",
+            "id" : "google-news"
          }
       },
       {
+         "author" : "Brad Japhe",
+         "publishedAt" : "2020-09-20T08:20:00Z",
+         "title" : "The World’s Best Scotch Whisky—According To The 2020 International Wine And Spirits Competition - Forbes",
          "source" : {
             "name" : "Forbes",
             "id" : null
          },
-         "author" : "David Dawkins",
-         "description" : "The German billionaire dynasty behind popular budget supermarkets Aldi and Trader Joe’s is at war again as the legacy of the family’s frugal forefathers is tested by the younger generation.",
-         "publishedAt" : "2020-09-20T06:30:00Z",
-         "title" : "Billionaire Aldi Family Fortune To Hit German Court As Son Sues Mother For Embezzling Funds: Reports - Forbes",
-         "content" : "Marie Amiere and Babette Albrecht (r) attend the Titanic United Hearts gala at Titanic Hotel on ... [+] February 25, 2020 in Berlin\r\nGetty Images for Titanic Hotel\r\nThe fortune of Aldi supermarket co… [+5603 chars]",
-         "urlToImage" : "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f65e5125f952c24b4c1aaa2%2F0x0.jpg%3FcropX1%3D50%26cropX2%3D3987%26cropY1%3D341%26cropY2%3D2556",
-         "url" : "https://www.forbes.com/sites/daviddawkins/2020/09/20/billionaire-aldi-family-fortune-to-hit-german-court-as-son-sues-mother-for-embezzling-funds-reports/"
+         "content" : "A 25 Year Old Blended Scotch from Dewar's tops the list. \r\nPhoto Illustration: Brad Japhe\r\nAs we noted earlier in the month, the International Wine And Spirits Competition is one of the most influent… [+3365 chars]",
+         "description" : "This widely-available blended scotch is about to get a lot harder to find.",
+         "urlToImage" : "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f653b25ee6091fe6e3e07e5%2F0x0.jpg%3FcropX1%3D42%26cropX2%3D1215%26cropY1%3D129%26cropY2%3D790",
+         "url" : "https://www.forbes.com/sites/bradjaphe/2020/09/20/the-worlds-best-scotch-whisky-according-to-the-2020-international-wine-and-spirits-competition/"
       },
       {
-         "url" : "https://amp.theguardian.comworld/2020/sep/20/pilgrim-fathers-harsh-truths-amid-the-mayflower-myths-of-nationhood",
-         "urlToImage" : "https://i.guim.co.uk/img/media/f139d0c94151b0798904264a60b0b3020ac9e752/0_379_3557_2135/master/3557.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdG8tZGVmYXVsdC5wbmc&enable=upscale&s=1b1721417ada1c6b898a3616fb1af64f",
-         "content" : "For a ship that would sail into the pages of history, the Mayflower was not important enough to be registered in the port book of Plymouth in 1620. Pages from September of that year bear no trace of … [+7709 chars]",
-         "title" : "Pilgrim fathers: harsh truths amid the Mayflower myths of nationhood - The Guardian",
-         "publishedAt" : "2020-09-20T05:35:00Z",
-         "author" : "Carrie Gibson",
+         "content" : "Chemical engineer and inventor of the cherished outdoor material GORE-TEX, Robert “Bob” Gore has died at the age of 83. The son of Wilbert “Bill” Gore (W. L. Gore &amp; Associates), Bob’s breakthroug… [+1205 chars]",
+         "description" : "The inventor, leader, and philanthropist succumbed to a long-time illness at 83.",
+         "urlToImage" : "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2020%2F09%2FTW-bob-gore-gore-tex-dead-at-83-news.jpg?w=960&cbr=1&q=90&fit=max",
+         "url" : "https://hypebeast.com/2020/9/bob-gore-gore-tex-dead-at-83-news",
+         "title" : "Bob Gore, Inventor of GORE-TEX, Has Died - HYPEBEAST",
+         "publishedAt" : "2020-09-20T05:57:00Z",
+         "author" : "Ambrose Leung",
          "source" : {
-            "id" : null,
-            "name" : "Theguardian.comworld"
-         },
-         "description" : "As Plymouth marks 400 years since the colonists set sail, the high price paid by Native American tribes is now revealed in an exhibition"
+            "name" : "HYPEBEAST",
+            "id" : null
+         }
       },
       {
-         "description" : "You can say goodbye to the Nissan 370Z, the two-seater that recently helped the company celebrate 50 years of sports car performance.",
-         "author" : "Dave Kunz",
          "source" : {
-            "id" : null,
-            "name" : "KABC-TV"
+            "name" : "KABC-TV",
+            "id" : null
          },
-         "title" : "New Nissan Z sports car pays tribute to original Datsun 240Z - KABC-TV",
          "publishedAt" : "2020-09-20T04:59:56Z",
-         "url" : "https://abc7.com/nissan-datsun-sports-car-new/6441051/",
+         "title" : "New Nissan Z sports car pays tribute to original Datsun 240Z - KABC-TV",
+         "author" : "Dave Kunz",
          "urlToImage" : "https://cdn.abcotvs.com/dip/images/6442859_091820-kabc-7pm-new-nissan-z-vid.jpg?w=1600",
-         "content" : "You can say goodbye to the Nissan 370Z, the two-seater that recently helped the company celebrate 50 years of sports car performance.That's because it's time to say hello to an all-new Nissan Z, poss… [+1952 chars]"
+         "url" : "https://abc7.com/nissan-datsun-sports-car-new/6441051/",
+         "content" : "You can say goodbye to the Nissan 370Z, the two-seater that recently helped the company celebrate 50 years of sports car performance.That's because it's time to say hello to an all-new Nissan Z, poss… [+1952 chars]",
+         "description" : "You can say goodbye to the Nissan 370Z, the two-seater that recently helped the company celebrate 50 years of sports car performance."
       },
       {
-         "title" : "Bar owners, employees protest over not being allowed to open in Phase 2 - WPLG Local 10",
-         "publishedAt" : "2020-09-20T03:16:30Z",
-         "description" : "Bar owners and employees protested outside of one of the oldest bars in Fort Lauderdale over not being able to open because of coronavirus restrictions.",
-         "source" : {
-            "id" : null,
-            "name" : "WPLG Local 10"
-         },
-         "author" : "Roy Ramos",
-         "content" : "FORT LAUDERDALE, Fla. COVID-19 cases are showing signs of slowing in South Florida and both Miami-Dade and Broward counties have received the green light to enter Phase 2. That means that some busine… [+1944 chars]",
-         "urlToImage" : "https://www.local10.com/resizer/AZGsv4FKDs821CV33sD8b3Lvwlk=/1600x900/smart/filters:format(jpeg):strip_exif(true):strip_icc(true):no_upscale(true):quality(65)/d1vhqlrjc8h82r.cloudfront.net/09-20-2020/t_99db94de23324e4b9cfcde95541fa055_name_image.jpg",
-         "url" : "https://www.local10.com/news/local/2020/09/20/bar-owners-employees-protest-over-not-being-allowed-to-open-in-phase-2/"
-      },
-      {
-         "url" : "https://www.ktnv.com/news/coronavirus/report-reveals-hotel-casinos-top-list-of-possible-covid-19-exposures-in-clark-county",
-         "content" : "LAS VEGAS (KTNV) An August report by the Southern Nevada Health District reveals the Cosmopolitan hotel-casino topped the locations of possible COVID-19 exposures in previous months.\r\nPREVIOUS STORY:… [+2864 chars]",
-         "urlToImage" : "https://ewscripps.brightspotcdn.com/dims4/default/a7f36f2/2147483647/strip/true/crop/853x448+0+59/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2Fba%2Ff2%2F29a03dab46fd88f8428e8c3c9857%2Fcapture.PNG",
-         "source" : {
-            "id" : null,
-            "name" : "KTNV Las Vegas"
-         },
-         "author" : "Joyce Lupiani",
-         "description" : "An August report by the Southern Nevada Health District reveals the Cosmopolitan hotel-casino topped the locations of possible COVID-19 exposures in previous months.",
-         "publishedAt" : "2020-09-20T00:31:00Z",
-         "title" : "Report reveals hotel-casinos top list of possible COVID-19 exposures in Clark County - KTNV Las Vegas"
-      },
-      {
+         "urlToImage" : "https://cryptobriefing.com/wp-content/uploads/2019/06/Ethereum-Price-Analysis-ETH-USD-Losing-Pressure.jpg",
          "url" : "https://cryptobriefing.com/eth-2-0-wont-fix-ethereums-scalability-problems-analyst-argues/",
          "content" : null,
-         "urlToImage" : "https://cryptobriefing.com/wp-content/uploads/2019/06/Ethereum-Price-Analysis-ETH-USD-Losing-Pressure.jpg",
-         "publishedAt" : "2020-09-19T23:44:00Z",
-         "title" : "ETH 2.0 Won’t Fix Ethereum’s Scalability Problems, Analyst Argues - Crypto Briefing",
+         "description" : "The average transaction fee on Ethereum costs $7.5, three times that of Bitcoin. These ludicrous fees are not sustainable.",
          "source" : {
             "id" : null,
             "name" : "Crypto Briefing"
          },
-         "author" : null,
-         "description" : "The average transaction fee on Ethereum costs $7.5, three times that of Bitcoin. These ludicrous fees are not sustainable."
+         "title" : "ETH 2.0 Won’t Fix Ethereum’s Scalability Problems, Analyst Argues - Crypto Briefing",
+         "publishedAt" : "2020-09-19T23:44:00Z",
+         "author" : null
       },
       {
-         "urlToImage" : "http://static-15.sinclairstoryline.com/resources/media/a825c312-2da5-4ddb-a546-a38b610c5346-large16x9_PTerrys.JPG?1600556861981",
          "content" : null,
+         "description" : "Austin based P. Terry&rsquo;s Burger Stand permanently closed its downtown Austin location on Friday. The company said in a statement that the negative impact the coronavirus pandemic has put on downtown business and tourism was the reason behind permanently …",
+         "urlToImage" : "http://static-15.sinclairstoryline.com/resources/media/a825c312-2da5-4ddb-a546-a38b610c5346-large16x9_PTerrys.JPG?1600556861981",
          "url" : "http://cbsaustin.com/news/local/p-terrys-permanently-closes-downtown-austin-location",
-         "title" : "P. Terry's permanently closes downtown Austin location - KEYE TV CBS Austin",
-         "publishedAt" : "2020-09-19T23:10:00Z",
-         "source" : {
-            "id" : null,
-            "name" : "KEYE TV CBS Austin"
-         },
          "author" : "CBS Austin",
-         "description" : "Austin based P. Terry&rsquo;s Burger Stand permanently closed its downtown Austin location on Friday. The company said in a statement that the negative impact the coronavirus pandemic has put on downtown business and tourism was the reason behind permanently …"
-      },
-      {
-         "url" : "https://www.engadget.com/amazon-third-party-seller-bribery-scheme-214225399.html",
-         "content" : "The US is cracking down on an elaborate scheme to boost some third-party Amazon sellers at the expense of others. A Grand Jury in Washington has indicted six people (via The Verge) for allegedly brib… [+678 chars]",
-         "urlToImage" : "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-09%2Faf41f600-fabd-11ea-84be-f5bd03d386af&client=amp-blogside-v2&signature=c82af07edb79449ac62a2d70d901e3ec2e562ac0",
-         "publishedAt" : "2020-09-19T22:24:10Z",
-         "title" : "Six people face charges for allegedly bribing Amazon staff to help sellers - Engadget",
-         "author" : "",
-         "description" : "Six people have been indicted over an alleged scheme that bribed Amazon employees to help third-party sellers.",
+         "publishedAt" : "2020-09-19T23:10:00Z",
+         "title" : "P. Terry's permanently closes downtown Austin location - KEYE TV CBS Austin",
          "source" : {
-            "id" : "engadget",
-            "name" : "Engadget"
+            "name" : "KEYE TV CBS Austin",
+            "id" : null
          }
-      },
-      {
-         "content" : "WICHITA, Kan. (KWCH) - Textron Aviation and its labor union accepted a new contract that will take effect Monday.\r\nMembers of the union gathered at Century II Saturday morning where they were briefed… [+2280 chars]",
-         "urlToImage" : "https://gray-kwch-prod.cdn.arcpublishing.com/resizer/phye-xp2wdgiD9qitV2fxqoPAgo=/980x0/smart/cloudfront-us-east-1.images.arcpublishing.com/gray/YXJRX7IWWNGTJHB7PMXRHLCYRI.jpg",
-         "url" : "https://www.kwch.com/2020/09/19/textron-aviation-labor-union-accept-new-contract/",
-         "title" : "Textron Aviation, labor union accept new contract - KWCH",
-         "publishedAt" : "2020-09-19T21:54:00Z",
-         "author" : "KWCH  Staff",
-         "description" : "The contract lasts for four years and will cover thousands of workers.",
-         "source" : {
-            "id" : null,
-            "name" : "KWCH"
-         }
-      },
-      {
-         "publishedAt" : "2020-09-19T21:15:52Z",
-         "title" : "Homeland Security issues rare emergency alert over ‘critical’ Windows bug - TechCrunch",
-         "description" : "The bug can give attackers full control of an entire network in seconds.",
-         "source" : {
-            "id" : "techcrunch",
-            "name" : "TechCrunch"
-         },
-         "author" : "Zack Whittaker",
-         "content" : "Homeland Security’s cybersecurity advisory unit has issued a rare emergency alert to government departments after the recent disclosure of a “critical”-rated security vulnerability in server versions… [+1803 chars]",
-         "urlToImage" : "https://techcrunch.com/wp-content/uploads/2020/09/GettyImages-671033610.jpg?w=600",
-         "url" : "http://techcrunch.com/2020/09/19/homeland-security-emergency-alert-critical-windows-bug/"
-      },
-      {
-         "title" : "Spyhouse Coffee employees strike across Twin Cities Saturday - Bring Me The News",
-         "publishedAt" : "2020-09-19T21:10:59Z",
-         "author" : "Joe Nelson",
-         "source" : {
-            "id" : null,
-            "name" : "Bring Me The News"
-         },
-         "description" : "Spyhouse Coffee locations can be found in Minneapolis and St. Paul.",
-         "url" : "https://bringmethenews.com/minnesota-lifestyle/spyhouse-coffee-employees-strike-across-twin-cities-saturday",
-         "content" : "Credit: Jackie Renzetti\r\nWorkers at all Spyhouse Coffee locations in the Twin Cities refused to work Saturday, striking in an effort to improve health and safety conditions during ever-evolving coron… [+1035 chars]",
-         "urlToImage" : "https://bringmethenews.com/.image/t_share/MTc1NTE5ODk4MjEzMDMzMTk1/image-from-ios-69.jpg"
       }
    ],
-   "status" : "ok"
+   "totalResults" : 70
 }
