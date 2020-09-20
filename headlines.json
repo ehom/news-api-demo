@@ -1,266 +1,266 @@
 {
-   "status" : "ok",
    "articles" : [
       {
          "publishedAt" : "2020-09-19T22:28:00Z",
+         "content" : "FORT LAUDERDALE, Fla. A private plane with 8 people aboard registered in Sarasota missed the runway at Fort Lauderdale Executive Airport Saturday.\r\nFort Lauderdale Fire Department was dispatched to t… [+584 chars]",
          "author" : "Michelle Solomon",
-         "urlToImage" : "https://www.local10.com/resizer/H2ZGgKM6Ae4kjIJ8i3epXFkmNCM=/1600x1200/smart/filters:format(jpeg):strip_exif(true):strip_icc(true):no_upscale(true):quality(65)/cloudfront-us-east-1.images.arcpublishing.com/gmg/7VOR6D6C2FEM5FQ76SMZGPKZKU.jpeg",
          "title" : "Private plane misses runway at Executive Airport - WPLG Local 10",
          "url" : "https://www.local10.com/news/local/2020/09/19/private-plane-skids-off-runway-at-executive-airport/",
-         "content" : "FORT LAUDERDALE, Fla. A private plane with 8 people aboard registered in Sarasota missed the runway at Fort Lauderdale Executive Airport Saturday.\r\nFort Lauderdale Fire Department was dispatched to t… [+584 chars]",
+         "description" : "1 passenger on a plane coming into Fort Lauderdale Executive Airport sustained minor injuries after a hard landing.",
          "source" : {
-            "id" : null,
-            "name" : "WPLG Local 10"
+            "name" : "WPLG Local 10",
+            "id" : null
          },
-         "description" : "1 passenger on a plane coming into Fort Lauderdale Executive Airport sustained minor injuries after a hard landing."
+         "urlToImage" : "https://www.local10.com/resizer/H2ZGgKM6Ae4kjIJ8i3epXFkmNCM=/1600x1200/smart/filters:format(jpeg):strip_exif(true):strip_icc(true):no_upscale(true):quality(65)/cloudfront-us-east-1.images.arcpublishing.com/gmg/7VOR6D6C2FEM5FQ76SMZGPKZKU.jpeg"
       },
       {
-         "description" : "Six people have been indicted over an alleged scheme that bribed Amazon employees to help third-party sellers.",
+         "publishedAt" : "2020-09-19T22:24:10Z",
          "content" : "The US is cracking down on an elaborate scheme to boost some third-party Amazon sellers at the expense of others. A Grand Jury in Washington has indicted six people (via The Verge) for allegedly brib… [+678 chars]",
-         "source" : {
-            "id" : "engadget",
-            "name" : "Engadget"
-         },
-         "url" : "https://www.engadget.com/amazon-third-party-seller-bribery-scheme-214225399.html",
          "title" : "Six people face charges for allegedly bribing Amazon staff to help sellers - Engadget",
-         "urlToImage" : "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-09%2Faf41f600-fabd-11ea-84be-f5bd03d386af&client=amp-blogside-v2&signature=c82af07edb79449ac62a2d70d901e3ec2e562ac0",
          "author" : "",
-         "publishedAt" : "2020-09-19T22:24:10Z"
+         "source" : {
+            "name" : "Engadget",
+            "id" : "engadget"
+         },
+         "urlToImage" : "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-09%2Faf41f600-fabd-11ea-84be-f5bd03d386af&client=amp-blogside-v2&signature=c82af07edb79449ac62a2d70d901e3ec2e562ac0",
+         "url" : "https://www.engadget.com/amazon-third-party-seller-bribery-scheme-214225399.html",
+         "description" : "Six people have been indicted over an alleged scheme that bribed Amazon employees to help third-party sellers."
       },
       {
-         "author" : null,
          "publishedAt" : "2020-09-19T22:01:18Z",
-         "urlToImage" : "https://storage.googleapis.com/afs-prod/media/1cb045d3fce04e51855fe8b2e2cd8035/2785.jpeg",
-         "url" : "https://apnews.com/ccc8e325ace8dad4033f7d3532cc9196",
-         "title" : "Robert W. Gore, the inventor of Gore-Tex fabric, dead at 83 - The Associated Press",
          "content" : "NEWARK, Del. (AP) Robert W. Gore, whose invention of what created the breathable-yet-waterproof fabric known as Gore-Tex revolutionized outdoor wear and helped spawn uses in numerous other fields, ha… [+2073 chars]",
+         "title" : "Robert W. Gore, the inventor of Gore-Tex fabric, dead at 83 - The Associated Press",
+         "author" : null,
+         "urlToImage" : "https://storage.googleapis.com/afs-prod/media/1cb045d3fce04e51855fe8b2e2cd8035/2785.jpeg",
          "source" : {
-            "id" : "associated-press",
-            "name" : "Associated Press"
+            "name" : "Associated Press",
+            "id" : "associated-press"
          },
+         "url" : "https://apnews.com/ccc8e325ace8dad4033f7d3532cc9196",
          "description" : "NEWARK, Del. (AP) — Robert W. Gore, whose invention of what created the breathable-yet-waterproof fabric known as Gore-Tex revolutionized outdoor wear and helped spawn uses in numerous other..."
       },
       {
-         "content" : "Tesla’s Autopilot is meant to be an assistance feature for alert drivers to both increase their enjoyment of driving and add a layer of vehicle safety. However, stories about irresponsible users come… [+3770 chars]",
+         "urlToImage" : "https://www.teslarati.com/wp-content/uploads/2020/09/Tesla-Model-S-Autopilot-Canada-Arrested.jpg",
          "source" : {
             "name" : "Teslarati",
             "id" : null
          },
+         "description" : "Tesla’s Autopilot is meant to be an assistance feature for alert drivers to both increase their enjoyment of driving and add a layer of vehicle safety. However, stories about irresponsible users come into the news cycle on occasion, this time from a 2019 Mode…",
          "url" : "https://www.teslarati.com/tesla-driver-sleeping-autopilot-alberta-90-mph/",
-         "title" : "Tesla Model S driver using Autopilot arrested for sleeping while driving 90 mph - Teslarati",
-         "urlToImage" : "https://www.teslarati.com/wp-content/uploads/2020/09/Tesla-Model-S-Autopilot-Canada-Arrested.jpg",
-         "publishedAt" : "2020-09-19T21:55:24Z",
          "author" : "Dacia J. Ferris",
-         "description" : "Tesla’s Autopilot is meant to be an assistance feature for alert drivers to both increase their enjoyment of driving and add a layer of vehicle safety. However, stories about irresponsible users come into the news cycle on occasion, this time from a 2019 Mode…"
+         "title" : "Tesla Model S driver using Autopilot arrested for sleeping while driving 90 mph - Teslarati",
+         "content" : "Tesla’s Autopilot is meant to be an assistance feature for alert drivers to both increase their enjoyment of driving and add a layer of vehicle safety. However, stories about irresponsible users come… [+3770 chars]",
+         "publishedAt" : "2020-09-19T21:55:24Z"
       },
       {
          "author" : null,
-         "publishedAt" : "2020-09-19T21:27:00Z",
-         "urlToImage" : "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/coronavirus-state-of-massachusetts-graphic-1596160658.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
          "title" : "569 new COVID-19 cases confirmed in Massachusetts, 26 additional deaths - WCVB Boston",
-         "url" : "https://www.wcvb.com/article/massachusetts-covid-19-cornonavirus-numbers-daily-update-september-19-2020/34085288",
          "content" : "BOSTON —The Massachusetts Department of Public Health reported an additional 569 confirmed cases of COVID-19 on Saturday, bringing the statewide total to 125,139.\r\nThere were 21,298 new molecular tes… [+926 chars]",
+         "publishedAt" : "2020-09-19T21:27:00Z",
          "source" : {
-            "id" : null,
-            "name" : "WCVB Boston"
+            "name" : "WCVB Boston",
+            "id" : null
          },
-         "description" : "The Massachusetts Department of Public Health has released the latest COVID-19 case numbers for the state."
+         "urlToImage" : "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/coronavirus-state-of-massachusetts-graphic-1596160658.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
+         "description" : "The Massachusetts Department of Public Health has released the latest COVID-19 case numbers for the state.",
+         "url" : "https://www.wcvb.com/article/massachusetts-covid-19-cornonavirus-numbers-daily-update-september-19-2020/34085288"
       },
       {
-         "url" : "http://techcrunch.com/2020/09/19/homeland-security-emergency-alert-critical-windows-bug/",
          "title" : "Homeland Security issues rare emergency alert over ‘critical’ Windows bug - TechCrunch",
+         "author" : "Zack Whittaker",
+         "content" : "Homeland Security’s cybersecurity advisory unit has issued a rare emergency alert to government departments after the recent disclosure of a “critical”-rated security vulnerability in server versions… [+1803 chars]",
+         "publishedAt" : "2020-09-19T21:15:52Z",
+         "description" : "The bug can give attackers full control of an entire network in seconds.",
+         "url" : "http://techcrunch.com/2020/09/19/homeland-security-emergency-alert-critical-windows-bug/",
          "source" : {
             "name" : "TechCrunch",
             "id" : "techcrunch"
          },
-         "content" : "Homeland Security’s cybersecurity advisory unit has issued a rare emergency alert to government departments after the recent disclosure of a “critical”-rated security vulnerability in server versions… [+1803 chars]",
-         "author" : "Zack Whittaker",
-         "publishedAt" : "2020-09-19T21:15:52Z",
-         "urlToImage" : "https://techcrunch.com/wp-content/uploads/2020/09/GettyImages-671033610.jpg?w=600",
-         "description" : "The bug can give attackers full control of an entire network in seconds."
+         "urlToImage" : "https://techcrunch.com/wp-content/uploads/2020/09/GettyImages-671033610.jpg?w=600"
       },
       {
-         "description" : "Spyhouse Coffee locations can be found in Minneapolis and St. Paul.",
-         "author" : "Joe Nelson",
          "publishedAt" : "2020-09-19T21:10:59Z",
+         "title" : "Spyhouse Coffee employees strike across Twin Cities Saturday - Bring Me The News",
+         "author" : "Joe Nelson",
+         "content" : "Credit: Jackie Renzetti\r\nWorkers at all Spyhouse Coffee locations in the Twin Cities refused to work Saturday, striking in an effort to improve health and safety conditions during ever-evolving coron… [+1035 chars]",
+         "source" : {
+            "name" : "Bring Me The News",
+            "id" : null
+         },
          "urlToImage" : "https://bringmethenews.com/.image/t_share/MTc1NTE5ODk4MjEzMDMzMTk1/image-from-ios-69.jpg",
          "url" : "https://bringmethenews.com/minnesota-lifestyle/spyhouse-coffee-employees-strike-across-twin-cities-saturday",
-         "title" : "Spyhouse Coffee employees strike across Twin Cities Saturday - Bring Me The News",
-         "source" : {
-            "id" : null,
-            "name" : "Bring Me The News"
-         },
-         "content" : "Credit: Jackie Renzetti\r\nWorkers at all Spyhouse Coffee locations in the Twin Cities refused to work Saturday, striking in an effort to improve health and safety conditions during ever-evolving coron… [+1035 chars]"
+         "description" : "Spyhouse Coffee locations can be found in Minneapolis and St. Paul."
       },
       {
-         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200918125208-02-wildfires-0917-bobcat-super-tease.jpg",
-         "publishedAt" : "2020-09-19T20:53:00Z",
+         "content" : null,
          "author" : "Ray Sanchez, CNN",
-         "source" : {
-            "name" : "CNN",
-            "id" : "cnn"
-         },
-         "content" : null,
-         "url" : "https://www.cnn.com/2020/09/19/us/california-fires-climate-change-migration/index.html",
          "title" : "Wildfire-weary Californians, 'tired of this being normal,' consider uprooting their lives - CNN",
-         "description" : "The latest talk about people fleeing the California dream comes during an apocalyptic summer of record-breaking temperatures, raging fires that have forced thousands to flee their homes up and down the West Coast, and rolling blackouts."
-      },
-      {
-         "description" : "The next time you go to order a Momma's Pancake Breakfast, you can add a mimosa to your order.",
-         "publishedAt" : "2020-09-19T20:04:00Z",
-         "author" : "Lauren M. Johnson, CNN",
-         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200919145712-cracker-barrel-file-restricted-super-tease.jpg",
-         "url" : "https://www.cnn.com/2020/09/19/business/cracker-barrel-alcohol-sales-trnd/index.html",
-         "title" : "Cracker Barrel is adding alcohol to the menu for the first time in its history - CNN",
+         "publishedAt" : "2020-09-19T20:53:00Z",
+         "url" : "https://www.cnn.com/2020/09/19/us/california-fires-climate-change-migration/index.html",
+         "description" : "The latest talk about people fleeing the California dream comes during an apocalyptic summer of record-breaking temperatures, raging fires that have forced thousands to flee their homes up and down the West Coast, and rolling blackouts.",
          "source" : {
             "name" : "CNN",
             "id" : "cnn"
          },
-         "content" : null
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200918125208-02-wildfires-0917-bobcat-super-tease.jpg"
       },
       {
-         "description" : "Welcome back to The TechCrunch Exchange, a weekly startups-and-markets newsletter. It’s broadly based on the daily column that appears on Extra Crunch, but free, and made for your weekend reading.  Ready? Let’s talk money, startups and spicy IPO rumors. Was S…",
-         "content" : "Welcome back to The TechCrunch Exchange, a weekly startups-and-markets newsletter. Its broadly based on the daily column that appears on Extra Crunch, but free, and made for your weekend reading. \r\nR… [+7079 chars]",
-         "source" : {
-            "id" : "techcrunch",
-            "name" : "TechCrunch"
-         },
-         "url" : "http://techcrunch.com/2020/09/19/was-snowflakes-ipo-mispriced-or-just-misunderstood/",
-         "title" : "Was Snowflake’s IPO mispriced or just misunderstood? - TechCrunch",
-         "urlToImage" : "https://techcrunch.com/wp-content/uploads/2020/06/NSussman_Techcrunch_Exchange-multicolor.jpg?w=533",
-         "author" : "Alex Wilhelm",
-         "publishedAt" : "2020-09-19T20:02:12Z"
-      },
-      {
-         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200918121436-new-york-dining-0917-restricted-super-tease.jpg",
-         "author" : "Ganesh Setty, CNN",
-         "publishedAt" : "2020-09-19T19:56:00Z",
-         "content" : null,
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200919145712-cracker-barrel-file-restricted-super-tease.jpg",
          "source" : {
             "id" : "cnn",
             "name" : "CNN"
          },
-         "title" : "NYC restaurants can soon add a Covid-19 surcharge to customers' bills - CNN",
-         "url" : "https://www.cnn.com/2020/09/19/us/nyc-covid-restaurant-surcharge-trnd/index.html",
-         "description" : "New York City diners may soon see a Covid-19 surcharge on their bills as the restaurant industry continues to hobble due to the coronavirus pandemic."
+         "url" : "https://www.cnn.com/2020/09/19/business/cracker-barrel-alcohol-sales-trnd/index.html",
+         "description" : "The next time you go to order a Momma's Pancake Breakfast, you can add a mimosa to your order.",
+         "title" : "Cracker Barrel is adding alcohol to the menu for the first time in its history - CNN",
+         "author" : "Lauren M. Johnson, CNN",
+         "content" : null,
+         "publishedAt" : "2020-09-19T20:04:00Z"
       },
       {
-         "description" : "Two Cincinnati area bars were cited Saturday for violating health orders put into place by Gov. Mike DeWine, agents from the Ohio Investigative Unit, OIU, said.",
-         "publishedAt" : "2020-09-19T19:10:00Z",
+         "source" : {
+            "id" : "techcrunch",
+            "name" : "TechCrunch"
+         },
+         "urlToImage" : "https://techcrunch.com/wp-content/uploads/2020/06/NSussman_Techcrunch_Exchange-multicolor.jpg?w=533",
+         "url" : "http://techcrunch.com/2020/09/19/was-snowflakes-ipo-mispriced-or-just-misunderstood/",
+         "description" : "Welcome back to The TechCrunch Exchange, a weekly startups-and-markets newsletter. It’s broadly based on the daily column that appears on Extra Crunch, but free, and made for your weekend reading.  Ready? Let’s talk money, startups and spicy IPO rumors. Was S…",
+         "publishedAt" : "2020-09-19T20:02:12Z",
+         "title" : "Was Snowflake’s IPO mispriced or just misunderstood? - TechCrunch",
+         "author" : "Alex Wilhelm",
+         "content" : "Welcome back to The TechCrunch Exchange, a weekly startups-and-markets newsletter. Its broadly based on the daily column that appears on Extra Crunch, but free, and made for your weekend reading. \r\nR… [+7079 chars]"
+      },
+      {
+         "source" : {
+            "id" : "cnn",
+            "name" : "CNN"
+         },
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200918121436-new-york-dining-0917-restricted-super-tease.jpg",
+         "url" : "https://www.cnn.com/2020/09/19/us/nyc-covid-restaurant-surcharge-trnd/index.html",
+         "description" : "New York City diners may soon see a Covid-19 surcharge on their bills as the restaurant industry continues to hobble due to the coronavirus pandemic.",
+         "publishedAt" : "2020-09-19T19:56:00Z",
+         "title" : "NYC restaurants can soon add a Covid-19 surcharge to customers' bills - CNN",
+         "author" : "Ganesh Setty, CNN",
+         "content" : null
+      },
+      {
          "author" : "Natalya Daoud",
-         "urlToImage" : "https://www.fox19.com/resizer/61o6gCkytrtzWk_CwXNcCykoU38=/1200x0/cloudfront-us-east-1.images.arcpublishing.com/raycom/QVCUNJHJU5DPDLVRTYKOKDVBGA.jpg",
          "title" : "2 Cincinnati-area bars cited for violating Gov. Mike Dewine’s alcohol curfew - WXIX",
-         "url" : "https://www.fox19.com/2020/09/19/cincinnati-area-bars-cited-violating-gov-mike-dewines-alcohol-curfew/",
+         "content" : "CINCINNATI (FOX19) -Two Cincinnati area bars were cited Saturday for violating health orders put into place by Gov. Mike DeWine, agents from the Ohio Investigative Unit, OIU, said.\r\nGrub Pub in Hamil… [+797 chars]",
+         "publishedAt" : "2020-09-19T19:10:00Z",
          "source" : {
             "name" : "FOX19",
             "id" : null
          },
-         "content" : "CINCINNATI (FOX19) -Two Cincinnati area bars were cited Saturday for violating health orders put into place by Gov. Mike DeWine, agents from the Ohio Investigative Unit, OIU, said.\r\nGrub Pub in Hamil… [+797 chars]"
+         "urlToImage" : "https://www.fox19.com/resizer/61o6gCkytrtzWk_CwXNcCykoU38=/1200x0/cloudfront-us-east-1.images.arcpublishing.com/raycom/QVCUNJHJU5DPDLVRTYKOKDVBGA.jpg",
+         "description" : "Two Cincinnati area bars were cited Saturday for violating health orders put into place by Gov. Mike DeWine, agents from the Ohio Investigative Unit, OIU, said.",
+         "url" : "https://www.fox19.com/2020/09/19/cincinnati-area-bars-cited-violating-gov-mike-dewines-alcohol-curfew/"
       },
       {
+         "author" : null,
          "title" : "Elon Musk on Battery Cost: Iron Alleviates The Problem - Torque News",
-         "url" : "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9ZGFqN0hHT2huVFXSAQA?oc=5",
          "content" : null,
+         "publishedAt" : "2020-09-19T18:57:58Z",
+         "description" : null,
+         "url" : "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9ZGFqN0hHT2huVFXSAQA?oc=5",
+         "urlToImage" : null,
          "source" : {
             "id" : "google-news",
             "name" : "Google News"
-         },
-         "author" : null,
-         "publishedAt" : "2020-09-19T18:57:58Z",
-         "urlToImage" : null,
-         "description" : null
+         }
       },
       {
-         "description" : "A popular burger joint that sold",
+         "title" : "COVID-19: Popular Westchester Eatery Known For Burgers, Shakes Closes - Mamaroneck Daily Voice",
+         "author" : null,
+         "content" : "A popular burger joint that sold \"elevated comfort food\" just couldn't cut it in the uncertain dining climate of COVID-19, according to a post announcing its closure in Westchester on its Facebook pa… [+902 chars]",
+         "publishedAt" : "2020-09-19T18:00:00Z",
+         "urlToImage" : "https://daily-voice-res.cloudinary.com/image/upload/c_limit,e_sharpen,f_auto,q_auto:eco,w_640/Screen_Shot_2020-09-17_at_6.03.09_PM_o6vbbh.jpg",
          "source" : {
             "id" : null,
             "name" : "Rutherford Daily Voice"
          },
-         "content" : "A popular burger joint that sold \"elevated comfort food\" just couldn't cut it in the uncertain dining climate of COVID-19, according to a post announcing its closure in Westchester on its Facebook pa… [+902 chars]",
-         "title" : "COVID-19: Popular Westchester Eatery Known For Burgers, Shakes Closes - Mamaroneck Daily Voice",
          "url" : "https://dailyvoice.com/new-york/mamaroneck/business/covid-19-popular-westchester-eatery-known-for-burgers-shakes-closes/794418/",
-         "urlToImage" : "https://daily-voice-res.cloudinary.com/image/upload/c_limit,e_sharpen,f_auto,q_auto:eco,w_640/Screen_Shot_2020-09-17_at_6.03.09_PM_o6vbbh.jpg",
-         "author" : null,
-         "publishedAt" : "2020-09-19T18:00:00Z"
+         "description" : "A popular burger joint that sold"
       },
       {
-         "description" : "A disagreement over advertising.",
-         "url" : "https://mashable.com/article/peacock-roku-arrival/",
-         "title" : "NBC's Peacock finally arrives on Roku two months after launch - Mashable",
-         "source" : {
-            "id" : "mashable",
-            "name" : "Mashable"
-         },
-         "content" : "Peacock and a handful of other NBC apps are coming to Roku after the two parties reach a deal on Friday.\r\nWhen Peacock launched in mid-July, it was notably absent from Roku, Fire TV, and some smart T… [+1724 chars]",
-         "author" : "Kellen Beck",
          "publishedAt" : "2020-09-19T17:10:00Z",
-         "urlToImage" : "https://mondrian.mashable.com/2020%252F09%252F19%252Ffe%252Ffe958c54c4c540be9c3588207d4b99f9.6b4c7.png%252F1200x630.png?signature=paFL8DPfXJ2MCA_6oDp9KtEo9yk="
+         "content" : "Peacock and a handful of other NBC apps are coming to Roku after the two parties reach a deal on Friday.\r\nWhen Peacock launched in mid-July, it was notably absent from Roku, Fire TV, and some smart T… [+1724 chars]",
+         "title" : "NBC's Peacock finally arrives on Roku two months after launch - Mashable",
+         "author" : "Kellen Beck",
+         "urlToImage" : "https://mondrian.mashable.com/2020%252F09%252F19%252Ffe%252Ffe958c54c4c540be9c3588207d4b99f9.6b4c7.png%252F1200x630.png?signature=paFL8DPfXJ2MCA_6oDp9KtEo9yk=",
+         "source" : {
+            "name" : "Mashable",
+            "id" : "mashable"
+         },
+         "url" : "https://mashable.com/article/peacock-roku-arrival/",
+         "description" : "A disagreement over advertising."
       },
       {
          "url" : "https://www.nejm.org/doi/full/10.1056/NEJMoa2027071",
-         "title" : "Osimertinib in Resected EGFR-Mutated Non–Small-Cell Lung Cancer | NEJM - nejm.org",
-         "content" : "From the Guangdong Lung Cancer Institute, Guangdong Provincial Peoples Hospital, and Guangdong Academy of Medical Sciences, Guangzhou (Y.-L.W.), the Thoracic Surgery Department, National Cancer Cente… [+2885 chars]",
+         "description" : "Original Article from The New England Journal of Medicine — Osimertinib in Resected EGFR-Mutated Non–Small-Cell Lung Cancer",
          "source" : {
-            "name" : "nejm.org",
-            "id" : null
+            "id" : null,
+            "name" : "nejm.org"
          },
-         "publishedAt" : "2020-09-19T16:31:06Z",
-         "author" : null,
          "urlToImage" : "https://www.nejm.org/na101/home/literatum/publisher/mms/journals/content/nejm/0/nejm.ahead-of-print/nejmoa2027071/20200918/images/img_small/nejmoa2027071_f1.jpeg",
-         "description" : "Original Article from The New England Journal of Medicine — Osimertinib in Resected EGFR-Mutated Non–Small-Cell Lung Cancer"
+         "publishedAt" : "2020-09-19T16:31:06Z",
+         "title" : "Osimertinib in Resected EGFR-Mutated Non–Small-Cell Lung Cancer | NEJM - nejm.org",
+         "author" : null,
+         "content" : "From the Guangdong Lung Cancer Institute, Guangdong Provincial Peoples Hospital, and Guangdong Academy of Medical Sciences, Guangzhou (Y.-L.W.), the Thoracic Surgery Department, National Cancer Cente… [+2885 chars]"
       },
       {
-         "description" : "And travel-happy people are paying for them.",
+         "author" : null,
          "title" : "Numerous Airlines Now Offering Flights to Nowhere - msnNOW",
+         "content" : "Ten minutes.\r\n© Qantas Airways\r\n Qantas Airbus 380 jet over Sydney Harbor\r\nThats how long it took a flight on Qantas Airways to sell out.\r\nA flight that takes off in Sydney, flies for seven hours and… [+1825 chars]",
+         "publishedAt" : "2020-09-19T16:15:00Z",
+         "description" : "And travel-happy people are paying for them.",
          "url" : "https://www.travelpulse.com/news/airlines/numerous-airlines-now-offering-flights-to-nowhere.html",
          "source" : {
-            "name" : "TravelPulse",
-            "id" : null
+            "id" : null,
+            "name" : "TravelPulse"
          },
-         "content" : "Ten minutes.\r\n© Qantas Airways\r\n Qantas Airbus 380 jet over Sydney Harbor\r\nThats how long it took a flight on Qantas Airways to sell out.\r\nA flight that takes off in Sydney, flies for seven hours and… [+1825 chars]",
-         "author" : null,
-         "publishedAt" : "2020-09-19T16:15:00Z",
          "urlToImage" : "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AAGbr7f.img?h=315&w=600&m=6&q=60&o=t&l=f&f=jpg"
       },
       {
-         "source" : {
-            "name" : "Motley Fool",
-            "id" : null
-         },
-         "content" : "For millions of older Americans, Social Security benefits are a lifeline in retirement. Half of married couples depend on their benefits for at least 50% of their retirement income, and for nearly on… [+3033 chars]",
-         "title" : "Here's What It Takes to Collect $3,790 Per Month in Social Security Benefits - The Motley Fool",
+         "description" : "If the program is going to be a major source of income in retirement, it pays to maximize your checks.",
          "url" : "https://www.fool.com/retirement/2020/09/19/heres-how-collect-3790-per-month-social-security/",
+         "source" : {
+            "id" : null,
+            "name" : "Motley Fool"
+         },
          "urlToImage" : "https://g.foolcdn.com/editorial/images/592070/social-security-cards-with-hundred-dollar-bills.jpg",
          "author" : "Katie Brockman",
-         "publishedAt" : "2020-09-19T16:03:00Z",
-         "description" : "If the program is going to be a major source of income in retirement, it pays to maximize your checks."
+         "title" : "Here's What It Takes to Collect $3,790 Per Month in Social Security Benefits - The Motley Fool",
+         "content" : "For millions of older Americans, Social Security benefits are a lifeline in retirement. Half of married couples depend on their benefits for at least 50% of their retirement income, and for nearly on… [+3033 chars]",
+         "publishedAt" : "2020-09-19T16:03:00Z"
       },
       {
-         "description" : null,
-         "url" : "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9RldXUEo5VGFSYkHSAQA?oc=5",
-         "title" : "What Is An mRNA Coronavirus Vaccine? - CNBC",
+         "publishedAt" : "2020-09-19T16:00:04Z",
          "content" : null,
+         "title" : "What Is An mRNA Coronavirus Vaccine? - CNBC",
+         "author" : null,
          "source" : {
             "name" : "Google News",
             "id" : "google-news"
          },
-         "publishedAt" : "2020-09-19T16:00:04Z",
-         "author" : null,
-         "urlToImage" : null
+         "urlToImage" : null,
+         "url" : "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9RldXUEo5VGFSYkHSAQA?oc=5",
+         "description" : null
       },
       {
-         "description" : "The unemployment rate in the Bay State fell nearly 5 percent from July to August.",
-         "urlToImage" : "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/unemployment-office-sign-1-1586383864.png?crop=0.9903057419835943xw:1xh;center,top&resize=1200:*",
-         "author" : null,
          "publishedAt" : "2020-09-19T15:48:00Z",
+         "content" : "BOSTON —The state of Massachusetts is dropping a dubious distinction, as the Bay State no longer has the highest unemployment rate in the country.\r\nMassachusetts is now ranked No. 7 on the list of hi… [+668 chars]",
+         "title" : "Massachusetts no longer has nation's highest unemployment rate - WCVB Boston",
+         "author" : null,
+         "description" : "The unemployment rate in the Bay State fell nearly 5 percent from July to August.",
+         "url" : "https://www.wcvb.com/article/massachusetts-no-longer-has-nation-s-highest-unemployment-rate/34083943",
          "source" : {
             "id" : null,
             "name" : "WCVB Boston"
          },
-         "content" : "BOSTON —The state of Massachusetts is dropping a dubious distinction, as the Bay State no longer has the highest unemployment rate in the country.\r\nMassachusetts is now ranked No. 7 on the list of hi… [+668 chars]",
-         "url" : "https://www.wcvb.com/article/massachusetts-no-longer-has-nation-s-highest-unemployment-rate/34083943",
-         "title" : "Massachusetts no longer has nation's highest unemployment rate - WCVB Boston"
+         "urlToImage" : "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/unemployment-office-sign-1-1586383864.png?crop=0.9903057419835943xw:1xh;center,top&resize=1200:*"
       }
    ],
+   "status" : "ok",
    "totalResults" : 70
 }
