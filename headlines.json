@@ -1,142 +1,143 @@
 {
+   "status" : "ok",
    "totalResults" : 70,
    "articles" : [
       {
-         "url" : "https://www.nytimes.com/2020/09/19/health/azar-hhs-fda.html",
          "title" : "In ‘Power Grab,’ Health Secretary Azar Asserts Authority Over F.D.A. - The New York Times",
-         "urlToImage" : "https://static01.nyt.com/images/2020/09/19/science/19virus-azar-pix1/19virus-azar-pix1-facebookJumbo.jpg",
          "source" : {
-            "name" : "New York Times",
-            "id" : null
+            "id" : null,
+            "name" : "New York Times"
          },
-         "content" : "This was simply pushing a reset button, Mr. Harrison said. This is good governance and should have no operational impact.\r\nH.H.S. has long eyed the rule-making process as ripe for revision. Dr. Scott… [+1368 chars]",
          "description" : "Experts said the memo would make it more difficult for the F.D.A. to issue new rules, but it’s unclear how it would affect the vetting of coronavirus vaccines.",
-         "author" : "Sheila Kaplan",
-         "publishedAt" : "2020-09-19T23:53:00Z"
+         "publishedAt" : "2020-09-19T23:53:00Z",
+         "content" : "This was simply pushing a reset button, Mr. Harrison said. This is good governance and should have no operational impact.\r\nH.H.S. has long eyed the rule-making process as ripe for revision. Dr. Scott… [+1368 chars]",
+         "urlToImage" : "https://static01.nyt.com/images/2020/09/19/science/19virus-azar-pix1/19virus-azar-pix1-facebookJumbo.jpg",
+         "url" : "https://www.nytimes.com/2020/09/19/health/azar-hhs-fda.html",
+         "author" : "Sheila Kaplan"
       },
       {
-         "publishedAt" : "2020-09-19T21:27:00Z",
-         "urlToImage" : "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/coronavirus-state-of-massachusetts-graphic-1596160658.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
          "title" : "569 new COVID-19 cases confirmed in Massachusetts, 26 additional deaths - WCVB Boston",
-         "url" : "https://www.wcvb.com/article/massachusetts-covid-19-cornonavirus-numbers-daily-update-september-19-2020/34085288",
-         "author" : null,
          "description" : "The Massachusetts Department of Public Health has released the latest COVID-19 case numbers for the state.",
-         "content" : "BOSTON —The Massachusetts Department of Public Health reported an additional 569 confirmed cases of COVID-19 on Saturday, bringing the statewide total to 125,139.\r\nThere were 21,298 new molecular tes… [+926 chars]",
          "source" : {
             "id" : null,
             "name" : "WCVB Boston"
-         }
+         },
+         "content" : "BOSTON —The Massachusetts Department of Public Health reported an additional 569 confirmed cases of COVID-19 on Saturday, bringing the statewide total to 125,139.\r\nThere were 21,298 new molecular tes… [+926 chars]",
+         "publishedAt" : "2020-09-19T21:27:00Z",
+         "url" : "https://www.wcvb.com/article/massachusetts-covid-19-cornonavirus-numbers-daily-update-september-19-2020/34085288",
+         "urlToImage" : "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/coronavirus-state-of-massachusetts-graphic-1596160658.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
+         "author" : null
       },
       {
-         "urlToImage" : "https://techcrunch.com/wp-content/uploads/2020/09/GettyImages-671033610.jpg?w=600",
-         "title" : "Homeland Security issues rare emergency alert over ‘critical’ Windows bug - TechCrunch",
-         "url" : "http://techcrunch.com/2020/09/19/homeland-security-emergency-alert-critical-windows-bug/",
-         "author" : "Zack Whittaker",
          "description" : "The bug can give attackers full control of an entire network in seconds.",
-         "content" : "Homeland Security’s cybersecurity advisory unit has issued a rare emergency alert to government departments after the recent disclosure of a “critical”-rated security vulnerability in server versions… [+1803 chars]",
          "source" : {
             "name" : "TechCrunch",
             "id" : "techcrunch"
          },
-         "publishedAt" : "2020-09-19T21:15:52Z"
+         "publishedAt" : "2020-09-19T21:15:52Z",
+         "content" : "Homeland Security’s cybersecurity advisory unit has issued a rare emergency alert to government departments after the recent disclosure of a “critical”-rated security vulnerability in server versions… [+1803 chars]",
+         "title" : "Homeland Security issues rare emergency alert over ‘critical’ Windows bug - TechCrunch",
+         "author" : "Zack Whittaker",
+         "urlToImage" : "https://techcrunch.com/wp-content/uploads/2020/09/GettyImages-671033610.jpg?w=600",
+         "url" : "http://techcrunch.com/2020/09/19/homeland-security-emergency-alert-critical-windows-bug/"
       },
       {
-         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200919145712-cracker-barrel-file-restricted-super-tease.jpg",
          "title" : "Cracker Barrel is adding alcohol to the menu for the first time in its history - CNN",
-         "url" : "https://www.cnn.com/2020/09/19/business/cracker-barrel-alcohol-sales-trnd/index.html",
-         "author" : "Lauren M. Johnson, CNN",
-         "description" : "The next time you go to order a Momma's Pancake Breakfast, you can add a mimosa to your order.",
          "content" : null,
+         "publishedAt" : "2020-09-19T20:04:00Z",
+         "description" : "The next time you go to order a Momma's Pancake Breakfast, you can add a mimosa to your order.",
          "source" : {
             "name" : "CNN",
             "id" : "cnn"
          },
-         "publishedAt" : "2020-09-19T20:04:00Z"
+         "url" : "https://www.cnn.com/2020/09/19/business/cracker-barrel-alcohol-sales-trnd/index.html",
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200919145712-cracker-barrel-file-restricted-super-tease.jpg",
+         "author" : "Lauren M. Johnson, CNN"
       },
       {
+         "author" : "Ganesh Setty, CNN",
          "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200918121436-new-york-dining-0917-restricted-super-tease.jpg",
          "url" : "https://www.cnn.com/2020/09/19/us/nyc-covid-restaurant-surcharge-trnd/index.html",
-         "title" : "NYC restaurants can soon add a Covid-19 surcharge to customers' bills - CNN",
-         "description" : "New York City diners may soon see a Covid-19 surcharge on their bills as the restaurant industry continues to hobble due to the coronavirus pandemic.",
-         "author" : "Ganesh Setty, CNN",
-         "source" : {
-            "name" : "CNN",
-            "id" : "cnn"
-         },
+         "publishedAt" : "2020-09-19T19:56:00Z",
          "content" : null,
-         "publishedAt" : "2020-09-19T19:56:00Z"
+         "description" : "New York City diners may soon see a Covid-19 surcharge on their bills as the restaurant industry continues to hobble due to the coronavirus pandemic.",
+         "source" : {
+            "id" : "cnn",
+            "name" : "CNN"
+         },
+         "title" : "NYC restaurants can soon add a Covid-19 surcharge to customers' bills - CNN"
       },
       {
-         "publishedAt" : "2020-09-19T18:57:58Z",
-         "title" : "Elon Musk on Battery Cost: Iron Alleviates The Problem - Torque News",
-         "url" : "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9ZGFqN0hHT2huVFXSAQA?oc=5",
-         "urlToImage" : null,
-         "content" : null,
+         "description" : null,
          "source" : {
             "name" : "Google News",
             "id" : "google-news"
          },
+         "publishedAt" : "2020-09-19T18:57:58Z",
+         "content" : null,
+         "title" : "Elon Musk on Battery Cost: Iron Alleviates The Problem - Torque News",
          "author" : null,
-         "description" : null
+         "urlToImage" : null,
+         "url" : "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9ZGFqN0hHT2huVFXSAQA?oc=5"
       },
       {
-         "publishedAt" : "2020-09-19T17:40:00Z",
-         "content" : "Dow Jones futures won't open until Sunday evening, along with S&amp;P 500 futures and Nasdaq futures. The stock market rally suffered another losing week. A negative reversal, undercutting key suppor… [+10136 chars]",
          "source" : {
-            "id" : null,
-            "name" : "Investor's Business Daily"
+            "name" : "Investor's Business Daily",
+            "id" : null
          },
-         "author" : "Investor's Business Daily",
          "description" : "Dow Jones futures: The stock market rally is hanging on but bears are landing the punches. Here's what investors should do. Tesla Battery Day is on tap.",
+         "content" : "Dow Jones futures won't open until Sunday evening, along with S&amp;P 500 futures and Nasdaq futures. The stock market rally suffered another losing week. A negative reversal, undercutting key suppor… [+10136 chars]",
+         "publishedAt" : "2020-09-19T17:40:00Z",
          "title" : "Dow Jones Futures: Stock Market Rally Still Fighting, But Bears Landing The Punches; Tesla Battery Day Key - Investor's Business Daily",
+         "author" : "Investor's Business Daily",
          "url" : "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-stock-market-rally-fighting-tesla-battery-day/",
          "urlToImage" : "https://www.investors.com/wp-content/uploads/2018/02/stock-bear-night-03-adobe.jpg"
       },
       {
          "publishedAt" : "2020-09-19T17:20:00Z",
-         "author" : "Ari Levy",
-         "description" : "During the busiest IPO week of the year, tech companies were forced to celebrate in unique ways because of the coronavirus and raging wildfires.",
          "content" : "Sumo Logic CEO Ramin Sayar on IPO day\r\nThere were masked parking lot festivities, Times Square replicas and virtual bell ringings. There were technical glitches and a corporate logo beamed onto San F… [+6349 chars]",
+         "description" : "During the busiest IPO week of the year, tech companies were forced to celebrate in unique ways because of the coronavirus and raging wildfires.",
          "source" : {
             "name" : "CNBC",
             "id" : null
          },
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106708796-1600473325256-JFrog_Bell_Ringing.jpg?v=1600473363",
          "title" : "Silicon Valley IPOs are being celebrated in parking lots and conference rooms, as CEOs navigate pandemic and wildfire smoke - CNBC",
+         "author" : "Ari Levy",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106708796-1600473325256-JFrog_Bell_Ringing.jpg?v=1600473363",
          "url" : "https://www.cnbc.com/2020/09/19/silicon-valley-was-inundated-with-virtual-ipo-celebrations-as-e.html"
       },
       {
-         "publishedAt" : "2020-09-19T16:31:06Z",
-         "content" : "From the Guangdong Lung Cancer Institute, Guangdong Provincial Peoples Hospital, and Guangdong Academy of Medical Sciences, Guangzhou (Y.-L.W.), the Thoracic Surgery Department, National Cancer Cente… [+2885 chars]",
+         "author" : null,
+         "url" : "https://www.nejm.org/doi/full/10.1056/NEJMoa2027071",
+         "urlToImage" : "https://www.nejm.org/na101/home/literatum/publisher/mms/journals/content/nejm/0/nejm.ahead-of-print/nejmoa2027071/20200918/images/img_small/nejmoa2027071_f1.jpeg",
+         "description" : "Original Article from The New England Journal of Medicine — Osimertinib in Resected EGFR-Mutated Non–Small-Cell Lung Cancer",
          "source" : {
             "id" : null,
             "name" : "nejm.org"
          },
-         "author" : null,
-         "description" : "Original Article from The New England Journal of Medicine — Osimertinib in Resected EGFR-Mutated Non–Small-Cell Lung Cancer",
-         "title" : "Osimertinib in Resected EGFR-Mutated Non–Small-Cell Lung Cancer | NEJM - nejm.org",
-         "url" : "https://www.nejm.org/doi/full/10.1056/NEJMoa2027071",
-         "urlToImage" : "https://www.nejm.org/na101/home/literatum/publisher/mms/journals/content/nejm/0/nejm.ahead-of-print/nejmoa2027071/20200918/images/img_small/nejmoa2027071_f1.jpeg"
+         "content" : "From the Guangdong Lung Cancer Institute, Guangdong Provincial Peoples Hospital, and Guangdong Academy of Medical Sciences, Guangzhou (Y.-L.W.), the Thoracic Surgery Department, National Cancer Cente… [+2885 chars]",
+         "publishedAt" : "2020-09-19T16:31:06Z",
+         "title" : "Osimertinib in Resected EGFR-Mutated Non–Small-Cell Lung Cancer | NEJM - nejm.org"
       },
       {
-         "url" : "https://www.travelpulse.com/news/airlines/numerous-airlines-now-offering-flights-to-nowhere.html",
-         "title" : "Numerous Airlines Now Offering Flights to Nowhere - msnNOW",
-         "urlToImage" : "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AAGbr7f.img?h=315&w=600&m=6&q=60&o=t&l=f&f=jpg",
+         "content" : "Ten minutes.\r\n© Qantas Airways\r\n Qantas Airbus 380 jet over Sydney Harbor\r\nThats how long it took a flight on Qantas Airways to sell out.\r\nA flight that takes off in Sydney, flies for seven hours and… [+1825 chars]",
+         "publishedAt" : "2020-09-19T16:15:00Z",
+         "description" : "And travel-happy people are paying for them.",
          "source" : {
             "id" : null,
             "name" : "TravelPulse"
          },
-         "content" : "Ten minutes.\r\n© Qantas Airways\r\n Qantas Airbus 380 jet over Sydney Harbor\r\nThats how long it took a flight on Qantas Airways to sell out.\r\nA flight that takes off in Sydney, flies for seven hours and… [+1825 chars]",
-         "description" : "And travel-happy people are paying for them.",
+         "title" : "Numerous Airlines Now Offering Flights to Nowhere - msnNOW",
          "author" : null,
-         "publishedAt" : "2020-09-19T16:15:00Z"
+         "url" : "https://www.travelpulse.com/news/airlines/numerous-airlines-now-offering-flights-to-nowhere.html",
+         "urlToImage" : "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AAGbr7f.img?h=315&w=600&m=6&q=60&o=t&l=f&f=jpg"
       },
       {
-         "urlToImage" : "https://s.yimg.com/uu/api/res/1.2/XB33og8zWbkDeHBLzBfASQ--~B/aD0zNzQ5O3c9NTYyNDtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2020-09/f9a47cd0-fa91-11ea-9d7b-a69b085c83a6",
          "url" : "https://finance.yahoo.com/news/2020-substance-abuse-pandemic-160934275.html",
+         "urlToImage" : "https://s.yimg.com/uu/api/res/1.2/XB33og8zWbkDeHBLzBfASQ--~B/aD0zNzQ5O3c9NTYyNDtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2020-09/f9a47cd0-fa91-11ea-9d7b-a69b085c83a6",
+         "author" : "Adriana Belmonte",
          "title" : "2020 is 'a perfect storm' for substance abuse and 'it's really scary' - Yahoo Finance",
          "description" : "Public health experts worried that the pandemic “threatens to make the opioid crisis” substantially worse. Data shows they were right to be concerned.",
-         "author" : "Adriana Belmonte",
          "source" : {
             "id" : null,
             "name" : "Yahoo Entertainment"
@@ -145,122 +146,121 @@
          "publishedAt" : "2020-09-19T16:09:00Z"
       },
       {
-         "publishedAt" : "2020-09-19T16:05:00Z",
          "author" : "Leonardo Castañeda",
-         "description" : "It becomes the second Bay Area county to cross that milestone",
+         "urlToImage" : "https://www.mercurynews.com/wp-content/uploads/2020/05/TEASER_coronavirus_CALIFORNIA_STATE-18-1-2-2-1.jpg?w=1024&h=688",
+         "url" : "http://www.mercurynews.com/2020/09/19/coronavirus-santa-clara-county-passes-20000-cases-amid-statewide-decline/",
+         "publishedAt" : "2020-09-19T16:05:00Z",
          "content" : "Santa Clara County passed 20,000 COVID-19 cases on Friday, joining Alameda County as the second Bay Area county to reach that somber milestone, while new cases and hospitalizations continued to decre… [+2104 chars]",
          "source" : {
             "name" : "The Mercury News",
             "id" : null
          },
-         "urlToImage" : "https://www.mercurynews.com/wp-content/uploads/2020/05/TEASER_coronavirus_CALIFORNIA_STATE-18-1-2-2-1.jpg?w=1024&h=688",
-         "title" : "Coronavirus: Santa Clara County passes 20,000 cases amid statewide decline - The Mercury News",
-         "url" : "http://www.mercurynews.com/2020/09/19/coronavirus-santa-clara-county-passes-20000-cases-amid-statewide-decline/"
+         "description" : "It becomes the second Bay Area county to cross that milestone",
+         "title" : "Coronavirus: Santa Clara County passes 20,000 cases amid statewide decline - The Mercury News"
       },
       {
-         "publishedAt" : "2020-09-19T16:03:00Z",
          "title" : "Here's What It Takes to Collect $3,790 Per Month in Social Security Benefits - The Motley Fool",
-         "url" : "https://www.fool.com/retirement/2020/09/19/heres-how-collect-3790-per-month-social-security/",
-         "urlToImage" : "https://g.foolcdn.com/editorial/images/592070/social-security-cards-with-hundred-dollar-bills.jpg",
+         "publishedAt" : "2020-09-19T16:03:00Z",
          "content" : "For millions of older Americans, Social Security benefits are a lifeline in retirement. Half of married couples depend on their benefits for at least 50% of their retirement income, and for nearly on… [+3033 chars]",
+         "description" : "If the program is going to be a major source of income in retirement, it pays to maximize your checks.",
          "source" : {
             "name" : "Motley Fool",
             "id" : null
          },
-         "author" : "Katie Brockman",
-         "description" : "If the program is going to be a major source of income in retirement, it pays to maximize your checks."
+         "urlToImage" : "https://g.foolcdn.com/editorial/images/592070/social-security-cards-with-hundred-dollar-bills.jpg",
+         "url" : "https://www.fool.com/retirement/2020/09/19/heres-how-collect-3790-per-month-social-security/",
+         "author" : "Katie Brockman"
       },
       {
-         "publishedAt" : "2020-09-19T16:03:00Z",
          "urlToImage" : "https://electrek.co/wp-content/uploads/sites/3/2019/10/Tesla-Autopilot-hero-4-e1570845324247.jpg?quality=82&strip=all",
-         "title" : "Tesla reintroduces ‘Enhanced Autopilot’ – offering cheaper alternative to ‘Full Self-Driving’ - Electrek.co",
          "url" : "https://electrek.co/2020/09/19/tesla-reintroduce-enhanced-autopilot-alternative-full-self-driving/",
          "author" : null,
-         "description" : "Tesla has reintroduced the ‘Enhanced Autopilot’ option – offering a cheaper alternative to the ‘Full Self-Driving’ package for existing owners. Over the last few years, Tesla has changed its Autopilot options and pricing so many times, it has been hard to fol…",
+         "title" : "Tesla reintroduces ‘Enhanced Autopilot’ – offering cheaper alternative to ‘Full Self-Driving’ - Electrek.co",
+         "publishedAt" : "2020-09-19T16:03:00Z",
          "content" : "Tesla has reintroduced the ‘Enhanced Autopilot’ option – offering a cheaper alternative to the ‘Full Self-Driving’ package for existing owners.\r\nOver the last few years, Tesla has changed its Autopil… [+2118 chars]",
          "source" : {
-            "name" : "Electrek",
-            "id" : null
-         }
+            "id" : null,
+            "name" : "Electrek"
+         },
+         "description" : "Tesla has reintroduced the ‘Enhanced Autopilot’ option – offering a cheaper alternative to the ‘Full Self-Driving’ package for existing owners. Over the last few years, Tesla has changed its Autopilot options and pricing so many times, it has been hard to fol…"
       },
       {
-         "urlToImage" : "https://s3.cointelegraph.com/storage/uploads/view/677897dcd2281d546d2f98cf1bcdd7f4.jpg",
-         "url" : "https://cointelegraph.com/news/yearn-finance-founder-nominates-self-as-uniswap-delegate",
-         "title" : "Yearn Finance founder nominates self as Uniswap delegate - Cointelegraph",
+         "content" : "Yearn Finance founder Andre Cronje puts himself up as a delegate for Uniswap hoping to influence the governance of the protocol.\r\nIn a tweet, Cronje said he will build tooling to facilitate delegatio… [+1844 chars]",
+         "publishedAt" : "2020-09-19T16:00:00Z",
          "description" : "He’s made his governance intentions clear",
-         "author" : "Emilia David",
          "source" : {
             "name" : "Cointelegraph",
             "id" : null
          },
-         "content" : "Yearn Finance founder Andre Cronje puts himself up as a delegate for Uniswap hoping to influence the governance of the protocol.\r\nIn a tweet, Cronje said he will build tooling to facilitate delegatio… [+1844 chars]",
-         "publishedAt" : "2020-09-19T16:00:00Z"
+         "title" : "Yearn Finance founder nominates self as Uniswap delegate - Cointelegraph",
+         "author" : "Emilia David",
+         "url" : "https://cointelegraph.com/news/yearn-finance-founder-nominates-self-as-uniswap-delegate",
+         "urlToImage" : "https://s3.cointelegraph.com/storage/uploads/view/677897dcd2281d546d2f98cf1bcdd7f4.jpg"
       },
       {
-         "publishedAt" : "2020-09-19T15:48:00Z",
-         "urlToImage" : "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/unemployment-office-sign-1-1586383864.png?crop=0.9903057419835943xw:1xh;center,top&resize=1200:*",
          "title" : "Massachusetts no longer has nation's highest unemployment rate - WCVB Boston",
-         "url" : "https://www.wcvb.com/article/massachusetts-no-longer-has-nation-s-highest-unemployment-rate/34083943",
-         "author" : null,
-         "description" : "The unemployment rate in the Bay State fell nearly 5 percent from July to August.",
          "content" : "BOSTON —The state of Massachusetts is dropping a dubious distinction, as the Bay State no longer has the highest unemployment rate in the country.\r\nMassachusetts is now ranked No. 7 on the list of hi… [+668 chars]",
+         "publishedAt" : "2020-09-19T15:48:00Z",
+         "description" : "The unemployment rate in the Bay State fell nearly 5 percent from July to August.",
          "source" : {
-            "id" : null,
-            "name" : "WCVB Boston"
-         }
+            "name" : "WCVB Boston",
+            "id" : null
+         },
+         "url" : "https://www.wcvb.com/article/massachusetts-no-longer-has-nation-s-highest-unemployment-rate/34083943",
+         "urlToImage" : "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/unemployment-office-sign-1-1586383864.png?crop=0.9903057419835943xw:1xh;center,top&resize=1200:*",
+         "author" : null
       },
       {
-         "description" : "Last night, six more Ohio bars were found to be in violation of various state health orders.",
-         "author" : "Laura Morrison",
+         "title" : "Six Ohio bars cited after not complying with COVID-19 health guidelines Friday night - WJW FOX 8 News Cleveland",
+         "publishedAt" : "2020-09-19T15:41:00Z",
+         "content" : "COLUMBUS, Ohio (WJW) Last night, six more Ohio bars were found to be in violation of various state health orders, including serving alcohol past 10 p.m. (as seen in the video above), the Ohio Investi… [+1433 chars]",
          "source" : {
             "name" : "fox8.com",
             "id" : null
          },
-         "content" : "COLUMBUS, Ohio (WJW) Last night, six more Ohio bars were found to be in violation of various state health orders, including serving alcohol past 10 p.m. (as seen in the video above), the Ohio Investi… [+1433 chars]",
+         "description" : "Last night, six more Ohio bars were found to be in violation of various state health orders.",
          "urlToImage" : "https://fox8.com/wp-content/uploads/sites/12/2020/06/GettyImages-555859475.jpg?w=1280",
          "url" : "https://fox8.com/news/coronavirus/six-ohio-bars-cited-after-not-complying-with-covid-19-health-guidelines-friday-night/",
-         "title" : "Six Ohio bars cited after not complying with COVID-19 health guidelines Friday night - WJW FOX 8 News Cleveland",
-         "publishedAt" : "2020-09-19T15:41:00Z"
+         "author" : "Laura Morrison"
       },
       {
-         "author" : "WRGB STAFF",
-         "description" : "ALBANY, NY (WRGB) The New York State Department of Labor said millions of New Yorkers would get that extra money from FEMA on Friday, however it appears that some may have not, and the state is placing blame on KeyBank.",
-         "content" : null,
-         "source" : {
-            "name" : "WRGB",
-            "id" : null
-         },
-         "urlToImage" : "http://static-21.sinclairstoryline.com/resources/media/9835c154-85b1-4006-8ec5-ce90248d4638-large16x9_money.PNG?1600529028187",
-         "title" : "KeyBank under criticism from NY DOL over delays on unemployment payouts - WRGB",
-         "url" : "http://cbs6albany.com/news/local/harsh-criticism-aimed-at-keybank-from-the-dol-commissioner-lost-wages-dol-unemployment-new-york",
-         "publishedAt" : "2020-09-19T15:24:00Z"
-      },
-      {
-         "publishedAt" : "2020-09-19T15:02:15Z",
-         "content" : "A federal grand jury in the state of Washington has indicted six people on charges of bribing Amazon.com employees to gaining advantages for third-party sellers on the retailer's online storefront.\r\n… [+2889 chars]",
          "source" : {
             "id" : null,
-            "name" : "Fox Business"
+            "name" : "WRGB"
          },
-         "author" : "Julia Musto",
+         "description" : "ALBANY, NY (WRGB) The New York State Department of Labor said millions of New Yorkers would get that extra money from FEMA on Friday, however it appears that some may have not, and the state is placing blame on KeyBank.",
+         "publishedAt" : "2020-09-19T15:24:00Z",
+         "content" : null,
+         "title" : "KeyBank under criticism from NY DOL over delays on unemployment payouts - WRGB",
+         "author" : "WRGB STAFF",
+         "urlToImage" : "http://static-21.sinclairstoryline.com/resources/media/9835c154-85b1-4006-8ec5-ce90248d4638-large16x9_money.PNG?1600529028187",
+         "url" : "http://cbs6albany.com/news/local/harsh-criticism-aimed-at-keybank-from-the-dol-commissioner-lost-wages-dol-unemployment-new-york"
+      },
+      {
+         "content" : "A federal grand jury in the state of Washington has indicted six people on charges of bribing Amazon.com employees to gaining advantages for third-party sellers on the retailer's online storefront.\r\n… [+2889 chars]",
+         "publishedAt" : "2020-09-19T15:02:15Z",
+         "source" : {
+            "name" : "Fox Business",
+            "id" : null
+         },
          "description" : "Six people are accused of paying more than $100,000 in bribes to Amazon employees.",
          "title" : "Six charged with bribing Amazon employees to help third-party sellers - Fox Business",
+         "author" : "Julia Musto",
          "url" : "https://www.foxbusiness.com/technology/six-charged-in-scheme-to-bribe-amazon-employees-to-help-third-party-sellers",
          "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/07/0/0/Cyber-crime-amazon-2.png?ve=1&tl=1"
       },
       {
-         "content" : "Now, after weeks in limbo, Spyhouse workers are striking all day Saturday. \r\n\"We don't feel safe as workers in this pandemic. Instead of making every step possible to keep us protected, the company i… [+1361 chars]",
+         "author" : "Jay Boller",
+         "urlToImage" : "http://stmedia.stimg.co/ctyp-spyhouse-union-1.jpg?w=1200&h=630",
+         "url" : "http://www.citypages.com/restaurants/spyhouse-coffee-workers-are-striking-today/572461741",
          "source" : {
             "name" : "City Pages",
             "id" : null
          },
-         "author" : "Jay Boller",
          "description" : "In August, around 34 workers at Spyhouse Coffee announced the formation of a union. Christian Johnson, owner of the Twin Cities coffee chain with…",
-         "title" : "Spyhouse Coffee workers are striking today - City Pages",
-         "url" : "http://www.citypages.com/restaurants/spyhouse-coffee-workers-are-striking-today/572461741",
-         "urlToImage" : "http://stmedia.stimg.co/ctyp-spyhouse-union-1.jpg?w=1200&h=630",
-         "publishedAt" : "2020-09-19T13:37:33Z"
+         "publishedAt" : "2020-09-19T13:37:33Z",
+         "content" : "Now, after weeks in limbo, Spyhouse workers are striking all day Saturday. \r\n\"We don't feel safe as workers in this pandemic. Instead of making every step possible to keep us protected, the company i… [+1361 chars]",
+         "title" : "Spyhouse Coffee workers are striking today - City Pages"
       }
-   ],
-   "status" : "ok"
+   ]
 }
