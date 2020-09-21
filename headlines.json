@@ -1,66 +1,64 @@
 {
-   "totalResults" : 70,
-   "status" : "ok",
    "articles" : [
       {
          "source" : {
-            "id" : null,
-            "name" : "CNBC"
+            "name" : "CNBC",
+            "id" : null
          },
          "author" : "Lora Kolodny",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106032591-1563813200879gettyimages-1157175928.jpeg?v=1598902887",
-         "title" : "Here's the email Elon Musk sent Tesla employees with 10 days left in Q3 - CNBC",
-         "content" : "On Sunday evening, Tesla CEO Elon Musk sent an e-mail to all employees at the electric vehicle maker saying the company would have to \"rally hard\" to hit \"record deliveries\" for the quarter.\r\nMusk, a… [+2443 chars]",
          "url" : "https://www.cnbc.com/2020/09/21/read-the-email-elon-musk-sent-tesla-employees-before-q3-2020-ends.html",
+         "title" : "Here's the email Elon Musk sent Tesla employees with 10 days left in Q3 - CNBC",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106032591-1563813200879gettyimages-1157175928.jpeg?v=1598902887",
          "publishedAt" : "2020-09-21T18:19:00Z",
+         "content" : "On Sunday evening, Tesla CEO Elon Musk sent an e-mail to all employees at the electric vehicle maker saying the company would have to \"rally hard\" to hit \"record deliveries\" for the quarter.\r\nMusk, a… [+2443 chars]",
          "description" : "Elon Musk to Tesla employees: company has to \"rally hard\" to achieve record deliveries in third quarter."
       },
       {
-         "author" : "Amol Sharma, Benjamin Mullin, Cara Lombardo",
-         "source" : {
-            "id" : "the-wall-street-journal",
-            "name" : "The Wall Street Journal"
-         },
-         "description" : "Streaming-video service founded by Hollywood mogul Jeffrey Katzenberg has struggled to attract subscribers since launching in April",
          "urlToImage" : "https://images.wsj.net/im-234533/social",
-         "title" : "Quibi Explores Strategic Options Including Possible Sale - The Wall Street Journal",
-         "content" : "Streaming service Quibi is exploring several strategic options including a possible sale, according to people familiar with the situation, as the company founded by Hollywood mogul Jeffrey Katzenberg… [+336 chars]",
+         "publishedAt" : "2020-09-21T17:42:00Z",
          "url" : "https://www.wsj.com/articles/quibi-explores-strategic-options-including-a-possible-sale-11600707806",
-         "publishedAt" : "2020-09-21T17:42:00Z"
-      },
-      {
-         "description" : "Kitco News' general-interest stories takes a look at what is making headlines in the marketplace and how that is impacting precious metals prices",
-         "url" : "https://www.kitco.com/news/2020-09-21/Pandemic-fears-election-uncertainty-U-S-dollar-strength-a-perfect-storm-is-brewing-against-gold-price-analysts.html",
-         "publishedAt" : "2020-09-21T17:31:00Z",
-         "content" : "Editor's Note: Get caught up in minutes with our speedy summary of today's must-read news stories and expert opinions that moved the precious metals and financial markets. Sign up here!\r\n(Kitco News)… [+2834 chars]",
-         "title" : "Pandemic fears, election uncertainty, U.S. dollar strength: a perfect storm is brewing against gold price - analysts - Kitco NEWS",
-         "urlToImage" : "https://www.kitco.com/news/2020-09-21/images/US_dollar_3.png",
-         "author" : "http://www.facebook.com/kitconews",
+         "title" : "Quibi Explores Strategic Options Including Possible Sale - The Wall Street Journal",
+         "description" : "Streaming-video service founded by Hollywood mogul Jeffrey Katzenberg has struggled to attract subscribers since launching in April",
+         "content" : "Streaming service Quibi is exploring several strategic options including a possible sale, according to people familiar with the situation, as the company founded by Hollywood mogul Jeffrey Katzenberg… [+336 chars]",
          "source" : {
-            "id" : null,
-            "name" : "Kitco NEWS"
-         }
+            "name" : "The Wall Street Journal",
+            "id" : "the-wall-street-journal"
+         },
+         "author" : "Amol Sharma, Benjamin Mullin, Cara Lombardo"
       },
       {
-         "author" : "William Watts",
+         "source" : {
+            "name" : "Kitco NEWS",
+            "id" : null
+         },
+         "author" : "http://www.facebook.com/kitconews",
+         "publishedAt" : "2020-09-21T17:31:00Z",
+         "urlToImage" : "https://www.kitco.com/news/2020-09-21/images/US_dollar_3.png",
+         "title" : "Pandemic fears, election uncertainty, U.S. dollar strength: a perfect storm is brewing against gold price - analysts - Kitco NEWS",
+         "url" : "https://www.kitco.com/news/2020-09-21/Pandemic-fears-election-uncertainty-U-S-dollar-strength-a-perfect-storm-is-brewing-against-gold-price-analysts.html",
+         "description" : "Kitco News' general-interest stories takes a look at what is making headlines in the marketplace and how that is impacting precious metals prices",
+         "content" : "Editor's Note: Get caught up in minutes with our speedy summary of today's must-read news stories and expert opinions that moved the precious metals and financial markets. Sign up here!\r\n(Kitco News)… [+2834 chars]"
+      },
+      {
+         "urlToImage" : "https://images.mktw.net/im-234570/social",
+         "publishedAt" : "2020-09-21T17:17:00Z",
+         "title" : "Why the Dow is diving: Ginsburg replacement battle amplifies election jitters - MarketWatch",
+         "url" : "https://www.marketwatch.com/story/why-the-dow-is-plunging-ginsburg-replacement-battle-covid-19-and-everything-else-11600708678",
+         "description" : "Election becomes ‘even more’ of a risk event",
+         "content" : "Read: Mondays stock-market selloff sets up worst September in 18 years\r\nThey include: \r\n<ul><li> \r\n A rising number of COVID-19 infections that threaten to force renewed lockdowns of major European e… [+3034 chars]",
          "source" : {
             "id" : null,
             "name" : "MarketWatch"
          },
-         "description" : "Election becomes ‘even more’ of a risk event",
-         "urlToImage" : "https://images.mktw.net/im-234570/social",
-         "title" : "Why the Dow is diving: Ginsburg replacement battle amplifies election jitters - MarketWatch",
-         "content" : "Read: Mondays stock-market selloff sets up worst September in 18 years\r\nThey include: \r\n<ul><li> \r\n A rising number of COVID-19 infections that threaten to force renewed lockdowns of major European e… [+3034 chars]",
-         "url" : "https://www.marketwatch.com/story/why-the-dow-is-plunging-ginsburg-replacement-battle-covid-19-and-everything-else-11600708678",
-         "publishedAt" : "2020-09-21T17:17:00Z"
+         "author" : "William Watts"
       },
       {
-         "description" : "City issues guidelines on structures, heating devices and other safety precautions.",
          "content" : null,
+         "description" : "City issues guidelines on structures, heating devices and other safety precautions.",
          "url" : "https://www.chicagotribune.com/coronavirus/ct-coronavirus-fall-and-winter-outdoor-dining-20200921-fyrq6rejdbfmdbtasf5x7ceu74-story.html",
+         "title" : "Chicago releases outdoor dining guidelines for fall and winter - Chicago Tribune",
          "publishedAt" : "2020-09-21T17:13:00Z",
          "urlToImage" : "https://www.chicagotribune.com/resizer/JnKbpzrIe4VIo_D7jsSKtMLr-5c=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/ES7HESR7FBEF7BE3MAHV3OYUXY.jpg",
-         "title" : "Chicago releases outdoor dining guidelines for fall and winter - Chicago Tribune",
          "author" : "Grace Wong",
          "source" : {
             "name" : "Chicago Tribune",
@@ -68,114 +66,114 @@
          }
       },
       {
-         "source" : {
-            "name" : "CNN",
-            "id" : "cnn"
-         },
          "author" : "Jazmin Goodwin, CNN Business",
+         "source" : {
+            "id" : "cnn",
+            "name" : "CNN"
+         },
+         "content" : null,
+         "description" : "Bed Bath & Beyond has announced the first 63 stores it will close by the end of the year as part of a restructuring plan brought on by Covid-19.",
          "title" : "These 63 Bed Bath & Beyond stores are set to close by the end of 2020 - CNN",
-         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200920185154-bed-bath-and-beyond-store-file-restricted-super-tease.jpg",
          "url" : "https://www.cnn.com/2020/09/21/business/bed-bath-beyond-63-stores-closing-2020/index.html",
          "publishedAt" : "2020-09-21T16:59:00Z",
-         "content" : null,
-         "description" : "Bed Bath & Beyond has announced the first 63 stores it will close by the end of the year as part of a restructuring plan brought on by Covid-19."
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200920185154-bed-bath-and-beyond-store-file-restricted-super-tease.jpg"
       },
       {
-         "source" : {
-            "name" : "Motley Fool",
-            "id" : null
-         },
          "author" : "Rhian Hunt",
-         "content" : "Several major cruise lines, including Carnival Corporation (NYSE:CCL) (NYSE:CUK), Norwegian Cruise Line Holdings(NASDAQ:NCLH), and Royal Caribbean Group(NYSE:RCL) are seeing their share prices plumme… [+1516 chars]",
-         "url" : "https://www.fool.com/investing/2020/09/21/why-carnival-norwegian-and-royal-caribbean-shares/",
-         "publishedAt" : "2020-09-21T16:50:00Z",
-         "urlToImage" : "https://g.foolcdn.com/editorial/images/592356/shipwreck.jpg",
-         "title" : "Why Carnival, Norwegian Cruise Line, and Royal Caribbean Shares Are Sinking in Early Trading - Motley Fool",
-         "description" : "A report to the CDC and news from the U.K. have investors abandoning ship."
-      },
-      {
-         "urlToImage" : "https://images.barrons.com/im-234484/social",
-         "title" : "Snowflake Stock Risks a ‘Violent Selloff.’ Why One Analyst Is Worried. - Barron's",
-         "content" : "Snowflake shares are in bubble territory and at risk of a sharp reversal, the first analyst to pick up coverage of the newly public cloud data analytics company warned on Monday.\r\nSnowflake (ticker: … [+332 chars]",
-         "publishedAt" : "2020-09-21T16:47:00Z",
-         "url" : "https://www.barrons.com/articles/snowflake-shares-risk-violent-selloff-analyst-says-setting-sell-rating-51600705017",
-         "description" : "",
-         "source" : {
-            "name" : "Barron's",
-            "id" : null
-         },
-         "author" : "Eric J. Savitz"
-      },
-      {
-         "source" : {
-            "id" : "fox-news",
-            "name" : "Fox News"
-         },
-         "author" : "Jeanette Settembre",
-         "content" : "The stakes are high for the American steakhouse in the age of COVID-19 as the restaurant industry continues to face losses.\r\nChicago mainstay Lawry’s The Prime Rib will shutter its Ontario Street loc… [+2232 chars]",
-         "publishedAt" : "2020-09-21T16:46:11Z",
-         "url" : "https://www.foxnews.com/food-drink/lawrys-the-prime-rib-steakhouse-closes-chicago",
-         "urlToImage" : "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/lawrys-google-street-view.png",
-         "title" : "Lawry's The Prime Rib steakhouse to close Chicago location after 'year of incredible turmoil' - Fox News",
-         "description" : "Lawry’s CEO Ryan Wilson says the Chicago location’s expiring lease, coupled with coronavirus losses and civil unrest, factored into the chain’s decision to close for good."
-      },
-      {
-         "title" : "Amazon shares more info on Sidewalk, a new BLE-based mesh network system - The Verge",
-         "urlToImage" : "https://cdn.vox-cdn.com/thumbor/fhTpM7RsSd5QYNKxgAePu6s5uWA=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/13443464/acastro_181114_1777_amazon_hq2_0004.jpg",
-         "publishedAt" : "2020-09-21T16:42:37Z",
-         "url" : "https://www.theverge.com/2020/9/21/21448926/amazon-sidewalk-ring-echo-tile-wifi-mesh-ble-location-tracking",
-         "content" : "Amazon Sidewalk will leverage connectivity through Echo and Ring devices\r\nIllustration by Alex Castro / The Verge\r\nAmazon is preparing to launch an ambitious networking and location system later this… [+2669 chars]",
-         "description" : "Ring, Echo, and Tile devices will all support Amazon’s new location-tracking mesh network system, Amazon Sidewalk, which will provide connectivity and locate devices like keys or lost pets. Amazon says the project will launch later in 2020.",
-         "source" : {
-            "name" : "The Verge",
-            "id" : "the-verge"
-         },
-         "author" : "Kim Lyons, Russell Brandom"
-      },
-      {
-         "publishedAt" : "2020-09-21T16:40:49Z",
-         "url" : "https://www.foxbusiness.com/lifestyle/boeing-gearing-up-for-787-move-to-south-carolina-sources",
-         "content" : "SEATTLE/PARIS (Reuters) - Boeing Co BA.N is nearing a decision to shift more 787 Dreamliner production to South Carolina, industry sources said, a cost-cutting strategy accelerated by the COVID-19 pa… [+4446 chars]",
-         "title" : "Boeing gearing up for 787 move to South Carolina: sources - Fox Business",
-         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/09/0/0/iStock-682728224.jpg?ve=1&tl=1",
-         "description" : "Boeing will move the rest of its 787 Dreamliner production to South Carolina in a pivot away from its reliance on its union-heavy Seattle-area birthplace, as well as cut costs and improve efficiencies.",
-         "source" : {
-            "name" : "Fox Business",
-            "id" : null
-         },
-         "author" : "Reuters"
-      },
-      {
-         "title" : "Why Tesla Stock Fell 7.9% This Morning - Motley Fool",
-         "urlToImage" : "https://g.foolcdn.com/editorial/images/592378/why-tesla-stock-is-down-today.png",
-         "url" : "https://www.fool.com/investing/2020/09/21/why-tesla-stock-fell-79-this-morning/",
-         "publishedAt" : "2020-09-21T16:30:00Z",
-         "content" : "What happened\r\nShares of Tesla(NASDAQ:TSLA) fell sharply on Monday morning, declining as much as 7.9%. As of 11:30 a.m. EDT, however, the stock was only down 2%.\r\nThe growth stock's decline was likel… [+1529 chars]",
-         "description" : "Are the electric-car maker's third-quarter deliveries tracking below expectations?",
          "source" : {
             "id" : null,
             "name" : "Motley Fool"
          },
-         "author" : "Daniel Sparks"
+         "content" : "Several major cruise lines, including Carnival Corporation (NYSE:CCL) (NYSE:CUK), Norwegian Cruise Line Holdings(NASDAQ:NCLH), and Royal Caribbean Group(NYSE:RCL) are seeing their share prices plumme… [+1516 chars]",
+         "description" : "A report to the CDC and news from the U.K. have investors abandoning ship.",
+         "title" : "Why Carnival, Norwegian Cruise Line, and Royal Caribbean Shares Are Sinking in Early Trading - Motley Fool",
+         "url" : "https://www.fool.com/investing/2020/09/21/why-carnival-norwegian-and-royal-caribbean-shares/",
+         "urlToImage" : "https://g.foolcdn.com/editorial/images/592356/shipwreck.jpg",
+         "publishedAt" : "2020-09-21T16:50:00Z"
       },
       {
-         "description" : "A coalition of advocacy groups and marijuana businesses have unveiled a unique plan to legalize interstate cannabis commerce regardless of ongoing federal prohibition. The Alliance for Sensible Markets campaign will be pushing governors from legal and likely …",
-         "title" : "New Marijuana Coalition Unveils Plan To Legalize Interstate Cannabis Commerce - Marijuana Moment",
-         "urlToImage" : "https://www.marijuanamoment.net/wp-content/uploads/2019/01/16043513285_47926157fa_k-1000x600.jpg",
-         "url" : "https://www.marijuanamoment.net/new-marijuana-coalition-unveils-plan-to-legalize-interstate-cannabis-commerce/",
-         "publishedAt" : "2020-09-21T16:18:45Z",
-         "content" : "A majority of South Dakota voters support separate initiatives to allow both medical and recreational marijuana that will appear on the state’s November ballot, according to a new poll funded by lega… [+5728 chars]",
-         "author" : "Kyle Jaeger",
          "source" : {
-            "id" : null,
-            "name" : "Marijuana Moment"
+            "name" : "Barron's",
+            "id" : null
+         },
+         "author" : "Eric J. Savitz",
+         "url" : "https://www.barrons.com/articles/snowflake-shares-risk-violent-selloff-analyst-says-setting-sell-rating-51600705017",
+         "title" : "Snowflake Stock Risks a ‘Violent Selloff.’ Why One Analyst Is Worried. - Barron's",
+         "publishedAt" : "2020-09-21T16:47:00Z",
+         "urlToImage" : "https://images.barrons.com/im-234484/social",
+         "content" : "Snowflake shares are in bubble territory and at risk of a sharp reversal, the first analyst to pick up coverage of the newly public cloud data analytics company warned on Monday.\r\nSnowflake (ticker: … [+332 chars]",
+         "description" : ""
+      },
+      {
+         "author" : "Jeanette Settembre",
+         "source" : {
+            "id" : "fox-news",
+            "name" : "Fox News"
+         },
+         "content" : "The stakes are high for the American steakhouse in the age of COVID-19 as the restaurant industry continues to face losses.\r\nChicago mainstay Lawry’s The Prime Rib will shutter its Ontario Street loc… [+2232 chars]",
+         "description" : "Lawry’s CEO Ryan Wilson says the Chicago location’s expiring lease, coupled with coronavirus losses and civil unrest, factored into the chain’s decision to close for good.",
+         "title" : "Lawry's The Prime Rib steakhouse to close Chicago location after 'year of incredible turmoil' - Fox News",
+         "url" : "https://www.foxnews.com/food-drink/lawrys-the-prime-rib-steakhouse-closes-chicago",
+         "urlToImage" : "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/lawrys-google-street-view.png",
+         "publishedAt" : "2020-09-21T16:46:11Z"
+      },
+      {
+         "source" : {
+            "id" : "the-verge",
+            "name" : "The Verge"
+         },
+         "author" : "Kim Lyons, Russell Brandom",
+         "urlToImage" : "https://cdn.vox-cdn.com/thumbor/fhTpM7RsSd5QYNKxgAePu6s5uWA=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/13443464/acastro_181114_1777_amazon_hq2_0004.jpg",
+         "publishedAt" : "2020-09-21T16:42:37Z",
+         "title" : "Amazon shares more info on Sidewalk, a new BLE-based mesh network system - The Verge",
+         "url" : "https://www.theverge.com/2020/9/21/21448926/amazon-sidewalk-ring-echo-tile-wifi-mesh-ble-location-tracking",
+         "description" : "Ring, Echo, and Tile devices will all support Amazon’s new location-tracking mesh network system, Amazon Sidewalk, which will provide connectivity and locate devices like keys or lost pets. Amazon says the project will launch later in 2020.",
+         "content" : "Amazon Sidewalk will leverage connectivity through Echo and Ring devices\r\nIllustration by Alex Castro / The Verge\r\nAmazon is preparing to launch an ambitious networking and location system later this… [+2669 chars]"
+      },
+      {
+         "description" : "Boeing will move the rest of its 787 Dreamliner production to South Carolina in a pivot away from its reliance on its union-heavy Seattle-area birthplace, as well as cut costs and improve efficiencies.",
+         "content" : "SEATTLE/PARIS (Reuters) - Boeing Co BA.N is nearing a decision to shift more 787 Dreamliner production to South Carolina, industry sources said, a cost-cutting strategy accelerated by the COVID-19 pa… [+4446 chars]",
+         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/09/0/0/iStock-682728224.jpg?ve=1&tl=1",
+         "publishedAt" : "2020-09-21T16:40:49Z",
+         "title" : "Boeing gearing up for 787 move to South Carolina: sources - Fox Business",
+         "url" : "https://www.foxbusiness.com/lifestyle/boeing-gearing-up-for-787-move-to-south-carolina-sources",
+         "author" : "Reuters",
+         "source" : {
+            "name" : "Fox Business",
+            "id" : null
          }
       },
       {
+         "author" : "Daniel Sparks",
+         "source" : {
+            "name" : "Motley Fool",
+            "id" : null
+         },
+         "content" : "What happened\r\nShares of Tesla(NASDAQ:TSLA) fell sharply on Monday morning, declining as much as 7.9%. As of 11:30 a.m. EDT, however, the stock was only down 2%.\r\nThe growth stock's decline was likel… [+1529 chars]",
+         "description" : "Are the electric-car maker's third-quarter deliveries tracking below expectations?",
+         "url" : "https://www.fool.com/investing/2020/09/21/why-tesla-stock-fell-79-this-morning/",
+         "title" : "Why Tesla Stock Fell 7.9% This Morning - Motley Fool",
+         "urlToImage" : "https://g.foolcdn.com/editorial/images/592378/why-tesla-stock-is-down-today.png",
+         "publishedAt" : "2020-09-21T16:30:00Z"
+      },
+      {
+         "urlToImage" : "https://www.marijuanamoment.net/wp-content/uploads/2019/01/16043513285_47926157fa_k-1000x600.jpg",
+         "publishedAt" : "2020-09-21T16:18:45Z",
+         "title" : "New Marijuana Coalition Unveils Plan To Legalize Interstate Cannabis Commerce - Marijuana Moment",
+         "url" : "https://www.marijuanamoment.net/new-marijuana-coalition-unveils-plan-to-legalize-interstate-cannabis-commerce/",
+         "description" : "A coalition of advocacy groups and marijuana businesses have unveiled a unique plan to legalize interstate cannabis commerce regardless of ongoing federal prohibition. The Alliance for Sensible Markets campaign will be pushing governors from legal and likely …",
+         "content" : "A majority of South Dakota voters support separate initiatives to allow both medical and recreational marijuana that will appear on the state’s November ballot, according to a new poll funded by lega… [+5728 chars]",
+         "source" : {
+            "name" : "Marijuana Moment",
+            "id" : null
+         },
+         "author" : "Kyle Jaeger"
+      },
+      {
          "title" : "Why Illumina Stock Is Sinking Today - Motley Fool",
+         "url" : "https://www.fool.com/investing/2020/09/21/why-illumina-stock-is-sinking-today/",
          "urlToImage" : "https://g.foolcdn.com/editorial/images/592376/hand-with-dna-helix-image.jpg",
          "publishedAt" : "2020-09-21T16:15:59Z",
-         "url" : "https://www.fool.com/investing/2020/09/21/why-illumina-stock-is-sinking-today/",
          "content" : "What happened\r\nShares of Illumina(NASDAQ:ILMN) are sinking today, down 6.7% as of 11:48 a.m. EDT, after the genomic-sequencing specialist announced that it plans to acquire GRAIL for $8 billion.\r\nSo … [+1430 chars]",
          "description" : "Investors are skeptical about the company's latest acquisition.",
          "source" : {
@@ -185,82 +183,84 @@
          "author" : "Keith Speights"
       },
       {
-         "author" : "Jeff Cox",
-         "source" : {
-            "name" : "CNBC",
-            "id" : null
-         },
          "description" : "A Federal Reserve report released Monday showed the total household balance sheet in the U.S. rose to nearly $119 trillion in the April-through-June period, a 6.8% increase from the first quarter.",
          "content" : "Government and business debt soared in the second quarter as the U.S. dealt with the coronavirus pandemic, even as personal net worth rose and consumer credit plunged at a record level.\r\nA Federal Re… [+1538 chars]",
          "publishedAt" : "2020-09-21T16:09:00Z",
-         "url" : "https://www.cnbc.com/2020/09/21/government-debt-rose-at-a-59percent-pace-in-q2-amid-effort-to-halt-virus.html",
          "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106694070-1599583514614-gettyimages-1228403069-364509649_1-4.jpeg?v=1599583590",
-         "title" : "Government debt rose at a 59% pace in Q2 amid effort to halt virus - CNBC"
+         "url" : "https://www.cnbc.com/2020/09/21/government-debt-rose-at-a-59percent-pace-in-q2-amid-effort-to-halt-virus.html",
+         "title" : "Government debt rose at a 59% pace in Q2 amid effort to halt virus - CNBC",
+         "author" : "Jeff Cox",
+         "source" : {
+            "id" : null,
+            "name" : "CNBC"
+         }
       },
       {
+         "description" : "“This is the moment we have been working towards,” said Carlos Aguilar, CEO of Texas Central Railroad.",
+         "content" : "DALLAS Editor's Note: The video above is from a 2018 story on the proposed bullet train. \r\nThe Federal Railroad Administration gave its final approval for a bullet train between Dallas and Houston on… [+2360 chars]",
+         "publishedAt" : "2020-09-21T16:04:00Z",
+         "urlToImage" : "https://media.wfaa.com/assets/WFAA/images/b45bf2b6-dbbc-47f0-8661-b78794e52f58/b45bf2b6-dbbc-47f0-8661-b78794e52f58_1140x641.jpg",
+         "url" : "https://www.wfaa.com/article/news/after-todays-federal-approval-construction-on-dallas-houston-bullet-train-to-begin-next-year/287-decb2e53-5db5-461b-884d-b729f60aeecf",
+         "title" : "After Monday's federal approval, construction on Dallas-Houston bullet train to begin next year - WFAA.com",
+         "author" : "Jason Whitely",
          "source" : {
             "name" : "WFAA.com",
             "id" : null
-         },
-         "author" : "Jason Whitely",
-         "urlToImage" : "https://media.wfaa.com/assets/WFAA/images/b45bf2b6-dbbc-47f0-8661-b78794e52f58/b45bf2b6-dbbc-47f0-8661-b78794e52f58_1140x641.jpg",
-         "title" : "After Monday's federal approval, construction on Dallas-Houston bullet train to begin next year - WFAA.com",
-         "content" : "DALLAS Editor's Note: The video above is from a 2018 story on the proposed bullet train. \r\nThe Federal Railroad Administration gave its final approval for a bullet train between Dallas and Houston on… [+2360 chars]",
-         "publishedAt" : "2020-09-21T16:04:00Z",
-         "url" : "https://www.wfaa.com/article/news/after-todays-federal-approval-construction-on-dallas-houston-bullet-train-to-begin-next-year/287-decb2e53-5db5-461b-884d-b729f60aeecf",
-         "description" : "“This is the moment we have been working towards,” said Carlos Aguilar, CEO of Texas Central Railroad."
+         }
       },
       {
          "author" : "David Shepardson, Joseph Ax",
          "source" : {
-            "id" : "reuters",
-            "name" : "Reuters"
+            "name" : "Reuters",
+            "id" : "reuters"
          },
-         "description" : "A federal judge on Monday ordered the U.S. Postal Service to expedite all November election mail and to approve additional overtime for postal workers.",
-         "publishedAt" : "2020-09-21T16:03:00Z",
-         "url" : "https://uk.reuters.com/article/us-usa-election-post-office-idUSKCN26C2HX",
          "content" : "FILE PHOTO: A box to drop off ballots, instead of attempting to mail them via the U.S. Postal Service (USPS), stands on a sidewalk in Somerville, Massachusetts, U.S., August 25, 2020. REUTERS/Brian S… [+1874 chars]",
+         "description" : "A federal judge on Monday ordered the U.S. Postal Service to expedite all November election mail and to approve additional overtime for postal workers.",
+         "url" : "https://uk.reuters.com/article/us-usa-election-post-office-idUSKCN26C2HX",
          "title" : "U.S. judge orders Post Office to expedite November election mail - Reuters",
+         "publishedAt" : "2020-09-21T16:03:00Z",
          "urlToImage" : "https://static.reuters.com/resources/r/?m=02&d=20200921&t=2&i=1534336924&r=LYNXNPEG8K1L7&w=800"
       },
       {
          "description" : "The economy may be stabilizing faster than expected amid the pandemic, but efforts to preserve it could tip off a financial crisis, a new report says.",
-         "title" : "Efforts to lift economy out of recession pose risk of sparking a financial crisis, economists worry - USA TODAY",
-         "urlToImage" : "https://www.gannett-cdn.com/presto/2020/09/11/USAT/1d49d783-4930-48b4-88e4-b3232d3a2d4f-AP_Economy-Services.jpg?crop=4462,2510,x0,y148&width=3200&height=1680&fit=bounds",
-         "publishedAt" : "2020-09-21T16:01:47Z",
-         "url" : "https://www.usatoday.com/story/money/2020/09/21/financial-crisis-stocks-debt-economy-deutsche-bank-report/5851809002/",
          "content" : "The restaurant industry is taking a big hit during the COVID-19 pandemic. Some big chains are filing for bankruptcy or facing challenges paying debts.\r\nUSA TODAY\r\nThe economy may be stabilizing faste… [+2042 chars]",
+         "publishedAt" : "2020-09-21T16:01:47Z",
+         "urlToImage" : "https://www.gannett-cdn.com/presto/2020/09/11/USAT/1d49d783-4930-48b4-88e4-b3232d3a2d4f-AP_Economy-Services.jpg?crop=4462,2510,x0,y148&width=3200&height=1680&fit=bounds",
+         "url" : "https://www.usatoday.com/story/money/2020/09/21/financial-crisis-stocks-debt-economy-deutsche-bank-report/5851809002/",
+         "title" : "Efforts to lift economy out of recession pose risk of sparking a financial crisis, economists worry - USA TODAY",
          "author" : "Nathan Bomey",
          "source" : {
-            "id" : "usa-today",
-            "name" : "USA Today"
+            "name" : "USA Today",
+            "id" : "usa-today"
          }
       },
       {
-         "url" : "https://www.foxbusiness.com/lifestyle/planning-to-work-after-claiming-social-security-heres-what-you-need-to-know",
-         "publishedAt" : "2020-09-21T15:46:32Z",
-         "content" : "Though Social Security serves as a steady source of income for millions of seniors, many can't live on those benefits alone. Rather, they need additional income to cover their expenses, whether it co… [+3611 chars]",
-         "title" : "Planning to work after claiming Social Security? Here's what you need to know - Fox Business",
-         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/05/0/0/SS-card.jpg?ve=1&tl=1",
-         "description" : "While you are allowed to work and collect Social Security simultaneously, that's a route you may not want to take.",
+         "author" : "Motley Fool",
          "source" : {
             "id" : null,
             "name" : "Fox Business"
          },
-         "author" : "Motley Fool"
+         "description" : "While you are allowed to work and collect Social Security simultaneously, that's a route you may not want to take.",
+         "content" : "Though Social Security serves as a steady source of income for millions of seniors, many can't live on those benefits alone. Rather, they need additional income to cover their expenses, whether it co… [+3611 chars]",
+         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/05/0/0/SS-card.jpg?ve=1&tl=1",
+         "publishedAt" : "2020-09-21T15:46:32Z",
+         "title" : "Planning to work after claiming Social Security? Here's what you need to know - Fox Business",
+         "url" : "https://www.foxbusiness.com/lifestyle/planning-to-work-after-claiming-social-security-heres-what-you-need-to-know"
       },
       {
-         "title" : "Bank stocks fall after documents allege $2 trillion in criminally linked transactions - New York Post ",
-         "urlToImage" : "https://nypost.com/wp-content/uploads/sites/2/2020/07/200707-deutsche-bank1.jpg?quality=90&strip=all&w=1200",
-         "url" : "https://nypost.com/2020/09/21/bank-stocks-tumble-after-leaks-detail-2-trillion-in-sketchy-transactions/",
-         "publishedAt" : "2020-09-21T15:38:00Z",
-         "content" : "Major banks’ stock prices sank Monday after news reports detailed how they allegedly moved huge sums of money for criminals around the world.\r\nShares in finance giants Deutsche Bank, JPMorgan Chase a… [+2417 chars]",
          "description" : "Major banks’ stock prices sank Monday after news reports detailed how they allegedly moved huge sums of money for criminals around the world. Shares in finance giants Deutsche Bank, JPMorgan …",
+         "content" : "Major banks’ stock prices sank Monday after news reports detailed how they allegedly moved huge sums of money for criminals around the world.\r\nShares in finance giants Deutsche Bank, JPMorgan Chase a… [+2417 chars]",
+         "publishedAt" : "2020-09-21T15:38:00Z",
+         "urlToImage" : "https://nypost.com/wp-content/uploads/sites/2/2020/07/200707-deutsche-bank1.jpg?quality=90&strip=all&w=1200",
+         "title" : "Bank stocks fall after documents allege $2 trillion in criminally linked transactions - New York Post ",
+         "url" : "https://nypost.com/2020/09/21/bank-stocks-tumble-after-leaks-detail-2-trillion-in-sketchy-transactions/",
+         "author" : "Noah Manskar",
          "source" : {
-            "name" : "New York Post",
-            "id" : null
-         },
-         "author" : "Noah Manskar"
+            "id" : null,
+            "name" : "New York Post"
+         }
       }
-   ]
+   ],
+   "totalResults" : 70,
+   "status" : "ok"
 }
