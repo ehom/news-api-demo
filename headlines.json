@@ -3,264 +3,264 @@
    "status" : "ok",
    "articles" : [
       {
-         "title" : "Stocks making the biggest moves midday: Nikola, JPMorgan Chase, Roku, Apple, Delta & more - CNBC",
-         "publishedAt" : "2020-09-21T16:18:00Z",
-         "description" : "Nikola shares plunge after its founder reigns. Oracle and Walmart buck the market's negative trend.",
-         "url" : "https://www.cnbc.com/2020/09/21/stocks-making-the-biggest-moves-midday-nikola-jpmorgan-chase-roku-apple-delta-more.html",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/105799672-1552918427288gettyimages-1130380586.jpeg?v=1600703729",
-         "author" : "Fred Imbert",
          "source" : {
             "id" : null,
             "name" : "CNBC"
          },
-         "content" : "Check out the companies making headlines midday Monday:\r\nNikola, General Motors Nokola tanked more than 20% after announcing its founder Trevor Milton is voluntarily resigning. Earlier this month, th… [+2817 chars]"
+         "author" : "Lora Kolodny",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106032591-1563813200879gettyimages-1157175928.jpeg?v=1598902887",
+         "title" : "Here's the email Elon Musk sent Tesla employees with 10 days left in Q3 - CNBC",
+         "content" : "On Sunday evening, Tesla CEO Elon Musk sent an e-mail to all employees at the electric vehicle maker saying the company would have to \"rally hard\" to hit \"record deliveries\" for the quarter.\r\nMusk, a… [+2443 chars]",
+         "url" : "https://www.cnbc.com/2020/09/21/read-the-email-elon-musk-sent-tesla-employees-before-q3-2020-ends.html",
+         "publishedAt" : "2020-09-21T18:19:00Z",
+         "description" : "Elon Musk to Tesla employees: company has to \"rally hard\" to achieve record deliveries in third quarter."
       },
       {
-         "title" : "Government debt rose at a 59% pace in Q2 amid effort to halt virus - CNBC",
-         "content" : "Government and business debt soared in the second quarter as the U.S. dealt with the coronavirus pandemic, even as personal net worth rose and consumer credit plunged at a record level.\r\nA Federal Re… [+1538 chars]",
+         "author" : "Amol Sharma, Benjamin Mullin, Cara Lombardo",
+         "source" : {
+            "id" : "the-wall-street-journal",
+            "name" : "The Wall Street Journal"
+         },
+         "description" : "Streaming-video service founded by Hollywood mogul Jeffrey Katzenberg has struggled to attract subscribers since launching in April",
+         "urlToImage" : "https://images.wsj.net/im-234533/social",
+         "title" : "Quibi Explores Strategic Options Including Possible Sale - The Wall Street Journal",
+         "content" : "Streaming service Quibi is exploring several strategic options including a possible sale, according to people familiar with the situation, as the company founded by Hollywood mogul Jeffrey Katzenberg… [+336 chars]",
+         "url" : "https://www.wsj.com/articles/quibi-explores-strategic-options-including-a-possible-sale-11600707806",
+         "publishedAt" : "2020-09-21T17:42:00Z"
+      },
+      {
+         "description" : "Kitco News' general-interest stories takes a look at what is making headlines in the marketplace and how that is impacting precious metals prices",
+         "url" : "https://www.kitco.com/news/2020-09-21/Pandemic-fears-election-uncertainty-U-S-dollar-strength-a-perfect-storm-is-brewing-against-gold-price-analysts.html",
+         "publishedAt" : "2020-09-21T17:31:00Z",
+         "content" : "Editor's Note: Get caught up in minutes with our speedy summary of today's must-read news stories and expert opinions that moved the precious metals and financial markets. Sign up here!\r\n(Kitco News)… [+2834 chars]",
+         "title" : "Pandemic fears, election uncertainty, U.S. dollar strength: a perfect storm is brewing against gold price - analysts - Kitco NEWS",
+         "urlToImage" : "https://www.kitco.com/news/2020-09-21/images/US_dollar_3.png",
+         "author" : "http://www.facebook.com/kitconews",
          "source" : {
             "id" : null,
-            "name" : "CNBC"
-         },
-         "author" : "Jeff Cox",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106694070-1599583514614-gettyimages-1228403069-364509649_1-4.jpeg?v=1599583590",
-         "description" : "A Federal Reserve report released Monday showed the total household balance sheet in the U.S. rose to nearly $119 trillion in the April-through-June period, a 6.8% increase from the first quarter.",
-         "publishedAt" : "2020-09-21T16:09:00Z",
-         "url" : "https://www.cnbc.com/2020/09/21/government-debt-rose-at-a-59percent-pace-in-q2-amid-effort-to-halt-virus.html"
+            "name" : "Kitco NEWS"
+         }
       },
       {
-         "source" : {
-            "name" : "Business Insider",
-            "id" : "business-insider"
-         },
-         "content" : "Thousands of leaked documents shared with journalists have shown how some of the world's biggest banks for years facilitated the movement of dirty money.\r\nThe documents, part of a collection of files… [+10491 chars]",
-         "publishedAt" : "2020-09-21T15:47:32Z",
-         "description" : "BuzzFeed reported on files showing that JPMorgan Chase, HSBC, and Deutsche Bank facilitated the movement of criminal money even after getting caught.",
-         "url" : "https://www.businessinsider.com/biggest-revelations-that-came-out-of-the-leaked-fincen-reports-2020-9",
-         "urlToImage" : "https://i.insider.com/5f689c0a57b7da001ee12b91?width=1200&format=jpeg",
-         "author" : "Yelena Dzhanova, Mia Jankowicz",
-         "title" : "FinCEN Files: Biggest revelations from leaked bank documents - Business Insider - Business Insider"
-      },
-      {
-         "title" : "Planning to work after claiming Social Security? Here's what you need to know - Fox Business",
-         "content" : "Though Social Security serves as a steady source of income for millions of seniors, many can't live on those benefits alone. Rather, they need additional income to cover their expenses, whether it co… [+3611 chars]",
-         "source" : {
-            "id" : null,
-            "name" : "Fox Business"
-         },
-         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/05/0/0/SS-card.jpg?ve=1&tl=1",
-         "author" : "Motley Fool",
-         "url" : "https://www.foxbusiness.com/lifestyle/planning-to-work-after-claiming-social-security-heres-what-you-need-to-know",
-         "description" : "While you are allowed to work and collect Social Security simultaneously, that's a route you may not want to take.",
-         "publishedAt" : "2020-09-21T15:46:32Z"
-      },
-      {
-         "url" : "https://www.cnbc.com/2020/09/21/heres-what-banking-experts-are-saying-in-the-wake-of-the-fincen-leak.html",
-         "publishedAt" : "2020-09-21T15:40:00Z",
-         "description" : "Banking shares tumbled on Monday following the leak of reports on $2 trillion worth of suspicious transactions facilitated by major lenders and other financial institutions.",
-         "author" : "Elliot Smith",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/103526723-GettyImages-513507960.jpg?v=1532564146",
-         "source" : {
-            "name" : "CNBC",
-            "id" : null
-         },
-         "content" : "A view of the Canary Wharf financial district of London.\r\nLONDON Banking shares tumbled on Monday following the leak of reports on $2 trillion worth of suspicious transactions facilitated by major le… [+4292 chars]",
-         "title" : "Here's what banking experts are saying in the wake of the FinCEN leak - CNBC"
-      },
-      {
-         "source" : {
-            "id" : null,
-            "name" : "CNBC"
-         },
-         "content" : "The United States could immunize Americans \"most susceptible\" to Covid-19 by December if a vaccine is approved before then, President Donald Trump's coronavirus vaccine czar told CNBC on Monday.\r\nThe… [+3264 chars]",
-         "url" : "https://www.cnbc.com/2020/09/21/trumps-coronavirus-vaccine-czar-says-us-could-immunize-most-susceptible-americans-by-december.html",
-         "publishedAt" : "2020-09-21T15:37:00Z",
-         "description" : "The U.S. could also immunize \"most of the elderly\" and health-care workers in January 2021, said Dr. Moncef Slaoui, who is leading the Trump administration's Operation Warp Speed, said.",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106710742-1600699714741-gettyimages-1228367413-3a4c62ca-96e2-11ea-87a3-22d324235636.jpeg?v=1600699777",
-         "author" : "Berkeley Lovelace Jr.",
-         "title" : "Trump's coronavirus vaccine czar says U.S. could immunize 'most susceptible' Americans by December - CNBC"
-      },
-      {
-         "title" : "NBC's Peacock is finally live on Roku after tense negotiations - Engadget",
-         "content" : "As is often with the case with online media, Peacock's delayed arrival on Roku streaming sticks and set-top boxes boiled down to one major factor: Ad money. Companies that operate ad-supported Roku c… [+1905 chars]",
-         "source" : {
-            "id" : "engadget",
-            "name" : "Engadget"
-         },
-         "urlToImage" : "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-09%2Fec03f0b0-fc17-11ea-b673-47f59a21a030&client=amp-blogside-v2&signature=9620eefec2324a06e58e6d11018527aec91123b1",
-         "author" : "",
-         "description" : "When NBC Universal's streaming service Peacock launched on July 15th, it was available to just about every bit of streaming hardware out there -- except Roku devices.  After prolonged negotiations, and even a bit of public acrimony, Peacock is now officially …",
-         "publishedAt" : "2020-09-21T15:29:16Z",
-         "url" : "https://www.engadget.com/nbc-peacock-now-available-for-roku-streaming-devices-144123980.html"
-      },
-      {
-         "publishedAt" : "2020-09-21T15:15:00Z",
-         "description" : "WGAL News 8 coronavirus coverage",
-         "url" : "https://www.wgal.com/article/pa-restaurants-can-increase-indoor-seating-capacity-to-50-percent/34094298",
-         "author" : "Corinne Lillis",
-         "urlToImage" : "https://kubrick.htvapps.com/vidthumb/images/pennsylvania-restaurants-50-percent-capacity-1600687797.jpg?crop=1xw:1xh;center,top&resize=1200:*",
-         "source" : {
-            "id" : null,
-            "name" : "WGAL Susquehanna Valley Pa."
-         },
-         "content" : "HARRISBURG, Pa. —Pennsylvania restaurants can now seat to half capacity indoors.\r\nThe governor restored indoor capacity to the previous limit established during the green phase, which most of the sta… [+5116 chars]",
-         "title" : "PENNSYLVANIA RESTAURANTS can increase indoor seating capacity - WGAL Susquehanna Valley Pa."
-      },
-      {
-         "title" : "Tesla stock sinks ahead of Battery Day - Fox Business",
-         "source" : {
-            "name" : "Fox Business",
-            "id" : null
-         },
-         "content" : "Tesla Inc. shares slid Monday as traders looked ahead to the company’s upcoming Battery Day event.\r\nThe event, scheduled for Tuesday evening, is expected to showcase the Palo Alto, Calif.-based elect… [+1451 chars]",
-         "publishedAt" : "2020-09-21T14:55:36Z",
-         "description" : "Tesla Inc. shares slid Monday as traders looked ahead to the company’s upcoming Battery Day event.",
-         "url" : "https://www.foxbusiness.com/markets/tesla-stock-sinks-ahead-of-battery-day",
-         "author" : "Jonathan Garber",
-         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/09/0/0/Fremont-Tesla-Elon-Getty-AP.jpg?ve=1&tl=1"
-      },
-      {
-         "title" : "Come back Americans: Calls for urgent U.S.-U.K. air bridge as airlines hit by fresh lockdown fears - MarketWatch",
-         "urlToImage" : "https://s.marketwatch.com/public/resources/images/MW-IO856_IAG21_ZG_20200921081104.jpg",
-         "author" : "Lina Saigol",
-         "url" : "https://www.marketwatch.com/story/airline-stocks-fall-on-lockdown-fears-as-report-calls-for-urgent-us-uk-air-bridge-2020-09-21",
-         "description" : "Governments on both sides of the Atlantic are urged to redouble efforts to launch a testing regime as quickly as possible",
-         "publishedAt" : "2020-09-21T14:24:00Z",
-         "content" : "Shares in Europes biggest airlines plunged on Monday over fears of a second lockdown in response to a second wave of coronavirus cases, while a new report laid bare the massive daily cost to the U.K.… [+3926 chars]",
+         "author" : "William Watts",
          "source" : {
             "id" : null,
             "name" : "MarketWatch"
+         },
+         "description" : "Election becomes ‘even more’ of a risk event",
+         "urlToImage" : "https://images.mktw.net/im-234570/social",
+         "title" : "Why the Dow is diving: Ginsburg replacement battle amplifies election jitters - MarketWatch",
+         "content" : "Read: Mondays stock-market selloff sets up worst September in 18 years\r\nThey include: \r\n<ul><li> \r\n A rising number of COVID-19 infections that threaten to force renewed lockdowns of major European e… [+3034 chars]",
+         "url" : "https://www.marketwatch.com/story/why-the-dow-is-plunging-ginsburg-replacement-battle-covid-19-and-everything-else-11600708678",
+         "publishedAt" : "2020-09-21T17:17:00Z"
+      },
+      {
+         "description" : "City issues guidelines on structures, heating devices and other safety precautions.",
+         "content" : null,
+         "url" : "https://www.chicagotribune.com/coronavirus/ct-coronavirus-fall-and-winter-outdoor-dining-20200921-fyrq6rejdbfmdbtasf5x7ceu74-story.html",
+         "publishedAt" : "2020-09-21T17:13:00Z",
+         "urlToImage" : "https://www.chicagotribune.com/resizer/JnKbpzrIe4VIo_D7jsSKtMLr-5c=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/ES7HESR7FBEF7BE3MAHV3OYUXY.jpg",
+         "title" : "Chicago releases outdoor dining guidelines for fall and winter - Chicago Tribune",
+         "author" : "Grace Wong",
+         "source" : {
+            "name" : "Chicago Tribune",
+            "id" : null
          }
+      },
+      {
+         "source" : {
+            "name" : "CNN",
+            "id" : "cnn"
+         },
+         "author" : "Jazmin Goodwin, CNN Business",
+         "title" : "These 63 Bed Bath & Beyond stores are set to close by the end of 2020 - CNN",
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200920185154-bed-bath-and-beyond-store-file-restricted-super-tease.jpg",
+         "url" : "https://www.cnn.com/2020/09/21/business/bed-bath-beyond-63-stores-closing-2020/index.html",
+         "publishedAt" : "2020-09-21T16:59:00Z",
+         "content" : null,
+         "description" : "Bed Bath & Beyond has announced the first 63 stores it will close by the end of the year as part of a restructuring plan brought on by Covid-19."
+      },
+      {
+         "source" : {
+            "name" : "Motley Fool",
+            "id" : null
+         },
+         "author" : "Rhian Hunt",
+         "content" : "Several major cruise lines, including Carnival Corporation (NYSE:CCL) (NYSE:CUK), Norwegian Cruise Line Holdings(NASDAQ:NCLH), and Royal Caribbean Group(NYSE:RCL) are seeing their share prices plumme… [+1516 chars]",
+         "url" : "https://www.fool.com/investing/2020/09/21/why-carnival-norwegian-and-royal-caribbean-shares/",
+         "publishedAt" : "2020-09-21T16:50:00Z",
+         "urlToImage" : "https://g.foolcdn.com/editorial/images/592356/shipwreck.jpg",
+         "title" : "Why Carnival, Norwegian Cruise Line, and Royal Caribbean Shares Are Sinking in Early Trading - Motley Fool",
+         "description" : "A report to the CDC and news from the U.K. have investors abandoning ship."
+      },
+      {
+         "urlToImage" : "https://images.barrons.com/im-234484/social",
+         "title" : "Snowflake Stock Risks a ‘Violent Selloff.’ Why One Analyst Is Worried. - Barron's",
+         "content" : "Snowflake shares are in bubble territory and at risk of a sharp reversal, the first analyst to pick up coverage of the newly public cloud data analytics company warned on Monday.\r\nSnowflake (ticker: … [+332 chars]",
+         "publishedAt" : "2020-09-21T16:47:00Z",
+         "url" : "https://www.barrons.com/articles/snowflake-shares-risk-violent-selloff-analyst-says-setting-sell-rating-51600705017",
+         "description" : "",
+         "source" : {
+            "name" : "Barron's",
+            "id" : null
+         },
+         "author" : "Eric J. Savitz"
       },
       {
          "source" : {
             "id" : "fox-news",
             "name" : "Fox News"
          },
-         "content" : "A recent study reveals that one passenger on an international flight was reportedly responsible for infecting 15 other people with COVID-19.\r\nResearchers reportedly used contact-tracing to track the … [+2018 chars]",
-         "url" : "https://www.foxnews.com/travel/vietnam-airlines-passenger-spreads-coronavirus-15-flight-study",
-         "publishedAt" : "2020-09-21T14:16:33Z",
-         "description" : "It only takes one person to spread a virus.",
-         "author" : "Michael Hollan",
-         "urlToImage" : "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/Vietnam-Airlines.jpg",
-         "title" : "Vietnam Airlines passenger spread coronavirus to 15 on international flight, study claims - Fox News"
+         "author" : "Jeanette Settembre",
+         "content" : "The stakes are high for the American steakhouse in the age of COVID-19 as the restaurant industry continues to face losses.\r\nChicago mainstay Lawry’s The Prime Rib will shutter its Ontario Street loc… [+2232 chars]",
+         "publishedAt" : "2020-09-21T16:46:11Z",
+         "url" : "https://www.foxnews.com/food-drink/lawrys-the-prime-rib-steakhouse-closes-chicago",
+         "urlToImage" : "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/lawrys-google-street-view.png",
+         "title" : "Lawry's The Prime Rib steakhouse to close Chicago location after 'year of incredible turmoil' - Fox News",
+         "description" : "Lawry’s CEO Ryan Wilson says the Chicago location’s expiring lease, coupled with coronavirus losses and civil unrest, factored into the chain’s decision to close for good."
       },
       {
-         "title" : "Stock market battered: Dow Jones down as banks suffer, economic concerns grip investors - USA TODAY",
-         "url" : "https://www.usatoday.com/story/money/2020/09/21/dow-jones-stock-market-banks-jpmorgan-stocks/5851883002/",
-         "description" : "Stocks are falling sharply in early trading on Wall Street Monday, joining a global tumble for markets as the S&P 500 sinks nearly 2%.",
-         "publishedAt" : "2020-09-21T14:13:03Z",
-         "author" : "Stan Choe",
-         "urlToImage" : "https://www.gannett-cdn.com/presto/2018/09/13/USAT/b5dfad0b-fb99-458c-b99b-7bec49f6b0cf-Chase_1.JPG?crop=5399,3023,x0,y0&width=3200&height=1680&fit=bounds",
+         "title" : "Amazon shares more info on Sidewalk, a new BLE-based mesh network system - The Verge",
+         "urlToImage" : "https://cdn.vox-cdn.com/thumbor/fhTpM7RsSd5QYNKxgAePu6s5uWA=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/13443464/acastro_181114_1777_amazon_hq2_0004.jpg",
+         "publishedAt" : "2020-09-21T16:42:37Z",
+         "url" : "https://www.theverge.com/2020/9/21/21448926/amazon-sidewalk-ring-echo-tile-wifi-mesh-ble-location-tracking",
+         "content" : "Amazon Sidewalk will leverage connectivity through Echo and Ring devices\r\nIllustration by Alex Castro / The Verge\r\nAmazon is preparing to launch an ambitious networking and location system later this… [+2669 chars]",
+         "description" : "Ring, Echo, and Tile devices will all support Amazon’s new location-tracking mesh network system, Amazon Sidewalk, which will provide connectivity and locate devices like keys or lost pets. Amazon says the project will launch later in 2020.",
          "source" : {
-            "id" : "usa-today",
-            "name" : "USA Today"
+            "name" : "The Verge",
+            "id" : "the-verge"
          },
-         "content" : "The coronavirus (COVID-19) is impacting the global economy and raising fears of a recession. What causes a recession and what are the signs?\r\nUSA TODAY\r\nNEW YORK (AP) Stocks are falling sharply in ea… [+4935 chars]"
+         "author" : "Kim Lyons, Russell Brandom"
       },
       {
-         "content" : "European aerospace giant Airbus released details of three hydrogen-fueled concept planes on Monday, saying they could enter service by the year 2035. The designs, named ZEROe, differ in size and styl… [+2519 chars]",
+         "publishedAt" : "2020-09-21T16:40:49Z",
+         "url" : "https://www.foxbusiness.com/lifestyle/boeing-gearing-up-for-787-move-to-south-carolina-sources",
+         "content" : "SEATTLE/PARIS (Reuters) - Boeing Co BA.N is nearing a decision to shift more 787 Dreamliner production to South Carolina, industry sources said, a cost-cutting strategy accelerated by the COVID-19 pa… [+4446 chars]",
+         "title" : "Boeing gearing up for 787 move to South Carolina: sources - Fox Business",
+         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/09/0/0/iStock-682728224.jpg?ve=1&tl=1",
+         "description" : "Boeing will move the rest of its 787 Dreamliner production to South Carolina in a pivot away from its reliance on its union-heavy Seattle-area birthplace, as well as cut costs and improve efficiencies.",
+         "source" : {
+            "name" : "Fox Business",
+            "id" : null
+         },
+         "author" : "Reuters"
+      },
+      {
+         "title" : "Why Tesla Stock Fell 7.9% This Morning - Motley Fool",
+         "urlToImage" : "https://g.foolcdn.com/editorial/images/592378/why-tesla-stock-is-down-today.png",
+         "url" : "https://www.fool.com/investing/2020/09/21/why-tesla-stock-fell-79-this-morning/",
+         "publishedAt" : "2020-09-21T16:30:00Z",
+         "content" : "What happened\r\nShares of Tesla(NASDAQ:TSLA) fell sharply on Monday morning, declining as much as 7.9%. As of 11:30 a.m. EDT, however, the stock was only down 2%.\r\nThe growth stock's decline was likel… [+1529 chars]",
+         "description" : "Are the electric-car maker's third-quarter deliveries tracking below expectations?",
+         "source" : {
+            "id" : null,
+            "name" : "Motley Fool"
+         },
+         "author" : "Daniel Sparks"
+      },
+      {
+         "description" : "A coalition of advocacy groups and marijuana businesses have unveiled a unique plan to legalize interstate cannabis commerce regardless of ongoing federal prohibition. The Alliance for Sensible Markets campaign will be pushing governors from legal and likely …",
+         "title" : "New Marijuana Coalition Unveils Plan To Legalize Interstate Cannabis Commerce - Marijuana Moment",
+         "urlToImage" : "https://www.marijuanamoment.net/wp-content/uploads/2019/01/16043513285_47926157fa_k-1000x600.jpg",
+         "url" : "https://www.marijuanamoment.net/new-marijuana-coalition-unveils-plan-to-legalize-interstate-cannabis-commerce/",
+         "publishedAt" : "2020-09-21T16:18:45Z",
+         "content" : "A majority of South Dakota voters support separate initiatives to allow both medical and recreational marijuana that will appear on the state’s November ballot, according to a new poll funded by lega… [+5728 chars]",
+         "author" : "Kyle Jaeger",
+         "source" : {
+            "id" : null,
+            "name" : "Marijuana Moment"
+         }
+      },
+      {
+         "title" : "Why Illumina Stock Is Sinking Today - Motley Fool",
+         "urlToImage" : "https://g.foolcdn.com/editorial/images/592376/hand-with-dna-helix-image.jpg",
+         "publishedAt" : "2020-09-21T16:15:59Z",
+         "url" : "https://www.fool.com/investing/2020/09/21/why-illumina-stock-is-sinking-today/",
+         "content" : "What happened\r\nShares of Illumina(NASDAQ:ILMN) are sinking today, down 6.7% as of 11:48 a.m. EDT, after the genomic-sequencing specialist announced that it plans to acquire GRAIL for $8 billion.\r\nSo … [+1430 chars]",
+         "description" : "Investors are skeptical about the company's latest acquisition.",
+         "source" : {
+            "name" : "Motley Fool",
+            "id" : null
+         },
+         "author" : "Keith Speights"
+      },
+      {
+         "author" : "Jeff Cox",
          "source" : {
             "name" : "CNBC",
             "id" : null
          },
-         "author" : "Anmar Frangoul",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106710621-1600695974511-ZEROe_concept_aircraft_-_Patrol_Flight.jpeg?v=1600696045",
-         "url" : "https://www.cnbc.com/2020/09/21/airbus-announces-concept-designs-for-hydrogen-powered-airplanes-.html",
-         "description" : "The aircraft could take to the skies in 2035.",
-         "publishedAt" : "2020-09-21T14:11:00Z",
-         "title" : "Airbus announces concept designs for zero-emission, hydrogen-powered airplanes - CNBC"
+         "description" : "A Federal Reserve report released Monday showed the total household balance sheet in the U.S. rose to nearly $119 trillion in the April-through-June period, a 6.8% increase from the first quarter.",
+         "content" : "Government and business debt soared in the second quarter as the U.S. dealt with the coronavirus pandemic, even as personal net worth rose and consumer credit plunged at a record level.\r\nA Federal Re… [+1538 chars]",
+         "publishedAt" : "2020-09-21T16:09:00Z",
+         "url" : "https://www.cnbc.com/2020/09/21/government-debt-rose-at-a-59percent-pace-in-q2-amid-effort-to-halt-virus.html",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106694070-1599583514614-gettyimages-1228403069-364509649_1-4.jpeg?v=1599583590",
+         "title" : "Government debt rose at a 59% pace in Q2 amid effort to halt virus - CNBC"
       },
       {
-         "title" : "Dow skids over 800 points Monday as investors reassess risk amid rising coronavirus cases - MarketWatch",
          "source" : {
-            "name" : "MarketWatch",
+            "name" : "WFAA.com",
             "id" : null
          },
-         "content" : "U.S. stocks opened sharply lower on Monday as rising cases in Europe and a number of geopolitical risks, ignited selling of assets considered risky on Wall Street. The Dow Jones Industrial Average \r\n… [+1036 chars]",
-         "url" : "https://www.marketwatch.com/story/dow-skids-nearly-500-points-at-mondays-open-as-investors-reassess-risk-amid-rising-coronavirus-cases-2020-09-21",
-         "description" : "",
-         "publishedAt" : "2020-09-21T14:08:00Z",
-         "author" : "Mark DeCambre",
-         "urlToImage" : "https://s.wsj.net/public/resources/MWimages/MW-GP644_MicroS_ZG_20180906154215.jpg"
+         "author" : "Jason Whitely",
+         "urlToImage" : "https://media.wfaa.com/assets/WFAA/images/b45bf2b6-dbbc-47f0-8661-b78794e52f58/b45bf2b6-dbbc-47f0-8661-b78794e52f58_1140x641.jpg",
+         "title" : "After Monday's federal approval, construction on Dallas-Houston bullet train to begin next year - WFAA.com",
+         "content" : "DALLAS Editor's Note: The video above is from a 2018 story on the proposed bullet train. \r\nThe Federal Railroad Administration gave its final approval for a bullet train between Dallas and Houston on… [+2360 chars]",
+         "publishedAt" : "2020-09-21T16:04:00Z",
+         "url" : "https://www.wfaa.com/article/news/after-todays-federal-approval-construction-on-dallas-houston-bullet-train-to-begin-next-year/287-decb2e53-5db5-461b-884d-b729f60aeecf",
+         "description" : "“This is the moment we have been working towards,” said Carlos Aguilar, CEO of Texas Central Railroad."
       },
       {
-         "title" : "Oil Prices Slide As Libya Restarts Production - OilPrice.com",
-         "content" : "Big Oil is buying up…\r\nChinas imports of crude oil…\r\nOPEC warned on Thursday that…\r\nBy Irina Slav - Sep 21, 2020, 9:00 AM CDTLibya’s National Oil Corporation will restart production from certain fiel… [+1966 chars]",
+         "author" : "David Shepardson, Joseph Ax",
+         "source" : {
+            "id" : "reuters",
+            "name" : "Reuters"
+         },
+         "description" : "A federal judge on Monday ordered the U.S. Postal Service to expedite all November election mail and to approve additional overtime for postal workers.",
+         "publishedAt" : "2020-09-21T16:03:00Z",
+         "url" : "https://uk.reuters.com/article/us-usa-election-post-office-idUSKCN26C2HX",
+         "content" : "FILE PHOTO: A box to drop off ballots, instead of attempting to mail them via the U.S. Postal Service (USPS), stands on a sidewalk in Somerville, Massachusetts, U.S., August 25, 2020. REUTERS/Brian S… [+1874 chars]",
+         "title" : "U.S. judge orders Post Office to expedite November election mail - Reuters",
+         "urlToImage" : "https://static.reuters.com/resources/r/?m=02&d=20200921&t=2&i=1534336924&r=LYNXNPEG8K1L7&w=800"
+      },
+      {
+         "description" : "The economy may be stabilizing faster than expected amid the pandemic, but efforts to preserve it could tip off a financial crisis, a new report says.",
+         "title" : "Efforts to lift economy out of recession pose risk of sparking a financial crisis, economists worry - USA TODAY",
+         "urlToImage" : "https://www.gannett-cdn.com/presto/2020/09/11/USAT/1d49d783-4930-48b4-88e4-b3232d3a2d4f-AP_Economy-Services.jpg?crop=4462,2510,x0,y148&width=3200&height=1680&fit=bounds",
+         "publishedAt" : "2020-09-21T16:01:47Z",
+         "url" : "https://www.usatoday.com/story/money/2020/09/21/financial-crisis-stocks-debt-economy-deutsche-bank-report/5851809002/",
+         "content" : "The restaurant industry is taking a big hit during the COVID-19 pandemic. Some big chains are filing for bankruptcy or facing challenges paying debts.\r\nUSA TODAY\r\nThe economy may be stabilizing faste… [+2042 chars]",
+         "author" : "Nathan Bomey",
+         "source" : {
+            "id" : "usa-today",
+            "name" : "USA Today"
+         }
+      },
+      {
+         "url" : "https://www.foxbusiness.com/lifestyle/planning-to-work-after-claiming-social-security-heres-what-you-need-to-know",
+         "publishedAt" : "2020-09-21T15:46:32Z",
+         "content" : "Though Social Security serves as a steady source of income for millions of seniors, many can't live on those benefits alone. Rather, they need additional income to cover their expenses, whether it co… [+3611 chars]",
+         "title" : "Planning to work after claiming Social Security? Here's what you need to know - Fox Business",
+         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/05/0/0/SS-card.jpg?ve=1&tl=1",
+         "description" : "While you are allowed to work and collect Social Security simultaneously, that's a route you may not want to take.",
          "source" : {
             "id" : null,
-            "name" : "OilPrice.com"
+            "name" : "Fox Business"
          },
-         "urlToImage" : "https://d32r1sh890xpii.cloudfront.net/article/718x300/2020-09-21_gl5ywt3fjv.jpg",
-         "author" : "Irina Slav",
-         "url" : "https://oilprice.com/Energy/Crude-Oil/Oil-Prices-Slide-As-Libya-Restarts-Production.html",
-         "publishedAt" : "2020-09-21T14:00:00Z",
-         "description" : "Oil prices fell on Monday morning after Libya's national oil company said that it would restart production at certain fields and resume crude exports"
+         "author" : "Motley Fool"
       },
       {
-         "content" : "Thyroid drugs have been recalled after the manufacturer found they posed a risk to newborn infants, pregnant women and the elderly.\r\nAccording to the Food and Drug Administration (FDA), Acella Pharma… [+3860 chars]",
+         "title" : "Bank stocks fall after documents allege $2 trillion in criminally linked transactions - New York Post ",
+         "urlToImage" : "https://nypost.com/wp-content/uploads/sites/2/2020/07/200707-deutsche-bank1.jpg?quality=90&strip=all&w=1200",
+         "url" : "https://nypost.com/2020/09/21/bank-stocks-tumble-after-leaks-detail-2-trillion-in-sketchy-transactions/",
+         "publishedAt" : "2020-09-21T15:38:00Z",
+         "content" : "Major banks’ stock prices sank Monday after news reports detailed how they allegedly moved huge sums of money for criminals around the world.\r\nShares in finance giants Deutsche Bank, JPMorgan Chase a… [+2417 chars]",
+         "description" : "Major banks’ stock prices sank Monday after news reports detailed how they allegedly moved huge sums of money for criminals around the world. Shares in finance giants Deutsche Bank, JPMorgan …",
          "source" : {
-            "name" : "Newsweek",
-            "id" : "newsweek"
+            "name" : "New York Post",
+            "id" : null
          },
-         "urlToImage" : "https://d.newsweek.com/en/full/1639586/acella-pharma-tablets.png",
-         "author" : "Sophia Waterfield",
-         "description" : "The manufacturer has confirmed there have been four reports of adverse events related to this recall.",
-         "publishedAt" : "2020-09-21T13:50:32Z",
-         "url" : "https://www.newsweek.com/thyroid-drugs-recalled-pose-risk-newborn-pregnant-women-elderly-1533279",
-         "title" : "Thyroid Drugs Recalled, Pose Risk to Newborns, Pregnant Women and Elderly - Newsweek"
-      },
-      {
-         "title" : "The 2021 Ford Bronco Sasquatch Will Have a Seven-Speed Manual After All - The Drive",
-         "url" : "https://www.thedrive.com/news/36583/the-2021-ford-bronco-sasquatch-will-have-a-seven-speed-manual-after-all",
-         "publishedAt" : "2020-09-21T13:50:15Z",
-         "description" : "Last week Ford claimed that powertrain options hadn't changed, but now it's saying they have. We're happy.",
-         "author" : "James Gilboy",
-         "urlToImage" : "https://api.thedrive.com/wp-content/uploads/2020/08/Bronco_2dr_features_05.jpg?quality=85",
-         "source" : {
-            "id" : null,
-            "name" : "The Drive"
-         },
-         "content" : "Ford disappointed more than a few fans and potential buyers by disallowing the 2021 Bronco's Sasquatch off-road package to pair with the SUV's standard seven-speed manual transmission. Initially, the… [+1661 chars]"
-      },
-      {
-         "url" : "https://www.wsj.com/articles/fed-to-propose-overhaul-of-lending-rules-for-poorer-communities-11600695600",
-         "description" : "Vote marks the latest effort by policy makers to propose new framework for Community Reinvestment Act rules",
-         "publishedAt" : "2020-09-21T13:40:00Z",
-         "urlToImage" : "https://images.wsj.net/im-233566/social",
-         "author" : "Andrew Ackerman",
-         "source" : {
-            "id" : "the-wall-street-journal",
-            "name" : "The Wall Street Journal"
-         },
-         "content" : "WASHINGTONThe Federal Reserve, splitting from other U.S. bank regulators, took an initial step to rewrite rules for hundreds of billions of dollars in lending and investment in lower-income neighborh… [+1078 chars]",
-         "title" : "Fed to Propose Overhaul of Lending Rules for Poorer Communities - The Wall Street Journal"
-      },
-      {
-         "title" : "Breaking: Strong Likelihood Lufthansa’s A380s Will Never Fly Again - Simple Flying",
-         "source" : {
-            "id" : null,
-            "name" : "Simple Flying"
-         },
-         "content" : "Lufthansa has today outlined its third set of restructuring methods to cope with the impact of COVID-19 on the aviation industry. As a result, the airline is highly unlikely to resume services with t… [+3050 chars]",
-         "url" : "https://simpleflying.com/lufthansa-airbus-a380-retirement/",
-         "description" : "Lufthansa has today outlined its third set of restructuring methods to cope with the impact of COVID-19 on…",
-         "publishedAt" : "2020-09-21T13:31:59Z",
-         "author" : "",
-         "urlToImage" : "https://simpleflying.com/wp-content/uploads/2020/09/GettyImages-1214772392.jpg"
-      },
-      {
-         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200921091126-general-electric-building-file-super-tease.jpg",
-         "author" : "Matt Egan, CNN Business",
-         "publishedAt" : "2020-09-21T13:26:00Z",
-         "description" : "General Electric is one of the world's largest makers of coal-fired power plants. But now it plans to say goodbye to coal.",
-         "url" : "https://www.cnn.com/2020/09/21/business/ge-coal-power/index.html",
-         "content" : null,
-         "source" : {
-            "name" : "CNN",
-            "id" : "cnn"
-         },
-         "title" : "GE is getting out of the coal power business - CNN"
+         "author" : "Noah Manskar"
       }
    ]
 }
