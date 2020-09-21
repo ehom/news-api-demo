@@ -1,266 +1,266 @@
 {
+   "totalResults" : 70,
+   "status" : "ok",
    "articles" : [
       {
-         "author" : null,
-         "publishedAt" : "2020-09-21T19:28:00Z",
+         "url" : "https://www.cnbc.com/2020/09/21/stock-market-futures-open-to-close-news.html",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106699111-1599837087884-gettyimages-1271945849-dscf0561_20200911102120234.jpeg?v=1600726129",
+         "author" : "Yun Li",
+         "title" : "Stock futures flat in overnight trading after S&P 500 posts 4-day losing streak - CNBC",
+         "description" : "The market's September sell-off intensified on Monday as investors grew more anxious about the pandemic.",
+         "content" : "Stock futures held steady in overnight trading on Monday following a steep sell-off on Wall Street.\r\nFutures on the Dow Jones Industrial Average fell about 10 points. The S&amp;P 500 futures were fla… [+2262 chars]",
          "source" : {
             "id" : null,
-            "name" : "WYFF4 Greenville"
+            "name" : "CNBC"
          },
-         "title" : "Group of parents stop man accused of looking under bathroom stall at Duncan Cracker Barrel, chief says - WYFF4 Greenville",
-         "urlToImage" : "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/douglas-lane-2-jpg-1600707249.jpg?crop=1.00xw:0.637xh;0,0.0497xh&resize=1200:*",
-         "description" : "A North Carolina man was arrested in the Upstate after he was caught looking under a woman's bathroom stall at a Cracker Barrel restaurant, according to Duncan police Chief Carl Long.",
-         "content" : "DUNCAN, S.C. —A North Carolina man was arrested in the Upstate after he was caught looking under a woman's bathroom stall at a Cracker Barrel restaurant, according to Duncan police Chief Carl Long.\r\n… [+2367 chars]",
-         "url" : "https://www.wyff4.com/article/group-of-upstate-parents-stop-man-accused-of-looking-under-bathroom-stall-at-cracker-barrel-chief-says/34099018"
+         "publishedAt" : "2020-09-21T22:04:00Z"
       },
       {
-         "author" : "Erin Marquis",
-         "publishedAt" : "2020-09-21T19:05:00Z",
+         "urlToImage" : "https://electrek.co/wp-content/uploads/sites/3/2019/12/Tesla-family-Semi-Roadster-photo-e1577564694993.jpg?quality=82&strip=all",
+         "url" : "https://electrek.co/2020/09/21/tesla-high-volume-battery-cell-production-wont-start-2022-elon-musk-cybertruck-semi-roadster/",
+         "title" : "Elon Musk confirms Tesla ‘high volume’ battery cell production won’t start until 2022, will affect Cybertruck, Semi, and Roadster - Electrek",
+         "author" : null,
+         "publishedAt" : "2020-09-21T21:55:00Z",
          "source" : {
-            "name" : "Jalopnik",
+            "name" : "Electrek",
             "id" : null
          },
-         "urlToImage" : "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/frrcvi3k003iffyrdkzo.jpg",
-         "description" : "Finally, a form of leisure travel more detestable and tedious than cruise ships. Some airlines are so desperate to retake the skies that they are now offering sightseeing trips that begin and end at the same airport. It’s a horrifyingly wasteful practice and,…",
-         "title" : "Airlines Are Offering Sightseeing Flights That Go Nowhere - Jalopnik",
-         "content" : "Finally, a form of leisure travel more detestable and tedious than cruise ships. Some airlines are so desperate to retake the skies that they are now offering sightseeing trips that begin and end at … [+3265 chars]",
-         "url" : "https://jalopnik.com/airlines-are-offering-sightseeing-flights-that-go-nowhe-1845129421"
+         "content" : "Elon Musk confirmed today that Tesla’s “high volume” battery cell production won’t start until 2022 and therefore, it will mostly affect the Cybertruck, Tesla Semi, and Roadster programs.\r\nTesla is g… [+2770 chars]",
+         "description" : "Elon Musk confirmed today that Tesla’s “high volume” battery cell production won’t start until 2022 and therefore, it will mostly affect the Cybertruck, Tesla Semi, and Roadster programs. Tesla is going to hold its Battery Day tomorrow – an event where the au…"
       },
       {
-         "url" : "https://www.freep.com/story/money/cars/mark-phelan/2020/09/21/detroit-auto-show-2021-naias/5830351002/",
-         "title" : "Detroit auto show moves to fall, snatching prime fall window from L.A. Auto Show - Detroit Free Press",
+         "description" : "Powell to Reiterate Fed's Stimulus Support Amid Uncertain Outlook",
+         "source" : {
+            "name" : "Investing.com",
+            "id" : null
+         },
+         "content" : "By Yasin Ebrahim\r\nInvesting.com - Federal Reserve Chairman Jerome Powell is expected to acknowledge that economic activity has improved, but reiterate the Federal Reserve's committed to maintain loos… [+1529 chars]",
+         "publishedAt" : "2020-09-21T20:58:00Z",
+         "title" : "Powell to Reiterate Fed's Stimulus Support Amid Uncertain Outlook - Investing.com",
+         "author" : null,
+         "url" : "https://www.investing.com/news/economy/powell-to-reiterate-feds-stimulus-support-amid-uncertain-outlook-2302609",
+         "urlToImage" : "https://i-invdn-com.akamaized.net/news/LYNXNPEE1C1AD_L.jpg"
+      },
+      {
+         "description" : "The company previously announced plans to shutter about 200 stores over the next two years. This appears to be the first iteration of that plan.",
+         "source" : {
+            "id" : null,
+            "name" : "nj.com"
+         },
+         "content" : "Bed Bath &amp; Beyond is planning to shutter two New Jersey locations as part of 63 stores it will close by the end of this year, the company told USA Today.\r\nThe Union-based home goods retailer will… [+2063 chars]",
+         "publishedAt" : "2020-09-21T20:37:00Z",
+         "author" : "Nicolette Accardi | NJ Advance Media for NJ.com",
+         "title" : "Bed Bath & Beyond closing 63 stores, including 2 in N.J. - NJ.com",
+         "url" : "https://www.nj.com/business/2020/09/bed-bath-beyond-closing-63-stores-including-2-in-nj.html",
+         "urlToImage" : "https://www.nj.com/resizer/Y-QDb2TVqgDBMmr9NIj9sUKe088=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/DQ4FLBTR2NFIRKV4UCO6KEC44U.JPG"
+      },
+      {
+         "author" : "https://www.facebook.com/bbcnews",
+         "title" : "GE: Industrial giant will stop building coal-fired power plants - BBC News",
+         "description" : "In a dramatic reversal, one of the world's biggest makers of coal-fired plants will exit the market.",
+         "publishedAt" : "2020-09-21T19:47:24Z",
+         "source" : {
+            "name" : "BBC News",
+            "id" : null
+         },
+         "content" : "Image copyrightGetty Images\r\nIn a dramatic reversal, one of the world's biggest makers of coal-fired power plants is to exit the market and focus on greener alternatives.\r\nUS industrial giant General… [+1976 chars]",
+         "url" : "https://www.bbc.com/news/business-54242055",
+         "urlToImage" : "https://ichef.bbci.co.uk/news/1024/branded_news/6CA7/production/_114551872_gettyimages-624883602-1.jpg"
+      },
+      {
+         "url" : "https://www.wyff4.com/article/group-of-upstate-parents-stop-man-accused-of-looking-under-bathroom-stall-at-cracker-barrel-chief-says/34099018",
+         "urlToImage" : "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/douglas-lane-2-jpg-1600707249.jpg?crop=1.00xw:0.637xh;0,0.0497xh&resize=1200:*",
+         "author" : null,
+         "title" : "Group of parents stop man accused of looking under bathroom stall at Duncan Cracker Barrel, chief says - WYFF4 Greenville",
+         "description" : "A North Carolina man was arrested in the Upstate after he was caught looking under a woman's bathroom stall at a Cracker Barrel restaurant, according to Duncan police Chief Carl Long.",
+         "content" : "DUNCAN, S.C. —A North Carolina man was arrested in the Upstate after he was caught looking under a woman's bathroom stall at a Cracker Barrel restaurant, according to Duncan police Chief Carl Long.\r\n… [+2367 chars]",
+         "source" : {
+            "name" : "WYFF4 Greenville",
+            "id" : null
+         },
+         "publishedAt" : "2020-09-21T19:28:00Z"
+      },
+      {
+         "url" : "https://www.texastribune.org/2020/09/21/dallas-houston-high-speed-train/",
+         "urlToImage" : "https://thumbnails.texastribune.org/LXK1DZr2WcXmHlQUCUcajlyuJ4M=/1200x804/smart/filters:quality(95)/static.texastribune.org/media/images/2017/02/22/HSR_02.JPG",
+         "title" : "High-speed train between Dallas and Houston gets federal approval - The Texas Tribune",
+         "author" : "Juan Pablo Garnham",
+         "description" : "The railroad plans to connect Texas' two biggest cities within 90 minutes. Construction could begin in the first half of next year.",
+         "publishedAt" : "2020-09-21T19:24:00Z",
+         "source" : {
+            "id" : null,
+            "name" : "The Texas Tribune"
+         },
+         "content" : "Sign up for The Brief, our daily newsletter that keeps readers up to speed on the most essential Texas news. \r\nThe high-speed train that promises to transport passengers between Dallas and Houston in… [+5036 chars]"
+      },
+      {
+         "description" : "A coalition of advocacy groups and marijuana businesses have unveiled a unique plan to legalize interstate cannabis commerce regardless of ongoing federal prohibition. The Alliance for Sensible Markets campaign will be pushing governors from legal and likely …",
+         "content" : "Hemp industry stakeholders are celebrating the introduction of a House of Representatives funding bill that would extend a 2014 pilot program for the crop until 2021.\r\nWhile the 2018 Farm Bill more b… [+6929 chars]",
+         "source" : {
+            "id" : null,
+            "name" : "Marijuana Moment"
+         },
+         "publishedAt" : "2020-09-21T19:22:27Z",
+         "title" : "New Marijuana Coalition Unveils Plan To Legalize Interstate Cannabis Commerce - Marijuana Moment",
+         "author" : "Kyle Jaeger",
+         "url" : "https://www.marijuanamoment.net/new-marijuana-coalition-unveils-plan-to-legalize-interstate-cannabis-commerce/",
+         "urlToImage" : "https://www.marijuanamoment.net/wp-content/uploads/2019/01/16043513285_47926157fa_k-1000x600.jpg"
+      },
+      {
+         "title" : "Airlines Are Offering Sightseeing Flights That Go Nowhere - Jalopnik",
+         "author" : "Erin Marquis",
+         "description" : "Finally, a form of leisure travel more detestable and tedious than cruise ships. Some airlines are so desperate to retake the skies that they are now offering sightseeing trips that begin and end at the same airport. It’s a horrifyingly wasteful practice and,…",
+         "source" : {
+            "id" : null,
+            "name" : "Jalopnik"
+         },
+         "content" : "Finally, a form of leisure travel more detestable and tedious than cruise ships. Some airlines are so desperate to retake the skies that they are now offering sightseeing trips that begin and end at … [+3265 chars]",
+         "publishedAt" : "2020-09-21T19:05:00Z",
+         "url" : "https://jalopnik.com/airlines-are-offering-sightseeing-flights-that-go-nowhe-1845129421",
+         "urlToImage" : "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/frrcvi3k003iffyrdkzo.jpg"
+      },
+      {
          "description" : "The 2021 Detroit auto show, formally known as the North American International Auto Show or NAIAS, will take place Sept. 24-Oct. 9.",
-         "urlToImage" : "https://www.gannett-cdn.com/presto/2020/09/10/PDTF/ba08a1b2-0279-4350-a874-20d47cefe211-AP19325811944813.jpg?crop=2879,1620,x0,y0&width=1600&height=800&fit=bounds",
+         "publishedAt" : "2020-09-21T18:57:24Z",
          "content" : "Checkmate.\r\nLess than two weeks after the Los Angeles auto shows move from November to May upset the balance of power among the auto industrys top events for unveiling new vehicles, the Detroit show … [+5695 chars]",
          "source" : {
             "id" : null,
             "name" : "Detroit Free Press"
          },
+         "title" : "Detroit auto show moves to fall, snatching prime fall window from L.A. Auto Show - Detroit Free Press",
          "author" : "Mark Phelan",
-         "publishedAt" : "2020-09-21T18:57:24Z"
+         "url" : "https://www.freep.com/story/money/cars/mark-phelan/2020/09/21/detroit-auto-show-2021-naias/5830351002/",
+         "urlToImage" : "https://www.gannett-cdn.com/presto/2020/09/10/PDTF/ba08a1b2-0279-4350-a874-20d47cefe211-AP19325811944813.jpg?crop=2879,1620,x0,y0&width=1600&height=800&fit=bounds"
       },
       {
-         "author" : "Al Root",
-         "publishedAt" : "2020-09-21T18:52:00Z",
+         "description" : "MicroStategy shareholders, who include BlackRock, Vanguard and Norway's Oil Fund, are each now indirectly exposed to millions in Bitcoin.",
+         "publishedAt" : "2020-09-21T18:46:00Z",
+         "content" : "In brief\r\n<ul><li>MicroStategy recently bought $425 million worth of Bitcoin.</li><li>Its shareholders, who include BlackRock, Vanguard and Norway's Oil Fund, are thus indirectly exposed to Bitcoin.<… [+2238 chars]",
          "source" : {
-            "id" : null,
-            "name" : "Barron's"
+            "name" : "Decrypt",
+            "id" : null
          },
-         "description" : "",
-         "urlToImage" : "https://images.barrons.com/im-234430/social",
-         "title" : "GE Pulls the Plug on Coal Power Plants. What It Means for the Stock. - Barron's",
-         "content" : null,
-         "url" : "https://www.barrons.com/articles/ge-pulls-plug-on-a-shrinking-business-building-coal-power-plants-51600706184"
+         "author" : "Robert Stevens",
+         "title" : "MicroStrategy Exposes World’s Largest Sovereign Wealth Fund to Bitcoin - Decrypt",
+         "url" : "https://decrypt.co/42479/microstrategy-exposes-largest-sovereign-wealth-fund-bitcoin",
+         "urlToImage" : "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2020/09/bitcoin-investment-money-gID_1.jpg"
       },
       {
-         "url" : "https://apnews.com/1f1b4dca1e4be932c62bf300a4b999cd",
-         "urlToImage" : "https://storage.googleapis.com/afs-prod/media/0824edafa5d94c1d8cd6f883fc121ded/3000.jpeg",
+         "title" : "U.S. Household Net Worth Hits Highest Level Ever - The Wall Street Journal",
+         "author" : "Paul Kiernan",
+         "description" : "Increase follows record drop caused by the economic fallout of the coronavirus pandemic",
+         "content" : "WASHINGTONA resurgent stock market and fiscal stimulus propelled the net worth of U.S. households to the highest level ever in the second quarter, despite a record drop in the previous three months c… [+328 chars]",
+         "source" : {
+            "name" : "The Wall Street Journal",
+            "id" : "the-wall-street-journal"
+         },
+         "publishedAt" : "2020-09-21T18:27:00Z",
+         "url" : "https://www.wsj.com/articles/u-s-household-net-worth-hits-highest-level-ever-11600705010",
+         "urlToImage" : "https://images.wsj.net/im-234551/social"
+      },
+      {
+         "content" : "A mother said she and her 2-year-old son were removed from an American Airlines flight last week because the child refused to wear a mask.\r\nRachel Davis said in an Instagram post that she and her son… [+4247 chars]",
+         "source" : {
+            "id" : "the-hill",
+            "name" : "The Hill"
+         },
+         "publishedAt" : "2020-09-21T18:20:00Z",
+         "description" : "A mother said she and her 2-year-old son were removed from an Ame...",
+         "author" : "Justine Coleman",
+         "title" : "Mother, 2-year-old removed from flight because child wouldn't wear mask | TheHill - The Hill",
+         "urlToImage" : "https://thehill.com/sites/default/files/americanairlines_012419gn_lead.jpg",
+         "url" : "https://thehill.com/policy/transportation/517406-mother-and-2-year-old-removed-from-flight-because-child-wont-wear-mask"
+      },
+      {
+         "title" : "Boeing nears decision on closing down 787 Dreamliner assembly in Everett - KOMO News",
+         "author" : "KOMO News Staff",
+         "publishedAt" : "2020-09-21T18:00:00Z",
+         "source" : {
+            "name" : "KOMO News",
+            "id" : null
+         },
+         "content" : null,
+         "description" : "CHICAGO - The Boeing Co. is nearing a decision on whether to move all 787 Dreamliner production to South Carolina, according to aviation experts and a new media report. The Reuters news service reported Monday that Boeing is \"all but certain\" to close down th…",
+         "urlToImage" : "http://static-17.sinclairstoryline.com/resources/media/f2ca8bb7-e28f-493e-b655-358089c93c31-large16x9_AP20252625874246.jpg?1600711158742",
+         "url" : "http://komonews.com/news/local/boeing-nears-decision-on-closing-down-787-dreamliner-assembly-in-everett"
+      },
+      {
          "description" : "Major cruise lines say they will test all passengers and crew for COVID-19 prior to boarding as part of their plan for resuming sailing in the Americas. The Cruise Lines International...",
-         "title" : "US cruises vow 100% testing in plan for resuming sailing - The Associated Press",
+         "publishedAt" : "2020-09-21T17:42:17Z",
          "content" : "Major cruise lines say they will test all passengers and crew for COVID-19 prior to boarding as part of their plan for resuming sailing in the Americas.\r\nThe Cruise Lines International Association, a… [+2091 chars]",
          "source" : {
             "name" : "Associated Press",
             "id" : "associated-press"
          },
+         "title" : "US cruises vow 100% testing in plan for resuming sailing - The Associated Press",
          "author" : "Dee-ann Durbin",
-         "publishedAt" : "2020-09-21T17:42:17Z"
+         "url" : "https://apnews.com/1f1b4dca1e4be932c62bf300a4b999cd",
+         "urlToImage" : "https://storage.googleapis.com/afs-prod/media/0824edafa5d94c1d8cd6f883fc121ded/3000.jpeg"
       },
       {
-         "source" : {
-            "id" : "the-wall-street-journal",
-            "name" : "The Wall Street Journal"
-         },
-         "author" : "Amol Sharma, Benjamin Mullin, Cara Lombardo",
-         "publishedAt" : "2020-09-21T17:42:00Z",
-         "url" : "https://www.wsj.com/articles/quibi-explores-strategic-options-including-a-possible-sale-11600707806",
-         "description" : "Streaming-video service founded by Hollywood mogul Jeffrey Katzenberg has struggled to attract subscribers since launching in April",
-         "urlToImage" : "https://images.wsj.net/im-234533/social",
-         "title" : "Quibi Explores Strategic Options Including Possible Sale - The Wall Street Journal",
-         "content" : "Streaming service Quibi is exploring several strategic options including a possible sale, according to people familiar with the situation, as the company founded by Hollywood mogul Jeffrey Katzenberg… [+336 chars]"
-      },
-      {
-         "author" : "http://www.facebook.com/kitconews",
          "publishedAt" : "2020-09-21T17:31:00Z",
          "source" : {
             "name" : "Kitco NEWS",
             "id" : null
          },
-         "urlToImage" : "https://www.kitco.com/news/2020-09-21/images/US_dollar_3.png",
+         "content" : "Editor's Note: Get caught up in minutes with our speedy summary of today's must-read news stories and expert opinions that moved the precious metals and financial markets. Sign up here!\r\n(Kitco News)… [+2834 chars]",
          "description" : "Kitco News' general-interest stories takes a look at what is making headlines in the marketplace and how that is impacting precious metals prices",
          "title" : "Pandemic fears, election uncertainty, U.S. dollar strength: a perfect storm is brewing against gold price - analysts - Kitco NEWS",
-         "content" : "Editor's Note: Get caught up in minutes with our speedy summary of today's must-read news stories and expert opinions that moved the precious metals and financial markets. Sign up here!\r\n(Kitco News)… [+2834 chars]",
+         "author" : "http://www.facebook.com/kitconews",
+         "urlToImage" : "https://www.kitco.com/news/2020-09-21/images/US_dollar_3.png",
          "url" : "https://www.kitco.com/news/2020-09-21/Pandemic-fears-election-uncertainty-U-S-dollar-strength-a-perfect-storm-is-brewing-against-gold-price-analysts.html"
       },
       {
-         "url" : "https://nypost.com/2020/09/21/almost-90-percent-of-nyc-bars-and-restaurants-couldnt-pay-august-rent/",
-         "content" : "Nearly 90 percent of New York City bar and restaurant owners couldnt pay their rent in August, heightening the continued crush the coronavirus shutdown has inflicted on Gothams economy.\r\nEighty-seven… [+3977 chars]",
-         "title" : "Almost 90 percent of NYC bars and restaurants couldn't pay August rent - New York Post ",
          "urlToImage" : "https://nypost.com/wp-content/uploads/sites/2/2020/09/nyc-dining-01.jpg?quality=90&strip=all&w=1200",
-         "description" : "Nearly 90 percent of New York City bar and restaurant owners couldn’t pay their rent in August, heightening the continued crush the coronavirus shutdown has inflicted on Gotham’s economy.",
+         "url" : "https://nypost.com/2020/09/21/almost-90-percent-of-nyc-bars-and-restaurants-couldnt-pay-august-rent/",
          "source" : {
-            "id" : null,
-            "name" : "New York Post"
+            "name" : "New York Post",
+            "id" : null
          },
+         "content" : "Nearly 90 percent of New York City bar and restaurant owners couldnt pay their rent in August, heightening the continued crush the coronavirus shutdown has inflicted on Gothams economy.\r\nEighty-seven… [+3977 chars]",
          "publishedAt" : "2020-09-21T17:22:00Z",
-         "author" : "Bernadette Hogan"
+         "description" : "Nearly 90 percent of New York City bar and restaurant owners couldn’t pay their rent in August, heightening the continued crush the coronavirus shutdown has inflicted on Gotham’s economy.",
+         "author" : "Bernadette Hogan",
+         "title" : "Almost 90 percent of NYC bars and restaurants couldn't pay August rent - New York Post "
       },
       {
-         "publishedAt" : "2020-09-21T17:17:00Z",
-         "author" : "William Watts",
          "source" : {
             "id" : null,
-            "name" : "MarketWatch"
+            "name" : "Chicago Tribune"
          },
-         "content" : "Read: Mondays stock-market selloff sets up worst September in 18 years\r\nThey include: \r\n<ul><li> \r\n A rising number of COVID-19 infections that threaten to force renewed lockdowns of major European e… [+3034 chars]",
-         "urlToImage" : "https://images.mktw.net/im-234570/social",
-         "description" : "Election becomes ‘even more’ of a risk event",
-         "title" : "Why the Dow is diving: Ginsburg replacement battle amplifies election jitters - MarketWatch",
-         "url" : "https://www.marketwatch.com/story/why-the-dow-is-plunging-ginsburg-replacement-battle-covid-19-and-everything-else-11600708678"
+         "content" : null,
+         "publishedAt" : "2020-09-21T17:13:00Z",
+         "description" : "City issues guidelines on structures, heating devices and other safety precautions.",
+         "author" : "Grace Wong",
+         "title" : "Chicago releases outdoor dining guidelines for fall and winter - Chicago Tribune",
+         "urlToImage" : "https://www.chicagotribune.com/resizer/CEBNrL6QGATJG-q85fKL5kvVSN8=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/U2LWHMRUGVF3BCZKNDSPIDPYJ4.jpg",
+         "url" : "https://www.chicagotribune.com/coronavirus/ct-coronavirus-fall-and-winter-outdoor-dining-20200921-fyrq6rejdbfmdbtasf5x7ceu74-story.html"
       },
       {
-         "url" : "https://www.cnet.com/roadshow/news/tesla-battery-day-elon-musk-reveal-everything/",
-         "title" : "Tesla Battery Day: What we could see from Elon Musk - CNET",
-         "description" : "From the potential for a million-mile battery and maybe even some electricity utility news, here are the possible reveals we could see.",
-         "urlToImage" : "https://cnet4.cbsistatic.com/img/US9cDEoAWr1fQcUENQivkvg9uBc=/1200x630/2020/09/03/574e9cbd-d7d7-4672-9bb1-a90eaccf12ac/ogi-teslas.jpg",
-         "content" : "Things are stirring at Tesla.\r\nTesla\r\nAs we approach Tesla's Battery Day, scheduled for Sept. 22, we've already heard a lot about what could make an appearance at CEO Elon Musk's next big event. Whil… [+6063 chars]",
-         "source" : {
-            "id" : null,
-            "name" : "CNET"
-         },
-         "author" : "Sean Szymkowski",
-         "publishedAt" : "2020-09-21T17:16:00Z"
-      },
-      {
-         "author" : "fox8.com",
          "publishedAt" : "2020-09-21T17:12:00Z",
          "source" : {
             "id" : null,
             "name" : "fox8.com"
          },
-         "description" : "Frozen yogurt fans are going to have fewer options these days as Menchie’s announced plans to close all Northeast Ohio and Erie, Pennsylvania, locations permanently.",
-         "urlToImage" : "https://fox8.com/wp-content/uploads/sites/12/2020/09/GettyImages-170411405.jpg?w=1280",
-         "title" : "Menchie’s closing all Northeast Ohio frozen yogurt shops permanently - WJW FOX 8 News Cleveland",
          "content" : "NORTHEAST OHIO (WJW) Frozen yogurt fans are going to have fewer options these days as Menchie’s announced plans to close all Northeast Ohio and Erie, Pennsylvania, locations permanently.\r\nIce cream s… [+405 chars]",
+         "description" : "Frozen yogurt fans are going to have fewer options these days as Menchie’s announced plans to close all Northeast Ohio and Erie, Pennsylvania, locations permanently.",
+         "author" : "fox8.com",
+         "title" : "Menchie’s closing all Northeast Ohio frozen yogurt shops permanently - WJW FOX 8 News Cleveland",
+         "urlToImage" : "https://fox8.com/wp-content/uploads/sites/12/2020/09/GettyImages-170411405.jpg?w=1280",
          "url" : "https://fox8.com/news/menchies-closing-all-northeast-ohio-frozen-yogurt-shops-permanently/"
       },
       {
-         "author" : "Ashley Abramson",
-         "publishedAt" : "2020-09-21T17:02:03Z",
-         "source" : {
-            "name" : "Apartment Therapy",
-            "id" : null
-         },
          "title" : "One Common Cleaner Just Got Added to the EPA’s Coronavirus-Approved List - Apartment Therapy",
-         "urlToImage" : "https://cdn.apartmenttherapy.info/image/upload/f_auto,q_auto:eco,c_fill,g_auto,w_1500/stock%2Fcustom%20stock%2FAT-Cleaning-Stock_040",
+         "author" : "Ashley Abramson",
          "description" : "The EPA announced this household favorite was added to the list after being tested in a third-party lab.",
+         "publishedAt" : "2020-09-21T17:02:03Z",
          "content" : "If you’ve been keeping tabs on EPA-approved household cleaners effective against the coronavirus, you’re probably stocked up on virus-killing essentials like bleach and isopropyl alcohol. Now, six mo… [+2486 chars]",
-         "url" : "https://www.apartmenttherapy.com/epa-coronavirus-disinfectants-pine-sol-36820604"
-      },
-      {
-         "author" : "Jazmin Goodwin, CNN Business",
-         "publishedAt" : "2020-09-21T16:59:00Z",
-         "source" : {
-            "id" : "cnn",
-            "name" : "CNN"
-         },
-         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200920185154-bed-bath-and-beyond-store-file-restricted-super-tease.jpg",
-         "description" : "Bed Bath & Beyond has announced the first 63 stores it will close by the end of the year as part of a restructuring plan brought on by Covid-19.",
-         "title" : "These 63 Bed Bath & Beyond stores are set to close by the end of 2020 - CNN",
-         "content" : null,
-         "url" : "https://www.cnn.com/2020/09/21/business/bed-bath-beyond-63-stores-closing-2020/index.html"
-      },
-      {
-         "source" : {
-            "name" : "Yahoo Entertainment",
-            "id" : null
-         },
-         "publishedAt" : "2020-09-21T16:57:00Z",
-         "author" : "Brian Sozzi",
-         "url" : "https://finance.yahoo.com/news/gm-sticks-by-nikola-as-stock-plunges-after-founder-exits-165759751.html",
-         "content" : "Despite Nikola shares being in free fall Monday after the departure of founder Trevor Milton amid allegations he deceived investors, General Motors (GM) is defending the company and its potential inv… [+2099 chars]",
-         "title" : "GM sticks by Nikola as the EV maker's stock plunges after founder Trevor Milton exits - Yahoo Finance",
-         "description" : "GM defends Nikola, yet again.",
-         "urlToImage" : "https://s.yimg.com/uu/api/res/1.2/qOyQMhYFUa30q8LyzcFlZQ--~B/aD0zMjgwO3c9NDkyODtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2020-08/c3389ab0-db1e-11ea-bdcd-039ab3a840e1"
-      },
-      {
-         "source" : {
-            "name" : "The Wall Street Journal",
-            "id" : "the-wall-street-journal"
-         },
-         "publishedAt" : "2020-09-21T16:53:00Z",
-         "author" : "Andrew Ackerman",
-         "url" : "https://www.wsj.com/articles/fed-to-propose-overhaul-of-lending-rules-for-poorer-communities-11600695600",
-         "content" : "WASHINGTONThe Federal Reserve, following an earlier split between banking regulators, took an initial step to rewrite rules for hundreds of billions of dollars in lending and investment in lower-inco… [+257 chars]",
-         "title" : "Fed Moves to Overhaul Lending Rules for Poorer Communities - The Wall Street Journal",
-         "description" : "Vote marks the latest effort by policy makers to propose new framework for Community Reinvestment Act rules",
-         "urlToImage" : "https://images.wsj.net/im-233566/social"
-      },
-      {
-         "url" : "https://www.foxnews.com/food-drink/lawrys-the-prime-rib-steakhouse-closes-chicago",
-         "title" : "Lawry's The Prime Rib steakhouse to close Chicago location after 'year of incredible turmoil' - Fox News",
-         "description" : "Lawry’s CEO Ryan Wilson says the Chicago location’s expiring lease, coupled with coronavirus losses and civil unrest, factored into the chain’s decision to close for good.",
-         "urlToImage" : "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/lawrys-google-street-view.png",
-         "content" : "The stakes are high for the American steakhouse in the age of COVID-19 as the restaurant industry continues to face losses.\r\nChicago mainstay Lawry’s The Prime Rib will shutter its Ontario Street loc… [+2232 chars]",
-         "source" : {
-            "id" : "fox-news",
-            "name" : "Fox News"
-         },
-         "author" : "Jeanette Settembre",
-         "publishedAt" : "2020-09-21T16:46:11Z"
-      },
-      {
-         "publishedAt" : "2020-09-21T16:42:37Z",
-         "author" : "Kim Lyons, Russell Brandom",
-         "source" : {
-            "name" : "The Verge",
-            "id" : "the-verge"
-         },
-         "content" : "Amazon Sidewalk will leverage connectivity through Echo and Ring devices\r\nIllustration by Alex Castro / The Verge\r\nAmazon is preparing to launch an ambitious networking and location system later this… [+2669 chars]",
-         "title" : "Amazon shares more info on Sidewalk, a new BLE-based mesh network system - The Verge",
-         "description" : "Ring, Echo, and Tile devices will all support Amazon’s new location-tracking mesh network system, Amazon Sidewalk, which will provide connectivity and locate devices like keys or lost pets. Amazon says the project will launch later in 2020.",
-         "urlToImage" : "https://cdn.vox-cdn.com/thumbor/fhTpM7RsSd5QYNKxgAePu6s5uWA=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/13443464/acastro_181114_1777_amazon_hq2_0004.jpg",
-         "url" : "https://www.theverge.com/2020/9/21/21448926/amazon-sidewalk-ring-echo-tile-wifi-mesh-ble-location-tracking"
-      },
-      {
-         "publishedAt" : "2020-09-21T16:40:49Z",
-         "author" : "Reuters",
          "source" : {
             "id" : null,
-            "name" : "Fox Business"
+            "name" : "Apartment Therapy"
          },
-         "content" : "SEATTLE/PARIS (Reuters) - Boeing Co BA.N is nearing a decision to shift more 787 Dreamliner production to South Carolina, industry sources said, a cost-cutting strategy accelerated by the COVID-19 pa… [+4446 chars]",
-         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/09/0/0/iStock-682728224.jpg?ve=1&tl=1",
-         "description" : "Boeing will move the rest of its 787 Dreamliner production to South Carolina in a pivot away from its reliance on its union-heavy Seattle-area birthplace, as well as cut costs and improve efficiencies.",
-         "title" : "Boeing gearing up for 787 move to South Carolina: sources - Fox Business",
-         "url" : "https://www.foxbusiness.com/lifestyle/boeing-gearing-up-for-787-move-to-south-carolina-sources"
-      },
-      {
-         "publishedAt" : "2020-09-21T16:30:00Z",
-         "author" : "Daniel Sparks",
-         "source" : {
-            "name" : "Motley Fool",
-            "id" : null
-         },
-         "content" : "What happened\r\nShares of Tesla(NASDAQ:TSLA) fell sharply on Monday morning, declining as much as 7.9%. As of 11:30 a.m. EDT, however, the stock was only down 2%.\r\nThe growth stock's decline was likel… [+1529 chars]",
-         "urlToImage" : "https://g.foolcdn.com/editorial/images/592378/why-tesla-stock-is-down-today.png",
-         "description" : "Are the electric-car maker's third-quarter deliveries tracking below expectations?",
-         "title" : "Why Tesla Stock Fell 7.9% This Morning - Motley Fool",
-         "url" : "https://www.fool.com/investing/2020/09/21/why-tesla-stock-fell-79-this-morning/"
-      },
-      {
-         "content" : "According to the International Consortium of Investigative Journalists (ICIJ), five major global banks have been exposed funneling trillions of dollars in criminal funds in the recently leaked FinCEN… [+6514 chars]",
-         "title" : "5 Major Banks Exposed for Moving Trillions for Mobsters, Onecoin, and Drug Cartels - Bitcoin News",
-         "urlToImage" : "https://news.bitcoin.com/wp-content/uploads/2020/09/5-major-banks-exposed-for-moving-trillions-for-mobsters-onecoin-and-drug-cartelszz.jpg",
-         "description" : "Five major global banks have been exposed funneling trillions of dollars in criminal funds in the recently leaked FinCEN Files.",
-         "url" : "https://news.bitcoin.com/5-major-banks-exposed-for-moving-trillions-for-mobsters-onecoin-and-drug-cartels/",
-         "publishedAt" : "2020-09-21T16:29:49Z",
-         "author" : null,
-         "source" : {
-            "name" : "Bitcoin.com",
-            "id" : null
-         }
+         "url" : "https://www.apartmenttherapy.com/epa-coronavirus-disinfectants-pine-sol-36820604",
+         "urlToImage" : "https://cdn.apartmenttherapy.info/image/upload/f_auto,q_auto:eco,c_fill,g_auto,w_1500/stock%2Fcustom%20stock%2FAT-Cleaning-Stock_040"
       }
-   ],
-   "status" : "ok",
-   "totalResults" : 70
+   ]
 }
