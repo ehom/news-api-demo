@@ -1,266 +1,266 @@
 {
-   "status" : "ok",
    "articles" : [
       {
-         "content" : null,
-         "description" : "Former PepsiCo CEO Donald Kendall has died. He was 99.",
-         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200920181356-pepsico-ceo-donald-kendall-super-tease.jpg",
-         "url" : "https://www.cnn.com/2020/09/20/business/donald-kendall-pepsico/index.html",
-         "title" : "Former PepsiCo CEO Donald Kendall has died - CNN",
-         "source" : {
-            "id" : "cnn",
-            "name" : "CNN"
-         },
          "author" : "Rob McLean, CNN Business",
-         "publishedAt" : "2020-09-20T23:25:00Z"
-      },
-      {
-         "title" : "Chicago postal workers threaten to stop delivering mail after multiple employees shot on the job - Fox News",
-         "source" : {
-            "id" : "fox-news",
-            "name" : "Fox News"
-         },
-         "url" : "https://www.foxnews.com/us/chicago-postal-workers-threaten-to-stop-delivering-mail-after-multiple-employees-shot-on-the-job",
-         "author" : "Bradford Betz",
-         "publishedAt" : "2020-09-20T22:38:19Z",
-         "content" : "United States Postal workers who deliver mail in some of Chicago’s more violent neighborhoods are threatening to halt their services after a mail carrier was shot in the city’s South Side earlier thi… [+1596 chars]",
-         "urlToImage" : "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/AP20261732558740-1.jpg",
-         "description" : "United States Postal workers who deliver mail in some of Chicago’s more violent neighborhoods are threatening to halt their services after a mail carrier was shot in the city’s South Side earlier this month."
-      },
-      {
-         "content" : "The recent pullbacks in megacapitalization technology stocks have now gone far enough and lasted long enough that they have triggered chart signals warning investors that at the very least, dont buy … [+4044 chars]",
-         "urlToImage" : "https://s.marketwatch.com/public/resources/images/MW-IO833_Bear_p_ZG_20200919153725.jpg",
-         "description" : "Fifty-day moving average is falling for Microsoft, Amazon and Google parent Alphabet but still rising slightly for Apple and the Nasdaq-100 Index",
-         "title" : "This chart signal says stop buying megacap technology stocks - MarketWatch",
-         "source" : {
-            "name" : "MarketWatch",
-            "id" : null
-         },
-         "url" : "https://www.marketwatch.com/story/this-chart-signal-says-stop-buying-megacap-technology-stocks-2020-09-20",
-         "publishedAt" : "2020-09-20T22:13:00Z",
-         "author" : "Tomi Kilgore"
-      },
-      {
-         "description" : "Tesla is going to bring a new Roadster to the famous Nürburgring racetrack next year, according to CEO Elon Musk, as the production timeline remains unclear. After Porsche brought its brand new Taycan electric car at the Nürburgring racetrack to break a recor…",
-         "urlToImage" : "https://electrek.co/wp-content/uploads/sites/3/2020/09/Tesla-Roadster-prototype-e1600637860743.jpg?quality=82&strip=all",
-         "content" : "Tesla is going to bring a new Roadster to the famous Nürburgring racetrack next year, according to CEO Elon Musk, as the production timeline remains unclear.\r\nAfter Porsche brought its brand new Tayc… [+2533 chars]",
-         "author" : null,
-         "publishedAt" : "2020-09-20T21:52:00Z",
-         "source" : {
-            "id" : null,
-            "name" : "Electrek"
-         },
-         "title" : "Tesla to bring new Roadster to Nürburgring racetrack next year as production remains unclear - Electrek",
-         "url" : "https://electrek.co/2020/09/20/tesla-roadster-nurburgring-racetrack-next-year-production-unclear/"
-      },
-      {
-         "content" : "Drivers of certain car models seem to be more prone to speeding violations. \r\nThat's according to a recent study by the insurance comparison platform Insurify. The company examined more than 2 millio… [+1391 chars]",
-         "description" : "Dodge had the most vehicles on Insurify's top 10 list of vehicles prone to speeding tickets, with four: The Dart, Challenger, RAM 2500 and Charger.",
-         "urlToImage" : "https://www.gannett-cdn.com/presto/2018/11/30/USAT/037d045d-3139-4e3a-98ad-8de860c9fd1c-18MY_WRX-OpenRoad2.jpg?crop=3599,2015,x0,y0&width=3200&height=1680&fit=bounds",
-         "url" : "https://www.usatoday.com/story/money/cars/2020/09/20/subaru-wrx-speeding-tickets-insurify-study/5846520002/",
-         "title" : "Life in the fast lane: Subaru WRX owners have the most speeding tickets in the last year, Insurify study says. - USA TODAY",
-         "source" : {
-            "id" : "usa-today",
-            "name" : "USA Today"
-         },
-         "publishedAt" : "2020-09-20T21:48:03Z",
-         "author" : "Dalvin Brown"
-      },
-      {
-         "url" : "https://www.cnn.com/2020/09/20/business/robert-w-gore-gore-tex-obit/index.html",
+         "title" : "Former PepsiCo CEO Donald Kendall has died - CNN",
          "source" : {
             "name" : "CNN",
             "id" : "cnn"
          },
-         "title" : "Robert Gore, inventor of waterproof outerwear Gore-Tex, dies at 83 - CNN",
-         "publishedAt" : "2020-09-20T21:48:00Z",
-         "author" : "Amir Vera, CNN",
-         "content" : "(CNN)Robert W. Gore, inventor of the technology that spawned the waterproof Gore-Tex fabric, died Thursday, according to the family company, W. L. Gore &amp; Associates. \r\nGore, commonly known as \"Bo… [+2640 chars]",
-         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200920164937-robert-w-gore-file-super-tease.jpg",
-         "description" : "Robert W. Gore invented the technology that spawned the waterproof Gore-Tex fabric and revolutionized outdoor outerwear."
+         "description" : "Former PepsiCo CEO Donald Kendall has died. He was 99.",
+         "publishedAt" : "2020-09-20T23:25:00Z",
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200920181356-pepsico-ceo-donald-kendall-super-tease.jpg",
+         "url" : "https://www.cnn.com/2020/09/20/business/donald-kendall-pepsico/index.html",
+         "content" : null
       },
       {
-         "author" : "",
-         "publishedAt" : "2020-09-20T21:34:34Z",
-         "url" : "https://simpleflying.com/why-doesnt-delta-fly-to-hong-kong/",
-         "source" : {
-            "id" : null,
-            "name" : "Simple Flying"
-         },
-         "title" : "Why Doesn’t Delta Fly To Hong Kong? - Simple Flying",
-         "urlToImage" : "https://simpleflying.com/wp-content/uploads/2020/05/GettyImages-1184520442.jpg",
-         "description" : "Delta Air Lines is the only one of the big three US airlines to not fly to Hong…",
-         "content" : "Delta Air Lines is the only one of the big three US airlines to not fly to Hong Kong. While United and American both operate multiple daily flights, Delta pulled out of the market in 2018. Here’s why… [+4280 chars]"
-      },
-      {
-         "author" : "Stephanie Landsman",
-         "publishedAt" : "2020-09-20T21:00:00Z",
-         "source" : {
-            "name" : "CNBC",
-            "id" : null
-         },
-         "title" : "Market bull John Stoltzfus: U.S. is best place to invest, cites less 'froth' - CNBC",
-         "url" : "https://www.cnbc.com/2020/09/20/us-is-best-place-to-invest-due-to-less-froth-john-stoltzfus-.html",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106055518-1596661426229-john.jpg?v=1600458647",
-         "description" : "Oppenheimer Asset Management’s John Stoltzfus sees opportunities among beaten down mega cap names.",
-         "content" : "Despite the market's wild swings, Wall Street bull John Stoltzfus is encouraged by what he's seeing in the markets  and economy.\r\nStoltzfus is putting money on it: He's overweight U.S. stocks.\r\n\"The … [+2084 chars]"
-      },
-      {
-         "content" : "We found multiple videos released about half a day ago which all claim the truck was going for a 3,000 horsepower dyno pull. The \"event\" seems to have taken place in Ogden, Utah.Apparently, the truck… [+1358 chars]",
-         "description" : "What's the most dramatic video of all time featuring a diesel truck? This, probably this. It shows the motor of a custom Cummins rig blowing up like a land mine. Fortunately, nobody died.",
-         "urlToImage" : "https://s1.cdn.autoevolution.com/images/news/3000-hp-cummins-diesel-truck-exploses-during-dyno-test-148966-7.jpg",
-         "source" : {
-            "name" : "autoevolution",
-            "id" : null
-         },
-         "title" : "3000 HP Cummins Diesel Truck Exploses During Dyno Test - autoevolution",
-         "url" : "https://www.autoevolution.com/news/3000-hp-cummins-diesel-truck-exploses-during-dyno-test-148966.html",
-         "author" : "Mihnea Radu",
-         "publishedAt" : "2020-09-20T20:15:00Z"
-      },
-      {
-         "content" : "(CNN)Pine-Sol's original cleaner has been approved by the US Environmental Protection Agency (EPA) as a product that can kill the coronavirus on frequently used surfaces.\r\nThe product was added to th… [+2138 chars]",
-         "description" : "Pine-Sol's original cleaner has been approved by the US Environmental Protection Agency (EPA) as a product that can kill the coronavirus on frequently used surfaces.",
-         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200920112639-pine-sol-stock-super-tease.jpg",
-         "source" : {
-            "id" : "cnn",
-            "name" : "CNN"
-         },
-         "title" : "Pine-Sol cleaner has been approved to kill coronavirus on hard surfaces - CNN",
-         "url" : "https://www.cnn.com/2020/09/20/health/pine-sol-covid-19-surfaces-kills-coronavirus-trnd/index.html",
-         "author" : "Alaa Elassar, CNN",
-         "publishedAt" : "2020-09-20T19:48:00Z"
-      },
-      {
-         "url" : "https://insideevs.com/news/444812/video-teslacam-semi-car-hauler-crash-hit-run/",
-         "source" : {
-            "name" : "InsideEVs ",
-            "id" : null
-         },
-         "title" : "TeslaCam Catches Crazy Car Hauler Crash, Hit-And-Run, And Much More - InsideEVs ",
-         "publishedAt" : "2020-09-20T19:44:13Z",
-         "author" : "Steven Loveday",
-         "content" : "This is yet another episode from YouTube channel Wham Baam Teslacam that's packed with entertaining TeslaCam and Sentry Mode footage. We're kind of surprised that videos like this have become so popu… [+1407 chars]",
-         "description" : "Looking for some short, entertaining videos to start your day? There's nothing quite like TeslaCam stories to satisfy the craving.",
-         "urlToImage" : "https://cdn.motor1.com/images/mgl/Y0ley/s1/car-carrier-crash.jpg"
-      },
-      {
-         "content" : "A Spirit Airlines flight attendant has threatened to call police on a passenger who was wearing a neck gaiter as a face covering, claiming it was 'illegal' because it did not have two layers of cloth… [+3028 chars]",
-         "description" : "The incident, which occurred during a flight on the budget carrier sometime last week, was recorded by the passenger and posted to social media.",
-         "urlToImage" : "https://i.dailymail.co.uk/1s/2020/09/20/20/33405068-0-image-a-6_1600629770260.jpg",
-         "source" : {
-            "name" : "Daily Mail",
-            "id" : null
-         },
-         "title" : "Spirit Airlines flight attendant and passenger clash over neck gaiter - Daily Mail",
-         "url" : "https://www.dailymail.co.uk/news/article-8753069/Spirit-Airlines-flight-attendant-passenger-clash-neck-gaiter.html",
-         "publishedAt" : "2020-09-20T19:27:16Z",
-         "author" : "By Andrew Court For Dailymail.com"
-      },
-      {
-         "urlToImage" : "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-09%2F28952e10-fb67-11ea-befb-79e1462ebfcc&client=amp-blogside-v2&signature=db36ffe77439f8c400f09a5584064bbc1abfed13",
-         "description" : "Homeland Security has issued an emergency alert for a Windows security flaw, Zerologon, that allows attackers to compromise entire networks.",
-         "content" : "The security hole isn’t difficult to use. It takes “about three seconds in practice,” according to Secura.\r\nAgencies have to install the patch no later than September 21st.\r\nWhile the alert is clearl… [+485 chars]",
-         "publishedAt" : "2020-09-20T18:35:05Z",
-         "author" : "",
-         "title" : "Homeland Security warns of a 'critical' security flaw in Windows servers - Engadget",
-         "source" : {
-            "id" : "engadget",
-            "name" : "Engadget"
-         },
-         "url" : "https://www.engadget.com/homeland-security-warning-zerologon-windows-server-flaw-175800739.html"
-      },
-      {
-         "url" : "https://www.foxnews.com/us/nyc-subway-train-derailment-manhattan-a-train-new-york-city-nypd-suspect",
-         "title" : "NYC subway train derails after striking 'debris' on tracks, suspect identified by police - Fox News",
+         "title" : "Chicago postal workers threaten to stop delivering mail after multiple employees shot on the job - Fox News",
+         "author" : "Bradford Betz",
          "source" : {
             "id" : "fox-news",
             "name" : "Fox News"
          },
-         "publishedAt" : "2020-09-20T16:48:53Z",
-         "author" : "Travis Fedschun",
-         "content" : "A subway train in New York City  derailed after hitting debris that was thrown on the tracks, leaving three people with minor injuries, according to officials.\r\nNew York City Transit Authority Interi… [+2862 chars]",
-         "urlToImage" : "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/subwayderailment_1.jpg",
-         "description" : "A subway train in New York City jumped the tracks and derailed after hitting debris that was thrown on the tracks, leaving three people with minor injuries, according to officials."
+         "description" : "United States Postal workers who deliver mail in some of Chicago’s more violent neighborhoods are threatening to halt their services after a mail carrier was shot in the city’s South Side earlier this month.",
+         "publishedAt" : "2020-09-20T22:38:19Z",
+         "urlToImage" : "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/AP20261732558740-1.jpg",
+         "url" : "https://www.foxnews.com/us/chicago-postal-workers-threaten-to-stop-delivering-mail-after-multiple-employees-shot-on-the-job",
+         "content" : "United States Postal workers who deliver mail in some of Chicago’s more violent neighborhoods are threatening to halt their services after a mail carrier was shot in the city’s South Side earlier thi… [+1596 chars]"
       },
       {
-         "author" : null,
-         "publishedAt" : "2020-09-20T16:41:00Z",
-         "url" : "https://news.google.com/__i/rss/rd/articles/CBMiQmh0dHBzOi8vd3d3Lm1pYW1paGVyYWxkLmNvbS9uZXdzL2Nvcm9uYXZpcnVzL2FydGljbGUyNDU4NzM0MjUuaHRtbNIBQmh0dHBzOi8vYW1wLm1pYW1paGVyYWxkLmNvbS9uZXdzL2Nvcm9uYXZpcnVzL2FydGljbGUyNDU4NzM0MjUuaHRtbA?oc=5",
+         "urlToImage" : "https://s.marketwatch.com/public/resources/images/MW-IO833_Bear_p_ZG_20200919153725.jpg",
+         "url" : "https://www.marketwatch.com/story/this-chart-signal-says-stop-buying-megacap-technology-stocks-2020-09-20",
+         "content" : "The recent pullbacks in megacapitalization technology stocks have now gone far enough and lasted long enough that they have triggered chart signals warning investors that at the very least, dont buy … [+4044 chars]",
+         "title" : "This chart signal says stop buying megacap technology stocks - MarketWatch",
+         "author" : "Tomi Kilgore",
          "source" : {
-            "id" : "google-news",
-            "name" : "Google News"
+            "id" : null,
+            "name" : "MarketWatch"
          },
-         "title" : "Florida reports 2,521 new COVID-19 cases, Miami-Dade, Palm Beach, Monroe report 0 deaths - Miami Herald",
-         "urlToImage" : null,
-         "description" : null,
-         "content" : null
+         "description" : "Fifty-day moving average is falling for Microsoft, Amazon and Google parent Alphabet but still rising slightly for Apple and the Nasdaq-100 Index",
+         "publishedAt" : "2020-09-20T22:13:00Z"
       },
       {
-         "urlToImage" : "https://www.nejm.org/na101/home/literatum/publisher/mms/journals/content/nejm/0/nejm.ahead-of-print/nejmoa2022485/20200916/images/img_small/nejmoa2022485_f1.jpeg",
-         "description" : "Original Article from The New England Journal of Medicine — Survival with Olaparib in Metastatic Castration-Resistant Prostate Cancer",
-         "content" : "From the Robert H. Lurie Comprehensive Cancer Center, Northwestern University Feinberg School of Medicine, Chicago (M.H.); Vall dHebron Institute of Oncology and Vall dHebron University Hospital, Bar… [+1722 chars]",
-         "publishedAt" : "2020-09-20T16:30:11Z",
-         "author" : null,
-         "url" : "https://www.nejm.org/doi/full/10.1056/NEJMoa2022485",
          "source" : {
-            "name" : "nejm.org",
+            "name" : "Electrek",
             "id" : null
          },
-         "title" : "Survival with Olaparib in Metastatic Castration-Resistant Prostate Cancer - nejm.org"
+         "description" : "Tesla is going to bring a new Roadster to the famous Nürburgring racetrack next year, according to CEO Elon Musk, as the production timeline remains unclear. After Porsche brought its brand new Taycan electric car at the Nürburgring racetrack to break a recor…",
+         "publishedAt" : "2020-09-20T21:52:00Z",
+         "title" : "Tesla to bring new Roadster to Nürburgring racetrack next year as production remains unclear - Electrek",
+         "author" : null,
+         "content" : "Tesla is going to bring a new Roadster to the famous Nürburgring racetrack next year, according to CEO Elon Musk, as the production timeline remains unclear.\r\nAfter Porsche brought its brand new Tayc… [+2533 chars]",
+         "urlToImage" : "https://electrek.co/wp-content/uploads/sites/3/2020/09/Tesla-Roadster-prototype-e1600637860743.jpg?quality=82&strip=all",
+         "url" : "https://electrek.co/2020/09/20/tesla-roadster-nurburgring-racetrack-next-year-production-unclear/"
       },
       {
-         "title" : "Nissan 400Z Rendered With 370Z's Boomerang Headlight Design - autoevolution",
+         "content" : "Drivers of certain car models seem to be more prone to speeding violations. \r\nThat's according to a recent study by the insurance comparison platform Insurify. The company examined more than 2 millio… [+1391 chars]",
+         "urlToImage" : "https://www.gannett-cdn.com/presto/2018/11/30/USAT/037d045d-3139-4e3a-98ad-8de860c9fd1c-18MY_WRX-OpenRoad2.jpg?crop=3599,2015,x0,y0&width=3200&height=1680&fit=bounds",
+         "url" : "https://www.usatoday.com/story/money/cars/2020/09/20/subaru-wrx-speeding-tickets-insurify-study/5846520002/",
+         "source" : {
+            "id" : "usa-today",
+            "name" : "USA Today"
+         },
+         "description" : "Dodge had the most vehicles on Insurify's top 10 list of vehicles prone to speeding tickets, with four: The Dart, Challenger, RAM 2500 and Charger.",
+         "publishedAt" : "2020-09-20T21:48:03Z",
+         "author" : "Dalvin Brown",
+         "title" : "Life in the fast lane: Subaru WRX owners have the most speeding tickets in the last year, Insurify study says. - USA TODAY"
+      },
+      {
+         "url" : "https://www.cnn.com/2020/09/20/business/robert-w-gore-gore-tex-obit/index.html",
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200920164937-robert-w-gore-file-super-tease.jpg",
+         "content" : "(CNN)Robert W. Gore, inventor of the technology that spawned the waterproof Gore-Tex fabric, died Thursday, according to the family company, W. L. Gore &amp; Associates. \r\nGore, commonly known as \"Bo… [+2640 chars]",
+         "author" : "Amir Vera, CNN",
+         "title" : "Robert Gore, inventor of waterproof outerwear Gore-Tex, dies at 83 - CNN",
+         "publishedAt" : "2020-09-20T21:48:00Z",
+         "source" : {
+            "name" : "CNN",
+            "id" : "cnn"
+         },
+         "description" : "Robert W. Gore invented the technology that spawned the waterproof Gore-Tex fabric and revolutionized outdoor outerwear."
+      },
+      {
+         "content" : "Delta Air Lines is the only one of the big three US airlines to not fly to Hong Kong. While United and American both operate multiple daily flights, Delta pulled out of the market in 2018. Here’s why… [+4280 chars]",
+         "urlToImage" : "https://simpleflying.com/wp-content/uploads/2020/05/GettyImages-1184520442.jpg",
+         "url" : "https://simpleflying.com/why-doesnt-delta-fly-to-hong-kong/",
+         "source" : {
+            "name" : "Simple Flying",
+            "id" : null
+         },
+         "description" : "Delta Air Lines is the only one of the big three US airlines to not fly to Hong…",
+         "publishedAt" : "2020-09-20T21:34:34Z",
+         "title" : "Why Doesn’t Delta Fly To Hong Kong? - Simple Flying",
+         "author" : ""
+      },
+      {
+         "title" : "Market bull John Stoltzfus: U.S. is best place to invest, cites less 'froth' - CNBC",
+         "author" : "Stephanie Landsman",
+         "description" : "Oppenheimer Asset Management’s John Stoltzfus sees opportunities among beaten down mega cap names.",
+         "source" : {
+            "id" : null,
+            "name" : "CNBC"
+         },
+         "publishedAt" : "2020-09-20T21:00:00Z",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106055518-1596661426229-john.jpg?v=1600458647",
+         "url" : "https://www.cnbc.com/2020/09/20/us-is-best-place-to-invest-due-to-less-froth-john-stoltzfus-.html",
+         "content" : "Despite the market's wild swings, Wall Street bull John Stoltzfus is encouraged by what he's seeing in the markets  and economy.\r\nStoltzfus is putting money on it: He's overweight U.S. stocks.\r\n\"The … [+2084 chars]"
+      },
+      {
+         "content" : "We found multiple videos released about half a day ago which all claim the truck was going for a 3,000 horsepower dyno pull. The \"event\" seems to have taken place in Ogden, Utah.Apparently, the truck… [+1358 chars]",
+         "urlToImage" : "https://s1.cdn.autoevolution.com/images/news/3000-hp-cummins-diesel-truck-exploses-during-dyno-test-148966-7.jpg",
+         "url" : "https://www.autoevolution.com/news/3000-hp-cummins-diesel-truck-exploses-during-dyno-test-148966.html",
+         "description" : "What's the most dramatic video of all time featuring a diesel truck? This, probably this. It shows the motor of a custom Cummins rig blowing up like a land mine. Fortunately, nobody died.",
          "source" : {
             "id" : null,
             "name" : "autoevolution"
          },
-         "url" : "https://www.autoevolution.com/news/nissan-400z-rendered-with-370z-s-boomerang-headlight-design-148959.html",
-         "publishedAt" : "2020-09-20T16:14:00Z",
+         "publishedAt" : "2020-09-20T20:15:00Z",
          "author" : "Mihnea Radu",
-         "content" : "You see, everybody says retro lines, which the Z concept has, are cool. However, when it's time to buy cars, money seems to flow towards the aggressive, modern sports models. For example, the MINI ha… [+1347 chars]",
-         "urlToImage" : "https://s1.cdn.autoevolution.com/images/news/nissan-400z-rendered-with-370z-s-boomerang-headlight-design-148959-7.jpg",
-         "description" : "Nissan recently unveiled the Z Proto concept, a preview for the 400Z sports car that could potentially arrive for the 2023 model year. The retro design seems to be loved by everybody, but we're not sure it's the right move."
+         "title" : "3000 HP Cummins Diesel Truck Exploses During Dyno Test - autoevolution"
       },
       {
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200920112639-pine-sol-stock-super-tease.jpg",
+         "url" : "https://www.cnn.com/2020/09/20/health/pine-sol-covid-19-surfaces-kills-coronavirus-trnd/index.html",
+         "content" : "(CNN)Pine-Sol's original cleaner has been approved by the US Environmental Protection Agency (EPA) as a product that can kill the coronavirus on frequently used surfaces.\r\nThe product was added to th… [+2138 chars]",
+         "title" : "Pine-Sol cleaner has been approved to kill coronavirus on hard surfaces - CNN",
+         "author" : "Alaa Elassar, CNN",
+         "source" : {
+            "name" : "CNN",
+            "id" : "cnn"
+         },
+         "description" : "Pine-Sol's original cleaner has been approved by the US Environmental Protection Agency (EPA) as a product that can kill the coronavirus on frequently used surfaces.",
+         "publishedAt" : "2020-09-20T19:48:00Z"
+      },
+      {
+         "description" : "Looking for some short, entertaining videos to start your day? There's nothing quite like TeslaCam stories to satisfy the craving.",
+         "source" : {
+            "id" : null,
+            "name" : "InsideEVs "
+         },
+         "publishedAt" : "2020-09-20T19:44:13Z",
+         "author" : "Steven Loveday",
+         "title" : "TeslaCam Catches Crazy Car Hauler Crash, Hit-And-Run, And Much More - InsideEVs ",
+         "content" : "This is yet another episode from YouTube channel Wham Baam Teslacam that's packed with entertaining TeslaCam and Sentry Mode footage. We're kind of surprised that videos like this have become so popu… [+1407 chars]",
+         "urlToImage" : "https://cdn.motor1.com/images/mgl/Y0ley/s1/car-carrier-crash.jpg",
+         "url" : "https://insideevs.com/news/444812/video-teslacam-semi-car-hauler-crash-hit-run/"
+      },
+      {
+         "content" : "A Spirit Airlines flight attendant has threatened to call police on a passenger who was wearing a neck gaiter as a face covering, claiming it was 'illegal' because it did not have two layers of cloth… [+3028 chars]",
+         "urlToImage" : "https://i.dailymail.co.uk/1s/2020/09/20/20/33405068-0-image-a-6_1600629770260.jpg",
+         "url" : "https://www.dailymail.co.uk/news/article-8753069/Spirit-Airlines-flight-attendant-passenger-clash-neck-gaiter.html",
+         "source" : {
+            "name" : "Daily Mail",
+            "id" : null
+         },
+         "description" : "The incident, which occurred during a flight on the budget carrier sometime last week, was recorded by the passenger and posted to social media.",
+         "publishedAt" : "2020-09-20T19:27:16Z",
+         "title" : "Spirit Airlines flight attendant and passenger clash over neck gaiter - Daily Mail",
+         "author" : "By Andrew Court For Dailymail.com"
+      },
+      {
+         "urlToImage" : "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-09%2F28952e10-fb67-11ea-befb-79e1462ebfcc&client=amp-blogside-v2&signature=db36ffe77439f8c400f09a5584064bbc1abfed13",
+         "url" : "https://www.engadget.com/homeland-security-warning-zerologon-windows-server-flaw-175800739.html",
+         "content" : "The security hole isn’t difficult to use. It takes “about three seconds in practice,” according to Secura.\r\nAgencies have to install the patch no later than September 21st.\r\nWhile the alert is clearl… [+485 chars]",
+         "author" : "",
+         "title" : "Homeland Security warns of a 'critical' security flaw in Windows servers - Engadget",
+         "source" : {
+            "name" : "Engadget",
+            "id" : "engadget"
+         },
+         "description" : "Homeland Security has issued an emergency alert for a Windows security flaw, Zerologon, that allows attackers to compromise entire networks.",
+         "publishedAt" : "2020-09-20T18:35:05Z"
+      },
+      {
+         "description" : "A subway train in New York City jumped the tracks and derailed after hitting debris that was thrown on the tracks, leaving three people with minor injuries, according to officials.",
+         "source" : {
+            "name" : "Fox News",
+            "id" : "fox-news"
+         },
+         "publishedAt" : "2020-09-20T16:48:53Z",
+         "title" : "NYC subway train derails after striking 'debris' on tracks, suspect identified by police - Fox News",
+         "author" : "Travis Fedschun",
+         "content" : "A subway train in New York City  derailed after hitting debris that was thrown on the tracks, leaving three people with minor injuries, according to officials.\r\nNew York City Transit Authority Interi… [+2862 chars]",
+         "urlToImage" : "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/subwayderailment_1.jpg",
+         "url" : "https://www.foxnews.com/us/nyc-subway-train-derailment-manhattan-a-train-new-york-city-nypd-suspect"
+      },
+      {
+         "source" : {
+            "id" : "google-news",
+            "name" : "Google News"
+         },
+         "description" : null,
+         "publishedAt" : "2020-09-20T16:41:00Z",
+         "author" : null,
+         "title" : "Florida reports 2,521 new COVID-19 cases, Miami-Dade, Palm Beach, Monroe report 0 deaths - Miami Herald",
+         "content" : null,
+         "urlToImage" : null,
+         "url" : "https://news.google.com/__i/rss/rd/articles/CBMiQmh0dHBzOi8vd3d3Lm1pYW1paGVyYWxkLmNvbS9uZXdzL2Nvcm9uYXZpcnVzL2FydGljbGUyNDU4NzM0MjUuaHRtbNIBQmh0dHBzOi8vYW1wLm1pYW1paGVyYWxkLmNvbS9uZXdzL2Nvcm9uYXZpcnVzL2FydGljbGUyNDU4NzM0MjUuaHRtbA?oc=5"
+      },
+      {
+         "url" : "https://www.nejm.org/doi/full/10.1056/NEJMoa2022485",
+         "urlToImage" : "https://www.nejm.org/na101/home/literatum/publisher/mms/journals/content/nejm/0/nejm.ahead-of-print/nejmoa2022485/20200916/images/img_small/nejmoa2022485_f1.jpeg",
+         "content" : "From the Robert H. Lurie Comprehensive Cancer Center, Northwestern University Feinberg School of Medicine, Chicago (M.H.); Vall dHebron Institute of Oncology and Vall dHebron University Hospital, Bar… [+1722 chars]",
+         "title" : "Survival with Olaparib in Metastatic Castration-Resistant Prostate Cancer - nejm.org",
+         "author" : null,
+         "publishedAt" : "2020-09-20T16:30:11Z",
+         "description" : "Original Article from The New England Journal of Medicine — Survival with Olaparib in Metastatic Castration-Resistant Prostate Cancer",
+         "source" : {
+            "id" : null,
+            "name" : "nejm.org"
+         }
+      },
+      {
+         "content" : "You see, everybody says retro lines, which the Z concept has, are cool. However, when it's time to buy cars, money seems to flow towards the aggressive, modern sports models. For example, the MINI ha… [+1347 chars]",
+         "urlToImage" : "https://s1.cdn.autoevolution.com/images/news/nissan-400z-rendered-with-370z-s-boomerang-headlight-design-148959-7.jpg",
+         "url" : "https://www.autoevolution.com/news/nissan-400z-rendered-with-370z-s-boomerang-headlight-design-148959.html",
+         "description" : "Nissan recently unveiled the Z Proto concept, a preview for the 400Z sports car that could potentially arrive for the 2023 model year. The retro design seems to be loved by everybody, but we're not sure it's the right move.",
+         "source" : {
+            "name" : "autoevolution",
+            "id" : null
+         },
+         "publishedAt" : "2020-09-20T16:14:00Z",
+         "author" : "Mihnea Radu",
+         "title" : "Nissan 400Z Rendered With 370Z's Boomerang Headlight Design - autoevolution"
+      },
+      {
+         "url" : "https://www.eatthis.com/cracker-barrel-changes/",
+         "urlToImage" : "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB1588Pa.img?h=315&w=600&m=6&q=60&o=t&l=f&f=jpg",
+         "content" : "Warm-up on a cool fall day with Chicken Pot Pie that is available every single day, the restaurant recently announced. \"The Chicken Pot Pie, which features slow-simmered chicken, potatoes, peas, carr… [+796 chars]",
          "title" : "5 Major Changes You'll See at Cracker Barrel - msnNOW",
+         "author" : null,
+         "publishedAt" : "2020-09-20T15:55:00Z",
          "source" : {
             "name" : "Eatthis.com",
             "id" : null
          },
-         "url" : "https://www.eatthis.com/cracker-barrel-changes/",
-         "publishedAt" : "2020-09-20T15:55:00Z",
-         "author" : null,
-         "content" : "Warm-up on a cool fall day with Chicken Pot Pie that is available every single day, the restaurant recently announced. \"The Chicken Pot Pie, which features slow-simmered chicken, potatoes, peas, carr… [+796 chars]",
-         "description" : "Say hello to some new menu items but goodbye to others!",
-         "urlToImage" : "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB1588Pa.img?h=315&w=600&m=6&q=60&o=t&l=f&f=jpg"
+         "description" : "Say hello to some new menu items but goodbye to others!"
       },
       {
-         "content" : "Although unconfirmed, the next Z is understood to ride on a version of the current car's long-serving chassis.\r\nAs a result, even though the Proto Z is 5 inches longer than today's car, it's possible… [+110 chars]",
-         "urlToImage" : "https://cnet1.cbsistatic.com/img/MVgNFTmAzduTMgtVWQ3WNAMBvC4=/1200x630/2020/09/14/d5b534b5-330c-4194-8446-2a925bf8b327/nissan-z-proto-400z-ogi.jpg",
-         "description" : "After many years of rumors, the Nissan Z Proto proves that a successor to today's Z-Car is coming.This rear-wheel-drive sports car is one for driving enthusiasts, powered by a twin-turbo V6 stirred by a six-speed manual transmission.",
          "url" : "https://www.cnet.com/roadshow/pictures/nissan-z-proto-400z-370z/",
+         "urlToImage" : "https://cnet1.cbsistatic.com/img/MVgNFTmAzduTMgtVWQ3WNAMBvC4=/1200x630/2020/09/14/d5b534b5-330c-4194-8446-2a925bf8b327/nissan-z-proto-400z-ogi.jpg",
+         "content" : "Although unconfirmed, the next Z is understood to ride on a version of the current car's long-serving chassis.\r\nAs a result, even though the Proto Z is 5 inches longer than today's car, it's possible… [+110 chars]",
+         "author" : "Chris Paukert",
+         "title" : "Nissan Z Proto is a four-wheeled love letter to driving purists - Roadshow - CNET",
+         "publishedAt" : "2020-09-20T15:43:31Z",
+         "description" : "After many years of rumors, the Nissan Z Proto proves that a successor to today's Z-Car is coming.This rear-wheel-drive sports car is one for driving enthusiasts, powered by a twin-turbo V6 stirred by a six-speed manual transmission.",
          "source" : {
             "id" : null,
             "name" : "CNET"
-         },
-         "title" : "Nissan Z Proto is a four-wheeled love letter to driving purists - Roadshow - CNET",
-         "publishedAt" : "2020-09-20T15:43:31Z",
-         "author" : "Chris Paukert"
+         }
       },
       {
-         "author" : "Paul R. La Monica, CNN Business",
-         "publishedAt" : "2020-09-20T15:06:00Z",
-         "url" : "https://www.cnn.com/2020/09/20/investing/ipos-spacs-stocks/index.html",
-         "source" : {
-            "id" : "cnn",
-            "name" : "CNN"
-         },
          "title" : "More new stocks, please! Companies are rushing to IPO before the election - CNN",
-         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200427124425-airbnb-0420-restricted-super-tease.jpg",
+         "author" : "Paul R. La Monica, CNN Business",
+         "source" : {
+            "name" : "CNN",
+            "id" : "cnn"
+         },
          "description" : "With the presidential election looming and uncertainty growing about what will happen to the stock market and economy after that, private companies are racing to make their debuts on Wall Street.",
+         "publishedAt" : "2020-09-20T15:06:00Z",
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200427124425-airbnb-0420-restricted-super-tease.jpg",
+         "url" : "https://www.cnn.com/2020/09/20/investing/ipos-spacs-stocks/index.html",
          "content" : "New York (CNN Business)With the presidential election looming and uncertainty growing about what will happen to the stock market and economy after that, private companies are racing to make their deb… [+5690 chars]"
       }
    ],
+   "status" : "ok",
    "totalResults" : 70
 }
