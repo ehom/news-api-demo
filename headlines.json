@@ -1,266 +1,266 @@
 {
+   "totalResults" : 70,
    "status" : "ok",
    "articles" : [
       {
-         "urlToImage" : "https://s.wsj.net/public/resources/MWimages/MW-GP644_MicroS_ZG_20180906154215.jpg",
+         "url" : "https://www.marketwatch.com/story/dow-skids-nearly-500-points-at-mondays-open-as-investors-reassess-risk-amid-rising-coronavirus-cases-2020-09-21",
+         "publishedAt" : "2020-09-21T14:08:00Z",
          "description" : "",
-         "source" : {
-            "name" : "MarketWatch",
-            "id" : null
-         },
+         "urlToImage" : "https://s.wsj.net/public/resources/MWimages/MW-GP644_MicroS_ZG_20180906154215.jpg",
+         "author" : "Mark DeCambre",
          "content" : "U.S. stocks opened sharply lower on Monday as rising cases in Europe and a number of geopolitical risks, ignited selling of assets considered risky on Wall Street. The Dow Jones Industrial Average \r\n… [+1036 chars]",
          "title" : "Dow skids over 800 points Monday as investors reassess risk amid rising coronavirus cases - MarketWatch",
-         "url" : "https://www.marketwatch.com/story/dow-skids-nearly-500-points-at-mondays-open-as-investors-reassess-risk-amid-rising-coronavirus-cases-2020-09-21",
-         "author" : "Mark DeCambre",
-         "publishedAt" : "2020-09-21T14:08:00Z"
+         "source" : {
+            "id" : null,
+            "name" : "MarketWatch"
+         }
       },
       {
          "title" : "Home equity surges as demand soars and mortgage rates hover near lows - CNBC",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106561637-1591103099425gettyimages-1211994561.jpeg?v=1591103175",
-         "description" : "After a brief stall in home sales at the start of the pandemic, homebuyers came rushing back in — so fast  that prices never even took a hit. In fact, the gains in prices accelerated quickly, causing home equity to soar even more.",
          "source" : {
-            "name" : "CNBC",
-            "id" : null
+            "id" : null,
+            "name" : "CNBC"
          },
-         "content" : "After a brief stall in home sales at the start of the coronavirus pandemic, homebuyers came rushing back in so fast that prices never even took a hit. In fact, the gains in prices accelerated quickly… [+2491 chars]",
+         "description" : "After a brief stall in home sales at the start of the pandemic, homebuyers came rushing back in — so fast  that prices never even took a hit. In fact, the gains in prices accelerated quickly, causing home equity to soar even more.",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106561637-1591103099425gettyimages-1211994561.jpeg?v=1591103175",
          "publishedAt" : "2020-09-21T14:08:00Z",
          "url" : "https://www.cnbc.com/2020/09/21/home-equity-surges-as-demand-soars-and-mortgage-rates-hover-near-lows.html",
+         "content" : "After a brief stall in home sales at the start of the coronavirus pandemic, homebuyers came rushing back in so fast that prices never even took a hit. In fact, the gains in prices accelerated quickly… [+2491 chars]",
          "author" : "Diana Olick"
       },
       {
+         "content" : "(Bloomberg) -- Shares in Snowflake Inc., which have doubled since their initial public offering last week, are at risk of a violent selloff, according to Summit Insights, which started coverage of th… [+1486 chars]",
+         "author" : "Kit Rees",
+         "publishedAt" : "2020-09-21T14:03:00Z",
          "description" : "(Bloomberg) -- Shares in Snowflake Inc., which have doubled since their initial public offering last week, are “at risk of a violent selloff,” according to Summit Insights, which started coverage of the software firm with a sell rating.Analyst Srini Nandury s…",
          "urlToImage" : "https://s.yimg.com/uu/api/res/1.2/YPQz9vqlmbzqNsmUuUyJ_A--~B/aD0xMzM0O3c9MjAwMDtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bloomberg_markets_842/5e27caaaad20e1328881b42ae3ec5424",
-         "content" : "(Bloomberg) -- Shares in Snowflake Inc., which have doubled since their initial public offering last week, are at risk of a violent selloff, according to Summit Insights, which started coverage of th… [+1486 chars]",
+         "url" : "https://finance.yahoo.com/news/snowflake-may-see-violent-sell-105639721.html",
          "source" : {
             "id" : null,
             "name" : "Yahoo Entertainment"
          },
-         "title" : "Snowflake Drops as Summit Says ‘Violent Selloff’ Possible - Yahoo Finance",
-         "author" : "Kit Rees",
-         "url" : "https://finance.yahoo.com/news/snowflake-may-see-violent-sell-105639721.html",
-         "publishedAt" : "2020-09-21T14:03:00Z"
+         "title" : "Snowflake Drops as Summit Says ‘Violent Selloff’ Possible - Yahoo Finance"
       },
       {
          "publishedAt" : "2020-09-21T13:26:00Z",
-         "author" : "Matt Egan, CNN Business",
-         "url" : "https://www.cnn.com/2020/09/21/business/ge-coal-power/index.html",
-         "title" : "GE is getting out of the coal power business - CNN",
-         "content" : null,
-         "source" : {
-            "name" : "CNN",
-            "id" : "cnn"
-         },
+         "description" : "General Electric is one of the world's largest makers of coal-fired power plants. But now it plans to say goodbye to coal.",
          "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200921091126-general-electric-building-file-super-tease.jpg",
-         "description" : "General Electric is one of the world's largest makers of coal-fired power plants. But now it plans to say goodbye to coal."
+         "url" : "https://www.cnn.com/2020/09/21/business/ge-coal-power/index.html",
+         "content" : null,
+         "author" : "Matt Egan, CNN Business",
+         "title" : "GE is getting out of the coal power business - CNN",
+         "source" : {
+            "id" : "cnn",
+            "name" : "CNN"
+         }
       },
       {
-         "author" : "Billy Duberstein",
-         "url" : "https://www.fool.com/investing/2020/09/21/carnival-cruises-sets-sail-in-september-but-is-the/",
-         "publishedAt" : "2020-09-21T13:00:00Z",
-         "description" : "Carnival's Costa and AIDA brand cruises set sail, but the company is also raising more money, diluting shareholders. Does the good outweigh the bad?",
-         "urlToImage" : "https://g.foolcdn.com/editorial/images/592300/gettyimages-509362258-1.jpg",
-         "content" : "The cruise industry is one of the most controversial \"recovery sector\" plays in the market. Though cruising has been an increasingly popular activity over the past two decades, it has also been one o… [+4388 chars]",
          "source" : {
             "id" : null,
             "name" : "Motley Fool"
          },
-         "title" : "Carnival Cruises Sets Sail in September, but Is the Stock a Buy? - Motley Fool"
+         "title" : "Carnival Cruises Sets Sail in September, but Is the Stock a Buy? - Motley Fool",
+         "content" : "The cruise industry is one of the most controversial \"recovery sector\" plays in the market. Though cruising has been an increasingly popular activity over the past two decades, it has also been one o… [+4388 chars]",
+         "author" : "Billy Duberstein",
+         "description" : "Carnival's Costa and AIDA brand cruises set sail, but the company is also raising more money, diluting shareholders. Does the good outweigh the bad?",
+         "urlToImage" : "https://g.foolcdn.com/editorial/images/592300/gettyimages-509362258-1.jpg",
+         "publishedAt" : "2020-09-21T13:00:00Z",
+         "url" : "https://www.fool.com/investing/2020/09/21/carnival-cruises-sets-sail-in-september-but-is-the/"
       },
       {
-         "publishedAt" : "2020-09-21T13:00:00Z",
-         "author" : "Julia Alexander",
-         "url" : "https://www.theverge.com/2020/9/21/21448813/peacock-streaming-roku-nbc-universal-tv-movies-sports-news",
          "title" : "NBCUniversal’s Peacock streaming service is now available on Roku - The Verge",
-         "content" : "After months of negotiations and a public showdown\r\nIllustration by Alex Castro / The Verge\r\nAfter months of negotiations leading to a public showdown last week between NBCUniversal and Roku, NBCUniv… [+2445 chars]",
          "source" : {
             "id" : "the-verge",
             "name" : "The Verge"
          },
+         "url" : "https://www.theverge.com/2020/9/21/21448813/peacock-streaming-roku-nbc-universal-tv-movies-sports-news",
          "description" : "Following a public showdown on Friday between NBCUniversal and Roku, the former company’s streaming service, Peacock, is now available to stream on Roku devices.",
-         "urlToImage" : "https://cdn.vox-cdn.com/thumbor/a0Gr8V-qCceyF-Cb6SW-TDcGpwU=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/20083298/acastro_200714_1777_peacock_0001.jpg"
+         "urlToImage" : "https://cdn.vox-cdn.com/thumbor/a0Gr8V-qCceyF-Cb6SW-TDcGpwU=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/20083298/acastro_200714_1777_peacock_0001.jpg",
+         "publishedAt" : "2020-09-21T13:00:00Z",
+         "author" : "Julia Alexander",
+         "content" : "After months of negotiations and a public showdown\r\nIllustration by Alex Castro / The Verge\r\nAfter months of negotiations leading to a public showdown last week between NBCUniversal and Roku, NBCUniv… [+2445 chars]"
       },
       {
-         "url" : "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9VThIZElQQU81VEHSAQA?oc=5",
-         "author" : null,
-         "publishedAt" : "2020-09-21T12:59:16Z",
-         "description" : null,
-         "urlToImage" : null,
          "source" : {
             "id" : "google-news",
             "name" : "Google News"
          },
+         "title" : "Market Coverage: Monday September 21 Yahoo Finance - Yahoo Finance",
+         "author" : null,
          "content" : null,
-         "title" : "Market Coverage: Monday September 21 Yahoo Finance - Yahoo Finance"
+         "url" : "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9VThIZElQQU81VEHSAQA?oc=5",
+         "publishedAt" : "2020-09-21T12:59:16Z",
+         "urlToImage" : null,
+         "description" : null
       },
       {
          "title" : "Jack Ma's Ant Group raises its funding target to $35 billion, likely making it the largest IPO ever | Markets - Business Insider",
-         "content" : "Thomson Reuters\r\n<ul><li>Jack Ma's Ant Group seeks to raise its funding target to $35 billion through its initial-public-offering, according to Bloomberg.</li><li>Ant, which is Alibaba's fintech arm … [+2174 chars]",
          "source" : {
             "name" : "Business Insider",
             "id" : "business-insider"
          },
-         "description" : "Jack Ma's Ant Group raises its funding target to $35 billion, likely making it the largest IPO ever",
-         "urlToImage" : "https://i.insider.com/5f6868a957b7da001ee12b51?format=jpeg",
          "publishedAt" : "2020-09-21T12:44:33Z",
-         "author" : "Shalini Nagarajan",
-         "url" : "https://www.businessinsider.com/ipo-jack-ma-ant-group-seeks-funding-target-35-billion-2020-9"
+         "urlToImage" : "https://i.insider.com/5f6868a957b7da001ee12b51?format=jpeg",
+         "description" : "Jack Ma's Ant Group raises its funding target to $35 billion, likely making it the largest IPO ever",
+         "url" : "https://www.businessinsider.com/ipo-jack-ma-ant-group-seeks-funding-target-35-billion-2020-9",
+         "content" : "Thomson Reuters\r\n<ul><li>Jack Ma's Ant Group seeks to raise its funding target to $35 billion through its initial-public-offering, according to Bloomberg.</li><li>Ant, which is Alibaba's fintech arm … [+2174 chars]",
+         "author" : "Shalini Nagarajan"
       },
       {
-         "url" : "https://www.cnn.com/2020/09/21/business/airbus-zero-emissions-plane/index.html",
+         "content" : null,
          "author" : "Hanna Ziady, CNN Business",
          "publishedAt" : "2020-09-21T12:38:00Z",
+         "description" : "Airbus has unveiled its plans for bringing the world's first zero-emission commercial aircraft into service by 2035.",
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200921064209-restricted-01-airbus-zero-emission-plane-super-tease.jpg",
+         "url" : "https://www.cnn.com/2020/09/21/business/airbus-zero-emissions-plane/index.html",
          "source" : {
             "id" : "cnn",
             "name" : "CNN"
          },
-         "content" : null,
-         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200921064209-restricted-01-airbus-zero-emission-plane-super-tease.jpg",
-         "description" : "Airbus has unveiled its plans for bringing the world's first zero-emission commercial aircraft into service by 2035.",
          "title" : "Airbus wants to build zero-emission planes by 2035. Here's how - CNN"
       },
       {
-         "description" : "Update: News is breaking that Trevor Milton, Nikola Corp founder and former Executive Chairman, was arrested by the DOJ and FIB at Sky Harbor Airport, in Phoenix, AZ, this morning. Nikola Corp. founder and Executive Chairman Trevor Milton is stepping down fro…",
-         "urlToImage" : "https://techcrunch.com/wp-content/uploads/2020/08/800px-Nikola_Motor_Company_logo.svg_.png?w=764",
-         "content" : "Update: News is breaking that Trevor Milton, Nikola Corp founder and former Executive Chairman, was arrested by the DOJ and FIB at Sky Harbor Airport, in Phoenix, AZ, this morning.\r\nNikola Corp. foun… [+1931 chars]",
          "source" : {
-            "id" : "techcrunch",
-            "name" : "TechCrunch"
+            "name" : "TechCrunch",
+            "id" : "techcrunch"
          },
          "title" : "Nikola’s chairman steps down, stock crashes following allegations of fraud - TechCrunch",
          "author" : "Matt Burns",
+         "content" : "Update: News is breaking that Trevor Milton, Nikola Corp founder and former Executive Chairman, was arrested by the DOJ and FIB at Sky Harbor Airport, in Phoenix, AZ, this morning.\r\nNikola Corp. foun… [+1931 chars]",
          "url" : "http://techcrunch.com/2020/09/21/nikolas-chairman-steps-down-stock-crashes-following-allegations-of-fraud/",
-         "publishedAt" : "2020-09-21T12:20:18Z"
+         "publishedAt" : "2020-09-21T12:20:18Z",
+         "description" : "Update: News is breaking that Trevor Milton, Nikola Corp founder and former Executive Chairman, was arrested by the DOJ and FIB at Sky Harbor Airport, in Phoenix, AZ, this morning. Nikola Corp. founder and Executive Chairman Trevor Milton is stepping down fro…",
+         "urlToImage" : "https://techcrunch.com/wp-content/uploads/2020/08/800px-Nikola_Motor_Company_logo.svg_.png?w=764"
       },
       {
-         "author" : "Yun Li",
-         "url" : "https://www.cnbc.com/2020/09/21/deutsche-bank-jpmorgan-lead-drop-in-financial-shares-amid-report-the-banks-moved-suspicious-funds.html",
-         "publishedAt" : "2020-09-21T12:15:00Z",
          "content" : "Financial stocks came under pressure on Monday amid a report that a number of global banks moved allegedly illicit funds over the past two decades despite warnings from U.S. officials.\r\nShares of Deu… [+2424 chars]",
+         "author" : "Yun Li",
+         "publishedAt" : "2020-09-21T12:15:00Z",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106605654-1594126475875gettyimages-615191922.jpeg?v=1594126526",
+         "description" : "The sell-off was triggered by reports that found a number of global banks moved allegedly illicit funds over the past two decades despite warnings from U.S. officials.",
+         "url" : "https://www.cnbc.com/2020/09/21/deutsche-bank-jpmorgan-lead-drop-in-financial-shares-amid-report-the-banks-moved-suspicious-funds.html",
          "source" : {
             "name" : "CNBC",
             "id" : null
          },
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106605654-1594126475875gettyimages-615191922.jpeg?v=1594126526",
-         "description" : "The sell-off was triggered by reports that found a number of global banks moved allegedly illicit funds over the past two decades despite warnings from U.S. officials.",
          "title" : "Deutsche Bank, JPMorgan lead drop in financial shares amid report the banks moved suspicious funds - CNBC"
       },
       {
-         "author" : "Matt Egan, CNN Business",
-         "url" : "https://www.cnn.com/2020/09/21/investing/real-estate-cadre-savings-account/index.html",
-         "publishedAt" : "2020-09-21T12:02:00Z",
-         "description" : "The pandemic delivered a serious scare to Ryan Williams and his technology real estate startup, Cadre.",
-         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200918153050-cadre-ceo-ryan-williams-file-restricted-super-tease.jpg",
-         "content" : null,
          "source" : {
             "id" : "cnn",
             "name" : "CNN"
          },
-         "title" : "Exclusive: Kushner-backed real estate startup is going on offense after hunkering down in March - CNN"
-      },
-      {
-         "url" : "https://www.benzinga.com/top-stories/20/09/17554548/stock-wars-ford-vs-general-motors-vs-tesla",
-         "author" : "Chris Katje",
-         "publishedAt" : "2020-09-21T12:00:13Z",
-         "urlToImage" : "https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/images/story/2012/db_mary_barra_2_0_1_0.jpg",
-         "description" : "The latest edition of Stock Wars takes a look at two massive, historic American automakers and the relative newcomer nipping at their ...",
-         "source" : {
-            "id" : null,
-            "name" : "Benzinga"
-         },
+         "title" : "Exclusive: Kushner-backed real estate startup is going on offense after hunkering down in March - CNN",
+         "author" : "Matt Egan, CNN Business",
          "content" : null,
-         "title" : "Stock Wars: Ford Vs. General Motors Vs. Tesla - Benzinga"
+         "url" : "https://www.cnn.com/2020/09/21/investing/real-estate-cadre-savings-account/index.html",
+         "description" : "The pandemic delivered a serious scare to Ryan Williams and his technology real estate startup, Cadre.",
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200918153050-cadre-ceo-ryan-williams-file-restricted-super-tease.jpg",
+         "publishedAt" : "2020-09-21T12:02:00Z"
       },
       {
-         "publishedAt" : "2020-09-21T12:00:00Z",
-         "url" : "https://www.al.com/news/2020/09/bed-bath-beyond-closing-200-stores-2-alabama-locations-among-63-first-to-close.html",
-         "author" : "Leada Gore | lgore@al.com",
-         "title" : "Bed Bath & Beyond closing 200 stores; 2 Alabama locations among 63 first to close - AL.com",
          "source" : {
-            "id" : null,
-            "name" : "AL.com"
-         },
-         "content" : "Two Alabama stores are among 63 Bed Bath &amp; Beyond locations closing as part of a wave of shutdowns that will eventually shutter up to 200 stores.\r\nUSA Today was the first to report the initial sh… [+900 chars]",
-         "description" : "Two Alabama stores are among those set to close.",
-         "urlToImage" : "https://www.al.com/resizer/nIHWD62dh7ayNOcrelKhGhENsIM=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/5TWT5GTSHFB7PB2Y5FRR5FTZPY.jpg"
-      },
-      {
-         "urlToImage" : "https://www.carscoops.com/wp-content/uploads/2020/09/2021-GMC-Yukon-AT4.jpg",
-         "description" : "The redesigned GMC Yukon is better than ever and it's available in a new AT4 trim.",
-         "source" : {
-            "name" : "CarScoops",
+            "name" : "Benzinga",
             "id" : null
          },
-         "content" : "The Denali name is nearly synonymous with the GMC Yukon as the luxurious trim was introduced in 1999 and now accounts for approximately 60% of Yukon sales.\r\nWhile the Denali returns for 2021, we rece… [+13891 chars]",
-         "title" : "Driven: 2021 GMC Yukon AT4 Combines Rugged Looks With A Comfortable Ride - CarScoops",
-         "url" : "https://www.carscoops.com/2020/09/driven-2021-gmc-yukon-at4-combines-rugged-looks-with-a-comfortable-ride/",
-         "author" : null,
-         "publishedAt" : "2020-09-21T12:00:00Z"
+         "title" : "Stock Wars: Ford Vs. General Motors Vs. Tesla - Benzinga",
+         "content" : null,
+         "author" : "Chris Katje",
+         "urlToImage" : "https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/images/story/2012/db_mary_barra_2_0_1_0.jpg",
+         "description" : "The latest edition of Stock Wars takes a look at two massive, historic American automakers and the relative newcomer nipping at their ...",
+         "publishedAt" : "2020-09-21T12:00:13Z",
+         "url" : "https://www.benzinga.com/top-stories/20/09/17554548/stock-wars-ford-vs-general-motors-vs-tesla"
       },
       {
-         "url" : "https://www.wsj.com/articles/sequencing-firm-illumina-to-pay-7-1-billion-for-liquid-biopsy-firm-grail-11600682402",
+         "title" : "Bed Bath & Beyond closing 200 stores; 2 Alabama locations among 63 first to close - AL.com",
+         "source" : {
+            "name" : "AL.com",
+            "id" : null
+         },
+         "url" : "https://www.al.com/news/2020/09/bed-bath-beyond-closing-200-stores-2-alabama-locations-among-63-first-to-close.html",
+         "description" : "Two Alabama stores are among those set to close.",
+         "urlToImage" : "https://www.al.com/resizer/nIHWD62dh7ayNOcrelKhGhENsIM=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/5TWT5GTSHFB7PB2Y5FRR5FTZPY.jpg",
+         "publishedAt" : "2020-09-21T12:00:00Z",
+         "author" : "Leada Gore | lgore@al.com",
+         "content" : "Two Alabama stores are among 63 Bed Bath &amp; Beyond locations closing as part of a wave of shutdowns that will eventually shutter up to 200 stores.\r\nUSA Today was the first to report the initial sh… [+900 chars]"
+      },
+      {
+         "url" : "https://www.carscoops.com/2020/09/driven-2021-gmc-yukon-at4-combines-rugged-looks-with-a-comfortable-ride/",
+         "publishedAt" : "2020-09-21T12:00:00Z",
+         "description" : "The redesigned GMC Yukon is better than ever and it's available in a new AT4 trim.",
+         "urlToImage" : "https://www.carscoops.com/wp-content/uploads/2020/09/2021-GMC-Yukon-AT4.jpg",
+         "author" : null,
+         "content" : "The Denali name is nearly synonymous with the GMC Yukon as the luxurious trim was introduced in 1999 and now accounts for approximately 60% of Yukon sales.\r\nWhile the Denali returns for 2021, we rece… [+13891 chars]",
+         "title" : "Driven: 2021 GMC Yukon AT4 Combines Rugged Looks With A Comfortable Ride - CarScoops",
+         "source" : {
+            "id" : null,
+            "name" : "CarScoops"
+         }
+      },
+      {
          "author" : "Jonathan D. Rockoff",
-         "publishedAt" : "2020-09-21T11:38:00Z",
+         "content" : "Illumina Inc., a leading maker of the machines that sequence genes, said Monday it will pay $7.1 billion in cash and stock for a developer of a long-sought blood test that promises to detect cancer e… [+247 chars]",
+         "url" : "https://www.wsj.com/articles/sequencing-firm-illumina-to-pay-7-1-billion-for-liquid-biopsy-firm-grail-11600682402",
          "description" : "Deal will push Illumina further into the clinical applications of its gene sequencers and related products and services",
          "urlToImage" : "https://images.wsj.net/im-234396/social",
+         "publishedAt" : "2020-09-21T11:38:00Z",
          "source" : {
-            "id" : "the-wall-street-journal",
-            "name" : "The Wall Street Journal"
+            "name" : "The Wall Street Journal",
+            "id" : "the-wall-street-journal"
          },
-         "content" : "Illumina Inc., a leading maker of the machines that sequence genes, said Monday it will pay $7.1 billion in cash and stock for a developer of a long-sought blood test that promises to detect cancer e… [+247 chars]",
          "title" : "Sequencing Firm Illumina to Pay $7.1 Billion for Liquid-Biopsy Firm Grail - The Wall Street Journal"
       },
       {
-         "url" : "https://wgntv.com/news/thyroid-medications-recalled-across-us-at-least-4-people-reported-problems/",
+         "source" : {
+            "id" : null,
+            "name" : "WGN TV Chicago"
+         },
+         "title" : "Thyroid medications recalled across US, at least 4 people reported problems - WGN-TV",
+         "content" : "WASHINGTON (NewsNation Now) Two types of thyroid medications are being voluntarily recalled by the manufacturer, according to the Food and Drug Administration. The NP Thyroid tablets made by Acella P… [+2134 chars]",
          "author" : "Michael Geheren and Nexstar Media Wire",
-         "publishedAt" : "2020-09-21T11:25:00Z",
          "description" : "Two types of thyroid medications are being voluntarily recalled by the manufacturer, according to the Food and Drug Administration. The NP Thyroid tablets made by Acella Pharmaceuticals, LLC have possibly led to at least four reports adverse effects.",
          "urlToImage" : "https://wgntv.com/wp-content/uploads/sites/5/2020/09/t3-1.jpg?w=1280",
-         "source" : {
-            "name" : "WGN TV Chicago",
-            "id" : null
-         },
-         "content" : "WASHINGTON (NewsNation Now) Two types of thyroid medications are being voluntarily recalled by the manufacturer, according to the Food and Drug Administration. The NP Thyroid tablets made by Acella P… [+2134 chars]",
-         "title" : "Thyroid medications recalled across US, at least 4 people reported problems - WGN-TV"
+         "publishedAt" : "2020-09-21T11:25:00Z",
+         "url" : "https://wgntv.com/news/thyroid-medications-recalled-across-us-at-least-4-people-reported-problems/"
       },
       {
+         "source" : {
+            "name" : "CoinDesk",
+            "id" : null
+         },
+         "title" : "Bitcoin Down as Stocks Fall Over European Coronavirus Fears - CoinDesk - CoinDesk",
+         "content" : null,
          "author" : "Omkar Godbole",
-         "url" : "https://www.coindesk.com/bitcoin-price-stocks-europe-coronavirus",
          "publishedAt" : "2020-09-21T11:12:41Z",
          "description" : "Bitcoin is dropping alongside stocks as soaring cases of COVID-19 threaten economic activity in Europe. The U.S. dollar is up, however.",
          "urlToImage" : "https://static.coindesk.com/wp-content/uploads/2020/09/btc-ch-1.png",
-         "content" : null,
-         "source" : {
-            "id" : null,
-            "name" : "CoinDesk"
-         },
-         "title" : "Bitcoin Down as Stocks Fall Over European Coronavirus Fears - CoinDesk - CoinDesk"
+         "url" : "https://www.coindesk.com/bitcoin-price-stocks-europe-coronavirus"
       },
       {
-         "url" : "https://finance.yahoo.com/news/musk-says-record-tesla-vehicle-110009942.html",
          "author" : "Reuters",
-         "publishedAt" : "2020-09-21T11:00:00Z",
-         "description" : "Tesla Inc has a chance to deliver a record number of vehicles in the third quarter, the U.S. electric carmaker's Chief Executive Officer Elon Musk said in an internal email, urging employees to work hard to achieve that goal.  The quarter-end rallying cry has…",
+         "content" : "SEOUL/BEIJING (Reuters) - Tesla Inc has a chance to deliver a record number of vehicles in the third quarter, the U.S. electric carmaker's Chief Executive Officer Elon Musk said in an internal email,… [+1281 chars]",
+         "url" : "https://finance.yahoo.com/news/musk-says-record-tesla-vehicle-110009942.html",
          "urlToImage" : "https://s.yimg.com/uu/api/res/1.2/bLkQNenUhWFlo5T6uCHdFw--~B/aD00OTg7dz04MDA7c209MTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en-US/reuters.com/da8d422cf608f05145dee7a683c04e90",
+         "description" : "Tesla Inc has a chance to deliver a record number of vehicles in the third quarter, the U.S. electric carmaker's Chief Executive Officer Elon Musk said in an internal email, urging employees to work hard to achieve that goal.  The quarter-end rallying cry has…",
+         "publishedAt" : "2020-09-21T11:00:00Z",
          "source" : {
             "name" : "Yahoo Entertainment",
             "id" : null
          },
-         "content" : "SEOUL/BEIJING (Reuters) - Tesla Inc has a chance to deliver a record number of vehicles in the third quarter, the U.S. electric carmaker's Chief Executive Officer Elon Musk said in an internal email,… [+1281 chars]",
          "title" : "Musk says record Tesla vehicle deliveries possible in third quarter - Yahoo Finance"
       },
       {
+         "content" : "Recently the Federal Housing Finance Administration (FHFA) conservator of Fannie Mae and Freddie Mac extended the moratorium for both evictions and foreclosures until the end of the year. Many homeow… [+8028 chars]",
          "author" : "Keith Jurow",
-         "url" : "https://www.marketwatch.com/story/the-covid-19-lockdown-is-squeezing-real-estate-from-all-sides-and-threatens-to-burst-the-housing-and-mortgage-bubble-2020-09-21",
-         "publishedAt" : "2020-09-21T10:55:00Z",
          "description" : "Sooner or later, homeowners in this frothy U.S. housing market must pay the piper",
          "urlToImage" : "https://s.marketwatch.com/public/resources/images/MW-HC247_forecl_ZG_20190117161724.jpg",
-         "content" : "Recently the Federal Housing Finance Administration (FHFA) conservator of Fannie Mae and Freddie Mac extended the moratorium for both evictions and foreclosures until the end of the year. Many homeow… [+8028 chars]",
+         "publishedAt" : "2020-09-21T10:55:00Z",
+         "url" : "https://www.marketwatch.com/story/the-covid-19-lockdown-is-squeezing-real-estate-from-all-sides-and-threatens-to-burst-the-housing-and-mortgage-bubble-2020-09-21",
          "source" : {
-            "id" : null,
-            "name" : "MarketWatch"
+            "name" : "MarketWatch",
+            "id" : null
          },
          "title" : "The COVID-19 lockdown is squeezing real estate from all sides and threatens to burst the housing and mortgage bubble - MarketWatch"
       }
-   ],
-   "totalResults" : 70
+   ]
 }
