@@ -1,152 +1,154 @@
 {
+   "totalResults" : 70,
+   "status" : "ok",
    "articles" : [
       {
-         "urlToImage" : "https://s.yimg.com/uu/api/res/1.2/wKHkMP0BHmzY19.NVXUJhw--~B/aD02NzU7dz0xMjAwO3NtPTE7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/bloomberg_markets_842/d09db36151418c89b4c7e086b1af6037",
-         "source" : {
-            "name" : "Yahoo Entertainment",
-            "id" : null
-         },
-         "author" : "Anchalee Worrachate",
-         "content" : "(Bloomberg) -- European stocks fell the most since July after a report on bank allegations and signs that London is heading for a second lockdown. U.S. equity futures sank and Treasuries rose.\r\nAirli… [+3557 chars]",
-         "url" : "https://finance.yahoo.com/news/currencies-steady-early-trading-yuan-211203202.html",
          "title" : "Stocks Fall Most Since July; U.S. Futures Slide: Markets Wrap - Yahoo Finance",
+         "url" : "https://finance.yahoo.com/news/currencies-steady-early-trading-yuan-211203202.html",
          "publishedAt" : "2020-09-21T08:19:00Z",
-         "description" : "(Bloomberg) -- European stocks fell the most since July after a report on bank allegations and signs that London is heading for a second lockdown. U.S. equity futures sank and Treasuries rose.Airlines and travel companies led losses in the Europe Stoxx 600 In…"
+         "description" : "(Bloomberg) -- European stocks fell the most since July after a report on bank allegations and signs that London is heading for a second lockdown. U.S. equity futures sank and Treasuries rose.Airlines and travel companies led losses in the Europe Stoxx 600 In…",
+         "content" : "(Bloomberg) -- European stocks fell the most since July after a report on bank allegations and signs that London is heading for a second lockdown. U.S. equity futures sank and Treasuries rose.\r\nAirli… [+3557 chars]",
+         "urlToImage" : "https://s.yimg.com/uu/api/res/1.2/wKHkMP0BHmzY19.NVXUJhw--~B/aD02NzU7dz0xMjAwO3NtPTE7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/bloomberg_markets_842/d09db36151418c89b4c7e086b1af6037",
+         "author" : "Anchalee Worrachate",
+         "source" : {
+            "id" : null,
+            "name" : "Yahoo Entertainment"
+         }
       },
       {
-         "description" : "See winners of the 2020 Top Workplaces survey.",
-         "publishedAt" : "2020-09-21T08:09:09Z",
-         "title" : "Top Workplaces 2020 | Pittsburgh Post-Gazette - Pittsburgh Post-Gazette",
-         "url" : "https://newsinteractive.post-gazette.com/topworkplaces2020/",
          "content" : "Don't fear negative feedback. It's all part of identifying opportunities\r\nBy Doug Claffey / Energage\r\nIn times of change, when is it best to solicit employee feedback? Company leaders should ask them… [+59 chars]",
          "urlToImage" : "https://newsinteractive.post-gazette.com/media/2020/08/topworkplaces2020/city.png",
+         "description" : "See winners of the 2020 Top Workplaces survey.",
          "author" : null,
          "source" : {
             "id" : null,
             "name" : "Pittsburgh Post-Gazette"
-         }
+         },
+         "title" : "Top Workplaces 2020 | Pittsburgh Post-Gazette - Pittsburgh Post-Gazette",
+         "publishedAt" : "2020-09-21T08:09:09Z",
+         "url" : "https://newsinteractive.post-gazette.com/topworkplaces2020/"
       },
       {
-         "description" : "",
+         "url" : "https://www.marketwatch.com/story/european-bank-stocks-slide-after-money-laundering-allegations-dow-futures-slide-300-points-11600674383",
          "publishedAt" : "2020-09-21T07:46:00Z",
          "title" : "European bank stocks slide after money-laundering allegations; Dow futures slide 300 points - MarketWatch",
-         "content" : "Shares of Europes top banks dropped on Monday, after the publication of reports alleging they kept doing business with customers they suspected of money laundering and other wrongdoing.The report, le… [+2044 chars]",
-         "url" : "https://www.marketwatch.com/story/european-bank-stocks-slide-after-money-laundering-allegations-dow-futures-slide-300-points-11600674383",
-         "urlToImage" : "https://images.mktw.net/im-234406/social",
          "source" : {
             "name" : "MarketWatch",
             "id" : null
          },
-         "author" : "Steve Goldstein"
+         "author" : "Steve Goldstein",
+         "description" : "",
+         "content" : "Shares of Europes top banks dropped on Monday, after the publication of reports alleging they kept doing business with customers they suspected of money laundering and other wrongdoing.The report, le… [+2044 chars]",
+         "urlToImage" : "https://images.mktw.net/im-234406/social"
       },
       {
-         "publishedAt" : "2020-09-21T05:16:00Z",
-         "title" : "European stocks fall as bank allegations, coronavirus weigh on sentiment; banks down 4% - CNBC",
-         "description" : "European stocks retreated Monday as rising coronavirus infections weigh on market sentiment around the world.",
-         "source" : {
-            "id" : null,
-            "name" : "CNBC"
-         },
          "author" : "Elliot Smith",
+         "source" : {
+            "name" : "CNBC",
+            "id" : null
+         },
          "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106672777-1597988018518-GettyImages-1206134148_1.jpg?v=1597987878",
          "content" : "European stocks retreated Monday as allegations surrounding bank dealings and rising coronavirus infections weigh on market sentiment around the world.\r\nThe pan-European Stoxx 600 dropped 2% in early… [+2121 chars]",
-         "url" : "https://www.cnbc.com/2020/09/21/european-markets-banks-coronavirus-news-weigh-on-sentiment.html"
+         "description" : "European stocks retreated Monday as rising coronavirus infections weigh on market sentiment around the world.",
+         "publishedAt" : "2020-09-21T05:16:00Z",
+         "url" : "https://www.cnbc.com/2020/09/21/european-markets-banks-coronavirus-news-weigh-on-sentiment.html",
+         "title" : "European stocks fall as bank allegations, coronavirus weigh on sentiment; banks down 4% - CNBC"
       },
       {
-         "url" : "https://www.foxbusiness.com/retail/donald-m-kendall-originator-of-cola-wars-dies-at-99",
-         "content" : "Donald M. Kendall, who built PepsiCo Inc. into a snack-and-beverage juggernaut and introduced the Soviet Union to American cola at the height of the Cold War, died Saturday. He was 99 years old.\r\nThe… [+1593 chars]",
-         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/01/0/0/pepsi-zxero-sugar-can-PEPSI.jpg?ve=1&tl=1",
-         "author" : "The Wall Street Journal",
          "source" : {
-            "id" : null,
-            "name" : "Fox Business"
+            "name" : "Fox Business",
+            "id" : null
          },
+         "author" : "The Wall Street Journal",
+         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/01/0/0/pepsi-zxero-sugar-can-PEPSI.jpg?ve=1&tl=1",
+         "content" : "Donald M. Kendall, who built PepsiCo Inc. into a snack-and-beverage juggernaut and introduced the Soviet Union to American cola at the height of the Cold War, died Saturday. He was 99 years old.\r\nThe… [+1593 chars]",
          "description" : "",
+         "url" : "https://www.foxbusiness.com/retail/donald-m-kendall-originator-of-cola-wars-dies-at-99",
          "publishedAt" : "2020-09-21T05:06:00Z",
          "title" : "Donald M. Kendall, PepsiCo developer of cola wars, dies at 99 - Fox Business"
       },
       {
-         "content" : "BEIJING (AP) Asian stock markets were mostly lower Monday after Wall Street declined for a third week and Britain reported a rise in coronavirus infections.Benchmarks in Shanghai, Hong Kong and Sydne… [+3411 chars]",
+         "title" : "Asian markets start Monday lower with U.S. mired in three-week losing streak - MarketWatch",
          "url" : "https://www.marketwatch.com/story/asian-markets-start-monday-lower-with-us-mired-in-three-week-losing-streak-2020-09-21",
-         "urlToImage" : "https://s.marketwatch.com/public/resources/images/MW-HC650_hk0124_ZG_20190124231757.jpg",
-         "source" : {
-            "name" : "MarketWatch",
-            "id" : null
-         },
-         "author" : "Associated Press",
-         "description" : "",
          "publishedAt" : "2020-09-21T04:34:00Z",
-         "title" : "Asian markets start Monday lower with U.S. mired in three-week losing streak - MarketWatch"
+         "content" : "BEIJING (AP) Asian stock markets were mostly lower Monday after Wall Street declined for a third week and Britain reported a rise in coronavirus infections.Benchmarks in Shanghai, Hong Kong and Sydne… [+3411 chars]",
+         "urlToImage" : "https://s.marketwatch.com/public/resources/images/MW-HC650_hk0124_ZG_20190124231757.jpg",
+         "description" : "",
+         "author" : "Associated Press",
+         "source" : {
+            "id" : null,
+            "name" : "MarketWatch"
+         }
       },
       {
-         "urlToImage" : "https://nypost.com/wp-content/uploads/sites/2/2020/09/vietnam-flight.jpg?quality=90&strip=all&w=1200",
          "source" : {
             "id" : null,
             "name" : "New York Post"
          },
          "author" : "Kenneth Garger",
+         "description" : "A single sickened airplane passenger spread coronavirus to 15 other people aboard a flight from London to Vietnam, according to a newly published study. The passenger, identified as a 27-year-old b…",
+         "urlToImage" : "https://nypost.com/wp-content/uploads/sites/2/2020/09/vietnam-flight.jpg?quality=90&strip=all&w=1200",
          "content" : "A single sickened airplane passenger spread coronavirus to 15 other people aboard a flight from London to Vietnam, according to a newly published study.\r\nThe passenger, identified as a 27-year-old bu… [+1407 chars]",
          "url" : "https://nypost.com/2020/09/21/woman-spread-coronavirus-to-15-people-aboard-london-to-vietnam-flight/",
-         "title" : "Woman spread coronavirus to 15 people on international flight - New York Post ",
          "publishedAt" : "2020-09-21T04:19:00Z",
-         "description" : "A single sickened airplane passenger spread coronavirus to 15 other people aboard a flight from London to Vietnam, according to a newly published study. The passenger, identified as a 27-year-old b…"
+         "title" : "Woman spread coronavirus to 15 people on international flight - New York Post "
       },
       {
-         "content" : "Walmart has made moves to try to build up its fashion credentials. It acquired popular brands like menswear retailer Bonobos. It tapped celebrities including Ellen DeGeneres and Sofía Vergara to insp… [+4484 chars]",
+         "publishedAt" : "2020-09-21T04:01:00Z",
          "url" : "https://www.cnbc.com/2020/09/21/walmart-expands-fashion-focus-with-new-private-clothing-label.html",
+         "title" : "Walmart expands fashion focus with new private clothing label for men and women - CNBC",
          "source" : {
             "name" : "CNBC",
             "id" : null
          },
          "author" : "Melissa Repko",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106708749-1600466131926Free-Assembly-Mens-Lifestyle-jpg?v=1600466257",
          "description" : "With the coronavirus pandemic and recession, Walmart has a new opportunity to grab market share from apparel retailers.",
-         "publishedAt" : "2020-09-21T04:01:00Z",
-         "title" : "Walmart expands fashion focus with new private clothing label for men and women - CNBC"
+         "content" : "Walmart has made moves to try to build up its fashion credentials. It acquired popular brands like menswear retailer Bonobos. It tapped celebrities including Ellen DeGeneres and Sofía Vergara to insp… [+4484 chars]",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106708749-1600466131926Free-Assembly-Mens-Lifestyle-jpg?v=1600466257"
       },
       {
-         "content" : "World's largest retailer targets zero emissions by 2040 and aims to protect, manage or restore at least 50 million acres of land and one million square miles of ocean by 2030\r\nBuilding on more than 1… [+5855 chars]",
-         "url" : "https://www.benzinga.com/pressreleases/20/09/b17577953/walmart-sets-goal-to-become-a-regenerative-company",
-         "urlToImage" : "https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/sites/all/themes/bz2/images/bz-icon.png",
          "source" : {
-            "id" : null,
-            "name" : "Benzinga"
+            "name" : "Benzinga",
+            "id" : null
          },
          "author" : "Business Wire",
          "description" : "World's largest retailer targets zero emissions by 2040 and aims to protect, manage or restore at least 50 million acres of land and one million square ...",
-         "title" : "Walmart sets goal to become a regenerative company - Benzinga",
-         "publishedAt" : "2020-09-21T04:01:00Z"
+         "urlToImage" : "https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/sites/all/themes/bz2/images/bz-icon.png",
+         "content" : "World's largest retailer targets zero emissions by 2040 and aims to protect, manage or restore at least 50 million acres of land and one million square miles of ocean by 2030\r\nBuilding on more than 1… [+5855 chars]",
+         "url" : "https://www.benzinga.com/pressreleases/20/09/b17577953/walmart-sets-goal-to-become-a-regenerative-company",
+         "publishedAt" : "2020-09-21T04:01:00Z",
+         "title" : "Walmart sets goal to become a regenerative company - Benzinga"
       },
       {
-         "title" : "Critics say Trump supporters staging event at early voting site in Virginia aimed to intimidate and suppress - MarketWatch",
-         "publishedAt" : "2020-09-21T03:54:00Z",
-         "description" : "Virginia Republicans’ Twitter account suggests those complaining call for a ‘waaaambulance’",
-         "urlToImage" : "https://s.marketwatch.com/public/resources/images/MW-IO846_fairfa_MD_20200920235222.jpg",
-         "source" : {
-            "name" : "MarketWatch",
-            "id" : null
-         },
-         "author" : "MarketWatch",
          "content" : "A day after the cable news channels carried images of Election Daylength lines at some polling places in suburban Virginia, and elsewhere, on the opening day of the early voting period, a Washington,… [+1130 chars]",
-         "url" : "https://www.marketwatch.com/story/critics-say-trump-supporters-staging-event-at-early-voting-site-in-virginia-sought-to-intimidate-and-suppress-2020-09-20"
+         "urlToImage" : "https://s.marketwatch.com/public/resources/images/MW-IO846_fairfa_MD_20200920235222.jpg",
+         "description" : "Virginia Republicans’ Twitter account suggests those complaining call for a ‘waaaambulance’",
+         "author" : "MarketWatch",
+         "source" : {
+            "id" : null,
+            "name" : "MarketWatch"
+         },
+         "title" : "Critics say Trump supporters staging event at early voting site in Virginia aimed to intimidate and suppress - MarketWatch",
+         "url" : "https://www.marketwatch.com/story/critics-say-trump-supporters-staging-event-at-early-voting-site-in-virginia-sought-to-intimidate-and-suppress-2020-09-20",
+         "publishedAt" : "2020-09-21T03:54:00Z"
       },
       {
+         "title" : "Breaking News: Trevor Milton out at Nikola Motor - FreightWaves",
+         "publishedAt" : "2020-09-21T03:28:49Z",
+         "url" : "https://www.freightwaves.com/news/breaking-news-trevor-milton-out-of-nikola",
+         "content" : "And there it is folks, his final endgame. If there was any veracity in the Hindenburg report about his past endeavors, then this result has been his entire purpose in doing everything he has done wit… [+1695 chars]",
+         "urlToImage" : "https://s29755.pcdn.co/wp-content/uploads/2020/09/061820-Trevor-MIlton-768x512.jpg",
+         "description" : "Sources close to the embattled fuel cell truck manufacturer are reporting that founder Trevor Milton has resigned as executive chairman of Nikola Motor (NASDAQ: NKLA) and has departed the company effe",
+         "author" : "FreightWaves Staff",
          "source" : {
             "name" : "FreightWaves",
             "id" : null
-         },
-         "author" : "FreightWaves Staff",
-         "urlToImage" : "https://s29755.pcdn.co/wp-content/uploads/2020/09/061820-Trevor-MIlton-768x512.jpg",
-         "content" : "And there it is folks, his final endgame. If there was any veracity in the Hindenburg report about his past endeavors, then this result has been his entire purpose in doing everything he has done wit… [+1695 chars]",
-         "url" : "https://www.freightwaves.com/news/breaking-news-trevor-milton-out-of-nikola",
-         "title" : "Breaking News: Trevor Milton out at Nikola Motor - FreightWaves",
-         "publishedAt" : "2020-09-21T03:28:49Z",
-         "description" : "Sources close to the embattled fuel cell truck manufacturer are reporting that founder Trevor Milton has resigned as executive chairman of Nikola Motor (NASDAQ: NKLA) and has departed the company effe"
+         }
       },
       {
+         "url" : "https://www.foxbusiness.com/energy/oil-prices-fall-monday-as-libya-to-begin-output-gulf-rigs-halt-production-due-to-storms",
          "publishedAt" : "2020-09-21T03:16:03Z",
          "title" : "Oil prices fall as Libya to begin output; Gulf rigs halt production due to storms - Fox Business",
-         "description" : "",
          "source" : {
             "id" : null,
             "name" : "Fox Business"
@@ -154,113 +156,111 @@
          "author" : "Reuters",
          "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/08/0/0/PtArthur.jpg?ve=1&tl=1",
          "content" : "SINGAPORE - Oil prices fell on Monday on the potential return of oil output from Libya even as rising coronavirus cases add to worries about global demand, although losses were limited as a new tropi… [+2206 chars]",
-         "url" : "https://www.foxbusiness.com/energy/oil-prices-fall-monday-as-libya-to-begin-output-gulf-rigs-halt-production-due-to-storms"
+         "description" : ""
       },
       {
-         "title" : "Garrett Motion files for bankruptcy with $2.1B KPS offer - Seeking Alpha",
-         "publishedAt" : "2020-09-21T02:55:00Z",
          "description" : "Garrett Motion (NYSE:GTX) officially files for Chapter 11 bankruptcy protection while also proposing a $2.1B sale of the business to private-equity firm KPS Capital Partners.Garrett says KPS will be its stalking horse to acquire the company's assets following…",
          "urlToImage" : "https://static3.seekingalpha.com/assets/og_image_192-59bfd51c9fe6af025b2f9f96c807e46f8e2f06c5ae787b15bf1423e6c676d4db.png",
-         "source" : {
-            "id" : null,
-            "name" : "Seeking Alpha"
-         },
-         "author" : "Carl Surran",
          "content" : "Garrett Motion (NYSE:GTX) officially files for Chapter 11 bankruptcy protection while also proposing a $2.1B sale of the business to private-equity firm KPS Capital Partners.\r\nGarrett says KPS will b… [+686 chars]",
+         "author" : "Carl Surran",
+         "source" : {
+            "name" : "Seeking Alpha",
+            "id" : null
+         },
+         "title" : "Garrett Motion files for bankruptcy with $2.1B KPS offer - Seeking Alpha",
+         "publishedAt" : "2020-09-21T02:55:00Z",
          "url" : "https://seekingalpha.com/news/3615546-garrett-motion-files-for-bankruptcy-2_1b-kps-offer"
       },
       {
          "source" : {
-            "id" : null,
-            "name" : "Cruise Law News"
+            "name" : "Cruise Law News",
+            "id" : null
          },
          "author" : "http://www.facebook.com/pages/Cruise-Law-News/136612489720349?v=wall",
          "urlToImage" : "https://cruiselawnews.lexblogplatform.com/wp-content/uploads/sites/563/2020/09/Carnival_Inspiration.jpg",
          "content" : "Carnival Cruise Line is taking steps to terminate and/or not renew the contracts of employment of several thousands of officers and crew members throughout its fleet, according to several crew member… [+2969 chars]",
+         "description" : "Carnival Cruise Line is taking steps to terminate and/or not renew the contracts of employment of several thousands of officers and crew members",
          "url" : "https://www.cruiselawnews.com/2020/09/articles/disease/carnival-cruise-line-terminates-thousands-of-crew-members-and-senior-shipboard-officers/",
          "publishedAt" : "2020-09-21T02:25:30Z",
-         "title" : "Carnival Cruise Line Terminates Thousands of Crew Members and Senior Shipboard Officers - Cruise Law News",
-         "description" : "Carnival Cruise Line is taking steps to terminate and/or not renew the contracts of employment of several thousands of officers and crew members"
+         "title" : "Carnival Cruise Line Terminates Thousands of Crew Members and Senior Shipboard Officers - Cruise Law News"
       },
       {
-         "content" : "SEATTLE, WA State health officials reported 349 new coronavirus cases in Washington on Sunday, with the highest daily totals seen in King, Spokane and Pierce counties. Thirteen counties reported no i… [+4106 chars]",
+         "title" : "349 New Coronavirus Cases Recorded In Washington - Seattle, WA Patch",
          "url" : "https://patch.com/washington/seattle/349-new-coronavirus-cases-recorded-washington",
+         "publishedAt" : "2020-09-21T02:22:00Z",
+         "urlToImage" : "https://patch.com/img/cdn20/shutterstock/23562256/20200920/102204/styles/patch_image/public/shutterstock-1661207908___20222114673.jpg",
+         "content" : "SEATTLE, WA State health officials reported 349 new coronavirus cases in Washington on Sunday, with the highest daily totals seen in King, Spokane and Pierce counties. Thirteen counties reported no i… [+4106 chars]",
+         "description" : "According to Sunday's data, 13 counties reported no increase in their case counts.",
+         "author" : "Lucas Combos",
          "source" : {
             "name" : "Avon, CT Patch",
             "id" : null
-         },
-         "author" : "Lucas Combos",
-         "urlToImage" : "https://patch.com/img/cdn20/shutterstock/23562256/20200920/102204/styles/patch_image/public/shutterstock-1661207908___20222114673.jpg",
-         "description" : "According to Sunday's data, 13 counties reported no increase in their case counts.",
-         "title" : "349 New Coronavirus Cases Recorded In Washington - Seattle, WA Patch",
-         "publishedAt" : "2020-09-21T02:22:00Z"
+         }
       },
       {
-         "description" : "After a day of back and forth negotiations between NBCUniversal and Roku, the two companies announced Friday that Peacock would be available on Roku “in the coming weeks.” It now looks like we’re getting closer to seeing the app become available Roku users. A…",
-         "title" : "Peacock is Beginning to Roll Out on Roku - Cord Cutters News",
-         "publishedAt" : "2020-09-21T01:17:03Z",
-         "url" : "https://www.cordcuttersnews.com/peacock-is-beginning-to-roll-out-on-roku/",
-         "content" : "Skip to content\r\nAfter a day of back and forth negotiations between NBCUniversal and Roku, the two companies announced Friday that Peacock would be available on Roku “in the coming weeks.” It now loo… [+1280 chars]",
          "author" : null,
          "source" : {
-            "name" : "Cord Cutters News, LLC",
-            "id" : null
+            "id" : null,
+            "name" : "Cord Cutters News, LLC"
          },
-         "urlToImage" : "https://www.cordcuttersnews.com/wp-content/uploads/2019/09/Peacock-logo-1024x576.jpg"
+         "description" : "After a day of back and forth negotiations between NBCUniversal and Roku, the two companies announced Friday that Peacock would be available on Roku “in the coming weeks.” It now looks like we’re getting closer to seeing the app become available Roku users. A…",
+         "content" : "Skip to content\r\nAfter a day of back and forth negotiations between NBCUniversal and Roku, the two companies announced Friday that Peacock would be available on Roku “in the coming weeks.” It now loo… [+1280 chars]",
+         "urlToImage" : "https://www.cordcuttersnews.com/wp-content/uploads/2019/09/Peacock-logo-1024x576.jpg",
+         "url" : "https://www.cordcuttersnews.com/peacock-is-beginning-to-roll-out-on-roku/",
+         "publishedAt" : "2020-09-21T01:17:03Z",
+         "title" : "Peacock is Beginning to Roll Out on Roku - Cord Cutters News"
       },
       {
+         "description" : "",
+         "urlToImage" : "https://www.kitco.com/news/2020-09-20/images/shutterstock_288292718-min.jpg",
+         "content" : "Editor's Note: Get caught up in minutes with our speedy summary of today's must-read news stories and expert opinions that moved the precious metals and financial markets. Sign up here!\r\n(Kitco News)… [+4158 chars]",
          "author" : "http://www.facebook.com/kitconews",
          "source" : {
             "id" : null,
             "name" : "Kitco NEWS"
          },
-         "urlToImage" : "https://www.kitco.com/news/2020-09-20/images/shutterstock_288292718-min.jpg",
-         "url" : "https://www.kitco.com/news/2020-09-20/Gold-price-begins-the-week-in-positive-territory-as-analysts-eye-new-U-S-election-risk-dollar-and-Fed-speakers.html",
-         "content" : "Editor's Note: Get caught up in minutes with our speedy summary of today's must-read news stories and expert opinions that moved the precious metals and financial markets. Sign up here!\r\n(Kitco News)… [+4158 chars]",
-         "publishedAt" : "2020-09-21T01:10:00Z",
          "title" : "Gold price begins the week in positive territory as analysts eye new U.S. election risk, dollar, and Fed speakers - Kitco NEWS",
-         "description" : ""
+         "publishedAt" : "2020-09-21T01:10:00Z",
+         "url" : "https://www.kitco.com/news/2020-09-20/Gold-price-begins-the-week-in-positive-territory-as-analysts-eye-new-U-S-election-risk-dollar-and-Fed-speakers.html"
       },
       {
-         "description" : null,
          "title" : "Goldman Says Value, Not Cyclicals, Would Rally Most on Vaccine - Bloomberg",
          "publishedAt" : "2020-09-21T00:25:00Z",
          "url" : "https://www.bloomberg.com/tosv2.html?vid=&uuid=88208370-fbc6-11ea-85f4-8577feedfe98&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wOS0yMS9nb2xkbWFuLXNheXMtdmFsdWUtbm90LWN5Y2xpY2Fscy13b3VsZC1yYWxseS1tb3N0LW9uLXZhY2NpbmU=",
          "content" : "To continue, please click the box below to let us know you're not a robot.",
          "urlToImage" : null,
-         "author" : null,
+         "description" : null,
          "source" : {
             "name" : "Bloomberg",
             "id" : "bloomberg"
-         }
+         },
+         "author" : null
       },
       {
-         "title" : "Tesla (TSLA): Elon Musk says ‘record deliveries possible’ in leaked employee email - Electrek",
-         "publishedAt" : "2020-09-21T00:22:00Z",
-         "description" : "Tesla (TSLA) has ‘a shot’ at a ‘record quarter for vehicle deliveries’, according to CEO Elon Musk in a leaked email to employees. The end of the quarter is approaching and as usual, Tesla is in the middle of a rush of deliveries in order to improve its finan…",
-         "urlToImage" : "https://electrek.co/wp-content/uploads/sites/3/2019/11/Tesla-Model-S-X-3-hero.jpg?quality=82&strip=all",
          "author" : null,
          "source" : {
             "id" : null,
             "name" : "Electrek"
          },
+         "description" : "Tesla (TSLA) has ‘a shot’ at a ‘record quarter for vehicle deliveries’, according to CEO Elon Musk in a leaked email to employees. The end of the quarter is approaching and as usual, Tesla is in the middle of a rush of deliveries in order to improve its finan…",
+         "urlToImage" : "https://electrek.co/wp-content/uploads/sites/3/2019/11/Tesla-Model-S-X-3-hero.jpg?quality=82&strip=all",
+         "content" : "Tesla (TSLA) has ‘a shot’ at a ‘record quarter for vehicle deliveries’, according to CEO Elon Musk in a leaked email to employees.\r\nThe end of the quarter is approaching and as usual, Tesla is in the… [+3056 chars]",
+         "publishedAt" : "2020-09-21T00:22:00Z",
          "url" : "https://electrek.co/2020/09/20/tesla-tsla-elon-musk-record-deliveries-possible-leaked-employee-email/",
-         "content" : "Tesla (TSLA) has ‘a shot’ at a ‘record quarter for vehicle deliveries’, according to CEO Elon Musk in a leaked email to employees.\r\nThe end of the quarter is approaching and as usual, Tesla is in the… [+3056 chars]"
+         "title" : "Tesla (TSLA): Elon Musk says ‘record deliveries possible’ in leaked employee email - Electrek"
       },
       {
+         "title" : "Profit taking Bitcoin miners won’t stop the next bull run: On-chain analyst - Cointelegraph",
+         "url" : "https://cointelegraph.com/news/profit-taking-bitcoin-miners-wont-stop-the-next-bull-run-on-chain-analyst",
+         "publishedAt" : "2020-09-20T23:31:00Z",
+         "description" : "Bitcoin miners sold substantial amounts of Bitcoin throughout the past two months, but on-chain analysts believe it won’t stop the next bull run",
          "urlToImage" : "https://s3.cointelegraph.com/storage/uploads/view/c7acbff5108b01bed8838f9808016a6a.jpg",
+         "content" : "Historical data shows that some miners began to sell Bitcoin (BTC) at the end of July, leading to increased selling pressure in the cryptocurrency market.\r\nEventually, the dominant cryptocurrency fel… [+3016 chars]",
          "source" : {
             "id" : null,
             "name" : "Cointelegraph"
          },
-         "author" : "Joseph Young",
-         "content" : "Historical data shows that some miners began to sell Bitcoin (BTC) at the end of July, leading to increased selling pressure in the cryptocurrency market.\r\nEventually, the dominant cryptocurrency fel… [+3016 chars]",
-         "url" : "https://cointelegraph.com/news/profit-taking-bitcoin-miners-wont-stop-the-next-bull-run-on-chain-analyst",
-         "title" : "Profit taking Bitcoin miners won’t stop the next bull run: On-chain analyst - Cointelegraph",
-         "publishedAt" : "2020-09-20T23:31:00Z",
-         "description" : "Bitcoin miners sold substantial amounts of Bitcoin throughout the past two months, but on-chain analysts believe it won’t stop the next bull run"
+         "author" : "Joseph Young"
       }
-   ],
-   "status" : "ok",
-   "totalResults" : 70
+   ]
 }
