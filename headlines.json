@@ -1,266 +1,266 @@
 {
+   "status" : "ok",
    "articles" : [
       {
-         "title" : "This chart signal says stop buying megacap technology stocks - MarketWatch",
-         "urlToImage" : "https://s.marketwatch.com/public/resources/images/MW-IO833_Bear_p_ZG_20200919153725.jpg",
-         "author" : "Tomi Kilgore",
-         "publishedAt" : "2020-09-20T22:13:00Z",
-         "content" : "The recent pullbacks in megacapitalization technology stocks have now gone far enough and lasted long enough that they have triggered chart signals warning investors that at the very least, dont buy … [+4044 chars]",
-         "description" : "Fifty-day moving average is falling for Microsoft, Amazon and Google parent Alphabet but still rising slightly for Apple and the Nasdaq-100 Index",
-         "url" : "https://www.marketwatch.com/story/this-chart-signal-says-stop-buying-megacap-technology-stocks-2020-09-20",
+         "content" : null,
+         "description" : "Former PepsiCo CEO Donald Kendall has died. He was 99.",
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200920181356-pepsico-ceo-donald-kendall-super-tease.jpg",
+         "url" : "https://www.cnn.com/2020/09/20/business/donald-kendall-pepsico/index.html",
+         "title" : "Former PepsiCo CEO Donald Kendall has died - CNN",
          "source" : {
-            "id" : null,
-            "name" : "MarketWatch"
-         }
-      },
-      {
-         "author" : null,
-         "title" : "Tesla to bring new Roadster to Nürburgring racetrack next year as production remains unclear - Electrek",
-         "urlToImage" : "https://electrek.co/wp-content/uploads/sites/3/2020/09/Tesla-Roadster-prototype-e1600637860743.jpg?quality=82&strip=all",
-         "url" : "https://electrek.co/2020/09/20/tesla-roadster-nurburgring-racetrack-next-year-production-unclear/",
-         "source" : {
-            "id" : null,
-            "name" : "Electrek"
+            "id" : "cnn",
+            "name" : "CNN"
          },
-         "publishedAt" : "2020-09-20T21:52:00Z",
-         "content" : "Tesla is going to bring a new Roadster to the famous Nürburgring racetrack next year, according to CEO Elon Musk, as the production timeline remains unclear.\r\nAfter Porsche brought its brand new Tayc… [+2533 chars]",
-         "description" : "Tesla is going to bring a new Roadster to the famous Nürburgring racetrack next year, according to CEO Elon Musk, as the production timeline remains unclear. After Porsche brought its brand new Taycan electric car at the Nürburgring racetrack to break a recor…"
+         "author" : "Rob McLean, CNN Business",
+         "publishedAt" : "2020-09-20T23:25:00Z"
       },
       {
-         "title" : "Robert Gore, inventor of waterproof outerwear Gore-Tex, dies at 83 - CNN",
-         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200920164937-robert-w-gore-file-super-tease.jpg",
-         "author" : "Amir Vera, CNN",
-         "publishedAt" : "2020-09-20T21:48:00Z",
-         "description" : "Robert W. Gore invented the technology that spawned the waterproof Gore-Tex fabric and revolutionized outdoor outerwear.",
-         "content" : "(CNN)Robert W. Gore, inventor of the technology that spawned the waterproof Gore-Tex fabric, died Thursday, according to the family company, W. L. Gore &amp; Associates. \r\nGore, commonly known as \"Bo… [+2640 chars]",
-         "url" : "https://www.cnn.com/2020/09/20/business/robert-w-gore-gore-tex-obit/index.html",
-         "source" : {
-            "name" : "CNN",
-            "id" : "cnn"
-         }
-      },
-      {
-         "url" : "https://www.autoevolution.com/news/3000-hp-cummins-diesel-truck-exploses-during-dyno-test-148966.html",
-         "source" : {
-            "id" : null,
-            "name" : "autoevolution"
-         },
-         "publishedAt" : "2020-09-20T20:15:00Z",
-         "content" : "We found multiple videos released about half a day ago which all claim the truck was going for a 3,000 horsepower dyno pull. The \"event\" seems to have taken place in Ogden, Utah.Apparently, the truck… [+1358 chars]",
-         "description" : "What's the most dramatic video of all time featuring a diesel truck? This, probably this. It shows the motor of a custom Cummins rig blowing up like a land mine. Fortunately, nobody died.",
-         "author" : "Mihnea Radu",
-         "urlToImage" : "https://s1.cdn.autoevolution.com/images/news/3000-hp-cummins-diesel-truck-exploses-during-dyno-test-148966-7.jpg",
-         "title" : "3000 HP Cummins Diesel Truck Exploses During Dyno Test - autoevolution"
-      },
-      {
-         "description" : "The incident, which occurred during a flight on the budget carrier sometime last week, was recorded by the passenger and posted to social media.",
-         "content" : "A Spirit Airlines flight attendant has threatened to call police on a passenger who was wearing a neck gaiter as a face covering, claiming it was 'illegal' because it did not have two layers of cloth… [+3028 chars]",
-         "publishedAt" : "2020-09-20T19:27:16Z",
-         "source" : {
-            "id" : null,
-            "name" : "Daily Mail"
-         },
-         "url" : "https://www.dailymail.co.uk/news/article-8753069/Spirit-Airlines-flight-attendant-passenger-clash-neck-gaiter.html",
-         "urlToImage" : "https://i.dailymail.co.uk/1s/2020/09/20/20/33405068-0-image-a-6_1600629770260.jpg",
-         "title" : "Spirit Airlines flight attendant and passenger clash over neck gaiter - Daily Mail",
-         "author" : "By Andrew Court For Dailymail.com"
-      },
-      {
-         "url" : "https://www.engadget.com/homeland-security-warning-zerologon-windows-server-flaw-175800739.html",
-         "source" : {
-            "name" : "Engadget",
-            "id" : "engadget"
-         },
-         "publishedAt" : "2020-09-20T18:35:05Z",
-         "description" : "Homeland Security has issued an emergency alert for a Windows security flaw, Zerologon, that allows attackers to compromise entire networks.",
-         "content" : "The security hole isn’t difficult to use. It takes “about three seconds in practice,” according to Secura.\r\nAgencies have to install the patch no later than September 21st.\r\nWhile the alert is clearl… [+485 chars]",
-         "author" : "",
-         "title" : "Homeland Security warns of a 'critical' security flaw in Windows servers - Engadget",
-         "urlToImage" : "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-09%2F28952e10-fb67-11ea-befb-79e1462ebfcc&client=amp-blogside-v2&signature=db36ffe77439f8c400f09a5584064bbc1abfed13"
-      },
-      {
-         "title" : "Tesla is preparing to launch Full Self-Driving subscription, puts deadline on Enhanced Autopilot - Electrek",
-         "urlToImage" : "https://electrek.co/wp-content/uploads/sites/3/2019/04/Tesla-self-driving.jpg?quality=82&strip=all",
-         "author" : null,
-         "publishedAt" : "2020-09-20T17:55:00Z",
-         "description" : "Tesla is preparing to launch a new Full Self-Driving monthly subscription based on an update to its mobile app and it is putting a deadline on the newly reintroduced Enhanced Autopilot package. Earlier this year, we reported on indications that Tesla is worki…",
-         "content" : "Tesla is preparing to launch a new Full Self-Driving monthly subscription based on an update to its mobile app and it is putting a deadline on the newly reintroduced Enhanced Autopilot package.\r\nEarl… [+2722 chars]",
-         "url" : "https://electrek.co/2020/09/20/tesla-full-self-driving-subscription-deadline-enhanced-autopilot/",
-         "source" : {
-            "id" : null,
-            "name" : "Electrek"
-         }
-      },
-      {
-         "author" : "https://www.facebook.com/bbcnews",
-         "title" : "FinCEN Files: HSBC moved Ponzi scheme millions despite warning - BBC News",
-         "urlToImage" : "https://ichef.bbci.co.uk/news/1024/branded_news/4F74/production/_114504302_index_promo_fincen_version03_976.png",
-         "source" : {
-            "id" : null,
-            "name" : "BBC News"
-         },
-         "url" : "https://www.bbc.com/news/uk-54225572",
-         "content" : "HSBC allowed fraudsters to transfer millions of dollars around the world even after it had learned of their scam, leaked secret files show.\r\nBritain's biggest bank moved the money through its US busi… [+9279 chars]",
-         "description" : "The transfers took place after officials were told of the $80m fraud, the secret files reveal.",
-         "publishedAt" : "2020-09-20T17:11:56Z"
-      },
-      {
-         "title" : "NYC subway train derails after striking 'debris' on tracks, suspect identified by police - Fox News",
-         "urlToImage" : "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/subwayderailment_1.jpg",
-         "author" : "Travis Fedschun",
-         "description" : "A subway train in New York City jumped the tracks and derailed after hitting debris that was thrown on the tracks, leaving three people with minor injuries, according to officials.",
-         "content" : "A subway train in New York City  derailed after hitting debris that was thrown on the tracks, leaving three people with minor injuries, according to officials.\r\nNew York City Transit Authority Interi… [+2862 chars]",
-         "publishedAt" : "2020-09-20T16:48:53Z",
+         "title" : "Chicago postal workers threaten to stop delivering mail after multiple employees shot on the job - Fox News",
          "source" : {
             "id" : "fox-news",
             "name" : "Fox News"
          },
-         "url" : "https://www.foxnews.com/us/nyc-subway-train-derailment-manhattan-a-train-new-york-city-nypd-suspect"
+         "url" : "https://www.foxnews.com/us/chicago-postal-workers-threaten-to-stop-delivering-mail-after-multiple-employees-shot-on-the-job",
+         "author" : "Bradford Betz",
+         "publishedAt" : "2020-09-20T22:38:19Z",
+         "content" : "United States Postal workers who deliver mail in some of Chicago’s more violent neighborhoods are threatening to halt their services after a mail carrier was shot in the city’s South Side earlier thi… [+1596 chars]",
+         "urlToImage" : "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/AP20261732558740-1.jpg",
+         "description" : "United States Postal workers who deliver mail in some of Chicago’s more violent neighborhoods are threatening to halt their services after a mail carrier was shot in the city’s South Side earlier this month."
       },
       {
-         "publishedAt" : "2020-09-20T16:30:11Z",
-         "content" : "From the Robert H. Lurie Comprehensive Cancer Center, Northwestern University Feinberg School of Medicine, Chicago (M.H.); Vall dHebron Institute of Oncology and Vall dHebron University Hospital, Bar… [+1722 chars]",
+         "content" : "The recent pullbacks in megacapitalization technology stocks have now gone far enough and lasted long enough that they have triggered chart signals warning investors that at the very least, dont buy … [+4044 chars]",
+         "urlToImage" : "https://s.marketwatch.com/public/resources/images/MW-IO833_Bear_p_ZG_20200919153725.jpg",
+         "description" : "Fifty-day moving average is falling for Microsoft, Amazon and Google parent Alphabet but still rising slightly for Apple and the Nasdaq-100 Index",
+         "title" : "This chart signal says stop buying megacap technology stocks - MarketWatch",
+         "source" : {
+            "name" : "MarketWatch",
+            "id" : null
+         },
+         "url" : "https://www.marketwatch.com/story/this-chart-signal-says-stop-buying-megacap-technology-stocks-2020-09-20",
+         "publishedAt" : "2020-09-20T22:13:00Z",
+         "author" : "Tomi Kilgore"
+      },
+      {
+         "description" : "Tesla is going to bring a new Roadster to the famous Nürburgring racetrack next year, according to CEO Elon Musk, as the production timeline remains unclear. After Porsche brought its brand new Taycan electric car at the Nürburgring racetrack to break a recor…",
+         "urlToImage" : "https://electrek.co/wp-content/uploads/sites/3/2020/09/Tesla-Roadster-prototype-e1600637860743.jpg?quality=82&strip=all",
+         "content" : "Tesla is going to bring a new Roadster to the famous Nürburgring racetrack next year, according to CEO Elon Musk, as the production timeline remains unclear.\r\nAfter Porsche brought its brand new Tayc… [+2533 chars]",
+         "author" : null,
+         "publishedAt" : "2020-09-20T21:52:00Z",
+         "source" : {
+            "id" : null,
+            "name" : "Electrek"
+         },
+         "title" : "Tesla to bring new Roadster to Nürburgring racetrack next year as production remains unclear - Electrek",
+         "url" : "https://electrek.co/2020/09/20/tesla-roadster-nurburgring-racetrack-next-year-production-unclear/"
+      },
+      {
+         "content" : "Drivers of certain car models seem to be more prone to speeding violations. \r\nThat's according to a recent study by the insurance comparison platform Insurify. The company examined more than 2 millio… [+1391 chars]",
+         "description" : "Dodge had the most vehicles on Insurify's top 10 list of vehicles prone to speeding tickets, with four: The Dart, Challenger, RAM 2500 and Charger.",
+         "urlToImage" : "https://www.gannett-cdn.com/presto/2018/11/30/USAT/037d045d-3139-4e3a-98ad-8de860c9fd1c-18MY_WRX-OpenRoad2.jpg?crop=3599,2015,x0,y0&width=3200&height=1680&fit=bounds",
+         "url" : "https://www.usatoday.com/story/money/cars/2020/09/20/subaru-wrx-speeding-tickets-insurify-study/5846520002/",
+         "title" : "Life in the fast lane: Subaru WRX owners have the most speeding tickets in the last year, Insurify study says. - USA TODAY",
+         "source" : {
+            "id" : "usa-today",
+            "name" : "USA Today"
+         },
+         "publishedAt" : "2020-09-20T21:48:03Z",
+         "author" : "Dalvin Brown"
+      },
+      {
+         "url" : "https://www.cnn.com/2020/09/20/business/robert-w-gore-gore-tex-obit/index.html",
+         "source" : {
+            "name" : "CNN",
+            "id" : "cnn"
+         },
+         "title" : "Robert Gore, inventor of waterproof outerwear Gore-Tex, dies at 83 - CNN",
+         "publishedAt" : "2020-09-20T21:48:00Z",
+         "author" : "Amir Vera, CNN",
+         "content" : "(CNN)Robert W. Gore, inventor of the technology that spawned the waterproof Gore-Tex fabric, died Thursday, according to the family company, W. L. Gore &amp; Associates. \r\nGore, commonly known as \"Bo… [+2640 chars]",
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200920164937-robert-w-gore-file-super-tease.jpg",
+         "description" : "Robert W. Gore invented the technology that spawned the waterproof Gore-Tex fabric and revolutionized outdoor outerwear."
+      },
+      {
+         "author" : "",
+         "publishedAt" : "2020-09-20T21:34:34Z",
+         "url" : "https://simpleflying.com/why-doesnt-delta-fly-to-hong-kong/",
+         "source" : {
+            "id" : null,
+            "name" : "Simple Flying"
+         },
+         "title" : "Why Doesn’t Delta Fly To Hong Kong? - Simple Flying",
+         "urlToImage" : "https://simpleflying.com/wp-content/uploads/2020/05/GettyImages-1184520442.jpg",
+         "description" : "Delta Air Lines is the only one of the big three US airlines to not fly to Hong…",
+         "content" : "Delta Air Lines is the only one of the big three US airlines to not fly to Hong Kong. While United and American both operate multiple daily flights, Delta pulled out of the market in 2018. Here’s why… [+4280 chars]"
+      },
+      {
+         "author" : "Stephanie Landsman",
+         "publishedAt" : "2020-09-20T21:00:00Z",
+         "source" : {
+            "name" : "CNBC",
+            "id" : null
+         },
+         "title" : "Market bull John Stoltzfus: U.S. is best place to invest, cites less 'froth' - CNBC",
+         "url" : "https://www.cnbc.com/2020/09/20/us-is-best-place-to-invest-due-to-less-froth-john-stoltzfus-.html",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106055518-1596661426229-john.jpg?v=1600458647",
+         "description" : "Oppenheimer Asset Management’s John Stoltzfus sees opportunities among beaten down mega cap names.",
+         "content" : "Despite the market's wild swings, Wall Street bull John Stoltzfus is encouraged by what he's seeing in the markets  and economy.\r\nStoltzfus is putting money on it: He's overweight U.S. stocks.\r\n\"The … [+2084 chars]"
+      },
+      {
+         "content" : "We found multiple videos released about half a day ago which all claim the truck was going for a 3,000 horsepower dyno pull. The \"event\" seems to have taken place in Ogden, Utah.Apparently, the truck… [+1358 chars]",
+         "description" : "What's the most dramatic video of all time featuring a diesel truck? This, probably this. It shows the motor of a custom Cummins rig blowing up like a land mine. Fortunately, nobody died.",
+         "urlToImage" : "https://s1.cdn.autoevolution.com/images/news/3000-hp-cummins-diesel-truck-exploses-during-dyno-test-148966-7.jpg",
+         "source" : {
+            "name" : "autoevolution",
+            "id" : null
+         },
+         "title" : "3000 HP Cummins Diesel Truck Exploses During Dyno Test - autoevolution",
+         "url" : "https://www.autoevolution.com/news/3000-hp-cummins-diesel-truck-exploses-during-dyno-test-148966.html",
+         "author" : "Mihnea Radu",
+         "publishedAt" : "2020-09-20T20:15:00Z"
+      },
+      {
+         "content" : "(CNN)Pine-Sol's original cleaner has been approved by the US Environmental Protection Agency (EPA) as a product that can kill the coronavirus on frequently used surfaces.\r\nThe product was added to th… [+2138 chars]",
+         "description" : "Pine-Sol's original cleaner has been approved by the US Environmental Protection Agency (EPA) as a product that can kill the coronavirus on frequently used surfaces.",
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200920112639-pine-sol-stock-super-tease.jpg",
+         "source" : {
+            "id" : "cnn",
+            "name" : "CNN"
+         },
+         "title" : "Pine-Sol cleaner has been approved to kill coronavirus on hard surfaces - CNN",
+         "url" : "https://www.cnn.com/2020/09/20/health/pine-sol-covid-19-surfaces-kills-coronavirus-trnd/index.html",
+         "author" : "Alaa Elassar, CNN",
+         "publishedAt" : "2020-09-20T19:48:00Z"
+      },
+      {
+         "url" : "https://insideevs.com/news/444812/video-teslacam-semi-car-hauler-crash-hit-run/",
+         "source" : {
+            "name" : "InsideEVs ",
+            "id" : null
+         },
+         "title" : "TeslaCam Catches Crazy Car Hauler Crash, Hit-And-Run, And Much More - InsideEVs ",
+         "publishedAt" : "2020-09-20T19:44:13Z",
+         "author" : "Steven Loveday",
+         "content" : "This is yet another episode from YouTube channel Wham Baam Teslacam that's packed with entertaining TeslaCam and Sentry Mode footage. We're kind of surprised that videos like this have become so popu… [+1407 chars]",
+         "description" : "Looking for some short, entertaining videos to start your day? There's nothing quite like TeslaCam stories to satisfy the craving.",
+         "urlToImage" : "https://cdn.motor1.com/images/mgl/Y0ley/s1/car-carrier-crash.jpg"
+      },
+      {
+         "content" : "A Spirit Airlines flight attendant has threatened to call police on a passenger who was wearing a neck gaiter as a face covering, claiming it was 'illegal' because it did not have two layers of cloth… [+3028 chars]",
+         "description" : "The incident, which occurred during a flight on the budget carrier sometime last week, was recorded by the passenger and posted to social media.",
+         "urlToImage" : "https://i.dailymail.co.uk/1s/2020/09/20/20/33405068-0-image-a-6_1600629770260.jpg",
+         "source" : {
+            "name" : "Daily Mail",
+            "id" : null
+         },
+         "title" : "Spirit Airlines flight attendant and passenger clash over neck gaiter - Daily Mail",
+         "url" : "https://www.dailymail.co.uk/news/article-8753069/Spirit-Airlines-flight-attendant-passenger-clash-neck-gaiter.html",
+         "publishedAt" : "2020-09-20T19:27:16Z",
+         "author" : "By Andrew Court For Dailymail.com"
+      },
+      {
+         "urlToImage" : "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-09%2F28952e10-fb67-11ea-befb-79e1462ebfcc&client=amp-blogside-v2&signature=db36ffe77439f8c400f09a5584064bbc1abfed13",
+         "description" : "Homeland Security has issued an emergency alert for a Windows security flaw, Zerologon, that allows attackers to compromise entire networks.",
+         "content" : "The security hole isn’t difficult to use. It takes “about three seconds in practice,” according to Secura.\r\nAgencies have to install the patch no later than September 21st.\r\nWhile the alert is clearl… [+485 chars]",
+         "publishedAt" : "2020-09-20T18:35:05Z",
+         "author" : "",
+         "title" : "Homeland Security warns of a 'critical' security flaw in Windows servers - Engadget",
+         "source" : {
+            "id" : "engadget",
+            "name" : "Engadget"
+         },
+         "url" : "https://www.engadget.com/homeland-security-warning-zerologon-windows-server-flaw-175800739.html"
+      },
+      {
+         "url" : "https://www.foxnews.com/us/nyc-subway-train-derailment-manhattan-a-train-new-york-city-nypd-suspect",
+         "title" : "NYC subway train derails after striking 'debris' on tracks, suspect identified by police - Fox News",
+         "source" : {
+            "id" : "fox-news",
+            "name" : "Fox News"
+         },
+         "publishedAt" : "2020-09-20T16:48:53Z",
+         "author" : "Travis Fedschun",
+         "content" : "A subway train in New York City  derailed after hitting debris that was thrown on the tracks, leaving three people with minor injuries, according to officials.\r\nNew York City Transit Authority Interi… [+2862 chars]",
+         "urlToImage" : "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/subwayderailment_1.jpg",
+         "description" : "A subway train in New York City jumped the tracks and derailed after hitting debris that was thrown on the tracks, leaving three people with minor injuries, according to officials."
+      },
+      {
+         "author" : null,
+         "publishedAt" : "2020-09-20T16:41:00Z",
+         "url" : "https://news.google.com/__i/rss/rd/articles/CBMiQmh0dHBzOi8vd3d3Lm1pYW1paGVyYWxkLmNvbS9uZXdzL2Nvcm9uYXZpcnVzL2FydGljbGUyNDU4NzM0MjUuaHRtbNIBQmh0dHBzOi8vYW1wLm1pYW1paGVyYWxkLmNvbS9uZXdzL2Nvcm9uYXZpcnVzL2FydGljbGUyNDU4NzM0MjUuaHRtbA?oc=5",
+         "source" : {
+            "id" : "google-news",
+            "name" : "Google News"
+         },
+         "title" : "Florida reports 2,521 new COVID-19 cases, Miami-Dade, Palm Beach, Monroe report 0 deaths - Miami Herald",
+         "urlToImage" : null,
+         "description" : null,
+         "content" : null
+      },
+      {
+         "urlToImage" : "https://www.nejm.org/na101/home/literatum/publisher/mms/journals/content/nejm/0/nejm.ahead-of-print/nejmoa2022485/20200916/images/img_small/nejmoa2022485_f1.jpeg",
          "description" : "Original Article from The New England Journal of Medicine — Survival with Olaparib in Metastatic Castration-Resistant Prostate Cancer",
+         "content" : "From the Robert H. Lurie Comprehensive Cancer Center, Northwestern University Feinberg School of Medicine, Chicago (M.H.); Vall dHebron Institute of Oncology and Vall dHebron University Hospital, Bar… [+1722 chars]",
+         "publishedAt" : "2020-09-20T16:30:11Z",
+         "author" : null,
          "url" : "https://www.nejm.org/doi/full/10.1056/NEJMoa2022485",
          "source" : {
             "name" : "nejm.org",
             "id" : null
          },
-         "title" : "Survival with Olaparib in Metastatic Castration-Resistant Prostate Cancer - nejm.org",
-         "urlToImage" : "https://www.nejm.org/na101/home/literatum/publisher/mms/journals/content/nejm/0/nejm.ahead-of-print/nejmoa2022485/20200916/images/img_small/nejmoa2022485_f1.jpeg",
-         "author" : null
+         "title" : "Survival with Olaparib in Metastatic Castration-Resistant Prostate Cancer - nejm.org"
       },
       {
-         "url" : "https://www.autoevolution.com/news/nissan-400z-rendered-with-370z-s-boomerang-headlight-design-148959.html",
-         "source" : {
-            "name" : "autoevolution",
-            "id" : null
-         },
-         "publishedAt" : "2020-09-20T16:14:00Z",
-         "description" : "Nissan recently unveiled the Z Proto concept, a preview for the 400Z sports car that could potentially arrive for the 2023 model year. The retro design seems to be loved by everybody, but we're not sure it's the right move.",
-         "content" : "You see, everybody says retro lines, which the Z concept has, are cool. However, when it's time to buy cars, money seems to flow towards the aggressive, modern sports models. For example, the MINI ha… [+1347 chars]",
-         "author" : "Mihnea Radu",
          "title" : "Nissan 400Z Rendered With 370Z's Boomerang Headlight Design - autoevolution",
-         "urlToImage" : "https://s1.cdn.autoevolution.com/images/news/nissan-400z-rendered-with-370z-s-boomerang-headlight-design-148959-7.jpg"
+         "source" : {
+            "id" : null,
+            "name" : "autoevolution"
+         },
+         "url" : "https://www.autoevolution.com/news/nissan-400z-rendered-with-370z-s-boomerang-headlight-design-148959.html",
+         "publishedAt" : "2020-09-20T16:14:00Z",
+         "author" : "Mihnea Radu",
+         "content" : "You see, everybody says retro lines, which the Z concept has, are cool. However, when it's time to buy cars, money seems to flow towards the aggressive, modern sports models. For example, the MINI ha… [+1347 chars]",
+         "urlToImage" : "https://s1.cdn.autoevolution.com/images/news/nissan-400z-rendered-with-370z-s-boomerang-headlight-design-148959-7.jpg",
+         "description" : "Nissan recently unveiled the Z Proto concept, a preview for the 400Z sports car that could potentially arrive for the 2023 model year. The retro design seems to be loved by everybody, but we're not sure it's the right move."
       },
       {
          "title" : "5 Major Changes You'll See at Cracker Barrel - msnNOW",
-         "urlToImage" : "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB1588Pa.img?h=315&w=600&m=6&q=60&o=t&l=f&f=jpg",
-         "author" : null,
-         "publishedAt" : "2020-09-20T15:55:00Z",
-         "description" : "Say hello to some new menu items but goodbye to others!",
-         "content" : "Warm-up on a cool fall day with Chicken Pot Pie that is available every single day, the restaurant recently announced. \"The Chicken Pot Pie, which features slow-simmered chicken, potatoes, peas, carr… [+796 chars]",
+         "source" : {
+            "name" : "Eatthis.com",
+            "id" : null
+         },
          "url" : "https://www.eatthis.com/cracker-barrel-changes/",
+         "publishedAt" : "2020-09-20T15:55:00Z",
+         "author" : null,
+         "content" : "Warm-up on a cool fall day with Chicken Pot Pie that is available every single day, the restaurant recently announced. \"The Chicken Pot Pie, which features slow-simmered chicken, potatoes, peas, carr… [+796 chars]",
+         "description" : "Say hello to some new menu items but goodbye to others!",
+         "urlToImage" : "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB1588Pa.img?h=315&w=600&m=6&q=60&o=t&l=f&f=jpg"
+      },
+      {
+         "content" : "Although unconfirmed, the next Z is understood to ride on a version of the current car's long-serving chassis.\r\nAs a result, even though the Proto Z is 5 inches longer than today's car, it's possible… [+110 chars]",
+         "urlToImage" : "https://cnet1.cbsistatic.com/img/MVgNFTmAzduTMgtVWQ3WNAMBvC4=/1200x630/2020/09/14/d5b534b5-330c-4194-8446-2a925bf8b327/nissan-z-proto-400z-ogi.jpg",
+         "description" : "After many years of rumors, the Nissan Z Proto proves that a successor to today's Z-Car is coming.This rear-wheel-drive sports car is one for driving enthusiasts, powered by a twin-turbo V6 stirred by a six-speed manual transmission.",
+         "url" : "https://www.cnet.com/roadshow/pictures/nissan-z-proto-400z-370z/",
          "source" : {
             "id" : null,
-            "name" : "Eatthis.com"
-         }
-      },
-      {
-         "author" : "Chris Paukert",
+            "name" : "CNET"
+         },
          "title" : "Nissan Z Proto is a four-wheeled love letter to driving purists - Roadshow - CNET",
-         "urlToImage" : "https://cnet1.cbsistatic.com/img/MVgNFTmAzduTMgtVWQ3WNAMBvC4=/1200x630/2020/09/14/d5b534b5-330c-4194-8446-2a925bf8b327/nissan-z-proto-400z-ogi.jpg",
-         "source" : {
-            "name" : "CNET",
-            "id" : null
-         },
-         "url" : "https://www.cnet.com/roadshow/pictures/nissan-z-proto-400z-370z/",
-         "description" : "After many years of rumors, the Nissan Z Proto proves that a successor to today's Z-Car is coming.This rear-wheel-drive sports car is one for driving enthusiasts, powered by a twin-turbo V6 stirred by a six-speed manual transmission.",
-         "content" : "Although unconfirmed, the next Z is understood to ride on a version of the current car's long-serving chassis.\r\nAs a result, even though the Proto Z is 5 inches longer than today's car, it's possible… [+110 chars]",
-         "publishedAt" : "2020-09-20T15:43:31Z"
+         "publishedAt" : "2020-09-20T15:43:31Z",
+         "author" : "Chris Paukert"
       },
       {
-         "author" : "Taylor Ardrey",
-         "urlToImage" : "https://i.insider.com/5f67699e323fc4001e0d751d?width=1200&format=jpeg",
-         "title" : "Vermont supermarket worker fired for stopping purse snatcher - Insider - INSIDER",
-         "url" : "https://www.insider.com/vermont-supermarket-worker-fired-for-stopping-purse-snatcher-2020-9",
-         "source" : {
-            "name" : "INSIDER",
-            "id" : null
-         },
-         "publishedAt" : "2020-09-20T15:43:07Z",
-         "description" : "Amir Shedyak, a grocery store employee, told local news that he was fired after trying to stop a purse snatcher during a shift in August.",
-         "content" : "A 20-year-old supermarket staff employee in Vermont was fired from his job after stopping a man who tried to steal an elderly woman's purse, WCAX reported.\r\nThe Hannaford grocery store employee, Amir… [+1156 chars]"
-      },
-      {
+         "author" : "Paul R. La Monica, CNN Business",
+         "publishedAt" : "2020-09-20T15:06:00Z",
          "url" : "https://www.cnn.com/2020/09/20/investing/ipos-spacs-stocks/index.html",
          "source" : {
-            "name" : "CNN",
-            "id" : "cnn"
+            "id" : "cnn",
+            "name" : "CNN"
          },
-         "publishedAt" : "2020-09-20T15:06:00Z",
-         "description" : "With the presidential election looming and uncertainty growing about what will happen to the stock market and economy after that, private companies are racing to make their debuts on Wall Street.",
-         "content" : "New York (CNN Business)With the presidential election looming and uncertainty growing about what will happen to the stock market and economy after that, private companies are racing to make their deb… [+5690 chars]",
-         "author" : "Paul R. La Monica, CNN Business",
+         "title" : "More new stocks, please! Companies are rushing to IPO before the election - CNN",
          "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200427124425-airbnb-0420-restricted-super-tease.jpg",
-         "title" : "More new stocks, please! Companies are rushing to IPO before the election - CNN"
-      },
-      {
-         "title" : "Meat Was Once in Short Supply Amid Pandemic. Now, It’s on Sale. - The Wall Street Journal",
-         "urlToImage" : "https://images.wsj.net/im-231992/social",
-         "author" : "Jacob Bunge, Jaewon Kang",
-         "publishedAt" : "2020-09-20T15:00:00Z",
-         "content" : "Meat prices are falling at grocery stores as last springs shortages fade and livestock clog farms, benefiting consumers but hurting meatpackers and farmers already hit by Covid-19 disruptions.\r\nPrice… [+1252 chars]",
-         "description" : "After springtime shortages, supermarkets are selling meat for lower prices as supplies rebound and exports decline",
-         "url" : "https://www.wsj.com/articles/meat-was-once-in-short-supply-amid-pandemic-now-its-on-sale-11600614000",
-         "source" : {
-            "name" : "The Wall Street Journal",
-            "id" : "the-wall-street-journal"
-         }
-      },
-      {
-         "author" : "Lorie Konish",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106432993-1583778228450gettyimages-1211215110.jpeg?v=1584120487",
-         "title" : "Here's what a Biden presidential win may mean for your Social Security benefits - CNBC",
-         "source" : {
-            "name" : "CNBC",
-            "id" : null
-         },
-         "url" : "https://www.cnbc.com/2020/09/20/what-a-biden-presidency-could-mean-for-social-security-benefits.html",
-         "content" : "Democratic presidential candidate former Vice President Joe Biden reacts while giving a speech during a campaign event at Tougaloo College on March 08, 2020 in Tougaloo, Mississippi.\r\nThe 2020 presid… [+7287 chars]",
-         "description" : "Democratic presidential nominee Joe Biden's plan for Social Security calls for increased benefits for low earners and more taxes for high-income individuals.",
-         "publishedAt" : "2020-09-20T14:19:00Z"
-      },
-      {
-         "source" : {
-            "name" : "Fox Business",
-            "id" : null
-         },
-         "url" : "https://www.foxbusiness.com/personal-finance/dave-ramsey-habit-money-salary-boost",
-         "content" : "Editor's note: Money expert Dave Ramsey is CEO of Ramsey Solutions. He has authored seven best-selling books, including \"The Total Money Makeover.\" His radio show \"The Dave Ramsey Show\" is heard by m… [+2968 chars]",
-         "description" : "Most people are shocked when they realize how much they’re actually spending at the grocery store.",
-         "publishedAt" : "2020-09-20T13:43:15Z",
-         "author" : "Dave Ramsey",
-         "title" : "Dave Ramsey: Why this habit may give you more money than a salary boost - Fox Business",
-         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/09/0/0/money-savings-istock.jpg?ve=1&tl=1"
-      },
-      {
-         "urlToImage" : "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/hpc0o1599wefs8u7pp5y.jpg",
-         "title" : "How to Apply for a Job That Pays $50K to Explore National Parks - Lifehacker",
-         "author" : "Elizabeth Yuko",
-         "publishedAt" : "2020-09-20T13:30:00Z",
-         "description" : "The job title is Chief Exploration Officer.",
-         "content" : "It appears as though we are currently living in the golden age of contests marketed as dream jobs, with new opportunities being announced regularly. The latest one comes from Michelob ULTRA Pure Gold… [+2083 chars]",
-         "url" : "https://lifehacker.com/how-to-apply-for-a-job-that-pays-50k-to-explore-nation-1845116265",
-         "source" : {
-            "name" : "Lifehacker.com",
-            "id" : null
-         }
-      },
-      {
-         "author" : "Vipin Bharathan",
-         "title" : "US Postal Service Files A Patent For Voting System Combining Mail And A Blockchain - Forbes",
-         "urlToImage" : "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6675de618265f4ddf3bd8d%2F0x0.jpg",
-         "url" : "https://www.forbes.com/sites/vipinbharathan/2020/09/20/us-postal-service-files-a-patent-for--voting-system-combining-mail-and-a-blockchain/",
-         "source" : {
-            "id" : null,
-            "name" : "Forbes"
-         },
-         "publishedAt" : "2020-09-20T13:24:00Z",
-         "description" : "USPTO (United States Patent and Trademark Office) published a patent application filed by the USPS. A reading of the patent itself. Opposition to technology in election systems, from election \"experts\". Why this year is different.",
-         "content" : "USPTO (United States Patent and Trademark Office) published a patent application filed by the USPS. The patent claims that a combination of the security of the blockchain and the mail service provide… [+6560 chars]"
+         "description" : "With the presidential election looming and uncertainty growing about what will happen to the stock market and economy after that, private companies are racing to make their debuts on Wall Street.",
+         "content" : "New York (CNN Business)With the presidential election looming and uncertainty growing about what will happen to the stock market and economy after that, private companies are racing to make their deb… [+5690 chars]"
       }
    ],
-   "status" : "ok",
    "totalResults" : 70
 }
