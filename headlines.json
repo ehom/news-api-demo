@@ -1,266 +1,266 @@
 {
-   "totalResults" : 70,
-   "status" : "ok",
    "articles" : [
       {
-         "title" : "This is the fierce competition the Tesla Cybertruck faces in the EV truck market - MarketWatch",
-         "urlToImage" : "https://s.marketwatch.com/public/resources/images/MW-IN737_kbb_cy_ZG_20200902150526.jpg",
-         "content" : "It took Tesla\r\n TSLA, \r\n +4.42%\r\n  barely 72 hours to capture 200,000 advance reservations for its new Cybertruck, or so it claims, about four times what it expects to be its annual production volume… [+4509 chars]",
-         "description" : "GM says it will revive the Hummer brand with an electric pickup and two Detroit startups promise EV trucks",
-         "publishedAt" : "2020-09-21T09:01:00Z",
+         "author" : "Yun Li",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106605654-1594126475875gettyimages-615191922.jpeg?v=1594126526",
+         "publishedAt" : "2020-09-21T12:15:00Z",
+         "content" : "Financial stocks came under pressure on Monday amid a report that a number of global banks moved allegedly illicit funds over the past two decades despite warnings from U.S. officials.\r\nShares of Deu… [+2424 chars]",
+         "description" : "The sell-off was triggered by reports that found a number of global banks moved allegedly illicit funds over the past two decades despite warnings from U.S. officials.",
+         "url" : "https://www.cnbc.com/2020/09/21/deutsche-bank-jpmorgan-lead-drop-in-financial-shares-amid-report-the-banks-moved-suspicious-funds.html",
+         "title" : "Deutsche Bank, JPMorgan lead drop in financial shares amid report the banks moved suspicious funds - CNBC",
+         "source" : {
+            "name" : "CNBC",
+            "id" : null
+         }
+      },
+      {
+         "author" : "Peter Schacknow",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106703086-16001809550062019-12-02T220628Z-448915381-RC2AND9J864B-RTRMADP-3-CNH-INDUSTRIAL-NIKOLA-JPG?v=1600181064",
+         "publishedAt" : "2020-09-21T11:51:00Z",
+         "content" : "Take a look at some of the biggest movers in the premarket:\r\nNikola (NKLA)  Nikola founder Trevor Milton is stepping down as executive chairman of the electric truck maker, amid allegations from shor… [+3313 chars]",
+         "description" : "The stocks making the biggest moves in premarket trading include Nikola, Illumina, Oracle, Walmart, and more.",
+         "url" : "https://www.cnbc.com/2020/09/21/stocks-making-the-biggest-moves-in-the-premarket-nikola-illumina-oracle-walmart-more.html",
+         "source" : {
+            "id" : null,
+            "name" : "CNBC"
+         },
+         "title" : "Stocks making the biggest moves in the premarket: Nikola, Illumina, Oracle, Walmart & more - CNBC"
+      },
+      {
+         "publishedAt" : "2020-09-21T11:40:00Z",
+         "urlToImage" : "https://www.kitco.com/news/2020-09-21/images/goldchart_0921_am.png",
+         "author" : "http://www.facebook.com/kitconews",
+         "source" : {
+            "name" : "Kitco NEWS",
+            "id" : null
+         },
+         "title" : "Gold, silver see price pressure despite keener risk aversion - Kitco NEWS",
+         "url" : "https://www.kitco.com/news/2020-09-21/Gold-silver-see-price-pressure-despite-keener-risk-aversion.html",
+         "description" : "Senior Technical Analyst Jim Wyckoff prepares investors with an overview of how the markets opened and closed. What moved metal prices? How do the technicals look? By looking at important developments",
+         "content" : "Editor's Note: With so much market volatility, stay on top of daily news! Get caught up in minutes with our speedy summary of today's must-read news and expert opinions. Sign up here! \r\n(Kitco News) … [+2910 chars]"
+      },
+      {
+         "url" : "https://www.wsj.com/articles/sequencing-firm-illumina-to-pay-7-1-billion-for-liquid-biopsy-firm-grail-11600682402",
+         "source" : {
+            "id" : "the-wall-street-journal",
+            "name" : "The Wall Street Journal"
+         },
+         "title" : "Sequencing Firm Illumina to Pay $7.1 Billion for Liquid-Biopsy Firm Grail - The Wall Street Journal",
+         "content" : "Illumina Inc., a leading maker of the machines that sequence genes, said Monday it will pay $7.1 billion in cash and stock for a developer of a long-sought blood test that promises to detect cancer e… [+247 chars]",
+         "description" : "Deal will push Illumina further into the clinical applications of its gene sequencers and related products and services",
+         "publishedAt" : "2020-09-21T11:38:00Z",
+         "author" : "Jonathan D. Rockoff",
+         "urlToImage" : "https://images.wsj.net/im-234396/social"
+      },
+      {
+         "title" : "Banks stocks sink after report of alleged widespread money-laundering activities - MarketWatch",
          "source" : {
             "name" : "MarketWatch",
             "id" : null
          },
-         "author" : "Paul A. Eisenstein",
-         "url" : "https://www.marketwatch.com/story/this-is-the-fierce-competition-the-tesla-cybertruck-faces-in-the-ev-truck-market-2020-09-21"
+         "url" : "https://www.marketwatch.com/story/banks-stocks-sink-after-report-of-alleged-widespread-money-laundering-2020-09-21",
+         "description" : "",
+         "content" : "Bank stocks took a broad hit in premarket trading Monday, after reports were published alleging many major banks continued doing business with customers despite suspecting money-laundering activities… [+548 chars]",
+         "publishedAt" : "2020-09-21T11:33:00Z",
+         "urlToImage" : "https://s.wsj.net/public/resources/MWimages/MW-GP644_MicroS_ZG_20180906154215.jpg",
+         "author" : "Tomi Kilgore"
       },
       {
-         "description" : "President Donald Trump said Saturday that he has approved a deal in principle where enterprise software maker Oracle and retail giant Walmart will partner TikTok in the U.S.",
-         "content" : "The logos of the Chinese video portal TikTok and the US software and hardware manufacturer Oracle Corporation can be seen on a smartphone and screen on September 14, 2020 in Berlin, Germany.\r\nSINGAPO… [+4991 chars]",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106703070-1600180400908-gettyimages-1228508504-200914_tfea_pht17.jpeg?v=1600670273",
-         "title" : "Oracle can now claim to be hosting 'two most important sites of our generation' — TikTok and Zoom - CNBC",
-         "url" : "https://www.cnbc.com/2020/09/21/oracle-can-now-claim-to-be-hosting-two-most-important-sites-of-our-generation-tiktok-and-zoom.html",
-         "author" : "Saheli Roy Choudhury",
+         "title" : "A financial crisis could surprise investors 'sooner rather than later,' warns Deutsche Bank - MarketWatch",
          "source" : {
-            "name" : "CNBC",
+            "name" : "MarketWatch",
             "id" : null
          },
-         "publishedAt" : "2020-09-21T08:00:00Z"
+         "url" : "https://www.marketwatch.com/story/a-financial-crisis-could-surprise-investors-sooner-rather-than-later-warns-deutsche-bank-11600686154",
+         "description" : "Critical information for the U.S. trading day",
+         "content" : "Excuses/reasons to sell? The stock markets giant vat of worries is spilling over on Monday.Global banks are tanking over allegations of a money-laundering scandal, second-wave COVID-19 worries, and a… [+4915 chars]",
+         "publishedAt" : "2020-09-21T11:02:00Z",
+         "urlToImage" : "https://images.mktw.net/im-234412/social",
+         "author" : "Barbara Kollmeyer"
       },
       {
+         "url" : "https://www.marketwatch.com/story/the-covid-19-lockdown-is-squeezing-real-estate-from-all-sides-and-threatens-to-burst-the-housing-and-mortgage-bubble-2020-09-21",
          "source" : {
             "id" : null,
             "name" : "MarketWatch"
          },
-         "publishedAt" : "2020-09-21T07:46:00Z",
-         "url" : "https://www.marketwatch.com/story/european-bank-stocks-slide-after-money-laundering-allegations-dow-futures-slide-300-points-11600674383",
-         "author" : "Steve Goldstein",
-         "title" : "European bank stocks slide after money-laundering allegations; Dow futures slide 300 points - MarketWatch",
-         "description" : "",
-         "content" : "Shares of Europes top banks dropped on Monday, after the publication of reports alleging they kept doing business with customers they suspected of money laundering and other wrongdoing.The report, le… [+2044 chars]",
-         "urlToImage" : "https://images.mktw.net/im-234406/social"
+         "title" : "The COVID-19 lockdown is squeezing real estate from all sides and threatens to burst the housing and mortgage bubble - MarketWatch",
+         "content" : "Recently the Federal Housing Finance Administration (FHFA) conservator of Fannie Mae and Freddie Mac extended the moratorium for both evictions and foreclosures until the end of the year. Many homeow… [+8028 chars]",
+         "description" : "Sooner or later, homeowners in this frothy U.S. housing market must pay the piper",
+         "publishedAt" : "2020-09-21T10:55:00Z",
+         "author" : "Keith Jurow",
+         "urlToImage" : "https://s.marketwatch.com/public/resources/images/MW-HC247_forecl_ZG_20190117161724.jpg"
       },
       {
-         "title" : "European stocks tumble as second wave COVID-19 concerns mount - Yahoo Finance",
-         "urlToImage" : "https://s.yimg.com/ny/api/res/1.2/2Ik9GxOfiQgAf8RJAm.dsg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyODA7aD04NTQuNA--/https://s.yimg.com/uu/api/res/1.2/qPE2p5L9PSnSHlEQlmtg5A--~B/aD0zNDg4O3c9NTIyNjtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-images/2020-07/e62fcce0-cb61-11ea-ba53-16f50ca1bcd0",
-         "content" : "Investor sentiment has been weighed down by growing fears over the global economic recovery from the coronavirus and a lack of further monetary stimulus. Photo: Getty\r\nFTSE stocks were on a steep dec… [+3671 chars]",
-         "description" : "COVID-19 concerns are mounting in the UK, with talk of another lockdown in London as Mayor Sadiq Khan publicly called for more aggressive action following...",
-         "publishedAt" : "2020-09-21T07:45:00Z",
+         "author" : "The Wall Street Journal",
+         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/07/0/0/NYSE-AP.jpg?ve=1&tl=1",
+         "publishedAt" : "2020-09-21T10:34:27Z",
+         "content" : "U.S. stock futures dropped sharply Monday, suggesting that the major benchmark indexes may extend their retreat into a fourth consecutive week.\r\nFutures tied to the S&amp;P 500 fell 1.6%, signaling t… [+3379 chars]",
+         "description" : "U.S. stock futures dropped sharply Monday, suggesting that the major benchmark indexes may extend their retreat into a fourth consecutive week.",
+         "url" : "https://www.wsj.com/articles/global-stock-markets-dow-update-9-21-2020-11600681496",
+         "source" : {
+            "name" : "The Wall Street Journal",
+            "id" : "the-wall-street-journal"
+         },
+         "title" : "Stock futures point to acceleration in S&P 500's losses - Fox Business"
+      },
+      {
+         "description" : "These fast-growing companies are a much better value than red-hot IPO Snowflake.",
+         "content" : "This has been a topsy-turvy year for Wall Street and the investment community. Though volatility never disappears from the stock market, we've borne witness to the wildest vacillations in history. Th… [+7449 chars]",
+         "source" : {
+            "id" : null,
+            "name" : "Motley Fool"
+         },
+         "title" : "Forget Snowflake: 3 Cloud Stocks I'd Rather Own - Motley Fool",
+         "url" : "https://www.fool.com/investing/2020/09/21/forget-snowflake-3-cloud-stocks-id-rather-own/",
+         "urlToImage" : "https://g.foolcdn.com/editorial/images/592169/cloud-computing-security-digital-online-sales-getty.jpg",
+         "author" : "Sean Williams",
+         "publishedAt" : "2020-09-21T10:06:00Z"
+      },
+      {
+         "description" : "Royal Caribbean and Norwegian's \"Healthy Sail Panel\" published a set of 74 recommendations to mitigate the spread of COVID-19 on cruise ships.",
+         "content" : "Walk-through portals of Far-UVC light can help sanitize clothing, skin and even air in traffic-heavy areas of cruise ships.\r\nUSA TODAY\r\nIt's not news that cruising will be different when ships return… [+5870 chars]",
+         "title" : "Tests, masks, temperature checks: 'Healthy Sail Panel' submits 74 COVID-19 cruise recommendations to CDC - USA TODAY",
+         "source" : {
+            "name" : "USA Today",
+            "id" : "usa-today"
+         },
+         "url" : "https://www.usatoday.com/story/travel/cruises/2020/09/21/norwegian-royal-caribbean-cruise-panel-suggests-covid-19-rules/5839739002/",
+         "urlToImage" : "https://www.gannett-cdn.com/-mm-/1ffd8d2ec7c957036c15d994a983d0071192adae/c=2-0-1198-673/local/-/media/2020/07/12/USATODAY/usatsports/MotleyFool-TMOT-64bb9f28-rcl-ship.jpeg?width=1600&height=800&fit=crop",
+         "author" : "Morgan Hines",
+         "publishedAt" : "2020-09-21T10:01:56Z"
+      },
+      {
+         "title" : "How The Post Office Became A Political Football - FiveThirtyEight",
+         "source" : {
+            "id" : null,
+            "name" : "FiveThirtyEight"
+         },
+         "url" : "https://fivethirtyeight.com/features/how-the-post-office-became-a-political-football/",
+         "description" : "The Postal Service isn’t struggling merely because of one new postmaster general’s changes.",
+         "content" : "Graphics by Elena Mejía\r\nILLUSTRATION BY EMILY SCHERER / GETTY IMAGES\r\nThe post office cant catch a break. Over the summer, operational changes implemented by the U.S. Postal Services new postmaster … [+10391 chars]",
+         "publishedAt" : "2020-09-21T10:00:00Z",
+         "urlToImage" : "https://fivethirtyeight.com/wp-content/uploads/2020/09/USPS-16x9-1.png?w=575",
+         "author" : "Kaleigh Rogers"
+      },
+      {
+         "description" : "Shortage of homes for sale means prices are being pushed higher, straining buyers’ budgets",
+         "content" : "The pandemic has aggravated the housing markets longstanding lack of supply, creating a historic shortage of homes for sale.\r\nBuyers are accelerating purchase plans or considering homeownership for t… [+1183 chars]",
+         "title" : "Americans Want Homes, but There Have Rarely Been Fewer for Sale - The Wall Street Journal",
+         "source" : {
+            "name" : "The Wall Street Journal",
+            "id" : "the-wall-street-journal"
+         },
+         "url" : "https://www.wsj.com/articles/americans-want-homes-but-there-have-rarely-been-fewer-for-sale-11600680612",
+         "urlToImage" : "https://images.wsj.net/im-233753/social",
+         "author" : "Nicole Friedman",
+         "publishedAt" : "2020-09-21T09:30:00Z"
+      },
+      {
+         "publishedAt" : "2020-09-21T09:11:00Z",
+         "urlToImage" : "https://s.yimg.com/uu/api/res/1.2/wUCYqjBszx7UeMU1RDn.Fw--~B/aD01MjY7dz04MDA7c209MTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en-US/reuters.com/45dec9b09f5a973d5e1cb130a59f6451",
+         "author" : "Noel Randewich",
+         "title" : "Tesla traders bet on Musk battery pitch to spark rally - Yahoo Finance",
          "source" : {
             "name" : "Yahoo Entertainment",
             "id" : null
          },
-         "author" : "Kumutha Ramanathan",
-         "url" : "https://www.yahoo.com/news/european-stocks-tilt-lower-as-central-banks-stall-stimulus-and-covid-19-concerns-mount-074507727.html"
+         "url" : "https://finance.yahoo.com/news/tesla-traders-bet-musk-battery-091131775.html",
+         "description" : "Tesla's stock has recovered in the runup to the event scheduled and it gained 1.4% in early trading on Monday, helped by a leaked email from Musk that said the company was hopeful of racking up record car deliveries in the third quarter.  Many analysts expect…",
+         "content" : "By Noel Randewich\r\n(Reuters) - Fasten your seatbelt, because Tuesday is Tesla's \"Battery Day\", and some investors expect Chief Executive Elon Musk's pitch on the electric car maker's energy storage a… [+3296 chars]"
       },
       {
-         "urlToImage" : "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2020%2F09%2Fadidas-yeezy-1050-gore-tex-sample-look-info-tw.jpg?w=960&cbr=1&q=90&fit=max",
-         "description" : "Reportedly one of three samples in existence.",
-         "content" : "Adding to our looks at rare Kanye West designed footwear, we now have a look at the adidasYEEZY 1050 GORE-TEX sample.\r\nReportedly one of three samples in existence, the chunky boot look builds on the… [+692 chars]",
-         "title" : "Take a Look at the adidas YEEZY 1050 GORE-TEX Sample - HYPEBEAST",
+         "urlToImage" : "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ih2I.47aoFHo/v0/1200x752.jpg",
+         "author" : "Charlotte Ryan",
+         "publishedAt" : "2020-09-21T08:56:00Z",
+         "description" : "European planemaker Airbus SE unveiled three designs it’s studying to build hydrogen-powered aircraft as it races to bring a zero-carbon passenger plane into service by 2035.",
+         "content" : "European planemaker \r\nAirbus SE unveiled three designs it’s studying to build hydrogen-powered aircraft as it races to bring a zero-carbon passenger plane into service by 2035.\r\nThe approaches includ… [+3324 chars]",
+         "title" : "Airbus Unveils Hydrogen Designs for Zero-Emission Flight - Bloomberg",
+         "source" : {
+            "id" : "bloomberg",
+            "name" : "Bloomberg"
+         },
+         "url" : "https://www.bloomberg.com/news/articles/2020-09-21/airbus-unveils-hydrogen-powered-designs-for-zero-emission-flight"
+      },
+      {
          "author" : "Nicolaus Li",
-         "url" : "https://hypebeast.com/2020/9/adidas-yeezy-1050-gore-tex-sample-look-info",
+         "urlToImage" : "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2020%2F09%2Fadidas-yeezy-1050-gore-tex-sample-look-info-tw.jpg?w=960&cbr=1&q=90&fit=max",
          "publishedAt" : "2020-09-21T07:29:00Z",
+         "content" : "Adding to our looks at rare Kanye West designed footwear, we now have a look at the adidasYEEZY 1050 GORE-TEX sample.\r\nReportedly one of three samples in existence, the chunky boot look builds on the… [+692 chars]",
+         "description" : "Reportedly one of three samples in existence.",
+         "url" : "https://hypebeast.com/2020/9/adidas-yeezy-1050-gore-tex-sample-look-info",
+         "title" : "Take a Look at the adidas YEEZY 1050 GORE-TEX Sample - HYPEBEAST",
          "source" : {
             "name" : "HYPEBEAST",
             "id" : null
          }
       },
       {
-         "url" : "https://finance.yahoo.com/news/jack-ma-ant-said-lift-033416883.html",
          "author" : "Lulu Yilun Chen",
-         "source" : {
-            "id" : null,
-            "name" : "Yahoo Entertainment"
-         },
+         "urlToImage" : "https://s.yimg.com/uu/api/res/1.2/46sB7IEozSKSYX7F7Y28jA--~B/aD03NjY7dz0xMjk2O3NtPTE7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/bloomberg_technology_68/0b3e5d67c0672ee557715396ae4befd0",
          "publishedAt" : "2020-09-21T07:19:00Z",
          "content" : "(Bloomberg) -- Jack Mas Ant Group is seeking to raise at least $35 billion in its initial public offering after assessing early investor interest, people familiar with the matter said, putting the Ch… [+2824 chars]",
          "description" : "(Bloomberg) -- Jack Ma’s Ant Group is seeking to raise at least $35 billion in its initial public offering after assessing early investor interest, people familiar with the matter said, putting the Chinese fintech giant on track for a record debut sale.Ant li…",
-         "urlToImage" : "https://s.yimg.com/uu/api/res/1.2/46sB7IEozSKSYX7F7Y28jA--~B/aD03NjY7dz0xMjk2O3NtPTE7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/bloomberg_technology_68/0b3e5d67c0672ee557715396ae4befd0",
-         "title" : "Jack Ma’s Ant to Lift IPO Funding Target to $35 Billion - Yahoo Finance"
-      },
-      {
-         "description" : "",
-         "content" : "Goldman Sachs added Boeing \r\n BA, \r\n -3.81%\r\nand Raytheon Technologies \r\n RTX, \r\n -0.73%\r\nto its conviction buy list, while remove L3Harris Technologies \r\n LHX, \r\n -0.12%\r\nand Lockheed Martin \r\n LMT,… [+561 chars]",
-         "urlToImage" : "https://s.wsj.net/public/resources/MWimages/MW-GP644_MicroS_ZG_20180906154215.jpg",
-         "title" : "Boeing, Raytheon added to Goldman's conviction buy list - MarketWatch",
-         "url" : "https://www.marketwatch.com/story/boeing-raytheon-added-to-goldmans-conviction-buy-list-2020-09-21",
-         "author" : "Steve Goldstein",
+         "url" : "https://finance.yahoo.com/news/jack-ma-ant-said-lift-033416883.html",
+         "title" : "Jack Ma’s Ant to Lift IPO Funding Target to $35 Billion - Yahoo Finance",
          "source" : {
-            "name" : "MarketWatch",
+            "name" : "Yahoo Entertainment",
             "id" : null
-         },
-         "publishedAt" : "2020-09-21T06:43:00Z"
+         }
       },
       {
-         "title" : "COVID-19 Vaccine Car Crash - Seeking Alpha",
-         "description" : "Adverse event(s?) with AstraZeneca/Oxford University Phase 3 trial need more clarity for public confidence; the adverse event(s?) came after the second dose of the vaccine.",
-         "content" : "News in the past week has not been encouraging that COVID-19 vaccine development is on track. In fact, claims by President Trump about the likely end of the pandemic seem quaintly like groundhog day … [+16094 chars]",
+         "author" : "Keith Williams",
          "urlToImage" : "https://static1.seekingalpha.com/images/marketing_images/health_medical/healthcare_doctor.jpeg",
+         "publishedAt" : "2020-09-21T06:32:00Z",
+         "content" : "News in the past week has not been encouraging that COVID-19 vaccine development is on track. In fact, claims by President Trump about the likely end of the pandemic seem quaintly like groundhog day … [+16094 chars]",
+         "description" : "Adverse event(s?) with AstraZeneca/Oxford University Phase 3 trial need more clarity for public confidence; the adverse event(s?) came after the second dose of the vaccine.",
+         "url" : "https://seekingalpha.com/article/4375370-covidminus-19-vaccine-car-crash",
          "source" : {
             "id" : null,
             "name" : "Seeking Alpha"
          },
-         "publishedAt" : "2020-09-21T06:32:00Z",
-         "url" : "https://seekingalpha.com/article/4375370-covidminus-19-vaccine-car-crash",
-         "author" : "Keith Williams"
+         "title" : "COVID-19 Vaccine Car Crash - Seeking Alpha"
       },
       {
-         "description" : "The world's largest 50 investment banks are on track to double their income from precious metals this year to around $2.5 billion, most of it from gold, ...",
-         "content" : "By Peter Hobson\r\nLONDON (Reuters) - Banks are making huge profits from gold as investors flood into a market fractured by the coronavirus crisis.\r\nThe world's largest 50 investment banks are on track… [+6411 chars]",
-         "urlToImage" : "https://s.yimg.com/uu/api/res/1.2/vKfhOjuQxsth4Em_2jeuuw--~B/aD01NjY7dz04MDA7c209MTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en-US/reuters.com/eb24183857ae42285e45c1868af6f60a",
-         "title" : "'Free money' for banks as investors pile into fractured gold market - Yahoo Finance",
-         "url" : "https://finance.yahoo.com/news/free-money-banks-investors-pile-051002455.html",
-         "author" : "Peter Hobson",
-         "source" : {
-            "id" : null,
-            "name" : "Yahoo Entertainment"
-         },
-         "publishedAt" : "2020-09-21T05:13:30Z"
-      },
-      {
-         "source" : {
-            "name" : "Fox Business",
-            "id" : null
-         },
-         "publishedAt" : "2020-09-21T05:06:00Z",
-         "url" : "https://www.foxbusiness.com/retail/donald-m-kendall-originator-of-cola-wars-dies-at-99",
-         "author" : "The Wall Street Journal",
-         "title" : "Donald M. Kendall, PepsiCo developer of cola wars, dies at 99 - Fox Business",
-         "description" : "",
-         "content" : "Donald M. Kendall, who built PepsiCo Inc. into a snack-and-beverage juggernaut and introduced the Soviet Union to American cola at the height of the Cold War, died Saturday. He was 99 years old.\r\nThe… [+1593 chars]",
-         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/01/0/0/pepsi-zxero-sugar-can-PEPSI.jpg?ve=1&tl=1"
-      },
-      {
-         "urlToImage" : "https://s.marketwatch.com/public/resources/images/MW-HC650_hk0124_ZG_20190124231757.jpg",
-         "description" : "",
-         "content" : "BEIJING (AP) Asian stock markets were mostly lower Monday after Wall Street declined for a third week and Britain reported a rise in coronavirus infections.Benchmarks in Shanghai, Hong Kong and Sydne… [+3411 chars]",
-         "title" : "Asian markets start Monday lower with U.S. mired in three-week losing streak - MarketWatch",
-         "author" : "Associated Press",
-         "url" : "https://www.marketwatch.com/story/asian-markets-start-monday-lower-with-us-mired-in-three-week-losing-streak-2020-09-21",
-         "publishedAt" : "2020-09-21T04:34:00Z",
-         "source" : {
-            "id" : null,
-            "name" : "MarketWatch"
-         }
-      },
-      {
-         "source" : {
-            "name" : "New York Post",
-            "id" : null
-         },
-         "publishedAt" : "2020-09-21T04:19:00Z",
-         "url" : "https://nypost.com/2020/09/21/woman-spread-coronavirus-to-15-people-aboard-london-to-vietnam-flight/",
-         "author" : "Kenneth Garger",
-         "title" : "Woman spread coronavirus to 15 people on international flight - New York Post ",
-         "content" : "A single sickened airplane passenger spread coronavirus to 15 other people aboard a flight from London to Vietnam, according to a newly published study.\r\nThe passenger, identified as a 27-year-old bu… [+1407 chars]",
-         "description" : "A single sickened airplane passenger spread coronavirus to 15 other people aboard a flight from London to Vietnam, according to a newly published study. The passenger, identified as a 27-year-old b…",
-         "urlToImage" : "https://nypost.com/wp-content/uploads/sites/2/2020/09/vietnam-flight.jpg?quality=90&strip=all&w=1200"
-      },
-      {
+         "publishedAt" : "2020-09-21T05:06:09Z",
+         "author" : "Benzinga EV Insights",
+         "urlToImage" : "https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/images/story/2012/nikola_refuse1.jpg",
+         "url" : "https://www.benzinga.com/news/20/09/17577909/trevor-milton-leaves-nikola-motors-freightwaves",
+         "title" : "Trevor Milton Leaves Nikola Motors: FreightWaves - Benzinga",
          "source" : {
             "name" : "Benzinga",
             "id" : null
          },
-         "publishedAt" : "2020-09-21T04:01:00Z",
-         "url" : "https://www.benzinga.com/pressreleases/20/09/b17577953/walmart-sets-goal-to-become-a-regenerative-company",
-         "author" : "Business Wire",
-         "title" : "Walmart sets goal to become a regenerative company - Benzinga",
-         "content" : "World's largest retailer targets zero emissions by 2040 and aims to protect, manage or restore at least 50 million acres of land and one million square miles of ocean by 2030\r\nBuilding on more than 1… [+5855 chars]",
-         "description" : "World's largest retailer targets zero emissions by 2040 and aims to protect, manage or restore at least 50 million acres of land and one million square ...",
-         "urlToImage" : "https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/sites/all/themes/bz2/images/bz-icon.png"
+         "content" : "In a bit of surprising news, FreightWaves is reporting Nikola Corporation (NASDAQ: NKLA)Executive Chairman Trevor Milton has left his role at the electric vehicle maker. \r\nMilton has been under fire … [+1760 chars]",
+         "description" : "In a bit of surprising news, FreightWaves is reporting Nikola Corporation (NASDAQ: NKLA) Executive Chairman Trevor Milton has left his role ..."
       },
       {
-         "publishedAt" : "2020-09-21T04:01:00Z",
+         "publishedAt" : "2020-09-21T04:19:00Z",
+         "author" : "Kenneth Garger",
+         "urlToImage" : "https://nypost.com/wp-content/uploads/sites/2/2020/09/vietnam-flight.jpg?quality=90&strip=all&w=1200",
+         "url" : "https://nypost.com/2020/09/21/woman-spread-coronavirus-to-15-people-aboard-london-to-vietnam-flight/",
          "source" : {
-            "name" : "CNN",
-            "id" : "cnn"
-         },
-         "author" : "Parija Kavilanz, CNN Business",
-         "url" : "https://www.cnn.com/2020/09/21/business/walmart-private-label-clothing/index.html",
-         "title" : "It's not just groceries. Why clothing is important to Walmart - CNN",
-         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200918010502-20200918-walmart-free-assembly-super-tease.jpg",
-         "description" : null,
-         "content" : null
-      },
-      {
-         "urlToImage" : "https://s.marketwatch.com/public/resources/images/MW-IO846_fairfa_MD_20200920235222.jpg",
-         "content" : "A day after the cable news channels carried images of Election Daylength lines at some polling places in suburban Virginia, and elsewhere, on the opening day of the early voting period, a Washington,… [+1130 chars]",
-         "description" : "Virginia Republicans’ Twitter account suggests those complaining call for a ‘waaaambulance’",
-         "title" : "Critics say Trump supporters staging event at early voting site in Virginia aimed to intimidate and suppress - MarketWatch",
-         "author" : "MarketWatch",
-         "url" : "https://www.marketwatch.com/story/critics-say-trump-supporters-staging-event-at-early-voting-site-in-virginia-sought-to-intimidate-and-suppress-2020-09-20",
-         "publishedAt" : "2020-09-21T03:54:00Z",
-         "source" : {
-            "id" : null,
-            "name" : "MarketWatch"
-         }
-      },
-      {
-         "source" : {
-            "name" : "FreightWaves",
+            "name" : "New York Post",
             "id" : null
          },
-         "publishedAt" : "2020-09-21T03:28:49Z",
-         "url" : "https://www.freightwaves.com/news/breaking-news-trevor-milton-out-of-nikola",
-         "author" : "FreightWaves Staff",
-         "title" : "Breaking News: Trevor Milton out at Nikola Motor - FreightWaves",
-         "description" : "Sources close to the embattled fuel cell truck manufacturer are reporting that founder Trevor Milton has resigned as executive chairman of Nikola Motor (NASDAQ: NKLA) and has departed the company effe",
-         "content" : "And there it is folks, his final endgame. If there was any veracity in the Hindenburg report about his past endeavors, then this result has been his entire purpose in doing everything he has done wit… [+1695 chars]",
-         "urlToImage" : "https://s29755.pcdn.co/wp-content/uploads/2020/09/061820-Trevor-MIlton-768x512.jpg"
+         "title" : "Woman spread coronavirus to 15 people on international flight - New York Post ",
+         "content" : "A single sickened airplane passenger spread coronavirus to 15 other people aboard a flight from London to Vietnam, according to a newly published study.\r\nThe passenger, identified as a 27-year-old bu… [+1407 chars]",
+         "description" : "A single sickened airplane passenger spread coronavirus to 15 other people aboard a flight from London to Vietnam, according to a newly published study. The passenger, identified as a 27-year-old b…"
       },
       {
-         "author" : "Daniel Moss",
-         "url" : "https://finance.yahoo.com/news/dont-overthink-chinas-strengthening-yuan-021626585.html",
-         "publishedAt" : "2020-09-21T03:22:30Z",
-         "source" : {
-            "name" : "Yahoo Entertainment",
-            "id" : null
-         },
-         "urlToImage" : "https://s.yimg.com/uu/api/res/1.2/RM.1NtHBV3xVRD.JEDNypw--~B/aD0xMzM0O3c9MjAwMDtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bloomberg_opinion_268/f6901029b9300f377cb3ba199977e661",
-         "content" : "(Bloomberg Opinion) -- China may be the only major economy to notch growth at all in 2020, quite the reversal after the onset of Covid-19 triggered a historic collapse early in the year. This revival… [+4710 chars]",
-         "description" : "(Bloomberg Opinion) -- China may be the only major economy to notch growth at all in 2020, quite the reversal after the onset of Covid-19 triggered a historic collapse early in the year. This revival has been reflected in the yuan, Asia's best performing curr…",
-         "title" : "Don't Overthink China's Strengthening Yuan - Yahoo Finance"
-      },
-      {
-         "title" : "Carnival Cruise Line Terminates Thousands of Crew Members and Senior Shipboard Officers - Cruise Law News",
-         "urlToImage" : "https://cruiselawnews.lexblogplatform.com/wp-content/uploads/sites/563/2020/09/Carnival_Inspiration.jpg",
-         "content" : "Carnival Cruise Line is taking steps to terminate and/or not renew the contracts of employment of several thousands of officers and crew members throughout its fleet, according to several crew member… [+2969 chars]",
-         "description" : "Carnival Cruise Line is taking steps to terminate and/or not renew the contracts of employment of several thousands of officers and crew members",
-         "publishedAt" : "2020-09-21T02:25:30Z",
+         "content" : "Walmart (WMT) is doubling-down its sustainability efforts to combat climate change, laying out a plan to be a zero-emission company across its global operations by 2040.\r\nOn Monday, Walmart CEO Doug … [+4338 chars]",
+         "description" : "Walmart is doubling-down its sustainability efforts to combat climate change.",
+         "url" : "https://finance.yahoo.com/news/walmart-sets-goal-to-reach-zero-emissions-by-2040-040115149.html",
+         "title" : "Walmart outlines climate-friendly goal to decarbonize operations within 20 years - Yahoo Finance",
          "source" : {
             "id" : null,
-            "name" : "Cruise Law News"
+            "name" : "Yahoo Entertainment"
          },
-         "author" : "http://www.facebook.com/pages/Cruise-Law-News/136612489720349?v=wall",
-         "url" : "https://www.cruiselawnews.com/2020/09/articles/disease/carnival-cruise-line-terminates-thousands-of-crew-members-and-senior-shipboard-officers/"
-      },
-      {
-         "source" : {
-            "name" : "The Wall Street Journal",
-            "id" : "the-wall-street-journal"
-         },
-         "publishedAt" : "2020-09-21T02:23:00Z",
-         "url" : "https://www.wsj.com/articles/auto-supplier-garrett-motion-files-for-chapter-11-with-2-1-billion-kps-offer-11600652574",
-         "author" : "Andrew Scurria",
-         "title" : "Auto Supplier Garrett Motion Files for Chapter 11 With $2.1 Billion KPS Offer - The Wall Street Journal",
-         "description" : "Garrett is under pressure from the Covid-19 pandemic and a dispute with former parent Honeywell International",
-         "content" : "Auto-parts manufacturer Garrett Motion Inc. filed for bankruptcy over a pandemic-driven sales drop and a dispute with Honeywell International Inc., proposing a $2.1 billion sale of the business to pr… [+334 chars]",
-         "urlToImage" : "https://images.wsj.net/im-234380/social"
-      },
-      {
-         "author" : "Lucas Combos",
-         "url" : "https://patch.com/washington/seattle/349-new-coronavirus-cases-recorded-washington",
-         "publishedAt" : "2020-09-21T02:22:00Z",
-         "source" : {
-            "id" : null,
-            "name" : "Avon, CT Patch"
-         },
-         "urlToImage" : "https://patch.com/img/cdn20/shutterstock/23562256/20200920/102204/styles/patch_image/public/shutterstock-1661207908___20222114673.jpg",
-         "description" : "According to Sunday's data, 13 counties reported no increase in their case counts.",
-         "content" : "SEATTLE, WA State health officials reported 349 new coronavirus cases in Washington on Sunday, with the highest daily totals seen in King, Spokane and Pierce counties. Thirteen counties reported no i… [+4106 chars]",
-         "title" : "349 New Coronavirus Cases Recorded In Washington - Seattle, WA Patch"
+         "author" : "Julia La Roche",
+         "urlToImage" : "https://s.yimg.com/uu/api/res/1.2/ZXPb7EnzX3ERFUspE21Mpg--~B/aD0yMzIyO3c9MzQ4MztzbT0xO2FwcGlkPXl0YWNoeW9u/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-images/2019-06/43359200-893f-11e9-9efe-3a1e1a098bb8",
+         "publishedAt" : "2020-09-21T04:03:36Z"
       }
-   ]
+   ],
+   "totalResults" : 70,
+   "status" : "ok"
 }
