@@ -1,266 +1,266 @@
 {
-   "totalResults" : 70,
    "status" : "ok",
    "articles" : [
       {
-         "title" : "New Hampshire mom says she was kicked off flight after her 2-year-old refused mask: report - Fox News",
-         "publishedAt" : "2020-09-22T08:38:53Z",
          "source" : {
             "id" : "fox-news",
             "name" : "Fox News"
          },
-         "urlToImage" : "https://static.foxnews.com/foxnews.com/content/uploads/2020/06/American-Airlines-flight.jpg",
-         "url" : "https://www.foxnews.com/travel/nh-mother-kicked-off-flight-toddler-2-wear-mask",
          "content" : "A New Hampshire mom said was forced off an American Airlines flight last week because her 2-year-old son would not wear a face mask amid the coronavirus pandemic, according to a report on Monday.\r\nRa… [+2623 chars]",
          "author" : "David Aaro",
+         "urlToImage" : "https://static.foxnews.com/foxnews.com/content/uploads/2020/06/American-Airlines-flight.jpg",
+         "publishedAt" : "2020-09-22T08:38:53Z",
+         "url" : "https://www.foxnews.com/travel/nh-mother-kicked-off-flight-toddler-2-wear-mask",
+         "title" : "New Hampshire mom says she was kicked off flight after her 2-year-old refused mask: report - Fox News",
          "description" : "A New Hampshire woman says she said was forced off an American Airlines flight last week because her 2-year-old son would not wear a face mask amid the coronavirus pandemic, according to a report on Monday."
       },
       {
-         "author" : null,
-         "content" : "When you are so stupid to actually think you are the smartest guy in the room, you end up saying and doing a lot of very stupid things.\r\nSome Trump classics I recall:\r\nNobody knew health care would b… [+1226 chars]",
          "url" : "https://www.thestreet.com/mishtalk/economics/wow-trump-didnt-know-that-the-dollar-floats",
-         "description" : "A clueless Trump asked his aides to weaken the dollar.",
          "publishedAt" : "2020-09-22T08:03:42Z",
-         "title" : "Wow, Trump Didn't Know That the Dollar Floats - TheStreet",
+         "author" : null,
          "urlToImage" : "https://imageproxy.themaven.net/https%3A%2F%2Fimages.saymedia-content.com%2F.image%2FMTc1NTcxMDMxOTQ2MTc1NjA3%2Ftrump-asked-to-weaken-the-dollar.png?w=1024&q=40&h=752&auto=format&fit=max",
+         "content" : "When you are so stupid to actually think you are the smartest guy in the room, you end up saying and doing a lot of very stupid things.\r\nSome Trump classics I recall:\r\nNobody knew health care would b… [+1226 chars]",
          "source" : {
-            "name" : "TheStreet",
-            "id" : null
-         }
+            "id" : null,
+            "name" : "TheStreet"
+         },
+         "description" : "A clueless Trump asked his aides to weaken the dollar.",
+         "title" : "Wow, Trump Didn't Know That the Dollar Floats - TheStreet"
       },
       {
-         "content" : "European stocks edged higher on Tuesday after their worst one-day performance in more than three months, as the Continent faces tighter economic restrictions due to rising cases of coronavirus.The U.… [+2757 chars]",
-         "author" : "Steve Goldstein",
-         "url" : "https://www.marketwatch.com/story/european-stocks-nudge-higher-after-worst-drubbing-in-three-months-amid-second-wave-concerns-11600760250",
-         "description" : "U.K. set to announce new restrictions on pubs",
-         "title" : "European stocks nudge higher after worst drubbing in three months amid second wave concerns - MarketWatch",
-         "publishedAt" : "2020-09-22T07:37:00Z",
-         "urlToImage" : "https://images.mktw.net/im-234860/social",
          "source" : {
             "id" : null,
             "name" : "MarketWatch"
-         }
+         },
+         "content" : "European stocks edged higher on Tuesday after their worst one-day performance in more than three months, as the Continent faces tighter economic restrictions due to rising cases of coronavirus.The U.… [+2757 chars]",
+         "author" : "Steve Goldstein",
+         "urlToImage" : "https://images.mktw.net/im-234860/social",
+         "publishedAt" : "2020-09-22T07:37:00Z",
+         "url" : "https://www.marketwatch.com/story/european-stocks-nudge-higher-after-worst-drubbing-in-three-months-amid-second-wave-concerns-11600760250",
+         "title" : "European stocks nudge higher after worst drubbing in three months amid second wave concerns - MarketWatch",
+         "description" : "U.K. set to announce new restrictions on pubs"
       },
       {
-         "url" : "https://cleantechnica.com/2020/09/22/what-to-watch-for-on-tesla-tsla-battery-day/",
-         "content" : "BatteriesPublished on September 22nd, 2020 |\r\n by Frugal Moogal\r\n0\r\nSeptember 22nd, 2020 by Frugal Moogal \r\nNote: Nothing below is investment advice.\r\nIn just a few hours on Tuesday, September 22, at… [+7019 chars]",
-         "author" : "Frugal Moogal",
          "description" : "In just a few hours — on Tuesday, September 22, at 1:30pm Pacific Time — Tesla will kick off Battery Day. I've seen a ton of articles making predictions about what Tesla will unveil on Battery Day, but I haven't seen many about what to watch for, both at the …",
          "title" : "What To Watch For On Tesla [TSLA] Battery Day - CleanTechnica",
-         "publishedAt" : "2020-09-22T05:34:12Z",
          "source" : {
-            "name" : "CleanTechnica",
-            "id" : null
+            "id" : null,
+            "name" : "CleanTechnica"
          },
-         "urlToImage" : "https://cleantechnica.com/files/2020/09/frugal-battery-scaled.jpg"
+         "urlToImage" : "https://cleantechnica.com/files/2020/09/frugal-battery-scaled.jpg",
+         "author" : "Frugal Moogal",
+         "content" : "BatteriesPublished on September 22nd, 2020 |\r\n by Frugal Moogal\r\n0\r\nSeptember 22nd, 2020 by Frugal Moogal \r\nNote: Nothing below is investment advice.\r\nIn just a few hours on Tuesday, September 22, at… [+7019 chars]",
+         "url" : "https://cleantechnica.com/2020/09/22/what-to-watch-for-on-tesla-tsla-battery-day/",
+         "publishedAt" : "2020-09-22T05:34:12Z"
       },
       {
-         "author" : "Lewis Krauskopf",
-         "content" : "NEW YORK (Reuters) - Optimism that vaccines are on the way to end the coronavirus pandemic has been a major factor in this years U.S. stock resurgence. That will face a critical test in coming weeks,… [+3915 chars]",
-         "url" : "https://www.reuters.com/article/us-usa-stocks-vaccine-analysis-idUSKCN26D0FW",
+         "title" : "COVID-19 vaccine verdicts loom as next big market risk - Reuters",
          "description" : "Optimism that vaccines are on the way to end the coronavirus pandemic has been a major factor in this year’s U.S. stock resurgence. That will face a critical test in coming weeks, as investors await clinical data on whether they actually work.",
          "publishedAt" : "2020-09-22T05:07:00Z",
-         "title" : "COVID-19 vaccine verdicts loom as next big market risk - Reuters",
+         "url" : "https://www.reuters.com/article/us-usa-stocks-vaccine-analysis-idUSKCN26D0FW",
+         "content" : "NEW YORK (Reuters) - Optimism that vaccines are on the way to end the coronavirus pandemic has been a major factor in this years U.S. stock resurgence. That will face a critical test in coming weeks,… [+3915 chars]",
+         "author" : "Lewis Krauskopf",
          "urlToImage" : "https://static.reuters.com/resources/r/?m=02&d=20200922&t=2&i=1534411298&r=LYNXNPEG8L097&w=800",
          "source" : {
-            "id" : "reuters",
-            "name" : "Reuters"
+            "name" : "Reuters",
+            "id" : "reuters"
          }
       },
       {
-         "title" : "As housing rebounds, non-QM mortgages for business owners make a comeback - MSN Money",
-         "publishedAt" : "2020-09-22T04:10:00Z",
          "source" : {
             "name" : "Bankrate.com",
             "id" : null
          },
-         "urlToImage" : "https://media.brstatic.com/2020/09/21123804/ArtWager.jpg",
+         "publishedAt" : "2020-09-22T04:10:00Z",
          "url" : "https://www.bankrate.com/mortgages/non-qm-mortgages-bounce-back/",
          "content" : "At Bankrate we strive to help you make smarter financial decisions.\r\n While we adhere to strict \r\n editorial integrity, \r\n this post may contain references to products from our partners. \r\n Heres an … [+3840 chars]",
+         "urlToImage" : "https://media.brstatic.com/2020/09/21123804/ArtWager.jpg",
          "author" : "Jeff Ostrowski",
+         "title" : "As housing rebounds, non-QM mortgages for business owners make a comeback - MSN Money",
          "description" : "These loans disappeared early in the recession. Now they’re back."
       },
       {
+         "title" : "AstraZeneca-Oxford vaccine reports 2nd serious adverse event, now what? - ThePrint",
+         "description" : null,
+         "publishedAt" : "2020-09-22T04:05:53Z",
+         "url" : "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9TEdGYnZJUW1rblXSAQA?oc=5",
+         "content" : null,
+         "author" : null,
+         "urlToImage" : null,
          "source" : {
             "id" : "google-news",
             "name" : "Google News"
-         },
-         "urlToImage" : null,
-         "title" : "AstraZeneca-Oxford vaccine reports 2nd serious adverse event, now what? - ThePrint",
-         "publishedAt" : "2020-09-22T04:05:53Z",
-         "description" : null,
-         "url" : "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9TEdGYnZJUW1rblXSAQA?oc=5",
-         "content" : null,
-         "author" : null
-      },
-      {
-         "author" : "Scott Rutt",
-         "content" : "If you have cash on the sidelines, now's the time to do some buying, Jim Cramer told his Mad Money viewers Monday. That's because the selloff didn't begin today, Cramer said. It's been happening for … [+6773 chars]",
-         "url" : "https://www.thestreet.com/jim-cramer/cue-the-buying-cramers-mad-money-recap-sept-21",
-         "description" : "Jim Cramer says it seems we're in disarray, and we are. But investors need to keep a sharp eye out for a rebound on the horizon.",
-         "publishedAt" : "2020-09-22T03:10:00Z",
-         "title" : "Cue the Buying: Cramer's 'Mad Money' Recap (Monday 9/21/20) - TheStreet",
-         "urlToImage" : "https://www.thestreet.com/.image/t_share/MTY4NjUxNTA1MTYyMTM1NDQ3/bring-on-the-rate-hike-cramers-mad-money-recap-friday-31017.jpg",
-         "source" : {
-            "name" : "TheStreet",
-            "id" : null
          }
       },
       {
-         "description" : "The Federal Reserve remains committed to using all the tools at its disposal to help the U.S. economy recover from the blow delivered by the coronavirus pandemic, Chair Jerome Powell said on Monday.",
-         "url" : "https://www.reuters.com/article/health-coronavirus-usa-fed-idUSKCN26D05S",
-         "author" : "Reuters Staff",
-         "content" : "By Reuters Staff\r\nFILE PHOTO: U.S. Federal Reserve Chairman Jerome Powell speaks to reporters after the Federal Reserve cut interest rates in an emergency move designed to shield the world's largest … [+1763 chars]",
+         "source" : {
+            "name" : "TheStreet",
+            "id" : null
+         },
+         "publishedAt" : "2020-09-22T03:10:00Z",
+         "url" : "https://www.thestreet.com/jim-cramer/cue-the-buying-cramers-mad-money-recap-sept-21",
+         "content" : "If you have cash on the sidelines, now's the time to do some buying, Jim Cramer told his Mad Money viewers Monday. That's because the selloff didn't begin today, Cramer said. It's been happening for … [+6773 chars]",
+         "author" : "Scott Rutt",
+         "urlToImage" : "https://www.thestreet.com/.image/t_share/MTY4NjUxNTA1MTYyMTM1NDQ3/bring-on-the-rate-hike-cramers-mad-money-recap-friday-31017.jpg",
+         "title" : "Cue the Buying: Cramer's 'Mad Money' Recap (Monday 9/21/20) - TheStreet",
+         "description" : "Jim Cramer says it seems we're in disarray, and we are. But investors need to keep a sharp eye out for a rebound on the horizon."
+      },
+      {
          "source" : {
             "id" : "reuters",
             "name" : "Reuters"
          },
-         "urlToImage" : "https://static.reuters.com/resources/r/?m=02&d=20200922&t=2&i=1534390219&r=LYNXNPEG8L026&w=800",
+         "url" : "https://www.reuters.com/article/health-coronavirus-usa-fed-idUSKCN26D05S",
          "publishedAt" : "2020-09-22T02:19:00Z",
+         "urlToImage" : "https://static.reuters.com/resources/r/?m=02&d=20200922&t=2&i=1534390219&r=LYNXNPEG8L026&w=800",
+         "author" : "Reuters Staff",
+         "content" : "By Reuters Staff\r\nFILE PHOTO: U.S. Federal Reserve Chairman Jerome Powell speaks to reporters after the Federal Reserve cut interest rates in an emergency move designed to shield the world's largest … [+1763 chars]",
+         "description" : "The Federal Reserve remains committed to using all the tools at its disposal to help the U.S. economy recover from the blow delivered by the coronavirus pandemic, Chair Jerome Powell said on Monday.",
          "title" : "Fed's Powell says central bank committed to using all tools to help recovery - Reuters"
       },
       {
+         "title" : "The pastry chef adding to Japan's 400+ flavors of Kit Kat - CNN",
+         "description" : "Kit Kat is big in Japan. From cheesecake to wasabi to purple sweet potato, the crispy wafer bar is available in more than 400 varieties, according to Yuji Takeuchi, marketing manager for Nestlé Japan. And it's up to Yasumasa Takagi to keep the fresh flavors c…",
+         "content" : "Chat with us in Facebook Messenger. Find out what's happening in the world as it unfolds.",
          "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200921210452-gbs-kit-kat-super-tease.jpg",
+         "author" : null,
+         "publishedAt" : "2020-09-22T01:45:51Z",
+         "url" : "https://www.cnn.com/videos/world/2020/09/22/great-big-story-kit-kat-400-varieties-gbs.cnn",
          "source" : {
             "id" : "cnn",
             "name" : "CNN"
-         },
-         "title" : "The pastry chef adding to Japan's 400+ flavors of Kit Kat - CNN",
-         "publishedAt" : "2020-09-22T01:45:51Z",
-         "description" : "Kit Kat is big in Japan. From cheesecake to wasabi to purple sweet potato, the crispy wafer bar is available in more than 400 varieties, according to Yuji Takeuchi, marketing manager for Nestlé Japan. And it's up to Yasumasa Takagi to keep the fresh flavors c…",
-         "content" : "Chat with us in Facebook Messenger. Find out what's happening in the world as it unfolds.",
-         "author" : null,
-         "url" : "https://www.cnn.com/videos/world/2020/09/22/great-big-story-kit-kat-400-varieties-gbs.cnn"
+         }
       },
       {
-         "source" : {
-            "id" : null,
-            "name" : "Fox Business"
-         },
-         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/09/0/0/Trevor-Milton-Nikola-reuters.jpg?ve=1&tl=1",
          "title" : "Nikola founder Trevor Milton keeps billions in stock after exit amid fraud allegations - Fox Business",
-         "publishedAt" : "2020-09-22T01:12:52Z",
          "description" : "Though no longer involved in Nikola’s leadership after the separation agreement, Milton remains the firm’s biggest individual shareholder",
-         "url" : "https://www.foxbusiness.com/technology/nikola-trevor-milton-stock-exit-package",
-         "content" : "Former Nikola executive chairman Trevor Milton exited the company he founded with stock worth billions of dollars after his abrupt resignation on Monday amid allegations of fraud.\r\nUnder the terms of… [+2508 chars]",
-         "author" : "Thomas Barrabi"
-      },
-      {
-         "source" : {
-            "id" : null,
-            "name" : "MacRumors"
-         },
-         "urlToImage" : "https://images.macrumors.com/t/2TZZZXMBTdTJm_w5Kvsg0QFEjgc=/1600x/https://images.macrumors.com/article-new/2020/09/timcooktheatlantic.jpg",
-         "publishedAt" : "2020-09-22T00:48:00Z",
-         "title" : "Apple CEO Tim Cook Talks Antitrust Investigation, Trump Relationship, Working From Home and More in... - MacRumors",
-         "description" : "Apple CEO Tim Cook this evening spoke at The Atlantic Festival where he discussed privacy, antitrust issues, remote work, and his relationship with...",
-         "url" : "https://www.macrumors.com/2020/09/21/apple-eco-tim-cook-interview-the-atlantic/",
-         "author" : "Juli Clover",
-         "content" : "Apple CEO Tim Cook this evening spoke at The Atlantic Festival where he discussed privacy, antitrust issues, remote work, and his relationship with United States President Donald Trump.\r\nCook's inter… [+4463 chars]"
-      },
-      {
-         "title" : "Asian stocks fall on concerns about fresh lockdowns, banking sector - Reuters",
-         "publishedAt" : "2020-09-22T00:41:00Z",
-         "urlToImage" : "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
-         "source" : {
-            "id" : "reuters",
-            "name" : "Reuters"
-         },
-         "content" : "NEW YORK, Sept 21 (Reuters) - Asian shares opened weaker on Tuesday on concerns about new pandemic lockdowns in Europe and after reports about financial institutions allegedly moving illicit funds hu… [+3064 chars]",
-         "author" : "Suzanne Barlyn",
-         "url" : "https://www.reuters.com/article/global-markets-idUKL2N2GI23G",
-         "description" : "Asian shares opened weaker on Tuesday on concerns about new pandemic lockdowns in Europe and after reports about financial institutions allegedly moving illicit funds hurt global banking stocks."
-      },
-      {
-         "title" : "Justice Department expected to brief state attorneys general this week on imminent Google antitrust lawsuit - The Washington Post",
-         "publishedAt" : "2020-09-21T23:40:00Z",
-         "source" : {
-            "name" : "The Washington Post",
-            "id" : "the-washington-post"
-         },
-         "urlToImage" : "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MZWRIIXXHII6VBPXLFARRCUYZU.jpg&w=1440",
-         "url" : "https://www.washingtonpost.com/technology/2020/09/21/google-antitrust-state-ags/",
-         "content" : "The Justice Department and Google each declined to comment.\r\nThe Justice Department could file a lawsuit against Google this month, overriding skepticism from its own top lawyers\r\nThe Justice Departm… [+3055 chars]",
-         "author" : "Tony Romm",
-         "description" : "The Justice Department is expected to brief state attorneys general this week about its imminent plans to file an antitrust lawsuit against Google, setting in motion a landmark legal clash between the U.S. government and the search and advertising behemoth."
-      },
-      {
-         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/09/0/0/AirbusZEROe-Blended-Wing-Body-Concept.jpg?ve=1&tl=1",
          "source" : {
             "name" : "Fox Business",
             "id" : null
          },
-         "title" : "Airbus unveils concepts for hydrogen-powered plane - Fox Business",
-         "publishedAt" : "2020-09-21T23:15:51Z",
-         "description" : "Airbus has unveiled three visual concepts for \"zero emission\" airplanes to be powered by hydrogen.",
-         "content" : "PARIS  - Airbus has unveiled three visual concepts for \"zero-emission\" airplanes to be powered by hydrogen.\r\nIt is the planemaker's latest effort to draw public attention to its \"zero-emission\" ambit… [+2132 chars]",
-         "author" : "Reuters",
-         "url" : "https://www.foxbusiness.com/industrials/airbus-unveils-concepts-for-hydrogen-powered-plane"
+         "content" : "Former Nikola executive chairman Trevor Milton exited the company he founded with stock worth billions of dollars after his abrupt resignation on Monday amid allegations of fraud.\r\nUnder the terms of… [+2508 chars]",
+         "author" : "Thomas Barrabi",
+         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/09/0/0/Trevor-Milton-Nikola-reuters.jpg?ve=1&tl=1",
+         "publishedAt" : "2020-09-22T01:12:52Z",
+         "url" : "https://www.foxbusiness.com/technology/nikola-trevor-milton-stock-exit-package"
       },
       {
-         "description" : "VICTORVILLE, Calif.(VVNG.com) — The Bed Bad & Beyond in Victorville is amongst 63 locations that will permanently close by the end of this year, according to a USA Today article. Earlier this year in July, the company announced plans to permanently close abou…",
-         "author" : "https://www.facebook.com/VictorValleyNews",
+         "url" : "https://www.macrumors.com/2020/09/21/apple-eco-tim-cook-interview-the-atlantic/",
+         "publishedAt" : "2020-09-22T00:48:00Z",
+         "urlToImage" : "https://images.macrumors.com/t/2TZZZXMBTdTJm_w5Kvsg0QFEjgc=/1600x/https://images.macrumors.com/article-new/2020/09/timcooktheatlantic.jpg",
+         "author" : "Juli Clover",
+         "content" : "Apple CEO Tim Cook this evening spoke at The Atlantic Festival where he discussed privacy, antitrust issues, remote work, and his relationship with United States President Donald Trump.\r\nCook's inter… [+4463 chars]",
+         "source" : {
+            "name" : "MacRumors",
+            "id" : null
+         },
+         "description" : "Apple CEO Tim Cook this evening spoke at The Atlantic Festival where he discussed privacy, antitrust issues, remote work, and his relationship with...",
+         "title" : "Apple CEO Tim Cook Talks Antitrust Investigation, Trump Relationship, Working From Home and More in... - MacRumors"
+      },
+      {
+         "publishedAt" : "2020-09-22T00:41:00Z",
+         "url" : "https://www.reuters.com/article/global-markets-idUKL2N2GI23G",
+         "content" : "NEW YORK, Sept 21 (Reuters) - Asian shares opened weaker on Tuesday on concerns about new pandemic lockdowns in Europe and after reports about financial institutions allegedly moving illicit funds hu… [+3064 chars]",
+         "urlToImage" : "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+         "author" : "Suzanne Barlyn",
+         "source" : {
+            "id" : "reuters",
+            "name" : "Reuters"
+         },
+         "title" : "Asian stocks fall on concerns about fresh lockdowns, banking sector - Reuters",
+         "description" : "Asian shares opened weaker on Tuesday on concerns about new pandemic lockdowns in Europe and after reports about financial institutions allegedly moving illicit funds hurt global banking stocks."
+      },
+      {
+         "publishedAt" : "2020-09-21T23:40:00Z",
+         "url" : "https://www.washingtonpost.com/technology/2020/09/21/google-antitrust-state-ags/",
+         "content" : "The Justice Department and Google each declined to comment.\r\nThe Justice Department could file a lawsuit against Google this month, overriding skepticism from its own top lawyers\r\nThe Justice Departm… [+3055 chars]",
+         "urlToImage" : "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MZWRIIXXHII6VBPXLFARRCUYZU.jpg&w=1440",
+         "author" : "Tony Romm",
+         "source" : {
+            "id" : "the-washington-post",
+            "name" : "The Washington Post"
+         },
+         "title" : "Justice Department expected to brief state attorneys general this week on imminent Google antitrust lawsuit - The Washington Post",
+         "description" : "The Justice Department is expected to brief state attorneys general this week about its imminent plans to file an antitrust lawsuit against Google, setting in motion a landmark legal clash between the U.S. government and the search and advertising behemoth."
+      },
+      {
+         "title" : "Airbus unveils concepts for hydrogen-powered plane - Fox Business",
+         "description" : "Airbus has unveiled three visual concepts for \"zero emission\" airplanes to be powered by hydrogen.",
+         "source" : {
+            "name" : "Fox Business",
+            "id" : null
+         },
+         "publishedAt" : "2020-09-21T23:15:51Z",
+         "url" : "https://www.foxbusiness.com/industrials/airbus-unveils-concepts-for-hydrogen-powered-plane",
+         "content" : "PARIS  - Airbus has unveiled three visual concepts for \"zero-emission\" airplanes to be powered by hydrogen.\r\nIt is the planemaker's latest effort to draw public attention to its \"zero-emission\" ambit… [+2132 chars]",
+         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/09/0/0/AirbusZEROe-Blended-Wing-Body-Concept.jpg?ve=1&tl=1",
+         "author" : "Reuters"
+      },
+      {
          "content" : "VICTORVILLE, Calif.(VVNG.com) The Bed Bad &amp; Beyond in Victorville is amongst 63 locations that will permanently close by the end of this year, according to a USA Today article. \r\nEarlier this yea… [+753 chars]",
-         "url" : "https://www.vvng.com/victorville-store-on-list-of-closures-for-bed-bath-beyond/",
+         "author" : "https://www.facebook.com/VictorValleyNews",
          "urlToImage" : "https://www.vvng.com/wp-content/uploads/2020/09/bed-bath-beyond-victorville-will-close-1000x600.png",
+         "publishedAt" : "2020-09-21T23:11:43Z",
+         "url" : "https://www.vvng.com/victorville-store-on-list-of-closures-for-bed-bath-beyond/",
          "source" : {
             "id" : null,
             "name" : "VVNG.com"
          },
-         "publishedAt" : "2020-09-21T23:11:43Z",
-         "title" : "Victorville store on list of closures for Bed Bath & Beyond - VVNG.com"
+         "title" : "Victorville store on list of closures for Bed Bath & Beyond - VVNG.com",
+         "description" : "VICTORVILLE, Calif.(VVNG.com) — The Bed Bad & Beyond in Victorville is amongst 63 locations that will permanently close by the end of this year, according to a USA Today article. Earlier this year in July, the company announced plans to permanently close abou…"
       },
       {
+         "source" : {
+            "name" : "The Wall Street Journal",
+            "id" : "the-wall-street-journal"
+         },
          "url" : "https://www.wsj.com/articles/activist-trian-fund-management-takes-stake-in-comcast-11600717755",
+         "publishedAt" : "2020-09-21T23:02:00Z",
          "author" : "Corrie Driebusch, Lillian Rizzo",
+         "urlToImage" : "https://images.wsj.net/im-234616/social",
          "content" : "Trian Fund Management LP, a hedge fund known for pushing big companies to make operational and other changes, has launched an activist campaign against Comcast Corp. in a bet that the cable-TV and en… [+272 chars]",
          "description" : "Trian, Comcast executives recently began conversations",
-         "publishedAt" : "2020-09-21T23:02:00Z",
-         "title" : "Activist Trian Fund Management Takes Stake in Comcast - The Wall Street Journal",
-         "source" : {
-            "id" : "the-wall-street-journal",
-            "name" : "The Wall Street Journal"
-         },
-         "urlToImage" : "https://images.wsj.net/im-234616/social"
+         "title" : "Activist Trian Fund Management Takes Stake in Comcast - The Wall Street Journal"
       },
       {
-         "title" : "Elizabeth Warren And Bernie Sanders Want Big Banking Reforms Following The FinCEN Files Investigations - BuzzFeed News",
          "publishedAt" : "2020-09-21T22:28:00Z",
+         "url" : "https://www.buzzfeednews.com/article/jasonleopold/elizabeth-warren-bernie-sanders-fincen-files",
+         "content" : "Lawmakers, regulators, and activists across the globe Monday called for swift action into the findings of a new investigation from BuzzFeed News and the International Consortium of Investigative Jour… [+4992 chars]",
+         "author" : "Jason Leopold",
+         "urlToImage" : "https://img.buzzfeed.com/buzzfeed-static/static/2020-09/21/22/asset/7f93f941377c/sub-buzz-19327-1600727145-3.jpg?crop=2352:1231;69,214",
          "source" : {
             "id" : null,
             "name" : "BuzzFeed News"
          },
-         "urlToImage" : "https://img.buzzfeed.com/buzzfeed-static/static/2020-09/21/22/asset/7f93f941377c/sub-buzz-19327-1600727145-3.jpg?crop=2352:1231;69,214",
-         "url" : "https://www.buzzfeednews.com/article/jasonleopold/elizabeth-warren-bernie-sanders-fincen-files",
-         "content" : "Lawmakers, regulators, and activists across the globe Monday called for swift action into the findings of a new investigation from BuzzFeed News and the International Consortium of Investigative Jour… [+4992 chars]",
-         "author" : "Jason Leopold",
+         "title" : "Elizabeth Warren And Bernie Sanders Want Big Banking Reforms Following The FinCEN Files Investigations - BuzzFeed News",
          "description" : "Warren called for the creation of a new unit in the US Treasury Department, separate from FinCEN, “to investigate these types of financial crimes.”"
       },
       {
          "description" : "The standalone package would include a second draw from the Paycheck Protection Program, as well as expedited loan forgiveness and full tax deductibility for PPP recipients.",
+         "title" : "Small business leaders urge Congress to pass standalone COVID-19 relief package - Fox Business",
          "url" : "https://www.foxbusiness.com/economy/small-business-leaders-congress-pass-covid-relief-package",
-         "content" : "The Small Business Roundtable has penned a letter to congressional leadership on behalf of 30 million small businesses urging the federal government to pass a standalone package for a new round of st… [+4859 chars]",
+         "publishedAt" : "2020-09-21T22:26:59Z",
          "author" : "Lucas Manfredi",
+         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/09/0/0/AP20255783434552.jpg?ve=1&tl=1",
+         "content" : "The Small Business Roundtable has penned a letter to congressional leadership on behalf of 30 million small businesses urging the federal government to pass a standalone package for a new round of st… [+4859 chars]",
          "source" : {
             "id" : null,
             "name" : "Fox Business"
-         },
-         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/09/0/0/AP20255783434552.jpg?ve=1&tl=1",
-         "title" : "Small business leaders urge Congress to pass standalone COVID-19 relief package - Fox Business",
-         "publishedAt" : "2020-09-21T22:26:59Z"
+         }
       },
       {
+         "title" : "Tiffany lawsuit for $16B LVMH deal fast tracked for January trial - Fox Business",
          "description" : "A Delaware Chancery Court justice on Monday agreed to fast-track Tiffany & Co's lawsuit against French luxury goods conglomerate LVMH for trying to back out of its $16 billion deal to acquire the U.S. jeweler.",
-         "author" : "Reuters",
-         "content" : "A Delaware Chancery Court justice on Monday agreed to fast-track Tiffany &amp; Co's lawsuit against French luxury goods conglomerate LVMH for trying to back out of its $16 billion deal to acquire the… [+1111 chars]",
+         "publishedAt" : "2020-09-21T22:11:55Z",
          "url" : "https://www.foxbusiness.com/retail/tiffany-lawsuit-for-16b-lvmh-deal-fast-tracked-for-january-trial",
+         "content" : "A Delaware Chancery Court justice on Monday agreed to fast-track Tiffany &amp; Co's lawsuit against French luxury goods conglomerate LVMH for trying to back out of its $16 billion deal to acquire the… [+1111 chars]",
          "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/09/0/0/Tiffany-Getty.jpg?ve=1&tl=1",
+         "author" : "Reuters",
          "source" : {
             "name" : "Fox Business",
             "id" : null
-         },
-         "publishedAt" : "2020-09-21T22:11:55Z",
-         "title" : "Tiffany lawsuit for $16B LVMH deal fast tracked for January trial - Fox Business"
+         }
       }
-   ]
+   ],
+   "totalResults" : 70
 }
