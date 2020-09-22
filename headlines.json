@@ -1,266 +1,266 @@
 {
-   "status" : "ok",
    "totalResults" : 70,
    "articles" : [
       {
-         "publishedAt" : "2020-09-22T20:17:00Z",
-         "urlToImage" : "https://s.yimg.com/ny/api/res/1.2/GoBp3a6PtLoEADPrqZnTew--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyODA7aD04NjkuMzMzMzMzMzMzMzMzNA--/https://s.yimg.com/uu/api/res/1.2/IVUNnAI.Ui6ql3nl_J7nug--~B/aD0yMzc4O3c9MzUwMDtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-images/2020-06/3d60b1f0-b708-11ea-87cf-167609d408e1",
-         "description" : "Nike reported fiscal first-quarter results after market close on Tuesday.",
+         "content" : "Tesla CEO Elon Musk said at the company's 2020 annual shareholder meeting and battery day presentation that he expects vehicle deliveries to increase by 30 to 40 percent over last year, when the comp… [+4675 chars]",
+         "author" : "Lora Kolodny",
          "source" : {
             "id" : null,
-            "name" : "Yahoo Entertainment"
+            "name" : "CNBC"
          },
-         "content" : "Is it time for the bears to break out the champagne glasses? Not so fast, says Goldman Sachs. Volatility has ruled the Street for the last few weeks, leading some to conclude that those with a more p… [+10753 chars]",
-         "url" : "https://finance.yahoo.com/news/nike-reports-fiscal-1q-results-2020-coronavirus-digital-sales-201745232.html",
-         "title" : "Nike swings back to a quarterly profit as digital sales surge 82% - Yahoo Finance",
-         "author" : "Emily McCormick"
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/105773423-1551716977818rtx6p9yw.jpg?v=1551717428",
+         "description" : "\"In 2019, we had 50% growth. And I think we'll do really pretty well in 2020, probably somewhere between 30 to 40 percent growth, despite a lot of very difficult circumstances,\" said CEO Elon Musk at the company's \"drive-in\" shareholder's meeting",
+         "publishedAt" : "2020-09-22T21:43:00Z",
+         "title" : "Elon Musk at battery day: Tesla deliveries to rise 30% to 40% in 2020 - CNBC",
+         "url" : "https://www.cnbc.com/2020/09/22/elon-musk-at-battery-day-tesla-deliveries-to-rise-30percent-to-40percent-in-2020.html"
       },
       {
-         "publishedAt" : "2020-09-22T19:53:00Z",
-         "urlToImage" : "https://images.mktw.net/im-235208/social",
-         "description" : "",
-         "content" : "But are Teslas \r\n TSLA, \r\n -5.59%\r\nbest days behind it, as bears would have you believe? Perhaps a look at the historic performance of some other highfliers can offer some perspective. Morningstar re… [+3775 chars]",
-         "title" : "How Tesla stacks up against other tech juggernauts at similar stages — there's good news and bad news - MarketWatch",
-         "author" : "Shawn Langlois",
-         "url" : "https://www.marketwatch.com/story/how-tesla-stacks-up-against-other-tech-juggernauts-at-similar-stages-theres-good-news-and-bad-news-11600804418",
+         "content" : "Costco has stopped carrying products from a pimento cheese brand owned by a South Carolina mayor who called the Black Lives Matter and Antifa movements “terror organizations.”\r\nBrian Henry, the mayor… [+1784 chars]",
+         "author" : "James Leggate",
          "source" : {
-            "name" : "MarketWatch",
+            "id" : "fox-news",
+            "name" : "Fox News"
+         },
+         "description" : "Palmetto Cheese faced calls for a boycott following the controversial Facebook post.",
+         "urlToImage" : "https://static.foxnews.com/foxnews.com/content/uploads/2020/05/CostcoAP-PhotoTed-S.-Warren.jpg",
+         "title" : "Costco removes popular cheese after Black Lives Matter controversy - Fox News",
+         "publishedAt" : "2020-09-22T21:15:15Z",
+         "url" : "https://www.foxnews.com/food-drink/costco-cheese-black-lives-matter"
+      },
+      {
+         "urlToImage" : "https://cnet3.cbsistatic.com/img/ANRUgYggPoHLuDR4rBRLD3EDlpY=/1200x630/2020/09/22/6d9d136b-e7cb-429d-873f-a341853339d7/1.jpg",
+         "description" : "Echelon worked with Amazon to create an exercise bike that significantly undercuts Peloton's prices.",
+         "publishedAt" : "2020-09-22T20:58:00Z",
+         "title" : "Amazon takes aim at Peloton with $499 Prime Bike - CNET",
+         "url" : "https://www.cnet.com/health/amazon-takes-aim-at-peloton-with-499-prime-bike/",
+         "content" : "Amazon's new Prime Bike.\r\nEchelon\r\nDo you long to get a Peloton, but can't stomach the cost? If you're willing to give up some smart features and a big screen, Amazon's new $500 Prime Bike might be y… [+1725 chars]",
+         "author" : "Andrew Gebhart",
+         "source" : {
+            "id" : null,
+            "name" : "CNET"
+         }
+      },
+      {
+         "content" : "The Centers for Disease Control and Prevention (CDC) has released guidelines for Americans celebrating Halloween during the coronavirus pandemic.\r\nIn the recommendations published on Monday, the CDC … [+3073 chars]",
+         "author" : "By Mary Kekatos Senior Health Reporter For Dailymail.com",
+         "source" : {
+            "name" : "Daily Mail",
+            "id" : null
+         },
+         "description" : "New CDC recommendations for celebrating Halloween discourage Americans from going traditional trick-or-treating, attending costume parties or visiting an indoor haunted house",
+         "urlToImage" : "https://i.dailymail.co.uk/1s/2020/09/22/20/33494592-0-image-a-72_1600801995318.jpg",
+         "title" : "CDC advises Americans to not trick-or-treating or to costume parties in new coronavirus guidance - Daily Mail",
+         "publishedAt" : "2020-09-22T20:40:48Z",
+         "url" : "https://www.dailymail.co.uk/health/article-8761225/CDC-advises-Americans-not-trick-treating-costume-parties-new-coronavirus-guidance.html"
+      },
+      {
+         "content" : "Stitch Fix shares dropped by more than 14% in after-hours trading Tuesday as the company reported steep losses for the fiscal fourth quarter.\r\nHere's how the company did during its fiscal fourth quar… [+2243 chars]",
+         "author" : "Melissa Repko",
+         "source" : {
+            "name" : "CNBC",
+            "id" : null
+         },
+         "description" : "The online personal styling service rebounded from supply chain challenges earlier during the coronavirus pandemic.",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106165701-1570222059593img_2002.jpg?v=1570222128",
+         "title" : "Stitch Fix (SFIX) earnings Q4 2020 - CNBC",
+         "publishedAt" : "2020-09-22T20:35:00Z",
+         "url" : "https://www.cnbc.com/2020/09/22/stitch-fix-sfix-earnings-q4-2020.html"
+      },
+      {
+         "url" : "https://finance.yahoo.com/news/aurora-cannabis-announces-fiscal-fourth-203200571.html",
+         "publishedAt" : "2020-09-22T20:32:00Z",
+         "title" : "Aurora Cannabis Announces Fiscal Fourth Quarter 2020 Results - Yahoo Finance",
+         "urlToImage" : "https://s.yimg.com/uu/api/res/1.2/wlezZGOIYIMzNhKFRLDRGg--~B/aD0xMDQ7dz00MDA7c209MTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/cnwgroup.com/a73f98131d6a61b4bcb1488f7ac7a0f7",
+         "description" : "* Continued Adjusted EBITDA Improvement Due to Strong Gross Margins and Reduced SG&A; * Debt Levels and CapEx Spend Down Substantially in Q4 2020 * Provides ...",
+         "source" : {
+            "name" : "Yahoo Entertainment",
+            "id" : null
+         },
+         "author" : "CNW Group",
+         "content" : "<ul><li>Continued Adjusted EBITDA Improvement Due to Strong Gross Margins and Reduced SG&amp;A\r\n</li><li>Debt Levels and CapEx Spend Down Substantially in Q4 2020\r\n</li><li>Provides Guidance for Q1 2… [+56369 chars]"
+      },
+      {
+         "source" : {
+            "name" : "Yahoo Entertainment",
+            "id" : null
+         },
+         "author" : "Emily McCormick",
+         "content" : "Is it time for the bears to break out the champagne glasses? Not so fast, says Goldman Sachs. Volatility has ruled the Street for the last few weeks, leading some to conclude that those with a more p… [+10753 chars]",
+         "url" : "https://finance.yahoo.com/news/nike-reports-fiscal-1q-results-2020-coronavirus-digital-sales-201745232.html",
+         "publishedAt" : "2020-09-22T20:17:00Z",
+         "title" : "Nike swings back to a quarterly profit as digital sales surge 82% - Yahoo Finance",
+         "urlToImage" : "https://s.yimg.com/ny/api/res/1.2/GoBp3a6PtLoEADPrqZnTew--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyODA7aD04NjkuMzMzMzMzMzMzMzMzNA--/https://s.yimg.com/uu/api/res/1.2/IVUNnAI.Ui6ql3nl_J7nug--~B/aD0yMzc4O3c9MzUwMDtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-images/2020-06/3d60b1f0-b708-11ea-87cf-167609d408e1",
+         "description" : "Nike reported fiscal first-quarter results after market close on Tuesday."
+      },
+      {
+         "url" : "https://www.chicagotribune.com/business/ct-biz-facebook-settlement-privacy-illinois-20200922-pjgcyodp4zfxha6bvluyndn6mm-story.html",
+         "urlToImage" : "https://www.chicagotribune.com/resizer/KpWBWjkvH0HYeRvTU5zqMogCKDs=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/UUD4Y3DLPI33LQMXSJHGORVNNU.aspx",
+         "description" : "Illinois Facebook users can apply to get between $200 and $400 from the social media company as part of a $650 million class-action settlement over alleged violations of a state privacy law.",
+         "publishedAt" : "2020-09-22T20:12:00Z",
+         "title" : "Deadline is Nov. 23 to apply for cut of $650M Facebook settlement - Chicago Tribune",
+         "source" : {
+            "id" : null,
+            "name" : "Chicago Tribune"
+         },
+         "content" : null,
+         "author" : "Katie Surma"
+      },
+      {
+         "title" : "Ralph Lauren to cut 15% of global workforce - Fox Business",
+         "publishedAt" : "2020-09-22T20:05:40Z",
+         "description" : "The reduction in its workforce is part of the company's \"Next Great Chapter plan\" in which it hopes to \"deliver sustainable long-term growth and value creation\" amid a tumultuous time for businesses.",
+         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/08/0/0/Ralph-Lauren-Geneva-Store-iStock.jpg?ve=1&tl=1",
+         "url" : "https://www.foxbusiness.com/economy/ralph-lauren-slashing-global-workforce",
+         "author" : "Daniella Genovese",
+         "content" : "Ralph Lauren announced Tuesday it is planning on cutting its global workforce by the end of the 2021 fiscal year as the company takes steps to cut costs and reorganize its business \"for future growth… [+2027 chars]",
+         "source" : {
+            "id" : null,
+            "name" : "Fox Business"
+         }
+      },
+      {
+         "content" : "But are Teslas \r\n TSLA, \r\n -5.59%\r\nbest days behind it, as bears would have you believe? Perhaps a look at the historic performance of some other highfliers can offer some perspective. Morningstar re… [+3775 chars]",
+         "author" : "Shawn Langlois",
+         "source" : {
+            "id" : null,
+            "name" : "MarketWatch"
+         },
+         "description" : "",
+         "urlToImage" : "https://images.mktw.net/im-235208/social",
+         "title" : "How Tesla stacks up against other tech juggernauts at similar stages — there's good news and bad news - MarketWatch",
+         "publishedAt" : "2020-09-22T19:53:00Z",
+         "url" : "https://www.marketwatch.com/story/how-tesla-stacks-up-against-other-tech-juggernauts-at-similar-stages-theres-good-news-and-bad-news-11600804418"
+      },
+      {
+         "title" : "Restaurant chain Sizzler files for Chapter 11 bankruptcy, citing impact of COVID-19 pandemic - USA TODAY",
+         "publishedAt" : "2020-09-22T19:29:55Z",
+         "description" : "Sizzler, the famous steakhouse, has filed for Chapter 11 bankruptcy, the latest business to suffer as a result of the COVID-19 pandemic.",
+         "urlToImage" : "https://www.gannett-cdn.com/presto/2020/09/22/USAT/7296a250-d139-4fbe-a357-cf2837f100f5-AFP_AFP_8QH3LY.jpg?crop=4799,2699,x1,y99&width=3200&height=1680&fit=bounds",
+         "url" : "https://www.usatoday.com/story/money/2020/09/22/sizzler-files-chapter-11-bankruptcy-citing-impact-pandemic/3493634001/",
+         "author" : "Brett Molina",
+         "content" : "Commuters drive past a closed Sizzler restaurant in Montebello, California on September 22, 2020.\r\n (Photo: Frederic J. Brown, AFP via Getty Images)\r\nSizzler, the famous steakhouse started 62 years a… [+1486 chars]",
+         "source" : {
+            "name" : "USA Today",
+            "id" : "usa-today"
+         }
+      },
+      {
+         "url" : "https://www.washingtonpost.com/health/2020/09/22/fda-covid-vaccine-approval-standard/",
+         "urlToImage" : "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IPJSASDQUEI6VIKWABELMLG3KE.jpg&w=1440",
+         "description" : "The guidance is part of an effort to boost transparency and public trust as polls show many are skeptical a vaccine will be safe and effective.",
+         "publishedAt" : "2020-09-22T19:16:00Z",
+         "title" : "FDA poised to announce tougher standards for a covid-19 vaccine that make it unlikely one will be cleared by Election Day - The Washington Post",
+         "source" : {
+            "name" : "The Washington Post",
+            "id" : "the-washington-post"
+         },
+         "content" : "The stakes are high: polls show the relentless politicization of the race to develop a vaccine is taking its toll. Pew Research Center recently reported that the percentage of people who said they wo… [+11356 chars]",
+         "author" : "Laurie McGinley, Carolyn Y. Johnson"
+      },
+      {
+         "urlToImage" : "https://nypost.com/wp-content/uploads/sites/2/2020/09/charles-scharf-wells-fargo-e1600801204162.jpg?quality=90&strip=all&w=1200",
+         "description" : "Wells Fargo CEO Charles Scharf is being called to the carpet over his claims that the bank’s diversity woes are the result of a lack of talent. Scharf, who took over the embattled $1.97 trillion ba…",
+         "publishedAt" : "2020-09-22T19:03:00Z",
+         "title" : "Wells Fargo CEO: 'Limited pool of black talent to recruit from' - New York Post ",
+         "url" : "https://nypost.com/2020/09/22/wells-fargo-ceo-ruffles-feathers-with-comments-about-diverse-talent/",
+         "content" : "Wells Fargo CEO Charles Scharf is being called to the carpet over his claims that the banks diversity woes are the result of a lack of talent.\r\nScharf, who took over the embattled $1.97 trillion bank… [+1769 chars]",
+         "author" : "Thornton McEnery",
+         "source" : {
+            "name" : "New York Post",
+            "id" : null
+         }
+      },
+      {
+         "url" : "http://kutv.com/news/local/tsa-security-checkpoint-at-the-new-terminal-of-the-salt-lake-city-international-airport",
+         "title" : "TSA security checkpoint at the new terminal of the Salt Lake City International Airport - KUTV 2News",
+         "publishedAt" : "2020-09-22T19:00:00Z",
+         "description" : "The Transportation Security Administration (TSA) has transitioned its security operations to the new and spacious terminal at Salt Lake City International Airport. Travelers departing from the airport will be greeted by a single, centralized security checkpoi…",
+         "urlToImage" : "http://static-36.sinclairstoryline.com/resources/media/3b90c571-6595-4a3f-9acc-9d8203202c45-large16x9_terminal18.jpg?1600799803669",
+         "source" : {
+            "name" : "KUTV 2News",
+            "id" : null
+         },
+         "author" : "Jennifer Weaver",
+         "content" : null
+      },
+      {
+         "publishedAt" : "2020-09-22T18:44:00Z",
+         "title" : "Wisconsin among states added to Chicago's emergency travel order - WGN TV Chicago",
+         "urlToImage" : "https://wgntv.com/wp-content/uploads/sites/5/2018/11/gettyimages-877279736.jpg?w=1280",
+         "description" : "CHICAGO — Chicago’s top health officials added Wisconsin to the city’s travel order Tuesday. The state has seen a recent surge in COVID-19 cases. Minnesota, Montana and Idaho were also added to the list. The list now includes: Alabama, Arkansas, Georgia, Idah…",
+         "url" : "https://wgntv.com/news/chicago-expected-to-update-emergency-travel-order/",
+         "author" : "WGN Web Desk",
+         "content" : "CHICAGO Chicago’s top health officials added Wisconsin to the city’s travel order Tuesday.\r\nThe state has seen a recent surge in COVID-19 cases.\r\nMinnesota, Montana and Idaho were also added to the l… [+862 chars]",
+         "source" : {
+            "name" : "WGN TV Chicago",
             "id" : null
          }
       },
       {
          "source" : {
-            "id" : null,
-            "name" : "Electrek"
-         },
-         "content" : "Tesla (TSLA) is holding its Battery Day and 2020 Shareholders Meeting today, and we are going to post all the important news coming out of the event in this Electrek News Hub.\r\nThe event or both even… [+1735 chars]",
-         "url" : "https://electrek.co/2020/09/22/tesla-tsla-battery-day-2020-shareholders-meeting-news-hub/",
-         "title" : "Tesla (TSLA) Battery Day and 2020 Shareholders Meeting News Hub - Electrek.co",
-         "author" : null,
-         "publishedAt" : "2020-09-22T19:02:00Z",
-         "urlToImage" : "https://electrek.co/wp-content/uploads/sites/3/2020/09/Tesla-Shareholders-Meeting-Battery-Day-hero.jpg?quality=82&strip=all",
-         "description" : "Tesla (TSLA) is holding its Battery Day and 2020 Shareholders Meeting today, and we are going to post all the important news coming out of the event in this Electrek News Hub. The event — or both events, depending on how you look at it — is going to be held a…"
-      },
-      {
-         "urlToImage" : "https://media4.s-nbcnews.com/j/newscms/2020_39/3414063/200922-charlie-scharf-wells-fargo-jm-1448_397411e2daf2fbcec387763c0e23e18a.nbcnews-fp-1200-630.jpg",
-         "description" : "Wells Fargo CEO Charles Scharf said in a Zoom meeting and a company-wide email that the bank had trouble reaching diversity goals because there was not enough qualified minority talent.",
-         "publishedAt" : "2020-09-22T19:02:00Z",
-         "source" : {
-            "name" : "NBC News",
-            "id" : "nbc-news"
-         },
-         "title" : "Wells Fargo CEO ruffles feathers with comments about diverse talent - NBC News",
-         "author" : "Reuters",
-         "url" : "https://www.nbcnews.com/news/nbcblk/wells-fargo-ceo-ruffles-feathers-comments-about-diverse-talent-n1240739",
-         "content" : "Wells Fargo &amp; Co Chief Executive Charles Scharf exasperated some Black employees in a Zoom meeting this summer when he reiterated that the bank had trouble reaching diversity goals because there … [+5583 chars]"
-      },
-      {
-         "source" : {
-            "id" : "engadget",
-            "name" : "Engadget"
+            "name" : "Engadget",
+            "id" : "engadget"
          },
          "author" : "",
-         "title" : "Amazon Prime Day will reportedly start on October 13th - Engadget",
-         "url" : "https://www.engadget.com/amazon-prime-day-2020-182549548.html",
          "content" : "After it was delayed earlier in the year, Prime Day 2020 will kick off partway through next month, according to The Verge. The website says it obtained an internal Amazon email that states the two-da… [+341 chars]",
-         "urlToImage" : "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-09%2Fe8316fa0-f279-11ea-bff7-85c8a3c0a976&client=amp-blogside-v2&signature=f74675de13c5bd50163eec5fdd8f4905324a96bb",
+         "url" : "https://www.engadget.com/amazon-prime-day-2020-182549548.html",
+         "title" : "Amazon Prime Day will reportedly start on October 13th - Engadget",
+         "publishedAt" : "2020-09-22T18:35:28Z",
          "description" : "After it was delayed earlier in the year, Prime Day 2020 will reportedly start on October 13th.",
-         "publishedAt" : "2020-09-22T18:35:28Z"
+         "urlToImage" : "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-09%2Fe8316fa0-f279-11ea-bff7-85c8a3c0a976&client=amp-blogside-v2&signature=f74675de13c5bd50163eec5fdd8f4905324a96bb"
       },
       {
-         "content" : null,
-         "title" : "Home sales reach a 14-year high in August, with prices hitting a new record - CNN",
-         "author" : "Anna Bahney, CNN Business",
          "url" : "https://www.cnn.com/2020/09/22/success/existing-home-sales-august/index.html",
+         "title" : "Home sales reach a 14-year high in August, with prices hitting a new record - CNN",
+         "publishedAt" : "2020-09-22T18:25:00Z",
+         "description" : "Home sales surged to a 14-year high in August as record low interest rates brought homebuyers out in droves and pushed prices to a new record high.",
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200922120842-us-residential-neighborhood-restricted-super-tease.jpg",
          "source" : {
             "name" : "CNN",
             "id" : "cnn"
          },
-         "publishedAt" : "2020-09-22T18:25:00Z",
-         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200922120842-us-residential-neighborhood-restricted-super-tease.jpg",
-         "description" : "Home sales surged to a 14-year high in August as record low interest rates brought homebuyers out in droves and pushed prices to a new record high."
+         "author" : "Anna Bahney, CNN Business",
+         "content" : null
       },
       {
+         "author" : "Danielle Wallace",
+         "content" : "A party supply chain is facing criticism after one of its stores in Virginia stocked its shelves with Confederate soldier children’s Halloween costumes this year, according to reports.\r\nCaroline Eame… [+2366 chars]",
          "source" : {
-            "name" : "NPR",
-            "id" : null
+            "id" : "fox-news",
+            "name" : "Fox News"
          },
-         "url" : "https://www.npr.org/sections/coronavirus-live-updates/2020/09/22/915689646/cdcs-halloween-guidelines-warn-against-typical-trick-or-treating-boo",
-         "author" : "",
-         "title" : "CDC's Halloween Guidelines Warn Against Typical Trick-Or-Treating - NPR",
-         "content" : "The Centers for Disease Control and Prevention's guidelines for a safe Halloween during the COVID-19 pandemic include new methods of doing classic spooky activities.\r\nArtMarie/Getty Images\r\nIn a year… [+3428 chars]",
-         "urlToImage" : "https://media.npr.org/assets/img/2020/09/22/gettyimages-1273336929-edit_wide-29583718b33669e187716a63ccdfeb91f320c736.jpg?s=1400",
-         "description" : "Door-to-door trick-or-treating and crowded costume parties are out, and haunted forests and outdoor movie nights are in. \"If screaming will likely occur, greater distancing is advised,\" the CDC says.",
-         "publishedAt" : "2020-09-22T18:24:13Z"
+         "publishedAt" : "2020-09-22T18:18:33Z",
+         "title" : "Party City under fire for Confederate soldier kids' Halloween costumes at Virginia store - Fox News",
+         "urlToImage" : "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/iStock-trick-treat.jpg",
+         "description" : "A party supply chain is facing criticism after one of its stores in Virginia stocked its shelves with Confederate soldier children’s Halloween costumes this year, according to reports.",
+         "url" : "https://www.foxnews.com/lifestyle/party-city-halloween-confederate-soldier-costumes"
       },
       {
-         "source" : {
-            "name" : "Motor1 ",
-            "id" : null
-         },
-         "url" : "https://www.motor1.com/news/445241/2021-kia-sorento-revealed/",
-         "author" : "Brandon Turkus",
-         "title" : "2021 Kia Sorento Revealed: Hybrid Power, More Safety, Better Looks - Motor1 ",
          "content" : "The 2021 Kia Sorento is the latest in the South Korean brands crossover renaissance, coming on the heels of the compact Seltos and a bit adrift of the hugely popular Telluride. But the latest Sorento… [+10512 chars]",
+         "author" : "Brandon Turkus",
+         "source" : {
+            "id" : null,
+            "name" : "Motor1 "
+         },
          "urlToImage" : "https://cdn.motor1.com/images/mgl/jq61N/s1/2021-kia-sorento.jpg",
          "description" : "The 2021 Kia Sorento introduces two electrified options, as well as a sleek new design and cutting-edge safety equipment.",
-         "publishedAt" : "2020-09-22T18:10:31Z"
+         "publishedAt" : "2020-09-22T18:10:31Z",
+         "title" : "2021 Kia Sorento Revealed: Hybrid Power, More Safety, Better Looks - Motor1 ",
+         "url" : "https://www.motor1.com/news/445241/2021-kia-sorento-revealed/"
       },
       {
-         "urlToImage" : "https://s.marketwatch.com/public/resources/images/MW-IL244_fed_po_ZG_20200727150111.jpg",
-         "description" : "Tesla shares fall as Musk plays down ‘battery day’ expectations",
-         "publishedAt" : "2020-09-22T18:06:00Z",
-         "author" : "William Watts, MarketWatch, Sunny Oh",
-         "title" : "Dow recovers from intraday drop as S&P 500, Nasdaq snap four-day losing streak - MarketWatch",
-         "url" : "https://www.marketwatch.com/story/stock-index-futures-struggle-for-direction-after-volatile-session-as-investors-await-powell-testimony-2020-09-22",
-         "content" : "Stocks rose Tuesday, recovering from intraday losses as the bulls appeared to overcome worries about renewed coronavirus lockdowns in Europe and rising political uncertainty in the U.S.Investors also… [+6584 chars]",
-         "source" : {
-            "name" : "MarketWatch",
-            "id" : null
-         }
-      },
-      {
+         "url" : "https://arstechnica.com/tech-policy/2020/09/facebook-warns-data-protection-rules-could-force-european-shutdown/",
+         "urlToImage" : "https://cdn.arstechnica.net/wp-content/uploads/2020/09/GettyImages-1212266296-760x380.jpg",
+         "description" : "Facebook official charges Irish regulators haven't treated Facebook fairly.",
+         "publishedAt" : "2020-09-22T18:04:00Z",
+         "title" : "Facebook warns privacy rules could force it to exit European market - Ars Technica",
          "source" : {
             "name" : "Ars Technica",
             "id" : "ars-technica"
          },
          "content" : "Enlarge/ Facebook's European headquarters in Dublin.\r\n89 with 79 posters participating, including story author\r\nFacebook has warned that it could be forced to pull out of the European market if Europ… [+2355 chars]",
-         "url" : "https://arstechnica.com/tech-policy/2020/09/facebook-warns-data-protection-rules-could-force-european-shutdown/",
-         "title" : "Facebook warns privacy rules could force it to exit European market - Ars Technica",
-         "author" : "Timothy B. Lee",
-         "publishedAt" : "2020-09-22T18:04:00Z",
-         "urlToImage" : "https://cdn.arstechnica.net/wp-content/uploads/2020/09/GettyImages-1212266296-760x380.jpg",
-         "description" : "Facebook official charges Irish regulators haven't treated Facebook fairly."
-      },
-      {
-         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/09/0/0/iStock-Social-Security.jpg?ve=1&tl=1",
-         "description" : "Filing for Social Security early is often associated with taking a long-term financial hit. But that's not always the case.",
-         "publishedAt" : "2020-09-22T17:30:18Z",
-         "url" : "https://www.foxbusiness.com/money/reasons-to-claim-social-security-benefits-early",
-         "title" : "3 reasons to claim Social Security benefits early - Fox Business",
-         "author" : "Motley Fool",
-         "content" : "The decision to file for Social Security isn't an easy one, since the age you claim benefits at will dictate how much monthly income you receive for the rest of your life. If you opt to sign up for S… [+3559 chars]",
-         "source" : {
-            "id" : null,
-            "name" : "Fox Business"
-         }
-      },
-      {
-         "description" : "Even if there's a safe vaccine someday soon, Trump will definitely find a way to screw it up completely",
-         "urlToImage" : "https://media.salon.com/2020/09/donald-trump-cdc-0922201.jpg",
-         "publishedAt" : "2020-09-22T17:05:00Z",
-         "source" : {
-            "name" : "Salon",
-            "id" : null
-         },
-         "url" : "https://www.salon.com/2020/09/22/cdc-scandal-gets-worse-this-is-why-trump-cant-be-trusted-with-a-coronavirus-vaccine/",
-         "author" : "Amanda Marcotte",
-         "title" : "CDC scandal gets worse: This is why Trump can't be trusted with a coronavirus vaccine - Salon",
-         "content" : "September has featured one scandal after another stemming from Donald Trump's belief that the best way to handle the coronavirus pandemic is to let a bunch of people get sick and die, and then deny t… [+7988 chars]"
-      },
-      {
-         "publishedAt" : "2020-09-22T17:00:00Z",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106555309-15906692132020-05-28t111916z_1550214401_rc2nxg9fzsvp_rtrmadp_0_health-coronavirus-ceopay.jpeg?v=1600089224",
-         "description" : "Delta will delay the decision to furlough pilots until November an effort to give time to push for more federal aid and negotiate cost-cutting measures with the pilots' union.",
-         "content" : "Delta Air Lines has agreed to delay the decision to furlough close to 2,000 pilots until Nov. 1, giving more time to negotiate cost-cutting measures and lobbying for additional federal aid, their uni… [+760 chars]",
-         "url" : "https://www.cnbc.com/2020/09/22/delta-will-delay-decision-to-furlough-pilots-until-november-union-says.html",
-         "title" : "Delta will delay decision to furlough pilots until November, union says - CNBC",
-         "author" : "Leslie Josephs",
-         "source" : {
-            "name" : "CNBC",
-            "id" : null
-         }
-      },
-      {
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106203806-1572006539427jeff.jpg?v=1595600902",
-         "description" : "The actions could attract attention from regulators who are already examining Amazon's business practices.",
-         "publishedAt" : "2020-09-22T17:00:00Z",
-         "source" : {
-            "id" : null,
-            "name" : "CNBC"
-         },
-         "url" : "https://www.cnbc.com/2020/09/22/amazon-prevents-some-rivals-from-advertising-competing-devices-report.html",
-         "author" : "Annie Palmer",
-         "title" : "Amazon reportedly prevents some device rivals from advertising competing products - CNBC",
-         "content" : "Amazon restricts some of its biggest device rivals from buying advertisements tied to search results for its own products, giving its devices an advantage over competitors, a Wall Street Journal inve… [+3059 chars]"
-      },
-      {
-         "urlToImage" : "https://cdn.vox-cdn.com/thumbor/-X4sjZc4hjT8YMtJcabrQGpMMZA=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/10480483/acastro_180322_1777_youtube_0001.jpg",
-         "description" : "YouTube is rolling out more artificial intelligence-powered technology to catch more videos that may require age restrictions, meaning more viewers will be asked to sign into their accounts to verify their age before watching.",
-         "publishedAt" : "2020-09-22T17:00:00Z",
-         "source" : {
-            "name" : "The Verge",
-            "id" : "the-verge"
-         },
-         "title" : "YouTube is about to age-restrict way more videos - The Verge",
-         "author" : "Julia Alexander",
-         "url" : "https://www.theverge.com/2020/9/22/21449717/youtube-age-restriction-machine-learning-rollout-kids-content-monetization-creators",
-         "content" : "AI moderation measures will be used to automatically age-restrict certain content\r\nIllustration by Alex Castro / The Verge\r\nYouTube is rolling out more artificial intelligence-powered technology to c… [+3948 chars]"
-      },
-      {
-         "publishedAt" : "2020-09-22T16:55:10Z",
-         "urlToImage" : "https://www.gannett-cdn.com/-mm-/2ea406f3d7ae8ea258b9e31300d440de7667606e/c=12-0-2389-1337/local/-/media/2020/08/25/Akron/ghows-OH-200708829-fdb15c6e.jpg?width=1600&height=800&fit=crop",
-         "description" : "Will Bed Bath & Beyond change its popular 20 percent coupons amid a new round of store closings? What stores are closing? What about gift cards?",
-         "source" : {
-            "id" : "usa-today",
-            "name" : "USA Today"
-         },
-         "content" : "The coronavirus pandemic has forced retailers to make adjustments for employee and customer safety.\r\nVideo Elephant\r\nWith Bed Bath &amp; Beyond Inc. revealing the first 63 namesake stores that will c… [+5249 chars]",
-         "title" : "Bed Bath & Beyond coupons: What shoppers need to know about the 20% discount amid a new round of store closings - USA TODAY",
-         "author" : "Kelly Tyko",
-         "url" : "https://www.usatoday.com/story/money/2020/09/22/bed-bath-coupons-2020-store-closures-coronavirus/5864826002/"
-      },
-      {
-         "urlToImage" : "https://images.mktw.net/im-235093/social",
-         "description" : "",
-         "publishedAt" : "2020-09-22T16:55:00Z",
-         "source" : {
-            "name" : "MarketWatch",
-            "id" : null
-         },
-         "author" : "Shawn Langlois",
-         "title" : "'The only Republican with morals is a former Republican' — Mitt Romney gets full Twitter treatment - MarketWatch",
-         "url" : "https://www.marketwatch.com/story/the-only-republican-with-morals-is-a-former-republican-mitt-romney-gets-full-twitter-treatment-11600793713",
-         "content" : "It wasnt all that long ago that Mitt Romney was cheered by the left as a ray of light in the darkness, after he became the first senator to have ever voted to remove a president of his own party. But… [+675 chars]"
-      },
-      {
-         "publishedAt" : "2020-09-22T16:42:53Z",
-         "urlToImage" : "https://www.gannett-cdn.com/presto/2020/03/26/PPHX/f64ded9c-efed-4001-9795-56ba690e5182-cent02-79vjt3yzgvryu705frw_original.jpg?crop=2999,1687,x0,y0&width=1600&height=800&fit=bounds",
-         "description" : "In an effort to persuade travelers to fly again, Southwest Airlines is offering those who travel by Nov. 15 a shot at a limited companion pass.",
-         "content" : "In an effort to woo back travelers hesitant to fly due to the COVID-19 pandemic, Southwest Airlines has unleashed a stunning deal. Book a flight by Nov. 15 and you'll earn a companion pass good from … [+2038 chars]",
-         "url" : "https://www.azcentral.com/story/travel/airlines/2020/09/22/southwest-airlines-free-companion-pass-limited-time-offer/5864021002/",
-         "author" : "Melissa Yeager",
-         "title" : "Southwest Airlines is offering a free companion pass. Here's how to get this limited deal - The Arizona Republic",
-         "source" : {
-            "name" : "AZCentral",
-            "id" : null
-         }
-      },
-      {
-         "publishedAt" : "2020-09-22T16:41:00Z",
-         "urlToImage" : "https://www.kitco.com/news/2020-09-22/images/goldchart_0922_pm.png",
-         "description" : "Senior Technical Analyst Jim Wyckoff prepares investors with an overview of how the markets opened and closed. What moved metal prices? How do the technicals look? By looking at important developments",
-         "source" : {
-            "name" : "Kitco NEWS",
-            "id" : null
-         },
-         "content" : "Editor's Note: With so much market volatility, stay on top of daily news! Get caught up in minutes with our speedy summary of today's must-read news and expert opinions. Sign up here! \r\n(Kitco News) … [+4726 chars]",
-         "url" : "https://www.kitco.com/news/2020-09-22/Gold-silver-bulls-work-to-stabilize-prices-but-jury-still-out.html",
-         "title" : "Gold, silver bulls work to stabilize prices but jury still out - Kitco NEWS",
-         "author" : "http://www.facebook.com/kitconews"
-      },
-      {
-         "publishedAt" : "2020-09-22T16:38:56Z",
-         "description" : "Texas is one step closer to a high-speed rail line between the state's two largest metropolitan areas after the railroad planning on building the railway received two key approvals from federal officials, it was announced Monday.",
-         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/09/0/0/iStock-bullet-train-Japan.jpg?ve=1&tl=1",
-         "content" : "Texas is one step closer to having a high-speed rail line connecting the state's two largest metropolitan areas after the railroad company behind the project received two key approvals from federal o… [+3852 chars]",
-         "title" : "Texas bullet train from Houston to Dallas clears 2 key regulatory hurdles, company says - Fox Business",
-         "author" : "Travis Fedschun",
-         "url" : "https://www.foxbusiness.com/lifestyle/texas-bullet-train-houston-dallas-texas-central-high-speed-rail-federal-regulatory-hurdle",
-         "source" : {
-            "id" : null,
-            "name" : "Fox Business"
-         }
+         "author" : "Timothy B. Lee"
       }
-   ]
+   ],
+   "status" : "ok"
 }
