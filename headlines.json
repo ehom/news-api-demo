@@ -1,266 +1,266 @@
 {
    "totalResults" : 70,
+   "status" : "ok",
    "articles" : [
       {
-         "source" : {
-            "name" : "Ars Technica",
-            "id" : "ars-technica"
-         },
-         "content" : "Enlarge/ Facebook's European headquarters in Dublin.\r\n89 with 79 posters participating, including story author\r\nFacebook has warned that it could be forced to pull out of the European market if Europ… [+2355 chars]",
-         "publishedAt" : "2020-09-22T18:04:00Z",
-         "author" : "Timothy B. Lee",
-         "url" : "https://arstechnica.com/tech-policy/2020/09/facebook-warns-data-protection-rules-could-force-european-shutdown/",
-         "urlToImage" : "https://cdn.arstechnica.net/wp-content/uploads/2020/09/GettyImages-1212266296-760x380.jpg",
-         "description" : "Facebook official charges Irish regulators haven't treated Facebook fairly.",
-         "title" : "Facebook warns privacy rules could force it to exit European market - Ars Technica"
-      },
-      {
-         "content" : "September has featured one scandal after another stemming from Donald Trump's belief that the best way to handle the coronavirus pandemic is to let a bunch of people get sick and die, and then deny t… [+7988 chars]",
-         "publishedAt" : "2020-09-22T17:05:00Z",
-         "source" : {
-            "id" : null,
-            "name" : "Salon"
-         },
-         "url" : "https://www.salon.com/2020/09/22/cdc-scandal-gets-worse-this-is-why-trump-cant-be-trusted-with-a-coronavirus-vaccine/",
-         "author" : "Amanda Marcotte",
-         "title" : "CDC scandal gets worse: This is why Trump can't be trusted with a coronavirus vaccine - Salon",
-         "urlToImage" : "https://media.salon.com/2020/09/donald-trump-cdc-0922201.jpg",
-         "description" : "Even if there's a safe vaccine someday soon, Trump will definitely find a way to screw it up completely"
-      },
-      {
-         "url" : "https://www.cnbc.com/2020/09/22/delta-will-delay-decision-to-furlough-pilots-until-november-union-says.html",
-         "author" : "Leslie Josephs",
-         "content" : "Delta Air Lines has agreed to delay the decision to furlough close to 2,000 pilots until Nov. 1, giving more time to negotiate cost-cutting measures and lobbying for additional federal aid, their uni… [+760 chars]",
-         "publishedAt" : "2020-09-22T17:00:00Z",
-         "source" : {
-            "id" : null,
-            "name" : "CNBC"
-         },
-         "title" : "Delta will delay decision to furlough pilots until November, union says - CNBC",
-         "description" : "Delta will delay the decision to furlough pilots until November an effort to give time to push for more federal aid and negotiate cost-cutting measures with the pilots' union.",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106555309-15906692132020-05-28t111916z_1550214401_rc2nxg9fzsvp_rtrmadp_0_health-coronavirus-ceopay.jpeg?v=1600089224"
-      },
-      {
-         "title" : "Amazon reportedly prevents some device rivals from advertising competing products - CNBC",
-         "description" : "The actions could attract attention from regulators who are already examining Amazon's business practices.",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106203806-1572006539427jeff.jpg?v=1595600902",
-         "publishedAt" : "2020-09-22T17:00:00Z",
-         "content" : "Amazon restricts some of its biggest device rivals from buying advertisements tied to search results for its own products, giving its devices an advantage over competitors, a Wall Street Journal inve… [+3059 chars]",
-         "source" : {
-            "id" : null,
-            "name" : "CNBC"
-         },
-         "url" : "https://www.cnbc.com/2020/09/22/amazon-prevents-some-rivals-from-advertising-competing-devices-report.html",
-         "author" : "Annie Palmer"
-      },
-      {
-         "url" : "https://www.kitco.com/news/2020-09-22/Gold-silver-bulls-work-to-stabilize-prices-but-jury-still-out.html",
-         "author" : "http://www.facebook.com/kitconews",
-         "content" : "Editor's Note: With so much market volatility, stay on top of daily news! Get caught up in minutes with our speedy summary of today's must-read news and expert opinions. Sign up here! \r\n(Kitco News) … [+4726 chars]",
-         "publishedAt" : "2020-09-22T16:41:00Z",
-         "source" : {
-            "name" : "Kitco NEWS",
-            "id" : null
-         },
-         "title" : "Gold, silver bulls work to stabilize prices but jury still out - Kitco NEWS",
-         "description" : "Senior Technical Analyst Jim Wyckoff prepares investors with an overview of how the markets opened and closed. What moved metal prices? How do the technicals look? By looking at important developments",
-         "urlToImage" : "https://www.kitco.com/news/2020-09-22/images/goldchart_0922_pm.png"
-      },
-      {
-         "title" : "Texas bullet train from Houston to Dallas clears 2 key regulatory hurdles, company says - Fox Business",
-         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/09/0/0/iStock-bullet-train-Japan.jpg?ve=1&tl=1",
-         "description" : "Texas is one step closer to a high-speed rail line between the state's two largest metropolitan areas after the railroad planning on building the railway received two key approvals from federal officials, it was announced Monday.",
-         "publishedAt" : "2020-09-22T16:38:56Z",
-         "content" : "Texas is one step closer to having a high-speed rail line connecting the state's two largest metropolitan areas after the railroad company behind the project received two key approvals from federal o… [+3852 chars]",
-         "source" : {
-            "name" : "Fox Business",
-            "id" : null
-         },
-         "url" : "https://www.foxbusiness.com/lifestyle/texas-bullet-train-houston-dallas-texas-central-high-speed-rail-federal-regulatory-hurdle",
-         "author" : "Travis Fedschun"
-      },
-      {
-         "title" : "Sizzler restaurant chain files for bankruptcy, says move is a 'direct result' of coronavirus pandemic - Fox Business",
-         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/09/0/0/SizzlerFREDERICJ-BROWNAFP-via-Getty-Images.jpg?ve=1&tl=1",
-         "description" : "Sizzler, the steakhouse chain known for its grilled meats and giant salad bars, filed for bankruptcy Monday after the coronavirus pandemic shuttered its restaurants and strained its finances.",
-         "url" : "https://nypost.com/2020/09/22/sizzler-steakhouse-chain-files-for-bankruptcy-amid-covid-19/",
-         "author" : "New York Post",
-         "publishedAt" : "2020-09-22T16:21:37Z",
-         "content" : "Sizzler, the steakhouse chain known for its grilled meats and giant salad bars, filed for bankruptcy Monday after the coronavirus pandemic shuttered its restaurants and strained its finances.\r\n“The f… [+1934 chars]",
-         "source" : {
-            "id" : null,
-            "name" : "New York Post"
-         }
-      },
-      {
-         "source" : {
-            "id" : "cnn",
-            "name" : "CNN"
-         },
-         "publishedAt" : "2020-09-22T16:09:00Z",
-         "content" : null,
-         "author" : "Jordan Valinsky, CNN Business",
-         "url" : "https://www.cnn.com/2020/09/22/tech/amazon-prime-bike-peloton/index.html",
-         "description" : "Peloton is getting some competition from Amazon, which announced a Prime-branded stationary bike.",
-         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200922110707-echelon-amazon-prime-bike-super-tease.jpg",
-         "title" : "Amazon is selling a $499 Peloton knockoff called Prime Bike - CNN"
-      },
-      {
-         "title" : "Can Luxury Fashion Ever Regain Its Luster? - The New York Times",
-         "urlToImage" : "https://static01.nyt.com/images/2020/09/17/business/00virus-luxury-1/00virus-luxury-1-facebookJumbo.jpg",
-         "description" : "The industry is trying to reach customers amid a severe global recession that has brought mass layoffs and plunging sales. Traditional fashion weeks might be out of step.",
-         "url" : "https://www.nytimes.com/2020/09/22/business/luxury-fashion-september-coronavirus.html",
-         "author" : "Elizabeth Paton",
-         "content" : "The second quarter of 2020 was the luxury fashion industrys worst. According to estimates by Boston Consulting Group, global luxury sales are set to contract by 25 percent to 45 percent this year, wi… [+1539 chars]",
-         "publishedAt" : "2020-09-22T16:01:00Z",
-         "source" : {
-            "id" : null,
-            "name" : "New York Times"
-         }
-      },
-      {
-         "urlToImage" : "https://s.yimg.com/ny/api/res/1.2/.P_Uy4jxYwv.aWiRRDJEjw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyODA7aD04NTMuMzMzMzMzMzMzMzMzNA--/https://s.yimg.com/uu/api/res/1.2/cIFsGzXnNpSL3pqU77kZBQ--~B/aD0yNjY3O3c9NDAwMDtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bloomberg_markets_842/c13ae624bb17c9f4662a7ea954ef88d9",
-         "description" : "(Bloomberg) -- Ryan Cohen, the entrepreneur who built Chewy.com into a pet-supply giant and sold it for more than $3 billion, is now pitching GameStop Corp. ...",
-         "title" : "GameStop Rises on Investor’s Plan to Make It an Amazon Rival - Yahoo Finance",
-         "author" : "Olga Kharif",
-         "url" : "https://finance.yahoo.com/news/gamestop-rises-investor-plan-amazon-133838951.html",
+         "url" : "https://finance.yahoo.com/news/nike-reports-fiscal-1q-results-2020-coronavirus-digital-sales-201745232.html",
+         "author" : "Emily McCormick",
+         "publishedAt" : "2020-09-22T20:17:00Z",
+         "title" : "Nike swings back to a quarterly profit as digital sales surge 82% - Yahoo Finance",
+         "description" : "Nike reported fiscal first-quarter results after market close on Tuesday.",
+         "urlToImage" : "https://s.yimg.com/ny/api/res/1.2/GoBp3a6PtLoEADPrqZnTew--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyODA7aD04NjkuMzMzMzMzMzMzMzMzNA--/https://s.yimg.com/uu/api/res/1.2/IVUNnAI.Ui6ql3nl_J7nug--~B/aD0yMzc4O3c9MzUwMDtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-images/2020-06/3d60b1f0-b708-11ea-87cf-167609d408e1",
+         "content" : "Is it time for the bears to break out the champagne glasses? Not so fast, says Goldman Sachs. Volatility has ruled the Street for the last few weeks, leading some to conclude that those with a more p… [+10753 chars]",
          "source" : {
             "id" : null,
             "name" : "Yahoo Entertainment"
-         },
-         "content" : "(Bloomberg) -- Ryan Cohen, the entrepreneur who built Chewy.com into a pet-supply giant and sold it for more than $3 billion, is now pitching GameStop Corp. on a lofty goal: becoming a true competito… [+5381 chars]",
-         "publishedAt" : "2020-09-22T15:56:00Z"
+         }
       },
       {
-         "content" : "Walmart Inc said on Tuesday it would run a pilot project to deliver self-collection test kits for coronavirus through automated drones at customers' doorsteps.\r\nThe U.S. retailer has partnered with Q… [+946 chars]",
-         "publishedAt" : "2020-09-22T15:43:51Z",
-         "source" : {
-            "name" : "Fox Business",
-            "id" : null
-         },
-         "url" : "https://www.foxbusiness.com/retail/walmart-to-test-drone-delivery-of-covid-19-test-kits",
-         "author" : "Reuters",
-         "title" : "Walmart to test drone delivery of COVID-19 test kits - Fox Business",
-         "description" : "The U.S. retailer has partnered with Quest Diagnostics and drone services provider DroneUp, to test-deliver collection kits in north Las Vegas from Tuesday and plans to conduct a trial run in Cheektowaga, New York in early October.",
-         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/06/0/0/Walmart-iStock.jpg?ve=1&tl=1"
-      },
-      {
-         "description" : "Some shoppers looking to buy new fridges, freezers or washers have been finding themselves out of luck. The coronavirus pandemic has thrown a monkey wrench into both supply and demand.",
-         "urlToImage" : "https://media.npr.org/assets/img/2020/09/21/ap_20177460003770_wide-815afec744d02243b381196f4f7cc55e73655c39.jpg?s=1400",
-         "title" : "Why It's So Hard To Buy A New Refrigerator These Days - NPR",
-         "author" : "",
-         "url" : "https://www.npr.org/2020/09/22/915240713/shortage-of-new-refrigerators-leaves-appliance-shoppers-out-in-the-cold",
-         "source" : {
-            "id" : null,
-            "name" : "NPR"
-         },
-         "publishedAt" : "2020-09-22T15:29:16Z",
-         "content" : "A worker pushes a cart past refrigerators at a Home Depot in Boston in January, before the coronavirus pandemic threw a monkey wrench into the supply and demand of major appliances.\r\nSteven Senne/AP\r… [+4565 chars]"
-      },
-      {
-         "description" : "The owner of Britain's biggest hotel chain on Tuesday unveiled plans to slash up to 6,000 jobs just days before the UK government begins enforcing new restrictions on pubs and restaurants to contain rising coronavirus infections.",
-         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200922035826-premier-inn-hotel-restricted-super-tease.jpg",
-         "title" : "Premier Inn owner warns 6,000 jobs could go. UK pubs and restaurants brace for worse to come - CNN",
-         "source" : {
-            "name" : "CNN",
-            "id" : "cnn"
-         },
-         "publishedAt" : "2020-09-22T15:23:00Z",
-         "content" : null,
-         "author" : "Hanna Ziady, CNN Business",
-         "url" : "https://www.cnn.com/2020/09/22/business/premier-inn-job-cuts/index.html"
-      },
-      {
-         "author" : "Jessica Patrick, Matthew Burns",
-         "url" : "https://www.wral.com/coronavirus/nc-unveils-coronavirus-exposure-tracking-app/19298920/",
-         "source" : {
-            "id" : null,
-            "name" : "WRAL.com"
-         },
-         "content" : "Raleigh, N.C. — The state Department of Health and Human Services launched a free app Tuesday that alerts people when they may have been exposed to coronavirus.\r\nThe app, called SlowCOVIDNC, uses Goo… [+1809 chars]",
-         "publishedAt" : "2020-09-22T15:22:26Z",
-         "urlToImage" : "https://wwwcache.wral.com/asset/lifestyles/healthteam/2020/09/22/19298922/Screenshot_2020-09-22_at_9.58.57_AM-DMID1-5o9wblnpa-640x480.jpg",
-         "description" : "The state Department of Health and Human Services launched a free app Tuesday that alerts people when they may have been exposed to coronavirus.",
-         "title" : "NC unveils coronavirus exposure tracking app - WRAL.com"
-      },
-      {
+         "urlToImage" : "https://images.mktw.net/im-235208/social",
+         "description" : "",
+         "content" : "But are Teslas \r\n TSLA, \r\n -5.59%\r\nbest days behind it, as bears would have you believe? Perhaps a look at the historic performance of some other highfliers can offer some perspective. Morningstar re… [+3775 chars]",
          "source" : {
             "id" : null,
             "name" : "MarketWatch"
          },
-         "publishedAt" : "2020-09-22T15:21:00Z",
-         "content" : "“\r\n Personally, and professionally, every nickel you can, keep it wherever its banked Generally, I think for any speculation, and I think the market right now is a great speculation, I would stay hom… [+1672 chars]",
-         "author" : "Shawn Langlois",
-         "url" : "https://www.marketwatch.com/story/the-stock-market-is-a-great-speculation-at-this-point-and-its-time-to-raise-cash-billionaire-investor-warns-11600788079",
-         "urlToImage" : "https://images.mktw.net/im-235039/social",
-         "description" : "‘I actually think if I could wake up in mid-November, maybe it’s even late November given what might be contested, I would rub that magic genie’",
-         "title" : "The stock market is a 'great speculation' at this point, and it's time to raise cash, billionaire investor warns - MarketWatch"
+         "url" : "https://www.marketwatch.com/story/how-tesla-stacks-up-against-other-tech-juggernauts-at-similar-stages-theres-good-news-and-bad-news-11600804418",
+         "publishedAt" : "2020-09-22T19:53:00Z",
+         "title" : "How Tesla stacks up against other tech juggernauts at similar stages — there's good news and bad news - MarketWatch",
+         "author" : "Shawn Langlois"
       },
       {
-         "url" : "https://www.usatoday.com/story/news/health/2020/09/22/covid-kn-95-masks-imported-china-dont-meet-standards-ecri/5806327002/",
-         "author" : "Adrianna Rodriguez",
-         "publishedAt" : "2020-09-22T15:19:29Z",
-         "content" : "This is how often you should wash your cloth face mask.\r\nUSA TODAY\r\nA shortage of N95 masks forced hospitals to find alternatives to protect health care workers tending COVID-19 patients. Queue the K… [+3782 chars]",
+         "description" : "Tesla (TSLA) is holding its Battery Day and 2020 Shareholders Meeting today, and we are going to post all the important news coming out of the event in this Electrek News Hub. The event — or both events, depending on how you look at it — is going to be held a…",
+         "urlToImage" : "https://electrek.co/wp-content/uploads/sites/3/2020/09/Tesla-Shareholders-Meeting-Battery-Day-hero.jpg?quality=82&strip=all",
          "source" : {
-            "id" : "usa-today",
-            "name" : "USA Today"
-         },
-         "title" : "Up to 70% of KN95 masks imported from China don't meet filtration standards, study says - USA TODAY",
-         "urlToImage" : "https://www.gannett-cdn.com/presto/2020/09/22/USAT/5f592f80-3c19-4f94-b8fb-5e04de1462e7-GettyImages-1250309942.jpg?crop=1998,1124,x0,y0&width=1600&height=800&fit=bounds",
-         "description" : "U.S. hospitals were forced to purchase hundreds of thousands of KN95 masks produced in China over the past six months because of an N95 shortage."
-      },
-      {
-         "title" : "Why Tesla Stock Fell Today - Motley Fool",
-         "description" : "CEO Elon Musk dampened investors' excitement for the electric-vehicle maker's upcoming announcements.",
-         "urlToImage" : "https://g.foolcdn.com/editorial/images/592507/market-down-gettyimages-873873202.jpg",
-         "publishedAt" : "2020-09-22T15:01:00Z",
-         "content" : "What happened\r\nShares of Tesla(NASDAQ:TSLA) declined on Tuesday ahead of its upcoming \"Battery Day\" presentation. As of 9:50 a.m. EDT, Tesla stock was down 5%.\r\nSo what\r\nA series of tweets sent by CE… [+1717 chars]",
-         "source" : {
-            "name" : "Motley Fool",
+            "name" : "Electrek",
             "id" : null
          },
-         "url" : "https://www.fool.com/investing/2020/09/22/why-tesla-stock-fell-today/",
-         "author" : "Joe Tenebruso"
+         "content" : "Tesla (TSLA) is holding its Battery Day and 2020 Shareholders Meeting today, and we are going to post all the important news coming out of the event in this Electrek News Hub.\r\nThe event or both even… [+1735 chars]",
+         "url" : "https://electrek.co/2020/09/22/tesla-tsla-battery-day-2020-shareholders-meeting-news-hub/",
+         "author" : null,
+         "publishedAt" : "2020-09-22T19:02:00Z",
+         "title" : "Tesla (TSLA) Battery Day and 2020 Shareholders Meeting News Hub - Electrek.co"
       },
       {
-         "title" : "Watch Jerome Powell, Steven Mnuchin testify before Congress on pandemic response - CNBC",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106599487-15936066682020-06-30t185858z_1404229148_rc2ujh9hgve2_rtrmadp_0_health-coronavirus-usa-fed.jpeg?v=1593702664",
-         "description" : "Federal Reserve Chair Jerome Powell and Treasury Secretary Steven Mnuchin are testifying before the House Financial Services Committee.",
-         "content" : "[The stream is slated to start at 10:30 a.m. ET. Please refresh the page if you do not see a player above at that time.]\r\nFederal Reserve Chairman Jerome Powell and Treasury Secretary Steven Mnuchin … [+1356 chars]",
-         "publishedAt" : "2020-09-22T14:19:00Z",
+         "url" : "https://www.nbcnews.com/news/nbcblk/wells-fargo-ceo-ruffles-feathers-comments-about-diverse-talent-n1240739",
+         "publishedAt" : "2020-09-22T19:02:00Z",
+         "title" : "Wells Fargo CEO ruffles feathers with comments about diverse talent - NBC News",
+         "author" : "Reuters",
+         "urlToImage" : "https://media4.s-nbcnews.com/j/newscms/2020_39/3414063/200922-charlie-scharf-wells-fargo-jm-1448_397411e2daf2fbcec387763c0e23e18a.nbcnews-fp-1200-630.jpg",
+         "description" : "Wells Fargo CEO Charles Scharf said in a Zoom meeting and a company-wide email that the bank had trouble reaching diversity goals because there was not enough qualified minority talent.",
+         "content" : "Wells Fargo &amp; Co Chief Executive Charles Scharf exasperated some Black employees in a Zoom meeting this summer when he reiterated that the bank had trouble reaching diversity goals because there … [+5583 chars]",
+         "source" : {
+            "name" : "NBC News",
+            "id" : "nbc-news"
+         }
+      },
+      {
+         "urlToImage" : "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-09%2Fe8316fa0-f279-11ea-bff7-85c8a3c0a976&client=amp-blogside-v2&signature=f74675de13c5bd50163eec5fdd8f4905324a96bb",
+         "description" : "After it was delayed earlier in the year, Prime Day 2020 will reportedly start on October 13th.",
+         "source" : {
+            "name" : "Engadget",
+            "id" : "engadget"
+         },
+         "content" : "After it was delayed earlier in the year, Prime Day 2020 will kick off partway through next month, according to The Verge. The website says it obtained an internal Amazon email that states the two-da… [+341 chars]",
+         "url" : "https://www.engadget.com/amazon-prime-day-2020-182549548.html",
+         "title" : "Amazon Prime Day will reportedly start on October 13th - Engadget",
+         "publishedAt" : "2020-09-22T18:35:28Z",
+         "author" : ""
+      },
+      {
+         "url" : "https://www.cnn.com/2020/09/22/success/existing-home-sales-august/index.html",
+         "author" : "Anna Bahney, CNN Business",
+         "title" : "Home sales reach a 14-year high in August, with prices hitting a new record - CNN",
+         "publishedAt" : "2020-09-22T18:25:00Z",
+         "description" : "Home sales surged to a 14-year high in August as record low interest rates brought homebuyers out in droves and pushed prices to a new record high.",
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200922120842-us-residential-neighborhood-restricted-super-tease.jpg",
+         "source" : {
+            "name" : "CNN",
+            "id" : "cnn"
+         },
+         "content" : null
+      },
+      {
+         "publishedAt" : "2020-09-22T18:24:13Z",
+         "title" : "CDC's Halloween Guidelines Warn Against Typical Trick-Or-Treating - NPR",
+         "author" : "",
+         "url" : "https://www.npr.org/sections/coronavirus-live-updates/2020/09/22/915689646/cdcs-halloween-guidelines-warn-against-typical-trick-or-treating-boo",
+         "content" : "The Centers for Disease Control and Prevention's guidelines for a safe Halloween during the COVID-19 pandemic include new methods of doing classic spooky activities.\r\nArtMarie/Getty Images\r\nIn a year… [+3428 chars]",
+         "source" : {
+            "name" : "NPR",
+            "id" : null
+         },
+         "urlToImage" : "https://media.npr.org/assets/img/2020/09/22/gettyimages-1273336929-edit_wide-29583718b33669e187716a63ccdfeb91f320c736.jpg?s=1400",
+         "description" : "Door-to-door trick-or-treating and crowded costume parties are out, and haunted forests and outdoor movie nights are in. \"If screaming will likely occur, greater distancing is advised,\" the CDC says."
+      },
+      {
+         "url" : "https://www.motor1.com/news/445241/2021-kia-sorento-revealed/",
+         "author" : "Brandon Turkus",
+         "title" : "2021 Kia Sorento Revealed: Hybrid Power, More Safety, Better Looks - Motor1 ",
+         "publishedAt" : "2020-09-22T18:10:31Z",
+         "description" : "The 2021 Kia Sorento introduces two electrified options, as well as a sleek new design and cutting-edge safety equipment.",
+         "urlToImage" : "https://cdn.motor1.com/images/mgl/jq61N/s1/2021-kia-sorento.jpg",
+         "source" : {
+            "name" : "Motor1 ",
+            "id" : null
+         },
+         "content" : "The 2021 Kia Sorento is the latest in the South Korean brands crossover renaissance, coming on the heels of the compact Seltos and a bit adrift of the hugely popular Telluride. But the latest Sorento… [+10512 chars]"
+      },
+      {
+         "source" : {
+            "name" : "MarketWatch",
+            "id" : null
+         },
+         "content" : "Stocks rose Tuesday, recovering from intraday losses as the bulls appeared to overcome worries about renewed coronavirus lockdowns in Europe and rising political uncertainty in the U.S.Investors also… [+6584 chars]",
+         "urlToImage" : "https://s.marketwatch.com/public/resources/images/MW-IL244_fed_po_ZG_20200727150111.jpg",
+         "description" : "Tesla shares fall as Musk plays down ‘battery day’ expectations",
+         "publishedAt" : "2020-09-22T18:06:00Z",
+         "title" : "Dow recovers from intraday drop as S&P 500, Nasdaq snap four-day losing streak - MarketWatch",
+         "author" : "William Watts, MarketWatch, Sunny Oh",
+         "url" : "https://www.marketwatch.com/story/stock-index-futures-struggle-for-direction-after-volatile-session-as-investors-await-powell-testimony-2020-09-22"
+      },
+      {
+         "content" : "Enlarge/ Facebook's European headquarters in Dublin.\r\n89 with 79 posters participating, including story author\r\nFacebook has warned that it could be forced to pull out of the European market if Europ… [+2355 chars]",
+         "source" : {
+            "name" : "Ars Technica",
+            "id" : "ars-technica"
+         },
+         "description" : "Facebook official charges Irish regulators haven't treated Facebook fairly.",
+         "urlToImage" : "https://cdn.arstechnica.net/wp-content/uploads/2020/09/GettyImages-1212266296-760x380.jpg",
+         "author" : "Timothy B. Lee",
+         "publishedAt" : "2020-09-22T18:04:00Z",
+         "title" : "Facebook warns privacy rules could force it to exit European market - Ars Technica",
+         "url" : "https://arstechnica.com/tech-policy/2020/09/facebook-warns-data-protection-rules-could-force-european-shutdown/"
+      },
+      {
+         "url" : "https://www.foxbusiness.com/money/reasons-to-claim-social-security-benefits-early",
+         "publishedAt" : "2020-09-22T17:30:18Z",
+         "title" : "3 reasons to claim Social Security benefits early - Fox Business",
+         "author" : "Motley Fool",
+         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/09/0/0/iStock-Social-Security.jpg?ve=1&tl=1",
+         "description" : "Filing for Social Security early is often associated with taking a long-term financial hit. But that's not always the case.",
+         "content" : "The decision to file for Social Security isn't an easy one, since the age you claim benefits at will dictate how much monthly income you receive for the rest of your life. If you opt to sign up for S… [+3559 chars]",
+         "source" : {
+            "id" : null,
+            "name" : "Fox Business"
+         }
+      },
+      {
+         "description" : "Even if there's a safe vaccine someday soon, Trump will definitely find a way to screw it up completely",
+         "urlToImage" : "https://media.salon.com/2020/09/donald-trump-cdc-0922201.jpg",
+         "content" : "September has featured one scandal after another stemming from Donald Trump's belief that the best way to handle the coronavirus pandemic is to let a bunch of people get sick and die, and then deny t… [+7988 chars]",
+         "source" : {
+            "name" : "Salon",
+            "id" : null
+         },
+         "url" : "https://www.salon.com/2020/09/22/cdc-scandal-gets-worse-this-is-why-trump-cant-be-trusted-with-a-coronavirus-vaccine/",
+         "author" : "Amanda Marcotte",
+         "publishedAt" : "2020-09-22T17:05:00Z",
+         "title" : "CDC scandal gets worse: This is why Trump can't be trusted with a coronavirus vaccine - Salon"
+      },
+      {
+         "title" : "Delta will delay decision to furlough pilots until November, union says - CNBC",
+         "publishedAt" : "2020-09-22T17:00:00Z",
+         "author" : "Leslie Josephs",
+         "url" : "https://www.cnbc.com/2020/09/22/delta-will-delay-decision-to-furlough-pilots-until-november-union-says.html",
          "source" : {
             "name" : "CNBC",
             "id" : null
          },
-         "url" : "https://www.cnbc.com/2020/09/22/watch-live-treasury-secretary-mnuchin-and-feds-powell-congress-testimony.html",
-         "author" : "Thomas Franck"
+         "content" : "Delta Air Lines has agreed to delay the decision to furlough close to 2,000 pilots until Nov. 1, giving more time to negotiate cost-cutting measures and lobbying for additional federal aid, their uni… [+760 chars]",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106555309-15906692132020-05-28t111916z_1550214401_rc2nxg9fzsvp_rtrmadp_0_health-coronavirus-ceopay.jpeg?v=1600089224",
+         "description" : "Delta will delay the decision to furlough pilots until November an effort to give time to push for more federal aid and negotiate cost-cutting measures with the pilots' union."
       },
       {
-         "content" : "Making air travel truly sustainable is one of the biggest challenges facing the airline and aerospace industries. For every positive step taken by the industry as a whole, growing demand for air trav… [+6395 chars]",
-         "publishedAt" : "2020-09-22T14:09:19Z",
+         "publishedAt" : "2020-09-22T17:00:00Z",
+         "title" : "Amazon reportedly prevents some device rivals from advertising competing products - CNBC",
+         "author" : "Annie Palmer",
+         "url" : "https://www.cnbc.com/2020/09/22/amazon-prevents-some-rivals-from-advertising-competing-devices-report.html",
          "source" : {
-            "name" : "Business Insider",
-            "id" : "business-insider"
+            "name" : "CNBC",
+            "id" : null
          },
-         "url" : "https://www.businessinsider.com/airbus-hydrogen-powered-airplane-photos-details-2020-9",
-         "author" : "David Slotnick",
-         "title" : "Airbus hydrogen-powered airplane: photos, design, alternative fuel - Business Insider - Business Insider",
-         "description" : "Airbus announced three new hydrogen-powered concept airplanes. It plans to have a zero-emission aircraft enter service by 2035.",
-         "urlToImage" : "https://i.insider.com/5f6910e557b7da001ee12f0e?width=1200&format=jpeg"
+         "content" : "Amazon restricts some of its biggest device rivals from buying advertisements tied to search results for its own products, giving its devices an advantage over competitors, a Wall Street Journal inve… [+3059 chars]",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106203806-1572006539427jeff.jpg?v=1595600902",
+         "description" : "The actions could attract attention from regulators who are already examining Amazon's business practices."
       },
       {
-         "author" : "Matthew DeBord",
-         "url" : "https://www.businessinsider.com/gm-foolproof-deal-with-nikola-but-trevor-milton-big-risk-2020-9",
+         "url" : "https://www.theverge.com/2020/9/22/21449717/youtube-age-restriction-machine-learning-rollout-kids-content-monetization-creators",
+         "author" : "Julia Alexander",
+         "publishedAt" : "2020-09-22T17:00:00Z",
+         "title" : "YouTube is about to age-restrict way more videos - The Verge",
+         "description" : "YouTube is rolling out more artificial intelligence-powered technology to catch more videos that may require age restrictions, meaning more viewers will be asked to sign into their accounts to verify their age before watching.",
+         "urlToImage" : "https://cdn.vox-cdn.com/thumbor/-X4sjZc4hjT8YMtJcabrQGpMMZA=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/10480483/acastro_180322_1777_youtube_0001.jpg",
          "source" : {
-            "name" : "Business Insider",
-            "id" : "business-insider"
+            "name" : "The Verge",
+            "id" : "the-verge"
          },
-         "content" : "Once the details of General Motor's $2 billion deal with electric and fuel-cell vehicle startup Nikola came to light, it was clear that the largest US automaker wasn't taking any big risks.\r\nGM's 11%… [+6829 chars]",
-         "publishedAt" : "2020-09-22T14:07:26Z",
-         "description" : "GM's risk assessment might have underestimated Milton's entrepreneurial willingness to distort capabilities in the interest of creating a great story.",
-         "urlToImage" : "https://i.insider.com/5f611e85323fc4001e0d66e1?width=1200&format=jpeg",
-         "title" : "GM had a foolproof deal with Nikola — but Trevor Milton was a big risk - Business Insider - Business Insider"
+         "content" : "AI moderation measures will be used to automatically age-restrict certain content\r\nIllustration by Alex Castro / The Verge\r\nYouTube is rolling out more artificial intelligence-powered technology to c… [+3948 chars]"
+      },
+      {
+         "url" : "https://www.usatoday.com/story/money/2020/09/22/bed-bath-coupons-2020-store-closures-coronavirus/5864826002/",
+         "author" : "Kelly Tyko",
+         "publishedAt" : "2020-09-22T16:55:10Z",
+         "title" : "Bed Bath & Beyond coupons: What shoppers need to know about the 20% discount amid a new round of store closings - USA TODAY",
+         "description" : "Will Bed Bath & Beyond change its popular 20 percent coupons amid a new round of store closings? What stores are closing? What about gift cards?",
+         "urlToImage" : "https://www.gannett-cdn.com/-mm-/2ea406f3d7ae8ea258b9e31300d440de7667606e/c=12-0-2389-1337/local/-/media/2020/08/25/Akron/ghows-OH-200708829-fdb15c6e.jpg?width=1600&height=800&fit=crop",
+         "source" : {
+            "id" : "usa-today",
+            "name" : "USA Today"
+         },
+         "content" : "The coronavirus pandemic has forced retailers to make adjustments for employee and customer safety.\r\nVideo Elephant\r\nWith Bed Bath &amp; Beyond Inc. revealing the first 63 namesake stores that will c… [+5249 chars]"
+      },
+      {
+         "url" : "https://www.marketwatch.com/story/the-only-republican-with-morals-is-a-former-republican-mitt-romney-gets-full-twitter-treatment-11600793713",
+         "title" : "'The only Republican with morals is a former Republican' — Mitt Romney gets full Twitter treatment - MarketWatch",
+         "publishedAt" : "2020-09-22T16:55:00Z",
+         "author" : "Shawn Langlois",
+         "urlToImage" : "https://images.mktw.net/im-235093/social",
+         "description" : "",
+         "content" : "It wasnt all that long ago that Mitt Romney was cheered by the left as a ray of light in the darkness, after he became the first senator to have ever voted to remove a president of his own party. But… [+675 chars]",
+         "source" : {
+            "id" : null,
+            "name" : "MarketWatch"
+         }
+      },
+      {
+         "publishedAt" : "2020-09-22T16:42:53Z",
+         "title" : "Southwest Airlines is offering a free companion pass. Here's how to get this limited deal - The Arizona Republic",
+         "author" : "Melissa Yeager",
+         "url" : "https://www.azcentral.com/story/travel/airlines/2020/09/22/southwest-airlines-free-companion-pass-limited-time-offer/5864021002/",
+         "content" : "In an effort to woo back travelers hesitant to fly due to the COVID-19 pandemic, Southwest Airlines has unleashed a stunning deal. Book a flight by Nov. 15 and you'll earn a companion pass good from … [+2038 chars]",
+         "source" : {
+            "name" : "AZCentral",
+            "id" : null
+         },
+         "urlToImage" : "https://www.gannett-cdn.com/presto/2020/03/26/PPHX/f64ded9c-efed-4001-9795-56ba690e5182-cent02-79vjt3yzgvryu705frw_original.jpg?crop=2999,1687,x0,y0&width=1600&height=800&fit=bounds",
+         "description" : "In an effort to persuade travelers to fly again, Southwest Airlines is offering those who travel by Nov. 15 a shot at a limited companion pass."
+      },
+      {
+         "url" : "https://www.kitco.com/news/2020-09-22/Gold-silver-bulls-work-to-stabilize-prices-but-jury-still-out.html",
+         "author" : "http://www.facebook.com/kitconews",
+         "publishedAt" : "2020-09-22T16:41:00Z",
+         "title" : "Gold, silver bulls work to stabilize prices but jury still out - Kitco NEWS",
+         "description" : "Senior Technical Analyst Jim Wyckoff prepares investors with an overview of how the markets opened and closed. What moved metal prices? How do the technicals look? By looking at important developments",
+         "urlToImage" : "https://www.kitco.com/news/2020-09-22/images/goldchart_0922_pm.png",
+         "content" : "Editor's Note: With so much market volatility, stay on top of daily news! Get caught up in minutes with our speedy summary of today's must-read news and expert opinions. Sign up here! \r\n(Kitco News) … [+4726 chars]",
+         "source" : {
+            "id" : null,
+            "name" : "Kitco NEWS"
+         }
+      },
+      {
+         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/09/0/0/iStock-bullet-train-Japan.jpg?ve=1&tl=1",
+         "description" : "Texas is one step closer to a high-speed rail line between the state's two largest metropolitan areas after the railroad planning on building the railway received two key approvals from federal officials, it was announced Monday.",
+         "content" : "Texas is one step closer to having a high-speed rail line connecting the state's two largest metropolitan areas after the railroad company behind the project received two key approvals from federal o… [+3852 chars]",
+         "source" : {
+            "id" : null,
+            "name" : "Fox Business"
+         },
+         "url" : "https://www.foxbusiness.com/lifestyle/texas-bullet-train-houston-dallas-texas-central-high-speed-rail-federal-regulatory-hurdle",
+         "title" : "Texas bullet train from Houston to Dallas clears 2 key regulatory hurdles, company says - Fox Business",
+         "publishedAt" : "2020-09-22T16:38:56Z",
+         "author" : "Travis Fedschun"
       }
-   ],
-   "status" : "ok"
+   ]
 }
