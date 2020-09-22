@@ -2,87 +2,87 @@
    "status" : "ok",
    "articles" : [
       {
-         "title" : "5 things to know before the stock market opens Tuesday - CNBC",
          "author" : "Matthew J. Belvedere",
-         "url" : "https://www.cnbc.com/2020/09/22/5-things-to-know-before-the-stock-market-opens-september-22-2020.html",
          "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106668476-15977683532020-08-18t094644z_966918122_rc29gi95b8sg_rtrmadp_0_usa-spac-wallstreet.jpeg?v=1597768393",
-         "publishedAt" : "2020-09-22T12:10:00Z",
-         "description" : "U.S. stock futures pointed to a mixed open Tuesday, one day after a late-session turnaround cut the Dow's nearly 1,000 point decline almost in half.",
          "content" : "1. Wall Street set for mixed open after strong late-day bounce\r\nA man walks a dog in the shade away from the midday sun past the New York Stock Exchange (NYSE) building in Manhattan, during hot weath… [+4625 chars]",
+         "description" : "U.S. stock futures pointed to a mixed open Tuesday, one day after a late-session turnaround cut the Dow's nearly 1,000 point decline almost in half.",
+         "url" : "https://www.cnbc.com/2020/09/22/5-things-to-know-before-the-stock-market-opens-september-22-2020.html",
+         "title" : "5 things to know before the stock market opens Tuesday - CNBC",
          "source" : {
             "name" : "CNBC",
             "id" : null
-         }
+         },
+         "publishedAt" : "2020-09-22T12:10:00Z"
       },
       {
-         "author" : "Gary Gastelu",
-         "title" : "Ford responds to Bronco fans, will offer 'Sasquatch' extreme off-road option with a stick shift - Fox News",
-         "source" : {
-            "name" : "Fox News",
-            "id" : "fox-news"
-         },
          "description" : "Ford Bronco fans complained that the SUV couldn't be configured with a manual transmission and otpional Sasquatch off-road package, so Ford updated its availability.",
          "content" : "Sometimes whining pays off.\r\nWhen Ford unveiled the all-new Bronco in July there was a lot to like for 4x4 enthusiasts, but some of them found something to complain about anyway.\r\nThe SUV offers a Sa… [+1631 chars]",
-         "publishedAt" : "2020-09-22T11:57:01Z",
          "urlToImage" : "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/first.jpg",
+         "author" : "Gary Gastelu",
+         "publishedAt" : "2020-09-22T11:57:01Z",
+         "source" : {
+            "id" : "fox-news",
+            "name" : "Fox News"
+         },
+         "title" : "Ford responds to Bronco fans, will offer 'Sasquatch' extreme off-road option with a stick shift - Fox News",
          "url" : "https://www.foxnews.com/auto/ford-bronco-sasquatch-stick-shift"
       },
       {
-         "publishedAt" : "2020-09-22T11:27:00Z",
-         "url" : "https://www.cnn.com/2020/09/22/investing/sizzler-restaurant-bankruptcy/index.html",
-         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200922064045-restricted-file-sizzler-restaurant-utah-2019-super-tease.jpg",
-         "description" : "Sizzler USA, one of the country's first casual restaurant chains, has filed for bankruptcy.",
-         "content" : null,
          "source" : {
             "id" : "cnn",
             "name" : "CNN"
          },
          "title" : "Sizzler, one of America's first steakhouse chains, files for bankruptcy - CNN",
-         "author" : "Jordan Valinsky, CNN Business"
+         "publishedAt" : "2020-09-22T11:27:00Z",
+         "url" : "https://www.cnn.com/2020/09/22/investing/sizzler-restaurant-bankruptcy/index.html",
+         "author" : "Jordan Valinsky, CNN Business",
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200922064045-restricted-file-sizzler-restaurant-utah-2019-super-tease.jpg",
+         "description" : "Sizzler USA, one of the country's first casual restaurant chains, has filed for bankruptcy.",
+         "content" : null
       },
       {
+         "urlToImage" : "https://cdn.vox-cdn.com/thumbor/qw47OCwvutnJHEax95pjNrG-Pgk=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/19624051/acastro_200123_3880_Youtube_NDA_0001.0.jpg",
          "author" : "James Vincent",
+         "description" : "A former content moderator is suing YouTube for failing to protect her and her coworkers from the effects of viewing hours of graphic videos every day. The unnamed plaintiff says YouTube consistently failed to meet its own safety guidelines, leaving her with …",
+         "content" : "The unnamed moderator says YouTube failed in its duty of care\r\nIllustration by Alex Castro / The Verge\r\nA former YouTube content moderator is suing the Google-owned company for failing to properly pr… [+4416 chars]",
+         "url" : "https://www.theverge.com/2020/9/22/21450477/youtube-content-moderator-sues-lawsuit-ptsd-graphic-content-exposure",
+         "publishedAt" : "2020-09-22T10:49:26Z",
          "title" : "Former YouTube content moderator sues the company after developing symptoms of PTSD - The Verge",
          "source" : {
-            "name" : "The Verge",
-            "id" : "the-verge"
-         },
-         "publishedAt" : "2020-09-22T10:49:26Z",
-         "url" : "https://www.theverge.com/2020/9/22/21450477/youtube-content-moderator-sues-lawsuit-ptsd-graphic-content-exposure",
-         "urlToImage" : "https://cdn.vox-cdn.com/thumbor/qw47OCwvutnJHEax95pjNrG-Pgk=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/19624051/acastro_200123_3880_Youtube_NDA_0001.0.jpg",
-         "content" : "The unnamed moderator says YouTube failed in its duty of care\r\nIllustration by Alex Castro / The Verge\r\nA former YouTube content moderator is suing the Google-owned company for failing to properly pr… [+4416 chars]",
-         "description" : "A former content moderator is suing YouTube for failing to protect her and her coworkers from the effects of viewing hours of graphic videos every day. The unnamed plaintiff says YouTube consistently failed to meet its own safety guidelines, leaving her with …"
+            "id" : "the-verge",
+            "name" : "The Verge"
+         }
       },
       {
-         "title" : "3 Stocks to Buy Ahead of the Next Market Crash - Motley Fool",
-         "author" : "Matthew Frankel, CFP",
-         "publishedAt" : "2020-09-22T10:47:00Z",
-         "urlToImage" : "https://g.foolcdn.com/editorial/images/592362/recession.jpg",
-         "url" : "https://www.fool.com/investing/2020/09/22/3-stocks-to-buy-ahead-of-the-next-market-crash/",
          "description" : "If the market keeps dropping, here are three stocks you'll want to own.",
          "content" : "The stock market is sharply higher than its March lows, but has started to pull back again recently. Since peaking in early September, the S&amp;P 500 has lost nearly 5% of its value. The Dow Jones I… [+4663 chars]",
+         "author" : "Matthew Frankel, CFP",
+         "urlToImage" : "https://g.foolcdn.com/editorial/images/592362/recession.jpg",
          "source" : {
-            "name" : "Motley Fool",
-            "id" : null
-         }
+            "id" : null,
+            "name" : "Motley Fool"
+         },
+         "title" : "3 Stocks to Buy Ahead of the Next Market Crash - Motley Fool",
+         "publishedAt" : "2020-09-22T10:47:00Z",
+         "url" : "https://www.fool.com/investing/2020/09/22/3-stocks-to-buy-ahead-of-the-next-market-crash/"
       },
       {
-         "title" : "An entire village lost its broadband at the same time every day for 18 months. Now we know why - CNN",
-         "author" : "Jack Guy, CNN",
-         "content" : null,
-         "description" : "For 18 months, residents of a village in Wales have been mystified as to why their broadband internet crashed every morning.",
          "url" : "https://www.cnn.com/2020/09/22/uk/old-tv-breaks-broadband-village-scli-intl-gbr/index.html",
-         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200922102941-aberhosan-wales-file-restricted-super-tease.jpg",
          "publishedAt" : "2020-09-22T10:33:00Z",
+         "title" : "An entire village lost its broadband at the same time every day for 18 months. Now we know why - CNN",
          "source" : {
-            "id" : "cnn",
-            "name" : "CNN"
-         }
+            "name" : "CNN",
+            "id" : "cnn"
+         },
+         "description" : "For 18 months, residents of a village in Wales have been mystified as to why their broadband internet crashed every morning.",
+         "content" : null,
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200922102941-aberhosan-wales-file-restricted-super-tease.jpg",
+         "author" : "Jack Guy, CNN"
       },
       {
          "description" : "Collectively, these companies are generating more than $2.7 billion a year in dividend income for Berkshire Hathaway.",
          "content" : "For more than 50 years, Berkshire Hathaway(NYSE:BRK.A)(NYSE:BRK.B) CEO Warren Buffett has been running circles around the broader market. According to the company's 2019 shareholder letter, Berkshire… [+6732 chars]",
-         "publishedAt" : "2020-09-22T10:06:00Z",
+         "author" : "Sean Williams",
          "urlToImage" : "https://g.foolcdn.com/editorial/images/592284/stack-of-one-hundred-dollar-bills-cash-money-stimulus-invest-retire-getty.jpg",
          "url" : "https://www.fool.com/investing/2020/09/22/warren-buffetts-top-4-dividend-stocks/",
          "source" : {
@@ -90,176 +90,176 @@
             "id" : null
          },
          "title" : "Warren Buffett's Top 4 Dividend Stocks - Motley Fool",
-         "author" : "Sean Williams"
+         "publishedAt" : "2020-09-22T10:06:00Z"
       },
       {
-         "content" : "Two cloud-computing giants made land grabs Tuesday in the fight for market turf. Microsoft Corp. \r\n MSFT, \r\n +1.07%\r\n beefed up its Azure platform to bring those services to any infrastructure, moder… [+2986 chars]",
-         "description" : "",
-         "url" : "https://www.marketwatch.com/story/microsoft-google-up-the-ante-in-escalating-cloud-competition-2020-09-22",
-         "urlToImage" : "https://s.marketwatch.com/public/resources/images/MW-IO765_Micros_ZH_20200918103156.jpg",
          "publishedAt" : "2020-09-22T10:00:00Z",
          "source" : {
-            "id" : null,
-            "name" : "MarketWatch"
+            "name" : "MarketWatch",
+            "id" : null
          },
          "title" : "Microsoft, Google up the ante in escalating cloud competition - MarketWatch",
-         "author" : "Jon Swartz"
+         "url" : "https://www.marketwatch.com/story/microsoft-google-up-the-ante-in-escalating-cloud-competition-2020-09-22",
+         "urlToImage" : "https://s.marketwatch.com/public/resources/images/MW-IO765_Micros_ZH_20200918103156.jpg",
+         "author" : "Jon Swartz",
+         "description" : "",
+         "content" : "Two cloud-computing giants made land grabs Tuesday in the fight for market turf. Microsoft Corp. \r\n MSFT, \r\n +1.07%\r\n beefed up its Azure platform to bring those services to any infrastructure, moder… [+2986 chars]"
+      },
+      {
+         "url" : "https://www.thestreet.com/markets/5-things-you-must-know-before-the-market-opens-tuesday-092220",
+         "source" : {
+            "id" : null,
+            "name" : "TheStreet"
+         },
+         "title" : "Tesla, Dow Futures, Jerome Powell, GameStop: 5 Things You Must Know Tuesday - TheStreet",
+         "publishedAt" : "2020-09-22T09:11:32Z",
+         "author" : "Joseph Woelfel",
+         "urlToImage" : "https://www.thestreet.com/.image/t_share/MTc1NDczODE5OTI0ODMzODYw/wall-street-covid_7.jpg",
+         "content" : "Here are five things you must know for Tuesday, Sept. 22:\r\n1. -- Stock Futures Turn Higher\r\nStock futures were rising Tuesday following the S&amp;P 500's fourth consecutive losing session as investor… [+5790 chars]",
+         "description" : "Stock futures turn higher following the S&P 500's fourth straight losing session; Federal Reserve Chairman Jerome Powell says the economy needs more help from Congress to prevent long-term damage; Tesla's 'Battery Day' takes places Tuesday."
+      },
+      {
+         "author" : "David Aaro",
+         "urlToImage" : "https://static.foxnews.com/foxnews.com/content/uploads/2020/06/American-Airlines-flight.jpg",
+         "content" : "A New Hampshire mom said was forced off an American Airlines flight last week because her 2-year-old son would not wear a face mask amid the coronavirus pandemic, according to a report on Monday.\r\nRa… [+2623 chars]",
+         "description" : "A New Hampshire woman says she said was forced off an American Airlines flight last week because her 2-year-old son would not wear a face mask amid the coronavirus pandemic, according to a report on Monday.",
+         "source" : {
+            "name" : "Fox News",
+            "id" : "fox-news"
+         },
+         "title" : "New Hampshire mom says she was kicked off flight after her 2-year-old refused mask: report - Fox News",
+         "publishedAt" : "2020-09-22T08:38:53Z",
+         "url" : "https://www.foxnews.com/travel/nh-mother-kicked-off-flight-toddler-2-wear-mask"
+      },
+      {
+         "title" : "Charting the pandemic over the next 12 months — and beyond - STAT - STAT",
+         "source" : {
+            "name" : "STAT",
+            "id" : null
+         },
+         "publishedAt" : "2020-09-22T08:36:08Z",
+         "url" : "https://www.statnews.com/feature/coronavirus/the-road-ahead-the-next-12-months-and-beyond/",
+         "description" : "These 30 moments in 2020 and 2021 are possible turning points for the pandemic or barometers for how the virus is reshaping our lives.",
+         "content" : "Think back through the pandemic. Think about the moments that stand out as beacons in the haze signposts of how it would change all of our lives.\r\nNot all of these moments were clear at the time. Chi… [+62682 chars]",
+         "author" : null,
+         "urlToImage" : "https://www.statnews.com/wp-content/uploads/2020/09/TopImage-1024x576.jpeg"
       },
       {
          "source" : {
             "name" : "TheStreet",
             "id" : null
          },
-         "content" : "Here are five things you must know for Tuesday, Sept. 22:\r\n1. -- Stock Futures Turn Higher\r\nStock futures were rising Tuesday following the S&amp;P 500's fourth consecutive losing session as investor… [+5790 chars]",
-         "description" : "Stock futures turn higher following the S&P 500's fourth straight losing session; Federal Reserve Chairman Jerome Powell says the economy needs more help from Congress to prevent long-term damage; Tesla's 'Battery Day' takes places Tuesday.",
-         "url" : "https://www.thestreet.com/markets/5-things-you-must-know-before-the-market-opens-tuesday-092220",
-         "urlToImage" : "https://www.thestreet.com/.image/t_share/MTc1NDczODE5OTI0ODMzODYw/wall-street-covid_7.jpg",
-         "publishedAt" : "2020-09-22T09:11:32Z",
-         "author" : "Joseph Woelfel",
-         "title" : "Tesla, Dow Futures, Jerome Powell, GameStop: 5 Things You Must Know Tuesday - TheStreet"
-      },
-      {
-         "source" : {
-            "name" : "Fox News",
-            "id" : "fox-news"
-         },
-         "content" : "A New Hampshire mom said was forced off an American Airlines flight last week because her 2-year-old son would not wear a face mask amid the coronavirus pandemic, according to a report on Monday.\r\nRa… [+2623 chars]",
-         "description" : "A New Hampshire woman says she said was forced off an American Airlines flight last week because her 2-year-old son would not wear a face mask amid the coronavirus pandemic, according to a report on Monday.",
-         "urlToImage" : "https://static.foxnews.com/foxnews.com/content/uploads/2020/06/American-Airlines-flight.jpg",
-         "url" : "https://www.foxnews.com/travel/nh-mother-kicked-off-flight-toddler-2-wear-mask",
-         "publishedAt" : "2020-09-22T08:38:53Z",
-         "author" : "David Aaro",
-         "title" : "New Hampshire mom says she was kicked off flight after her 2-year-old refused mask: report - Fox News"
-      },
-      {
-         "title" : "Charting the pandemic over the next 12 months — and beyond - STAT - STAT",
-         "author" : null,
-         "description" : "These 30 moments in 2020 and 2021 are possible turning points for the pandemic or barometers for how the virus is reshaping our lives.",
-         "content" : "Think back through the pandemic. Think about the moments that stand out as beacons in the haze signposts of how it would change all of our lives.\r\nNot all of these moments were clear at the time. Chi… [+62682 chars]",
-         "publishedAt" : "2020-09-22T08:36:08Z",
-         "urlToImage" : "https://www.statnews.com/wp-content/uploads/2020/09/TopImage-1024x576.jpeg",
-         "url" : "https://www.statnews.com/feature/coronavirus/the-road-ahead-the-next-12-months-and-beyond/",
-         "source" : {
-            "id" : null,
-            "name" : "STAT"
-         }
-      },
-      {
-         "author" : null,
          "title" : "Wow, Trump Didn't Know That the Dollar Floats - TheStreet",
-         "source" : {
-            "id" : null,
-            "name" : "TheStreet"
-         },
-         "content" : "When you are so stupid to actually think you are the smartest guy in the room, you end up saying and doing a lot of very stupid things.\r\nSome Trump classics I recall:\r\nNobody knew health care would b… [+1226 chars]",
-         "description" : "A clueless Trump asked his aides to weaken the dollar.",
+         "publishedAt" : "2020-09-22T08:03:42Z",
          "url" : "https://www.thestreet.com/mishtalk/economics/wow-trump-didnt-know-that-the-dollar-floats",
+         "author" : null,
          "urlToImage" : "https://imageproxy.themaven.net/https%3A%2F%2Fimages.saymedia-content.com%2F.image%2FMTc1NTcxMDMxOTQ2MTc1NjA3%2Ftrump-asked-to-weaken-the-dollar.png?w=1024&q=40&h=752&auto=format&fit=max",
-         "publishedAt" : "2020-09-22T08:03:42Z"
+         "content" : "When you are so stupid to actually think you are the smartest guy in the room, you end up saying and doing a lot of very stupid things.\r\nSome Trump classics I recall:\r\nNobody knew health care would b… [+1226 chars]",
+         "description" : "A clueless Trump asked his aides to weaken the dollar."
       },
       {
-         "title" : "Stakeholder Capitalism Gets a Report Card. It’s Not Good. - The New York Times",
          "author" : "Peter S. Goodman",
+         "urlToImage" : "https://static01.nyt.com/images/2020/09/22/business/22STAKEHOLDER-print/21STAKEHOLDER-facebookJumbo.jpg",
          "description" : "The pandemic and the movement for racial justice have tested corporate pledges to elevate social concerns alongside shareholder interests. A new study finds companies are failing to follow through.",
          "content" : "The Business Roundtable presents its mission statement as a reflection of the belief that C.E.O.s face extraordinary pressures to protect workers, the environment and community interests or suffer pu… [+2047 chars]",
-         "urlToImage" : "https://static01.nyt.com/images/2020/09/22/business/22STAKEHOLDER-print/21STAKEHOLDER-facebookJumbo.jpg",
-         "url" : "https://www.nytimes.com/2020/09/22/business/business-roudtable-stakeholder-capitalism.html",
-         "publishedAt" : "2020-09-22T07:56:00Z",
          "source" : {
-            "id" : null,
-            "name" : "New York Times"
-         }
+            "name" : "New York Times",
+            "id" : null
+         },
+         "title" : "Stakeholder Capitalism Gets a Report Card. It’s Not Good. - The New York Times",
+         "publishedAt" : "2020-09-22T07:56:00Z",
+         "url" : "https://www.nytimes.com/2020/09/22/business/business-roudtable-stakeholder-capitalism.html"
       },
       {
+         "author" : "Steve Goldstein",
+         "urlToImage" : "https://images.mktw.net/im-234860/social",
+         "description" : "U.K. set to announce new restrictions on pubs",
+         "content" : "European stocks edged higher on Tuesday after their worst one-day performance in more than three months, as the Continent faces tighter economic restrictions due to rising cases of coronavirus.The U.… [+2757 chars]",
          "source" : {
             "id" : null,
             "name" : "MarketWatch"
          },
-         "content" : "European stocks edged higher on Tuesday after their worst one-day performance in more than three months, as the Continent faces tighter economic restrictions due to rising cases of coronavirus.The U.… [+2757 chars]",
-         "description" : "U.K. set to announce new restrictions on pubs",
+         "title" : "European stocks nudge higher after worst drubbing in three months amid second wave concerns - MarketWatch",
          "publishedAt" : "2020-09-22T07:37:00Z",
-         "urlToImage" : "https://images.mktw.net/im-234860/social",
-         "url" : "https://www.marketwatch.com/story/european-stocks-nudge-higher-after-worst-drubbing-in-three-months-amid-second-wave-concerns-11600760250",
-         "author" : "Steve Goldstein",
-         "title" : "European stocks nudge higher after worst drubbing in three months amid second wave concerns - MarketWatch"
+         "url" : "https://www.marketwatch.com/story/european-stocks-nudge-higher-after-worst-drubbing-in-three-months-amid-second-wave-concerns-11600760250"
       },
       {
-         "author" : "Scott Murdoch and Sumeet Chatterjee",
-         "title" : "Global Markets: Asia shares weaker on lockdown worries, banking sell-off - Reuters.com",
-         "source" : {
-            "id" : "reuters",
-            "name" : "Reuters"
-         },
          "description" : "* Asian shares weaker for second consecutive day* Futures trading point to flat US opening* Fresh lockdown worries, stimulus delay spook inve",
          "content" : "* Asian shares weaker for second consecutive day\r\n* Futures trading point to flat US opening\r\n* Fresh lockdown worries, stimulus delay spook investors\r\nBy Scott Murdoch and Sumeet Chatterjee\r\nHONG KO… [+4202 chars]",
+         "author" : "Scott Murdoch and Sumeet Chatterjee",
          "urlToImage" : "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png",
-         "url" : "https://www.reuters.com/article/global-markets-idUSL3N2GJ0WF",
-         "publishedAt" : "2020-09-22T05:28:00Z"
+         "title" : "Global Markets: Asia shares weaker on lockdown worries, banking sell-off - Reuters.com",
+         "source" : {
+            "name" : "Reuters",
+            "id" : "reuters"
+         },
+         "publishedAt" : "2020-09-22T05:28:00Z",
+         "url" : "https://www.reuters.com/article/global-markets-idUSL3N2GJ0WF"
       },
       {
+         "author" : null,
+         "urlToImage" : "https://c.ndtvimg.com/2020-09/8o20257_apple-ceo-tim-cook-650_625x300_22_September_20.jpg",
+         "description" : "Apple Inc. Chief Executive Officer Tim Cook said he's been impressed by employees' ability to operate remotely and predicted that some new work habits will remain after the pandemic.",
+         "content" : "Tim Cook was also asked how long he foresees running the Cupertino, California-technology giant.\r\nApple Inc. Chief Executive Officer Tim Cook said he's been impressed by employees' ability to operate… [+1600 chars]",
+         "title" : "Apple CEO Tim Cook \"Impressed\" By Remote Work, Predicts Permanent Changes - NDTV",
          "source" : {
             "id" : null,
             "name" : "NDTV News"
          },
-         "url" : "https://www.ndtv.com/world-news/apple-ceo-tim-cook-impressed-by-remote-work-predicts-permanent-changes-2299142",
-         "urlToImage" : "https://c.ndtvimg.com/2020-09/8o20257_apple-ceo-tim-cook-650_625x300_22_September_20.jpg",
          "publishedAt" : "2020-09-22T05:26:25Z",
-         "description" : "Apple Inc. Chief Executive Officer Tim Cook said he's been impressed by employees' ability to operate remotely and predicted that some new work habits will remain after the pandemic.",
-         "content" : "Tim Cook was also asked how long he foresees running the Cupertino, California-technology giant.\r\nApple Inc. Chief Executive Officer Tim Cook said he's been impressed by employees' ability to operate… [+1600 chars]",
-         "author" : null,
-         "title" : "Apple CEO Tim Cook \"Impressed\" By Remote Work, Predicts Permanent Changes - NDTV"
+         "url" : "https://www.ndtv.com/world-news/apple-ceo-tim-cook-impressed-by-remote-work-predicts-permanent-changes-2299142"
       },
       {
-         "author" : "Lewis Krauskopf",
+         "url" : "https://www.reuters.com/article/us-usa-stocks-vaccine-analysis-idUKKCN26D0FW",
          "title" : "COVID-19 vaccine verdicts loom as next big market risk - Reuters",
          "source" : {
             "name" : "Reuters",
             "id" : "reuters"
          },
+         "publishedAt" : "2020-09-22T05:07:00Z",
          "description" : "Optimism that vaccines are on the way to end the coronavirus pandemic has been a major factor in this year’s U.S. stock resurgence. That will face a critical test in coming weeks, as investors await clinical data on whether they actually work.",
          "content" : "NEW YORK (Reuters) - Optimism that vaccines are on the way to end the coronavirus pandemic has been a major factor in this years U.S. stock resurgence. That will face a critical test in coming weeks,… [+3915 chars]",
-         "publishedAt" : "2020-09-22T05:07:00Z",
-         "url" : "https://www.reuters.com/article/us-usa-stocks-vaccine-analysis-idUKKCN26D0FW",
+         "author" : "Lewis Krauskopf",
          "urlToImage" : "https://static.reuters.com/resources/r/?m=02&d=20200922&t=2&i=1534411298&r=LYNXNPEG8L097&w=800"
       },
       {
+         "url" : "https://cointelegraph.com/news/yield-farmers-make-500-returns-but-most-can-t-read-smart-contracts",
          "source" : {
             "id" : null,
             "name" : "Cointelegraph"
          },
-         "description" : "A CoinGecko survey has found that the majority of yield farmers do not understand the smart contracts underpinning the DeFi protocols they use.",
-         "content" : "The majority of yield farmers do not understand how to read the potentially risky smart contracts that underpin the decentralized finance (DeFi) ecosystem but that hasnt stopped them making huge prof… [+1852 chars]",
+         "title" : "Yield farmers make 500% returns but most can't read smart contracts - Cointelegraph",
          "publishedAt" : "2020-09-22T04:29:40Z",
-         "url" : "https://cointelegraph.com/news/yield-farmers-make-500-returns-but-most-can-t-read-smart-contracts",
-         "urlToImage" : "https://s3.eu-central-1.amazonaws.com/s3.cointelegraph.com/uploads/2020-09/2a8e5745-ad29-4d55-8496-2b2c0b75b7cc.jpg",
          "author" : "Samuel Haig",
-         "title" : "Yield farmers make 500% returns but most can't read smart contracts - Cointelegraph"
+         "urlToImage" : "https://s3.eu-central-1.amazonaws.com/s3.cointelegraph.com/uploads/2020-09/2a8e5745-ad29-4d55-8496-2b2c0b75b7cc.jpg",
+         "content" : "The majority of yield farmers do not understand how to read the potentially risky smart contracts that underpin the decentralized finance (DeFi) ecosystem but that hasnt stopped them making huge prof… [+1852 chars]",
+         "description" : "A CoinGecko survey has found that the majority of yield farmers do not understand the smart contracts underpinning the DeFi protocols they use."
       },
       {
+         "content" : "(CNN) With its vast mountain ranges, diverse wildlife and clean air, Los Alamos County, New Mexico, has been ranked the healthiest community of 2020. \r\nLocated about 40 miles from Santa Fe, the count… [+7317 chars]",
+         "description" : "Los Alamos County, New Mexico, is the healthiest community of 2020, the U.S. News Healthiest Communities rankings report has decided. Here's why.",
          "author" : "By Kristen Rogers, CNN",
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200921131820-02-los-alamos-county-wellness-super-tease.jpg",
          "title" : "This is the healthiest community in the US. Here's why - CNN",
          "source" : {
             "id" : "cnn",
             "name" : "CNN"
          },
-         "description" : "Los Alamos County, New Mexico, is the healthiest community of 2020, the U.S. News Healthiest Communities rankings report has decided. Here's why.",
-         "content" : "(CNN) With its vast mountain ranges, diverse wildlife and clean air, Los Alamos County, New Mexico, has been ranked the healthiest community of 2020. \r\nLocated about 40 miles from Santa Fe, the count… [+7317 chars]",
-         "url" : "https://www.cnn.com/travel/article/2020-healthiest-community-in-america-wellness/index.html",
-         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200921131820-02-los-alamos-county-wellness-super-tease.jpg",
-         "publishedAt" : "2020-09-22T04:11:21Z"
+         "publishedAt" : "2020-09-22T04:11:21Z",
+         "url" : "https://www.cnn.com/travel/article/2020-healthiest-community-in-america-wellness/index.html"
       },
       {
-         "author" : "Scott Rutt",
-         "title" : "Cue the Buying: Cramer's 'Mad Money' Recap (Monday 9/21/20) - TheStreet",
          "source" : {
             "name" : "TheStreet",
             "id" : null
          },
-         "description" : "Jim Cramer says it seems we're in disarray, and we are. But investors need to keep a sharp eye out for a rebound on the horizon.",
-         "content" : "If you have cash on the sidelines, now's the time to do some buying, Jim Cramer told his Mad Money viewers Monday. That's because the selloff didn't begin today, Cramer said. It's been happening for … [+6773 chars]",
+         "title" : "Cue the Buying: Cramer's 'Mad Money' Recap (Monday 9/21/20) - TheStreet",
          "publishedAt" : "2020-09-22T03:10:00Z",
          "url" : "https://www.thestreet.com/jim-cramer/cue-the-buying-cramers-mad-money-recap-sept-21",
-         "urlToImage" : "https://www.thestreet.com/.image/t_share/MTY4NjUxNTA1MTYyMTM1NDQ3/bring-on-the-rate-hike-cramers-mad-money-recap-friday-31017.jpg"
+         "author" : "Scott Rutt",
+         "urlToImage" : "https://www.thestreet.com/.image/t_share/MTY4NjUxNTA1MTYyMTM1NDQ3/bring-on-the-rate-hike-cramers-mad-money-recap-friday-31017.jpg",
+         "description" : "Jim Cramer says it seems we're in disarray, and we are. But investors need to keep a sharp eye out for a rebound on the horizon.",
+         "content" : "If you have cash on the sidelines, now's the time to do some buying, Jim Cramer told his Mad Money viewers Monday. That's because the selloff didn't begin today, Cramer said. It's been happening for … [+6773 chars]"
       }
    ],
    "totalResults" : 70
