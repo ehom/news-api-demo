@@ -2,30 +2,173 @@
    "status" : "ok",
    "articles" : [
       {
+         "title" : "5 things to know before the stock market opens Tuesday - CNBC",
+         "author" : "Matthew J. Belvedere",
+         "url" : "https://www.cnbc.com/2020/09/22/5-things-to-know-before-the-stock-market-opens-september-22-2020.html",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106668476-15977683532020-08-18t094644z_966918122_rc29gi95b8sg_rtrmadp_0_usa-spac-wallstreet.jpeg?v=1597768393",
+         "publishedAt" : "2020-09-22T12:10:00Z",
+         "description" : "U.S. stock futures pointed to a mixed open Tuesday, one day after a late-session turnaround cut the Dow's nearly 1,000 point decline almost in half.",
+         "content" : "1. Wall Street set for mixed open after strong late-day bounce\r\nA man walks a dog in the shade away from the midday sun past the New York Stock Exchange (NYSE) building in Manhattan, during hot weath… [+4625 chars]",
          "source" : {
-            "id" : "fox-news",
-            "name" : "Fox News"
-         },
-         "content" : "A New Hampshire mom said was forced off an American Airlines flight last week because her 2-year-old son would not wear a face mask amid the coronavirus pandemic, according to a report on Monday.\r\nRa… [+2623 chars]",
-         "author" : "David Aaro",
-         "urlToImage" : "https://static.foxnews.com/foxnews.com/content/uploads/2020/06/American-Airlines-flight.jpg",
-         "publishedAt" : "2020-09-22T08:38:53Z",
-         "url" : "https://www.foxnews.com/travel/nh-mother-kicked-off-flight-toddler-2-wear-mask",
-         "title" : "New Hampshire mom says she was kicked off flight after her 2-year-old refused mask: report - Fox News",
-         "description" : "A New Hampshire woman says she said was forced off an American Airlines flight last week because her 2-year-old son would not wear a face mask amid the coronavirus pandemic, according to a report on Monday."
+            "name" : "CNBC",
+            "id" : null
+         }
       },
       {
-         "url" : "https://www.thestreet.com/mishtalk/economics/wow-trump-didnt-know-that-the-dollar-floats",
-         "publishedAt" : "2020-09-22T08:03:42Z",
+         "author" : "Gary Gastelu",
+         "title" : "Ford responds to Bronco fans, will offer 'Sasquatch' extreme off-road option with a stick shift - Fox News",
+         "source" : {
+            "name" : "Fox News",
+            "id" : "fox-news"
+         },
+         "description" : "Ford Bronco fans complained that the SUV couldn't be configured with a manual transmission and otpional Sasquatch off-road package, so Ford updated its availability.",
+         "content" : "Sometimes whining pays off.\r\nWhen Ford unveiled the all-new Bronco in July there was a lot to like for 4x4 enthusiasts, but some of them found something to complain about anyway.\r\nThe SUV offers a Sa… [+1631 chars]",
+         "publishedAt" : "2020-09-22T11:57:01Z",
+         "urlToImage" : "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/first.jpg",
+         "url" : "https://www.foxnews.com/auto/ford-bronco-sasquatch-stick-shift"
+      },
+      {
+         "publishedAt" : "2020-09-22T11:27:00Z",
+         "url" : "https://www.cnn.com/2020/09/22/investing/sizzler-restaurant-bankruptcy/index.html",
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200922064045-restricted-file-sizzler-restaurant-utah-2019-super-tease.jpg",
+         "description" : "Sizzler USA, one of the country's first casual restaurant chains, has filed for bankruptcy.",
+         "content" : null,
+         "source" : {
+            "id" : "cnn",
+            "name" : "CNN"
+         },
+         "title" : "Sizzler, one of America's first steakhouse chains, files for bankruptcy - CNN",
+         "author" : "Jordan Valinsky, CNN Business"
+      },
+      {
+         "author" : "James Vincent",
+         "title" : "Former YouTube content moderator sues the company after developing symptoms of PTSD - The Verge",
+         "source" : {
+            "name" : "The Verge",
+            "id" : "the-verge"
+         },
+         "publishedAt" : "2020-09-22T10:49:26Z",
+         "url" : "https://www.theverge.com/2020/9/22/21450477/youtube-content-moderator-sues-lawsuit-ptsd-graphic-content-exposure",
+         "urlToImage" : "https://cdn.vox-cdn.com/thumbor/qw47OCwvutnJHEax95pjNrG-Pgk=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/19624051/acastro_200123_3880_Youtube_NDA_0001.0.jpg",
+         "content" : "The unnamed moderator says YouTube failed in its duty of care\r\nIllustration by Alex Castro / The Verge\r\nA former YouTube content moderator is suing the Google-owned company for failing to properly pr… [+4416 chars]",
+         "description" : "A former content moderator is suing YouTube for failing to protect her and her coworkers from the effects of viewing hours of graphic videos every day. The unnamed plaintiff says YouTube consistently failed to meet its own safety guidelines, leaving her with …"
+      },
+      {
+         "title" : "3 Stocks to Buy Ahead of the Next Market Crash - Motley Fool",
+         "author" : "Matthew Frankel, CFP",
+         "publishedAt" : "2020-09-22T10:47:00Z",
+         "urlToImage" : "https://g.foolcdn.com/editorial/images/592362/recession.jpg",
+         "url" : "https://www.fool.com/investing/2020/09/22/3-stocks-to-buy-ahead-of-the-next-market-crash/",
+         "description" : "If the market keeps dropping, here are three stocks you'll want to own.",
+         "content" : "The stock market is sharply higher than its March lows, but has started to pull back again recently. Since peaking in early September, the S&amp;P 500 has lost nearly 5% of its value. The Dow Jones I… [+4663 chars]",
+         "source" : {
+            "name" : "Motley Fool",
+            "id" : null
+         }
+      },
+      {
+         "title" : "An entire village lost its broadband at the same time every day for 18 months. Now we know why - CNN",
+         "author" : "Jack Guy, CNN",
+         "content" : null,
+         "description" : "For 18 months, residents of a village in Wales have been mystified as to why their broadband internet crashed every morning.",
+         "url" : "https://www.cnn.com/2020/09/22/uk/old-tv-breaks-broadband-village-scli-intl-gbr/index.html",
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200922102941-aberhosan-wales-file-restricted-super-tease.jpg",
+         "publishedAt" : "2020-09-22T10:33:00Z",
+         "source" : {
+            "id" : "cnn",
+            "name" : "CNN"
+         }
+      },
+      {
+         "description" : "Collectively, these companies are generating more than $2.7 billion a year in dividend income for Berkshire Hathaway.",
+         "content" : "For more than 50 years, Berkshire Hathaway(NYSE:BRK.A)(NYSE:BRK.B) CEO Warren Buffett has been running circles around the broader market. According to the company's 2019 shareholder letter, Berkshire… [+6732 chars]",
+         "publishedAt" : "2020-09-22T10:06:00Z",
+         "urlToImage" : "https://g.foolcdn.com/editorial/images/592284/stack-of-one-hundred-dollar-bills-cash-money-stimulus-invest-retire-getty.jpg",
+         "url" : "https://www.fool.com/investing/2020/09/22/warren-buffetts-top-4-dividend-stocks/",
+         "source" : {
+            "name" : "Motley Fool",
+            "id" : null
+         },
+         "title" : "Warren Buffett's Top 4 Dividend Stocks - Motley Fool",
+         "author" : "Sean Williams"
+      },
+      {
+         "content" : "Two cloud-computing giants made land grabs Tuesday in the fight for market turf. Microsoft Corp. \r\n MSFT, \r\n +1.07%\r\n beefed up its Azure platform to bring those services to any infrastructure, moder… [+2986 chars]",
+         "description" : "",
+         "url" : "https://www.marketwatch.com/story/microsoft-google-up-the-ante-in-escalating-cloud-competition-2020-09-22",
+         "urlToImage" : "https://s.marketwatch.com/public/resources/images/MW-IO765_Micros_ZH_20200918103156.jpg",
+         "publishedAt" : "2020-09-22T10:00:00Z",
+         "source" : {
+            "id" : null,
+            "name" : "MarketWatch"
+         },
+         "title" : "Microsoft, Google up the ante in escalating cloud competition - MarketWatch",
+         "author" : "Jon Swartz"
+      },
+      {
+         "source" : {
+            "name" : "TheStreet",
+            "id" : null
+         },
+         "content" : "Here are five things you must know for Tuesday, Sept. 22:\r\n1. -- Stock Futures Turn Higher\r\nStock futures were rising Tuesday following the S&amp;P 500's fourth consecutive losing session as investor… [+5790 chars]",
+         "description" : "Stock futures turn higher following the S&P 500's fourth straight losing session; Federal Reserve Chairman Jerome Powell says the economy needs more help from Congress to prevent long-term damage; Tesla's 'Battery Day' takes places Tuesday.",
+         "url" : "https://www.thestreet.com/markets/5-things-you-must-know-before-the-market-opens-tuesday-092220",
+         "urlToImage" : "https://www.thestreet.com/.image/t_share/MTc1NDczODE5OTI0ODMzODYw/wall-street-covid_7.jpg",
+         "publishedAt" : "2020-09-22T09:11:32Z",
+         "author" : "Joseph Woelfel",
+         "title" : "Tesla, Dow Futures, Jerome Powell, GameStop: 5 Things You Must Know Tuesday - TheStreet"
+      },
+      {
+         "source" : {
+            "name" : "Fox News",
+            "id" : "fox-news"
+         },
+         "content" : "A New Hampshire mom said was forced off an American Airlines flight last week because her 2-year-old son would not wear a face mask amid the coronavirus pandemic, according to a report on Monday.\r\nRa… [+2623 chars]",
+         "description" : "A New Hampshire woman says she said was forced off an American Airlines flight last week because her 2-year-old son would not wear a face mask amid the coronavirus pandemic, according to a report on Monday.",
+         "urlToImage" : "https://static.foxnews.com/foxnews.com/content/uploads/2020/06/American-Airlines-flight.jpg",
+         "url" : "https://www.foxnews.com/travel/nh-mother-kicked-off-flight-toddler-2-wear-mask",
+         "publishedAt" : "2020-09-22T08:38:53Z",
+         "author" : "David Aaro",
+         "title" : "New Hampshire mom says she was kicked off flight after her 2-year-old refused mask: report - Fox News"
+      },
+      {
+         "title" : "Charting the pandemic over the next 12 months — and beyond - STAT - STAT",
          "author" : null,
-         "urlToImage" : "https://imageproxy.themaven.net/https%3A%2F%2Fimages.saymedia-content.com%2F.image%2FMTc1NTcxMDMxOTQ2MTc1NjA3%2Ftrump-asked-to-weaken-the-dollar.png?w=1024&q=40&h=752&auto=format&fit=max",
-         "content" : "When you are so stupid to actually think you are the smartest guy in the room, you end up saying and doing a lot of very stupid things.\r\nSome Trump classics I recall:\r\nNobody knew health care would b… [+1226 chars]",
+         "description" : "These 30 moments in 2020 and 2021 are possible turning points for the pandemic or barometers for how the virus is reshaping our lives.",
+         "content" : "Think back through the pandemic. Think about the moments that stand out as beacons in the haze signposts of how it would change all of our lives.\r\nNot all of these moments were clear at the time. Chi… [+62682 chars]",
+         "publishedAt" : "2020-09-22T08:36:08Z",
+         "urlToImage" : "https://www.statnews.com/wp-content/uploads/2020/09/TopImage-1024x576.jpeg",
+         "url" : "https://www.statnews.com/feature/coronavirus/the-road-ahead-the-next-12-months-and-beyond/",
+         "source" : {
+            "id" : null,
+            "name" : "STAT"
+         }
+      },
+      {
+         "author" : null,
+         "title" : "Wow, Trump Didn't Know That the Dollar Floats - TheStreet",
          "source" : {
             "id" : null,
             "name" : "TheStreet"
          },
+         "content" : "When you are so stupid to actually think you are the smartest guy in the room, you end up saying and doing a lot of very stupid things.\r\nSome Trump classics I recall:\r\nNobody knew health care would b… [+1226 chars]",
          "description" : "A clueless Trump asked his aides to weaken the dollar.",
-         "title" : "Wow, Trump Didn't Know That the Dollar Floats - TheStreet"
+         "url" : "https://www.thestreet.com/mishtalk/economics/wow-trump-didnt-know-that-the-dollar-floats",
+         "urlToImage" : "https://imageproxy.themaven.net/https%3A%2F%2Fimages.saymedia-content.com%2F.image%2FMTc1NTcxMDMxOTQ2MTc1NjA3%2Ftrump-asked-to-weaken-the-dollar.png?w=1024&q=40&h=752&auto=format&fit=max",
+         "publishedAt" : "2020-09-22T08:03:42Z"
+      },
+      {
+         "title" : "Stakeholder Capitalism Gets a Report Card. It’s Not Good. - The New York Times",
+         "author" : "Peter S. Goodman",
+         "description" : "The pandemic and the movement for racial justice have tested corporate pledges to elevate social concerns alongside shareholder interests. A new study finds companies are failing to follow through.",
+         "content" : "The Business Roundtable presents its mission statement as a reflection of the belief that C.E.O.s face extraordinary pressures to protect workers, the environment and community interests or suffer pu… [+2047 chars]",
+         "urlToImage" : "https://static01.nyt.com/images/2020/09/22/business/22STAKEHOLDER-print/21STAKEHOLDER-facebookJumbo.jpg",
+         "url" : "https://www.nytimes.com/2020/09/22/business/business-roudtable-stakeholder-capitalism.html",
+         "publishedAt" : "2020-09-22T07:56:00Z",
+         "source" : {
+            "id" : null,
+            "name" : "New York Times"
+         }
       },
       {
          "source" : {
@@ -33,233 +176,90 @@
             "name" : "MarketWatch"
          },
          "content" : "European stocks edged higher on Tuesday after their worst one-day performance in more than three months, as the Continent faces tighter economic restrictions due to rising cases of coronavirus.The U.… [+2757 chars]",
-         "author" : "Steve Goldstein",
-         "urlToImage" : "https://images.mktw.net/im-234860/social",
+         "description" : "U.K. set to announce new restrictions on pubs",
          "publishedAt" : "2020-09-22T07:37:00Z",
+         "urlToImage" : "https://images.mktw.net/im-234860/social",
          "url" : "https://www.marketwatch.com/story/european-stocks-nudge-higher-after-worst-drubbing-in-three-months-amid-second-wave-concerns-11600760250",
-         "title" : "European stocks nudge higher after worst drubbing in three months amid second wave concerns - MarketWatch",
-         "description" : "U.K. set to announce new restrictions on pubs"
+         "author" : "Steve Goldstein",
+         "title" : "European stocks nudge higher after worst drubbing in three months amid second wave concerns - MarketWatch"
       },
       {
-         "description" : "In just a few hours — on Tuesday, September 22, at 1:30pm Pacific Time — Tesla will kick off Battery Day. I've seen a ton of articles making predictions about what Tesla will unveil on Battery Day, but I haven't seen many about what to watch for, both at the …",
-         "title" : "What To Watch For On Tesla [TSLA] Battery Day - CleanTechnica",
+         "author" : "Scott Murdoch and Sumeet Chatterjee",
+         "title" : "Global Markets: Asia shares weaker on lockdown worries, banking sell-off - Reuters.com",
+         "source" : {
+            "id" : "reuters",
+            "name" : "Reuters"
+         },
+         "description" : "* Asian shares weaker for second consecutive day* Futures trading point to flat US opening* Fresh lockdown worries, stimulus delay spook inve",
+         "content" : "* Asian shares weaker for second consecutive day\r\n* Futures trading point to flat US opening\r\n* Fresh lockdown worries, stimulus delay spook investors\r\nBy Scott Murdoch and Sumeet Chatterjee\r\nHONG KO… [+4202 chars]",
+         "urlToImage" : "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png",
+         "url" : "https://www.reuters.com/article/global-markets-idUSL3N2GJ0WF",
+         "publishedAt" : "2020-09-22T05:28:00Z"
+      },
+      {
          "source" : {
             "id" : null,
-            "name" : "CleanTechnica"
+            "name" : "NDTV News"
          },
-         "urlToImage" : "https://cleantechnica.com/files/2020/09/frugal-battery-scaled.jpg",
-         "author" : "Frugal Moogal",
-         "content" : "BatteriesPublished on September 22nd, 2020 |\r\n by Frugal Moogal\r\n0\r\nSeptember 22nd, 2020 by Frugal Moogal \r\nNote: Nothing below is investment advice.\r\nIn just a few hours on Tuesday, September 22, at… [+7019 chars]",
-         "url" : "https://cleantechnica.com/2020/09/22/what-to-watch-for-on-tesla-tsla-battery-day/",
-         "publishedAt" : "2020-09-22T05:34:12Z"
+         "url" : "https://www.ndtv.com/world-news/apple-ceo-tim-cook-impressed-by-remote-work-predicts-permanent-changes-2299142",
+         "urlToImage" : "https://c.ndtvimg.com/2020-09/8o20257_apple-ceo-tim-cook-650_625x300_22_September_20.jpg",
+         "publishedAt" : "2020-09-22T05:26:25Z",
+         "description" : "Apple Inc. Chief Executive Officer Tim Cook said he's been impressed by employees' ability to operate remotely and predicted that some new work habits will remain after the pandemic.",
+         "content" : "Tim Cook was also asked how long he foresees running the Cupertino, California-technology giant.\r\nApple Inc. Chief Executive Officer Tim Cook said he's been impressed by employees' ability to operate… [+1600 chars]",
+         "author" : null,
+         "title" : "Apple CEO Tim Cook \"Impressed\" By Remote Work, Predicts Permanent Changes - NDTV"
       },
       {
-         "title" : "COVID-19 vaccine verdicts loom as next big market risk - Reuters",
-         "description" : "Optimism that vaccines are on the way to end the coronavirus pandemic has been a major factor in this year’s U.S. stock resurgence. That will face a critical test in coming weeks, as investors await clinical data on whether they actually work.",
-         "publishedAt" : "2020-09-22T05:07:00Z",
-         "url" : "https://www.reuters.com/article/us-usa-stocks-vaccine-analysis-idUSKCN26D0FW",
-         "content" : "NEW YORK (Reuters) - Optimism that vaccines are on the way to end the coronavirus pandemic has been a major factor in this years U.S. stock resurgence. That will face a critical test in coming weeks,… [+3915 chars]",
          "author" : "Lewis Krauskopf",
-         "urlToImage" : "https://static.reuters.com/resources/r/?m=02&d=20200922&t=2&i=1534411298&r=LYNXNPEG8L097&w=800",
+         "title" : "COVID-19 vaccine verdicts loom as next big market risk - Reuters",
          "source" : {
             "name" : "Reuters",
             "id" : "reuters"
-         }
-      },
-      {
-         "source" : {
-            "name" : "Bankrate.com",
-            "id" : null
          },
-         "publishedAt" : "2020-09-22T04:10:00Z",
-         "url" : "https://www.bankrate.com/mortgages/non-qm-mortgages-bounce-back/",
-         "content" : "At Bankrate we strive to help you make smarter financial decisions.\r\n While we adhere to strict \r\n editorial integrity, \r\n this post may contain references to products from our partners. \r\n Heres an … [+3840 chars]",
-         "urlToImage" : "https://media.brstatic.com/2020/09/21123804/ArtWager.jpg",
-         "author" : "Jeff Ostrowski",
-         "title" : "As housing rebounds, non-QM mortgages for business owners make a comeback - MSN Money",
-         "description" : "These loans disappeared early in the recession. Now they’re back."
+         "description" : "Optimism that vaccines are on the way to end the coronavirus pandemic has been a major factor in this year’s U.S. stock resurgence. That will face a critical test in coming weeks, as investors await clinical data on whether they actually work.",
+         "content" : "NEW YORK (Reuters) - Optimism that vaccines are on the way to end the coronavirus pandemic has been a major factor in this years U.S. stock resurgence. That will face a critical test in coming weeks,… [+3915 chars]",
+         "publishedAt" : "2020-09-22T05:07:00Z",
+         "url" : "https://www.reuters.com/article/us-usa-stocks-vaccine-analysis-idUKKCN26D0FW",
+         "urlToImage" : "https://static.reuters.com/resources/r/?m=02&d=20200922&t=2&i=1534411298&r=LYNXNPEG8L097&w=800"
       },
       {
-         "title" : "AstraZeneca-Oxford vaccine reports 2nd serious adverse event, now what? - ThePrint",
-         "description" : null,
-         "publishedAt" : "2020-09-22T04:05:53Z",
-         "url" : "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9TEdGYnZJUW1rblXSAQA?oc=5",
-         "content" : null,
-         "author" : null,
-         "urlToImage" : null,
          "source" : {
-            "id" : "google-news",
-            "name" : "Google News"
-         }
+            "id" : null,
+            "name" : "Cointelegraph"
+         },
+         "description" : "A CoinGecko survey has found that the majority of yield farmers do not understand the smart contracts underpinning the DeFi protocols they use.",
+         "content" : "The majority of yield farmers do not understand how to read the potentially risky smart contracts that underpin the decentralized finance (DeFi) ecosystem but that hasnt stopped them making huge prof… [+1852 chars]",
+         "publishedAt" : "2020-09-22T04:29:40Z",
+         "url" : "https://cointelegraph.com/news/yield-farmers-make-500-returns-but-most-can-t-read-smart-contracts",
+         "urlToImage" : "https://s3.eu-central-1.amazonaws.com/s3.cointelegraph.com/uploads/2020-09/2a8e5745-ad29-4d55-8496-2b2c0b75b7cc.jpg",
+         "author" : "Samuel Haig",
+         "title" : "Yield farmers make 500% returns but most can't read smart contracts - Cointelegraph"
       },
       {
+         "author" : "By Kristen Rogers, CNN",
+         "title" : "This is the healthiest community in the US. Here's why - CNN",
+         "source" : {
+            "id" : "cnn",
+            "name" : "CNN"
+         },
+         "description" : "Los Alamos County, New Mexico, is the healthiest community of 2020, the U.S. News Healthiest Communities rankings report has decided. Here's why.",
+         "content" : "(CNN) With its vast mountain ranges, diverse wildlife and clean air, Los Alamos County, New Mexico, has been ranked the healthiest community of 2020. \r\nLocated about 40 miles from Santa Fe, the count… [+7317 chars]",
+         "url" : "https://www.cnn.com/travel/article/2020-healthiest-community-in-america-wellness/index.html",
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200921131820-02-los-alamos-county-wellness-super-tease.jpg",
+         "publishedAt" : "2020-09-22T04:11:21Z"
+      },
+      {
+         "author" : "Scott Rutt",
+         "title" : "Cue the Buying: Cramer's 'Mad Money' Recap (Monday 9/21/20) - TheStreet",
          "source" : {
             "name" : "TheStreet",
             "id" : null
          },
+         "description" : "Jim Cramer says it seems we're in disarray, and we are. But investors need to keep a sharp eye out for a rebound on the horizon.",
+         "content" : "If you have cash on the sidelines, now's the time to do some buying, Jim Cramer told his Mad Money viewers Monday. That's because the selloff didn't begin today, Cramer said. It's been happening for … [+6773 chars]",
          "publishedAt" : "2020-09-22T03:10:00Z",
          "url" : "https://www.thestreet.com/jim-cramer/cue-the-buying-cramers-mad-money-recap-sept-21",
-         "content" : "If you have cash on the sidelines, now's the time to do some buying, Jim Cramer told his Mad Money viewers Monday. That's because the selloff didn't begin today, Cramer said. It's been happening for … [+6773 chars]",
-         "author" : "Scott Rutt",
-         "urlToImage" : "https://www.thestreet.com/.image/t_share/MTY4NjUxNTA1MTYyMTM1NDQ3/bring-on-the-rate-hike-cramers-mad-money-recap-friday-31017.jpg",
-         "title" : "Cue the Buying: Cramer's 'Mad Money' Recap (Monday 9/21/20) - TheStreet",
-         "description" : "Jim Cramer says it seems we're in disarray, and we are. But investors need to keep a sharp eye out for a rebound on the horizon."
-      },
-      {
-         "source" : {
-            "id" : "reuters",
-            "name" : "Reuters"
-         },
-         "url" : "https://www.reuters.com/article/health-coronavirus-usa-fed-idUSKCN26D05S",
-         "publishedAt" : "2020-09-22T02:19:00Z",
-         "urlToImage" : "https://static.reuters.com/resources/r/?m=02&d=20200922&t=2&i=1534390219&r=LYNXNPEG8L026&w=800",
-         "author" : "Reuters Staff",
-         "content" : "By Reuters Staff\r\nFILE PHOTO: U.S. Federal Reserve Chairman Jerome Powell speaks to reporters after the Federal Reserve cut interest rates in an emergency move designed to shield the world's largest … [+1763 chars]",
-         "description" : "The Federal Reserve remains committed to using all the tools at its disposal to help the U.S. economy recover from the blow delivered by the coronavirus pandemic, Chair Jerome Powell said on Monday.",
-         "title" : "Fed's Powell says central bank committed to using all tools to help recovery - Reuters"
-      },
-      {
-         "title" : "The pastry chef adding to Japan's 400+ flavors of Kit Kat - CNN",
-         "description" : "Kit Kat is big in Japan. From cheesecake to wasabi to purple sweet potato, the crispy wafer bar is available in more than 400 varieties, according to Yuji Takeuchi, marketing manager for Nestlé Japan. And it's up to Yasumasa Takagi to keep the fresh flavors c…",
-         "content" : "Chat with us in Facebook Messenger. Find out what's happening in the world as it unfolds.",
-         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200921210452-gbs-kit-kat-super-tease.jpg",
-         "author" : null,
-         "publishedAt" : "2020-09-22T01:45:51Z",
-         "url" : "https://www.cnn.com/videos/world/2020/09/22/great-big-story-kit-kat-400-varieties-gbs.cnn",
-         "source" : {
-            "id" : "cnn",
-            "name" : "CNN"
-         }
-      },
-      {
-         "title" : "Nikola founder Trevor Milton keeps billions in stock after exit amid fraud allegations - Fox Business",
-         "description" : "Though no longer involved in Nikola’s leadership after the separation agreement, Milton remains the firm’s biggest individual shareholder",
-         "source" : {
-            "name" : "Fox Business",
-            "id" : null
-         },
-         "content" : "Former Nikola executive chairman Trevor Milton exited the company he founded with stock worth billions of dollars after his abrupt resignation on Monday amid allegations of fraud.\r\nUnder the terms of… [+2508 chars]",
-         "author" : "Thomas Barrabi",
-         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/09/0/0/Trevor-Milton-Nikola-reuters.jpg?ve=1&tl=1",
-         "publishedAt" : "2020-09-22T01:12:52Z",
-         "url" : "https://www.foxbusiness.com/technology/nikola-trevor-milton-stock-exit-package"
-      },
-      {
-         "url" : "https://www.macrumors.com/2020/09/21/apple-eco-tim-cook-interview-the-atlantic/",
-         "publishedAt" : "2020-09-22T00:48:00Z",
-         "urlToImage" : "https://images.macrumors.com/t/2TZZZXMBTdTJm_w5Kvsg0QFEjgc=/1600x/https://images.macrumors.com/article-new/2020/09/timcooktheatlantic.jpg",
-         "author" : "Juli Clover",
-         "content" : "Apple CEO Tim Cook this evening spoke at The Atlantic Festival where he discussed privacy, antitrust issues, remote work, and his relationship with United States President Donald Trump.\r\nCook's inter… [+4463 chars]",
-         "source" : {
-            "name" : "MacRumors",
-            "id" : null
-         },
-         "description" : "Apple CEO Tim Cook this evening spoke at The Atlantic Festival where he discussed privacy, antitrust issues, remote work, and his relationship with...",
-         "title" : "Apple CEO Tim Cook Talks Antitrust Investigation, Trump Relationship, Working From Home and More in... - MacRumors"
-      },
-      {
-         "publishedAt" : "2020-09-22T00:41:00Z",
-         "url" : "https://www.reuters.com/article/global-markets-idUKL2N2GI23G",
-         "content" : "NEW YORK, Sept 21 (Reuters) - Asian shares opened weaker on Tuesday on concerns about new pandemic lockdowns in Europe and after reports about financial institutions allegedly moving illicit funds hu… [+3064 chars]",
-         "urlToImage" : "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
-         "author" : "Suzanne Barlyn",
-         "source" : {
-            "id" : "reuters",
-            "name" : "Reuters"
-         },
-         "title" : "Asian stocks fall on concerns about fresh lockdowns, banking sector - Reuters",
-         "description" : "Asian shares opened weaker on Tuesday on concerns about new pandemic lockdowns in Europe and after reports about financial institutions allegedly moving illicit funds hurt global banking stocks."
-      },
-      {
-         "publishedAt" : "2020-09-21T23:40:00Z",
-         "url" : "https://www.washingtonpost.com/technology/2020/09/21/google-antitrust-state-ags/",
-         "content" : "The Justice Department and Google each declined to comment.\r\nThe Justice Department could file a lawsuit against Google this month, overriding skepticism from its own top lawyers\r\nThe Justice Departm… [+3055 chars]",
-         "urlToImage" : "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MZWRIIXXHII6VBPXLFARRCUYZU.jpg&w=1440",
-         "author" : "Tony Romm",
-         "source" : {
-            "id" : "the-washington-post",
-            "name" : "The Washington Post"
-         },
-         "title" : "Justice Department expected to brief state attorneys general this week on imminent Google antitrust lawsuit - The Washington Post",
-         "description" : "The Justice Department is expected to brief state attorneys general this week about its imminent plans to file an antitrust lawsuit against Google, setting in motion a landmark legal clash between the U.S. government and the search and advertising behemoth."
-      },
-      {
-         "title" : "Airbus unveils concepts for hydrogen-powered plane - Fox Business",
-         "description" : "Airbus has unveiled three visual concepts for \"zero emission\" airplanes to be powered by hydrogen.",
-         "source" : {
-            "name" : "Fox Business",
-            "id" : null
-         },
-         "publishedAt" : "2020-09-21T23:15:51Z",
-         "url" : "https://www.foxbusiness.com/industrials/airbus-unveils-concepts-for-hydrogen-powered-plane",
-         "content" : "PARIS  - Airbus has unveiled three visual concepts for \"zero-emission\" airplanes to be powered by hydrogen.\r\nIt is the planemaker's latest effort to draw public attention to its \"zero-emission\" ambit… [+2132 chars]",
-         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/09/0/0/AirbusZEROe-Blended-Wing-Body-Concept.jpg?ve=1&tl=1",
-         "author" : "Reuters"
-      },
-      {
-         "content" : "VICTORVILLE, Calif.(VVNG.com) The Bed Bad &amp; Beyond in Victorville is amongst 63 locations that will permanently close by the end of this year, according to a USA Today article. \r\nEarlier this yea… [+753 chars]",
-         "author" : "https://www.facebook.com/VictorValleyNews",
-         "urlToImage" : "https://www.vvng.com/wp-content/uploads/2020/09/bed-bath-beyond-victorville-will-close-1000x600.png",
-         "publishedAt" : "2020-09-21T23:11:43Z",
-         "url" : "https://www.vvng.com/victorville-store-on-list-of-closures-for-bed-bath-beyond/",
-         "source" : {
-            "id" : null,
-            "name" : "VVNG.com"
-         },
-         "title" : "Victorville store on list of closures for Bed Bath & Beyond - VVNG.com",
-         "description" : "VICTORVILLE, Calif.(VVNG.com) — The Bed Bad & Beyond in Victorville is amongst 63 locations that will permanently close by the end of this year, according to a USA Today article. Earlier this year in July, the company announced plans to permanently close abou…"
-      },
-      {
-         "source" : {
-            "name" : "The Wall Street Journal",
-            "id" : "the-wall-street-journal"
-         },
-         "url" : "https://www.wsj.com/articles/activist-trian-fund-management-takes-stake-in-comcast-11600717755",
-         "publishedAt" : "2020-09-21T23:02:00Z",
-         "author" : "Corrie Driebusch, Lillian Rizzo",
-         "urlToImage" : "https://images.wsj.net/im-234616/social",
-         "content" : "Trian Fund Management LP, a hedge fund known for pushing big companies to make operational and other changes, has launched an activist campaign against Comcast Corp. in a bet that the cable-TV and en… [+272 chars]",
-         "description" : "Trian, Comcast executives recently began conversations",
-         "title" : "Activist Trian Fund Management Takes Stake in Comcast - The Wall Street Journal"
-      },
-      {
-         "publishedAt" : "2020-09-21T22:28:00Z",
-         "url" : "https://www.buzzfeednews.com/article/jasonleopold/elizabeth-warren-bernie-sanders-fincen-files",
-         "content" : "Lawmakers, regulators, and activists across the globe Monday called for swift action into the findings of a new investigation from BuzzFeed News and the International Consortium of Investigative Jour… [+4992 chars]",
-         "author" : "Jason Leopold",
-         "urlToImage" : "https://img.buzzfeed.com/buzzfeed-static/static/2020-09/21/22/asset/7f93f941377c/sub-buzz-19327-1600727145-3.jpg?crop=2352:1231;69,214",
-         "source" : {
-            "id" : null,
-            "name" : "BuzzFeed News"
-         },
-         "title" : "Elizabeth Warren And Bernie Sanders Want Big Banking Reforms Following The FinCEN Files Investigations - BuzzFeed News",
-         "description" : "Warren called for the creation of a new unit in the US Treasury Department, separate from FinCEN, “to investigate these types of financial crimes.”"
-      },
-      {
-         "description" : "The standalone package would include a second draw from the Paycheck Protection Program, as well as expedited loan forgiveness and full tax deductibility for PPP recipients.",
-         "title" : "Small business leaders urge Congress to pass standalone COVID-19 relief package - Fox Business",
-         "url" : "https://www.foxbusiness.com/economy/small-business-leaders-congress-pass-covid-relief-package",
-         "publishedAt" : "2020-09-21T22:26:59Z",
-         "author" : "Lucas Manfredi",
-         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/09/0/0/AP20255783434552.jpg?ve=1&tl=1",
-         "content" : "The Small Business Roundtable has penned a letter to congressional leadership on behalf of 30 million small businesses urging the federal government to pass a standalone package for a new round of st… [+4859 chars]",
-         "source" : {
-            "id" : null,
-            "name" : "Fox Business"
-         }
-      },
-      {
-         "title" : "Tiffany lawsuit for $16B LVMH deal fast tracked for January trial - Fox Business",
-         "description" : "A Delaware Chancery Court justice on Monday agreed to fast-track Tiffany & Co's lawsuit against French luxury goods conglomerate LVMH for trying to back out of its $16 billion deal to acquire the U.S. jeweler.",
-         "publishedAt" : "2020-09-21T22:11:55Z",
-         "url" : "https://www.foxbusiness.com/retail/tiffany-lawsuit-for-16b-lvmh-deal-fast-tracked-for-january-trial",
-         "content" : "A Delaware Chancery Court justice on Monday agreed to fast-track Tiffany &amp; Co's lawsuit against French luxury goods conglomerate LVMH for trying to back out of its $16 billion deal to acquire the… [+1111 chars]",
-         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/09/0/0/Tiffany-Getty.jpg?ve=1&tl=1",
-         "author" : "Reuters",
-         "source" : {
-            "name" : "Fox Business",
-            "id" : null
-         }
+         "urlToImage" : "https://www.thestreet.com/.image/t_share/MTY4NjUxNTA1MTYyMTM1NDQ3/bring-on-the-rate-hike-cramers-mad-money-recap-friday-31017.jpg"
       }
    ],
    "totalResults" : 70
