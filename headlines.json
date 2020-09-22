@@ -1,266 +1,266 @@
 {
    "articles" : [
       {
-         "content" : "Ideas, anybody?\r\nThe Dixie Brewing Company is asking the public for help in choosing a new brand name to reflect a more inclusive and unified future.\r\nOn Monday, the New Orleans-based brewery announc… [+2254 chars]",
-         "title" : "New Orleans' Dixie Beer polls public on renaming company to be 'more inclusive' - Fox News",
-         "publishedAt" : "2020-09-22T00:27:25Z",
-         "description" : "Ideas, anybody?",
+         "description" : "A Pittsburgh man was involved in a heated exchange with a flight attendant while traveling with Spirit Airlines and it was recorded on cell phone video.",
+         "urlToImage" : "https://d1hfln2sfez66z.cloudfront.net/09-22-2020/t_d16ab30a6b094811adf117041a67ca43_name_file_960x540_1200_v3_1_.jpg",
+         "url" : "https://www.wpxi.com/news/top-stories/man-told-by-flight-attendant-his-mask-is-noncompliant-police-would-be-waiting-him/6SL74FHCEVCFNK2YQDSOF6BL5Q/",
+         "publishedAt" : "2020-09-22T03:33:45Z",
+         "content" : "PITTSBURGH — A Pittsburgh man was involved in a heated exchange with a flight attendant while traveling with Spirit Airlines, and it was recorded on a cellphone video.\r\nIt was on a flight from Myrtle… [+1566 chars]",
+         "title" : "Man told by flight attendant his mask was noncompliant, police would be waiting for him - WPXI Pittsburgh",
          "source" : {
-            "id" : "fox-news",
-            "name" : "Fox News"
+            "name" : "WPXI Pittsburgh",
+            "id" : null
          },
-         "urlToImage" : "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/GettyImages-936144124.jpg",
-         "author" : "Janine Puhak",
-         "url" : "https://www.foxnews.com/food-drink/new-orleans-dixie-beer-polls-public-renaming-company"
+         "author" : "Amy Hudak"
       },
       {
-         "url" : "https://www.engadget.com/tesla-battery-day-000103455.html",
-         "urlToImage" : "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-09%2F81725940-fc66-11ea-bcfb-82e42d9795a5&client=amp-blogside-v2&signature=f0054c24ea13b5b68f0c746328a1999dee9f4d01",
-         "author" : "",
+         "publishedAt" : "2020-09-22T03:26:26Z",
+         "title" : "Asian stock markets continue the global fallout - BBC News",
+         "content" : "Image copyrightGetty Images\r\nStock markets in Asia suffered on Tuesday from the fallout from UK and US investors worried about a rise in coronavirus cases.\r\nThe biggest falls in the region were recor… [+1665 chars]",
+         "source" : {
+            "name" : "BBC News",
+            "id" : null
+         },
+         "author" : "https://www.facebook.com/bbcnews",
+         "description" : "Australian shares were among the hardest hit in the region falling to a three-month low.",
+         "urlToImage" : "https://ichef.bbci.co.uk/news/1024/branded_news/181A/production/_114507160_asx.jpg",
+         "url" : "https://www.bbc.com/news/business-54230742"
+      },
+      {
+         "urlToImage" : "https://static.reuters.com/resources/r/?m=02&d=20200922&t=2&i=1534390219&r=LYNXNPEG8L026&w=800",
+         "url" : "https://in.reuters.com/article/health-coronavirus-usa-fed-idUSKCN26D05S",
+         "description" : "The Federal Reserve remains committed to using all the tools at its disposal to help the U.S. economy recover from the blow delivered by the coronavirus pandemic, Chair Jerome Powell said on Monday.",
+         "source" : {
+            "id" : "reuters",
+            "name" : "Reuters"
+         },
+         "author" : "Reuters Staff",
+         "publishedAt" : "2020-09-22T02:19:00Z",
+         "title" : "Fed's Powell says central bank committed to using all tools to help recovery - Reuters",
+         "content" : "By Reuters Staff\r\nFILE PHOTO: U.S. Federal Reserve Chairman Jerome Powell speaks to reporters after the Federal Reserve cut interest rates in an emergency move designed to shield the world's largest … [+1763 chars]"
+      },
+      {
+         "source" : {
+            "name" : "MacRumors",
+            "id" : null
+         },
+         "author" : "Juli Clover",
+         "publishedAt" : "2020-09-22T00:48:00Z",
+         "title" : "Apple CEO Tim Cook Talks Antitrust Investigation, Trump Relationship, Working From Home and More in... - MacRumors",
+         "content" : "Apple CEO Tim Cook this evening spoke at The Atlantic Festival where he discussed privacy, antitrust issues, remote work, and his relationship with United States President Donald Trump.\r\nCook's inter… [+4463 chars]",
+         "urlToImage" : "https://images.macrumors.com/t/2TZZZXMBTdTJm_w5Kvsg0QFEjgc=/1600x/https://images.macrumors.com/article-new/2020/09/timcooktheatlantic.jpg",
+         "url" : "https://www.macrumors.com/2020/09/21/apple-eco-tim-cook-interview-the-atlantic/",
+         "description" : "Apple CEO Tim Cook this evening spoke at The Atlantic Festival where he discussed privacy, antitrust issues, remote work, and his relationship with..."
+      },
+      {
          "source" : {
             "name" : "Engadget",
             "id" : "engadget"
          },
+         "author" : "",
          "publishedAt" : "2020-09-22T00:01:18Z",
-         "description" : "Tesla is expected to reveal some exciting news tomorrow about its car batteries, but first, CEO Elon Musk is downplaying the potential short-term impact of what it will reveal.",
+         "title" : "Elon Musk warns that Tesla's 'Battery Day' tech is two years away - Engadget",
          "content" : "The Tesla “battery day” presentation is almost here, set to take place tomorrow after being rescheduled from April due to the coronavirus pandemic. But with just hours to go until the company reveals… [+1109 chars]",
-         "title" : "Elon Musk warns that Tesla's 'Battery Day' tech is two years away - Engadget"
+         "urlToImage" : "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-09%2F81725940-fc66-11ea-bcfb-82e42d9795a5&client=amp-blogside-v2&signature=f0054c24ea13b5b68f0c746328a1999dee9f4d01",
+         "url" : "https://www.engadget.com/tesla-battery-day-000103455.html",
+         "description" : "Tesla is expected to reveal some exciting news tomorrow about its car batteries, but first, CEO Elon Musk is downplaying the potential short-term impact of what it will reveal."
       },
       {
+         "publishedAt" : "2020-09-21T23:40:00Z",
+         "content" : "The Justice Department and Google each declined to comment.\r\nThe Justice Department could file a lawsuit against Google this month, overriding skepticism from its own top lawyers\r\nThe Justice Departm… [+3055 chars]",
+         "title" : "Justice Department expected to brief state attorneys general this week on imminent Google antitrust lawsuit - The Washington Post",
+         "source" : {
+            "id" : "the-washington-post",
+            "name" : "The Washington Post"
+         },
+         "author" : "Tony Romm",
+         "description" : "The Justice Department is expected to brief state attorneys general this week about its imminent plans to file an antitrust lawsuit against Google, setting in motion a landmark legal clash between the U.S. government and the search and advertising behemoth.",
+         "urlToImage" : "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MZWRIIXXHII6VBPXLFARRCUYZU.jpg&w=1440",
+         "url" : "https://www.washingtonpost.com/technology/2020/09/21/google-antitrust-state-ags/"
+      },
+      {
+         "urlToImage" : "https://media.npr.org/assets/img/2020/09/21/screen-shot-2020-09-21-at-7.14.28-pm_wide-01af6a105d8167c67e5b7472e6e7f17036aadd32.jpg?s=1400",
+         "url" : "https://www.npr.org/2020/09/21/915411409/jamaican-monetary-policy-behind-the-music",
+         "description" : "Jamaica's Central Bank has a unique way of explaining its policies: Reggae music videos. The Indicator talks with the Central Bank about why they've taken this unique approach.",
+         "source" : {
+            "name" : "NPR",
+            "id" : null
+         },
+         "author" : "",
+         "publishedAt" : "2020-09-21T23:28:10Z",
+         "title" : "The Bank of Jamaica uses reggae to explain monetary policy : The Indicator from Planet Money - NPR",
+         "content" : "In 1992, Jamaica's inflation rate peaked at over 70%. \r\nSince then, the country has managed to gain better control of inflation and, in 2017, the Bank of Jamaica set an annual inflation target of bet… [+483 chars]"
+      },
+      {
+         "url" : "https://www.foxbusiness.com/industrials/airbus-unveils-concepts-for-hydrogen-powered-plane",
+         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/09/0/0/AirbusZEROe-Blended-Wing-Body-Concept.jpg?ve=1&tl=1",
+         "description" : "Airbus has unveiled three visual concepts for \"zero emission\" airplanes to be powered by hydrogen.",
+         "author" : "Reuters",
+         "source" : {
+            "name" : "Fox Business",
+            "id" : null
+         },
          "title" : "Airbus unveils concepts for hydrogen-powered plane - Fox Business",
          "content" : "PARIS  - Airbus has unveiled three visual concepts for \"zero-emission\" airplanes to be powered by hydrogen.\r\nIt is the planemaker's latest effort to draw public attention to its \"zero-emission\" ambit… [+2132 chars]",
-         "publishedAt" : "2020-09-21T23:15:51Z",
-         "description" : "Airbus has unveiled three visual concepts for \"zero emission\" airplanes to be powered by hydrogen.",
-         "source" : {
-            "id" : null,
-            "name" : "Fox Business"
-         },
-         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/09/0/0/AirbusZEROe-Blended-Wing-Body-Concept.jpg?ve=1&tl=1",
-         "author" : "Reuters",
-         "url" : "https://www.foxbusiness.com/industrials/airbus-unveils-concepts-for-hydrogen-powered-plane"
+         "publishedAt" : "2020-09-21T23:15:51Z"
       },
       {
+         "description" : "VICTORVILLE, Calif.(VVNG.com) — The Bed Bad & Beyond in Victorville is amongst 63 locations that will permanently close by the end of this year, according to a USA Today article. Earlier this year in July, the company announced plans to permanently close abou…",
+         "urlToImage" : "https://www.vvng.com/wp-content/uploads/2020/09/bed-bath-beyond-victorville-will-close-1000x600.png",
+         "url" : "https://www.vvng.com/victorville-store-on-list-of-closures-for-bed-bath-beyond/",
+         "publishedAt" : "2020-09-21T23:11:43Z",
+         "title" : "Victorville store on list of closures for Bed Bath & Beyond - VVNG.com",
+         "content" : "VICTORVILLE, Calif.(VVNG.com) The Bed Bad &amp; Beyond in Victorville is amongst 63 locations that will permanently close by the end of this year, according to a USA Today article. \r\nEarlier this yea… [+753 chars]",
+         "source" : {
+            "name" : "VVNG.com",
+            "id" : null
+         },
+         "author" : "https://www.facebook.com/VictorValleyNews"
+      },
+      {
+         "description" : "Trian, Comcast executives recently began conversations",
          "urlToImage" : "https://images.wsj.net/im-234616/social",
          "url" : "https://www.wsj.com/articles/activist-trian-fund-management-takes-stake-in-comcast-11600717755",
-         "author" : "Corrie Driebusch, Lillian Rizzo",
-         "source" : {
-            "name" : "The Wall Street Journal",
-            "id" : "the-wall-street-journal"
-         },
          "publishedAt" : "2020-09-21T23:02:00Z",
-         "description" : "Trian, Comcast executives recently began conversations",
+         "title" : "Activist Trian Fund Management Takes Stake in Comcast - The Wall Street Journal",
          "content" : "Trian Fund Management LP, a hedge fund known for pushing big companies to make operational and other changes, has launched an activist campaign against Comcast Corp. in a bet that the cable-TV and en… [+272 chars]",
-         "title" : "Activist Trian Fund Management Takes Stake in Comcast - The Wall Street Journal"
+         "source" : {
+            "id" : "the-wall-street-journal",
+            "name" : "The Wall Street Journal"
+         },
+         "author" : "Corrie Driebusch, Lillian Rizzo"
       },
       {
-         "content" : "Sizzler is the latest restaurant chain to file for bankruptcy amid the coronavirus pandemic — filing for Chapter 11 in the U.S. Bankruptcy Court for the Northern District of California on Monday.\r\nTh… [+1868 chars]",
-         "title" : "Sizzler files for bankruptcy as the pandemic demolishes sales at casual-dining restaurants - Business Insider - Business Insider",
-         "publishedAt" : "2020-09-21T22:33:54Z",
+         "source" : {
+            "id" : "google-news",
+            "name" : "Google News"
+         },
+         "author" : null,
+         "publishedAt" : "2020-09-21T23:01:31Z",
+         "title" : "Jim Cramer says Apple, Microsoft, Amazon and Alphabet have fallen to attractive valuations - CNBC Television",
+         "content" : null,
+         "urlToImage" : null,
+         "url" : "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9OXJoejJ2UHdyVFnSAQA?oc=5",
+         "description" : null
+      },
+      {
          "description" : "Sizzler plans to keep restaurants open throughout the process, which will involve the renegotiating of leases for 14 company-owned locations.",
          "url" : "https://www.businessinsider.com/sizzler-files-for-bankruptcy-due-to-the-pandemic-2020-9",
-         "author" : "Kate Taylor",
          "urlToImage" : "https://i.insider.com/5f69158657b7da001ee12f3c?width=1200&format=jpeg",
+         "title" : "Sizzler files for bankruptcy as the pandemic demolishes sales at casual-dining restaurants - Business Insider - Business Insider",
+         "content" : "Sizzler is the latest restaurant chain to file for bankruptcy amid the coronavirus pandemic — filing for Chapter 11 in the U.S. Bankruptcy Court for the Northern District of California on Monday.\r\nTh… [+1868 chars]",
+         "publishedAt" : "2020-09-21T22:33:54Z",
+         "author" : "Kate Taylor",
          "source" : {
             "name" : "Business Insider",
             "id" : "business-insider"
          }
       },
       {
-         "title" : "Elizabeth Warren And Bernie Sanders Want Big Banking Reforms Following The FinCEN Files Investigations - BuzzFeed News",
-         "content" : "Lawmakers, regulators, and activists across the globe Monday called for swift action into the findings of a new investigation from BuzzFeed News and the International Consortium of Investigative Jour… [+4992 chars]",
-         "publishedAt" : "2020-09-21T22:28:00Z",
-         "description" : "Warren called for the creation of a new unit in the US Treasury Department, separate from FinCEN, “to investigate these types of financial crimes.”",
          "source" : {
             "name" : "BuzzFeed News",
             "id" : null
          },
-         "url" : "https://www.buzzfeednews.com/article/jasonleopold/elizabeth-warren-bernie-sanders-fincen-files",
          "author" : "Jason Leopold",
-         "urlToImage" : "https://img.buzzfeed.com/buzzfeed-static/static/2020-09/21/22/asset/7f93f941377c/sub-buzz-19327-1600727145-3.jpg?crop=2352:1231;69,214"
+         "publishedAt" : "2020-09-21T22:28:00Z",
+         "title" : "Elizabeth Warren And Bernie Sanders Want Big Banking Reforms Following The FinCEN Files Investigations - BuzzFeed News",
+         "content" : "Lawmakers, regulators, and activists across the globe Monday called for swift action into the findings of a new investigation from BuzzFeed News and the International Consortium of Investigative Jour… [+4992 chars]",
+         "urlToImage" : "https://img.buzzfeed.com/buzzfeed-static/static/2020-09/21/22/asset/7f93f941377c/sub-buzz-19327-1600727145-3.jpg?crop=2352:1231;69,214",
+         "url" : "https://www.buzzfeednews.com/article/jasonleopold/elizabeth-warren-bernie-sanders-fincen-files",
+         "description" : "Warren called for the creation of a new unit in the US Treasury Department, separate from FinCEN, “to investigate these types of financial crimes.”"
       },
       {
+         "author" : "Lucas Manfredi",
+         "source" : {
+            "id" : null,
+            "name" : "Fox Business"
+         },
+         "content" : "The Small Business Roundtable has penned a letter to congressional leadership on behalf of 30 million small businesses urging the federal government to pass a standalone package for a new round of st… [+4859 chars]",
+         "title" : "Small business leaders urge Congress to pass standalone COVID-19 relief package - Fox Business",
+         "publishedAt" : "2020-09-21T22:26:59Z",
+         "url" : "https://www.foxbusiness.com/economy/small-business-leaders-congress-pass-covid-relief-package",
+         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/09/0/0/AP20255783434552.jpg?ve=1&tl=1",
+         "description" : "The standalone package would include a second draw from the Paycheck Protection Program, as well as expedited loan forgiveness and full tax deductibility for PPP recipients."
+      },
+      {
+         "description" : "Agencies that don't update must disconnect all domain controllers from networks.",
+         "urlToImage" : "https://cdn.arstechnica.net/wp-content/uploads/2020/09/server-network-760x380.jpg",
+         "url" : "https://arstechnica.com/information-technology/2020/09/feds-issue-emergency-order-for-agencies-to-patch-critical-windows-flaw/",
+         "publishedAt" : "2020-09-21T22:13:00Z",
          "content" : "31 with 24 posters participating, including story author\r\nThe US Department of Homeland Security is giving federal agencies until midnight on Tuesday to patch a critical Windows vulnerability that ca… [+4931 chars]",
          "title" : "Feds issue emergency order for agencies to patch critical Windows flaw - Ars Technica",
-         "publishedAt" : "2020-09-21T22:13:00Z",
-         "description" : "Agencies that don't update must disconnect all domain controllers from networks.",
          "source" : {
-            "name" : "Ars Technica",
-            "id" : "ars-technica"
+            "id" : "ars-technica",
+            "name" : "Ars Technica"
          },
-         "urlToImage" : "https://cdn.arstechnica.net/wp-content/uploads/2020/09/server-network-760x380.jpg",
-         "author" : "Dan Goodin",
-         "url" : "https://arstechnica.com/information-technology/2020/09/feds-issue-emergency-order-for-agencies-to-patch-critical-windows-flaw/"
+         "author" : "Dan Goodin"
       },
       {
-         "content" : "A Delaware Chancery Court justice on Monday agreed to fast-track Tiffany &amp; Co's lawsuit against French luxury goods conglomerate LVMH for trying to back out of its $16 billion deal to acquire the… [+1111 chars]",
-         "title" : "Tiffany lawsuit for $16B LVMH deal fast tracked for January trial - Fox Business",
-         "publishedAt" : "2020-09-21T22:11:55Z",
+         "url" : "https://www.foxbusiness.com/retail/tiffany-lawsuit-for-16b-lvmh-deal-fast-tracked-for-january-trial",
+         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/09/0/0/Tiffany-Getty.jpg?ve=1&tl=1",
          "description" : "A Delaware Chancery Court justice on Monday agreed to fast-track Tiffany & Co's lawsuit against French luxury goods conglomerate LVMH for trying to back out of its $16 billion deal to acquire the U.S. jeweler.",
+         "author" : "Reuters",
          "source" : {
             "name" : "Fox Business",
             "id" : null
          },
-         "url" : "https://www.foxbusiness.com/retail/tiffany-lawsuit-for-16b-lvmh-deal-fast-tracked-for-january-trial",
-         "author" : "Reuters",
-         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/09/0/0/Tiffany-Getty.jpg?ve=1&tl=1"
+         "title" : "Tiffany lawsuit for $16B LVMH deal fast tracked for January trial - Fox Business",
+         "content" : "A Delaware Chancery Court justice on Monday agreed to fast-track Tiffany &amp; Co's lawsuit against French luxury goods conglomerate LVMH for trying to back out of its $16 billion deal to acquire the… [+1111 chars]",
+         "publishedAt" : "2020-09-21T22:11:55Z"
       },
       {
-         "content" : "Quibi was supposed to be revolutionary: A video service that was supposed to fill the gap between YouTube and HBO by bringing short, premium clips starring celebrities like Liam Hemsworth and Chrissy… [+4351 chars]",
-         "title" : "Quibi video service has begun looking for buyer - Vox.com",
-         "publishedAt" : "2020-09-21T22:10:09Z",
-         "description" : "The service has raised more than $1.8 billion, but it doesn’t own its own shows.",
          "source" : {
-            "id" : null,
-            "name" : "Vox"
-         },
-         "author" : "Peter Kafka",
-         "url" : "https://www.vox.com/recode/2020/9/21/21449795/quibi-sale-video-buyers",
-         "urlToImage" : "https://cdn.vox-cdn.com/thumbor/8bAgLO5kO17mPdzOJnOUKnj6o4I=/0x109:5000x2727/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/21900083/1192559664.jpg.jpg"
-      },
-      {
-         "content" : "Stock futures held steady in overnight trading on Monday following a steep sell-off on Wall Street.\r\nFutures on the Dow Jones Industrial Average fell about 10 points. The S&amp;P 500 futures were fla… [+2262 chars]",
-         "title" : "Stock futures flat in overnight trading after S&P 500 posts 4-day losing streak - CNBC",
-         "publishedAt" : "2020-09-21T22:04:00Z",
-         "description" : "The market's September sell-off intensified on Monday as investors grew more anxious about the pandemic.",
-         "source" : {
-            "name" : "CNBC",
+            "name" : "Vox",
             "id" : null
          },
-         "url" : "https://www.cnbc.com/2020/09/21/stock-market-futures-open-to-close-news.html",
-         "author" : "Yun Li",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106699111-1599837087884-gettyimages-1271945849-dscf0561_20200911102120234.jpeg?v=1600726129"
+         "author" : "Peter Kafka",
+         "publishedAt" : "2020-09-21T22:10:09Z",
+         "title" : "Quibi video service has begun looking for buyer - Vox.com",
+         "content" : "Quibi was supposed to be revolutionary: A video service that was supposed to fill the gap between YouTube and HBO by bringing short, premium clips starring celebrities like Liam Hemsworth and Chrissy… [+4351 chars]",
+         "urlToImage" : "https://cdn.vox-cdn.com/thumbor/8bAgLO5kO17mPdzOJnOUKnj6o4I=/0x109:5000x2727/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/21900083/1192559664.jpg.jpg",
+         "url" : "https://www.vox.com/recode/2020/9/21/21449795/quibi-sale-video-buyers",
+         "description" : "The service has raised more than $1.8 billion, but it doesn’t own its own shows."
       },
       {
-         "urlToImage" : "https://i.dailymail.co.uk/1s/2020/09/21/22/33454324-0-image-a-85_1600723790645.jpg",
          "author" : "By Lauren Fruen For Dailymail.com",
-         "url" : "https://www.dailymail.co.uk/news/article-8757313/How-Mormon-raised-Nikola-founder-Trevor-Milton-went-college-dropout-billionaire.html",
          "source" : {
-            "id" : null,
-            "name" : "Daily Mail"
+            "name" : "Daily Mail",
+            "id" : null
          },
          "title" : "How Mormon-raised Nikola founder Trevor Milton went from college-dropout to billionaire - Daily Mail",
          "content" : "The CEO and founder of truck start-up company Nikola, who was forced to step down as executive chairman, is a college-dropout turned billionaire who set a Utah real-estate record, spending $32.5milli… [+14105 chars]",
          "publishedAt" : "2020-09-21T21:47:26Z",
+         "url" : "https://www.dailymail.co.uk/news/article-8757313/How-Mormon-raised-Nikola-founder-Trevor-Milton-went-college-dropout-billionaire.html",
+         "urlToImage" : "https://i.dailymail.co.uk/1s/2020/09/21/22/33454324-0-image-a-85_1600723790645.jpg",
          "description" : "The Nikola founder, left, stepped down Sunday amid reports the Justice Department will probe the company. Milton, 39, has an estimated net worth $3.2 billion and bought his home, right, last year."
       },
       {
-         "content" : null,
-         "title" : "Beijing to reject 'current' TikTok deal: Chinese state media - CNBC Television",
          "publishedAt" : "2020-09-21T21:41:36Z",
+         "title" : "Beijing to reject 'current' TikTok deal: Chinese state media - CNBC Television",
+         "content" : null,
+         "source" : {
+            "id" : "google-news",
+            "name" : "Google News"
+         },
+         "author" : null,
          "description" : null,
-         "source" : {
-            "name" : "Google News",
-            "id" : "google-news"
-         },
-         "url" : "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9QTlEYUNORFIyTzjSAQA?oc=5",
-         "author" : null,
-         "urlToImage" : null
+         "urlToImage" : null,
+         "url" : "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9QTlEYUNORFIyTzjSAQA?oc=5"
       },
       {
-         "author" : "By Marika Gerken, CNN",
-         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200921153929-saguaro-national-park-2015-super-tease.jpg",
-         "url" : "https://www.cnn.com/travel/article/michelob-ultra-chief-exploration-officer-trnd/index.html",
+         "author" : "Chris Woodyard",
          "source" : {
-            "id" : "cnn",
-            "name" : "CNN"
+            "id" : "usa-today",
+            "name" : "USA Today"
          },
-         "publishedAt" : "2020-09-21T21:34:57Z",
-         "description" : "Michelob Ultra is hiring a 'chief exploration officer' to travel the country for six months and represent the brand at national parks.",
-         "title" : "This beer company will pay you $50,000 to travel the country - CNN",
-         "content" : "(CNN) They say if you love your job, you'll never work a day in your life.\r\nWell, it seems Michelob Ultra might have that job -- at least for one lucky beer lover.\r\nThe American beer company, owned b… [+873 chars]"
-      },
-      {
-         "source" : {
-            "id" : null,
-            "name" : "Bitcoin.com"
-         },
-         "url" : "https://news.bitcoin.com/turbulent-crypto-markets-expected-87k-worth-of-bitcoin-options-set-to-expire-on-friday/",
-         "author" : null,
-         "urlToImage" : "https://news.bitcoin.com/wp-content/uploads/2020/09/turbulent-crypto-markets-expected-87k-worth-of-bitcoin-options-set-to-expire-on-friday.jpg",
-         "content" : "Markets are expected to be volatile this week, as a great number of bitcoin and ethereum options are set to expire this Friday. Data shows more than 87,000 bitcoin options will expire and 77% of the … [+3099 chars]",
-         "title" : "Turbulent Crypto Markets Expected - 87K Worth of Bitcoin Options Set to Expire on Friday | Markets and Prices - Bitcoin News",
-         "publishedAt" : "2020-09-21T21:30:54Z",
-         "description" : "Data shows more than 87,000 bitcoin options will expire and 77% of the contracts are held on the Deribit exchange."
-      },
-      {
-         "author" : null,
-         "url" : "https://www.npr.org/2020/09/21/915326229/shop-for-a-pair-of-shoes-to-go-with-that-bread-grocery-chain-dsw-team-up",
-         "urlToImage" : "https://media.npr.org/assets/img/2020/09/21/gettyimages-1227950708_wide-653179767633583cd6f918446839b4d1f3b81e03.jpg?s=1400",
-         "source" : {
-            "name" : "NPR",
-            "id" : null
-         },
-         "content" : "A shopper enters a DSW store in New York City. DSW is partnering with Hy-Vee, a Midwest supermarket chain, to offer shoes in grocery stores.\r\nNina Westervelt/Bloomberg via Getty Images\r\nSure, you go … [+1643 chars]",
-         "title" : "Shoe Shopping At The Grocery Store: Supermarket Chain, DSW Team Up - NPR",
-         "publishedAt" : "2020-09-21T21:19:00Z",
-         "description" : "The Midwestern chain Hy-Vee says DSW shoe outlets are opening in six of its supermarkets in Minnesota. Grocery shoppers will be able to try on shoes, then order online."
-      },
-      {
-         "source" : {
-            "name" : "News3LV",
-            "id" : null
-         },
-         "author" : "News 3 Staff",
-         "url" : "http://news3lv.com/news/local/bellagio-las-vegas-new-conservatory-autumn-theme-2020",
-         "urlToImage" : "http://static-36.sinclairstoryline.com/resources/media/208f14b8-4de5-4039-ae33-c654eb6affcb-large16x9_BellagioConservatoryFallDisplay2020IntotheWoodsEastBed02.jpg?1600720188168",
-         "content" : null,
-         "title" : "Bellagio unveils new conservatory autumn theme - News3LV",
-         "publishedAt" : "2020-09-21T20:34:00Z",
-         "description" : "The Bellagio has unveiled the autumn theme for its famous Conservatory & Botanical Garden, one that promises to take guests to a magical forest. Called \"Into the Woods,\" the experience will feature foxes, fairies, floral mushrooms, oversized oak leaves and dr…"
-      },
-      {
-         "publishedAt" : "2020-09-21T20:30:00Z",
-         "description" : "Federal Reserve Chair Jerome Powell said the U.S. economy is improving but has a long way to go before fully recovering from the coronavirus pandemic.",
-         "content" : "Federal Reserve Chair Jerome Powell said the U.S. economy is improving but has a long way to go before fully recovering from the coronavirus pandemic.\r\n“Many economic indicators show marked improveme… [+1887 chars]",
-         "title" : "Fed’s Powell Says U.S. Economy Faces Long, Uncertain Recovery - Bloomberg",
-         "source" : {
-            "name" : "Bloomberg",
-            "id" : "bloomberg"
-         },
-         "author" : "Christopher Condon",
-         "url" : "https://www.bloomberg.com/news/articles/2020-09-21/fed-s-powell-says-u-s-economy-faces-long-uncertain-recovery",
-         "urlToImage" : "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/irAuGhbfM.Zc/v0/1200x800.jpg"
-      },
-      {
-         "publishedAt" : "2020-09-21T20:24:43Z",
-         "description" : "\"I will NEVER fly AA again.\"",
-         "content" : "PORTSMOUTH, N.H. (AP) A New Hampshire woman was not allowed to stay on an American Airlines flight with her 2-year-old son because he would not wear a mask, stoking a discussion about how to balance … [+2026 chars]",
-         "title" : "A N.H. mom’s 2-year-old son wouldn’t wear a mask on a plane. They got kicked off the flight. - Boston.com",
-         "url" : "https://www.boston.com/news/travel/2020/09/21/a-n-h-moms-2-year-old-son-wouldnt-wear-a-mask-on-a-plane-they-got-kicked-off-the-flight",
-         "author" : "associated-press",
-         "urlToImage" : "https://www.boston.com/wp-content/uploads/2020/09/Screen-Shot-2020-09-21-at-3.23.22-PM-850x478.jpg",
-         "source" : {
-            "id" : null,
-            "name" : "Boston.com"
-         }
-      },
-      {
-         "publishedAt" : "2020-09-21T19:49:49Z",
-         "description" : "Many Marylanders who anxiously awaited the launch of BEACON 2.0, the makeover of the state’s unemployment insurance web portal that debuted Sunday, find it’s still not helping resolve their difficulties with claims.",
-         "title" : "Updated Maryland unemployment insurance portal provides little relief for some claimants - Baltimore Sun",
-         "content" : null,
-         "source" : {
-            "name" : "Baltimore Sun",
-            "id" : null
-         },
-         "urlToImage" : "https://www.baltimoresun.com/resizer/aqAwACagzBq9vTyWMfmcOsaREzg=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/3QIUC6AFF5AKJCJR7S5IX6RPT4.jpg",
-         "author" : "Hallie Miller",
-         "url" : "https://www.baltimoresun.com/coronavirus/bs-md-maryland-unemployment-beacon-complaints-20200921-z2vgjp7ianexje2kdvtouqcgli-story.html"
-      },
-      {
-         "url" : "https://www.bbc.com/news/business-54242055",
-         "author" : "https://www.facebook.com/bbcnews",
-         "urlToImage" : "https://ichef.bbci.co.uk/news/1024/branded_news/6CA7/production/_114551872_gettyimages-624883602-1.jpg",
-         "source" : {
-            "id" : null,
-            "name" : "BBC News"
-         },
-         "publishedAt" : "2020-09-21T19:47:24Z",
-         "description" : "In a dramatic reversal, one of the world's biggest makers of coal-fired plants will exit the market.",
-         "title" : "GE: Industrial giant will stop building coal-fired power plants - BBC News",
-         "content" : "Image copyrightGetty Images\r\nIn a dramatic reversal, one of the world's biggest makers of coal-fired power plants is to exit the market and focus on greener alternatives.\r\nUS industrial giant General… [+1976 chars]"
+         "title" : "Two new studies indicate COVID-19 can spread on long airline flights, promote distancing - USA TODAY",
+         "content" : "U.S. airlines are announcing new steps to protect passengers from the coronavirus as the number of people flying has stalled, threatening a three-month gradual increase in air travel. (Aug. 17)\r\nAP D… [+4307 chars]",
+         "publishedAt" : "2020-09-21T21:33:48Z",
+         "url" : "https://www.usatoday.com/story/travel/airline-news/2020/09/21/covid-19-can-spread-lengthy-airline-flights-two-studies-find/5854222002/",
+         "urlToImage" : "https://www.gannett-cdn.com/presto/2020/08/28/USAT/dfac9c7a-8bb2-438d-8f24-e47ffb96cd8a-GettyImages-1211188063.jpg?crop=2120,1193,x0,y107&width=1600&height=800&fit=bounds",
+         "description" : "Both studies, taking different approaches, found clusters of COVID-19 cases traced back to long airline flights."
       }
    ],
-   "status" : "ok",
-   "totalResults" : 70
+   "totalResults" : 70,
+   "status" : "ok"
 }
