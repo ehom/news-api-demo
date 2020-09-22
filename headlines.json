@@ -1,266 +1,266 @@
 {
    "articles" : [
       {
-         "description" : "After a record-setting July, the housing market still shows no sign of cooling off. Existing home sales rose to the highest level since December 2006.",
-         "title" : "Existing home sales jump to 14-year high, as prices set another record - CNBC",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106673627-15980282712020-08-21t163220z_1153273104_rc2gii9ycdcf_rtrmadp_0_usa-economy.jpeg?v=1598028318",
          "content" : "After a record-setting July, the housing market still shows no sign of cooling off.\r\nSales of existing homes rose 2.4% to a seasonally adjusted annualized rate of 6 million units, according to the Na… [+2371 chars]",
-         "url" : "https://www.cnbc.com/2020/09/22/existing-home-sales-jump-to-14-year-high-as-prices-set-another-record.html",
-         "publishedAt" : "2020-09-22T14:00:00Z",
-         "author" : "Diana Olick",
-         "source" : {
-            "name" : "CNBC",
-            "id" : null
-         }
-      },
-      {
-         "publishedAt" : "2020-09-22T13:58:00Z",
-         "author" : "Investor's Business Daily",
-         "source" : {
-            "id" : null,
-            "name" : "Investor's Business Daily"
-         },
-         "content" : "Stocks popped out of the starting gate Tuesday, then weakened into mixed trade, clipping an attempted rebound after a volatile session Monday. FANG stocks, led by Amazon.com, were early risers. Tesla… [+8691 chars]",
-         "description" : "Amazon and AutoZone led as stocks turned mixed Tuesday, Tesla lost ground, and Nike rose on the Dow Jones today, ahead of its afterhours report.",
-         "title" : "Dow Jones Today, Stocks Flatten As Amazon Leads FANGs, Nike Up Ahead Of Earnings - Investor's Business Daily",
-         "urlToImage" : "https://www.investors.com/wp-content/uploads/2017/04/Bear.Bull_.NYSE_.png",
-         "url" : "https://www.investors.com/market-trend/stock-market-today/dow-jones-today-futures-shed-losses-advance-amazon-leads-fangs-nike-rises-ahead-of-earnings/"
-      },
-      {
-         "author" : "William Watts",
-         "publishedAt" : "2020-09-22T13:52:00Z",
-         "source" : {
-            "id" : null,
-            "name" : "MarketWatch"
-         },
-         "content" : "Stocks struggled to maintain altitude after opening with modest gains on Tuesday, following a volatile session that saw stocks sell off on worries about renewed coronavirus lockdowns in Europe and ri… [+5630 chars]",
-         "title" : "Stocks try to bounce after volatile session as investors await Powell testimony - MarketWatch",
-         "urlToImage" : "https://s.marketwatch.com/public/resources/images/MW-IL244_fed_po_ZG_20200727150111.jpg",
-         "description" : "Tesla shares fall as Musk plays down ‘battery day’ expectations",
-         "url" : "https://www.marketwatch.com/story/stock-index-futures-struggle-for-direction-after-volatile-session-as-investors-await-powell-testimony-2020-09-22"
-      },
-      {
-         "source" : {
-            "id" : null,
-            "name" : "New York Post"
-         },
-         "author" : "New York Post",
-         "publishedAt" : "2020-09-22T13:25:21Z",
-         "url" : "https://nypost.com/2020/09/21/cdc-11000-may-have-been-exposed-to-covid-19-on-airplanes/",
-         "content" : "Thousands of people may have been exposed to COVID-19 on airplanes, according to the Centers for Disease Control and Prevention.\r\nAgency officials believe nearly 11,000 people may have been exposed t… [+1600 chars]",
-         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/08/0/0/American-Airlines-iStock-006.jpg?ve=1&tl=1",
-         "title" : "CDC: 11000 may have been exposed to COVID-19 on airplanes - Fox Business",
-         "description" : "Agency officials believe nearly 11,000 people may have been exposed to one of the 1,600 known cases of people flying while contagious with the virus — despite being unable to confirm a single case of viral transmission on a US plane."
-      },
-      {
-         "title" : "Covid-19 Live Updates: Children Will Have to Wait for a Vaccine - The New York Times",
-         "description" : "Clinical trials have not included children, so vaccines for them may not arrive until the next school year, while adults may get theirs by summer.",
-         "urlToImage" : "https://static01.nyt.com/images/2020/08/03/us/us-briefing-promo-image-print/us-briefing-promo-image-facebookJumbo.jpg",
-         "content" : "In the past two weeks, the 478-room Hilton Times Square and two Courtyard by Marriott hotels in Manhattan said they would not reopen, joining several others that had already closed for good, includin… [+1094 chars]",
-         "url" : "https://www.nytimes.com/2020/09/22/world/covid-coronavirus.html",
-         "publishedAt" : "2020-09-22T13:25:05Z",
-         "author" : null,
-         "source" : {
-            "id" : null,
-            "name" : "New York Times"
-         }
-      },
-      {
          "source" : {
             "id" : null,
             "name" : "CNBC"
          },
-         "publishedAt" : "2020-09-22T13:22:00Z",
-         "author" : "Michelle Gao",
-         "url" : "https://www.cnbc.com/2020/09/22/barry-diller-on-tiktok-deal-the-whole-thing-is-a-crock.html",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106216489-1572545732717nup_187507_0391.jpg?v=1572545981",
-         "title" : "Barry Diller on TikTok deal: 'The whole thing is a crock' - CNBC",
-         "description" : "Expedia and IAC chairman Barry Diller told CNBC the TikTok deal is a \"crock\" and a \"political mismash.\"",
-         "content" : "Media mogul Barry Diller told CNBC on Tuesday the deal in which Oracle and Walmart would take minority stakes in TikTok \"is a crock.\"\r\nDiller, chairman of Expedia and IAC, made his comments in a \"Squ… [+2049 chars]"
+         "title" : "Existing home sales jump to 14-year high, as prices set another record - CNBC",
+         "publishedAt" : "2020-09-22T14:00:00Z",
+         "url" : "https://www.cnbc.com/2020/09/22/existing-home-sales-jump-to-14-year-high-as-prices-set-another-record.html",
+         "author" : "Diana Olick",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106673627-15980282712020-08-21t163220z_1153273104_rc2gii9ycdcf_rtrmadp_0_usa-economy.jpeg?v=1598028318",
+         "description" : "After a record-setting July, the housing market still shows no sign of cooling off. Existing home sales rose to the highest level since December 2006."
       },
       {
-         "url" : "https://patch.com/connecticut/across-ct/cdc-traditional-trick-or-treating-halloween-high-risk",
-         "content" : "CONNECTICUT The Centers for Disease Control and Prevention says traditional trick-or-treating, trunk-or-treating, parties, hayrides and haunted houses should be avoided this Halloween.\r\nThe CDC late … [+5113 chars]",
-         "description" : "Halloween isn't canceled, but the federal health agency says 'no' to trick-or-treating, trunk-or-treating, hay rides and haunted houses.",
-         "urlToImage" : "https://patch.com/img/cdn20/users/1713316/20200922/091312/styles/patch_image/public/hlloween-2___22090205666.jpg",
-         "title" : "CDC: Traditional Trick-Or-Treating This Halloween Is High-Risk - Patch.com",
+         "urlToImage" : "https://www.investors.com/wp-content/uploads/2017/04/Bear.Bull_.NYSE_.png",
+         "description" : "Amazon and AutoZone led as stocks turned mixed Tuesday, Tesla lost ground, and Nike rose on the Dow Jones today, ahead of its afterhours report.",
+         "author" : "Investor's Business Daily",
+         "publishedAt" : "2020-09-22T13:58:00Z",
+         "url" : "https://www.investors.com/market-trend/stock-market-today/dow-jones-today-futures-shed-losses-advance-amazon-leads-fangs-nike-rises-ahead-of-earnings/",
+         "content" : "Stocks popped out of the starting gate Tuesday, then weakened into mixed trade, clipping an attempted rebound after a volatile session Monday. FANG stocks, led by Amazon.com, were early risers. Tesla… [+8691 chars]",
+         "title" : "Dow Jones Today, Stocks Flatten As Amazon Leads FANGs, Nike Up Ahead Of Earnings - Investor's Business Daily",
          "source" : {
             "id" : null,
-            "name" : "Avon, CT Patch"
-         },
-         "publishedAt" : "2020-09-22T13:13:00Z",
-         "author" : "Ellyn Santiago"
+            "name" : "Investor's Business Daily"
+         }
       },
       {
-         "url" : "https://www.cnbc.com/2020/09/22/brookfield-properties-retail-arm-is-laying-off-20percent-of-its-workforce.html",
-         "title" : "Brookfield Properties' retail arm is laying off 20% of its workforce, as pandemic hits malls - CNBC",
-         "description" : "The mall owner is slashing jobs \"to align with the future scale of our portfolio,\" Jared Chupaila, the CEO of Brookfield Properties' retail group, said this week in an email to employees, which was obtained by CNBC.",
+         "author" : "William Watts",
+         "description" : "Tesla shares fall as Musk plays down ‘battery day’ expectations",
+         "urlToImage" : "https://s.marketwatch.com/public/resources/images/MW-IL244_fed_po_ZG_20200727150111.jpg",
+         "content" : "Stocks struggled to maintain altitude after opening with modest gains on Tuesday, following a volatile session that saw stocks sell off on worries about renewed coronavirus lockdowns in Europe and ri… [+5630 chars]",
+         "source" : {
+            "id" : null,
+            "name" : "MarketWatch"
+         },
+         "title" : "Stocks try to bounce after volatile session as investors await Powell testimony - MarketWatch",
+         "url" : "https://www.marketwatch.com/story/stock-index-futures-struggle-for-direction-after-volatile-session-as-investors-await-powell-testimony-2020-09-22",
+         "publishedAt" : "2020-09-22T13:52:00Z"
+      },
+      {
+         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/08/0/0/American-Airlines-iStock-006.jpg?ve=1&tl=1",
+         "description" : "Agency officials believe nearly 11,000 people may have been exposed to one of the 1,600 known cases of people flying while contagious with the virus — despite being unable to confirm a single case of viral transmission on a US plane.",
+         "author" : "New York Post",
+         "publishedAt" : "2020-09-22T13:25:21Z",
+         "url" : "https://nypost.com/2020/09/21/cdc-11000-may-have-been-exposed-to-covid-19-on-airplanes/",
+         "title" : "CDC: 11000 may have been exposed to COVID-19 on airplanes - Fox Business",
+         "content" : "Thousands of people may have been exposed to COVID-19 on airplanes, according to the Centers for Disease Control and Prevention.\r\nAgency officials believe nearly 11,000 people may have been exposed t… [+1600 chars]",
+         "source" : {
+            "id" : null,
+            "name" : "New York Post"
+         }
+      },
+      {
+         "content" : "In the past two weeks, the 478-room Hilton Times Square and two Courtyard by Marriott hotels in Manhattan said they would not reopen, joining several others that had already closed for good, includin… [+1094 chars]",
+         "source" : {
+            "id" : null,
+            "name" : "New York Times"
+         },
+         "title" : "Covid-19 Live Updates: Children Will Have to Wait for a Vaccine - The New York Times",
+         "url" : "https://www.nytimes.com/2020/09/22/world/covid-coronavirus.html",
+         "publishedAt" : "2020-09-22T13:25:05Z",
+         "author" : null,
+         "description" : "Clinical trials have not included children, so vaccines for them may not arrive until the next school year, while adults may get theirs by summer.",
+         "urlToImage" : "https://static01.nyt.com/images/2020/08/03/us/us-briefing-promo-image-print/us-briefing-promo-image-facebookJumbo.jpg"
+      },
+      {
+         "author" : "Michelle Gao",
+         "description" : "Expedia and IAC chairman Barry Diller told CNBC the TikTok deal is a \"crock\" and a \"political mismash.\"",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106216489-1572545732717nup_187507_0391.jpg?v=1572545981",
+         "title" : "Barry Diller on TikTok deal: 'The whole thing is a crock' - CNBC",
+         "content" : "Media mogul Barry Diller told CNBC on Tuesday the deal in which Oracle and Walmart would take minority stakes in TikTok \"is a crock.\"\r\nDiller, chairman of Expedia and IAC, made his comments in a \"Squ… [+2049 chars]",
+         "source" : {
+            "name" : "CNBC",
+            "id" : null
+         },
+         "url" : "https://www.cnbc.com/2020/09/22/barry-diller-on-tiktok-deal-the-whole-thing-is-a-crock.html",
+         "publishedAt" : "2020-09-22T13:22:00Z"
+      },
+      {
+         "source" : {
+            "name" : "Avon, CT Patch",
+            "id" : null
+         },
+         "content" : "CONNECTICUT The Centers for Disease Control and Prevention says traditional trick-or-treating, trunk-or-treating, parties, hayrides and haunted houses should be avoided this Halloween.\r\nThe CDC late … [+5113 chars]",
+         "title" : "CDC: Traditional Trick-Or-Treating This Halloween Is High-Risk - Patch.com",
+         "publishedAt" : "2020-09-22T13:13:00Z",
+         "url" : "https://patch.com/connecticut/across-ct/cdc-traditional-trick-or-treating-halloween-high-risk",
+         "author" : "Ellyn Santiago",
+         "urlToImage" : "https://patch.com/img/cdn20/users/1713316/20200922/091312/styles/patch_image/public/hlloween-2___22090205666.jpg",
+         "description" : "Halloween isn't canceled, but the federal health agency says 'no' to trick-or-treating, trunk-or-treating, hay rides and haunted houses."
+      },
+      {
+         "author" : "Lauren Thomas",
          "urlToImage" : "https://image.cnbcfm.com/api/v1/image/101659859-185720775.jpg?v=1588870805",
+         "description" : "The mall owner is slashing jobs \"to align with the future scale of our portfolio,\" Jared Chupaila, the CEO of Brookfield Properties' retail group, said this week in an email to employees, which was obtained by CNBC.",
          "content" : "One of the biggest retail real estate owners in the country, Brookfield Properties, is going through a major round of job cuts, CNBC has learned, as the coronavirus pandemic takes a toll on its busin… [+1780 chars]",
          "source" : {
             "id" : null,
             "name" : "CNBC"
          },
+         "title" : "Brookfield Properties' retail arm is laying off 20% of its workforce, as pandemic hits malls - CNBC",
          "publishedAt" : "2020-09-22T13:02:00Z",
-         "author" : "Lauren Thomas"
+         "url" : "https://www.cnbc.com/2020/09/22/brookfield-properties-retail-arm-is-laying-off-20percent-of-its-workforce.html"
       },
       {
+         "publishedAt" : "2020-09-22T12:59:24Z",
          "url" : "https://www.foxbusiness.com/markets/us-stocks-sept-22-2020",
          "title" : "Big Tech leads stocks higher as Fed Chairman Powell testifies on coronavirus recovery - Fox Business",
-         "description" : "U.S. equity markets rallied Tuesday morning as traders awaited testimony from Federal Reserve Chairman Jerome Powell amid growing concerns of a new wave of coronavirus infections in Europe.",
-         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/07/0/0/stock-market-trader-AP-001.jpg?ve=1&tl=1",
          "content" : "U.S. equity markets rallied Tuesday morning as traders awaited testimony from Federal Reserve Chairman Jerome Powell amid growing concerns of a new wave of coronavirus infections in Europe.\r\nThe Dow … [+2695 chars]",
          "source" : {
-            "id" : null,
-            "name" : "Fox Business"
+            "name" : "Fox Business",
+            "id" : null
          },
-         "author" : "Jonathan Garber",
-         "publishedAt" : "2020-09-22T12:59:24Z"
+         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/07/0/0/stock-market-trader-AP-001.jpg?ve=1&tl=1",
+         "description" : "U.S. equity markets rallied Tuesday morning as traders awaited testimony from Federal Reserve Chairman Jerome Powell amid growing concerns of a new wave of coronavirus infections in Europe.",
+         "author" : "Jonathan Garber"
       },
       {
-         "urlToImage" : "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/CruiseShipsLongBeachPhoto-by-APU-GOMESAFP-via-Getty-Images.jpg",
-         "title" : "Association of major cruise lines announces 'mandatory' regulations for resuming cruises in the Americas - Fox News",
-         "description" : "Among these new “core elements” for health and safety, all cruise passengers will be tested for COVID-19 prior to embarkation, and all guests will be required to wear masks when physical distancing is not possible.",
-         "content" : "An association of dozens of major cruise lines has announced the voluntary adoption of new health protocols — which would be mandatory for its members — in the hopes of resuming cruise voyages in the… [+2745 chars]",
          "url" : "https://www.foxnews.com/travel/clia-cruise-lines-announces-mandatory-regulations-resuming-cruises-masks-testing",
          "publishedAt" : "2020-09-22T12:54:43Z",
-         "author" : "Michael Bartiromo",
-         "source" : {
-            "id" : "fox-news",
-            "name" : "Fox News"
-         }
-      },
-      {
-         "source" : {
-            "id" : null,
-            "name" : "Motley Fool"
-         },
-         "publishedAt" : "2020-09-22T12:34:00Z",
-         "author" : "Zhiyuan Sun",
-         "url" : "https://www.fool.com/investing/2020/09/22/3-absurdly-overvalued-stocks-to-avoid-during-a-mar/",
-         "title" : "3 Absurdly Overvalued Stocks to Avoid During a Market Crash - Motley Fool",
-         "description" : "Now is the time to take profits on these three high-flying growth stocks in case of a stock market crash.",
-         "urlToImage" : "https://g.foolcdn.com/editorial/images/592273/gettyimages-1211369368.jpg",
-         "content" : "A combination of excessive speculation in tech options from retail investors and fears of a second wave of coronavirus cases around the world created a significant pullback among major stock indexes.… [+5055 chars]"
-      },
-      {
-         "source" : {
-            "id" : null,
-            "name" : "CNBC"
-         },
-         "publishedAt" : "2020-09-22T12:28:00Z",
-         "author" : "Jennifer Elias",
-         "url" : "https://www.cnbc.com/2020/09/22/former-youtube-content-moderator-describes-horrors-of-the-job-in-lawsuit.html",
-         "content" : "A former YouTube moderator is suing YouTube, accusing it of failing to protect workers who have to catch and remove violent videos posted to the site. \r\nThe suit filed Monday in California Superior C… [+2554 chars]",
-         "title" : "Former YouTube content moderator describes horrors of the job in new lawsuit - CNBC",
-         "description" : "Moderators working for YouTube had to view mass murders, abortions and suicide, according to the lawsuit.",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106712357-1600782555579-gettyimages-1139254442-190425_TFEA_PHT04.jpeg?v=1600782609"
-      },
-      {
-         "content" : "President Donald Trump boards Air Force One at Joint Base Andrews, Maryland, Sept. 21 as he departs Washington for campaign travel to Ohio.\r\nThe future of Social Security could be a big issue in the … [+5101 chars]",
-         "title" : "Here's what Trump's payroll tax plan may mean for the future of Social Security - CNBC",
-         "description" : "President Trump's temporary payroll tax holiday has Social Security advocates worried that he could try to put a permanent cut in place if he is re-elected. Such a move could hurt Social Security, which relies on those taxes for funding. Whoever is elected ma…",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106711288-1600723719273-don.jpg?v=1600775675",
-         "url" : "https://www.cnbc.com/2020/09/22/what-trumps-payroll-tax-plan-could-mean-for-social-securitys-future.html",
-         "publishedAt" : "2020-09-22T12:27:00Z",
-         "author" : "Lorie Konish",
-         "source" : {
-            "id" : null,
-            "name" : "CNBC"
-         }
-      },
-      {
-         "url" : "https://www.cnn.com/2020/09/22/business/chipotle-carne-asada-returns/index.html",
-         "content" : null,
-         "title" : "Chipotle brings back its most popular new menu item - CNN",
-         "description" : "Chipotle is bringing carne asada back to its menu following a half-year hiatus.",
-         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200922080406-01-chipotle-0720-restricted-super-tease.jpg",
-         "source" : {
-            "id" : "cnn",
-            "name" : "CNN"
-         },
-         "publishedAt" : "2020-09-22T12:25:00Z",
-         "author" : "Jordan Valinsky, CNN Business"
-      },
-      {
-         "publishedAt" : "2020-09-22T11:57:01Z",
-         "author" : "Gary Gastelu",
+         "title" : "Association of major cruise lines announces 'mandatory' regulations for resuming cruises in the Americas - Fox News",
+         "content" : "An association of dozens of major cruise lines has announced the voluntary adoption of new health protocols — which would be mandatory for its members — in the hopes of resuming cruise voyages in the… [+2745 chars]",
          "source" : {
             "name" : "Fox News",
             "id" : "fox-news"
          },
-         "title" : "Ford responds to Bronco fans, will offer 'Sasquatch' extreme off-road option with a stick shift - Fox News",
-         "description" : "Ford Bronco fans complained that the SUV couldn't be configured with a manual transmission and otpional Sasquatch off-road package, so Ford updated its availability.",
-         "urlToImage" : "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/first.jpg",
-         "content" : "Sometimes whining pays off.\r\nWhen Ford unveiled the all-new Bronco in July there was a lot to like for 4x4 enthusiasts, but some of them found something to complain about anyway.\r\nThe SUV offers a Sa… [+1631 chars]",
-         "url" : "https://www.foxnews.com/auto/ford-bronco-sasquatch-stick-shift"
+         "description" : "Among these new “core elements” for health and safety, all cruise passengers will be tested for COVID-19 prior to embarkation, and all guests will be required to wear masks when physical distancing is not possible.",
+         "urlToImage" : "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/CruiseShipsLongBeachPhoto-by-APU-GOMESAFP-via-Getty-Images.jpg",
+         "author" : "Michael Bartiromo"
       },
       {
-         "content" : "Editor's Note: With so much market volatility, stay on top of daily news! Get caught up in minutes with our speedy summary of today's must-read news and expert opinions. Sign up here! \r\n(Kitco News) … [+3866 chars]",
-         "title" : "Gold, silver bulls work on price stabilization - Kitco NEWS",
-         "urlToImage" : "https://www.kitco.com/news/2020-09-22/images/goldchart_0922_am.png",
-         "description" : "Senior Technical Analyst Jim Wyckoff prepares investors with an overview of how the markets opened and closed. What moved metal prices? How do the technicals look? By looking at important developments",
-         "url" : "https://www.kitco.com/news/2020-09-22/Gold-silver-bulls-work-on-price-stabilization.html",
-         "publishedAt" : "2020-09-22T11:57:00Z",
-         "author" : "http://www.facebook.com/kitconews",
+         "content" : "A combination of excessive speculation in tech options from retail investors and fears of a second wave of coronavirus cases around the world created a significant pullback among major stock indexes.… [+5055 chars]",
          "source" : {
-            "id" : null,
-            "name" : "Kitco NEWS"
-         }
+            "name" : "Motley Fool",
+            "id" : null
+         },
+         "title" : "3 Absurdly Overvalued Stocks to Avoid During a Market Crash - Motley Fool",
+         "publishedAt" : "2020-09-22T12:34:00Z",
+         "url" : "https://www.fool.com/investing/2020/09/22/3-absurdly-overvalued-stocks-to-avoid-during-a-mar/",
+         "author" : "Zhiyuan Sun",
+         "urlToImage" : "https://g.foolcdn.com/editorial/images/592273/gettyimages-1211369368.jpg",
+         "description" : "Now is the time to take profits on these three high-flying growth stocks in case of a stock market crash."
       },
       {
-         "description" : "International Business News: Apple Inc chief executive officer (CEO) Tim Cook said he’s been impressed by employees’ ability to operate remotely and predicted that some new work h",
-         "title" : "Apple CEO impressed by remote work, sees permanent changes - Times of India",
-         "urlToImage" : "https://static.toiimg.com/thumb/msid-78256173,width-1070,height-580,imgsize-59818,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-         "content" : null,
-         "url" : "https://timesofindia.indiatimes.com/business/international-business/apple-ceo-impressed-by-remote-work-sees-permanent-changes/articleshow/78256225.cms",
-         "author" : "Bloomberg",
-         "publishedAt" : "2020-09-22T11:53:00Z",
+         "author" : "Jennifer Elias",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106712357-1600782555579-gettyimages-1139254442-190425_TFEA_PHT04.jpeg?v=1600782609",
+         "description" : "Moderators working for YouTube had to view mass murders, abortions and suicide, according to the lawsuit.",
          "source" : {
-            "id" : "the-times-of-india",
-            "name" : "The Times of India"
-         }
+            "name" : "CNBC",
+            "id" : null
+         },
+         "content" : "A former YouTube moderator is suing YouTube, accusing it of failing to protect workers who have to catch and remove violent videos posted to the site. \r\nThe suit filed Monday in California Superior C… [+2554 chars]",
+         "title" : "Former YouTube content moderator describes horrors of the job in new lawsuit - CNBC",
+         "publishedAt" : "2020-09-22T12:28:00Z",
+         "url" : "https://www.cnbc.com/2020/09/22/former-youtube-content-moderator-describes-horrors-of-the-job-in-lawsuit.html"
       },
       {
-         "content" : "Tesla shares sank more than 5% Tuesday morning after CEO Elon Musk sought to manage expectations ahead of the electric carmaker's Battery Day presentation.\r\nMusk's company is expected to announce on … [+1240 chars]",
-         "description" : "Tesla is expected to announce details about a new type of battery cell it has developed, but Musk cautioned about hurdles to reaching mass production.",
-         "title" : "Tesla shares fall as Musk dampens Battery Day expectations - CNBC",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106555483-15906759672020-05-13t014453z_710781449_rc2dng93w4em_rtrmadp_0_health-coronavirus-tesla-texas.jpeg?v=1600783514",
-         "url" : "https://www.cnbc.com/2020/09/22/tesla-shares-fall-as-musk-dampens-battery-day-expectations.html",
-         "author" : "Ryan Browne",
-         "publishedAt" : "2020-09-22T11:28:00Z",
+         "author" : "Lorie Konish",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106711288-1600723719273-don.jpg?v=1600775675",
+         "description" : "President Trump's temporary payroll tax holiday has Social Security advocates worried that he could try to put a permanent cut in place if he is re-elected. Such a move could hurt Social Security, which relies on those taxes for funding. Whoever is elected ma…",
+         "title" : "Here's what Trump's payroll tax plan may mean for the future of Social Security - CNBC",
+         "content" : "President Donald Trump boards Air Force One at Joint Base Andrews, Maryland, Sept. 21 as he departs Washington for campaign travel to Ohio.\r\nThe future of Social Security could be a big issue in the … [+5101 chars]",
          "source" : {
             "id" : null,
             "name" : "CNBC"
-         }
+         },
+         "publishedAt" : "2020-09-22T12:27:00Z",
+         "url" : "https://www.cnbc.com/2020/09/22/what-trumps-payroll-tax-plan-could-mean-for-social-securitys-future.html"
       },
       {
+         "source" : {
+            "name" : "CNN",
+            "id" : "cnn"
+         },
+         "content" : null,
+         "title" : "Chipotle brings back its most popular new menu item - CNN",
+         "publishedAt" : "2020-09-22T12:25:00Z",
+         "url" : "https://www.cnn.com/2020/09/22/business/chipotle-carne-asada-returns/index.html",
          "author" : "Jordan Valinsky, CNN Business",
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200922080406-01-chipotle-0720-restricted-super-tease.jpg",
+         "description" : "Chipotle is bringing carne asada back to its menu following a half-year hiatus."
+      },
+      {
+         "content" : "Sometimes whining pays off.\r\nWhen Ford unveiled the all-new Bronco in July there was a lot to like for 4x4 enthusiasts, but some of them found something to complain about anyway.\r\nThe SUV offers a Sa… [+1631 chars]",
+         "title" : "Ford responds to Bronco fans, will offer 'Sasquatch' extreme off-road option with a stick shift - Fox News",
+         "source" : {
+            "id" : "fox-news",
+            "name" : "Fox News"
+         },
+         "publishedAt" : "2020-09-22T11:57:01Z",
+         "url" : "https://www.foxnews.com/auto/ford-bronco-sasquatch-stick-shift",
+         "author" : "Gary Gastelu",
+         "urlToImage" : "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/first.jpg",
+         "description" : "Ford Bronco fans complained that the SUV couldn't be configured with a manual transmission and otpional Sasquatch off-road package, so Ford updated its availability."
+      },
+      {
+         "publishedAt" : "2020-09-22T11:57:00Z",
+         "url" : "https://www.kitco.com/news/2020-09-22/Gold-silver-bulls-work-on-price-stabilization.html",
+         "content" : "Editor's Note: With so much market volatility, stay on top of daily news! Get caught up in minutes with our speedy summary of today's must-read news and expert opinions. Sign up here! \r\n(Kitco News) … [+3866 chars]",
+         "title" : "Gold, silver bulls work on price stabilization - Kitco NEWS",
+         "source" : {
+            "id" : null,
+            "name" : "Kitco NEWS"
+         },
+         "urlToImage" : "https://www.kitco.com/news/2020-09-22/images/goldchart_0922_am.png",
+         "description" : "Senior Technical Analyst Jim Wyckoff prepares investors with an overview of how the markets opened and closed. What moved metal prices? How do the technicals look? By looking at important developments",
+         "author" : "http://www.facebook.com/kitconews"
+      },
+      {
+         "publishedAt" : "2020-09-22T11:53:00Z",
+         "url" : "https://timesofindia.indiatimes.com/business/international-business/apple-ceo-impressed-by-remote-work-sees-permanent-changes/articleshow/78256225.cms",
+         "source" : {
+            "name" : "The Times of India",
+            "id" : "the-times-of-india"
+         },
+         "content" : null,
+         "title" : "Apple CEO impressed by remote work, sees permanent changes - Times of India",
+         "urlToImage" : "https://static.toiimg.com/thumb/msid-78256173,width-1070,height-580,imgsize-59818,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+         "description" : "International Business News: Apple Inc chief executive officer (CEO) Tim Cook said he’s been impressed by employees’ ability to operate remotely and predicted that some new work h",
+         "author" : "Bloomberg"
+      },
+      {
+         "publishedAt" : "2020-09-22T11:28:00Z",
+         "url" : "https://www.cnbc.com/2020/09/22/tesla-shares-fall-as-musk-dampens-battery-day-expectations.html",
+         "title" : "Tesla shares fall as Musk dampens Battery Day expectations - CNBC",
+         "content" : "Tesla shares sank more than 5% Tuesday morning after CEO Elon Musk sought to manage expectations ahead of the electric carmaker's Battery Day presentation.\r\nMusk's company is expected to announce on … [+1240 chars]",
+         "source" : {
+            "id" : null,
+            "name" : "CNBC"
+         },
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106555483-15906759672020-05-13t014453z_710781449_rc2dng93w4em_rtrmadp_0_health-coronavirus-tesla-texas.jpeg?v=1600783514",
+         "description" : "Tesla is expected to announce details about a new type of battery cell it has developed, but Musk cautioned about hurdles to reaching mass production.",
+         "author" : "Ryan Browne"
+      },
+      {
          "publishedAt" : "2020-09-22T11:27:00Z",
+         "url" : "https://www.cnn.com/2020/09/22/investing/sizzler-restaurant-bankruptcy/index.html",
+         "content" : null,
+         "title" : "Sizzler, one of America's first steakhouse chains, files for bankruptcy - CNN",
          "source" : {
             "id" : "cnn",
             "name" : "CNN"
          },
-         "description" : "Sizzler USA, one of the country's first casual restaurant chains, has filed for bankruptcy.",
-         "title" : "Sizzler, one of America's first steakhouse chains, files for bankruptcy - CNN",
          "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200922064045-restricted-file-sizzler-restaurant-utah-2019-super-tease.jpg",
-         "content" : null,
-         "url" : "https://www.cnn.com/2020/09/22/investing/sizzler-restaurant-bankruptcy/index.html"
+         "description" : "Sizzler USA, one of the country's first casual restaurant chains, has filed for bankruptcy.",
+         "author" : "Jordan Valinsky, CNN Business"
       },
       {
+         "url" : "https://fox59.com/news/4-indiana-bed-bath-beyond-set-to-close/",
+         "publishedAt" : "2020-09-22T11:03:00Z",
          "source" : {
             "name" : "Fox 59",
             "id" : null
          },
-         "publishedAt" : "2020-09-22T11:03:00Z",
-         "author" : "Web Team",
-         "url" : "https://fox59.com/news/4-indiana-bed-bath-beyond-set-to-close/",
+         "content" : "Four Indiana Bed Bath &amp; Beyond stores are set to close their doors for good.\r\nThe closures are part of a restructuring plan necessitated by the coronavirus pandemic that will include shuttering 6… [+743 chars]",
+         "title" : "4 Indiana Bed Bath & Beyond stores set to close - Fox 59",
          "description" : "Four Indiana Bed Bath & Beyond stores are set to close their doors for good. The closures are part of a restructuring plan necessitated by the coronavirus pandemic that will include shuttering 63 stores by the end of the year, according to CNN. Bed Bath & Bey…",
          "urlToImage" : "https://fox59.com/wp-content/uploads/sites/21/2020/07/Bed-Bath-and-Beyond.jpg?w=1280",
-         "title" : "4 Indiana Bed Bath & Beyond stores set to close - Fox 59",
-         "content" : "Four Indiana Bed Bath &amp; Beyond stores are set to close their doors for good.\r\nThe closures are part of a restructuring plan necessitated by the coronavirus pandemic that will include shuttering 6… [+743 chars]"
+         "author" : "Web Team"
       }
    ],
-   "status" : "ok",
-   "totalResults" : 70
+   "totalResults" : 70,
+   "status" : "ok"
 }
