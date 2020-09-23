@@ -7,7 +7,7 @@ fetch(URL)
     return json;
   })
   .then(json => render(json))
-  .catch(error => console.log(error));
+  .catch(error => console.error(error));
 
 function Headlines(props) {
   // TODO: get locale from browser?
