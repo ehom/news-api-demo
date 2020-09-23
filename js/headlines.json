@@ -1,266 +1,266 @@
 {
+   "totalResults" : 70,
+   "status" : "ok",
    "articles" : [
       {
-         "author" : "Matt Egan, CNN Business",
-         "url" : "https://www.cnn.com/2020/09/23/business/covid-test-drone-delivery-walmart/index.html",
-         "content" : "New York (CNN Business)If you need to get a Covid-19 test, but don't want to go near people, Walmart's got you covered. At least if you live near its North Las Vegas store.\r\nWalmart launched a pilot … [+3564 chars]",
-         "publishedAt" : "2020-09-23T18:01:00Z",
-         "description" : "If you need to get a Covid-19 test, but don't want to go near people, Walmart's got you covered. At least if you live near its North Las Vegas store.",
-         "source" : {
-            "id" : "cnn",
-            "name" : "CNN"
-         },
-         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200923093607-03-walmart-drones-covid-19-tests-home-delivery-vegas---screenshot-super-tease.jpg",
-         "title" : "Walmart is using drones to deliver Covid-19 tests - CNN"
-      },
-      {
-         "publishedAt" : "2020-09-23T17:46:00Z",
+         "urlToImage" : "https://static01.nyt.com/images/2020/09/23/world/23markets-brf-markets/merlin_176483046_79b6be00-2289-4003-a55e-0921d320a990-facebookJumbo.jpg",
+         "content" : "LiveUpdated Sept. 23, 2020, 4:39 p.m. ET\r\nSept. 23, 2020, 4:39 p.m. ET\r\nHeres what you need to know:\r\n<ul><li>Wall Streets sell-off resumed on Wednesday as a drop in the shares of large technology co… [+16775 chars]",
+         "url" : "https://www.nytimes.com/live/2020/09/23/business/stock-market-today-coronavirus",
+         "publishedAt" : "2020-09-23T19:48:08Z",
+         "author" : "Matt Phillips",
+         "description" : "",
+         "title" : "Stocks Tumble With Tech Leading Retreat - The New York Times",
          "source" : {
             "id" : null,
-            "name" : "Electrek"
-         },
-         "description" : "Tesla is now officially getting into the mining business with a lithium claim on 10,000 acres in Nevada. At the Battery Day event yesterday, as part of its entire new battery supply strategy, Tesla announced that it is developing its own lithium processing me…",
-         "title" : "Tesla is getting into the mining business, buys lithium claim on 10,000 acres in Nevada - Electrek.co",
-         "urlToImage" : "https://electrek.co/wp-content/uploads/sites/3/2020/09/Tesla-mining.jpg?quality=82&strip=all",
-         "author" : null,
-         "url" : "https://electrek.co/2020/09/23/tesla-mining-business-buys-lithium-claim-acres-nevada/",
-         "content" : "Tesla is now officially getting into the mining business with a lithium claim on 10,000 acres in Nevada.\r\nAt the Battery Day event yesterday, as part of its entire new battery supply strategy, Tesla … [+1899 chars]"
-      },
-      {
-         "publishedAt" : "2020-09-23T17:17:40Z",
-         "description" : "\"Now is not the right time to outline long-term plans,\" the Treasury says.",
-         "source" : {
-            "name" : "BBC News",
-            "id" : null
-         },
-         "title" : "Coronavirus: Autumn Budget to be scrapped this year - BBC News",
-         "urlToImage" : "https://ichef.bbci.co.uk/news/1024/branded_news/D6CB/production/_114578945_papictiure.jpg",
-         "author" : "https://www.facebook.com/bbcnews",
-         "url" : "https://www.bbc.com/news/business-54267795",
-         "content" : "Image copyrightPA Media\r\nThe Treasury has scrapped plans for an Autumn Budget this year because of the coronavirus pandemic.\r\n\"As we heard this week, now is not the right time to outline long-term pl… [+2017 chars]"
-      },
-      {
-         "url" : "https://www.cnbc.com/2020/09/23/goodrx-gdrx-ipo.html",
-         "author" : "Jessica Bursztynsky",
-         "content" : "Shares of GoodRx, a company that finds users prescription drugs at a discount, jumped 40% in its public debut Wednesday on the Nasdaq. \r\nThe stock began trading at $46 per share, up from its IPO pric… [+1474 chars]",
-         "publishedAt" : "2020-09-23T16:36:00Z",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/105923346-1558380735380p5150745.jpg?v=1558380747",
-         "title" : "GoodRx jumps 40% in market debut - CNBC",
-         "description" : "The company has been consistently profitable since 2016.",
-         "source" : {
-            "id" : null,
-            "name" : "CNBC"
+            "name" : "New York Times"
          }
       },
       {
-         "source" : {
-            "id" : null,
-            "name" : "MarketWatch"
-         },
-         "description" : "CEO Charles Scharf has apologized for ‘my own unconscious bias’",
-         "urlToImage" : "https://s.marketwatch.com/public/resources/images/MW-IP134_Alexan_ZG_20200923110617.jpg",
-         "title" : "AOC calls out Wells Fargo CEO for ‘limited pool of Black talent’ comments - MarketWatch",
-         "publishedAt" : "2020-09-23T16:34:00Z",
-         "content" : "The largest U.S. bank employer has been under fire this week after its CEO made excuses for struggling to diversify its workforce. Wells Fargo chief executive Charles Scharf recently exasperated Blac… [+3946 chars]",
-         "author" : "Nicole Lyn Pesce",
-         "url" : "https://www.marketwatch.com/story/aoc-calls-out-wells-fargo-ceo-for-limited-pool-of-black-talent-comments-2020-09-23"
-      },
-      {
-         "urlToImage" : "https://cdn.arstechnica.net/wp-content/uploads/2020/09/tesla-battery-assembly-760x380.jpg",
-         "title" : "How Tesla plans to make batteries cheap enough for a $25,000 car - Ars Technica",
-         "description" : "Tesla’s big “battery day” event, explained.",
-         "source" : {
-            "name" : "Ars Technica",
-            "id" : "ars-technica"
-         },
-         "publishedAt" : "2020-09-23T16:20:00Z",
-         "content" : "168 with 83 posters participating, including story author\r\nTesla's business model depends on continuous improvements in the cost and energy density of batteries. When Tesla was founded in 2003, it wa… [+6677 chars]",
-         "url" : "https://arstechnica.com/cars/2020/09/how-tesla-plans-to-make-batteries-cheap-enough-for-a-25000-car/",
-         "author" : "Timothy B. Lee"
-      },
-      {
-         "author" : "Al Jazeera",
-         "url" : "https://www.aljazeera.com/economy/2020/9/23/uncle-bens-rice-gets-rebrand-after-racial-stereotyping-criticism",
-         "content" : "Uncle Bens rice is getting a new name and new branding after it came under heavy criticism for promoting racial stereotypes.\r\nThe line of rice products will now be called Bens Original and the logo o… [+3689 chars]",
-         "publishedAt" : "2020-09-23T16:19:03Z",
-         "description" : "Seventy-year-old brand is the latest company to drop a logo long-accused of promoting racial stereotypes.",
-         "source" : {
-            "id" : "al-jazeera-english",
-            "name" : "Al Jazeera English"
-         },
-         "urlToImage" : "https://www.aljazeera.com/wp-content/uploads/2020/09/2020-06-17T000000Z_817450861_RC23BH9M4E3Z_RTRMADP_3_PEPSICO-RACE-AUNT-JEMIMA.jpg?resize=1200%2C630",
-         "title" : "Uncle Ben’s rice gets rebrand after racial stereotyping criticism - Aljazeera.com"
-      },
-      {
-         "content" : "Sizzler USA has filed for bankruptcy as a result of the COVID-19 pandemic and related restrictions. Here, drivers pass a closed Sizzler restaurant in Montebello, Calif.\r\nFrederic J. Brown/AFP via Get… [+2229 chars]",
-         "author" : "Bill Chappell",
-         "url" : "https://www.npr.org/sections/coronavirus-live-updates/2020/09/23/916005485/pandemic-fizzle-sizzler-steakhouse-chain-files-for-bankruptcy-protection",
-         "source" : {
-            "id" : null,
-            "name" : "NPR"
-         },
-         "description" : "The restaurant chain, which first opened 62 years ago, says it wants to keep all of its locations open. There are more than 100 Sizzler restaurants in the U.S.",
-         "urlToImage" : "https://media.npr.org/assets/img/2020/09/23/sizzler-restaurant-chapter11_wide-3482399f0fbbe05ed8ac0af283cca6d5c58f70fa.jpg?s=1400",
-         "title" : "Sizzler Steakhouse Chain Files For Chapter 11 Bankruptcy Protection : Coronavirus Live Updates - NPR",
-         "publishedAt" : "2020-09-23T15:25:53Z"
-      },
-      {
-         "author" : "Bengt Halvorson",
-         "url" : "https://www.greencarreports.com/news/1129702_2021-vw-id-4-250-mile-electric-suv-starts-at-41490",
-         "content" : "Volkswagen has been teasing its mass-market electric vehicles as being for the millions, not millionaires. And as its shaping up, the VW ID.4 appears to land right where we might expectin an affordab… [+5394 chars]",
-         "publishedAt" : "2020-09-23T15:15:00Z",
-         "description" : "Volkswagen disclosed pricing, specs, and preliminary range for its ID.4 electric SUV that arrives in 1st Edition guise for about $46k.",
-         "source" : {
-            "id" : null,
-            "name" : "Green Car Reports"
-         },
-         "urlToImage" : "https://images.hgmsites.net/hug/volkswagen_100762482_h.jpg",
-         "title" : "2021 VW ID.4 revealed: 250-mile electric SUV starts at $41,490 - Green Car Reports"
-      },
-      {
-         "content" : "By Reuters Staff\r\nFILE PHOTO: U.S. Nikola's logo is pictured at an event held to present CNH's new full-electric and Hydrogen fuel-cell battery trucks in partnership with U.S. Nikola event in Turin, … [+1106 chars]",
-         "author" : "Reuters Staff",
-         "url" : "https://in.reuters.com/article/us-nikola-hindenburg-idUSKCN26E2KN",
-         "source" : {
-            "name" : "Reuters",
-            "id" : "reuters"
-         },
-         "description" : "Nikola Corp's <NKLA.O> talks with energy firms including BP PLC <BP.L> to build hydrogen-refueling stations have been stalled following a short-seller's allegations that the electric automaker misled investors, the Wall Street Journal reported.",
-         "urlToImage" : "https://static.reuters.com/resources/r/?m=02&d=20200923&t=2&i=1534621404&r=LYNXNPEG8M1JL&w=800",
-         "title" : "Nikola's talks with energy firms stalled after short-seller report - WSJ - Reuters",
-         "publishedAt" : "2020-09-23T15:06:00Z"
-      },
-      {
-         "title" : "Gold price flushes below $1,900 - Fox Business",
-         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/08/0/0/gold-bars-iStock.jpg?ve=1&tl=1",
-         "description" : "Gold prices on Wednesday fell below $1,900 an ounce for the first time in nearly two months amid continued strength in the U.S. dollar.",
-         "source" : {
-            "id" : null,
-            "name" : "Fox Business"
-         },
-         "publishedAt" : "2020-09-23T15:02:42Z",
-         "content" : "Gold prices on Wednesday fell below $1,900 an ounce for the first time in nearly two months amid continued strength in the U.S. dollar.\r\nThe precious metal traded down $39.50 at $1,868.10 per ounce. … [+1751 chars]",
-         "url" : "https://www.foxbusiness.com/markets/gold-price-flushes-below-1900",
-         "author" : "Jonathan Garber"
-      },
-      {
-         "content" : "Southwest Airlines CEO Gary Kelly on Wednesday said he is optimistic that Congress can pass a national coronavirus relief package that includes airline aid despite a monthslong impasse between lawmak… [+1393 chars]",
-         "url" : "https://www.cnbc.com/2020/09/23/southwest-airlines-ceo-hopeful-on-more-government-aid-but-hesitant-to-cut-capacity.html",
-         "author" : "Leslie Josephs",
-         "title" : "Southwest Airlines CEO 'hopeful' on more government aid but hesitant to cut capacity without it - CNBC",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/104153182-1600875028367-gary.jpg?v=1600875045",
-         "description" : "Southwest Airlines CEO Gary Kelly says he's 'hopeful' the government will provide the industry with billions more in aid but says there are limits to cutting capacity without it.",
-         "source" : {
-            "id" : null,
-            "name" : "CNBC"
-         },
-         "publishedAt" : "2020-09-23T15:02:00Z"
-      },
-      {
-         "publishedAt" : "2020-09-23T14:55:03Z",
-         "urlToImage" : "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/Reeses_Big_Cups_with_Pretzels.jpg",
-         "title" : "Reese's to sell 'salty' peanut butter cups with pretzels: 'How we're all feeling in 2020' - Fox News",
-         "description" : "You are what you eat.",
-         "source" : {
-            "name" : "Fox News",
-            "id" : "fox-news"
-         },
-         "url" : "https://www.foxnews.com/food-drink/reeses-salty-peanut-butter-cups",
-         "author" : "Janine Puhak",
-         "content" : "You are what you eat, and Reese’s is celebrating feeling salty about 2020 with a new candy in its permanent lineup.\r\nThe Hershey Company unveiled Reese’s Big Cups with Pretzels on Tuesday in a pretze… [+2026 chars]"
-      },
-      {
-         "publishedAt" : "2020-09-23T14:40:00Z",
-         "title" : "Industry City Developers Back Out Of Sprawling Rezoning Deal, Blame \"Political Environment\" - Gothamist",
-         "urlToImage" : "https://cms.prod.nypr.digital/images/34247/fill-1200x650/",
-         "source" : {
-            "id" : null,
-            "name" : "Gothamist"
-         },
-         "description" : "The CEO of Industry City said it had become \"clear that the current political environment and a lack of leadership precludes a path forward for our rezoning proposal.\"",
-         "url" : "http://gothamist.com/news/industry-city-backs-out-sprawling-rezoning-deal-blames-political-environment",
-         "author" : "/staff/christopher-robbins",
-         "content" : "The developers behind an expansive rezoning planned for Sunset Park have decided to withdraw their proposal, blaming a hostile political environment and a \"lack of leadership.\"\r\nIndustry City's decis… [+4666 chars]"
-      },
-      {
-         "author" : "Michael Sheetz",
-         "url" : "https://www.cnbc.com/2020/09/23/jeff-bezos-blue-origin-hiring-orbital-habitat-developer.html",
-         "content" : "Blue Origin, founded by billionaire Jeff Bezos, is looking to hire an \"Orbital Habitat Formulation Lead,\" according to a job posting earlier this week.\r\nThe intended hiring represents the company's f… [+2168 chars]",
-         "publishedAt" : "2020-09-23T14:34:00Z",
-         "source" : {
-            "id" : null,
-            "name" : "CNBC"
-         },
-         "description" : "Blue Origin is looking to hire an \"Orbital Habitat Formulation Lead,\" according to a job posting earlier this week.",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/105833631-1554400164682gettyimages-520695236.jpeg?v=1572542487",
-         "title" : "Jeff Bezos' Blue Origin is looking to hire a developer of habitable space stations - CNBC"
-      },
-      {
-         "content" : null,
-         "url" : "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9SzBVLTlIV2hCeWfSAQA?oc=5",
-         "author" : null,
-         "urlToImage" : null,
-         "title" : "Gottlieb: There likely won't be an emergency authorization for vaccine before election - CNBC Television",
-         "source" : {
-            "name" : "Google News",
-            "id" : "google-news"
-         },
-         "description" : null,
-         "publishedAt" : "2020-09-23T14:11:00Z"
-      },
-      {
-         "content" : null,
-         "url" : "https://www.cnn.com/2020/09/23/business/amazon-prime-bike-echelon-fitness/index.html",
-         "author" : "Jordan Valinsky, CNN Business",
-         "title" : "Amazon says the $500 Peloton knock-off isn't from Amazon after all - CNN",
-         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200922110707-echelon-amazon-prime-bike-super-tease.jpg",
+         "description" : "Citi plans to spend more than $1 billion to help close America's racial wealth gap.",
          "source" : {
             "name" : "CNN",
             "id" : "cnn"
          },
-         "description" : "Amazon is distancing itself from the $499 stationary bike that the manufacturer said was \"developed in collaboration with Amazon.\"",
-         "publishedAt" : "2020-09-23T14:09:00Z"
+         "title" : "Citi is spending $1.15 billion to help close America's racial wealth gap - CNN",
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200923120529-michael-corbat-citi-file-restricted-super-tease.jpg",
+         "content" : null,
+         "author" : "Chauncey Alcorn CNN Business",
+         "publishedAt" : "2020-09-23T19:32:00Z",
+         "url" : "https://www.cnn.com/2020/09/23/business/citi-racial-wealth-gap/index.html"
       },
       {
-         "author" : "Daniella Genovese",
-         "url" : "https://www.foxbusiness.com/economy/walmart-to-hire-20000-workers-for-holiday-rush",
-         "content" : "Walmart is bracing for an onslaught of online orders this holiday season and will hire more than 20,000 seasonal associates nationwide.\r\nThe retail giant said Wednesday the new hires will assist the … [+2114 chars]",
-         "publishedAt" : "2020-09-23T13:57:57Z",
+         "author" : "Justine Calma",
+         "publishedAt" : "2020-09-23T18:57:05Z",
+         "url" : "https://www.theverge.com/2020/9/23/21451642/tesla-ev-electric-vehicle-energy-grid-battery-day-elon-musk",
+         "content" : "Musk downplayed the role EVs can play in stabilizing the grid, but experts disagree\r\nTesla cars are located next to a new Tesla charging station of the latest generation on the Euref Campus Berlin. \r… [+6537 chars]",
+         "urlToImage" : "https://cdn.vox-cdn.com/thumbor/FYpyWPvfUlJSuZkK6SyhiajhlvM=/0x258:4018x2362/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/21904625/1228439133.jpg.jpg",
          "source" : {
-            "id" : null,
-            "name" : "Fox Business"
+            "name" : "The Verge",
+            "id" : "the-verge"
          },
-         "description" : "The new hires will assist the company's e-commerce fulfillment centers across the country \"prepare for an expected increase in online shopping.\"",
-         "title" : "Walmart to hire 20000 workers for holiday rush - Fox Business",
-         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/07/0/0/walmart-005.jpg?ve=1&tl=1"
+         "title" : "Tesla promises cars that connect to the grid, even if Elon Musk doesn’t really want them to - The Verge",
+         "description" : "Electric vehicles are a potentially powerful untapped source of energy that can stabilize the grid during power shortages. Tesla’s future EVs will have bi-directional charging in the future, the company announced during Battery Day."
       },
       {
-         "publishedAt" : "2020-09-23T13:49:00Z",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106012038-1562779366102rts2low7.jpg?v=1595274345",
-         "title" : "Watch live — Fed Chair Powell's second day of testimony on Capitol Hill - CNBC",
+         "urlToImage" : "https://s.wsj.net/public/resources/MWimages/MW-GP644_MicroS_ZG_20180906154215.jpg",
+         "content" : "Shares of SPI Energy on Wednesday were soaring an astonishing 3,100% on the session, following an announcement by the company that it was starting an electric-vehicle subsidiary. SPI Energy \r\n SPI, \r… [+1048 chars]",
+         "url" : "https://www.marketwatch.com/story/stock-of-spi-energy-skyrockets-3100-on-wednesday-as-it-announces-ev-venture-2020-09-23",
+         "publishedAt" : "2020-09-23T18:39:00Z",
+         "author" : "Mark DeCambre",
+         "description" : "",
+         "title" : "Stock of tiny SPI Energy skyrockets 3,100% on Wednesday as it announces EV venture - MarketWatch",
+         "source" : {
+            "name" : "MarketWatch",
+            "id" : null
+         }
+      },
+      {
+         "content" : "United Airlines is turning to a Google-powered interactive maps to help still-scarce travelers find destinations that fit the coronavirus era.\r\nThe map, which launched on United's website Wednesday, … [+1834 chars]",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/103506456-GettyImages-167200354.jpg?v=1600885547",
+         "author" : "Leslie Josephs",
+         "publishedAt" : "2020-09-23T18:34:00Z",
+         "url" : "https://www.cnbc.com/2020/09/23/united-adds-google-backed-maps-to-help-travelers-find-flights-for-coronavirus-era.html",
+         "description" : "United launched a Google-backed booking map that let's travelers filter out destinations by price and activity, such as hiking and culture.",
          "source" : {
             "id" : null,
             "name" : "CNBC"
          },
-         "description" : "Powell returns to Capitol Hill on Wednesday for a second day of testimony on the Fed's efforts to support U.S. business.",
-         "url" : "https://www.cnbc.com/2020/09/23/watch-live-fed-chair-powells-second-day-of-testimony-on-capitol-hill.html",
-         "author" : "Thomas Franck",
-         "content" : "[The stream is slated to start at 10:00 a.m. ET. Please refresh the page if you do not see a player above at that time.]\r\nFederal Reserve Chairman Jerome Powell is testifying Wednesday before the Hou… [+1812 chars]"
+         "title" : "United turns to interactive Google maps to help travelers unsure of where to go in coronavirus era - CNBC"
       },
       {
+         "content" : "In the investing game, its not only about what you buy; its about when you buy it. One of the most common pieces of advice thrown around the Street, buy low is touted as a tried-and-true tactic.Sure,… [+10639 chars]",
+         "urlToImage" : "https://s.yimg.com/uu/api/res/1.2/NN6sjahMb5dIOKTez3mu7Q--~B/aD02ODM7dz0xMDI0O3NtPTE7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/bloomberg_markets_842/8341b6fd6d15fbd507bed5c2b16dbfc6",
+         "publishedAt" : "2020-09-23T18:27:00Z",
+         "url" : "https://finance.yahoo.com/news/nikola-held-talks-bp-hydrogen-161634245.html",
+         "author" : "Ed Ludlow",
+         "description" : "(Bloomberg) -- Nikola Corp. was in advanced talks with BP Plc over a partnership to build hydrogen fuel stations shortly before a short-seller report raised ...",
+         "title" : "Nikola Held Talks with BP on Hydrogen Fuel Network - Yahoo Finance",
+         "source" : {
+            "id" : null,
+            "name" : "Yahoo Entertainment"
+         }
+      },
+      {
+         "source" : {
+            "id" : "techcrunch",
+            "name" : "TechCrunch"
+         },
+         "title" : "Tesla experienced an hour-long network outage early Wednesday - TechCrunch",
+         "description" : "Tesla owners were locked out of their vehicles and the accompanying app for about an hour Wednesday morning, thanks to an outage that affected the company’s entire network, according to several sources. The Tesla outage was caused by an internal break of thei…",
+         "author" : "Jonathan Shieber, Kirsten Korosec",
+         "publishedAt" : "2020-09-23T18:22:30Z",
+         "url" : "http://techcrunch.com/2020/09/23/tesla-experienced-an-hour-long-network-outage-early-wednesday/",
+         "urlToImage" : "https://techcrunch.com/wp-content/uploads/2020/09/Tesla-Shareholder-Meeting-6.jpg?w=712",
+         "content" : "Tesla owners were locked out of their vehicles and the accompanying app for about an hour Wednesday morning, thanks to an outage that affected the company’s entire network, according to several sourc… [+2608 chars]"
+      },
+      {
+         "description" : "Scharf says financial-services industry hasn’t done enough to improve diversity",
+         "source" : {
+            "id" : "the-wall-street-journal",
+            "name" : "The Wall Street Journal"
+         },
+         "title" : "Wells Fargo CEO Apologizes for Comment on Recruiting Black Employees - The Wall Street Journal",
+         "urlToImage" : "https://images.wsj.net/im-235674/social",
+         "content" : "Wells Fargo &amp; Co. Chief Executive Charlie Scharf apologized in a letter to employees for his remarks related to recruiting Black talent. \r\nIn a June 16 memo, Mr. Scharf said the banks regulatory … [+590 chars]",
+         "author" : "Dave Sebastian",
+         "publishedAt" : "2020-09-23T18:07:00Z",
+         "url" : "https://www.wsj.com/articles/wells-fargo-ceo-apologizes-for-comment-on-recruiting-black-employees-11600884439"
+      },
+      {
+         "url" : "https://www.cnn.com/2020/09/23/business/covid-test-drone-delivery-walmart/index.html",
+         "publishedAt" : "2020-09-23T18:01:00Z",
+         "author" : "Matt Egan, CNN Business",
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200923093607-03-walmart-drones-covid-19-tests-home-delivery-vegas---screenshot-super-tease.jpg",
+         "content" : "New York (CNN Business)If you need to get a Covid-19 test, but don't want to go near people, Walmart's got you covered. At least if you live near its North Las Vegas store.\r\nWalmart launched a pilot … [+3564 chars]",
+         "title" : "Walmart is using drones to deliver Covid-19 tests - CNN",
+         "source" : {
+            "name" : "CNN",
+            "id" : "cnn"
+         },
+         "description" : "If you need to get a Covid-19 test, but don't want to go near people, Walmart's got you covered. At least if you live near its North Las Vegas store."
+      },
+      {
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/103287782-GettyImages-144481716.jpg?v=1452187027",
+         "content" : "JPMorgan Chase is close to paying almost $1 billion to resolve government investigations into the alleged manipulation of metal and Treasuries markets, according to a person with knowledge of the mat… [+2082 chars]",
+         "publishedAt" : "2020-09-23T17:46:00Z",
+         "url" : "https://www.cnbc.com/2020/09/23/jpmorgan-to-pay-almost-1-billion-fine-to-resolve-us-investigation-into-trading-practices.html",
+         "author" : "Hugh Son",
+         "description" : "A penalty of that size would be a record for spoofing, which is when sophisticated traders flood markets with orders that they have no intention of actually executing.",
+         "title" : "JPMorgan to pay almost $1 billion fine to resolve US investigation into trading practices - CNBC",
+         "source" : {
+            "name" : "CNBC",
+            "id" : null
+         }
+      },
+      {
+         "author" : "Jazmin Goodwin, CNN Business",
+         "publishedAt" : "2020-09-23T17:30:00Z",
+         "url" : "https://www.cnn.com/2020/09/23/business/jeff-bezos-tuition-free-preschool-bezos-academy/index.html",
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200923122036-jeff-bezos-0913-file-restricted-super-tease.jpg",
          "content" : null,
-         "url" : "https://www.cnn.com/2020/09/23/tech/facebook-youtube-advertisers/index.html",
-         "author" : "Hanna Ziady, CNN Business",
-         "title" : "Facebook and YouTube accept hate speech audits to keep advertisers happy - CNN",
-         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200923053427-restricted-facebook-phone-0713-super-tease.jpg",
          "source" : {
             "id" : "cnn",
             "name" : "CNN"
          },
-         "description" : "Facebook, YouTube and Twitter have agreed to allow outsiders to audit how they handle harmful content such as hate speech following a boycott of their platforms by major advertisers.",
-         "publishedAt" : "2020-09-23T13:31:00Z"
+         "title" : "Jeff Bezos is opening a tuition-free preschool for underserved children - CNN",
+         "description" : "Jeff Bezos is opening the doors of his first preschool, the Bezos Academy."
+      },
+      {
+         "author" : "Shawn Langlois",
+         "publishedAt" : "2020-09-23T17:25:00Z",
+         "url" : "https://www.marketwatch.com/story/billionaire-jamie-dimon-go-ahead-and-raise-taxes-on-the-rich-but-do-it-the-right-way-11600881951",
+         "content" : "“\r\n Im not against having higher tax on the wealthy. But I think that you do that through their income as opposed to, you know, calculate wealth which becomes extremely complicated, legalistic, burea… [+1151 chars]",
+         "urlToImage" : "https://images.mktw.net/im-219471/social",
+         "source" : {
+            "name" : "MarketWatch",
+            "id" : null
+         },
+         "title" : "Billionaire banking boss Jamie Dimon: Go ahead and raise taxes on the wealthy, but do it the right way - MarketWatch",
+         "description" : ""
+      },
+      {
+         "description" : "\"Now is not the right time to outline long-term plans,\" the Treasury says.",
+         "title" : "Coronavirus: Autumn Budget to be scrapped this year - BBC News",
+         "source" : {
+            "name" : "BBC News",
+            "id" : null
+         },
+         "urlToImage" : "https://ichef.bbci.co.uk/news/1024/branded_news/D6CB/production/_114578945_papictiure.jpg",
+         "content" : "Image copyrightPA Media\r\nThe Treasury has scrapped plans for an Autumn Budget this year because of the coronavirus pandemic.\r\n\"As we heard this week, now is not the right time to outline long-term pl… [+2017 chars]",
+         "publishedAt" : "2020-09-23T17:17:40Z",
+         "url" : "https://www.bbc.com/news/business-54267795",
+         "author" : "https://www.facebook.com/bbcnews"
+      },
+      {
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200923114326-corsair-gaming-super-tease.jpg",
+         "content" : "New York (CNN Business)Corsair Gaming, a hardware and accessory company, went public Wednesday under the ticker symbol CRSR and is looking to raise $238 million. On launch, its shares were priced at … [+2824 chars]",
+         "author" : "Shannon Liao, CNN Business",
+         "publishedAt" : "2020-09-23T17:07:00Z",
+         "url" : "https://www.cnn.com/2020/09/23/tech/corsair-ipo-ceo-interview/index.html",
+         "description" : "Corsair Gaming, a hardware and accessory company, went public Wednesday under the ticker symbol CRSR and is looking to raise $238 million. On launch, its shares were priced at $15 and its shares were down about 4% in mid-afternoon trading.",
+         "source" : {
+            "id" : "cnn",
+            "name" : "CNN"
+         },
+         "title" : "Corsair sinks in IPO, but stay-at-home could be good for the do-it-yourself gaming company - CNN"
+      },
+      {
+         "urlToImage" : "https://assets-c3.propublica.org/images/articles/_1200x630_crop_center-center_82_none/20200923-covid-taskforce-1200x630.jpg?mtime=1600880509",
+         "content" : "ProPublica is a nonprofit newsroom that investigates abuses of power. Sign up to receive our biggest stories as soon as theyre published.\r\nThe former pharmaceutical executive tapped by President Dona… [+6999 chars]",
+         "url" : "https://www.propublica.org/article/trumps-vaccine-czar-refuses-to-give-up-stock-in-drug-company-involved-in-his-government-role",
+         "publishedAt" : "2020-09-23T17:04:00Z",
+         "author" : "Isaac Arnsdorf",
+         "description" : "The administration calls Moncef Slaoui, who leads its vaccine race, a “contractor” to sidestep rules against personally profiting from government positions. Slaoui owns $10 million in stock of a company working with his team to develop a vaccine.",
+         "title" : "Trump’s Vaccine Czar Refuses to Give Up Stock in Drug Company Involved in His Government Role - ProPublica",
+         "source" : {
+            "name" : "ProPublica",
+            "id" : null
+         }
+      },
+      {
+         "url" : "https://www.marketwatch.com/story/laird-superfoods-stock-opens-more-than-50-above-ipo-price-and-keeps-rising-2020-09-23",
+         "publishedAt" : "2020-09-23T16:50:00Z",
+         "author" : "Tomi Kilgore",
+         "content" : "Shares of Laird Superfood Inc. \r\n LSF, \r\n +85.45%\r\nenjoyed a super start to their public life, as the Oregon-based plant-based and functional foods company's stock opened 52.5% above its initial publ… [+598 chars]",
+         "urlToImage" : "https://s.wsj.net/public/resources/MWimages/MW-GP644_MicroS_ZG_20180906154215.jpg",
+         "title" : "Laird Superfood's stock opens more than 50% above IPO price, and keeps rising - MarketWatch",
+         "source" : {
+            "name" : "MarketWatch",
+            "id" : null
+         },
+         "description" : ""
+      },
+      {
+         "content" : null,
+         "urlToImage" : null,
+         "author" : null,
+         "publishedAt" : "2020-09-23T16:41:45Z",
+         "url" : "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9LVMzN0JxdHdJd0nSAQA?oc=5",
+         "description" : null,
+         "source" : {
+            "id" : "google-news",
+            "name" : "Google News"
+         },
+         "title" : "Tesla's battery announcement was 'underwhelming,' says early Tesla investor - CNBC Television"
+      },
+      {
+         "publishedAt" : "2020-09-23T16:36:00Z",
+         "url" : "https://www.cnbc.com/2020/09/23/goodrx-gdrx-ipo.html",
+         "author" : "Jessica Bursztynsky",
+         "content" : "Shares of GoodRx, a company that finds users prescription drugs at a discount, jumped 40% in its public debut Wednesday on the Nasdaq. \r\nThe stock began trading at $46 per share, up from its IPO pric… [+1474 chars]",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/105923346-1558380735380p5150745.jpg?v=1558380747",
+         "title" : "GoodRx jumps 40% in market debut - CNBC",
+         "source" : {
+            "id" : null,
+            "name" : "CNBC"
+         },
+         "description" : "The company has been consistently profitable since 2016."
+      },
+      {
+         "description" : "Wayfair's Way Day 2020 is a two-day sales event that kicks off on Sept. 23. Shop deals on outdoor furniture, area rugs, coffee tables, lighting and more.",
+         "source" : {
+            "id" : "nbc-news",
+            "name" : "NBC News"
+         },
+         "title" : "Wayfair is offering up to 80 percent off during Way Day 2020 - NBC News",
+         "content" : "Wayfair is hosting Way Day, a two-day sale from Sept. 23 to Sept. 24, and you can save big on living room furniture, home decor, dining room essentials and more. Perhaps its time to replace an old so… [+5397 chars]",
+         "urlToImage" : "https://media2.s-nbcnews.com/j/newscms/2020_39/3414254/wayfair-sale-kr-2x1-tease-200923_16302750254e7df5ad813ba46fda0794.nbcnews-fp-1200-630.jpg",
+         "author" : "Shari Uyehara",
+         "publishedAt" : "2020-09-23T16:26:00Z",
+         "url" : "https://www.nbcnews.com/shopping/deals-and-sales/wayfair-way-day-sale-n1240675"
+      },
+      {
+         "content" : "Uncle Bens rice is getting a new name and new branding after it came under heavy criticism for promoting racial stereotypes.\r\nThe line of rice products will now be called Bens Original and the logo o… [+3689 chars]",
+         "urlToImage" : "https://www.aljazeera.com/wp-content/uploads/2020/09/2020-06-17T000000Z_817450861_RC23BH9M4E3Z_RTRMADP_3_PEPSICO-RACE-AUNT-JEMIMA.jpg?resize=1200%2C630",
+         "author" : "Al Jazeera",
+         "publishedAt" : "2020-09-23T16:19:03Z",
+         "url" : "https://www.aljazeera.com/economy/2020/9/23/uncle-bens-rice-gets-rebrand-after-racial-stereotyping-criticism",
+         "description" : "Seventy-year-old brand is the latest company to drop a logo long-accused of promoting racial stereotypes.",
+         "source" : {
+            "name" : "Al Jazeera English",
+            "id" : "al-jazeera-english"
+         },
+         "title" : "Uncle Ben’s rice gets rebrand after racial stereotyping criticism - Aljazeera.com"
       }
-   ],
-   "status" : "ok",
-   "totalResults" : 70
+   ]
 }
