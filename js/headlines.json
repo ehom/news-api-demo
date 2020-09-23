@@ -1,266 +1,266 @@
 {
    "totalResults" : 70,
-   "status" : "ok",
    "articles" : [
       {
-         "title" : "Amazon says it has nothing to do with the Echelon 'Prime Bike' - Engadget",
-         "publishedAt" : "2020-09-23T09:35:33Z",
-         "url" : "https://www.engadget.com/amazon-echelon-prime-bike-shutdown-093532139.html",
-         "content" : "Amazon has moved to put clear distance between it and Echelon Fitness, a company that produces connected exercise equipment. Yesterday, the company announced that it was making the “Prime Bike,” a st… [+835 chars]",
-         "author" : "",
-         "description" : "Amazon has moved to put clear distance between it and Echelon Fitness, a company that produces connected exercise equipment. Yesterday, the company announced that it was making the “Prime Bike,” a stripped-down version of its Peloton-esque Connect Sport spin …",
+         "url" : "https://www.wsj.com/articles/global-stock-markets-dow-update-9-23-2020-11600853169",
+         "title" : "Tesla Stock Drops, Nike Surges: What to Watch When Markets Open Today - The Wall Street Journal",
+         "author" : "Joe Wallace",
+         "urlToImage" : "https://images.wsj.net/im-235446/social",
+         "content" : "U.S. stock futures ticked higher Wednesday as investors awaited economic data and a second day of congressional testimony by Federal Reserve Chairman Jerome Powell.\r\nFutures tied to the S&amp;P 500 e… [+154 chars]",
          "source" : {
-            "name" : "Engadget",
-            "id" : "engadget"
+            "id" : "the-wall-street-journal",
+            "name" : "The Wall Street Journal"
          },
-         "urlToImage" : "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-09%2F670a3410-fd7e-11ea-bbb7-fc3f622e67d4&client=amp-blogside-v2&signature=9c1d60577fb98e22bd79acb02ddebe397f1418d3"
+         "description" : "Surveys of purchasing managers expected to show that manufacturing and service activity kept expanding this month",
+         "publishedAt" : "2020-09-23T12:12:00Z"
       },
       {
-         "title" : "European stocks rise, with Nike rivals and automakers advancing - MarketWatch",
-         "content" : "European stocks rose on Wednesday, as investors brushed off a mixed batch of purchasing managers data and shares of sportswear makers and automakers rose.The Stoxx Europe 600 index \r\n SXXP, \r\n +1.36%… [+2121 chars]",
-         "url" : "https://www.marketwatch.com/story/european-stocks-rise-with-nike-rivals-and-automakers-advancing-11600849217",
-         "publishedAt" : "2020-09-23T08:20:00Z",
-         "author" : "BY, Barbara Kollmeyer",
-         "urlToImage" : "https://images.mktw.net/im-235435/social",
-         "description" : "Puma and Adidas gain after upbeat Nike results",
+         "publishedAt" : "2020-09-23T11:36:00Z",
+         "description" : "Here's what Wall Street is saying about Nike's blowout quarter.",
          "source" : {
-            "name" : "MarketWatch",
-            "id" : null
-         }
-      },
-      {
-         "title" : "Uncle Ben's has a new name: Ben's Original - CNN",
-         "author" : "Alicia Wallace, CNN Business",
-         "publishedAt" : "2020-09-23T08:15:00Z",
-         "url" : "https://www.cnn.com/2020/09/23/business/uncle-bens-rice-rebrand-bens-original/index.html",
-         "content" : null,
-         "source" : {
-            "name" : "CNN",
-            "id" : "cnn"
+            "id" : null,
+            "name" : "Yahoo Entertainment"
          },
-         "description" : "Mars will change the name of its Uncle Ben's rice products to Ben's Original and drop the logo depicting a Chicago head waiter as part of the company's previously announced plans to create a more inclusive brand.",
-         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200922193513-bens-original-rice-rebrand-super-tease.jpg"
-      },
-      {
-         "author" : "Silvia Amaro",
-         "url" : "https://www.cnbc.com/2020/09/23/euro-zone-recovery-stutters-as-the-service-industry-suffers.html",
-         "publishedAt" : "2020-09-23T08:07:00Z",
-         "content" : "Euro zone business activity has taken a hit in the month of September as countries face a second wave of coronavirus infections, initial data showed Wednesday.\r\nThe flash euro zone PMI (purchasing ma… [+2102 chars]",
-         "description" : "Euro zone businesses took a hit in September as countries grapple with a second wave of coronavirus infections, initial data showed Wednesday.",
-         "source" : {
-            "name" : "CNBC",
-            "id" : null
-         },
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106713576-1600846653568-gettyimages-1274813138-paris_covid_crisis_kr_005_20200922100926023.jpeg?v=1600846707",
-         "title" : "Euro zone recovery stutters in September as coronavirus infections rise - CNBC"
-      },
-      {
-         "url" : "https://www.foxbusiness.com/markets/stock-futures-trade-mostly-higher-adding-to-gains",
-         "content" : "U.S. equity futures are pointing to a higher open when the Wall Street session begins on Wednesday.\r\nDow futures are suggesting a rise of 0.7 percent.\r\nGET FOX BUSINESS ON THE GO BY CLICKING HERE\r\nOn… [+3296 chars]",
-         "publishedAt" : "2020-09-23T07:29:14Z",
-         "author" : "Ken Martin",
-         "source" : {
-            "name" : "Fox Business",
-            "id" : null
-         },
-         "description" : "Investors will get fresh reports on manufacturing and services",
-         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/07/0/0/stock-market-trader-AP-005.jpg?ve=1&tl=1",
-         "title" : "Stock futures trade higher adding to gains - Fox Business"
-      },
-      {
-         "url" : "https://finance.yahoo.com/news/tesla-battery-suppliers-feel-shock-064632983.html",
          "content" : "Is it time for the bears to break out the champagne glasses? Not so fast, says Goldman Sachs. Volatility has ruled the Street for the last few weeks, leading some to conclude that those with a more p… [+10753 chars]",
-         "author" : "Kurt Schussler",
-         "publishedAt" : "2020-09-23T06:46:00Z",
-         "description" : "(Bloomberg) -- Tesla Inc.’s Elon Musk cast a shadow of uncertainty over the sales prospects of his suppliers in Asia after unveiling a push to lower the cost...",
-         "source" : {
-            "name" : "Yahoo Entertainment",
-            "id" : null
-         },
-         "urlToImage" : "https://s.yimg.com/uu/api/res/1.2/Jmkj26.bs0whRNF6Vmn9pg--~B/aD02NzU7dz0xMjAwO3NtPTE7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/bloomberg_markets_842/f6a08ef5142fa73f6631b11bf138d410",
-         "title" : "Tesla’s Battery Suppliers Feel Shock From Musk’s Cost-Cut Push - Yahoo Finance"
+         "urlToImage" : "https://s.yimg.com/ny/api/res/1.2/yTCCT_Y5QznYT_gU.SkHeg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyODA7aD05NjA-/https://s.yimg.com/uu/api/res/1.2/bAAeMUicKfhvclyujhXf1w--~B/aD0zMDI0O3c9NDAzMjtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2020-09/fb536a40-fd8f-11ea-bb36-6337c9877db5",
+         "url" : "https://finance.yahoo.com/news/nike-is-crushing-all-competitors-and-wall-street-is-obsessed-again-with-the-stock-113639656.html",
+         "author" : "Brian Sozzi",
+         "title" : "Nike is crushing competitors and Wall Street is obsessed again with the stock - Yahoo Finance"
       },
       {
-         "description" : "Oahu community members and businesses have a path forward on reopening during the pandemic, Honolulu Mayor Kirk Caldwell said it will be based on the daily number of COVID-19 cases and the percentage of positive tests.",
+         "description" : "United Shore Financial Services announced that it plans to merge with a \"blank-check company\" and go public on Nasdaq under a different name.",
+         "content" : "Exterior of United Shore's new headquarters in Pontiac, Mich.\r\n (Photo: Cameron Pollack, Detroit Free Press)\r\nPontiac-based mortgage company United Shore Financial Services is planning to go public o… [+5161 chars]",
          "source" : {
-            "name" : "KHON2",
+            "name" : "Detroit Free Press",
             "id" : null
          },
-         "urlToImage" : "https://www.khon2.com/wp-content/uploads/sites/8/2020/09/FOUR-TIER-SYSTEM.jpg?w=1280",
-         "author" : "Max Rodriguez",
-         "publishedAt" : "2020-09-23T05:39:00Z",
-         "content" : "HONOLULU (KHON2) — Oahu community members and businesses have a path forward on reopening during the pandemic, Honolulu Mayor Kirk Caldwell said it will be based on the daily number of COVID-19 cases… [+2913 chars]",
-         "url" : "https://www.khon2.com/coronavirus/daily-covid-19-cases-and-positivity-rate-to-determine-reopening-phases-for-honolulu/",
-         "title" : "Daily COVID-19 cases and positivity rate to determine reopening phases for Honolulu - KHON2"
+         "title" : "Report: Pontiac-based United Shore to merge, go public on Nasdaq - Detroit Free Press",
+         "url" : "https://www.freep.com/story/money/business/michigan/2020/09/23/wsj-united-shore-merge-go-public-tom-gores/3500768001/",
+         "author" : "JC Reindl",
+         "urlToImage" : "https://www.gannett-cdn.com/presto/2020/04/09/PDTF/ee2d5a2d-04ef-45ea-ade9-1fed0bda6eab-Shore_HDQ_062018_CBP25.jpg?crop=2399,1350,x0,y210&width=1600&height=800&fit=bounds",
+         "publishedAt" : "2020-09-23T11:01:11Z"
       },
       {
-         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/01/0/0/CHINESE_FLAG_HUAWEI_1280-720.png?ve=1&tl=1",
-         "source" : {
-            "name" : "Fox Business",
-            "id" : null
-         },
-         "description" : "The U.S. last month further tightened restrictions to choke Huawei's access to commercially available chips",
-         "url" : "https://www.foxbusiness.com/markets/huaweis-supply-chain-has-been-attacked-says-chairman",
-         "publishedAt" : "2020-09-23T04:05:43Z",
-         "content" : "Huawei Technologies will do everything it can to strengthen its supply chain which has been \"attacked\", its rotating Chairman Guo Ping said on Wednesday.\r\nGuo was speaking at the Chinese smartphone a… [+2134 chars]",
-         "author" : "Reuters",
-         "title" : "Huawei's supply chain has been 'attacked', says chairman - Fox Business"
-      },
-      {
-         "author" : "Melissa Repko",
-         "url" : "https://www.cnbc.com/2020/09/23/walmart-to-hire-20000-employees-to-help-with-online-holiday-shopping.html",
-         "content" : "Walmart said it will hire 20,000 seasonal employees who will help pack and ship online purchases at its fulfillment centers as it anticipates more holiday shopping to shift online during the coronavi… [+4241 chars]",
-         "publishedAt" : "2020-09-23T04:01:00Z",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/104166951-RTX2QKP4.jpg?v=1579177743",
+         "description" : "J&J is the fourth drugmaker backed by the Trump's administration's Covid-19 vaccine program Operation Warp Speed to enter late-stage testing.",
+         "content" : "Johnson &amp; Johnson said Wednesday it has begun its phase three trial testing its potential coronavirus vaccine.\r\nJ&amp;J is the fourth drugmaker backed by the Trump administration's Covid-19 vacci… [+4081 chars]",
          "source" : {
             "id" : null,
             "name" : "CNBC"
          },
-         "description" : "The big-box retailer joined other retailers in saying it will extend the length of Black Friday specials.",
-         "title" : "Walmart looks to hire 20,000 workers to help pack and ship holiday orders this year - CNBC"
+         "url" : "https://www.cnbc.com/2020/09/23/coronavirus-vaccine-johnson-johnson-begins-late-stage-covid-19-trial-.html",
+         "title" : "Johnson & Johnson enters late-stage trial testing its coronavirus vaccine - CNBC",
+         "author" : "Berkeley Lovelace Jr.",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106619304-1594906748312gettyimages-1227380699.jpeg?v=1594907457",
+         "publishedAt" : "2020-09-23T10:45:00Z"
       },
       {
-         "urlToImage" : "https://techcrunch.com/wp-content/uploads/2018/05/gettyimages-868653848.jpg?w=600",
+         "description" : "",
+         "content" : "Shares of Tesla Inc. \r\n TSLA, \r\n -5.59%\r\ndropped 5.4% in premarket trading Wednesday, after the leading electric vehicle maker's much-anticipated Battery Day appeared to disappoint investors. Baird a… [+846 chars]",
          "source" : {
-            "name" : "TechCrunch",
-            "id" : "techcrunch"
+            "id" : null,
+            "name" : "MarketWatch"
          },
-         "description" : "The September 20 deadline for a purported TikTok sale has already passed, but the parties involved have yet to settle terms on the deal. ByteDance and TikTok’s bidders Oracle and Walmart presented conflicting messages on the future ownership of the app, confu…",
-         "author" : "Rita Liao",
-         "url" : "http://techcrunch.com/2020/09/22/china-says-it-wont-greenlight-tiktok-deal/",
-         "publishedAt" : "2020-09-23T03:54:00Z",
-         "content" : "The September 20 deadline for a purported TikTok sale has already passed, but the parties involved have yet to settle terms on the deal. ByteDance and TikTok’s bidders Oracle and Walmart presented co… [+2573 chars]",
-         "title" : "China says it won’t approve TikTok sale, calls it ‘extortion’ - TechCrunch"
+         "title" : "Tesla's stock drops, Baird analyst sees lack of catalysts with Battery Day in the rearview - MarketWatch",
+         "url" : "https://www.marketwatch.com/story/teslas-stock-drops-baird-analyst-sees-lack-of-catalysts-with-battery-day-in-the-rearview-2020-09-23",
+         "author" : "Tomi Kilgore",
+         "urlToImage" : "https://s.wsj.net/public/resources/MWimages/MW-GP644_MicroS_ZG_20180906154215.jpg",
+         "publishedAt" : "2020-09-23T10:30:00Z"
       },
       {
-         "title" : "FDA considering authorization rules that could push coronavirus vaccine past Election Day - CNN",
-         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200811105852-fda-super-tease.jpg",
+         "publishedAt" : "2020-09-23T10:03:00Z",
+         "description" : "Huawei is in survival mode, as continuous \"attacks\" from the United States threaten to choke off the Chinese tech company's access to key technology.",
+         "url" : "https://www.cnn.com/2020/09/23/tech/huawei-china-survival-us-hnk-intl/index.html",
+         "author" : "Sherisse Pham, CNN Business",
+         "title" : "Huawei says 'survival is the goal' as US crackdown hammers its business - CNN",
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200923021512-huawei-0904-restricted-super-tease.jpg",
+         "content" : null,
          "source" : {
             "name" : "CNN",
             "id" : "cnn"
-         },
-         "description" : "The US Food and Drug Administration is considering new rules for authorization for a Covid-19 vaccine, according to three sources familiar with the situation -- and calculations show these rules would push an authorization beyond Election Day.",
-         "author" : "Elizabeth Cohen, John Bonifield and Jeremy Diamond, CNN",
-         "publishedAt" : "2020-09-23T02:39:00Z",
-         "content" : "(CNN)The US Food and Drug Administration is considering new rules for authorization for a Covid-19 vaccine, according to three sources familiar with the situation -- and calculations show these rules… [+4093 chars]",
-         "url" : "https://www.cnn.com/2020/09/22/health/coronavirus-vaccine-fda-authorization-rules/index.html"
+         }
       },
       {
-         "title" : "United Wholesale Mortgage to Go Public Via Merger With Gores SPAC - The Wall Street Journal",
+         "urlToImage" : "https://g.foolcdn.com/editorial/images/592305/shadow-of-dollar-sign-on-cannabis-pile.jpg",
+         "author" : "Keith Speights",
+         "url" : "https://www.fool.com/investing/2020/09/23/the-scariest-number-in-aurora-cannabis-q4-results/",
+         "title" : "The Scariest Number in Aurora Cannabis' Q4 Results - Motley Fool",
          "source" : {
-            "name" : "The Wall Street Journal",
-            "id" : "the-wall-street-journal"
+            "id" : null,
+            "name" : "Motley Fool"
          },
-         "description" : "Deal will take the lender public at valuation above $16 billion",
-         "urlToImage" : "https://images.wsj.net/im-235322/social",
-         "publishedAt" : "2020-09-23T02:30:00Z",
-         "author" : "Maureen Farrell",
-         "url" : "https://www.wsj.com/articles/united-wholesale-mortgage-to-go-public-via-merger-with-gores-spac-11600828200",
-         "content" : "The biggest wholesale mortgage originator in the U.S. is merging with a special-purpose acquisition company in a deal that will take the lender public at a valuation north of $16 billion, the record … [+326 chars]"
+         "content" : "Some investors apparently thought that Aurora Cannabis(NYSE:ACB) would report some good news in its results for the fourth quarter of fiscal 2020 ended June 30, 2020. Shares of the Canadian cannabis … [+3796 chars]",
+         "description" : "It doesn't bode well for the Canadian cannabis producer's hopes of turning things around.",
+         "publishedAt" : "2020-09-23T10:01:00Z"
       },
       {
-         "title" : "Microsoft and AT&T Try to Make the Internet of Things Easier - Motley Fool",
-         "author" : "Nicholas Rossolillo",
-         "url" : "https://www.fool.com/investing/2020/09/22/microsoft-and-att-try-to-make-the-internet-of-thin/",
-         "publishedAt" : "2020-09-23T01:51:00Z",
-         "content" : "The Internet of Things (IoT), that catch-all phrase describing the tens of billions of new devices that hook up to the internet, is still a work in progress. Microsoft (NASDAQ:MSFT) and AT&amp;T (NYS… [+2129 chars]",
-         "urlToImage" : "https://g.foolcdn.com/editorial/images/592617/5g.jpg",
+         "publishedAt" : "2020-09-23T10:00:00Z",
+         "description" : "Facebook agreed to pay out $52 million to moderators suffering from PTSD and other conditions — and now YouTube is being asked to do the same",
+         "url" : "https://www.theverge.com/interface/2020/9/23/21450904/youtube-content-moderator-lawsuit-machine-learning-tradeoffs",
+         "title" : "A new lawsuit may force YouTube to own up to the mental health consequences of content moderation - The Verge",
+         "author" : "Casey Newton",
+         "urlToImage" : "https://cdn.vox-cdn.com/thumbor/LNtr7T08eSZ-Lq-js6X2tYhJQXE=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/10581347/acastro_180321_1777_youtube_0002.jpg",
+         "content" : "Facebook agreed to pay out $52 million to moderators suffering from PTSD and other conditions and now YouTube is being asked to do the same \r\nIllustration by Alex Castro / The Verge\r\nThis story is pa… [+15479 chars]",
+         "source" : {
+            "name" : "The Verge",
+            "id" : "the-verge"
+         }
+      },
+      {
+         "publishedAt" : "2020-09-23T09:51:00Z",
+         "urlToImage" : "https://g.foolcdn.com/editorial/images/592318/hourglass-coins-cash-bills-money-invest-rich-retirement-compound-getty.jpg",
+         "title" : "Got $10,000? Here Are 4 Stocks to Double Your Money - Motley Fool",
+         "url" : "https://www.fool.com/investing/2020/09/23/got-10000-here-are-4-stocks-to-double-your-money/",
+         "author" : "Sean Williams",
          "source" : {
             "name" : "Motley Fool",
             "id" : null
          },
-         "description" : "A continuation of the two companies' partnership aims to make connecting devices a cinch."
+         "content" : "Given how volatile the stock market has been in 2020, you might assume that investing is pretty complicated. After all, we witnessed the S&amp;P 500 lose a third of its value in less than five weeks,… [+6025 chars]",
+         "description" : "Building wealth is easy when you own innovative businesses."
       },
       {
-         "title" : "TSA starts 'Prohibited Items Week' to minimize checkpoint snafus - Fox News",
-         "author" : "Cortney Moore",
-         "url" : "https://www.foxnews.com/travel/tsa-prohibited-items-week-minimize-checkpoint-snafus",
+         "description" : "Amazon has moved to put clear distance between it and Echelon Fitness, a company that produces connected exercise equipment. Yesterday, the company announced that it was making the “Prime Bike,” a stripped-down version of its Peloton-esque Connect Sport spin …",
+         "urlToImage" : "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-09%2F670a3410-fd7e-11ea-bbb7-fc3f622e67d4&client=amp-blogside-v2&signature=9c1d60577fb98e22bd79acb02ddebe397f1418d3",
+         "title" : "Amazon says it has nothing to do with the Echelon 'Prime Bike' - Engadget",
+         "url" : "https://www.engadget.com/amazon-echelon-prime-bike-shutdown-093532139.html",
+         "author" : "",
+         "source" : {
+            "id" : "engadget",
+            "name" : "Engadget"
+         },
+         "content" : "Amazon has moved to put clear distance between it and Echelon Fitness, a company that produces connected exercise equipment. Yesterday, the company announced that it was making the “Prime Bike,” a st… [+835 chars]",
+         "publishedAt" : "2020-09-23T09:35:33Z"
+      },
+      {
+         "publishedAt" : "2020-09-23T09:30:00Z",
+         "source" : {
+            "id" : "the-wall-street-journal",
+            "name" : "The Wall Street Journal"
+         },
+         "content" : "CEOs and other executives say theyve seen enough to judge whether remote work is working. But the verdict depends on whom you ask.\r\nHeres what some leaders are saying about working from home and the … [+140 chars]",
+         "urlToImage" : "https://images.wsj.net/im-233758/social",
+         "title" : "What CEOs Really Think About Remote Work - The Wall Street Journal",
+         "url" : "https://www.wsj.com/articles/what-ceos-really-think-about-remote-work-11600853405",
+         "author" : "Chip Cutter",
+         "description" : "Top executives at Netflix, BlackRock and other companies weigh in on at-home arrangements, office reopenings and the future of work"
+      },
+      {
+         "publishedAt" : "2020-09-23T09:01:03Z",
+         "title" : "Asian battery makers zapped by Tesla’s plans to slash costs - Aljazeera.com",
+         "url" : "https://www.aljazeera.com/economy/2020/9/23/bb-asian-battery-makers-zapped-by-teslas-plans-to-slash-costs",
+         "author" : "Al Jazeera",
+         "urlToImage" : "https://www.aljazeera.com/wp-content/uploads/2020/07/f90b44a219ed4ce6a7a48e033a47d138_18.jpeg?fit=400%2C223",
+         "content" : "Tesla Inc.s Elon Musk cast a shadow of uncertainty over the sales prospects of his suppliers in Asia after unveiling a push to lower the cost of batteries for electric vehicles and underscoring the p… [+2110 chars]",
+         "source" : {
+            "name" : "Al Jazeera English",
+            "id" : "al-jazeera-english"
+         },
+         "description" : "Tesla CEO Elon Musk says company is planning on launching a $25,000 car – its cheapest yet – in about three years."
+      },
+      {
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200922193513-bens-original-rice-rebrand-super-tease.jpg",
+         "url" : "https://www.cnn.com/2020/09/23/business/uncle-bens-rice-rebrand-bens-original/index.html",
+         "title" : "Uncle Ben's has a new name: Ben's Original - CNN",
+         "author" : "Alicia Wallace, CNN Business",
+         "source" : {
+            "id" : "cnn",
+            "name" : "CNN"
+         },
+         "content" : null,
+         "description" : "Mars will change the name of its Uncle Ben's rice products to Ben's Original and drop the logo depicting a Chicago head waiter as part of the company's previously announced plans to create a more inclusive brand.",
+         "publishedAt" : "2020-09-23T08:15:00Z"
+      },
+      {
+         "publishedAt" : "2020-09-23T08:07:00Z",
+         "description" : "Euro zone businesses took a hit in September as countries grapple with a second wave of coronavirus infections, initial data showed Wednesday.",
+         "content" : "Euro zone business activity has taken a hit in the month of September as countries face a second wave of coronavirus infections, initial data showed Wednesday.\r\nThe flash euro zone PMI (purchasing ma… [+2102 chars]",
+         "source" : {
+            "id" : null,
+            "name" : "CNBC"
+         },
+         "url" : "https://www.cnbc.com/2020/09/23/euro-zone-recovery-stutters-as-the-service-industry-suffers.html",
+         "author" : "Silvia Amaro",
+         "title" : "Euro zone recovery stutters in September as coronavirus infections rise - CNBC",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106713576-1600846653568-gettyimages-1274813138-paris_covid_crisis_kr_005_20200922100926023.jpeg?v=1600846707"
+      },
+      {
+         "description" : "Oahu community members and businesses have a path forward on reopening during the pandemic, Honolulu Mayor Kirk Caldwell said it will be based on the daily number of COVID-19 cases and the percentage of positive tests.",
+         "url" : "https://www.khon2.com/coronavirus/daily-covid-19-cases-and-positivity-rate-to-determine-reopening-phases-for-honolulu/",
+         "title" : "Daily COVID-19 cases and positivity rate to determine reopening phases for Honolulu - KHON2",
+         "author" : "Max Rodriguez",
+         "urlToImage" : "https://www.khon2.com/wp-content/uploads/sites/8/2020/09/FOUR-TIER-SYSTEM.jpg?w=1280",
+         "content" : "HONOLULU (KHON2) — Oahu community members and businesses have a path forward on reopening during the pandemic, Honolulu Mayor Kirk Caldwell said it will be based on the daily number of COVID-19 cases… [+2913 chars]",
+         "source" : {
+            "id" : null,
+            "name" : "KHON2"
+         },
+         "publishedAt" : "2020-09-23T05:39:00Z"
+      },
+      {
+         "publishedAt" : "2020-09-23T04:01:00Z",
+         "source" : {
+            "id" : null,
+            "name" : "CNBC"
+         },
+         "content" : "Walmart said it will hire 20,000 seasonal employees who will help pack and ship online purchases at its fulfillment centers as it anticipates more holiday shopping to shift online during the coronavi… [+4241 chars]",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/104166951-RTX2QKP4.jpg?v=1579177743",
+         "url" : "https://www.cnbc.com/2020/09/23/walmart-to-hire-20000-employees-to-help-with-online-holiday-shopping.html",
+         "author" : "Melissa Repko",
+         "title" : "Walmart looks to hire 20,000 workers to help pack and ship holiday orders this year - CNBC",
+         "description" : "The big-box retailer joined other retailers in saying it will extend the length of Black Friday specials."
+      },
+      {
+         "publishedAt" : "2020-09-23T02:59:00Z",
+         "description" : "With the government printing massive amounts of money, tensions between the US and China rising, Europe dealing with Brexit, the effects of the pandemic continuing to spread, and tensions with Iran rising, the fundamentals for gold still look fantastic.",
+         "content" : "Fundamental Perspective\r\nWith the government printing massive amounts of money, tensions between the US and China rising, Europe dealing with Brexit, the effects of the pandemic continuing to spread,… [+6189 chars]",
+         "source" : {
+            "id" : null,
+            "name" : "Seeking Alpha"
+         },
+         "url" : "https://seekingalpha.com/article/4375822-gold-adjusting-to-new-paradigm",
+         "author" : "Equity Management Academy",
+         "title" : "Gold: Adjusting To A New Paradigm - Seeking Alpha",
+         "urlToImage" : "https://static.seekingalpha.com/uploads/2020/9/18/48753845-16004619134989097_origin.png"
+      },
+      {
+         "urlToImage" : "https://fox59.com/wp-content/uploads/sites/21/2020/08/hogsett.jpg?w=1280",
+         "url" : "https://fox59.com/news/coronavirus/bars-nightclubs-sue-city-of-indianapolis-health-department-over-covid-19-restrictions/",
+         "title" : "Bars, nightclubs sue City of Indianapolis, health department over COVID-19 restrictions - Fox 59",
+         "author" : "FOX59 Web",
+         "source" : {
+            "id" : null,
+            "name" : "Fox 59"
+         },
+         "content" : "INDIANAPOLIS The owners of dozens of bars and nightclubs filed a lawsuit Tuesday against the City of Indianapolis, Mayor Joe Hogsett, the Marion County Public Health Department and Dr. Virginia Caine… [+2704 chars]",
+         "description" : "INDIANAPOLIS — The owners of dozens of bars and nightclubs filed a lawsuit Tuesday against the City of Indianapolis, Mayor Joe Hogsett, the Marion County Public Health Department and Dr. Virginia Caine for “stringent and inflexible business restrictions that …",
+         "publishedAt" : "2020-09-23T01:03:00Z"
+      },
+      {
+         "content" : "MARTINEZ (CBS SF) — More indoor businesses, including movie theaters, gyms and restaurant dining rooms, may be able to reopen in Contra Costa County as soon as next week, should COVID-19 case trends … [+2856 chars]",
+         "source" : {
+            "id" : null,
+            "name" : "Cbslocal.com"
+         },
+         "url" : "https://sanfrancisco.cbslocal.com/2020/09/22/contra-costa-county-could-move-to-covid-red-tier-next-week/",
+         "title" : "Contra Costa County Could Move To COVID Red Tier Next Week - CBS San Francisco",
+         "author" : "CBS San Francisco",
+         "urlToImage" : "https://sanfrancisco.cbslocal.com/wp-content/uploads/sites/15116056/2020/06/GettyImages-1250109694.jpg?w=1500",
+         "description" : "More indoor businesses, including movie theaters, gyms and restaurant dining rooms, may be able to reopen in Contra Costa County as soon as next week, should COVID-19 case trends continue, the county's health officer said Tuesday.",
+         "publishedAt" : "2020-09-23T01:00:00Z"
+      },
+      {
          "publishedAt" : "2020-09-23T00:34:32Z",
-         "content" : "The Transportation Security Administration (TSA) has kicked off an inaugural “Prohibited Items Week” to help travelers understand what they cannot fly with.\r\nThis new awareness week initiative began … [+2237 chars]",
          "description" : "The Transportation Security Administration has kicked off its inaugural “Prohibited Items Week” to help travelers figure out which possessions cannot go on a commercial aircraft.",
          "source" : {
-            "id" : "fox-news",
-            "name" : "Fox News"
+            "name" : "Fox News",
+            "id" : "fox-news"
          },
-         "urlToImage" : "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/iStock-182430075.jpg"
-      },
-      {
-         "title" : "Barr, AGs to meet on fragmenting case against Google - POLITICO",
-         "url" : "https://www.politico.com/news/2020/09/22/barr-ags-to-meet-on-case-against-google-doj-420283",
-         "content" : "The individuals, who asked for anonymity to candidly discuss the probes, said Barr and the states have made no final decisions on either suit. They said crucial debates also remain ongoing about what… [+3598 chars]",
-         "author" : "Leah Nylen",
-         "publishedAt" : "2020-09-23T00:23:00Z",
-         "urlToImage" : "https://static.politico.com/1c/dc/8e84e5ec4958b331994ec9a694a7/20200910-barr-gty-773.jpg",
-         "description" : "DOJ is preparing an expected antitrust suit targeting the company’s dominance in search, but Democratic-led states may decline to sign on.",
-         "source" : {
-            "id" : "politico",
-            "name" : "Politico"
-         }
-      },
-      {
-         "title" : "This Georgia city is best place to live in U.S., according to Money - Atlanta Journal Constitution",
-         "description" : "A second Georgia city ranks in the top 20 of Money’s 50 best places to live 2020",
-         "source" : {
-            "id" : null,
-            "name" : "Atlanta Journal Constitution"
-         },
-         "urlToImage" : "https://www.ajc.com/resizer/iAUV4eNMTH8HVjNaSCPjJsHjAjc=/1200x630/d1fegwn2wjh0cs.cloudfront.net/09-01-2020/t_2aacfb15034c4b2cbe80ef4ef5d1aa6d_name_d60e127c199c4c809e459cb75c8faabc_scaled.jpg",
-         "content" : "Rankings were derived from 115 types of data in the following categories:\r\nExplore3 Georgia cities among best places to retire, according to WalletHub\r\nWhen the results were tallied, Evans took the t… [+1620 chars]",
-         "url" : "https://www.ajc.com/life/this-georgia-city-is-best-place-to-live-in-us-according-to-money/QT4HWRFC6ZGQVGW5BRFXVJUDTY/",
-         "publishedAt" : "2020-09-23T00:21:48Z",
-         "author" : "Nancy Clanton"
-      },
-      {
-         "content" : "A Fortnite skull trooper mask might be fun for Halloween, but it won't take the place of a face mask. \r\nSpirit Halloween\r\nFor the most up-to-date news and information about the coronavirus pandemic, … [+1805 chars]",
-         "author" : "Gael Fashingbauer Cooper",
-         "publishedAt" : "2020-09-23T00:01:00Z",
-         "url" : "https://www.cnet.com/news/cdc-warns-that-a-halloween-mask-does-not-replace-a-face-mask/",
-         "urlToImage" : "https://cnet3.cbsistatic.com/img/fsY5dO8hMFkNj49IgwzxAZeHu1Q=/1200x630/2018/08/07/35bb7781-7486-43b6-aa52-d3c766b34e80/skull-trooper.jpg",
-         "source" : {
-            "id" : null,
-            "name" : "CNET"
-         },
-         "description" : "The spooky celebration is going to look a lot different this fall.",
-         "title" : "Halloween costume masks don't replace face masks, CDC warns - CNET"
-      },
-      {
-         "title" : "Nikola founder Trevor Milton deletes Twitter account amid fraud claims - New York Post ",
-         "author" : "Nicolas Vega",
-         "url" : "https://nypost.com/2020/09/22/nikola-founder-trevor-milton-deletes-twitter-account-amid-fraud-claims/",
-         "publishedAt" : "2020-09-22T23:59:00Z",
-         "content" : "Nikola founder Trevor Milton has not only walked away from his electric truck company, he’s abandoned his Twitter account as well.\r\nThe former chief executive of the Tesla challenger who stepped down… [+1571 chars]",
-         "urlToImage" : "https://nypost.com/wp-content/uploads/sites/2/2020/09/Trevor-Milton.png?w=1200",
-         "description" : "Nikola founder Trevor Milton has not only walked away from his electric truck company, he’s abandoned his Twitter account as well. The former chief executive of the Tesla challenger — who ste…",
-         "source" : {
-            "id" : null,
-            "name" : "New York Post"
-         }
-      },
-      {
-         "url" : "https://www.dailywire.com/news/american-airlines-kicks-mother-off-flight-after-her-2-year-old-wouldnt-wear-a-mask",
-         "publishedAt" : "2020-09-22T23:37:30Z",
-         "author" : "Tim Pearce",
-         "content" : "American Airlines booted a mother and her child from a flight last week because the 2-year-old would not wear a face mask.\r\nRachel Davis, the childs mother, shared an Instagram post on Thursday detai… [+7351 chars]",
-         "urlToImage" : "https://dw-wp-production.imgix.net/2020/09/American-Airlines.jpg?w=1200&h=800&ixlib=react-9.0.2",
-         "source" : {
-            "id" : null,
-            "name" : "The Daily Wire"
-         },
-         "description" : "American Airlines booted a mother and her child from a flight last week because the 2-year-old would not wear a face mask. Rachel Davis, the child’s mother, shared an Instagram post on Thursday detailing her ordeal on an American Airlines plane earlier that d…",
-         "title" : "American Airlines Kicks Mother Off Flight After Her 2-Year-Old Wouldn't Wear A Mask - The Daily Wire"
-      },
-      {
-         "content" : "Keep abreast of significant corporate, financial and political developments around the world.\r\nStay informed and spot emerging risks and opportunities with independent global reporting, expert\r\ncomme… [+32 chars]",
-         "url" : "https://www.ft.com/content/8df586a0-b2b2-45d1-95fd-e17151ce1ef5",
-         "publishedAt" : "2020-09-22T23:31:00Z",
-         "author" : "Sara Germano",
-         "urlToImage" : null,
-         "description" : "News, analysis and comment from the Financial Times, the worldʼs leading global business publication",
-         "source" : {
-            "id" : "financial-times",
-            "name" : "Financial Times"
-         },
-         "title" : "Online sales surge sends Nike shares to record high - Financial Times"
+         "content" : "The Transportation Security Administration (TSA) has kicked off an inaugural “Prohibited Items Week” to help travelers understand what they cannot fly with.\r\nThis new awareness week initiative began … [+2237 chars]",
+         "urlToImage" : "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/iStock-182430075.jpg",
+         "title" : "TSA starts 'Prohibited Items Week' to minimize checkpoint snafus - Fox News",
+         "url" : "https://www.foxnews.com/travel/tsa-prohibited-items-week-minimize-checkpoint-snafus",
+         "author" : "Cortney Moore"
       }
-   ]
+   ],
+   "status" : "ok"
 }
