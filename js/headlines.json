@@ -1,266 +1,266 @@
 {
-   "status" : "ok",
    "totalResults" : 70,
+   "status" : "ok",
    "articles" : [
       {
-         "source" : {
-            "name" : "Google News",
-            "id" : "google-news"
-         },
-         "description" : null,
          "url" : "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9SVRKVXVOZ3ppclXSAQA?oc=5",
-         "publishedAt" : "2020-09-23T14:01:54Z",
-         "urlToImage" : null,
+         "description" : null,
          "content" : null,
+         "author" : null,
+         "source" : {
+            "id" : "google-news",
+            "name" : "Google News"
+         },
          "title" : "WATCH LIVE: Fed Chair Powell testifies on monetary policy amid the coronavirus pandemic — 9/23/2020 - CNBC Television",
-         "author" : null
+         "publishedAt" : "2020-09-23T14:01:54Z",
+         "urlToImage" : null
       },
       {
+         "urlToImage" : "https://images.anandtech.com/doci/16102/atom-x6000e-front_678x452.jpg",
+         "title" : "Intel Launches 10nm Atom Embedded CPUs: Elkhart Lake Now Available - AnandTech",
          "source" : {
             "id" : null,
             "name" : "AnandTech"
          },
-         "description" : "The embedded and edge markets for Intel have always been hidden away within its IoT business, however at the Investor Meeting last year it...",
-         "url" : "https://www.anandtech.com/show/16102/intel-launches-10nm-atom-embedded-cpus-elkhart-lake-now-available",
-         "urlToImage" : "https://images.anandtech.com/doci/16102/atom-x6000e-front_678x452.jpg",
          "publishedAt" : "2020-09-23T14:00:00Z",
+         "content" : "The embedded and edge markets for Intel have always been hidden away within its IoT business, however at the Investor Meeting last year it was highlighted as one of Intel’s key growth areas. The requ… [+7939 chars]",
          "author" : "Dr. Ian Cutress",
-         "title" : "Intel Launches 10nm Atom Embedded CPUs: Elkhart Lake Now Available - AnandTech",
-         "content" : "The embedded and edge markets for Intel have always been hidden away within its IoT business, however at the Investor Meeting last year it was highlighted as one of Intel’s key growth areas. The requ… [+7939 chars]"
+         "url" : "https://www.anandtech.com/show/16102/intel-launches-10nm-atom-embedded-cpus-elkhart-lake-now-available",
+         "description" : "The embedded and edge markets for Intel have always been hidden away within its IoT business, however at the Investor Meeting last year it..."
       },
       {
-         "url" : "https://www.fool.com/investing/2020/09/23/why-aurora-cannabis-stock-is-sinking-today/",
-         "description" : "Aurora's dismal fourth-quarter earnings are weighing on its stock today.",
+         "urlToImage" : "https://g.foolcdn.com/editorial/images/592649/purple-mj.jpg",
          "source" : {
             "id" : null,
             "name" : "Motley Fool"
          },
-         "content" : "What happened\r\nShares of the Canadian pot company Aurora Cannabis(NYSE:ACB) are poised for a rough day. The company's shares dropped by as much as 18% in pre-market trading Wednesday morning in respo… [+1636 chars]",
          "title" : "Why Aurora Cannabis Stock Is Sinking Today - The Motley Fool",
-         "author" : "George Budwell",
          "publishedAt" : "2020-09-23T13:24:00Z",
-         "urlToImage" : "https://g.foolcdn.com/editorial/images/592649/purple-mj.jpg"
+         "content" : "What happened\r\nShares of the Canadian pot company Aurora Cannabis(NYSE:ACB) are poised for a rough day. The company's shares dropped by as much as 18% in pre-market trading Wednesday morning in respo… [+1636 chars]",
+         "author" : "George Budwell",
+         "url" : "https://www.fool.com/investing/2020/09/23/why-aurora-cannabis-stock-is-sinking-today/",
+         "description" : "Aurora's dismal fourth-quarter earnings are weighing on its stock today."
       },
       {
+         "description" : "Report by Nathan Anderson’s Hindenburg Research alleging improprieties sent electric-truck startup’s shares plunging",
+         "url" : "https://www.wsj.com/articles/how-nikola-stock-got-torched-by-a-short-seller-11600867055",
          "author" : "Gregory Zuckerman",
          "content" : "Nathan Anderson started publishing skeptical articles about companies in 2017. Within months, he was sued, ran out of money and couldnt pay his bills. Fielding eviction notices, Mr. Anderson says tha… [+141 chars]",
-         "title" : "How Nikola Stock Got Torched by a Short Seller - The Wall Street Journal",
          "publishedAt" : "2020-09-23T13:17:00Z",
-         "urlToImage" : "https://images.wsj.net/im-235376/social",
-         "url" : "https://www.wsj.com/articles/how-nikola-stock-got-torched-by-a-short-seller-11600867055",
          "source" : {
-            "id" : "the-wall-street-journal",
-            "name" : "The Wall Street Journal"
+            "name" : "The Wall Street Journal",
+            "id" : "the-wall-street-journal"
          },
-         "description" : "Report by Nathan Anderson’s Hindenburg Research alleging improprieties sent electric-truck startup’s shares plunging"
+         "title" : "How Nikola Stock Got Torched by a Short Seller - The Wall Street Journal",
+         "urlToImage" : "https://images.wsj.net/im-235376/social"
       },
       {
-         "publishedAt" : "2020-09-23T12:59:00Z",
          "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106689818-1599150563582-musk.jpg?v=1600862385",
-         "content" : "(This story is for CNBC Pro subscribers only). \r\nThe initial Wall Street reaction to Tesla's Battery Day has not been glowing, but Deutsche Bank said in a note to clients that that makes it a great t… [+546 chars]",
-         "title" : "Deutsche Bank upgrades Tesla after 'Battery Day,' says investors should 'take advantage' of pullback - CNBC",
-         "author" : "Jesse Pound",
-         "source" : {
-            "id" : null,
-            "name" : "CNBC"
-         },
-         "description" : "The firm increased its price target and delivery outlook for Tesla after Elon Musk's company gave more details on its battery production plans.",
-         "url" : "https://www.cnbc.com/2020/09/23/deutsche-bank-upgrades-tesla-after-battery-day-says-investors-should-take-advantage-of-pullback.html"
-      },
-      {
-         "description" : "Mars Inc. has renamed its Uncle Ben’s rice products “Ben’s Original,” making it the latest food producer to ditch a brand steeped in racist imagery. The Virginia-based compa…",
-         "source" : {
-            "name" : "New York Post",
-            "id" : null
-         },
-         "url" : "https://nypost.com/2020/09/23/uncle-bens-rice-renamed-bens-original-amid-racism-uproar/",
-         "urlToImage" : "https://nypost.com/wp-content/uploads/sites/2/2020/09/Ben-s-Original-RGB-logo-with-orange-background.png?w=1200",
-         "publishedAt" : "2020-09-23T12:19:00Z",
-         "author" : "Noah Manskar",
-         "title" : "Uncle Ben's renamed 'Ben's Original' in effort to ditch racist imagery - New York Post ",
-         "content" : "Mars Inc. has renamed its Uncle Ben’s rice products “Ben’s Original,” making it the latest food producer to ditch a brand steeped in racist imagery.\r\nThe Virginia-based company is also scrapping the … [+2228 chars]"
-      },
-      {
-         "description" : "Yesterday, a fitness equipment maker called Echelon Fitness announced its latest product, the so-called Prime Bike. At $500, it’s nearly a clone of Peloton’s $1,900 product. The company said it had developed the bike “in collaboration with Amazon”. Amazon is …",
-         "source" : {
-            "id" : "techcrunch",
-            "name" : "TechCrunch"
-         },
-         "url" : "http://techcrunch.com/2020/09/23/amazon-removes-the-500-prime-bike-says-it-has-nothing-to-do-with-the-peloton-knock-off/",
-         "publishedAt" : "2020-09-23T12:15:19Z",
-         "urlToImage" : "https://techcrunch.com/wp-content/uploads/2020/09/91vcGtH4A2L._AC_SL1500_.jpg?w=600",
-         "content" : "Yesterday, a fitness equipment maker called Echelon Fitness announced its latest product, the so-called Prime Bike. At $500, it’s nearly a clone of Peloton’s $1,900 product. The company said it had d… [+1213 chars]",
-         "title" : "Amazon removes the $500 Prime Bike, says it has nothing to do with the Peloton knock-off - TechCrunch",
-         "author" : "Matt Burns"
-      },
-      {
-         "urlToImage" : "https://s.wsj.net/public/resources/MWimages/MW-GP644_MicroS_ZG_20180906154215.jpg",
-         "publishedAt" : "2020-09-23T12:10:00Z",
-         "title" : "Tesla's stock falls, but Oppenheimer's Rusch says buy on weakness - MarketWatch",
-         "content" : "Shares of Tesla Inc. \r\n TSLA, \r\n -6.05%\r\ntook a 5.8% premarket hit Wednesday, after investors apparently deemed the electric vehicle company's Battery Day as disappointing, but Oppenheimer analyst Co… [+958 chars]",
-         "author" : "Tomi Kilgore",
-         "description" : "",
-         "source" : {
-            "id" : null,
-            "name" : "MarketWatch"
-         },
-         "url" : "https://www.marketwatch.com/story/teslas-stock-falls-but-oppenheimers-rusch-says-buy-on-weakness-2020-09-23"
-      },
-      {
-         "source" : {
-            "name" : "Kitco NEWS",
-            "id" : null
-         },
-         "description" : "Senior Technical Analyst Jim Wyckoff prepares investors with an overview of how the markets opened and closed. What moved metal prices? How do the technicals look? By looking at important developments",
-         "url" : "https://www.kitco.com/news/2020-09-23/Gold-sees-more-price-pressure-near-term-uptrend-in-jeopardy.html",
-         "urlToImage" : "https://www.kitco.com/news/2020-09-23/images/goldchart_0923_am.png",
-         "publishedAt" : "2020-09-23T11:46:00Z",
-         "title" : "Gold sees more price pressure; near-term uptrend in jeopardy - Kitco NEWS",
-         "content" : "Editor's Note: With so much market volatility, stay on top of daily news! Get caught up in minutes with our speedy summary of today's must-read news and expert opinions. Sign up here! \r\n(Kitco News) … [+3982 chars]",
-         "author" : "http://www.facebook.com/kitconews"
-      },
-      {
-         "url" : "https://finance.yahoo.com/news/nike-is-crushing-all-competitors-and-wall-street-is-obsessed-again-with-the-stock-113639656.html",
-         "source" : {
-            "id" : null,
-            "name" : "Yahoo Entertainment"
-         },
-         "description" : "Here's what Wall Street is saying about Nike's blowout quarter.",
-         "title" : "Nike is crushing competitors and Wall Street is obsessed again with the stock - Yahoo Finance",
-         "content" : "Is it time for the bears to break out the champagne glasses? Not so fast, says Goldman Sachs. Volatility has ruled the Street for the last few weeks, leading some to conclude that those with a more p… [+10753 chars]",
-         "author" : "Brian Sozzi",
-         "urlToImage" : "https://s.yimg.com/ny/api/res/1.2/yTCCT_Y5QznYT_gU.SkHeg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyODA7aD05NjA-/https://s.yimg.com/uu/api/res/1.2/bAAeMUicKfhvclyujhXf1w--~B/aD0zMDI0O3c9NDAzMjtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2020-09/fb536a40-fd8f-11ea-bb36-6337c9877db5",
-         "publishedAt" : "2020-09-23T11:36:00Z"
-      },
-      {
-         "author" : "Tonya Garcia",
-         "content" : "General Mills Inc. stock rose 3.44% in premarket trading after the Cheerios parent reported fiscal first-quarter earnings beat expectations and the company raised its dividend. Net income totaled $63… [+971 chars]",
-         "title" : "General Mills stock rises after the Cheerios parent reports an earnings beat and raised its dividend - MarketWatch",
-         "publishedAt" : "2020-09-23T11:27:00Z",
-         "urlToImage" : "https://s.wsj.net/public/resources/MWimages/MW-GP644_MicroS_ZG_20180906154215.jpg",
-         "url" : "https://www.marketwatch.com/story/general-mills-stock-rises-after-the-cheerios-parent-reports-an-earnings-beat-and-raised-its-dividend-2020-09-23",
-         "source" : {
-            "id" : null,
-            "name" : "MarketWatch"
-         },
-         "description" : ""
-      },
-      {
-         "url" : "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9VnNDbFc3R2lwNzDSAQA?oc=5",
-         "source" : {
-            "name" : "Google News",
-            "id" : "google-news"
-         },
-         "description" : null,
-         "content" : null,
-         "title" : "Johnson & Johnson starts phase 3 coronavirus vaccine trial - CNBC Television",
-         "author" : null,
-         "publishedAt" : "2020-09-23T11:24:36Z",
-         "urlToImage" : null
-      },
-      {
-         "url" : "https://www.freep.com/story/money/business/michigan/2020/09/23/wsj-united-shore-merge-go-public-tom-gores/3500768001/",
-         "description" : "United Shore Financial Services announced that it plans to merge with a \"blank-check company\" and go public on Nasdaq under a different name.",
-         "source" : {
-            "name" : "Detroit Free Press",
-            "id" : null
-         },
-         "title" : "Report: Pontiac-based United Shore to merge, go public on Nasdaq - Detroit Free Press",
-         "content" : "Exterior of United Shore's new headquarters in Pontiac, Mich.\r\n (Photo: Cameron Pollack, Detroit Free Press)\r\nPontiac-based mortgage company United Shore Financial Services is planning to go public o… [+5161 chars]",
-         "author" : "JC Reindl",
-         "urlToImage" : "https://www.gannett-cdn.com/presto/2020/04/09/PDTF/ee2d5a2d-04ef-45ea-ade9-1fed0bda6eab-Shore_HDQ_062018_CBP25.jpg?crop=2399,1350,x0,y210&width=1600&height=800&fit=bounds",
-         "publishedAt" : "2020-09-23T11:01:11Z"
-      },
-      {
-         "author" : "Matthew Frankel, CFP",
-         "title" : "3 Stocks That Could Make You Rich - The Motley Fool",
-         "content" : "Nobody has a crystal ball that can tell you which stocks will be tomorrow's big winners, and I'm certainly not an exception. After all, if we knew what stocks were going to be the next Amazon.com(NAS… [+4355 chars]",
-         "urlToImage" : "https://g.foolcdn.com/editorial/images/592511/man-holding-money-2.jpg",
-         "publishedAt" : "2020-09-23T10:51:00Z",
-         "url" : "https://www.fool.com/investing/2020/09/23/3-stocks-that-could-make-you-rich/",
-         "description" : "These stocks could produce huge returns for patient investors.",
-         "source" : {
-            "id" : null,
-            "name" : "Motley Fool"
-         }
-      },
-      {
-         "title" : "Huawei says 'survival is the goal' as US crackdown hammers its business - CNN",
-         "content" : null,
-         "author" : "Sherisse Pham, CNN Business",
-         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200923021512-huawei-0904-restricted-super-tease.jpg",
-         "publishedAt" : "2020-09-23T10:03:00Z",
-         "url" : "https://www.cnn.com/2020/09/23/tech/huawei-china-survival-us-hnk-intl/index.html",
-         "description" : "Huawei is in survival mode, as continuous \"attacks\" from the United States threaten to choke off the Chinese tech company's access to key technology.",
-         "source" : {
-            "name" : "CNN",
-            "id" : "cnn"
-         }
-      },
-      {
-         "url" : "https://www.theverge.com/interface/2020/9/23/21450904/youtube-content-moderator-lawsuit-machine-learning-tradeoffs",
-         "source" : {
-            "name" : "The Verge",
-            "id" : "the-verge"
-         },
-         "description" : "Facebook agreed to pay out $52 million to moderators suffering from PTSD and other conditions — and now YouTube is being asked to do the same",
-         "author" : "Casey Newton",
-         "content" : "Facebook agreed to pay out $52 million to moderators suffering from PTSD and other conditions and now YouTube is being asked to do the same \r\nIllustration by Alex Castro / The Verge\r\nThis story is pa… [+15479 chars]",
-         "title" : "A new lawsuit may force YouTube to own up to the mental health consequences of content moderation - The Verge",
-         "publishedAt" : "2020-09-23T10:00:00Z",
-         "urlToImage" : "https://cdn.vox-cdn.com/thumbor/LNtr7T08eSZ-Lq-js6X2tYhJQXE=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/10581347/acastro_180321_1777_youtube_0002.jpg"
-      },
-      {
-         "urlToImage" : "https://images.wsj.net/im-233758/social",
-         "publishedAt" : "2020-09-23T09:30:00Z",
-         "title" : "What CEOs Really Think About Remote Work - The Wall Street Journal",
-         "content" : "CEOs and other executives say theyve seen enough to judge whether remote work is working. But the verdict depends on whom you ask.\r\nHeres what some leaders are saying about working from home and the … [+140 chars]",
-         "author" : "Chip Cutter",
-         "description" : "Top executives at Netflix, BlackRock and other companies weigh in on at-home arrangements, office reopenings and the future of work",
-         "source" : {
-            "id" : "the-wall-street-journal",
-            "name" : "The Wall Street Journal"
-         },
-         "url" : "https://www.wsj.com/articles/what-ceos-really-think-about-remote-work-11600853405"
-      },
-      {
-         "publishedAt" : "2020-09-23T08:07:00Z",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106713576-1600846653568-gettyimages-1274813138-paris_covid_crisis_kr_005_20200922100926023.jpeg?v=1600846707",
-         "content" : "Euro zone business activity has taken a hit in the month of September as countries face a second wave of coronavirus infections, initial data showed Wednesday.\r\nThe flash euro zone PMI (purchasing ma… [+2102 chars]",
-         "title" : "Euro zone recovery stutters in September as coronavirus infections rise - CNBC",
-         "author" : "Silvia Amaro",
-         "description" : "Euro zone businesses took a hit in September as countries grapple with a second wave of coronavirus infections, initial data showed Wednesday.",
+         "publishedAt" : "2020-09-23T12:59:00Z",
          "source" : {
             "name" : "CNBC",
             "id" : null
          },
+         "title" : "Deutsche Bank upgrades Tesla after 'Battery Day,' says investors should 'take advantage' of pullback - CNBC",
+         "author" : "Jesse Pound",
+         "content" : "(This story is for CNBC Pro subscribers only). \r\nThe initial Wall Street reaction to Tesla's Battery Day has not been glowing, but Deutsche Bank said in a note to clients that that makes it a great t… [+546 chars]",
+         "description" : "The firm increased its price target and delivery outlook for Tesla after Elon Musk's company gave more details on its battery production plans.",
+         "url" : "https://www.cnbc.com/2020/09/23/deutsche-bank-upgrades-tesla-after-battery-day-says-investors-should-take-advantage-of-pullback.html"
+      },
+      {
+         "urlToImage" : "https://nypost.com/wp-content/uploads/sites/2/2020/09/Ben-s-Original-RGB-logo-with-orange-background.png?w=1200",
+         "source" : {
+            "name" : "New York Post",
+            "id" : null
+         },
+         "title" : "Uncle Ben's renamed 'Ben's Original' in effort to ditch racist imagery - New York Post ",
+         "publishedAt" : "2020-09-23T12:19:00Z",
+         "content" : "Mars Inc. has renamed its Uncle Ben’s rice products “Ben’s Original,” making it the latest food producer to ditch a brand steeped in racist imagery.\r\nThe Virginia-based company is also scrapping the … [+2228 chars]",
+         "author" : "Noah Manskar",
+         "url" : "https://nypost.com/2020/09/23/uncle-bens-rice-renamed-bens-original-amid-racism-uproar/",
+         "description" : "Mars Inc. has renamed its Uncle Ben’s rice products “Ben’s Original,” making it the latest food producer to ditch a brand steeped in racist imagery. The Virginia-based compa…"
+      },
+      {
+         "content" : "Yesterday, a fitness equipment maker called Echelon Fitness announced its latest product, the so-called Prime Bike. At $500, it’s nearly a clone of Peloton’s $1,900 product. The company said it had d… [+1213 chars]",
+         "author" : "Matt Burns",
+         "url" : "http://techcrunch.com/2020/09/23/amazon-removes-the-500-prime-bike-says-it-has-nothing-to-do-with-the-peloton-knock-off/",
+         "description" : "Yesterday, a fitness equipment maker called Echelon Fitness announced its latest product, the so-called Prime Bike. At $500, it’s nearly a clone of Peloton’s $1,900 product. The company said it had developed the bike “in collaboration with Amazon”. Amazon is …",
+         "urlToImage" : "https://techcrunch.com/wp-content/uploads/2020/09/91vcGtH4A2L._AC_SL1500_.jpg?w=600",
+         "source" : {
+            "id" : "techcrunch",
+            "name" : "TechCrunch"
+         },
+         "title" : "Amazon removes the $500 Prime Bike, says it has nothing to do with the Peloton knock-off - TechCrunch",
+         "publishedAt" : "2020-09-23T12:15:19Z"
+      },
+      {
+         "description" : "",
+         "url" : "https://www.marketwatch.com/story/teslas-stock-falls-but-oppenheimers-rusch-says-buy-on-weakness-2020-09-23",
+         "author" : "Tomi Kilgore",
+         "content" : "Shares of Tesla Inc. \r\n TSLA, \r\n -6.05%\r\ntook a 5.8% premarket hit Wednesday, after investors apparently deemed the electric vehicle company's Battery Day as disappointing, but Oppenheimer analyst Co… [+958 chars]",
+         "publishedAt" : "2020-09-23T12:10:00Z",
+         "title" : "Tesla's stock falls, but Oppenheimer's Rusch says buy on weakness - MarketWatch",
+         "source" : {
+            "id" : null,
+            "name" : "MarketWatch"
+         },
+         "urlToImage" : "https://s.wsj.net/public/resources/MWimages/MW-GP644_MicroS_ZG_20180906154215.jpg"
+      },
+      {
+         "publishedAt" : "2020-09-23T11:46:00Z",
+         "title" : "Gold sees more price pressure; near-term uptrend in jeopardy - Kitco NEWS",
+         "source" : {
+            "name" : "Kitco NEWS",
+            "id" : null
+         },
+         "urlToImage" : "https://www.kitco.com/news/2020-09-23/images/goldchart_0923_am.png",
+         "description" : "Senior Technical Analyst Jim Wyckoff prepares investors with an overview of how the markets opened and closed. What moved metal prices? How do the technicals look? By looking at important developments",
+         "url" : "https://www.kitco.com/news/2020-09-23/Gold-sees-more-price-pressure-near-term-uptrend-in-jeopardy.html",
+         "author" : "http://www.facebook.com/kitconews",
+         "content" : "Editor's Note: With so much market volatility, stay on top of daily news! Get caught up in minutes with our speedy summary of today's must-read news and expert opinions. Sign up here! \r\n(Kitco News) … [+3982 chars]"
+      },
+      {
+         "title" : "Nike is crushing competitors and Wall Street is obsessed again with the stock - Yahoo Finance",
+         "source" : {
+            "id" : null,
+            "name" : "Yahoo Entertainment"
+         },
+         "publishedAt" : "2020-09-23T11:36:00Z",
+         "urlToImage" : "https://s.yimg.com/ny/api/res/1.2/yTCCT_Y5QznYT_gU.SkHeg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyODA7aD05NjA-/https://s.yimg.com/uu/api/res/1.2/bAAeMUicKfhvclyujhXf1w--~B/aD0zMDI0O3c9NDAzMjtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2020-09/fb536a40-fd8f-11ea-bb36-6337c9877db5",
+         "url" : "https://finance.yahoo.com/news/nike-is-crushing-all-competitors-and-wall-street-is-obsessed-again-with-the-stock-113639656.html",
+         "description" : "Here's what Wall Street is saying about Nike's blowout quarter.",
+         "content" : "Is it time for the bears to break out the champagne glasses? Not so fast, says Goldman Sachs. Volatility has ruled the Street for the last few weeks, leading some to conclude that those with a more p… [+10753 chars]",
+         "author" : "Brian Sozzi"
+      },
+      {
+         "content" : "General Mills Inc. stock rose 3.44% in premarket trading after the Cheerios parent reported fiscal first-quarter earnings beat expectations and the company raised its dividend. Net income totaled $63… [+971 chars]",
+         "author" : "Tonya Garcia",
+         "url" : "https://www.marketwatch.com/story/general-mills-stock-rises-after-the-cheerios-parent-reports-an-earnings-beat-and-raised-its-dividend-2020-09-23",
+         "description" : "",
+         "urlToImage" : "https://s.wsj.net/public/resources/MWimages/MW-GP644_MicroS_ZG_20180906154215.jpg",
+         "title" : "General Mills stock rises after the Cheerios parent reports an earnings beat and raised its dividend - MarketWatch",
+         "source" : {
+            "name" : "MarketWatch",
+            "id" : null
+         },
+         "publishedAt" : "2020-09-23T11:27:00Z"
+      },
+      {
+         "urlToImage" : null,
+         "publishedAt" : "2020-09-23T11:24:36Z",
+         "title" : "Johnson & Johnson starts phase 3 coronavirus vaccine trial - CNBC Television",
+         "source" : {
+            "name" : "Google News",
+            "id" : "google-news"
+         },
+         "author" : null,
+         "content" : null,
+         "description" : null,
+         "url" : "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9VnNDbFc3R2lwNzDSAQA?oc=5"
+      },
+      {
+         "urlToImage" : "https://www.gannett-cdn.com/presto/2020/04/09/PDTF/ee2d5a2d-04ef-45ea-ade9-1fed0bda6eab-Shore_HDQ_062018_CBP25.jpg?crop=2399,1350,x0,y210&width=1600&height=800&fit=bounds",
+         "publishedAt" : "2020-09-23T11:01:11Z",
+         "title" : "Report: Pontiac-based United Shore to merge, go public on Nasdaq - Detroit Free Press",
+         "source" : {
+            "name" : "Detroit Free Press",
+            "id" : null
+         },
+         "author" : "JC Reindl",
+         "content" : "Exterior of United Shore's new headquarters in Pontiac, Mich.\r\n (Photo: Cameron Pollack, Detroit Free Press)\r\nPontiac-based mortgage company United Shore Financial Services is planning to go public o… [+5161 chars]",
+         "description" : "United Shore Financial Services announced that it plans to merge with a \"blank-check company\" and go public on Nasdaq under a different name.",
+         "url" : "https://www.freep.com/story/money/business/michigan/2020/09/23/wsj-united-shore-merge-go-public-tom-gores/3500768001/"
+      },
+      {
+         "description" : "These stocks could produce huge returns for patient investors.",
+         "url" : "https://www.fool.com/investing/2020/09/23/3-stocks-that-could-make-you-rich/",
+         "author" : "Matthew Frankel, CFP",
+         "content" : "Nobody has a crystal ball that can tell you which stocks will be tomorrow's big winners, and I'm certainly not an exception. After all, if we knew what stocks were going to be the next Amazon.com(NAS… [+4355 chars]",
+         "publishedAt" : "2020-09-23T10:51:00Z",
+         "source" : {
+            "id" : null,
+            "name" : "Motley Fool"
+         },
+         "title" : "3 Stocks That Could Make You Rich - The Motley Fool",
+         "urlToImage" : "https://g.foolcdn.com/editorial/images/592511/man-holding-money-2.jpg"
+      },
+      {
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200923021512-huawei-0904-restricted-super-tease.jpg",
+         "title" : "Huawei says 'survival is the goal' as US crackdown hammers its business - CNN",
+         "source" : {
+            "name" : "CNN",
+            "id" : "cnn"
+         },
+         "publishedAt" : "2020-09-23T10:03:00Z",
+         "content" : null,
+         "author" : "Sherisse Pham, CNN Business",
+         "url" : "https://www.cnn.com/2020/09/23/tech/huawei-china-survival-us-hnk-intl/index.html",
+         "description" : "Huawei is in survival mode, as continuous \"attacks\" from the United States threaten to choke off the Chinese tech company's access to key technology."
+      },
+      {
+         "content" : "Facebook agreed to pay out $52 million to moderators suffering from PTSD and other conditions and now YouTube is being asked to do the same \r\nIllustration by Alex Castro / The Verge\r\nThis story is pa… [+15479 chars]",
+         "author" : "Casey Newton",
+         "url" : "https://www.theverge.com/interface/2020/9/23/21450904/youtube-content-moderator-lawsuit-machine-learning-tradeoffs",
+         "description" : "Facebook agreed to pay out $52 million to moderators suffering from PTSD and other conditions — and now YouTube is being asked to do the same",
+         "urlToImage" : "https://cdn.vox-cdn.com/thumbor/LNtr7T08eSZ-Lq-js6X2tYhJQXE=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/10581347/acastro_180321_1777_youtube_0002.jpg",
+         "title" : "A new lawsuit may force YouTube to own up to the mental health consequences of content moderation - The Verge",
+         "source" : {
+            "id" : "the-verge",
+            "name" : "The Verge"
+         },
+         "publishedAt" : "2020-09-23T10:00:00Z"
+      },
+      {
+         "author" : "Chip Cutter",
+         "content" : "CEOs and other executives say theyve seen enough to judge whether remote work is working. But the verdict depends on whom you ask.\r\nHeres what some leaders are saying about working from home and the … [+140 chars]",
+         "description" : "Top executives at Netflix, BlackRock and other companies weigh in on at-home arrangements, office reopenings and the future of work",
+         "url" : "https://www.wsj.com/articles/what-ceos-really-think-about-remote-work-11600853405",
+         "urlToImage" : "https://images.wsj.net/im-233758/social",
+         "publishedAt" : "2020-09-23T09:30:00Z",
+         "source" : {
+            "id" : "the-wall-street-journal",
+            "name" : "The Wall Street Journal"
+         },
+         "title" : "What CEOs Really Think About Remote Work - The Wall Street Journal"
+      },
+      {
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106713576-1600846653568-gettyimages-1274813138-paris_covid_crisis_kr_005_20200922100926023.jpeg?v=1600846707",
+         "publishedAt" : "2020-09-23T08:07:00Z",
+         "source" : {
+            "name" : "CNBC",
+            "id" : null
+         },
+         "title" : "Euro zone recovery stutters in September as coronavirus infections rise - CNBC",
+         "author" : "Silvia Amaro",
+         "content" : "Euro zone business activity has taken a hit in the month of September as countries face a second wave of coronavirus infections, initial data showed Wednesday.\r\nThe flash euro zone PMI (purchasing ma… [+2102 chars]",
+         "description" : "Euro zone businesses took a hit in September as countries grapple with a second wave of coronavirus infections, initial data showed Wednesday.",
          "url" : "https://www.cnbc.com/2020/09/23/euro-zone-recovery-stutters-as-the-service-industry-suffers.html"
       },
       {
          "source" : {
-            "id" : null,
-            "name" : "Fox Business"
+            "name" : "Fox Business",
+            "id" : null
          },
-         "description" : "Investors will get fresh reports on manufacturing and services",
-         "url" : "https://www.foxbusiness.com/markets/stock-futures-trade-mostly-higher-adding-to-gains",
+         "title" : "Stock futures trade higher adding to gains - Fox Business",
          "publishedAt" : "2020-09-23T07:29:14Z",
          "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/07/0/0/stock-market-trader-AP-005.jpg?ve=1&tl=1",
-         "author" : "Ken Martin",
+         "url" : "https://www.foxbusiness.com/markets/stock-futures-trade-mostly-higher-adding-to-gains",
+         "description" : "Investors will get fresh reports on manufacturing and services",
          "content" : "U.S. equity futures are pointing to a higher open when the Wall Street session begins on Wednesday.\r\nDow futures are suggesting a rise of 0.7 percent.\r\nGET FOX BUSINESS ON THE GO BY CLICKING HERE\r\nOn… [+3292 chars]",
-         "title" : "Stock futures trade higher adding to gains - Fox Business"
+         "author" : "Ken Martin"
       },
       {
-         "url" : "https://www.foxbusiness.com/markets/canadian-auto-workers-reach-tentative-contract-with-ford",
+         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/09/0/0/FordCanada.jpg?ve=1&tl=1",
          "source" : {
             "id" : null,
             "name" : "Fox Business"
          },
-         "description" : "Workers will vote on the agreement on Sunday",
-         "content" : "The union representing Canadian auto workers says it has reached a tentative three-year contract deal with Ford to build five new electric vehicles at a factory near Toronto.\r\nUnifor President Jerry … [+1078 chars]",
          "title" : "Canadian auto workers reach tentative contract with Ford - Fox Business",
-         "author" : "Associated Press",
          "publishedAt" : "2020-09-23T06:10:17Z",
-         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/09/0/0/FordCanada.jpg?ve=1&tl=1"
+         "content" : "The union representing Canadian auto workers says it has reached a tentative three-year contract deal with Ford to build five new electric vehicles at a factory near Toronto.\r\nUnifor President Jerry … [+1078 chars]",
+         "author" : "Associated Press",
+         "url" : "https://www.foxbusiness.com/markets/canadian-auto-workers-reach-tentative-contract-with-ford",
+         "description" : "Workers will vote on the agreement on Sunday"
       }
    ]
 }
