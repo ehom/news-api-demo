@@ -1,266 +1,266 @@
 {
-   "status" : "ok",
+   "totalResults" : 70,
    "articles" : [
       {
-         "title" : "TSA starts 'Prohibited Items Week' to minimize checkpoint snafus - Fox News",
+         "content" : "The Transportation Security Administration (TSA) has kicked off an inaugural “Prohibited Items Week” to help travelers understand what they cannot fly with.\r\nThis new awareness week initiative began … [+2237 chars]",
+         "publishedAt" : "2020-09-23T00:34:32Z",
          "url" : "https://www.foxnews.com/travel/tsa-prohibited-items-week-minimize-checkpoint-snafus",
+         "author" : "Cortney Moore",
          "source" : {
             "name" : "Fox News",
             "id" : "fox-news"
          },
-         "publishedAt" : "2020-09-23T00:34:32Z",
-         "urlToImage" : "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/iStock-182430075.jpg",
+         "title" : "TSA starts 'Prohibited Items Week' to minimize checkpoint snafus - Fox News",
          "description" : "The Transportation Security Administration has kicked off its inaugural “Prohibited Items Week” to help travelers figure out which possessions cannot go on a commercial aircraft.",
-         "author" : "Cortney Moore",
-         "content" : "The Transportation Security Administration (TSA) has kicked off an inaugural “Prohibited Items Week” to help travelers understand what they cannot fly with.\r\nThis new awareness week initiative began … [+2237 chars]"
+         "urlToImage" : "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/iStock-182430075.jpg"
       },
       {
-         "content" : "Elon Musk said the company will phase out cobalt and aims for a $25k car\r\nAt Teslas Battery Day event, CEO Elon Musk made some big announcements: the companys moves toward eliminating cobalt in its b… [+3624 chars]",
-         "author" : "Kim Lyons",
          "description" : "At Tesla’s annual battery day event, CEO Elon Musk unveiled new details on several long-promised plans, including the company’s move toward eliminating cobalt in its batteries, a new Plaid powertrain that could get to speeds of 200mph, and a new cathode plant…",
+         "title" : "Tesla Battery Day: biggest announcements - The Verge",
          "urlToImage" : "https://cdn.vox-cdn.com/thumbor/2pHiU8z8SdeEFy1GsoaViEpm0NU=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/21902916/acastro_200918_4202_elonMuskBattery_0002.jpg",
-         "publishedAt" : "2020-09-23T00:10:32Z",
          "source" : {
             "name" : "The Verge",
             "id" : "the-verge"
          },
+         "publishedAt" : "2020-09-23T00:10:32Z",
          "url" : "https://www.theverge.com/2020/9/22/21450840/tesla-battery-day-production-elon-musk-tabless-range-cathode-cobalt-plaid",
-         "title" : "Tesla Battery Day: biggest announcements - The Verge"
+         "author" : "Kim Lyons",
+         "content" : "Elon Musk said the company will phase out cobalt and aims for a $25k car\r\nAt Teslas Battery Day event, CEO Elon Musk made some big announcements: the companys moves toward eliminating cobalt in its b… [+3624 chars]"
       },
       {
+         "content" : "Washington, DC (CNN Business)CEOs and union leaders joined together Tuesday to plead with Congress for another $28 billion in federal help for the battered airline industry, saying that 100,000 good … [+4331 chars]",
+         "url" : "https://www.cnn.com/2020/09/22/business/airlines-ask-congress-help/index.html",
+         "publishedAt" : "2020-09-22T23:57:00Z",
+         "author" : "Chris Isidore, Pete Muntean and Gregory Wallace, CNN",
          "source" : {
             "id" : "cnn",
             "name" : "CNN"
          },
-         "publishedAt" : "2020-09-22T23:57:00Z",
-         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200922180409-airline-relief-push-congress-0922-super-tease.jpg",
-         "url" : "https://www.cnn.com/2020/09/22/business/airlines-ask-congress-help/index.html",
+         "description" : "CEOs and union leaders joined together Tuesday to plead with Congress for another $28 billion in federal help for the battered airline industry, saying that 100,000 good paying jobs in the industry will be lost next week without the help.",
          "title" : "CEOs and unions come together in 11th hour plea for Congress to save airline jobs - CNN",
-         "content" : "Washington, DC (CNN Business)CEOs and union leaders joined together Tuesday to plead with Congress for another $28 billion in federal help for the battered airline industry, saying that 100,000 good … [+4331 chars]",
-         "author" : "Chris Isidore, Pete Muntean and Gregory Wallace, CNN",
-         "description" : "CEOs and union leaders joined together Tuesday to plead with Congress for another $28 billion in federal help for the battered airline industry, saying that 100,000 good paying jobs in the industry will be lost next week without the help."
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200922180409-airline-relief-push-congress-0922-super-tease.jpg"
       },
       {
+         "source" : {
+            "name" : "Google News",
+            "id" : "google-news"
+         },
          "title" : "2021 Hyundai Sonata N Line | First Look - Kelley Blue Book",
+         "description" : null,
+         "urlToImage" : null,
+         "content" : null,
+         "publishedAt" : "2020-09-22T23:30:02Z",
+         "url" : "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9cHBaQmdqWm5yWlXSAQA?oc=5",
+         "author" : null
+      },
+      {
+         "source" : {
+            "id" : null,
+            "name" : "AZ Big Media"
+         },
+         "description" : "Gilbert is among the top-ranked places in the country to call home according to Money’s 2020-21 Best Places to Live rankings.",
+         "title" : "Gilbert makes Money's list of Best Places to Live - AZ Big Media",
+         "urlToImage" : "https://azbigmedia.com/wp-content/uploads/2020/03/gilbert.jpg",
+         "content" : "Gilbert is among the top-ranked places in the country to call home according to Moneys 2020-21 Best Places to Live rankings.\r\nGilbert landed at No. 46 on the list after an analysis of more than 1,800… [+685 chars]",
+         "publishedAt" : "2020-09-22T23:18:46Z",
+         "url" : "https://azbigmedia.com/lifestyle/gilbert-makes-moneys-list-of-best-places-to-live/",
+         "author" : "Blufish"
+      },
+      {
+         "description" : "The MTA board on Wednesday is set to formalize a rule that bans defecating on the city’s subways, buses and transit facilities.",
+         "title" : "MTA board to formally ban pooping in NYC subway - New York Daily News",
+         "urlToImage" : "https://www.nydailynews.com/resizer/nv7ArrXFsygF_1R7LTDU1E33mAE=/1200x0/left/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/NIGV3R5JWBD6HDTNO6VHAVNAAE.jpg",
+         "source" : {
+            "id" : null,
+            "name" : "New York Daily News"
+         },
+         "url" : "https://www.nydailynews.com/new-york/ny-defecation-ban-mta-subway-transit-20200922-43tyo2euwjduhprvdvtq7nbbga-story.html",
+         "publishedAt" : "2020-09-22T22:31:00Z",
+         "author" : "Clayton Guse",
+         "content" : null
+      },
+      {
+         "description" : "Stock futures ticked higher Tuesday evening, building on the major indices’ regular-session gains in an at least temporary reprieve from September’s selloff ...",
+         "title" : "Stock market news live updates: Stock futures open higher, extending September's selling reprieve - Yahoo Finance",
+         "urlToImage" : "https://s.yimg.com/ny/api/res/1.2/y1n5xiUFPQbN52s97L_TRw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyODA7aD04NTMuMzMzMzMzMzMzMzMzNA--/https://s.yimg.com/uu/api/res/1.2/znJglhV5eamSvT88dq0UCw--~B/aD0yOTQ0O3c9NDQxNjtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2020-09/77cc5790-fd21-11ea-bfff-cd0dec4a8125",
+         "source" : {
+            "id" : null,
+            "name" : "Yahoo Entertainment"
+         },
+         "url" : "https://finance.yahoo.com/news/stock-market-news-live-september-23-2020-221852759.html",
+         "publishedAt" : "2020-09-22T22:18:00Z",
+         "author" : "Emily McCormick",
+         "content" : "Is it time for the bears to break out the champagne glasses? Not so fast, says Goldman Sachs. Volatility has ruled the Street for the last few weeks, leading some to conclude that those with a more p… [+10753 chars]"
+      },
+      {
+         "publishedAt" : "2020-09-22T22:13:00Z",
+         "url" : "https://news.trust.org/item/20200922212243-w6soh",
+         "author" : "Thomson Reuters Foundation",
+         "content" : "(Adds Pfizer comment, background)\r\nSept 22 (Reuters) - The U.S. Food and Drug Administration is expected to soon announce new, more stringent standards for an emergency authorization of a COVID-19 va… [+2233 chars]",
+         "description" : "HEALTH-CORONAVIRUS/FDA-VACCINE (UPDATE 2, PIX):UPDATE 2-U.S. FDA to tighten coronavirus vaccine authorization standards ahead of election -paper",
+         "title" : "US FDA to tighten coronavirus vaccine authorization ... - Thomson Reuters Foundation",
+         "urlToImage" : "https://d8zcwdvc14g2e.cloudfront.net/contentAsset/image/b31322f1-1ca6-4136-9823-e2d334e3c42b/image/byInode/1/filter/Resize,Jpeg/jpeg_q/70/resize_w/1100",
+         "source" : {
+            "name" : "Trust.org",
+            "id" : null
+         }
+      },
+      {
+         "publishedAt" : "2020-09-22T22:03:00Z",
+         "url" : "https://www.cnbc.com/2020/09/22/palantir-says-it-expects-42percent-revenue-growth-this-year-to-1point06-billion.html",
+         "author" : "Ari Levy",
+         "content" : "Palantir said in a filing ahead of next week's public market listing that it expects to record growth this year of 42%, to close 2020 with $1.06 billion in revenue.\r\nThe company, which develops softw… [+1280 chars]",
+         "description" : "Palantir said on Tuesday that it will surpass $1 billion in sales this year and generate $121 million in adjusted operating income.",
+         "title" : "Palantir says it expects 42% revenue growth this year to $1.06 billion - CNBC",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106691424-1599245505221-gettyimages-961728874-AFP_15A0TQ.jpeg?v=1599245646",
+         "source" : {
+            "name" : "CNBC",
+            "id" : null
+         }
+      },
+      {
+         "source" : {
+            "id" : "ars-technica",
+            "name" : "Ars Technica"
+         },
+         "urlToImage" : "https://cdn.arstechnica.net/wp-content/uploads/2020/09/2021-Porsche-Panamera-4S-E-Hybrid-1-760x380.jpg",
+         "description" : "More lithium-ion is the highlight of this plug-in sedan's midlife refresh.",
+         "title" : "Porsche boosts battery capacity by 27 percent for 2021 Panamera hybrid - Ars Technica",
+         "content" : "4 with 4 posters participating\r\n<ul><li>\r\n Porschephiles will see the subtly different bumper on this Panamera sedan and identify it as a 2021 model, fresh from a midlife facelift. \r\n</li><li>\r\n The … [+5643 chars]",
+         "author" : "Jonathan M. Gitlin",
+         "publishedAt" : "2020-09-22T22:01:00Z",
+         "url" : "https://arstechnica.com/cars/2020/09/porsche-boosts-battery-capacity-by-20-percent-for-2021-panamera-hybrid/"
+      },
+      {
+         "content" : "Jim Farley, of Ford Motor Co., talks about the future of the automobile and how Ford will innovate and change demand like they did with the Model T.\r\nDetroit Free Press\r\nFord Motor Co. reached a tent… [+8400 chars]",
+         "author" : "Phoebe Wall Howard",
+         "publishedAt" : "2020-09-22T21:56:15Z",
+         "url" : "https://www.freep.com/story/money/cars/ford/2020/09/22/ford-canada-unifor-union-deal/5864605002/",
+         "source" : {
+            "name" : "Detroit Free Press",
+            "id" : null
+         },
+         "urlToImage" : "https://www.gannett-cdn.com/presto/2018/12/20/PDTF/74e1292c-261b-4dfe-8a54-d152c4102dbb-121018_JerryDias_rb_002.jpg?crop=2399,1343,x0,y0&width=1600&height=800&fit=bounds",
+         "description" : "Ford, Unifor the union agree to a tentative three-year labor contract for engine, car plants and pivot to electric vehicles.",
+         "title" : "Ford reaches 'home run' labor deal with big investment from Canadian government - Detroit Free Press"
+      },
+      {
+         "publishedAt" : "2020-09-22T21:49:00Z",
+         "url" : "https://www.cnn.com/2020/09/22/business/nike-earnings-q1-2021/index.html",
+         "author" : "Clare Duffy, CNN Business",
+         "content" : null,
+         "description" : "Nike beat analysts' revenue expectations for its first fiscal quarter by more than $1 billion Tuesday, signaling the sportswear giant is making a healthy comeback from the pandemic.",
+         "title" : "Nike shares spike 8% after blockbuster sales - CNN",
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200922154226-nike-store-0728-restricted-super-tease.jpg",
+         "source" : {
+            "id" : "cnn",
+            "name" : "CNN"
+         }
+      },
+      {
+         "content" : null,
+         "author" : null,
+         "publishedAt" : "2020-09-22T21:48:11Z",
+         "url" : "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9T0p4U20xeHk4eGfSAQA?oc=5",
          "source" : {
             "id" : "google-news",
             "name" : "Google News"
          },
          "urlToImage" : null,
-         "publishedAt" : "2020-09-22T23:30:02Z",
-         "url" : "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9cHBaQmdqWm5yWlXSAQA?oc=5",
-         "author" : null,
          "description" : null,
-         "content" : null
+         "title" : "The Big Money Fight Over The Supreme Court, Plus Drama At Nikola: CNBC After Hours - CNBC"
       },
       {
-         "author" : "Blufish",
-         "description" : "Gilbert is among the top-ranked places in the country to call home according to Money’s 2020-21 Best Places to Live rankings.",
-         "content" : "Gilbert is among the top-ranked places in the country to call home according to Moneys 2020-21 Best Places to Live rankings.\r\nGilbert landed at No. 46 on the list after an analysis of more than 1,800… [+685 chars]",
-         "title" : "Gilbert makes Money's list of Best Places to Live - AZ Big Media",
-         "urlToImage" : "https://azbigmedia.com/wp-content/uploads/2020/03/gilbert.jpg",
-         "publishedAt" : "2020-09-22T23:18:46Z",
          "source" : {
-            "name" : "AZ Big Media",
+            "name" : "MarketWatch",
             "id" : null
          },
-         "url" : "https://azbigmedia.com/lifestyle/gilbert-makes-moneys-list-of-best-places-to-live/"
-      },
-      {
-         "title" : "MTA board to formally ban pooping in NYC subway - New York Daily News",
-         "source" : {
-            "name" : "New York Daily News",
-            "id" : null
-         },
-         "urlToImage" : "https://www.nydailynews.com/resizer/nv7ArrXFsygF_1R7LTDU1E33mAE=/1200x0/left/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/NIGV3R5JWBD6HDTNO6VHAVNAAE.jpg",
-         "publishedAt" : "2020-09-22T22:31:00Z",
-         "url" : "https://www.nydailynews.com/new-york/ny-defecation-ban-mta-subway-transit-20200922-43tyo2euwjduhprvdvtq7nbbga-story.html",
-         "author" : "Clayton Guse",
-         "description" : "The MTA board on Wednesday is set to formalize a rule that bans defecating on the city’s subways, buses and transit facilities.",
-         "content" : null
-      },
-      {
-         "content" : "Is it time for the bears to break out the champagne glasses? Not so fast, says Goldman Sachs. Volatility has ruled the Street for the last few weeks, leading some to conclude that those with a more p… [+10753 chars]",
-         "description" : "Stock futures ticked higher Tuesday evening, building on the major indices’ regular-session gains in an at least temporary reprieve from September’s selloff ...",
-         "author" : "Emily McCormick",
-         "url" : "https://finance.yahoo.com/news/stock-market-news-live-september-23-2020-221852759.html",
-         "source" : {
-            "id" : null,
-            "name" : "Yahoo Entertainment"
-         },
-         "urlToImage" : "https://s.yimg.com/ny/api/res/1.2/y1n5xiUFPQbN52s97L_TRw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyODA7aD04NTMuMzMzMzMzMzMzMzMzNA--/https://s.yimg.com/uu/api/res/1.2/znJglhV5eamSvT88dq0UCw--~B/aD0yOTQ0O3c9NDQxNjtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2020-09/77cc5790-fd21-11ea-bfff-cd0dec4a8125",
-         "publishedAt" : "2020-09-22T22:18:00Z",
-         "title" : "Stock market news live updates: Stock futures open higher, extending September's selling reprieve - Yahoo Finance"
-      },
-      {
-         "content" : "(Adds Pfizer comment, background)\r\nSept 22 (Reuters) - The U.S. Food and Drug Administration is expected to soon announce new, more stringent standards for an emergency authorization of a COVID-19 va… [+2233 chars]",
-         "author" : "Thomson Reuters Foundation",
-         "description" : "HEALTH-CORONAVIRUS/FDA-VACCINE (UPDATE 2, PIX):UPDATE 2-U.S. FDA to tighten coronavirus vaccine authorization standards ahead of election -paper",
-         "source" : {
-            "id" : null,
-            "name" : "Trust.org"
-         },
-         "urlToImage" : "https://d8zcwdvc14g2e.cloudfront.net/contentAsset/image/b31322f1-1ca6-4136-9823-e2d334e3c42b/image/byInode/1/filter/Resize,Jpeg/jpeg_q/70/resize_w/1100",
-         "publishedAt" : "2020-09-22T22:13:00Z",
-         "url" : "https://news.trust.org/item/20200922212243-w6soh",
-         "title" : "US FDA to tighten coronavirus vaccine authorization ... - Thomson Reuters Foundation"
-      },
-      {
-         "content" : "Palantir said in a filing ahead of next week's public market listing that it expects to record growth this year of 42%, to close 2020 with $1.06 billion in revenue.\r\nThe company, which develops softw… [+1280 chars]",
-         "author" : "Ari Levy",
-         "description" : "Palantir said on Tuesday that it will surpass $1 billion in sales this year and generate $121 million in adjusted operating income.",
-         "source" : {
-            "name" : "CNBC",
-            "id" : null
-         },
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106691424-1599245505221-gettyimages-961728874-AFP_15A0TQ.jpeg?v=1599245646",
-         "publishedAt" : "2020-09-22T22:03:00Z",
-         "url" : "https://www.cnbc.com/2020/09/22/palantir-says-it-expects-42percent-revenue-growth-this-year-to-1point06-billion.html",
-         "title" : "Palantir says it expects 42% revenue growth this year to $1.06 billion - CNBC"
-      },
-      {
-         "url" : "https://arstechnica.com/cars/2020/09/porsche-boosts-battery-capacity-by-20-percent-for-2021-panamera-hybrid/",
-         "source" : {
-            "id" : "ars-technica",
-            "name" : "Ars Technica"
-         },
-         "publishedAt" : "2020-09-22T22:01:00Z",
-         "urlToImage" : "https://cdn.arstechnica.net/wp-content/uploads/2020/09/2021-Porsche-Panamera-4S-E-Hybrid-1-760x380.jpg",
-         "title" : "Porsche boosts battery capacity by 27 percent for 2021 Panamera hybrid - Ars Technica",
-         "content" : "4 with 4 posters participating\r\n<ul><li>\r\n Porschephiles will see the subtly different bumper on this Panamera sedan and identify it as a 2021 model, fresh from a midlife facelift. \r\n</li><li>\r\n The … [+5643 chars]",
-         "description" : "More lithium-ion is the highlight of this plug-in sedan's midlife refresh.",
-         "author" : "Jonathan M. Gitlin"
-      },
-      {
-         "publishedAt" : "2020-09-22T21:56:15Z",
-         "urlToImage" : "https://www.gannett-cdn.com/presto/2018/12/20/PDTF/74e1292c-261b-4dfe-8a54-d152c4102dbb-121018_JerryDias_rb_002.jpg?crop=2399,1343,x0,y0&width=1600&height=800&fit=bounds",
-         "source" : {
-            "id" : null,
-            "name" : "Detroit Free Press"
-         },
-         "url" : "https://www.freep.com/story/money/cars/ford/2020/09/22/ford-canada-unifor-union-deal/5864605002/",
-         "title" : "Ford reaches 'home run' labor deal with big investment from Canadian government - Detroit Free Press",
-         "content" : "Jim Farley, of Ford Motor Co., talks about the future of the automobile and how Ford will innovate and change demand like they did with the Model T.\r\nDetroit Free Press\r\nFord Motor Co. reached a tent… [+8400 chars]",
-         "author" : "Phoebe Wall Howard",
-         "description" : "Ford, Unifor the union agree to a tentative three-year labor contract for engine, car plants and pivot to electric vehicles."
-      },
-      {
-         "title" : "Nike shares spike 8% after blockbuster sales - CNN",
-         "source" : {
-            "name" : "CNN",
-            "id" : "cnn"
-         },
-         "publishedAt" : "2020-09-22T21:49:00Z",
-         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200922154226-nike-store-0728-restricted-super-tease.jpg",
-         "url" : "https://www.cnn.com/2020/09/22/business/nike-earnings-q1-2021/index.html",
-         "author" : "Clare Duffy, CNN Business",
-         "description" : "Nike beat analysts' revenue expectations for its first fiscal quarter by more than $1 billion Tuesday, signaling the sportswear giant is making a healthy comeback from the pandemic.",
-         "content" : null
-      },
-      {
-         "url" : "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9T0p4U20xeHk4eGfSAQA?oc=5",
-         "publishedAt" : "2020-09-22T21:48:11Z",
-         "urlToImage" : null,
-         "source" : {
-            "name" : "Google News",
-            "id" : "google-news"
-         },
-         "title" : "The Big Money Fight Over The Supreme Court, Plus Drama At Nikola: CNBC After Hours - CNBC",
-         "content" : null,
-         "description" : null,
-         "author" : null
-      },
-      {
-         "content" : "Tesla Inc. \r\n TSLA, \r\n -5.59%\r\nshares added to earlier gains in the extended session Tuesday after Chief Executive Elon Musk said that it is looks \"promising\" that the Silicon Valley car maker would … [+623 chars]",
-         "description" : "",
-         "author" : "Claudia Assis",
-         "url" : "https://www.marketwatch.com/story/at-tesla-shareholder-meeting-honking-greets-musks-profit-promise-2020-09-22",
-         "publishedAt" : "2020-09-22T21:41:00Z",
          "urlToImage" : "https://s.wsj.net/public/resources/MWimages/MW-GP644_MicroS_ZG_20180906154215.jpg",
-         "source" : {
-            "id" : null,
-            "name" : "MarketWatch"
-         },
-         "title" : "At Tesla shareholder meeting, honking greets Musk's profit promise - MarketWatch"
+         "title" : "At Tesla shareholder meeting, honking greets Musk's profit promise - MarketWatch",
+         "description" : "",
+         "content" : "Tesla Inc. \r\n TSLA, \r\n -5.59%\r\nshares added to earlier gains in the extended session Tuesday after Chief Executive Elon Musk said that it is looks \"promising\" that the Silicon Valley car maker would … [+623 chars]",
+         "author" : "Claudia Assis",
+         "publishedAt" : "2020-09-22T21:41:00Z",
+         "url" : "https://www.marketwatch.com/story/at-tesla-shareholder-meeting-honking-greets-musks-profit-promise-2020-09-22"
       },
       {
-         "content" : "Costco has stopped carrying products from a pimento cheese brand owned by a South Carolina mayor who called the Black Lives Matter and Antifa movements “terror organizations.”\r\nBrian Henry, the mayor… [+1784 chars]",
-         "description" : "Palmetto Cheese faced calls for a boycott following the controversial Facebook post.",
-         "author" : "James Leggate",
-         "url" : "https://www.foxnews.com/food-drink/costco-cheese-black-lives-matter",
          "source" : {
             "id" : "fox-news",
             "name" : "Fox News"
          },
-         "publishedAt" : "2020-09-22T21:15:15Z",
+         "title" : "Costco removes popular cheese after Black Lives Matter controversy - Fox News",
+         "description" : "Palmetto Cheese faced calls for a boycott following the controversial Facebook post.",
          "urlToImage" : "https://static.foxnews.com/foxnews.com/content/uploads/2020/05/CostcoAP-PhotoTed-S.-Warren.jpg",
-         "title" : "Costco removes popular cheese after Black Lives Matter controversy - Fox News"
+         "content" : "Costco has stopped carrying products from a pimento cheese brand owned by a South Carolina mayor who called the Black Lives Matter and Antifa movements “terror organizations.”\r\nBrian Henry, the mayor… [+1784 chars]",
+         "publishedAt" : "2020-09-22T21:15:15Z",
+         "url" : "https://www.foxnews.com/food-drink/costco-cheese-black-lives-matter",
+         "author" : "James Leggate"
       },
       {
+         "content" : "Bed Bath &amp; Beyond has announced the first 63 stores it will close by the end of the year as part of a restructuring plan brought on by COVID-19.The company announced in July plans to close around… [+3368 chars]",
+         "publishedAt" : "2020-09-22T21:07:48Z",
+         "url" : "https://abc13.com/bed-bath-&amp;-beyond-stores-closing-is-going-out-of-business-and-store-closures/6505676/",
+         "author" : null,
          "source" : {
             "name" : "KTRK-TV",
             "id" : null
          },
-         "urlToImage" : "https://cdn.abcotvs.com/dip/images/6506249_092220-ktrk-cnn-bby-stortes-closing-irios-vid.jpg?w=1600",
-         "publishedAt" : "2020-09-22T21:07:48Z",
-         "url" : "https://abc13.com/bed-bath-&amp;-beyond-stores-closing-is-going-out-of-business-and-store-closures/6505676/",
+         "description" : "Bed Bath & Beyond has announced the first 63 stores it will close by the end of the year as part of a restructuring plan brought on by COVID-19.",
          "title" : "Store Closing Locations: Bed Bath & Beyond shutting 63 stores this year - KTRK-TV",
-         "content" : "Bed Bath &amp; Beyond has announced the first 63 stores it will close by the end of the year as part of a restructuring plan brought on by COVID-19.The company announced in July plans to close around… [+3368 chars]",
-         "author" : null,
-         "description" : "Bed Bath & Beyond has announced the first 63 stores it will close by the end of the year as part of a restructuring plan brought on by COVID-19."
+         "urlToImage" : "https://cdn.abcotvs.com/dip/images/6506249_092220-ktrk-cnn-bby-stortes-closing-irios-vid.jpg?w=1600"
       },
       {
-         "title" : "Amazon takes aim at Peloton with $499 Prime Bike - CNET",
-         "source" : {
-            "name" : "CNET",
-            "id" : null
-         },
-         "urlToImage" : "https://cnet3.cbsistatic.com/img/ANRUgYggPoHLuDR4rBRLD3EDlpY=/1200x630/2020/09/22/6d9d136b-e7cb-429d-873f-a341853339d7/1.jpg",
-         "publishedAt" : "2020-09-22T20:58:00Z",
-         "url" : "https://www.cnet.com/health/amazon-takes-aim-at-peloton-with-499-prime-bike/",
-         "author" : "Andrew Gebhart",
-         "description" : "Echelon worked with Amazon to create an exercise bike that significantly undercuts Peloton's prices.",
-         "content" : "Amazon's new Prime Bike.\r\nEchelon\r\nDo you long to get a Peloton, but can't stomach the cost? If you're willing to give up some smart features and a big screen, Amazon's new $500 Prime Bike might be y… [+1725 chars]"
-      },
-      {
-         "content" : "Joe Bidens plan to decarbonize…\r\nAfter oil prices crashed at…\r\nBy Charles Kennedy - Sep 22, 2020, 2:30 PM CDTAustralia, the world’s top coal exporter, plans to invest over US$13 billion (18 billion A… [+2041 chars]",
-         "description" : "Australia, the world's top coal exporter, plans to invest over US$13 billion 18 billion Australian dollars in low emission technologies through 2030",
-         "author" : "Charles Kennedy",
-         "url" : "https://oilprice.com/Latest-Energy-News/World-News/Australia-Plans-US13B-Investment-In-Low-Emission-Tech.html",
          "source" : {
             "id" : null,
-            "name" : "OilPrice.com"
+            "name" : "CNET"
          },
-         "urlToImage" : "https://d32r1sh890xpii.cloudfront.net/news/718x300/2020-09-22_duewpf4zlk.jpg",
-         "publishedAt" : "2020-09-22T20:40:00Z",
-         "title" : "Oil Holds Gains As Large Gasoline Draw Offsets Crude Build - OilPrice.com"
+         "description" : "Echelon worked with Amazon to create an exercise bike that significantly undercuts Peloton's prices.",
+         "title" : "Amazon takes aim at Peloton with $499 Prime Bike - CNET",
+         "urlToImage" : "https://cnet3.cbsistatic.com/img/ANRUgYggPoHLuDR4rBRLD3EDlpY=/1200x630/2020/09/22/6d9d136b-e7cb-429d-873f-a341853339d7/1.jpg",
+         "content" : "Amazon's new Prime Bike.\r\nEchelon\r\nDo you long to get a Peloton, but can't stomach the cost? If you're willing to give up some smart features and a big screen, Amazon's new $500 Prime Bike might be y… [+1725 chars]",
+         "publishedAt" : "2020-09-22T20:58:00Z",
+         "url" : "https://www.cnet.com/health/amazon-takes-aim-at-peloton-with-499-prime-bike/",
+         "author" : "Andrew Gebhart"
       },
       {
-         "description" : "/PRNewswire/ - Aurora Cannabis Inc. (the \"Company\" or \"Aurora\") (NYSE | TSX: ACB), the Canadian company defining the future of cannabinoids worldwide, today...",
-         "author" : null,
+         "source" : {
+            "name" : "OilPrice.com",
+            "id" : null
+         },
+         "title" : "Oil Holds Gains As Large Gasoline Draw Offsets Crude Build - OilPrice.com",
+         "description" : "Australia, the world's top coal exporter, plans to invest over US$13 billion 18 billion Australian dollars in low emission technologies through 2030",
+         "urlToImage" : "https://d32r1sh890xpii.cloudfront.net/news/718x300/2020-09-22_duewpf4zlk.jpg",
+         "content" : "Joe Bidens plan to decarbonize…\r\nAfter oil prices crashed at…\r\nBy Charles Kennedy - Sep 22, 2020, 2:30 PM CDTAustralia, the world’s top coal exporter, plans to invest over US$13 billion (18 billion A… [+2041 chars]",
+         "publishedAt" : "2020-09-22T20:40:00Z",
+         "url" : "https://oilprice.com/Latest-Energy-News/World-News/Australia-Plans-US13B-Investment-In-Low-Emission-Tech.html",
+         "author" : "Charles Kennedy"
+      },
+      {
          "content" : "<ul><li>Continued Adjusted EBITDA Improvement Due to Strong Gross Margins and Reduced SG&amp;A</li><li>Debt Levels and CapEx Spend Down Substantially in Q4 2020</li><li>Provides Guidance for Q1 2021<… [+58432 chars]",
-         "title" : "Aurora Cannabis Announces Fiscal Fourth Quarter 2020 Results - PRNewswire",
-         "url" : "https://www.prnewswire.com/news-releases/aurora-cannabis-announces-fiscal-fourth-quarter-2020-results-301136105.html",
-         "urlToImage" : "https://mma.prnewswire.com/media/1279425/Aurora_Cannabis_Inc__Aurora_Cannabis_Announces_Fiscal_Fourth_Qua.jpg?p=facebook",
+         "author" : null,
          "publishedAt" : "2020-09-22T20:32:00Z",
+         "url" : "https://www.prnewswire.com/news-releases/aurora-cannabis-announces-fiscal-fourth-quarter-2020-results-301136105.html",
          "source" : {
             "id" : null,
             "name" : "PRNewswire"
-         }
+         },
+         "urlToImage" : "https://mma.prnewswire.com/media/1279425/Aurora_Cannabis_Inc__Aurora_Cannabis_Announces_Fiscal_Fourth_Qua.jpg?p=facebook",
+         "title" : "Aurora Cannabis Announces Fiscal Fourth Quarter 2020 Results - PRNewswire",
+         "description" : "/PRNewswire/ - Aurora Cannabis Inc. (the \"Company\" or \"Aurora\") (NYSE | TSX: ACB), the Canadian company defining the future of cannabinoids worldwide, today..."
       },
       {
-         "url" : "https://www.nytimes.com/2020/09/22/business/luxury-fashion-september-coronavirus.html",
-         "publishedAt" : "2020-09-22T20:25:00Z",
+         "title" : "Can Luxury Fashion Ever Regain Its Luster? - The New York Times",
+         "description" : "The industry is trying to reach customers amid a severe global recession that has brought mass layoffs and plunging sales. Traditional fashion weeks might be out of step.",
          "urlToImage" : "https://static01.nyt.com/images/2020/09/17/business/00virus-luxury-1/00virus-luxury-1-facebookJumbo.jpg",
          "source" : {
             "id" : null,
             "name" : "New York Times"
          },
-         "title" : "Can Luxury Fashion Ever Regain Its Luster? - The New York Times",
-         "content" : "China, which was already the fastest-growing luxury market before the pandemic, will become even more vital to brands success as North American and European markets remain unpredictable. And everywhe… [+1908 chars]",
-         "description" : "The industry is trying to reach customers amid a severe global recession that has brought mass layoffs and plunging sales. Traditional fashion weeks might be out of step.",
-         "author" : "Elizabeth Paton"
+         "url" : "https://www.nytimes.com/2020/09/22/business/luxury-fashion-september-coronavirus.html",
+         "publishedAt" : "2020-09-22T20:25:00Z",
+         "author" : "Elizabeth Paton",
+         "content" : "China, which was already the fastest-growing luxury market before the pandemic, will become even more vital to brands success as North American and European markets remain unpredictable. And everywhe… [+1908 chars]"
       }
    ],
-   "totalResults" : 70
+   "status" : "ok"
 }
