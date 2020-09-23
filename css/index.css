@@ -1,0 +1,7 @@
+body {
+  background: AntiqueGray;
+}
+
+.app-headline:hover {
+  border: 2px solid #777;
+}
