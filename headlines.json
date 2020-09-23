@@ -1,266 +1,266 @@
 {
+   "totalResults" : 70,
    "status" : "ok",
    "articles" : [
       {
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106713576-1600846653568-gettyimages-1274813138-paris_covid_crisis_kr_005_20200922100926023.jpeg?v=1600846707",
-         "author" : "Silvia Amaro",
          "url" : "https://www.cnbc.com/2020/09/23/euro-zone-recovery-stutters-as-the-service-industry-suffers.html",
-         "title" : "Euro zone recovery stutters in September as coronavirus infections rise - CNBC",
+         "content" : "Euro zone business activity has taken a hit in the month of September as countries face a second wave of coronavirus infections, initial data showed Wednesday.\r\nThe flash euro zone PMI (purchasing ma… [+2102 chars]",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106713576-1600846653568-gettyimages-1274813138-paris_covid_crisis_kr_005_20200922100926023.jpeg?v=1600846707",
+         "description" : "Euro zone businesses took a hit in September as countries grapple with a second wave of coronavirus infections, initial data showed Wednesday.",
+         "publishedAt" : "2020-09-23T08:07:00Z",
+         "author" : "Silvia Amaro",
          "source" : {
             "id" : null,
             "name" : "CNBC"
          },
-         "content" : "Euro zone business activity has taken a hit in the month of September as countries face a second wave of coronavirus infections, initial data showed Wednesday.\r\nThe flash euro zone PMI (purchasing ma… [+2102 chars]",
-         "publishedAt" : "2020-09-23T08:07:00Z",
-         "description" : "Euro zone businesses took a hit in September as countries grapple with a second wave of coronavirus infections, initial data showed Wednesday."
+         "title" : "Euro zone recovery stutters in September as coronavirus infections rise - CNBC"
       },
       {
-         "publishedAt" : "2020-09-23T06:46:00Z",
-         "title" : "Tesla's Battery Suppliers Feel Shock From Musk's Cost-Cut Push - Yahoo Finance",
          "source" : {
             "name" : "Yahoo Entertainment",
             "id" : null
          },
-         "content" : "Is it time for the bears to break out the champagne glasses? Not so fast, says Goldman Sachs. Volatility has ruled the Street for the last few weeks, leading some to conclude that those with a more p… [+10753 chars]",
-         "url" : "https://finance.yahoo.com/news/tesla-battery-suppliers-feel-shock-064632983.html",
+         "title" : "Tesla's Battery Suppliers Feel Shock From Musk's Cost-Cut Push - Yahoo Finance",
          "author" : "Kurt Schussler",
-         "urlToImage" : "https://s.yimg.com/uu/api/res/1.2/Jmkj26.bs0whRNF6Vmn9pg--~B/aD02NzU7dz0xMjAwO3NtPTE7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/bloomberg_markets_842/f6a08ef5142fa73f6631b11bf138d410",
-         "description" : "(Bloomberg) -- Tesla Inc.’s Elon Musk cast a shadow of uncertainty over the sales prospects of his suppliers in Asia after unveiling a push to lower the cost..."
+         "publishedAt" : "2020-09-23T06:46:00Z",
+         "url" : "https://finance.yahoo.com/news/tesla-battery-suppliers-feel-shock-064632983.html",
+         "content" : "Is it time for the bears to break out the champagne glasses? Not so fast, says Goldman Sachs. Volatility has ruled the Street for the last few weeks, leading some to conclude that those with a more p… [+10753 chars]",
+         "description" : "(Bloomberg) -- Tesla Inc.’s Elon Musk cast a shadow of uncertainty over the sales prospects of his suppliers in Asia after unveiling a push to lower the cost...",
+         "urlToImage" : "https://s.yimg.com/uu/api/res/1.2/Jmkj26.bs0whRNF6Vmn9pg--~B/aD02NzU7dz0xMjAwO3NtPTE7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/bloomberg_markets_842/f6a08ef5142fa73f6631b11bf138d410"
       },
       {
          "author" : "Max Rodriguez",
-         "urlToImage" : "https://www.khon2.com/wp-content/uploads/sites/8/2020/09/FOUR-TIER-SYSTEM.jpg?w=1280",
-         "publishedAt" : "2020-09-23T05:39:00Z",
-         "title" : "Daily COVID-19 cases and positivity rate to determine reopening phases for Honolulu - KHON2",
          "source" : {
             "id" : null,
             "name" : "KHON2"
          },
+         "title" : "Daily COVID-19 cases and positivity rate to determine reopening phases for Honolulu - KHON2",
          "content" : "HONOLULU (KHON2) — Oahu community members and businesses have a path forward on reopening during the pandemic, Honolulu Mayor Kirk Caldwell said it will be based on the daily number of COVID-19 cases… [+2913 chars]",
          "url" : "https://www.khon2.com/coronavirus/daily-covid-19-cases-and-positivity-rate-to-determine-reopening-phases-for-honolulu/",
-         "description" : "Oahu community members and businesses have a path forward on reopening during the pandemic, Honolulu Mayor Kirk Caldwell said it will be based on the daily number of COVID-19 cases and the percentage of positive tests."
+         "urlToImage" : "https://www.khon2.com/wp-content/uploads/sites/8/2020/09/FOUR-TIER-SYSTEM.jpg?w=1280",
+         "description" : "Oahu community members and businesses have a path forward on reopening during the pandemic, Honolulu Mayor Kirk Caldwell said it will be based on the daily number of COVID-19 cases and the percentage of positive tests.",
+         "publishedAt" : "2020-09-23T05:39:00Z"
       },
       {
-         "description" : "The U.S. last month further tightened restrictions to choke Huawei's access to commercially available chips",
-         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/01/0/0/CHINESE_FLAG_HUAWEI_1280-720.png?ve=1&tl=1",
          "author" : "Reuters",
-         "url" : "https://www.foxbusiness.com/markets/huaweis-supply-chain-has-been-attacked-says-chairman",
-         "title" : "Huawei's supply chain has been 'attacked', says chairman - Fox Business",
          "source" : {
-            "id" : null,
-            "name" : "Fox Business"
+            "name" : "Fox Business",
+            "id" : null
          },
+         "title" : "Huawei's supply chain has been 'attacked', says chairman - Fox Business",
+         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/01/0/0/CHINESE_FLAG_HUAWEI_1280-720.png?ve=1&tl=1",
+         "description" : "The U.S. last month further tightened restrictions to choke Huawei's access to commercially available chips",
          "content" : "Huawei Technologies will do everything it can to strengthen its supply chain which has been \"attacked\", its rotating Chairman Guo Ping said on Wednesday.\r\nGuo was speaking at the Chinese smartphone a… [+2134 chars]",
+         "url" : "https://www.foxbusiness.com/markets/huaweis-supply-chain-has-been-attacked-says-chairman",
          "publishedAt" : "2020-09-23T04:05:43Z"
       },
       {
-         "description" : "The upcoming holiday shopping stretch will look much different for retailers in a pandemic.",
-         "author" : "Nathaniel Meyersohn, CNN Business",
-         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200922154840-walmart-fulfillment-center-file-restricted-super-tease.jpg",
          "publishedAt" : "2020-09-23T04:01:00Z",
-         "title" : "Walmart, UPS and others are staffing up for an online shopping surge this holiday season - CNN",
+         "url" : "https://www.cnn.com/2020/09/23/business/walmart-ups-hiring/index.html",
          "content" : null,
+         "description" : "The upcoming holiday shopping stretch will look much different for retailers in a pandemic.",
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200922154840-walmart-fulfillment-center-file-restricted-super-tease.jpg",
          "source" : {
-            "id" : "cnn",
-            "name" : "CNN"
+            "name" : "CNN",
+            "id" : "cnn"
          },
-         "url" : "https://www.cnn.com/2020/09/23/business/walmart-ups-hiring/index.html"
+         "title" : "Walmart, UPS and others are staffing up for an online shopping surge this holiday season - CNN",
+         "author" : "Nathaniel Meyersohn, CNN Business"
       },
       {
-         "description" : "Any mention of an Amazon partnership has been deleted from the product page.",
+         "publishedAt" : "2020-09-23T03:57:00Z",
          "urlToImage" : "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6a4162d548d8c88eddc7bc%2F0x0.jpg",
-         "author" : "Rachel Sandler",
+         "description" : "Any mention of an Amazon partnership has been deleted from the product page.",
          "url" : "https://www.forbes.com/sites/rachelsandler/2020/09/22/amazon-stops-sale-of-prime-bike-distances-itself-from-fitness-company-echelon/",
-         "title" : "Amazon Stops Sale Of 'Prime Bike,' Distances Itself From Fitness Company Echelon - Forbes",
          "content" : "Hours after launching a $499 exercise bike billed as a partnership between Amazon and fitness company Echelon, Amazon stopped selling the product and said the bike is not an Amazon product or related… [+1964 chars]",
          "source" : {
-            "id" : null,
-            "name" : "Forbes"
+            "name" : "Forbes",
+            "id" : null
          },
-         "publishedAt" : "2020-09-23T03:57:00Z"
+         "title" : "Amazon Stops Sale Of 'Prime Bike,' Distances Itself From Fitness Company Echelon - Forbes",
+         "author" : "Rachel Sandler"
       },
       {
-         "urlToImage" : "https://techcrunch.com/wp-content/uploads/2018/05/gettyimages-868653848.jpg?w=600",
-         "author" : "Rita Liao",
-         "url" : "http://techcrunch.com/2020/09/22/china-says-it-wont-greenlight-tiktok-deal/",
-         "publishedAt" : "2020-09-23T03:54:00Z",
          "title" : "China says it won’t approve TikTok sale, calls it ‘extortion’ - TechCrunch",
-         "content" : "The September 20 deadline for a purported TikTok sale has already passed, but the parties involved have yet to settle terms on the deal. ByteDance and TikTok’s bidders Oracle and Walmart presented co… [+2573 chars]",
          "source" : {
             "id" : "techcrunch",
             "name" : "TechCrunch"
          },
-         "description" : "The September 20 deadline for a purported TikTok sale has already passed, but the parties involved have yet to settle terms on the deal. ByteDance and TikTok’s bidders Oracle and Walmart presented conflicting messages on the future ownership of the app, confu…"
+         "author" : "Rita Liao",
+         "publishedAt" : "2020-09-23T03:54:00Z",
+         "content" : "The September 20 deadline for a purported TikTok sale has already passed, but the parties involved have yet to settle terms on the deal. ByteDance and TikTok’s bidders Oracle and Walmart presented co… [+2573 chars]",
+         "url" : "http://techcrunch.com/2020/09/22/china-says-it-wont-greenlight-tiktok-deal/",
+         "description" : "The September 20 deadline for a purported TikTok sale has already passed, but the parties involved have yet to settle terms on the deal. ByteDance and TikTok’s bidders Oracle and Walmart presented conflicting messages on the future ownership of the app, confu…",
+         "urlToImage" : "https://techcrunch.com/wp-content/uploads/2018/05/gettyimages-868653848.jpg?w=600"
       },
       {
-         "description" : "Bed Bath & Beyond has announced the first 63 stores it will close by the end of the year as part of a restructuring plan brought on by COVID-19.",
-         "url" : "https://abc7.com/bed-bath-&amp;-beyond-stores-closing-is-going-out-of-business-and-store-closures/6511047/",
          "publishedAt" : "2020-09-23T03:18:52Z",
+         "description" : "Bed Bath & Beyond has announced the first 63 stores it will close by the end of the year as part of a restructuring plan brought on by COVID-19.",
+         "urlToImage" : "https://cdn.abcotvs.com/dip/images/6509454_092220-kabc-5pm-bed-bath-and-beyond-vid.jpg?w=1600",
+         "url" : "https://abc7.com/bed-bath-&amp;-beyond-stores-closing-is-going-out-of-business-and-store-closures/6511047/",
          "content" : "Bed Bath &amp; Beyond has announced the first 63 stores it will close by the end of the year as part of a restructuring plan brought on by COVID-19.The company announced in July plans to close around… [+859 chars]",
+         "title" : "Store closing locations: Bed Bath & Beyond shutting 63 stores this year - KABC-TV",
          "source" : {
             "name" : "KABC-TV",
             "id" : null
          },
-         "title" : "Store closing locations: Bed Bath & Beyond shutting 63 stores this year - KABC-TV",
-         "urlToImage" : "https://cdn.abcotvs.com/dip/images/6509454_092220-kabc-5pm-bed-bath-and-beyond-vid.jpg?w=1600",
          "author" : null
       },
       {
+         "content" : "Dow Jones futures rallied, while S&amp;P 500 futures and especially Nasdaq 100 futures were squarely lower. Tesla dived 7% after the close following its Battery Day event. Amazon.com and Apple helped… [+9446 chars]",
          "url" : "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-stock-market-rally-tesla-battery-day-amazon-beyond-meat-nike-earnings/",
+         "urlToImage" : "https://www.investors.com/wp-content/uploads/2019/11/stock-tesla-Cybertruck-04-company.jpg",
+         "description" : "Dow Jones futures were in focus late Tuesday after Amazon and Apple fueled the stock market rally. Tesla dived late Tuesday after its Battery Day event.",
          "publishedAt" : "2020-09-23T02:34:00Z",
+         "author" : "Investor's Business Daily",
+         "title" : "Dow Jones Futures Rise, While Tech Futures Fall Sharply; Tesla Dives On Battery Day - Investor's Business Daily",
          "source" : {
             "id" : null,
             "name" : "Investor's Business Daily"
-         },
-         "title" : "Dow Jones Futures Rise, While Tech Futures Fall Sharply; Tesla Dives On Battery Day - Investor's Business Daily",
-         "content" : "Dow Jones futures rallied, while S&amp;P 500 futures and especially Nasdaq 100 futures were squarely lower. Tesla dived 7% after the close following its Battery Day event. Amazon.com and Apple helped… [+9446 chars]",
-         "urlToImage" : "https://www.investors.com/wp-content/uploads/2019/11/stock-tesla-Cybertruck-04-company.jpg",
-         "author" : "Investor's Business Daily",
-         "description" : "Dow Jones futures were in focus late Tuesday after Amazon and Apple fueled the stock market rally. Tesla dived late Tuesday after its Battery Day event."
+         }
       },
       {
-         "description" : "Deal will take the lender public at valuation above $16 billion",
-         "author" : "Maureen Farrell",
-         "urlToImage" : "https://images.wsj.net/im-235322/social",
-         "title" : "United Wholesale Mortgage to Go Public Via Merger With Gores SPAC - The Wall Street Journal",
-         "content" : "The biggest wholesale mortgage originator in the U.S. is merging with a special-purpose acquisition company in a deal that will take the lender public at a valuation north of $16 billion, the record … [+326 chars]",
          "source" : {
-            "id" : "the-wall-street-journal",
-            "name" : "The Wall Street Journal"
+            "name" : "The Wall Street Journal",
+            "id" : "the-wall-street-journal"
          },
+         "title" : "United Wholesale Mortgage to Go Public Via Merger With Gores SPAC - The Wall Street Journal",
+         "author" : "Maureen Farrell",
          "publishedAt" : "2020-09-23T02:30:00Z",
-         "url" : "https://www.wsj.com/articles/united-wholesale-mortgage-to-go-public-via-merger-with-gores-spac-11600828200"
+         "url" : "https://www.wsj.com/articles/united-wholesale-mortgage-to-go-public-via-merger-with-gores-spac-11600828200",
+         "content" : "The biggest wholesale mortgage originator in the U.S. is merging with a special-purpose acquisition company in a deal that will take the lender public at a valuation north of $16 billion, the record … [+326 chars]",
+         "urlToImage" : "https://images.wsj.net/im-235322/social",
+         "description" : "Deal will take the lender public at valuation above $16 billion"
       },
       {
          "description" : "Billionaire Barry Diller says the market is being driven by 'great speculation,' and urges investors to save 'every nickel'",
-         "author" : "Emily Graffeo",
          "urlToImage" : "https://i.insider.com/5f6a49ec49479600287bd935?format=jpeg",
-         "title" : "Billionaire Barry Diller says the market is being driven by 'great speculation,' and urges investors to save 'every nickel' | Markets - Business Insider",
+         "url" : "https://www.businessinsider.com/stock-market-outlook-billionaire-barry-diller-great-speculation-investors-save-2020-9",
          "content" : "Mike Blake/REUTERS\r\n<ul><li>Billionaire Barry Diller told CNBC on Tuesday the market is being driven by \"great speculation,\" and investors should save \"every nickel\" they have. </li><li>The media mog… [+1599 chars]",
+         "publishedAt" : "2020-09-23T01:27:00Z",
+         "author" : "Emily Graffeo",
+         "title" : "Billionaire Barry Diller says the market is being driven by 'great speculation,' and urges investors to save 'every nickel' | Markets - Business Insider",
          "source" : {
             "id" : "business-insider",
             "name" : "Business Insider"
-         },
-         "publishedAt" : "2020-09-23T01:27:00Z",
-         "url" : "https://www.businessinsider.com/stock-market-outlook-billionaire-barry-diller-great-speculation-investors-save-2020-9"
+         }
       },
       {
-         "description" : "The only No. 2 allowed on the MTA is the train line. The Metropolitan Transportation Authority’s board is slated to formally ban defecating on its subways, buses and transit facilities during…",
-         "url" : "https://nypost.com/2020/09/22/mta-board-to-officially-ban-pooping-in-subways-buses/",
          "publishedAt" : "2020-09-23T00:57:00Z",
+         "url" : "https://nypost.com/2020/09/22/mta-board-to-officially-ban-pooping-in-subways-buses/",
+         "content" : "The only No. 2 allowed on the MTA is the train line.\r\nThe Metropolitan Transportation Authority’s board is slated to formally ban defecating on its subways, buses and transit facilities during its me… [+1607 chars]",
+         "description" : "The only No. 2 allowed on the MTA is the train line. The Metropolitan Transportation Authority’s board is slated to formally ban defecating on its subways, buses and transit facilities during…",
+         "urlToImage" : "https://nypost.com/wp-content/uploads/sites/2/2020/09/subway-3.jpg?quality=90&strip=all&w=1200",
          "source" : {
-            "name" : "New York Post",
-            "id" : null
+            "id" : null,
+            "name" : "New York Post"
          },
          "title" : "MTA board to officially ban pooping in subways, buses - New York Post ",
-         "content" : "The only No. 2 allowed on the MTA is the train line.\r\nThe Metropolitan Transportation Authority’s board is slated to formally ban defecating on its subways, buses and transit facilities during its me… [+1607 chars]",
-         "urlToImage" : "https://nypost.com/wp-content/uploads/sites/2/2020/09/subway-3.jpg?quality=90&strip=all&w=1200",
          "author" : "Vincent Barone"
       },
       {
+         "url" : "https://www.foxnews.com/travel/tsa-prohibited-items-week-minimize-checkpoint-snafus",
+         "content" : "The Transportation Security Administration (TSA) has kicked off an inaugural “Prohibited Items Week” to help travelers understand what they cannot fly with.\r\nThis new awareness week initiative began … [+2237 chars]",
          "description" : "The Transportation Security Administration has kicked off its inaugural “Prohibited Items Week” to help travelers figure out which possessions cannot go on a commercial aircraft.",
-         "author" : "Cortney Moore",
          "urlToImage" : "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/iStock-182430075.jpg",
          "publishedAt" : "2020-09-23T00:34:32Z",
+         "author" : "Cortney Moore",
          "title" : "TSA starts 'Prohibited Items Week' to minimize checkpoint snafus - Fox News",
          "source" : {
-            "id" : "fox-news",
-            "name" : "Fox News"
-         },
-         "content" : "The Transportation Security Administration (TSA) has kicked off an inaugural “Prohibited Items Week” to help travelers understand what they cannot fly with.\r\nThis new awareness week initiative began … [+2237 chars]",
-         "url" : "https://www.foxnews.com/travel/tsa-prohibited-items-week-minimize-checkpoint-snafus"
+            "name" : "Fox News",
+            "id" : "fox-news"
+         }
       },
       {
-         "description" : "A second Georgia city ranks in the top 20 of Money’s 50 best places to live 2020",
-         "author" : "Nancy Clanton",
          "urlToImage" : "https://www.ajc.com/resizer/iAUV4eNMTH8HVjNaSCPjJsHjAjc=/1200x630/d1fegwn2wjh0cs.cloudfront.net/09-01-2020/t_2aacfb15034c4b2cbe80ef4ef5d1aa6d_name_d60e127c199c4c809e459cb75c8faabc_scaled.jpg",
+         "description" : "A second Georgia city ranks in the top 20 of Money’s 50 best places to live 2020",
          "content" : "Rankings were derived from 115 types of data in the following categories:\r\nExplore3 Georgia cities among best places to retire, according to WalletHub\r\nWhen the results were tallied, Evans took the t… [+1620 chars]",
-         "title" : "This Georgia city is best place to live in U.S., according to Money - Atlanta Journal Constitution",
+         "url" : "https://www.ajc.com/life/this-georgia-city-is-best-place-to-live-in-us-according-to-money/QT4HWRFC6ZGQVGW5BRFXVJUDTY/",
+         "publishedAt" : "2020-09-23T00:21:48Z",
+         "author" : "Nancy Clanton",
          "source" : {
             "name" : "Atlanta Journal Constitution",
             "id" : null
          },
-         "publishedAt" : "2020-09-23T00:21:48Z",
-         "url" : "https://www.ajc.com/life/this-georgia-city-is-best-place-to-live-in-us-according-to-money/QT4HWRFC6ZGQVGW5BRFXVJUDTY/"
+         "title" : "This Georgia city is best place to live in U.S., according to Money - Atlanta Journal Constitution"
       },
       {
-         "description" : "\"We've all got A, B, C — we call it the 2020 options because whatever comes our way, we have to have flexibility,\" Macy's chief executive Jeff Gennette told CNBC's Jim Cramer.",
-         "author" : "Kevin Stankiewicz",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106687762-1599049705365-gettyimages-1268568890-ajr_1088_2020082113651645.jpeg?v=1600814033",
-         "title" : "Macy's CEO sees its stores providing an advantage during holiday shopping season - CNBC",
-         "source" : {
-            "name" : "CNBC",
-            "id" : null
-         },
-         "content" : "Macy's CEO Jeff Gennette told CNBC on Tuesday that the company is preparing for a wide range of scenarios during the critical holiday shopping season, citing the uncertain nature of the coronavirus p… [+2609 chars]",
          "publishedAt" : "2020-09-23T00:16:00Z",
-         "url" : "https://www.cnbc.com/2020/09/22/macys-ceo-sees-its-stores-providing-an-advantage-during-holiday-shopping-season.html"
-      },
-      {
-         "title" : "Halloween costume masks don't replace face masks, CDC warns - CNET",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106687762-1599049705365-gettyimages-1268568890-ajr_1088_2020082113651645.jpeg?v=1600814033",
+         "description" : "\"We've all got A, B, C — we call it the 2020 options because whatever comes our way, we have to have flexibility,\" Macy's chief executive Jeff Gennette told CNBC's Jim Cramer.",
+         "url" : "https://www.cnbc.com/2020/09/22/macys-ceo-sees-its-stores-providing-an-advantage-during-holiday-shopping-season.html",
+         "content" : "Macy's CEO Jeff Gennette told CNBC on Tuesday that the company is preparing for a wide range of scenarios during the critical holiday shopping season, citing the uncertain nature of the coronavirus p… [+2609 chars]",
          "source" : {
             "id" : null,
-            "name" : "CNET"
+            "name" : "CNBC"
          },
-         "content" : "A Fortnite skull trooper mask might be fun for Halloween, but it won't take the place of a face mask. \r\nSpirit Halloween\r\nFor the most up-to-date news and information about the coronavirus pandemic, … [+1805 chars]",
-         "publishedAt" : "2020-09-23T00:01:00Z",
-         "url" : "https://www.cnet.com/news/cdc-warns-that-a-halloween-mask-does-not-replace-a-face-mask/",
-         "author" : "Gael Fashingbauer Cooper",
-         "urlToImage" : "https://cnet3.cbsistatic.com/img/fsY5dO8hMFkNj49IgwzxAZeHu1Q=/1200x630/2018/08/07/35bb7781-7486-43b6-aa52-d3c766b34e80/skull-trooper.jpg",
-         "description" : "The spooky celebration is going to look a lot different this fall."
+         "title" : "Macy's CEO sees its stores providing an advantage during holiday shopping season - CNBC",
+         "author" : "Kevin Stankiewicz"
       },
       {
+         "publishedAt" : "2020-09-23T00:01:00Z",
+         "urlToImage" : "https://cnet3.cbsistatic.com/img/fsY5dO8hMFkNj49IgwzxAZeHu1Q=/1200x630/2018/08/07/35bb7781-7486-43b6-aa52-d3c766b34e80/skull-trooper.jpg",
+         "description" : "The spooky celebration is going to look a lot different this fall.",
+         "url" : "https://www.cnet.com/news/cdc-warns-that-a-halloween-mask-does-not-replace-a-face-mask/",
+         "content" : "A Fortnite skull trooper mask might be fun for Halloween, but it won't take the place of a face mask. \r\nSpirit Halloween\r\nFor the most up-to-date news and information about the coronavirus pandemic, … [+1805 chars]",
+         "title" : "Halloween costume masks don't replace face masks, CDC warns - CNET",
+         "source" : {
+            "name" : "CNET",
+            "id" : null
+         },
+         "author" : "Gael Fashingbauer Cooper"
+      },
+      {
+         "url" : "https://www.cnn.com/2020/09/22/business/airlines-ask-congress-help/index.html",
+         "content" : "Washington, DC (CNN Business)CEOs and union leaders joined together Tuesday to plead with Congress for another $28 billion in federal help for the battered airline industry, saying that 100,000 good … [+4331 chars]",
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200922180409-airline-relief-push-congress-0922-super-tease.jpg",
+         "description" : "CEOs and union leaders joined together Tuesday to plead with Congress for another $28 billion in federal help for the battered airline industry, saying that 100,000 good paying jobs in the industry will be lost next week without the help.",
+         "publishedAt" : "2020-09-22T23:57:00Z",
+         "author" : "Chris Isidore, Pete Muntean and Gregory Wallace, CNN",
+         "title" : "CEOs and unions come together in 11th hour plea for Congress to save airline jobs - CNN",
          "source" : {
             "id" : "cnn",
             "name" : "CNN"
-         },
-         "title" : "CEOs and unions come together in 11th hour plea for Congress to save airline jobs - CNN",
-         "content" : "Washington, DC (CNN Business)CEOs and union leaders joined together Tuesday to plead with Congress for another $28 billion in federal help for the battered airline industry, saying that 100,000 good … [+4331 chars]",
-         "publishedAt" : "2020-09-22T23:57:00Z",
-         "url" : "https://www.cnn.com/2020/09/22/business/airlines-ask-congress-help/index.html",
-         "author" : "Chris Isidore, Pete Muntean and Gregory Wallace, CNN",
-         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200922180409-airline-relief-push-congress-0922-super-tease.jpg",
-         "description" : "CEOs and union leaders joined together Tuesday to plead with Congress for another $28 billion in federal help for the battered airline industry, saying that 100,000 good paying jobs in the industry will be lost next week without the help."
+         }
       },
       {
-         "title" : "American Airlines Kicks Mother Off Flight After Her 2-Year-Old Wouldn't Wear A Mask - The Daily Wire",
-         "content" : "American Airlines booted a mother and her child from a flight last week because the 2-year-old would not wear a face mask.\r\nRachel Davis, the childs mother, shared an Instagram post on Thursday detai… [+7351 chars]",
-         "source" : {
-            "name" : "The Daily Wire",
-            "id" : null
-         },
-         "publishedAt" : "2020-09-22T23:37:30Z",
-         "url" : "https://www.dailywire.com/news/american-airlines-kicks-mother-off-flight-after-her-2-year-old-wouldnt-wear-a-mask",
          "author" : "Tim Pearce",
+         "source" : {
+            "id" : null,
+            "name" : "The Daily Wire"
+         },
+         "title" : "American Airlines Kicks Mother Off Flight After Her 2-Year-Old Wouldn't Wear A Mask - The Daily Wire",
+         "description" : "American Airlines booted a mother and her child from a flight last week because the 2-year-old would not wear a face mask. Rachel Davis, the child’s mother, shared an Instagram post on Thursday detailing her ordeal on an American Airlines plane earlier that d…",
          "urlToImage" : "https://dw-wp-production.imgix.net/2020/09/American-Airlines.jpg?w=1200&h=800&ixlib=react-9.0.2",
-         "description" : "American Airlines booted a mother and her child from a flight last week because the 2-year-old would not wear a face mask. Rachel Davis, the child’s mother, shared an Instagram post on Thursday detailing her ordeal on an American Airlines plane earlier that d…"
+         "content" : "American Airlines booted a mother and her child from a flight last week because the 2-year-old would not wear a face mask.\r\nRachel Davis, the childs mother, shared an Instagram post on Thursday detai… [+7351 chars]",
+         "url" : "https://www.dailywire.com/news/american-airlines-kicks-mother-off-flight-after-her-2-year-old-wouldnt-wear-a-mask",
+         "publishedAt" : "2020-09-22T23:37:30Z"
       },
       {
-         "title" : "2021 Hyundai Sonata N Line Debuts Its Subtle Sports Sedan Shape - Motor1 ",
+         "urlToImage" : "https://cdn.motor1.com/images/mgl/NRjJb/s1/2021-hyundai-sonata-n-line-exterior-side.jpg",
+         "description" : "Hyundai officially debuted the new Sonata N Line, though only information on the aesthetic changes is available at this time.",
+         "content" : "·         Sonata N Line expands appeal of new sedan with its sportiest offering yet·         Hyundais Sensuous Sportiness design identity gives Sonata N Line a high-performance look that promises exc… [+1823 chars]",
+         "url" : "https://www.motor1.com/news/445254/2021-hyundai-sonata-n-line/",
+         "publishedAt" : "2020-09-22T23:30:49Z",
+         "author" : "Christopher Smith",
          "source" : {
             "id" : null,
             "name" : "Motor1 "
          },
-         "content" : "·         Sonata N Line expands appeal of new sedan with its sportiest offering yet·         Hyundais Sensuous Sportiness design identity gives Sonata N Line a high-performance look that promises exc… [+1823 chars]",
-         "publishedAt" : "2020-09-22T23:30:49Z",
-         "url" : "https://www.motor1.com/news/445254/2021-hyundai-sonata-n-line/",
-         "author" : "Christopher Smith",
-         "urlToImage" : "https://cdn.motor1.com/images/mgl/NRjJb/s1/2021-hyundai-sonata-n-line-exterior-side.jpg",
-         "description" : "Hyundai officially debuted the new Sonata N Line, though only information on the aesthetic changes is available at this time."
+         "title" : "2021 Hyundai Sonata N Line Debuts Its Subtle Sports Sedan Shape - Motor1 "
       },
       {
-         "urlToImage" : "https://s.abcnews.com/images/Politics/frankfurt-airport-covid-gty-ps-200922_1600811872158_hpMain_16x9_992.jpg",
-         "author" : "Mina Kaji, Amanda Maile",
-         "url" : "https://abcnews.go.com/Politics/airlines-push-coronavirus-testing-international-flights/story?id=73171132",
          "publishedAt" : "2020-09-22T23:27:04Z",
-         "source" : {
-            "name" : "ABC News",
-            "id" : "abc-news"
-         },
-         "title" : "Airlines push for coronavirus testing before international flights - ABC News",
+         "urlToImage" : "https://s.abcnews.com/images/Politics/frankfurt-airport-covid-gty-ps-200922_1600811872158_hpMain_16x9_992.jpg",
+         "description" : "",
          "content" : "The U.S. aviation industry is urging the government to establish COVID-19 testing protocols before international flights as a way to safely reopen travel routes that have been cut amid the pandemic.\r… [+4079 chars]",
-         "description" : ""
+         "url" : "https://abcnews.go.com/Politics/airlines-push-coronavirus-testing-international-flights/story?id=73171132",
+         "title" : "Airlines push for coronavirus testing before international flights - ABC News",
+         "source" : {
+            "id" : "abc-news",
+            "name" : "ABC News"
+         },
+         "author" : "Mina Kaji, Amanda Maile"
       }
-   ],
-   "totalResults" : 70
+   ]
 }
