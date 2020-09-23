@@ -1,266 +1,266 @@
 {
-   "totalResults" : 70,
-   "status" : "ok",
    "articles" : [
-      {
-         "author" : "Melissa Repko",
-         "source" : {
-            "name" : "CNBC",
-            "id" : null
-         },
-         "url" : "https://www.cnbc.com/2020/09/23/walmart-to-hire-20000-employees-to-help-with-online-holiday-shopping.html",
-         "publishedAt" : "2020-09-23T04:01:00Z",
-         "description" : "The big-box retailer joined other retailers in saying it will extend the length of Black Friday specials.",
-         "content" : "Walmart said it will hire 20,000 seasonal employees who will help pack and ship online purchases at its fulfillment centers as it anticipates more holiday shopping to shift online during the coronavi… [+4241 chars]",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/104166951-RTX2QKP4.jpg?v=1579177743",
-         "title" : "Walmart looks to hire 20,000 workers to help pack and ship holiday orders this year - CNBC"
-      },
       {
          "source" : {
             "id" : null,
-            "name" : "Forbes"
+            "name" : "CNBC"
          },
+         "description" : "The big-box retailer joined other retailers in saying it will extend the length of Black Friday specials.",
+         "author" : "Melissa Repko",
+         "title" : "Walmart looks to hire 20,000 workers to help pack and ship holiday orders this year - CNBC",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/104166951-RTX2QKP4.jpg?v=1579177743",
+         "publishedAt" : "2020-09-23T04:01:00Z",
+         "url" : "https://www.cnbc.com/2020/09/23/walmart-to-hire-20000-employees-to-help-with-online-holiday-shopping.html",
+         "content" : "Walmart said it will hire 20,000 seasonal employees who will help pack and ship online purchases at its fulfillment centers as it anticipates more holiday shopping to shift online during the coronavi… [+4241 chars]"
+      },
+      {
+         "urlToImage" : "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6a4162d548d8c88eddc7bc%2F0x0.jpg",
          "author" : "Rachel Sandler",
-         "url" : "https://www.forbes.com/sites/rachelsandler/2020/09/22/amazon-stops-sale-of-prime-bike-distances-itself-from-fitness-company-echelon/",
-         "publishedAt" : "2020-09-23T03:57:00Z",
          "description" : "Any mention of an Amazon partnership has been deleted from the product page.",
          "title" : "Amazon Stops Sale Of 'Prime Bike,' Distances Itself From Fitness Company Echelon - Forbes",
+         "source" : {
+            "name" : "Forbes",
+            "id" : null
+         },
          "content" : "Hours after launching a $499 exercise bike billed as a partnership between Amazon and fitness company Echelon, Amazon stopped selling the product and said the bike is not an Amazon product or related… [+1964 chars]",
-         "urlToImage" : "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6a4162d548d8c88eddc7bc%2F0x0.jpg"
+         "publishedAt" : "2020-09-23T03:57:00Z",
+         "url" : "https://www.forbes.com/sites/rachelsandler/2020/09/22/amazon-stops-sale-of-prime-bike-distances-itself-from-fitness-company-echelon/"
       },
       {
-         "url" : "http://techcrunch.com/2020/09/22/china-says-it-wont-greenlight-tiktok-deal/",
          "source" : {
-            "name" : "TechCrunch",
-            "id" : "techcrunch"
+            "id" : "techcrunch",
+            "name" : "TechCrunch"
          },
          "author" : "Rita Liao",
+         "description" : "The September 20 deadline for a purported TikTok sale has already passed, but the parties involved have yet to settle terms on the deal. ByteDance and TikTok’s bidders Oracle and Walmart presented conflicting messages on the future ownership of the app, confu…",
          "title" : "China says it won’t approve TikTok sale, calls it ‘extortion’ - TechCrunch",
-         "content" : "The September 20 deadline for a purported TikTok sale has already passed, but the parties involved have yet to settle terms on the deal. ByteDance and TikTok’s bidders Oracle and Walmart presented co… [+2573 chars]",
          "urlToImage" : "https://techcrunch.com/wp-content/uploads/2018/05/gettyimages-868653848.jpg?w=600",
          "publishedAt" : "2020-09-23T03:54:00Z",
-         "description" : "The September 20 deadline for a purported TikTok sale has already passed, but the parties involved have yet to settle terms on the deal. ByteDance and TikTok’s bidders Oracle and Walmart presented conflicting messages on the future ownership of the app, confu…"
+         "url" : "http://techcrunch.com/2020/09/22/china-says-it-wont-greenlight-tiktok-deal/",
+         "content" : "The September 20 deadline for a purported TikTok sale has already passed, but the parties involved have yet to settle terms on the deal. ByteDance and TikTok’s bidders Oracle and Walmart presented co… [+2573 chars]"
       },
       {
-         "urlToImage" : "https://media.wired.com/photos/5f6a743a1518e2504fb03fee/191:100/w_1280,c_limit/business_tesla_1228353090.jpg",
          "content" : "What happens when you load more than 200 Tesla shareholdersincreasingly rich shareholdersinto a Fremont, California, parking lot, and set CEO Elon Musk loose in front of them to talk about the compan… [+4218 chars]",
-         "title" : "Elon Musk Promises a $25,000 Tesla in 3 Years—Again - WIRED",
          "publishedAt" : "2020-09-23T03:01:00Z",
-         "description" : "Reducing the cost of electric vehicles is all about a cheaper battery. Tesla outlined a plan that includes making more of the components itself.",
          "url" : "https://www.wired.com/story/elon-musk-promises-25000-tesla-3-years-again/",
          "author" : "Aarian Marshall",
+         "description" : "Reducing the cost of electric vehicles is all about a cheaper battery. Tesla outlined a plan that includes making more of the components itself.",
+         "title" : "Elon Musk Promises a $25,000 Tesla in 3 Years—Again - WIRED",
+         "urlToImage" : "https://media.wired.com/photos/5f6a743a1518e2504fb03fee/191:100/w_1280,c_limit/business_tesla_1228353090.jpg",
          "source" : {
-            "id" : "wired",
-            "name" : "Wired"
+            "name" : "Wired",
+            "id" : "wired"
          }
       },
       {
+         "publishedAt" : "2020-09-23T02:39:00Z",
          "url" : "https://www.cnn.com/2020/09/22/health/coronavirus-vaccine-fda-authorization-rules/index.html",
-         "author" : "Elizabeth Cohen, John Bonifield and Jeremy Diamond, CNN",
+         "content" : "(CNN)The US Food and Drug Administration is considering new rules for authorization for a Covid-19 vaccine, according to three sources familiar with the situation -- and calculations show these rules… [+4093 chars]",
          "source" : {
             "name" : "CNN",
             "id" : "cnn"
          },
-         "content" : "(CNN)The US Food and Drug Administration is considering new rules for authorization for a Covid-19 vaccine, according to three sources familiar with the situation -- and calculations show these rules… [+4093 chars]",
          "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200811105852-fda-super-tease.jpg",
-         "title" : "FDA considering authorization rules that could push coronavirus vaccine past Election Day - CNN",
-         "publishedAt" : "2020-09-23T02:39:00Z",
-         "description" : "The US Food and Drug Administration is considering new rules for authorization for a Covid-19 vaccine, according to three sources familiar with the situation -- and calculations show these rules would push an authorization beyond Election Day."
+         "description" : "The US Food and Drug Administration is considering new rules for authorization for a Covid-19 vaccine, according to three sources familiar with the situation -- and calculations show these rules would push an authorization beyond Election Day.",
+         "author" : "Elizabeth Cohen, John Bonifield and Jeremy Diamond, CNN",
+         "title" : "FDA considering authorization rules that could push coronavirus vaccine past Election Day - CNN"
       },
       {
-         "description" : "Dow Jones futures were in focus late Tuesday after Amazon and Apple fueled the stock market rally. Tesla dived late Tuesday after its Battery Day event.",
          "publishedAt" : "2020-09-23T02:34:00Z",
-         "title" : "Dow Jones Futures Rise, While Tech Futures Fall Sharply; Tesla Dives On Battery Day - Investor's Business Daily",
-         "urlToImage" : "https://www.investors.com/wp-content/uploads/2019/11/stock-tesla-Cybertruck-04-company.jpg",
+         "url" : "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-stock-market-rally-tesla-battery-day-amazon-beyond-meat-nike-earnings/",
          "content" : "Dow Jones futures rallied, while S&amp;P 500 futures and especially Nasdaq 100 futures were squarely lower. Tesla dived 7% after the close following its Battery Day event. Amazon.com and Apple helped… [+9446 chars]",
          "source" : {
-            "id" : null,
-            "name" : "Investor's Business Daily"
+            "name" : "Investor's Business Daily",
+            "id" : null
          },
+         "description" : "Dow Jones futures were in focus late Tuesday after Amazon and Apple fueled the stock market rally. Tesla dived late Tuesday after its Battery Day event.",
          "author" : "Investor's Business Daily",
-         "url" : "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-stock-market-rally-tesla-battery-day-amazon-beyond-meat-nike-earnings/"
+         "title" : "Dow Jones Futures Rise, While Tech Futures Fall Sharply; Tesla Dives On Battery Day - Investor's Business Daily",
+         "urlToImage" : "https://www.investors.com/wp-content/uploads/2019/11/stock-tesla-Cybertruck-04-company.jpg"
       },
       {
          "urlToImage" : "https://images.wsj.net/im-235322/social",
-         "content" : "The biggest wholesale mortgage originator in the U.S. is merging with a special-purpose acquisition company in a deal that will take the lender public at a valuation north of $16 billion, the record … [+326 chars]",
          "title" : "United Wholesale Mortgage to Go Public Via Merger With Gores SPAC - The Wall Street Journal",
-         "publishedAt" : "2020-09-23T02:30:00Z",
          "description" : "Deal will take the lender public at valuation above $16 billion",
-         "url" : "https://www.wsj.com/articles/united-wholesale-mortgage-to-go-public-via-merger-with-gores-spac-11600828200",
          "author" : "Maureen Farrell",
          "source" : {
             "id" : "the-wall-street-journal",
             "name" : "The Wall Street Journal"
-         }
+         },
+         "content" : "The biggest wholesale mortgage originator in the U.S. is merging with a special-purpose acquisition company in a deal that will take the lender public at a valuation north of $16 billion, the record … [+326 chars]",
+         "url" : "https://www.wsj.com/articles/united-wholesale-mortgage-to-go-public-via-merger-with-gores-spac-11600828200",
+         "publishedAt" : "2020-09-23T02:30:00Z"
       },
       {
-         "url" : "https://www.nbcchicago.com/news/local/illinois-facebook-users-can-now-file-claims-for-payouts-in-650-million-lawsuit-settlement/2342967/",
          "source" : {
             "id" : null,
             "name" : "NBC Chicago"
          },
-         "author" : "NBC Chicago",
-         "title" : "Illinois Facebook Users Can Now File Claims for Payouts in $650 Million Lawsuit Settlement - NBC Chicago",
          "urlToImage" : "https://media.nbcchicago.com/2019/09/facebook-datos-141.jpg?fit=1013%2C675",
-         "content" : "Following a $650 million settlement in a lawsuit filed\r\nagainst social media giant Facebook, Illinois residents who have accounts with\r\nthe website can now file claims for payouts potentially ranging… [+7246 chars]",
+         "title" : "Illinois Facebook Users Can Now File Claims for Payouts in $650 Million Lawsuit Settlement - NBC Chicago",
+         "description" : "Facebook has agreed to a $650 million settlement of a class-action lawsuit that accuses it of violating the rights of millions of Illinois users by harvesting…",
+         "author" : "NBC Chicago",
+         "url" : "https://www.nbcchicago.com/news/local/illinois-facebook-users-can-now-file-claims-for-payouts-in-650-million-lawsuit-settlement/2342967/",
          "publishedAt" : "2020-09-23T02:04:00Z",
-         "description" : "Facebook has agreed to a $650 million settlement of a class-action lawsuit that accuses it of violating the rights of millions of Illinois users by harvesting…"
+         "content" : "Following a $650 million settlement in a lawsuit filed\r\nagainst social media giant Facebook, Illinois residents who have accounts with\r\nthe website can now file claims for payouts potentially ranging… [+7246 chars]"
       },
       {
-         "url" : "https://nypost.com/2020/09/22/mta-board-to-officially-ban-pooping-in-subways-buses/",
-         "author" : "Vincent Barone",
-         "source" : {
-            "id" : null,
-            "name" : "New York Post"
-         },
-         "urlToImage" : "https://nypost.com/wp-content/uploads/sites/2/2020/09/subway-3.jpg?quality=90&strip=all&w=1200",
          "content" : "The only No. 2 allowed on the MTA is the train line.\r\nThe Metropolitan Transportation Authority’s board is slated to formally ban defecating on its subways, buses and transit facilities during its me… [+1607 chars]",
+         "url" : "https://nypost.com/2020/09/22/mta-board-to-officially-ban-pooping-in-subways-buses/",
+         "publishedAt" : "2020-09-23T00:57:00Z",
+         "urlToImage" : "https://nypost.com/wp-content/uploads/sites/2/2020/09/subway-3.jpg?quality=90&strip=all&w=1200",
          "title" : "MTA board to officially ban pooping in subways, buses - New York Post ",
          "description" : "The only No. 2 allowed on the MTA is the train line. The Metropolitan Transportation Authority’s board is slated to formally ban defecating on its subways, buses and transit facilities during…",
-         "publishedAt" : "2020-09-23T00:57:00Z"
-      },
-      {
-         "description" : "The Transportation Security Administration has kicked off its inaugural “Prohibited Items Week” to help travelers figure out which possessions cannot go on a commercial aircraft.",
-         "publishedAt" : "2020-09-23T00:34:32Z",
-         "title" : "TSA starts 'Prohibited Items Week' to minimize checkpoint snafus - Fox News",
-         "urlToImage" : "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/iStock-182430075.jpg",
-         "content" : "The Transportation Security Administration (TSA) has kicked off an inaugural “Prohibited Items Week” to help travelers understand what they cannot fly with.\r\nThis new awareness week initiative began … [+2237 chars]",
+         "author" : "Vincent Barone",
          "source" : {
-            "name" : "Fox News",
-            "id" : "fox-news"
-         },
-         "author" : "Cortney Moore",
-         "url" : "https://www.foxnews.com/travel/tsa-prohibited-items-week-minimize-checkpoint-snafus"
-      },
-      {
-         "url" : "https://www.politico.com/news/2020/09/22/barr-ags-to-meet-on-case-against-google-doj-420283",
-         "author" : "Leah Nylen",
-         "source" : {
-            "id" : "politico",
-            "name" : "Politico"
-         },
-         "content" : "The individuals, who asked for anonymity to candidly discuss the probes, said Barr and the states have made no final decisions on either suit. They said crucial debates also remain ongoing about what… [+3598 chars]",
-         "urlToImage" : "https://static.politico.com/1c/dc/8e84e5ec4958b331994ec9a694a7/20200910-barr-gty-773.jpg",
-         "title" : "Barr, AGs to meet on fragmenting case against Google - POLITICO",
-         "publishedAt" : "2020-09-23T00:23:00Z",
-         "description" : "DOJ is preparing an expected antitrust suit targeting the company’s dominance in search, but Democratic-led states may decline to sign on."
-      },
-      {
-         "author" : "TipRanks",
-         "source" : {
-            "id" : null,
-            "name" : "Yahoo Entertainment"
-         },
-         "url" : "https://finance.yahoo.com/news/nikola-executive-shake-necessary-says-001030447.html",
-         "publishedAt" : "2020-09-23T00:10:00Z",
-         "description" : "Electric car maker Nikola (NKLA) has been grabbing headlines for all the wrong reasons recently. Shares took a 19% tumble on Monday after the company...",
-         "content" : "Is it time for the bears to break out the champagne glasses? Not so fast, says Goldman Sachs. Volatility has ruled the Street for the last few weeks, leading some to conclude that those with a more p… [+10753 chars]",
-         "urlToImage" : "https://s.yimg.com/uu/api/res/1.2/AEorJLZh_l3pj5w0.svE2Q--~B/aD00MTI7dz0xMDI0O3NtPTE7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en-US/tipranks_452/0bb404a5231c43f4e34eb6e78ce9fb94",
-         "title" : "Nikola: Executive Shake Up Was Necessary, Says Analyst - Yahoo Finance"
-      },
-      {
-         "content" : "Honolulu will allow gatherings of up to five people and reopen some businesses on Thursday as it implements a new plan that will guide the pandemic response going forward, Honolulu Mayor Kirk Caldwel… [+12387 chars]",
-         "urlToImage" : "https://s3-us-west-1.amazonaws.com/civilbeat-aws-dotorg/wp-content/2020/09/22145731/Mayor-Kirk-Caldwell-Partial-opening-of-Honolulu-v3-1024x683.jpg",
-         "title" : "New Honolulu Plan Opens Beaches, Parks, Social Gatherings To Groups… - Honolulu Civil Beat",
-         "publishedAt" : "2020-09-23T00:00:00Z",
-         "description" : "Pools, hair salons can reopen. Retail can open at 50% capacity.",
-         "url" : "http://www.civilbeat.org/2020/09/new-honolulu-plan-opens-beaches-parks-social-gatherings-to-groups-of-5/",
-         "author" : "Christina Jedra",
-         "source" : {
-            "name" : "Honolulu Civil Beat",
+            "name" : "New York Post",
             "id" : null
          }
       },
       {
-         "publishedAt" : "2020-09-22T23:37:30Z",
+         "source" : {
+            "name" : "Fox News",
+            "id" : "fox-news"
+         },
+         "description" : "The Transportation Security Administration has kicked off its inaugural “Prohibited Items Week” to help travelers figure out which possessions cannot go on a commercial aircraft.",
+         "author" : "Cortney Moore",
+         "title" : "TSA starts 'Prohibited Items Week' to minimize checkpoint snafus - Fox News",
+         "urlToImage" : "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/iStock-182430075.jpg",
+         "publishedAt" : "2020-09-23T00:34:32Z",
+         "url" : "https://www.foxnews.com/travel/tsa-prohibited-items-week-minimize-checkpoint-snafus",
+         "content" : "The Transportation Security Administration (TSA) has kicked off an inaugural “Prohibited Items Week” to help travelers understand what they cannot fly with.\r\nThis new awareness week initiative began … [+2237 chars]"
+      },
+      {
+         "content" : "The individuals, who asked for anonymity to candidly discuss the probes, said Barr and the states have made no final decisions on either suit. They said crucial debates also remain ongoing about what… [+3598 chars]",
+         "publishedAt" : "2020-09-23T00:23:00Z",
+         "url" : "https://www.politico.com/news/2020/09/22/barr-ags-to-meet-on-case-against-google-doj-420283",
+         "description" : "DOJ is preparing an expected antitrust suit targeting the company’s dominance in search, but Democratic-led states may decline to sign on.",
+         "author" : "Leah Nylen",
+         "title" : "Barr, AGs to meet on fragmenting case against Google - POLITICO",
+         "urlToImage" : "https://static.politico.com/1c/dc/8e84e5ec4958b331994ec9a694a7/20200910-barr-gty-773.jpg",
+         "source" : {
+            "name" : "Politico",
+            "id" : "politico"
+         }
+      },
+      {
+         "source" : {
+            "name" : "Yahoo Entertainment",
+            "id" : null
+         },
+         "title" : "Nikola: Executive Shake Up Was Necessary, Says Analyst - Yahoo Finance",
+         "description" : "Electric car maker Nikola (NKLA) has been grabbing headlines for all the wrong reasons recently. Shares took a 19% tumble on Monday after the company...",
+         "author" : "TipRanks",
+         "urlToImage" : "https://s.yimg.com/uu/api/res/1.2/AEorJLZh_l3pj5w0.svE2Q--~B/aD00MTI7dz0xMDI0O3NtPTE7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en-US/tipranks_452/0bb404a5231c43f4e34eb6e78ce9fb94",
+         "url" : "https://finance.yahoo.com/news/nikola-executive-shake-necessary-says-001030447.html",
+         "publishedAt" : "2020-09-23T00:10:00Z",
+         "content" : "Is it time for the bears to break out the champagne glasses? Not so fast, says Goldman Sachs. Volatility has ruled the Street for the last few weeks, leading some to conclude that those with a more p… [+10753 chars]"
+      },
+      {
+         "url" : "http://www.civilbeat.org/2020/09/new-honolulu-plan-opens-beaches-parks-social-gatherings-to-groups-of-5/",
+         "publishedAt" : "2020-09-23T00:00:00Z",
+         "content" : "Honolulu will allow gatherings of up to five people and reopen some businesses on Thursday as it implements a new plan that will guide the pandemic response going forward, Honolulu Mayor Kirk Caldwel… [+12387 chars]",
+         "source" : {
+            "name" : "Honolulu Civil Beat",
+            "id" : null
+         },
+         "title" : "New Honolulu Plan Opens Beaches, Parks, Social Gatherings To Groups… - Honolulu Civil Beat",
+         "description" : "Pools, hair salons can reopen. Retail can open at 50% capacity.",
+         "author" : "Christina Jedra",
+         "urlToImage" : "https://s3-us-west-1.amazonaws.com/civilbeat-aws-dotorg/wp-content/2020/09/22145731/Mayor-Kirk-Caldwell-Partial-opening-of-Honolulu-v3-1024x683.jpg"
+      },
+      {
          "description" : "American Airlines booted a mother and her child from a flight last week because the 2-year-old would not wear a face mask. Rachel Davis, the child’s mother, shared an Instagram post on Thursday detailing her ordeal on an American Airlines plane earlier that d…",
+         "author" : "Tim Pearce",
          "title" : "American Airlines Kicks Mother Off Flight After Her 2-Year-Old Wouldn't Wear A Mask - The Daily Wire",
          "urlToImage" : "https://dw-wp-production.imgix.net/2020/09/American-Airlines.jpg?w=1200&h=800&ixlib=react-9.0.2",
-         "content" : "American Airlines booted a mother and her child from a flight last week because the 2-year-old would not wear a face mask.\r\nRachel Davis, the childs mother, shared an Instagram post on Thursday detai… [+7351 chars]",
          "source" : {
             "id" : null,
             "name" : "The Daily Wire"
          },
-         "author" : "Tim Pearce",
+         "content" : "American Airlines booted a mother and her child from a flight last week because the 2-year-old would not wear a face mask.\r\nRachel Davis, the childs mother, shared an Instagram post on Thursday detai… [+7351 chars]",
+         "publishedAt" : "2020-09-22T23:37:30Z",
          "url" : "https://www.dailywire.com/news/american-airlines-kicks-mother-off-flight-after-her-2-year-old-wouldnt-wear-a-mask"
       },
       {
-         "title" : "2021 Hyundai Sonata N-Line looks ready to run laps and turn heads - CNET",
          "content" : "While not being a full-fat N model like its Veloster cousin, the N-Line Sonata promises big performance for a reasonable price.\r\nHyundai\r\nWe're big fans of the current generation of Hyundai Sonata. I… [+1362 chars]",
-         "urlToImage" : "https://cnet4.cbsistatic.com/img/J_lmDjYUkAYXZd6yJgSy2RAJBe0=/1200x630/2020/09/22/26885193-7ad9-476c-ae5e-f5f5d8d64e66/2021-sonata-n-line-ogi.jpg",
-         "description" : "The Sonata is the latest model to get the performance-minded N-Line upgrade, and we're thrilled about the results.",
          "publishedAt" : "2020-09-22T23:30:04Z",
          "url" : "https://www.cnet.com/roadshow/news/2021-hyundai-sonata-n-line-debut/",
+         "description" : "The Sonata is the latest model to get the performance-minded N-Line upgrade, and we're thrilled about the results.",
+         "author" : "Kyle Hyatt",
+         "title" : "2021 Hyundai Sonata N-Line looks ready to run laps and turn heads - CNET",
+         "urlToImage" : "https://cnet4.cbsistatic.com/img/J_lmDjYUkAYXZd6yJgSy2RAJBe0=/1200x630/2020/09/22/26885193-7ad9-476c-ae5e-f5f5d8d64e66/2021-sonata-n-line-ogi.jpg",
          "source" : {
             "name" : "CNET",
             "id" : null
-         },
-         "author" : "Kyle Hyatt"
+         }
       },
       {
-         "author" : "Mina Kaji, Amanda Maile",
          "source" : {
             "id" : "abc-news",
             "name" : "ABC News"
          },
-         "url" : "https://abcnews.go.com/Politics/airlines-push-coronavirus-testing-international-flights/story?id=73171132",
-         "publishedAt" : "2020-09-22T23:27:04Z",
+         "author" : "Mina Kaji, Amanda Maile",
          "description" : "",
-         "content" : "The U.S. aviation industry is urging the government to establish COVID-19 testing protocols before international flights as a way to safely reopen travel routes that have been cut amid the pandemic.\r… [+4079 chars]",
+         "title" : "Airlines push for coronavirus testing before international flights - ABC News",
          "urlToImage" : "https://s.abcnews.com/images/Politics/frankfurt-airport-covid-gty-ps-200922_1600811872158_hpMain_16x9_992.jpg",
-         "title" : "Airlines push for coronavirus testing before international flights - ABC News"
+         "publishedAt" : "2020-09-22T23:27:04Z",
+         "url" : "https://abcnews.go.com/Politics/airlines-push-coronavirus-testing-international-flights/story?id=73171132",
+         "content" : "The U.S. aviation industry is urging the government to establish COVID-19 testing protocols before international flights as a way to safely reopen travel routes that have been cut amid the pandemic.\r… [+4079 chars]"
       },
       {
+         "url" : "https://www.foxbusiness.com/economy/u-s-airlines-to-make-urgent-call-for-new-bailout-ahead-of-oct-1-job-cuts",
          "publishedAt" : "2020-09-22T23:22:18Z",
-         "description" : "The chief executives of American Airlines, United Airlines and JetBlue Airways and the major aviation unions held a press conference Tuesday afternoon on Capitol Hill as part of a last-ditch effort for a six-month extension of the payroll support program gran…",
          "content" : "The chief executives of American Airlines,United Airlines and JetBlue Airways and the major aviation unions held a press conference Tuesday afternoon on Capitol Hill as part of a last-ditch effort fo… [+4052 chars]",
+         "source" : {
+            "id" : null,
+            "name" : "Fox Business"
+         },
          "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/09/0/0/2nd-Airline-Bailout-iStock.jpg?ve=1&tl=1",
          "title" : "U.S. airlines make urgent call for new bailout as job cuts loom - Fox Business",
-         "author" : "Lucas Manfredi",
-         "source" : {
-            "name" : "Fox Business",
-            "id" : null
-         },
-         "url" : "https://www.foxbusiness.com/economy/u-s-airlines-to-make-urgent-call-for-new-bailout-ahead-of-oct-1-job-cuts"
+         "description" : "The chief executives of American Airlines, United Airlines and JetBlue Airways and the major aviation unions held a press conference Tuesday afternoon on Capitol Hill as part of a last-ditch effort for a six-month extension of the payroll support program gran…",
+         "author" : "Lucas Manfredi"
       },
       {
-         "description" : null,
-         "publishedAt" : "2020-09-22T23:04:12Z",
-         "urlToImage" : null,
          "content" : null,
+         "url" : "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9ZF9SdnVNdXBjck3SAQA?oc=5",
+         "publishedAt" : "2020-09-22T23:04:12Z",
          "title" : "Jim Cramer says stock market winners overshadow the need for more government aid to small business - CNBC Television",
          "author" : null,
+         "description" : null,
+         "urlToImage" : null,
          "source" : {
-            "name" : "Google News",
-            "id" : "google-news"
-         },
-         "url" : "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9ZF9SdnVNdXBjck3SAQA?oc=5"
+            "id" : "google-news",
+            "name" : "Google News"
+         }
       },
       {
-         "title" : "9 of Every 10 Restaurants and Bars in N.Y.C. Can’t Pay Full Rent - The New York Times",
-         "urlToImage" : "https://static01.nyt.com/images/2020/09/22/nyregion/22nyvirus-dining1/22nyvirus-dining1-facebookJumbo-v3.jpg",
          "content" : "Federal aid through the Paycheck Protection Program, which was meant to help preserve workers jobs, offset some costs, but that has mostly run out. The inability of restaurants to pay rent has also d… [+1449 chars]",
          "publishedAt" : "2020-09-22T23:00:00Z",
-         "description" : "A survey conducted by an industry group found that many establishments were still facing a financial crisis even after opening for outdoor dining.",
          "url" : "https://www.nytimes.com/2020/09/22/nyregion/nyc-restaurants-rent.html",
+         "urlToImage" : "https://static01.nyt.com/images/2020/09/22/nyregion/22nyvirus-dining1/22nyvirus-dining1-facebookJumbo-v3.jpg",
+         "author" : "Mihir Zaveri, Daniel E. Slotnik",
+         "description" : "A survey conducted by an industry group found that many establishments were still facing a financial crisis even after opening for outdoor dining.",
+         "title" : "9 of Every 10 Restaurants and Bars in N.Y.C. Can’t Pay Full Rent - The New York Times",
          "source" : {
             "name" : "New York Times",
             "id" : null
-         },
-         "author" : "Mihir Zaveri, Daniel E. Slotnik"
+         }
       },
       {
+         "url" : "https://www.newyorkupstate.com/news/2020/09/3-upstate-ny-cities-rank-among-best-places-with-good-air-quality-in-us.html",
          "publishedAt" : "2020-09-22T22:41:00Z",
-         "description" : "The data is from the EPA’s 2019 Air Quality Index Report.",
-         "urlToImage" : "https://www.newyorkupstate.com/resizer/yT5tDONxtMn8z2Xuy93xZvF-tcM=/1280x0/filters:focal(2065x1305:2075x1295)/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/YIN3ZNMOAFGEVCQ7OCM5RLUDGQ.JPG",
          "content" : "The air in Upstate New York deserves some recognition.\r\nAccording to a recent study, three Upstate metropolitan areas have some of the best air quality in the nation. Albany, Rochester, and Syracuse … [+2122 chars]",
-         "title" : "3 Upstate NY cities rank among best places with good air quality in U.S. - newyorkupstate.com",
-         "author" : "Ngoc Huynh | nhuynh@nyup.com",
          "source" : {
-            "name" : "newyorkupstate.com",
-            "id" : null
+            "id" : null,
+            "name" : "newyorkupstate.com"
          },
-         "url" : "https://www.newyorkupstate.com/news/2020/09/3-upstate-ny-cities-rank-among-best-places-with-good-air-quality-in-us.html"
+         "urlToImage" : "https://www.newyorkupstate.com/resizer/yT5tDONxtMn8z2Xuy93xZvF-tcM=/1280x0/filters:focal(2065x1305:2075x1295)/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/YIN3ZNMOAFGEVCQ7OCM5RLUDGQ.JPG",
+         "title" : "3 Upstate NY cities rank among best places with good air quality in U.S. - newyorkupstate.com",
+         "description" : "The data is from the EPA’s 2019 Air Quality Index Report.",
+         "author" : "Ngoc Huynh | nhuynh@nyup.com"
       }
-   ]
+   ],
+   "status" : "ok",
+   "totalResults" : 70
 }
