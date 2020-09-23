@@ -65,7 +65,9 @@ function getDateFrom(headlines) {
 }
 
 function LastUpdated(props) {
-  return (<>Last updated: {props.date}</>);
+  return (
+    <React.Fragment>Last updated: {props.date}</React.Fragment>
+  );
 }
 
 function render(headlines) {
