@@ -1,264 +1,264 @@
 {
    "articles" : [
       {
-         "author" : "Ben Winck",
-         "content" : "Amr Alfiky/Reuters\r\n<ul><li>JPMorgan is set to pay almost $1 billion to settle charges from US regulators of spoofing in precious metals and Treasury markets, Bloomberg reported on Wednesday.</li><li… [+3018 chars]",
-         "urlToImage" : "https://i.insider.com/5f6b915dc4049200115cb311?format=jpeg",
-         "url" : "https://www.businessinsider.com/jpmorgan-pay-record-billion-spoofing-settlement-market-manipulation-investigations-sec-2020-9",
-         "description" : "JPMorgan to pay a record $1 billion to settle market-manipulation charges, report says",
          "publishedAt" : "2020-09-23T22:08:17Z",
+         "author" : "Ben Winck",
+         "description" : "JPMorgan to pay a record $1 billion to settle market-manipulation charges, report says",
+         "content" : "Amr Alfiky/Reuters\r\n<ul><li>JPMorgan is set to pay almost $1 billion to settle charges from US regulators of spoofing in precious metals and Treasury markets, Bloomberg reported on Wednesday.</li><li… [+3018 chars]",
          "title" : "JPMorgan to pay a record $1 billion to settle market-manipulation charges, report says | Markets - Business Insider",
+         "url" : "https://www.businessinsider.com/jpmorgan-pay-record-billion-spoofing-settlement-market-manipulation-investigations-sec-2020-9",
+         "urlToImage" : "https://i.insider.com/5f6b915dc4049200115cb311?format=jpeg",
          "source" : {
-            "id" : "business-insider",
-            "name" : "Business Insider"
+            "name" : "Business Insider",
+            "id" : "business-insider"
          }
       },
       {
-         "description" : null,
-         "url" : "https://news.google.com/__i/rss/rd/articles/CBMikwFodHRwczovL3d3dy5pbnZlc3RvcnMuY29tL21hcmtldC10cmVuZC9zdG9jay1tYXJrZXQtdG9kYXkvZG93LWpvbmVzLWZ1dHVyZXMtc3RvY2stbWFya2V0LXNlbGxzLW9mZi1oaXRzLXJlc2lzdGFuY2UtdGVzbGEtcGx1bmdlcy1hZnRlci1iYXR0ZXJ5LWRheS_SAQA?oc=5",
-         "publishedAt" : "2020-09-23T22:06:00Z",
+         "urlToImage" : null,
          "source" : {
-            "name" : "Google News",
-            "id" : "google-news"
+            "id" : "google-news",
+            "name" : "Google News"
          },
-         "title" : "Dow Jones Futures: Stock Market Sells Off Bearishly After Hitting Resistance; Tesla Plunges After Battery Day - Investor's Business Daily",
-         "author" : null,
          "content" : null,
-         "urlToImage" : null
+         "url" : "https://news.google.com/__i/rss/rd/articles/CBMikwFodHRwczovL3d3dy5pbnZlc3RvcnMuY29tL21hcmtldC10cmVuZC9zdG9jay1tYXJrZXQtdG9kYXkvZG93LWpvbmVzLWZ1dHVyZXMtc3RvY2stbWFya2V0LXNlbGxzLW9mZi1oaXRzLXJlc2lzdGFuY2UtdGVzbGEtcGx1bmdlcy1hZnRlci1iYXR0ZXJ5LWRheS_SAQA?oc=5",
+         "title" : "Dow Jones Futures: Stock Market Sells Off Bearishly After Hitting Resistance; Tesla Plunges After Battery Day - Investor's Business Daily",
+         "publishedAt" : "2020-09-23T22:06:00Z",
+         "author" : null,
+         "description" : null
       },
       {
-         "description" : "The embattled electric-truck start-up's woes continued on Wednesday.",
-         "url" : "https://www.fool.com/investing/2020/09/23/nikola-stock-closed-down-xx-after-bp-backs-away-fr/",
          "publishedAt" : "2020-09-23T20:26:00Z",
+         "author" : "John Rosevear",
+         "description" : "The embattled electric-truck start-up's woes continued on Wednesday.",
+         "content" : "Shares of embattled electric-truck start-up Nikola (NASDAQ:NKLA) closed down more than 25% on Wednesday, following reports that energy giant BP (NYSE:BP) has backed away from a potential partnership … [+1751 chars]",
+         "url" : "https://www.fool.com/investing/2020/09/23/nikola-stock-closed-down-xx-after-bp-backs-away-fr/",
          "title" : "Nikola Stock Drops 26% After BP Backs Away From Hydrogen-Station Deal - Motley Fool",
+         "urlToImage" : "https://g.foolcdn.com/editorial/images/592746/nikola_one3.jpg",
          "source" : {
             "name" : "Motley Fool",
             "id" : null
+         }
+      },
+      {
+         "publishedAt" : "2020-09-23T20:26:00Z",
+         "author" : "Michael Bellusci",
+         "description" : "(Bloomberg) -- The hunt for renewable energy stocks sent one obscure firm soaring more than 4,000% in a single day, albeit with a tiny amount of shares on...",
+         "content" : "In the investing game, its not only about what you buy; its about when you buy it. One of the most common pieces of advice thrown around the Street, buy low is touted as a tried-and-true tactic.Sure,… [+10639 chars]",
+         "url" : "https://finance.yahoo.com/news/spi-energy-soars-more-4-191636742.html",
+         "title" : "SPI Energy Soars More Than 1,200% on Electric Vehicle Plans - Yahoo Finance",
+         "urlToImage" : "https://s.yimg.com/uu/api/res/1.2/DRIxSfK4eQ2heDCr6a3E0w--~B/aD02NzU7dz0xMjAwO3NtPTE7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/bloomberg_markets_842/7e72d2a86d6bf6c90012ca83f9a724bb",
+         "source" : {
+            "name" : "Yahoo Entertainment",
+            "id" : null
+         }
+      },
+      {
+         "url" : "https://www.marketwatch.com/story/feds-rosengren-says-economy-is-more-fragile-than-data-suggests-2020-09-23",
+         "title" : "Fed’s Rosengren says economy is more fragile than data suggests - MarketWatch",
+         "content" : "Boston Fed President Eric Rosengren said Wednesday that he is less optimistic about the economic outlook than many of his colleagues, despite encouraging economic data over the summer.The Feds median… [+1205 chars]",
+         "source" : {
+            "name" : "MarketWatch",
+            "id" : null
          },
-         "author" : "John Rosevear",
-         "urlToImage" : "https://g.foolcdn.com/editorial/images/592746/nikola_one3.jpg",
-         "content" : "Shares of embattled electric-truck start-up Nikola (NASDAQ:NKLA) closed down more than 25% on Wednesday, following reports that energy giant BP (NYSE:BP) has backed away from a potential partnership … [+1751 chars]"
+         "urlToImage" : "https://s.marketwatch.com/public/resources/images/MW-HJ455_roseng_ZG_20190513133429.jpg",
+         "description" : "Boston Fed president concerned about second wave of COVID-19",
+         "author" : "Greg Robb",
+         "publishedAt" : "2020-09-23T19:58:00Z"
+      },
+      {
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106714495-1600885353675-gettyimages-1228671480-powellhearing030.jpeg?v=1600885423",
+         "source" : {
+            "name" : "CNBC",
+            "id" : null
+         },
+         "content" : "Federal Reserve Chairman Jerome Powell urged Congress on Wednesday to provide the U.S. economy with more fiscal support to combat the coronavirus pandemic's ongoing impact.\r\n\"Many borrowers will bene… [+4417 chars]",
+         "title" : "Fed calls for more fiscal stimulus. Four market analysts on what's ahead for stocks - CNBC",
+         "url" : "https://www.cnbc.com/2020/09/23/fed-calls-for-more-fiscal-stimulus-market-analysts-on-whats-next.html",
+         "publishedAt" : "2020-09-23T19:56:00Z",
+         "description" : "With the Federal Reserve calling for more fiscal support for the U.S. economy, four market watchers share their outlook on whether there's more stimulus to come.",
+         "author" : "Lizzy Gurdus"
+      },
+      {
+         "source" : {
+            "id" : null,
+            "name" : "New York Times"
+         },
+         "urlToImage" : "https://static01.nyt.com/images/2020/09/23/world/23markets-brf-markets/merlin_176483046_79b6be00-2289-4003-a55e-0921d320a990-facebookJumbo.jpg",
+         "title" : "Stocks Tumble With Tech Leading Retreat - The New York Times",
+         "url" : "https://www.nytimes.com/live/2020/09/23/business/stock-market-today-coronavirus",
+         "content" : "LiveUpdated Sept. 23, 2020, 4:39 p.m. ET\r\nSept. 23, 2020, 4:39 p.m. ET\r\nHeres what you need to know:\r\n<ul><li>Wall Streets sell-off resumed on Wednesday as a drop in the shares of large technology co… [+16775 chars]",
+         "author" : "Matt Phillips",
+         "description" : "",
+         "publishedAt" : "2020-09-23T19:48:08Z"
+      },
+      {
+         "publishedAt" : "2020-09-23T19:33:00Z",
+         "description" : "In a guest appearance at the agency’s monthly board meeting, Rikien Wilder received what chairman Pat Foye cracked was “the highest award the MTA can provide to a civilian.”",
+         "author" : "Aaron Feis",
+         "content" : "It’ll go great with his giant wallet and keys.\r\nA Manhattan straphanger who risked his life in an attempt to stop a subway derailment and nab the saboteur responsible was honored Wednesday by the MTA… [+3533 chars]",
+         "url" : "https://nypost.com/2020/09/23/hero-who-nabbed-nyc-subway-saboteur-has-year-of-free-rides/",
+         "title" : "Hero who nabbed NYC subway 'saboteur' awarded giant MetroCard, year of free rides - New York Post ",
+         "urlToImage" : "https://nypost.com/wp-content/uploads/sites/2/2020/09/mta-hero-02.jpg?quality=90&strip=all&w=1200",
+         "source" : {
+            "id" : null,
+            "name" : "New York Post"
+         }
+      },
+      {
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200923120529-michael-corbat-citi-file-restricted-super-tease.jpg",
+         "source" : {
+            "id" : "cnn",
+            "name" : "CNN"
+         },
+         "content" : null,
+         "url" : "https://www.cnn.com/2020/09/23/business/citi-racial-wealth-gap/index.html",
+         "title" : "Citi is spending $1.15 billion to help close America's racial wealth gap - CNN",
+         "publishedAt" : "2020-09-23T19:32:00Z",
+         "description" : "Citi plans to spend more than $1 billion to help close America's racial wealth gap.",
+         "author" : "Chauncey Alcorn CNN Business"
+      },
+      {
+         "publishedAt" : "2020-09-23T19:00:00Z",
+         "description" : "South Carolina mayor sparked outrage by attacking the racial justice movement. Now his business is under attack.",
+         "author" : "Kate Gibson",
+         "content" : "Costco has reportedly stopped selling Palmetto Cheese after the owner of the pimento cheese brand called Black Lives Matter a \"terror organization.\"\r\nThe warehouse club pulled Palmetto Cheese, which … [+2533 chars]",
+         "url" : "https://www.cbsnews.com/news/costco-pulls-palmetto-cheese-founder-calls-black-lives-matter-terror-organization/",
+         "title" : "Costco reportedly drops Palmetto Cheese after owner calls BLM a \"terror organization\" - CBS News",
+         "urlToImage" : "https://cbsnews2.cbsistatic.com/hub/i/r/2020/09/23/dcb29a2e-61a2-49ef-9ab3-082ad55cf17e/thumbnail/1200x630/83d062e77ceaf90c3e6f2bf1251b6fe5/ef91ku9woaekj8z.jpg",
+         "source" : {
+            "name" : "CBS News",
+            "id" : "cbs-news"
+         }
+      },
+      {
+         "urlToImage" : "https://cdn.vox-cdn.com/thumbor/FYpyWPvfUlJSuZkK6SyhiajhlvM=/0x258:4018x2362/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/21904625/1228439133.jpg.jpg",
+         "source" : {
+            "name" : "The Verge",
+            "id" : "the-verge"
+         },
+         "content" : "Musk downplayed the role EVs can play in stabilizing the grid, but experts disagree\r\nTesla cars are located next to a new Tesla charging station of the latest generation on the Euref Campus Berlin. \r… [+6537 chars]",
+         "url" : "https://www.theverge.com/2020/9/23/21451642/tesla-ev-electric-vehicle-energy-grid-battery-day-elon-musk",
+         "title" : "Tesla promises cars that connect to the grid, even if Elon Musk doesn’t really want them to - The Verge",
+         "publishedAt" : "2020-09-23T18:57:05Z",
+         "description" : "Electric vehicles are a potentially powerful untapped source of energy that can stabilize the grid during power shortages. Tesla’s future EVs will have bi-directional charging in the future, the company announced during Battery Day.",
+         "author" : "Justine Calma"
+      },
+      {
+         "publishedAt" : "2020-09-23T18:49:00Z",
+         "description" : "Acknowledging his \"unconscious bias,\" bank chief Charles Scharf said financial industry must boost diversity.",
+         "author" : "Stephen Gandel",
+         "content" : "Wells Fargo CEO Charles Scharf apologized in a company-wide memo on Wednesday for twice blaming the bank's lack of employee diversity on a \"very limited pool of Black talent.\"\r\nScharf called his earl… [+3289 chars]",
+         "url" : "https://www.cbsnews.com/news/wells-fargo-ceo-black-talent-limited/",
+         "title" : "Wells Fargo CEO apologizes for blaming lack of diversity on \"limited pool of Black talent\" - CBS News",
+         "urlToImage" : "https://cbsnews3.cbsistatic.com/hub/i/r/2020/09/23/95520d1e-e2b6-4275-818d-6af02be17100/thumbnail/1200x630/3e6d0e2146a6d6187eca59f89b9fd079/gettyimages-1136153624.jpg",
+         "source" : {
+            "name" : "CBS News",
+            "id" : "cbs-news"
+         }
+      },
+      {
+         "url" : "https://www.cnbc.com/2020/09/23/united-adds-google-backed-maps-to-help-travelers-find-flights-for-coronavirus-era.html",
+         "title" : "United turns to interactive Google maps to help travelers unsure of where to go in coronavirus era - CNBC",
+         "content" : "United Airlines is turning to a Google-powered interactive maps to help still-scarce travelers find destinations that fit the coronavirus era.\r\nThe map, which launched on United's website Wednesday, … [+1834 chars]",
+         "source" : {
+            "name" : "CNBC",
+            "id" : null
+         },
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/103506456-GettyImages-167200354.jpg?v=1600885547",
+         "author" : "Leslie Josephs",
+         "description" : "United launched a Google-backed booking map that let's travelers filter out destinations by price and activity, such as hiking and culture.",
+         "publishedAt" : "2020-09-23T18:34:00Z"
       },
       {
          "source" : {
             "id" : null,
             "name" : "Yahoo Entertainment"
          },
-         "publishedAt" : "2020-09-23T20:26:00Z",
-         "title" : "SPI Energy Soars More Than 1,200% on Electric Vehicle Plans - Yahoo Finance",
-         "url" : "https://finance.yahoo.com/news/spi-energy-soars-more-4-191636742.html",
-         "description" : "(Bloomberg) -- The hunt for renewable energy stocks sent one obscure firm soaring more than 4,000% in a single day, albeit with a tiny amount of shares on...",
-         "urlToImage" : "https://s.yimg.com/uu/api/res/1.2/DRIxSfK4eQ2heDCr6a3E0w--~B/aD02NzU7dz0xMjAwO3NtPTE7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/bloomberg_markets_842/7e72d2a86d6bf6c90012ca83f9a724bb",
-         "content" : "In the investing game, its not only about what you buy; its about when you buy it. One of the most common pieces of advice thrown around the Street, buy low is touted as a tried-and-true tactic.Sure,… [+10639 chars]",
-         "author" : "Michael Bellusci"
-      },
-      {
-         "url" : "https://www.marketwatch.com/story/feds-rosengren-says-economy-is-more-fragile-than-data-suggests-2020-09-23",
-         "description" : "Boston Fed president concerned about second wave of COVID-19",
-         "publishedAt" : "2020-09-23T19:58:00Z",
-         "title" : "Fed’s Rosengren says economy is more fragile than data suggests - MarketWatch",
-         "source" : {
-            "id" : null,
-            "name" : "MarketWatch"
-         },
-         "author" : "Greg Robb",
-         "urlToImage" : "https://s.marketwatch.com/public/resources/images/MW-HJ455_roseng_ZG_20190513133429.jpg",
-         "content" : "Boston Fed President Eric Rosengren said Wednesday that he is less optimistic about the economic outlook than many of his colleagues, despite encouraging economic data over the summer.The Feds median… [+1205 chars]"
-      },
-      {
-         "url" : "https://www.cnbc.com/2020/09/23/fed-calls-for-more-fiscal-stimulus-market-analysts-on-whats-next.html",
-         "description" : "With the Federal Reserve calling for more fiscal support for the U.S. economy, four market watchers share their outlook on whether there's more stimulus to come.",
-         "title" : "Fed calls for more fiscal stimulus. Four market analysts on what's ahead for stocks - CNBC",
-         "publishedAt" : "2020-09-23T19:56:00Z",
-         "source" : {
-            "id" : null,
-            "name" : "CNBC"
-         },
-         "author" : "Lizzy Gurdus",
-         "content" : "Federal Reserve Chairman Jerome Powell urged Congress on Wednesday to provide the U.S. economy with more fiscal support to combat the coronavirus pandemic's ongoing impact.\r\n\"Many borrowers will bene… [+4417 chars]",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106714495-1600885353675-gettyimages-1228671480-powellhearing030.jpeg?v=1600885423"
-      },
-      {
-         "content" : "LiveUpdated Sept. 23, 2020, 4:39 p.m. ET\r\nSept. 23, 2020, 4:39 p.m. ET\r\nHeres what you need to know:\r\n<ul><li>Wall Streets sell-off resumed on Wednesday as a drop in the shares of large technology co… [+16775 chars]",
-         "urlToImage" : "https://static01.nyt.com/images/2020/09/23/world/23markets-brf-markets/merlin_176483046_79b6be00-2289-4003-a55e-0921d320a990-facebookJumbo.jpg",
-         "author" : "Matt Phillips",
-         "publishedAt" : "2020-09-23T19:48:08Z",
-         "source" : {
-            "name" : "New York Times",
-            "id" : null
-         },
-         "title" : "Stocks Tumble With Tech Leading Retreat - The New York Times",
-         "url" : "https://www.nytimes.com/live/2020/09/23/business/stock-market-today-coronavirus",
-         "description" : ""
-      },
-      {
-         "urlToImage" : "https://nypost.com/wp-content/uploads/sites/2/2020/09/mta-hero-02.jpg?quality=90&strip=all&w=1200",
-         "content" : "It’ll go great with his giant wallet and keys.\r\nA Manhattan straphanger who risked his life in an attempt to stop a subway derailment and nab the saboteur responsible was honored Wednesday by the MTA… [+3533 chars]",
-         "author" : "Aaron Feis",
-         "publishedAt" : "2020-09-23T19:33:00Z",
-         "title" : "Hero who nabbed NYC subway 'saboteur' awarded giant MetroCard, year of free rides - New York Post ",
-         "source" : {
-            "name" : "New York Post",
-            "id" : null
-         },
-         "description" : "In a guest appearance at the agency’s monthly board meeting, Rikien Wilder received what chairman Pat Foye cracked was “the highest award the MTA can provide to a civilian.”",
-         "url" : "https://nypost.com/2020/09/23/hero-who-nabbed-nyc-subway-saboteur-has-year-of-free-rides/"
-      },
-      {
-         "author" : "Chauncey Alcorn CNN Business",
-         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200923120529-michael-corbat-citi-file-restricted-super-tease.jpg",
-         "content" : null,
-         "url" : "https://www.cnn.com/2020/09/23/business/citi-racial-wealth-gap/index.html",
-         "description" : "Citi plans to spend more than $1 billion to help close America's racial wealth gap.",
-         "publishedAt" : "2020-09-23T19:32:00Z",
-         "title" : "Citi is spending $1.15 billion to help close America's racial wealth gap - CNN",
-         "source" : {
-            "id" : "cnn",
-            "name" : "CNN"
-         }
-      },
-      {
-         "author" : "Kate Gibson",
-         "urlToImage" : "https://cbsnews2.cbsistatic.com/hub/i/r/2020/09/23/dcb29a2e-61a2-49ef-9ab3-082ad55cf17e/thumbnail/1200x630/83d062e77ceaf90c3e6f2bf1251b6fe5/ef91ku9woaekj8z.jpg",
-         "content" : "Costco has reportedly stopped selling Palmetto Cheese after the owner of the pimento cheese brand called Black Lives Matter a \"terror organization.\"\r\nThe warehouse club pulled Palmetto Cheese, which … [+2533 chars]",
-         "url" : "https://www.cbsnews.com/news/costco-pulls-palmetto-cheese-founder-calls-black-lives-matter-terror-organization/",
-         "description" : "South Carolina mayor sparked outrage by attacking the racial justice movement. Now his business is under attack.",
-         "title" : "Costco reportedly drops Palmetto Cheese after owner calls BLM a \"terror organization\" - CBS News",
-         "publishedAt" : "2020-09-23T19:00:00Z",
-         "source" : {
-            "id" : "cbs-news",
-            "name" : "CBS News"
-         }
-      },
-      {
-         "description" : "Electric vehicles are a potentially powerful untapped source of energy that can stabilize the grid during power shortages. Tesla’s future EVs will have bi-directional charging in the future, the company announced during Battery Day.",
-         "url" : "https://www.theverge.com/2020/9/23/21451642/tesla-ev-electric-vehicle-energy-grid-battery-day-elon-musk",
-         "publishedAt" : "2020-09-23T18:57:05Z",
-         "title" : "Tesla promises cars that connect to the grid, even if Elon Musk doesn’t really want them to - The Verge",
-         "source" : {
-            "name" : "The Verge",
-            "id" : "the-verge"
-         },
-         "author" : "Justine Calma",
-         "urlToImage" : "https://cdn.vox-cdn.com/thumbor/FYpyWPvfUlJSuZkK6SyhiajhlvM=/0x258:4018x2362/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/21904625/1228439133.jpg.jpg",
-         "content" : "Musk downplayed the role EVs can play in stabilizing the grid, but experts disagree\r\nTesla cars are located next to a new Tesla charging station of the latest generation on the Euref Campus Berlin. \r… [+6537 chars]"
-      },
-      {
-         "url" : "https://www.cbsnews.com/news/wells-fargo-ceo-black-talent-limited/",
-         "description" : "Acknowledging his \"unconscious bias,\" bank chief Charles Scharf said financial industry must boost diversity.",
-         "publishedAt" : "2020-09-23T18:49:00Z",
-         "title" : "Wells Fargo CEO apologizes for blaming lack of diversity on \"limited pool of Black talent\" - CBS News",
-         "source" : {
-            "id" : "cbs-news",
-            "name" : "CBS News"
-         },
-         "author" : "Stephen Gandel",
-         "urlToImage" : "https://cbsnews3.cbsistatic.com/hub/i/r/2020/09/23/95520d1e-e2b6-4275-818d-6af02be17100/thumbnail/1200x630/3e6d0e2146a6d6187eca59f89b9fd079/gettyimages-1136153624.jpg",
-         "content" : "Wells Fargo CEO Charles Scharf apologized in a company-wide memo on Wednesday for twice blaming the bank's lack of employee diversity on a \"very limited pool of Black talent.\"\r\nScharf called his earl… [+3289 chars]"
-      },
-      {
-         "content" : "United Airlines is turning to a Google-powered interactive maps to help still-scarce travelers find destinations that fit the coronavirus era.\r\nThe map, which launched on United's website Wednesday, … [+1834 chars]",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/103506456-GettyImages-167200354.jpg?v=1600885547",
-         "author" : "Leslie Josephs",
-         "publishedAt" : "2020-09-23T18:34:00Z",
-         "source" : {
-            "id" : null,
-            "name" : "CNBC"
-         },
-         "title" : "United turns to interactive Google maps to help travelers unsure of where to go in coronavirus era - CNBC",
-         "url" : "https://www.cnbc.com/2020/09/23/united-adds-google-backed-maps-to-help-travelers-find-flights-for-coronavirus-era.html",
-         "description" : "United launched a Google-backed booking map that let's travelers filter out destinations by price and activity, such as hiking and culture."
-      },
-      {
-         "publishedAt" : "2020-09-23T18:13:00Z",
-         "title" : "Johnson & Johnson CSO on COVID-19 vaccine: ‘We won’t have it by October — maybe by the end of the year’ - Yahoo Finance",
-         "source" : {
-            "name" : "Yahoo Entertainment",
-            "id" : null
-         },
-         "url" : "https://finance.yahoo.com/video/johnson-johnson-cso-covid-19-181358690.html",
-         "description" : "Johnson & Johnson Chief Scientific Officer Paul Stoffels joins Yahoo Finance’s Zack Guzman and Anjalee Khemlani to discuss the latest on a possible...",
-         "content" : "Johnson &amp; Johnson Chief Scientific Officer Paul Stoffels joins Yahoo Finances Zack Guzman and Anjalee Khemlani to discuss the latest on a possible coronavirus vaccine, as Johnson &amp; Johnson be… [+8571 chars]",
          "urlToImage" : "https://s.yimg.com/ny/api/res/1.2/37lA4CKoH29uHDzQNe1Vbw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyODA7aD03MjEuMDY2NjY2NjY2NjY2Nw--/https://s.yimg.com/uu/api/res/1.2/86nVU6FeyDCq09Zs69ILOQ--~B/aD0zMDg0O3c9NTQ3MjtzbT0xO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/hd/cp-video-transcode/prod/2020-09/23/5f6b906813c1af2dd05dd288/5f6b906813c1af2dd05dd289_o_U_v2.jpg",
-         "author" : "Yahoo Finance Video"
+         "title" : "Johnson & Johnson CSO on COVID-19 vaccine: ‘We won’t have it by October — maybe by the end of the year’ - Yahoo Finance",
+         "url" : "https://finance.yahoo.com/video/johnson-johnson-cso-covid-19-181358690.html",
+         "content" : "Johnson &amp; Johnson Chief Scientific Officer Paul Stoffels joins Yahoo Finances Zack Guzman and Anjalee Khemlani to discuss the latest on a possible coronavirus vaccine, as Johnson &amp; Johnson be… [+8571 chars]",
+         "description" : "Johnson & Johnson Chief Scientific Officer Paul Stoffels joins Yahoo Finance’s Zack Guzman and Anjalee Khemlani to discuss the latest on a possible...",
+         "author" : "Yahoo Finance Video",
+         "publishedAt" : "2020-09-23T18:13:00Z"
       },
       {
-         "publishedAt" : "2020-09-23T18:01:00Z",
+         "url" : "https://www.marketwatch.com/story/nike-stock-surges-10-as-fiscal-2021-revenue-is-expected-to-rise-as-much-as-low-double-digits-11600884080",
          "title" : "Nike stock surges 10% as fiscal 2021 revenue is expected to rise - MarketWatch",
+         "content" : "Nike Inc. stock surged 10.2% in Wednesday trading after it became one of the few companies to offer guidance, forecasting full fiscal year revenue that will be up in the high single digits to low dou… [+3642 chars]",
          "source" : {
             "name" : "MarketWatch",
             "id" : null
          },
-         "description" : "",
-         "url" : "https://www.marketwatch.com/story/nike-stock-surges-10-as-fiscal-2021-revenue-is-expected-to-rise-as-much-as-low-double-digits-11600884080",
-         "content" : "Nike Inc. stock surged 10.2% in Wednesday trading after it became one of the few companies to offer guidance, forecasting full fiscal year revenue that will be up in the high single digits to low dou… [+3642 chars]",
          "urlToImage" : "https://images.mktw.net/im-235670/social",
-         "author" : "Tonya Garcia"
+         "description" : "",
+         "author" : "Tonya Garcia",
+         "publishedAt" : "2020-09-23T18:01:00Z"
       },
       {
-         "url" : "https://www.cnn.com/2020/09/23/business/covid-test-drone-delivery-walmart/index.html",
-         "description" : "If you need to get a Covid-19 test, but don't want to go near people, Walmart's got you covered. At least if you live near its North Las Vegas store.",
          "publishedAt" : "2020-09-23T18:01:00Z",
+         "author" : "Matt Egan, CNN Business",
+         "description" : "If you need to get a Covid-19 test, but don't want to go near people, Walmart's got you covered. At least if you live near its North Las Vegas store.",
+         "content" : "New York (CNN Business)If you need to get a Covid-19 test, but don't want to go near people, Walmart's got you covered. At least if you live near its North Las Vegas store.\r\nWalmart launched a pilot … [+3564 chars]",
+         "title" : "Walmart is using drones to deliver Covid-19 tests - CNN",
+         "url" : "https://www.cnn.com/2020/09/23/business/covid-test-drone-delivery-walmart/index.html",
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200923093607-03-walmart-drones-covid-19-tests-home-delivery-vegas---screenshot-super-tease.jpg",
          "source" : {
             "id" : "cnn",
             "name" : "CNN"
-         },
-         "title" : "Walmart is using drones to deliver Covid-19 tests - CNN",
-         "author" : "Matt Egan, CNN Business",
-         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200923093607-03-walmart-drones-covid-19-tests-home-delivery-vegas---screenshot-super-tease.jpg",
-         "content" : "New York (CNN Business)If you need to get a Covid-19 test, but don't want to go near people, Walmart's got you covered. At least if you live near its North Las Vegas store.\r\nWalmart launched a pilot … [+3564 chars]"
+         }
       },
       {
-         "publishedAt" : "2020-09-23T17:55:21Z",
-         "source" : {
-            "id" : null,
-            "name" : "The Detroit News"
-         },
-         "title" : "Pontiac's United Wholesale Mortgage to go public with Gores Group - The Detroit News",
-         "url" : "https://www.detroitnews.com/story/business/2020/09/23/pontiacs-united-wholesale-mortgage-go-public-gores-group/3501533001/",
          "description" : "The deal values the company at more than $16 billion",
-         "urlToImage" : "https://www.gannett-cdn.com/presto/2018/09/24/PDTN/b3be9b28-dab1-44df-9d0c-25a221c56a01-2018-0924-rb-bu-united-shore083.jpg?crop=3399,1912,x0,y32&width=3200&height=1680&fit=bounds",
+         "author" : "Breana Noble",
+         "publishedAt" : "2020-09-23T17:55:21Z",
+         "url" : "https://www.detroitnews.com/story/business/2020/09/23/pontiacs-united-wholesale-mortgage-go-public-gores-group/3501533001/",
+         "title" : "Pontiac's United Wholesale Mortgage to go public with Gores Group - The Detroit News",
          "content" : "Pontiac-based United Shore Financial Services' wholesale mortgage business will go public on the Nasdaq in a $16-billion-plus transaction with the help of the brother of Detroit Pistons owner Tom Gor… [+4913 chars]",
-         "author" : "Breana Noble"
-      },
-      {
-         "content" : "On Tuesday, Sept. 22, Peloton competitor Echelon announced it would be partnering with Amazon(NASDAQ:AMZN) to produce a low-cost exercise bike called the \"Prime Bike.\" Retailing for under $500, the P… [+4990 chars]",
-         "urlToImage" : "https://g.foolcdn.com/editorial/images/592600/alexa-amazon-fresh.jpg",
-         "author" : "Billy Duberstein",
-         "title" : "Don't Sweat the Prime Bike Snafu: These 2 Other Recent Amazon Announcements Are Much Bigger Deals - Motley Fool",
-         "publishedAt" : "2020-09-23T17:28:00Z",
          "source" : {
-            "name" : "Motley Fool",
+            "name" : "The Detroit News",
             "id" : null
          },
-         "description" : "Amazon rose Tuesday after announcing a partnership with Echelon to make a Peloton competitor. But two other recent announcements could be much bigger deals.",
-         "url" : "https://www.fool.com/investing/2020/09/23/dont-sweat-the-prime-bike-snafu-these-2-other-rece/"
+         "urlToImage" : "https://www.gannett-cdn.com/presto/2018/09/24/PDTN/b3be9b28-dab1-44df-9d0c-25a221c56a01-2018-0924-rb-bu-united-shore083.jpg?crop=3399,1912,x0,y32&width=3200&height=1680&fit=bounds"
       },
       {
-         "author" : "Alexis Benveniste, CNN Business",
-         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200923102320-amazon-climate-pledge-products-super-tease.jpg",
-         "content" : null,
-         "url" : "https://www.cnn.com/2020/09/23/business/amazon-climate-friendly-products/index.html",
+         "description" : "Amazon rose Tuesday after announcing a partnership with Echelon to make a Peloton competitor. But two other recent announcements could be much bigger deals.",
+         "author" : "Billy Duberstein",
+         "publishedAt" : "2020-09-23T17:28:00Z",
+         "source" : {
+            "id" : null,
+            "name" : "Motley Fool"
+         },
+         "urlToImage" : "https://g.foolcdn.com/editorial/images/592600/alexa-amazon-fresh.jpg",
+         "title" : "Don't Sweat the Prime Bike Snafu: These 2 Other Recent Amazon Announcements Are Much Bigger Deals - Motley Fool",
+         "url" : "https://www.fool.com/investing/2020/09/23/dont-sweat-the-prime-bike-snafu-these-2-other-rece/",
+         "content" : "On Tuesday, Sept. 22, Peloton competitor Echelon announced it would be partnering with Amazon(NASDAQ:AMZN) to produce a low-cost exercise bike called the \"Prime Bike.\" Retailing for under $500, the P… [+4990 chars]"
+      },
+      {
          "description" : "Amazon wants to make it easier for its shoppers to go green.",
-         "title" : "Amazon just made it much easier to buy planet-friendly products - CNN",
+         "author" : "Alexis Benveniste, CNN Business",
          "publishedAt" : "2020-09-23T17:24:00Z",
+         "url" : "https://www.cnn.com/2020/09/23/business/amazon-climate-friendly-products/index.html",
+         "title" : "Amazon just made it much easier to buy planet-friendly products - CNN",
+         "content" : null,
          "source" : {
             "name" : "CNN",
             "id" : "cnn"
-         }
+         },
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200923102320-amazon-climate-pledge-products-super-tease.jpg"
       },
       {
-         "author" : "http://www.facebook.com/kitconews",
          "urlToImage" : "https://www.kitco.com/news/2020-09-23/images/goldchart_0923_pm.png",
-         "content" : "Editor's Note: With so much market volatility, stay on top of daily news! Get caught up in minutes with our speedy summary of today's must-read news and expert opinions. Sign up here! \r\n(Kitco News) … [+5416 chars]",
-         "url" : "https://www.kitco.com/news/2020-09-23/Gold-silver-bulls-staggered-by-near-term-knock-down-punches.html",
-         "description" : "Senior Technical Analyst Jim Wyckoff prepares investors with an overview of how the markets opened and closed. What moved metal prices? How do the technicals look? By looking at important developments",
-         "publishedAt" : "2020-09-23T17:10:00Z",
-         "title" : "Gold, silver bulls staggered by near-term knock-down punches - Kitco NEWS",
          "source" : {
-            "name" : "Kitco NEWS",
-            "id" : null
-         }
+            "id" : null,
+            "name" : "Kitco NEWS"
+         },
+         "content" : "Editor's Note: With so much market volatility, stay on top of daily news! Get caught up in minutes with our speedy summary of today's must-read news and expert opinions. Sign up here! \r\n(Kitco News) … [+5416 chars]",
+         "title" : "Gold, silver bulls staggered by near-term knock-down punches - Kitco NEWS",
+         "url" : "https://www.kitco.com/news/2020-09-23/Gold-silver-bulls-staggered-by-near-term-knock-down-punches.html",
+         "publishedAt" : "2020-09-23T17:10:00Z",
+         "description" : "Senior Technical Analyst Jim Wyckoff prepares investors with an overview of how the markets opened and closed. What moved metal prices? How do the technicals look? By looking at important developments",
+         "author" : "http://www.facebook.com/kitconews"
       }
    ],
    "totalResults" : 70,
