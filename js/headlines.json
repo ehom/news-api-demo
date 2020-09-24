@@ -1,265 +1,265 @@
 {
-   "totalResults" : 70,
    "status" : "ok",
+   "totalResults" : 70,
    "articles" : [
       {
-         "title" : "Govt. Services Firm Tyler Technologies Hit in Apparent Ransomware Attack - Krebs on Security",
-         "source" : {
-            "id" : null,
-            "name" : "Krebs on Security"
-         },
-         "author" : null,
          "publishedAt" : "2020-09-24T03:11:22Z",
-         "urlToImage" : "https://krebsonsecurity.com/wp-content/uploads/2020/09/tylertech.png",
-         "description" : "Tyler Technologies, a Texas-based company that bills itself as the largest provider of software and technology services to the United States public sector, is battling a network intrusion that has disrupted its operations. The company declined to discuss the …",
          "content" : "Tyler Technologies, a Texas-based company that bills itself as the largest provider of software and technology services to the United States public sector, is battling a network intrusion that has di… [+3696 chars]",
-         "url" : "https://krebsonsecurity.com/2020/09/govt-services-firm-tyler-technologies-hit-in-apparent-ransomware-attack/"
+         "title" : "Govt. Services Firm Tyler Technologies Hit in Apparent Ransomware Attack - Krebs on Security",
+         "author" : null,
+         "source" : {
+            "name" : "Krebs on Security",
+            "id" : null
+         },
+         "url" : "https://krebsonsecurity.com/2020/09/govt-services-firm-tyler-technologies-hit-in-apparent-ransomware-attack/",
+         "description" : "Tyler Technologies, a Texas-based company that bills itself as the largest provider of software and technology services to the United States public sector, is battling a network intrusion that has disrupted its operations. The company declined to discuss the …",
+         "urlToImage" : "https://krebsonsecurity.com/wp-content/uploads/2020/09/tylertech.png"
       },
       {
          "author" : "Emily Graffeo",
          "title" : "SPI Energy skyrockets 4,300% after announcing launch of EV business | Markets - Business Insider",
+         "content" : "Drew Angerer/Getty Images\r\n<ul><li>Shares of SPI Energy soared as high as 4,345% on Wednesday after the solar company announced the launch of an electric vehicle business. </li><li>The EV business wi… [+1541 chars]",
+         "publishedAt" : "2020-09-24T02:10:50Z",
+         "url" : "https://www.businessinsider.com/spi-energy-stock-price-ev-electric-vehicle-announcement-business-launch-2020-9",
          "source" : {
             "id" : "business-insider",
             "name" : "Business Insider"
          },
-         "publishedAt" : "2020-09-24T02:10:50Z",
          "urlToImage" : "https://i.insider.com/5f6ba70ec4049200115cb39e?format=jpeg",
-         "description" : "SPI Energy skyrockets 4,300% after announcing launch of EV business",
-         "content" : "Drew Angerer/Getty Images\r\n<ul><li>Shares of SPI Energy soared as high as 4,345% on Wednesday after the solar company announced the launch of an electric vehicle business. </li><li>The EV business wi… [+1541 chars]",
-         "url" : "https://www.businessinsider.com/spi-energy-stock-price-ev-electric-vehicle-announcement-business-launch-2020-9"
+         "description" : "SPI Energy skyrockets 4,300% after announcing launch of EV business"
       },
       {
-         "publishedAt" : "2020-09-24T01:32:09Z",
-         "urlToImage" : "https://cdn.abcotvs.com/dip/images/6524296_mta-cleaning-edit.jpg?w=1600",
-         "title" : "New York City subway riders discovering unpleasant surprises in cars, platforms - WABC-TV",
          "source" : {
-            "name" : "WABC-TV",
-            "id" : null
+            "id" : null,
+            "name" : "WABC-TV"
          },
-         "author" : null,
          "url" : "https://abc7ny.com/mta-nyc-subways-cleaning-are-being-cleaned/6523132/",
+         "title" : "New York City subway riders discovering unpleasant surprises in cars, platforms - WABC-TV",
+         "author" : null,
+         "publishedAt" : "2020-09-24T01:32:09Z",
          "content" : "NEW YORK (WABC) -- Although cleaning of subway cars and platforms have increased during the pandemic, passengers still feel there are lingering issues.And the issues aren't just rubbish, but soiled s… [+1383 chars]",
+         "urlToImage" : "https://cdn.abcotvs.com/dip/images/6524296_mta-cleaning-edit.jpg?w=1600",
          "description" : "The MTA has been cleaning subway cars daily overnight between 1 a.m. and 5 a.m. when service is suspended amid the coronavirus pandemic, but some riders say there are still lingering issues."
       },
       {
-         "urlToImage" : "https://static.foxnews.com/foxnews.com/content/uploads/2020/05/AP20130680476302.jpg",
-         "publishedAt" : "2020-09-24T01:23:15Z",
-         "author" : "Sam Dorman",
          "title" : "Top FDA vaccine adviser recuses herself over tie to Moderna: report - Fox News",
+         "author" : "Sam Dorman",
+         "publishedAt" : "2020-09-24T01:23:15Z",
+         "content" : "A top adviser has resigned from the Food and Drug Administration's (FDA)vaccine advisory committee amid concerns about her ties to a pharmaceutical company conducting a trial for the highly anticipat… [+2017 chars]",
          "source" : {
-            "id" : "fox-news",
-            "name" : "Fox News"
+            "name" : "Fox News",
+            "id" : "fox-news"
          },
          "url" : "https://www.foxnews.com/us/hana-sahly-vaccine-adviser-resign-covid",
-         "description" : "A top adviser has resigned from the Food and Drug Administration's (FDA) vaccine advisory committee amid concerns about her ties to a pharmaceutical company conducting a trial for the highly anticipated treatment.",
-         "content" : "A top adviser has resigned from the Food and Drug Administration's (FDA)vaccine advisory committee amid concerns about her ties to a pharmaceutical company conducting a trial for the highly anticipat… [+2017 chars]"
+         "urlToImage" : "https://static.foxnews.com/foxnews.com/content/uploads/2020/05/AP20130680476302.jpg",
+         "description" : "A top adviser has resigned from the Food and Drug Administration's (FDA) vaccine advisory committee amid concerns about her ties to a pharmaceutical company conducting a trial for the highly anticipated treatment."
       },
       {
+         "urlToImage" : "https://ichef.bbci.co.uk/news/1024/branded_news/0B02/production/_114581820_gettyimages-1211678805.jpg",
+         "description" : "Westpac failed to adequately report 19 million transactions, some allegedly linked to child exploitation.",
+         "title" : "Westpac bank to pay record Australian fine over laundering breaches - BBC News",
+         "author" : "https://www.facebook.com/bbcnews",
+         "publishedAt" : "2020-09-24T01:14:00Z",
+         "content" : null,
          "source" : {
             "id" : null,
             "name" : "BBC News"
          },
-         "title" : "Westpac bank to pay record Australian fine over laundering breaches - BBC News",
-         "author" : "https://www.facebook.com/bbcnews",
-         "urlToImage" : "https://ichef.bbci.co.uk/news/1024/branded_news/0B02/production/_114581820_gettyimages-1211678805.jpg",
-         "publishedAt" : "2020-09-24T01:14:00Z",
-         "content" : null,
-         "description" : "Westpac failed to adequately report 19 million transactions, some allegedly linked to child exploitation.",
          "url" : "https://www.bbc.com/news/world-australia-54275165"
       },
       {
-         "url" : "https://www.cbsnews.com/news/us-gdp-growth-missed-16-trillion-systemic-racism-inequality-report/",
          "content" : "America could have been $16 trillion richer if not for inequities in education, housing, wages and business investment between Black and White Americans over the past 20 years, new research concludes… [+2574 chars]",
-         "description" : "Quantifying the economic impact of racial inequality shows the steep toll it takes on America's growth.",
-         "urlToImage" : "https://cbsnews2.cbsistatic.com/hub/i/r/2020/09/24/70f65cc0-4017-4d7d-b588-54aa6f9a0cf0/thumbnail/1200x630/b1b4d696321bb5175b2ec6983709050b/gettyimages-1173659469.jpg",
          "publishedAt" : "2020-09-24T01:09:00Z",
+         "author" : "Khristopher J. Brooks",
          "title" : "Racism has cost the U.S. $16 trillion, Citigroup finds - CBS News",
+         "url" : "https://www.cbsnews.com/news/us-gdp-growth-missed-16-trillion-systemic-racism-inequality-report/",
          "source" : {
-            "id" : "cbs-news",
-            "name" : "CBS News"
+            "name" : "CBS News",
+            "id" : "cbs-news"
          },
-         "author" : "Khristopher J. Brooks"
+         "description" : "Quantifying the economic impact of racial inequality shows the steep toll it takes on America's growth.",
+         "urlToImage" : "https://cbsnews2.cbsistatic.com/hub/i/r/2020/09/24/70f65cc0-4017-4d7d-b588-54aa6f9a0cf0/thumbnail/1200x630/b1b4d696321bb5175b2ec6983709050b/gettyimages-1173659469.jpg"
       },
       {
-         "content" : "Rachel Davis was brought to tears last week as she pleaded with American Airlines gate agents after getting booted from a flight because her 2-year-old son would not wear a mask.\r\n\"What do you want m… [+4008 chars]",
          "description" : "",
+         "urlToImage" : "https://s.abcnews.com/images/Politics/covid-moms-children-masks-airlines-01-ins-llr-200923_1600889142346_hpMain_v32x15_16x9_992.jpg",
          "url" : "https://abcnews.go.com/Politics/airlines-scrutiny-mask-policies-parents-toddlers-kicked-off/story?id=73204508",
-         "author" : "Mina Kaji",
          "source" : {
-            "id" : "abc-news",
-            "name" : "ABC News"
+            "name" : "ABC News",
+            "id" : "abc-news"
          },
-         "title" : "Airlines under scrutiny over mask policies as parents with toddlers get kicked off flights - ABC News",
+         "content" : "Rachel Davis was brought to tears last week as she pleaded with American Airlines gate agents after getting booted from a flight because her 2-year-old son would not wear a mask.\r\n\"What do you want m… [+4008 chars]",
          "publishedAt" : "2020-09-24T00:44:04Z",
-         "urlToImage" : "https://s.abcnews.com/images/Politics/covid-moms-children-masks-airlines-01-ins-llr-200923_1600889142346_hpMain_v32x15_16x9_992.jpg"
+         "author" : "Mina Kaji",
+         "title" : "Airlines under scrutiny over mask policies as parents with toddlers get kicked off flights - ABC News"
       },
       {
-         "url" : "https://fox8.com/news/halloween-2020-a-list-of-northeast-ohio-trick-or-treat-times/",
          "description" : "CLEVELAND (WJW) — Halloween is just around the corner and while festivities may look a little different this year due to the coronavirus pandemic, some communities are still hosting trick-or-treat. The Ohio Department of Health and Governor Mike DeWine recent…",
-         "content" : "CLEVELAND (WJW) Halloween is just around the corner and while festivities may look a little different this year due to the coronavirus pandemic, some communities are still hosting trick-or-treat.\r\nOh… [+7716 chars]",
          "urlToImage" : "https://fox8.com/wp-content/uploads/sites/12/2020/09/GettyImages-544670588-e1600908161969.jpg?w=1280",
+         "content" : "CLEVELAND (WJW) Halloween is just around the corner and while festivities may look a little different this year due to the coronavirus pandemic, some communities are still hosting trick-or-treat.\r\nOh… [+7716 chars]",
          "publishedAt" : "2020-09-24T00:44:00Z",
+         "author" : "Natasha Anderson",
+         "title" : "Halloween 2020: A list of Northeast Ohio trick-or-treat times - WJW FOX 8 News Cleveland",
+         "url" : "https://fox8.com/news/halloween-2020-a-list-of-northeast-ohio-trick-or-treat-times/",
          "source" : {
             "id" : null,
             "name" : "fox8.com"
-         },
-         "title" : "Halloween 2020: A list of Northeast Ohio trick-or-treat times - WJW FOX 8 News Cleveland",
-         "author" : "Natasha Anderson"
+         }
       },
       {
-         "author" : "KHON2 Web Staff",
-         "source" : {
-            "name" : "KHON2",
-            "id" : null
-         },
-         "title" : "VIDEO: City mayor discusses Household Hardship Relief Program changes - KHON2",
-         "urlToImage" : "https://www.khon2.com/wp-content/uploads/sites/8/2016/08/generic-honolulu-skyline-buildings-housing_36449791_ver1.0.jpg?w=1280",
-         "publishedAt" : "2020-09-24T00:29:00Z",
-         "description" : "Honolulu Mayor Kirk Caldwell will announce changes to the Household Hardship Relief Program on Sept. 23.",
-         "content" : "HONOLULU (KHON2) — Honolulu Mayor Kirk Caldwell announced changes to the Household Hardship Relief Program in a briefing on Sept. 23.\r\n[Hawaii’s Breaking News–Download the FREE KHON2 app for iOS or A… [+612 chars]",
-         "url" : "https://www.khon2.com/coronavirus/watch-city-mayor-to-discuss-household-hardship-relief-program-changes/"
-      },
-      {
-         "publishedAt" : "2020-09-23T23:42:21Z",
-         "urlToImage" : "https://ichef.bbci.co.uk/news/1024/branded_news/8D16/production/_114581163_gettyimages-1211580952.jpg",
-         "author" : "https://www.facebook.com/bbcnews",
-         "title" : "Wells Fargo's Charles Scharf apologises over race comments - BBC News",
+         "url" : "https://www.khon2.com/coronavirus/watch-city-mayor-to-discuss-household-hardship-relief-program-changes/",
          "source" : {
             "id" : null,
-            "name" : "BBC News"
+            "name" : "KHON2"
          },
+         "content" : "HONOLULU (KHON2) — Honolulu Mayor Kirk Caldwell announced changes to the Household Hardship Relief Program in a briefing on Sept. 23.\r\n[Hawaii’s Breaking News–Download the FREE KHON2 app for iOS or A… [+612 chars]",
+         "publishedAt" : "2020-09-24T00:29:00Z",
+         "author" : "KHON2 Web Staff",
+         "title" : "VIDEO: City mayor discusses Household Hardship Relief Program changes - KHON2",
+         "description" : "Honolulu Mayor Kirk Caldwell will announce changes to the Household Hardship Relief Program on Sept. 23.",
+         "urlToImage" : "https://www.khon2.com/wp-content/uploads/sites/8/2016/08/generic-honolulu-skyline-buildings-housing_36449791_ver1.0.jpg?w=1280"
+      },
+      {
          "url" : "https://www.bbc.com/news/business-54269360",
+         "source" : {
+            "name" : "BBC News",
+            "id" : null
+         },
+         "author" : "https://www.facebook.com/bbcnews",
+         "title" : "Wells Fargo's Charles Scharf apologises over race comments - BBC News",
          "content" : "Image copyrightGetty ImagesImage caption\r\n Charles Scharf\r\nThe head of US bank Wells Fargo has apologised for remarks that attributed the lack of diversity in the bank's top ranks to a shortage of qu… [+2381 chars]",
+         "publishedAt" : "2020-09-23T23:42:21Z",
+         "urlToImage" : "https://ichef.bbci.co.uk/news/1024/branded_news/8D16/production/_114581163_gettyimages-1211580952.jpg",
          "description" : "The head of the US bank apologises for an \"insensitive comment reflecting my own unconscious bias\"."
       },
       {
-         "description" : "The moves came following reports that South Korea's defense ministry said North Korea killed a missing official from the South earlier this week.",
-         "content" : "SINGAPORE  South Korean stocks dropped in Thursday afternoon trade as tensions on the Korean Peninsula reignited.\r\nThe Kospi in South Korea dropped more than 2% in afternoon trade. \r\nThe moves came f… [+3409 chars]",
          "url" : "https://www.cnbc.com/2020/09/24/asia-markets-bank-of-japan-coronavirus-technology-stocks.html",
+         "source" : {
+            "name" : "CNBC",
+            "id" : null
+         },
+         "content" : "SINGAPORE  South Korean stocks dropped in Thursday afternoon trade as tensions on the Korean Peninsula reignited.\r\nThe Kospi in South Korea dropped more than 2% in afternoon trade. \r\nThe moves came f… [+3409 chars]",
+         "publishedAt" : "2020-09-23T23:37:00Z",
          "author" : "Eustance Huang",
          "title" : "South Korea stocks fall as tensions on the peninsula reignite; tech stocks in Asia take a hit - CNBC",
-         "source" : {
-            "id" : null,
-            "name" : "CNBC"
-         },
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106714903-1600916440996-gettyimages-1206892476-AFP_1PU8CO.jpeg?v=1600916289",
-         "publishedAt" : "2020-09-23T23:37:00Z"
+         "description" : "The moves came following reports that South Korea's defense ministry said North Korea killed a missing official from the South earlier this week.",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106714903-1600916440996-gettyimages-1206892476-AFP_1PU8CO.jpeg?v=1600916289"
       },
       {
-         "description" : "Lawmakers and consumer advocates accuse Google of abusing its dominance in online search and advertising to stifle competition and boost its profits.",
-         "content" : "Four Big Tech CEOs - Facebooks Mark Zuckerberg, Amazons Jeff Bezos, Sundar Pichai of Google and Tim Cook of Apple - are testifying on their companies practices on the issue of market dominance in the… [+7016 chars]",
          "url" : "https://www.usatoday.com/story/tech/2020/09/23/trump-administrations-google-antitrust-action/3511385001/",
-         "title" : "Trump administration moves toward antitrust action against Google - USA TODAY",
          "source" : {
             "name" : "USA Today",
             "id" : "usa-today"
          },
-         "author" : "Marcy Gordon",
+         "content" : "Four Big Tech CEOs - Facebooks Mark Zuckerberg, Amazons Jeff Bezos, Sundar Pichai of Google and Tim Cook of Apple - are testifying on their companies practices on the issue of market dominance in the… [+7016 chars]",
          "publishedAt" : "2020-09-23T23:24:02Z",
+         "author" : "Marcy Gordon",
+         "title" : "Trump administration moves toward antitrust action against Google - USA TODAY",
+         "description" : "Lawmakers and consumer advocates accuse Google of abusing its dominance in online search and advertising to stifle competition and boost its profits.",
          "urlToImage" : "https://www.gannett-cdn.com/-mm-/ac1988a10371e0d0ac70b51f765b8bae6bb357d1/c=0-242-4643-2854/local/-/media/2020/08/12/USATODAY/usatsports/afp-afp_1wg0x6.jpg?width=3200&height=1680&fit=crop"
       },
       {
-         "title" : "How Close Is the U.S. to a Covid-19 Vaccine? These Candidates Are in Phase 3. - Barron's",
+         "urlToImage" : "https://images.barrons.com/im-232207/social",
+         "description" : "",
+         "url" : "https://www.barrons.com/articles/the-covid-19-vaccine-candidates-that-are-now-in-phase-3-trials-51600903218",
          "source" : {
-            "id" : null,
-            "name" : "Barron's"
+            "name" : "Barron's",
+            "id" : null
          },
          "author" : "Ben Walsh",
-         "publishedAt" : "2020-09-23T23:20:00Z",
-         "urlToImage" : "https://images.barrons.com/im-232207/social",
+         "title" : "How Close Is the U.S. to a Covid-19 Vaccine? These Candidates Are in Phase 3. - Barron's",
          "content" : "With more than 200,000 Americans dead from Covid-19 and President \r\n Donald Trump\r\n s coronavirus task force reportedly in turmoil, pharmaceutical companies are racing to roll out vaccines to halt th… [+1459 chars]",
-         "description" : "",
-         "url" : "https://www.barrons.com/articles/the-covid-19-vaccine-candidates-that-are-now-in-phase-3-trials-51600903218"
+         "publishedAt" : "2020-09-23T23:20:00Z"
       },
       {
+         "description" : "It's also close to becoming a publicly traded company, according to its representatives.",
+         "urlToImage" : "https://cnet4.cbsistatic.com/img/ZezzlVZRrcEgQkWQScVJpxxhfUU=/1200x630/2020/09/23/ba820cd0-9c79-481a-a6aa-f8d7e0db6a2c/lmc-endurance-interior-sept-2020-4.jpg",
          "source" : {
             "id" : null,
             "name" : "CNET"
          },
-         "title" : "Lordstown Motors claims it has 40,000 preorders, shows off its new interior - CNET",
-         "author" : "Kyle Hyatt",
+         "url" : "https://www.cnet.com/roadshow/news/lordstown-motors-endurance-interior-40000-preorders/",
          "publishedAt" : "2020-09-23T23:09:21Z",
-         "urlToImage" : "https://cnet4.cbsistatic.com/img/ZezzlVZRrcEgQkWQScVJpxxhfUU=/1200x630/2020/09/23/ba820cd0-9c79-481a-a6aa-f8d7e0db6a2c/lmc-endurance-interior-sept-2020-4.jpg",
-         "description" : "It's also close to becoming a publicly traded company, according to its representatives.",
          "content" : "A business-like interior for a work truck.\r\nLordstown Motors\r\nElectric pickups look like they'll be big business with several brands -- both legacy and startup -- planning to offer them in the coming… [+1538 chars]",
-         "url" : "https://www.cnet.com/roadshow/news/lordstown-motors-endurance-interior-40000-preorders/"
+         "title" : "Lordstown Motors claims it has 40,000 preorders, shows off its new interior - CNET",
+         "author" : "Kyle Hyatt"
       },
       {
-         "urlToImage" : "https://s.yimg.com/ny/api/res/1.2/wdv79IF4WSMMI3UVaJpfZQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyODA7aD04NTMuMzMzMzMzMzMzMzMzNA--/https://s.yimg.com/uu/api/res/1.2/9qF7AKqtMCFWFg92q5XCZA--~B/aD0zODQwO3c9NTc2MDtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2020-09/3943b8b0-f2ea-11ea-9de7-e1b5f8d6ea7d",
-         "publishedAt" : "2020-09-23T22:43:00Z",
-         "source" : {
-            "id" : null,
-            "name" : "Yahoo Entertainment"
-         },
-         "title" : "Stock market news live updates: Stock futures trade mixed after selloff - Yahoo Finance",
          "author" : "Emily McCormick",
-         "url" : "https://finance.yahoo.com/news/stock-market-news-live-september-24-2020-224347265.html",
+         "title" : "Stock market news live updates: Stock futures trade mixed after selloff - Yahoo Finance",
          "content" : "In the investing game, its not only about what you buy; its about when you buy it. One of the most common pieces of advice thrown around the Street, buy low is touted as a tried-and-true tactic.Sure,… [+10639 chars]",
+         "publishedAt" : "2020-09-23T22:43:00Z",
+         "url" : "https://finance.yahoo.com/news/stock-market-news-live-september-24-2020-224347265.html",
+         "source" : {
+            "name" : "Yahoo Entertainment",
+            "id" : null
+         },
+         "urlToImage" : "https://s.yimg.com/ny/api/res/1.2/wdv79IF4WSMMI3UVaJpfZQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyODA7aD04NTMuMzMzMzMzMzMzMzMzNA--/https://s.yimg.com/uu/api/res/1.2/9qF7AKqtMCFWFg92q5XCZA--~B/aD0zODQwO3c9NTc2MDtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2020-09/3943b8b0-f2ea-11ea-9de7-e1b5f8d6ea7d",
          "description" : "Stock futures traded mixed Wednesday evening, but mostly hugged the flat line as equity investors took a pause from the heavy selling earlier in the day."
       },
       {
-         "publishedAt" : "2020-09-23T22:42:05Z",
+         "description" : "JPMorgan's $1 billion spoofing fine may be the largest on record.",
          "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/03/0/0/AP20056632348478.jpg?ve=1&tl=1",
-         "author" : "Dow Jones Newswires",
-         "source" : {
-            "name" : "Fox Business",
-            "id" : null
-         },
-         "title" : "JPMorgan nears $1B spoofing fine - Fox Business",
          "url" : "https://www.foxbusiness.com/markets/jpmorgan-nears-1b-spoofing-fine",
+         "source" : {
+            "id" : null,
+            "name" : "Fox Business"
+         },
          "content" : "JPMorgan Chase &amp; Co. is nearing an agreement with federal prosecutors and regulators to pay a fine to settle civil and criminal charges that its traders rigged futures and securities markets, peo… [+2246 chars]",
-         "description" : "JPMorgan's $1 billion spoofing fine may be the largest on record."
+         "publishedAt" : "2020-09-23T22:42:05Z",
+         "author" : "Dow Jones Newswires",
+         "title" : "JPMorgan nears $1B spoofing fine - Fox Business"
       },
       {
-         "author" : "Eden Teller",
+         "urlToImage" : "https://www.berkeleyside.com/wp-content/uploads/2020/09/Candy-at-Andronicos.jpg",
+         "description" : "City Council passed an ordinance banning unhealthy food from checkstands at large retailers. In March 2021, stores like Whole Foods and Berkeley Bowl will have to replace chips and candy with healthier options.",
+         "url" : "http://www.berkeleyside.com/2020/09/23/berkeley-will-be-first-in-the-nation-to-ban-candy-soda-at-checkout-aisles",
          "source" : {
             "name" : "Berkeleyside",
             "id" : null
          },
+         "author" : "Eden Teller",
          "title" : "Berkeley will ban candy, soda, chips from checkstands at grocery stores - Berkeleyside",
-         "urlToImage" : "https://www.berkeleyside.com/wp-content/uploads/2020/09/Candy-at-Andronicos.jpg",
-         "publishedAt" : "2020-09-23T22:23:01Z",
          "content" : "Chocolate bars tempt shoppers checking out at Andronico’s on Solano Avenue. Photo: Eden Teller\r\nBerkeley’s City Council has passed an ordinance that will remove unhealthy food from grocery store chec… [+2847 chars]",
-         "description" : "City Council passed an ordinance banning unhealthy food from checkstands at large retailers. In March 2021, stores like Whole Foods and Berkeley Bowl will have to replace chips and candy with healthier options.",
-         "url" : "http://www.berkeleyside.com/2020/09/23/berkeley-will-be-first-in-the-nation-to-ban-candy-soda-at-checkout-aisles"
+         "publishedAt" : "2020-09-23T22:23:01Z"
       },
       {
-         "source" : {
-            "name" : "Boston.com",
-            "id" : null
-         },
-         "title" : "A Mass. construction worker died from eating too much black licorice - Boston.com",
-         "author" : "associated-press",
          "urlToImage" : "https://www.boston.com/wp-content/uploads/2020/09/Licorice_Death_70284-850x478.jpg",
-         "publishedAt" : "2020-09-23T21:24:30Z",
-         "content" : "A Massachusetts construction workers love of black licorice wound up costing him his life. Eating a bag and a half every day for a few weeks threw his nutrients out of whack and caused the 54-year-ol… [+2311 chars]",
          "description" : "",
-         "url" : "https://www.boston.com/news/health/2020/09/23/black-licorice-death"
-      },
-      {
-         "description" : "All bars in Jefferson Parish will be allowed to open for on-premise consumption, but must follow guidelines per the Governor's order, according to Jefferson Parish officials.",
-         "content" : "JEFFERSON PARISH, La. —All bars in Jefferson Parish will be allowed to open for on-premise consumption, but must follow guidelines per the Governor's order, according to Jefferson Parish officials.\r\n… [+981 chars]",
-         "url" : "https://www.wdsu.com/article/all-bars-in-jefferson-parish-will-be-allowed-to-open-for-on-premise-consumption/34129145",
-         "author" : "WDSU Digital Team",
-         "title" : "All bars in Jefferson Parish will be allowed to open for on-premise consumption - WDSU New Orleans",
          "source" : {
             "id" : null,
-            "name" : "WDSU New Orleans"
+            "name" : "Boston.com"
          },
-         "urlToImage" : "https://kubrick.htvapps.com/vidthumb/f696da0b-4594-4557-bf1f-7e604d5d2dcd/f696da0b-4594-4557-bf1f-7e604d5d2dcd_image.jpg?crop=1xw:1.0xh;center,top&resize=1200:*",
-         "publishedAt" : "2020-09-23T21:19:00Z"
+         "url" : "https://www.boston.com/news/health/2020/09/23/black-licorice-death",
+         "title" : "A Mass. construction worker died from eating too much black licorice - Boston.com",
+         "author" : "associated-press",
+         "publishedAt" : "2020-09-23T21:24:30Z",
+         "content" : "A Massachusetts construction workers love of black licorice wound up costing him his life. Eating a bag and a half every day for a few weeks threw his nutrients out of whack and caused the 54-year-ol… [+2311 chars]"
+      },
+      {
+         "content" : "JEFFERSON PARISH, La. —All bars in Jefferson Parish will be allowed to open for on-premise consumption, but must follow guidelines per the Governor's order, according to Jefferson Parish officials.\r\n… [+981 chars]",
+         "publishedAt" : "2020-09-23T21:19:00Z",
+         "author" : "WDSU Digital Team",
+         "title" : "All bars in Jefferson Parish will be allowed to open for on-premise consumption - WDSU New Orleans",
+         "url" : "https://www.wdsu.com/article/all-bars-in-jefferson-parish-will-be-allowed-to-open-for-on-premise-consumption/34129145",
+         "source" : {
+            "name" : "WDSU New Orleans",
+            "id" : null
+         },
+         "description" : "All bars in Jefferson Parish will be allowed to open for on-premise consumption, but must follow guidelines per the Governor's order, according to Jefferson Parish officials.",
+         "urlToImage" : "https://kubrick.htvapps.com/vidthumb/f696da0b-4594-4557-bf1f-7e604d5d2dcd/f696da0b-4594-4557-bf1f-7e604d5d2dcd_image.jpg?crop=1xw:1.0xh;center,top&resize=1200:*"
       },
       {
          "urlToImage" : "https://www.rawstory.com/wp-content/uploads/2020/09/trump-shutterstock-3.jpg",
-         "publishedAt" : "2020-09-23T20:58:31Z",
+         "description" : "The former pharmaceutical executive tapped by President Donald Trump to lead the administration’s race to a COVID-19 vaccine is refusing to give up investments that stand to benefit from his work — at least during his lifetime. The executive, Moncef Slaoui, i…",
          "source" : {
-            "name" : "Raw Story",
-            "id" : null
+            "id" : null,
+            "name" : "Raw Story"
          },
+         "url" : "https://www.rawstory.com/2020/09/trumps-vaccine-czar-refuses-to-give-up-stock-in-company-involved-in-his-government-role/",
          "title" : "Trump’s vaccine czar refuses to give up stock in drug company involved in his government role - Raw Story",
          "author" : "Pro Publica",
-         "url" : "https://www.rawstory.com/2020/09/trumps-vaccine-czar-refuses-to-give-up-stock-in-company-involved-in-his-government-role/",
-         "description" : "The former pharmaceutical executive tapped by President Donald Trump to lead the administration’s race to a COVID-19 vaccine is refusing to give up investments that stand to benefit from his work — at least during his lifetime. The executive, Moncef Slaoui, i…",
+         "publishedAt" : "2020-09-23T20:58:31Z",
          "content" : "The former pharmaceutical executive tapped by President Donald Trump to lead the administrations race to a COVID-19 vaccine is refusing to give up investments that stand to benefit from his work at l… [+6713 chars]"
       }
    ]
