@@ -1,129 +1,91 @@
 {
+   "totalResults" : 70,
    "articles" : [
       {
+         "content" : "Drew Angerer/Getty Images\r\n<ul><li>Shares of SPI Energy soared as high as 4,345% on Wednesday after the solar company announced the launch of an electric vehicle business. </li><li>The EV business wi… [+1541 chars]",
          "urlToImage" : "https://i.insider.com/5f6ba70ec4049200115cb39e?format=jpeg",
-         "author" : "Emily Graffeo",
          "source" : {
             "name" : "Business Insider",
             "id" : "business-insider"
          },
-         "url" : "https://www.businessinsider.com/spi-energy-stock-price-ev-electric-vehicle-announcement-business-launch-2020-9",
          "title" : "SPI Energy skyrockets 4,300% after announcing launch of EV business | Markets - Business Insider",
-         "content" : "Drew Angerer/Getty Images\r\n<ul><li>Shares of SPI Energy soared as high as 4,345% on Wednesday after the solar company announced the launch of an electric vehicle business. </li><li>The EV business wi… [+1541 chars]",
+         "author" : "Emily Graffeo",
+         "description" : "SPI Energy skyrockets 4,300% after announcing launch of EV business",
          "publishedAt" : "2020-09-24T02:10:50Z",
-         "description" : "SPI Energy skyrockets 4,300% after announcing launch of EV business"
+         "url" : "https://www.businessinsider.com/spi-energy-stock-price-ev-electric-vehicle-announcement-business-launch-2020-9"
       },
       {
-         "description" : "The MTA has been cleaning subway cars daily overnight between 1 a.m. and 5 a.m. when service is suspended amid the coronavirus pandemic, but some riders say there are still lingering issues.",
-         "publishedAt" : "2020-09-24T01:32:09Z",
-         "content" : "NEW YORK (WABC) -- Although cleaning of subway cars and platforms have increased during the pandemic, passengers still feel there are lingering issues.And the issues aren't just rubbish, but soiled s… [+1383 chars]",
-         "url" : "https://abc7ny.com/mta-nyc-subways-cleaning-are-being-cleaned/6523132/",
-         "title" : "New York City subway riders discovering unpleasant surprises in cars, platforms - WABC-TV",
          "source" : {
             "id" : null,
             "name" : "WABC-TV"
          },
+         "url" : "https://abc7ny.com/mta-nyc-subways-cleaning-are-being-cleaned/6523132/",
+         "publishedAt" : "2020-09-24T01:32:09Z",
+         "description" : "The MTA has been cleaning subway cars daily overnight between 1 a.m. and 5 a.m. when service is suspended amid the coronavirus pandemic, but some riders say there are still lingering issues.",
          "author" : null,
+         "title" : "New York City subway riders discovering unpleasant surprises in cars, platforms - WABC-TV",
+         "content" : "NEW YORK (WABC) -- Although cleaning of subway cars and platforms have increased during the pandemic, passengers still feel there are lingering issues.And the issues aren't just rubbish, but soiled s… [+1383 chars]",
          "urlToImage" : "https://cdn.abcotvs.com/dip/images/6524296_mta-cleaning-edit.jpg?w=1600"
       },
       {
-         "urlToImage" : "https://ichef.bbci.co.uk/news/1024/branded_news/0B02/production/_114581820_gettyimages-1211678805.jpg",
-         "author" : "https://www.facebook.com/bbcnews",
-         "source" : {
-            "id" : null,
-            "name" : "BBC News"
-         },
          "url" : "https://www.bbc.com/news/world-australia-54275165",
+         "author" : "https://www.facebook.com/bbcnews",
+         "description" : "Westpac failed to adequately report 19 million transactions, some allegedly linked to child exploitation.",
          "title" : "Westpac bank to pay record Australian fine over laundering breaches - BBC News",
-         "content" : null,
          "publishedAt" : "2020-09-24T01:14:00Z",
-         "description" : "Westpac failed to adequately report 19 million transactions, some allegedly linked to child exploitation."
+         "source" : {
+            "name" : "BBC News",
+            "id" : null
+         },
+         "urlToImage" : "https://ichef.bbci.co.uk/news/1024/branded_news/0B02/production/_114581820_gettyimages-1211678805.jpg",
+         "content" : null
       },
       {
          "urlToImage" : "https://ichef.bbci.co.uk/news/1024/branded_news/8D16/production/_114581163_gettyimages-1211580952.jpg",
+         "content" : "Image copyrightGetty ImagesImage caption\r\n Charles Scharf\r\nThe head of US bank Wells Fargo has apologised for remarks that attributed the lack of diversity in the bank's top ranks to a shortage of qu… [+2381 chars]",
+         "url" : "https://www.bbc.com/news/business-54269360",
+         "publishedAt" : "2020-09-23T23:42:21Z",
+         "description" : "The head of the US bank apologises for an \"insensitive comment reflecting my own unconscious bias\".",
+         "title" : "Wells Fargo's Charles Scharf apologises over race comments - BBC News",
          "author" : "https://www.facebook.com/bbcnews",
          "source" : {
-            "id" : null,
-            "name" : "BBC News"
-         },
-         "url" : "https://www.bbc.com/news/business-54269360",
-         "title" : "Wells Fargo's Charles Scharf apologises over race comments - BBC News",
-         "content" : "Image copyrightGetty ImagesImage caption\r\n Charles Scharf\r\nThe head of US bank Wells Fargo has apologised for remarks that attributed the lack of diversity in the bank's top ranks to a shortage of qu… [+2381 chars]",
-         "publishedAt" : "2020-09-23T23:42:21Z",
-         "description" : "The head of the US bank apologises for an \"insensitive comment reflecting my own unconscious bias\"."
+            "name" : "BBC News",
+            "id" : null
+         }
       },
       {
-         "description" : "The median age of people with COVID-19 in the U.S. has declined, with adults in their 20s now accounting for more cases than people in any other age group.",
-         "publishedAt" : "2020-09-23T23:22:00Z",
          "content" : "The longer the COVID-19 pandemic goes on, the younger its victims get.\r\nA new study from the Centers for Disease Control and Prevention reports that the median age of people with COVID-19 in the U.S.… [+4435 chars]",
-         "title" : "Americans in their 20s account for 1 in 5 new COVID-19 cases - Los Angeles Times",
-         "url" : "https://www.latimes.com/science/story/2020-09-23/young-adults-are-now-the-largest-group-of-americans-with-covid-19-cdc",
+         "urlToImage" : "https://ca-times.brightspotcdn.com/dims4/default/994cea1/2147483647/strip/true/crop/3900x2048+0+274/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F90%2F00%2Fc36aa24d4fce9d43c13c87398cb9%2Fgettyimages-1223045718.jpg",
          "source" : {
             "id" : null,
             "name" : "Los Angeles Times"
          },
+         "title" : "Americans in their 20s account for 1 in 5 new COVID-19 cases - Los Angeles Times",
+         "description" : "The median age of people with COVID-19 in the U.S. has declined, with adults in their 20s now accounting for more cases than people in any other age group.",
          "author" : "Karen Kaplan",
-         "urlToImage" : "https://ca-times.brightspotcdn.com/dims4/default/994cea1/2147483647/strip/true/crop/3900x2048+0+274/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F90%2F00%2Fc36aa24d4fce9d43c13c87398cb9%2Fgettyimages-1223045718.jpg"
+         "publishedAt" : "2020-09-23T23:22:00Z",
+         "url" : "https://www.latimes.com/science/story/2020-09-23/young-adults-are-now-the-largest-group-of-americans-with-covid-19-cdc"
       },
       {
-         "description" : "It's also close to becoming a publicly traded company, according to its representatives.",
-         "publishedAt" : "2020-09-23T23:09:21Z",
          "content" : "A business-like interior for a work truck.\r\nLordstown Motors\r\nElectric pickups look like they'll be big business with several brands -- both legacy and startup -- planning to offer them in the coming… [+1538 chars]",
-         "title" : "Lordstown Motors claims it has 40,000 preorders, shows off its new interior - CNET",
-         "url" : "https://www.cnet.com/roadshow/news/lordstown-motors-endurance-interior-40000-preorders/",
+         "urlToImage" : "https://cnet4.cbsistatic.com/img/ZezzlVZRrcEgQkWQScVJpxxhfUU=/1200x630/2020/09/23/ba820cd0-9c79-481a-a6aa-f8d7e0db6a2c/lmc-endurance-interior-sept-2020-4.jpg",
          "source" : {
             "name" : "CNET",
             "id" : null
          },
+         "publishedAt" : "2020-09-23T23:09:21Z",
+         "description" : "It's also close to becoming a publicly traded company, according to its representatives.",
          "author" : "Kyle Hyatt",
-         "urlToImage" : "https://cnet4.cbsistatic.com/img/ZezzlVZRrcEgQkWQScVJpxxhfUU=/1200x630/2020/09/23/ba820cd0-9c79-481a-a6aa-f8d7e0db6a2c/lmc-endurance-interior-sept-2020-4.jpg"
+         "title" : "Lordstown Motors claims it has 40,000 preorders, shows off its new interior - CNET",
+         "url" : "https://www.cnet.com/roadshow/news/lordstown-motors-endurance-interior-40000-preorders/"
       },
       {
-         "description" : "\"If there hadn't been all of this hype about a million-mile battery, those would have been huge positives, and they were for me,\" said CNBC's Jim Cramer.",
-         "publishedAt" : "2020-09-23T23:07:00Z",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/105252939-resizeimage_16r.jpg?v=1532567440",
          "content" : "Tesla's Battery Day left some on Wall Street disappointed, but CNBC's Jim Cramer said Wednesday investors who want to buy shares of the electric-vehicle maker should remain patient. \r\nThe stock close… [+2730 chars]",
-         "title" : "Cramer sees 'huge positives' on Tesla's Battery Day, tells investors to be patient on stock - CNBC",
          "url" : "https://www.cnbc.com/2020/09/23/cramer-sees-huge-positives-on-tesla-battery-day-urges-patience-on-stock.html",
-         "source" : {
-            "id" : null,
-            "name" : "CNBC"
-         },
-         "author" : "Kevin Stankiewicz",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/105252939-resizeimage_16r.jpg?v=1532567440"
-      },
-      {
-         "urlToImage" : "https://s.yimg.com/ny/api/res/1.2/wdv79IF4WSMMI3UVaJpfZQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyODA7aD04NTMuMzMzMzMzMzMzMzMzNA--/https://s.yimg.com/uu/api/res/1.2/9qF7AKqtMCFWFg92q5XCZA--~B/aD0zODQwO3c9NTc2MDtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2020-09/3943b8b0-f2ea-11ea-9de7-e1b5f8d6ea7d",
-         "author" : "Emily McCormick",
-         "source" : {
-            "name" : "Yahoo Entertainment",
-            "id" : null
-         },
-         "title" : "Stock market news live updates: Stock futures trade mixed after selloff - Yahoo Finance",
-         "url" : "https://finance.yahoo.com/news/stock-market-news-live-september-24-2020-224347265.html",
-         "content" : "In the investing game, its not only about what you buy; its about when you buy it. One of the most common pieces of advice thrown around the Street, buy low is touted as a tried-and-true tactic.Sure,… [+10639 chars]",
-         "publishedAt" : "2020-09-23T22:43:00Z",
-         "description" : "Stock futures traded mixed Wednesday evening, but mostly hugged the flat line as equity investors took a pause from the heavy selling earlier in the day."
-      },
-      {
-         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/03/0/0/AP20056632348478.jpg?ve=1&tl=1",
-         "source" : {
-            "name" : "Fox Business",
-            "id" : null
-         },
-         "author" : "Dow Jones Newswires",
-         "content" : "JPMorgan Chase &amp; Co. is nearing an agreement with federal prosecutors and regulators to pay a fine to settle civil and criminal charges that its traders rigged futures and securities markets, peo… [+2246 chars]",
-         "url" : "https://www.foxbusiness.com/markets/jpmorgan-nears-1b-spoofing-fine",
-         "title" : "JPMorgan nears $1B spoofing fine - Fox Business",
-         "description" : "JPMorgan's $1 billion spoofing fine may be the largest on record.",
-         "publishedAt" : "2020-09-23T22:42:05Z"
-      },
-      {
-         "url" : "https://www.cnbc.com/2020/09/23/jim-cramer-on-goodrxs-ipo-start-buying-some-stock-if-it-pulls-back.html",
-         "title" : "Jim Cramer on GoodRx's IPO: Start buying if the stock pulls back a little - CNBC",
-         "content" : "CNBC's Jim Cramer on Wednesday touted the product and potential of GoodRx, but advised investors to wait a little bit before taking out a significant position in the newly public stock. \r\nThe digital… [+3759 chars]",
-         "publishedAt" : "2020-09-23T22:31:00Z",
-         "description" : "CNBC's Jim Cramer said he believes in GoodRx's product and purpose, advising investors to take a small position in the company should it come down slightly in price following its IPO.",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106714574-1600888309269-goodrx.jpg?v=1600888386",
+         "publishedAt" : "2020-09-23T23:07:00Z",
+         "title" : "Cramer sees 'huge positives' on Tesla's Battery Day, tells investors to be patient on stock - CNBC",
+         "description" : "\"If there hadn't been all of this hype about a million-mile battery, those would have been huge positives, and they were for me,\" said CNBC's Jim Cramer.",
          "author" : "Kevin Stankiewicz",
          "source" : {
             "id" : null,
@@ -131,136 +93,174 @@
          }
       },
       {
+         "source" : {
+            "id" : null,
+            "name" : "Yahoo Entertainment"
+         },
+         "publishedAt" : "2020-09-23T22:43:00Z",
+         "author" : "Emily McCormick",
+         "title" : "Stock market news live updates: Stock futures trade mixed after selloff - Yahoo Finance",
+         "description" : "Stock futures traded mixed Wednesday evening, but mostly hugged the flat line as equity investors took a pause from the heavy selling earlier in the day.",
+         "url" : "https://finance.yahoo.com/news/stock-market-news-live-september-24-2020-224347265.html",
+         "content" : "In the investing game, its not only about what you buy; its about when you buy it. One of the most common pieces of advice thrown around the Street, buy low is touted as a tried-and-true tactic.Sure,… [+10639 chars]",
+         "urlToImage" : "https://s.yimg.com/ny/api/res/1.2/wdv79IF4WSMMI3UVaJpfZQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyODA7aD04NTMuMzMzMzMzMzMzMzMzNA--/https://s.yimg.com/uu/api/res/1.2/9qF7AKqtMCFWFg92q5XCZA--~B/aD0zODQwO3c9NTc2MDtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2020-09/3943b8b0-f2ea-11ea-9de7-e1b5f8d6ea7d"
+      },
+      {
+         "source" : {
+            "id" : null,
+            "name" : "Fox Business"
+         },
+         "title" : "JPMorgan nears $1B spoofing fine - Fox Business",
+         "author" : "Dow Jones Newswires",
+         "description" : "JPMorgan's $1 billion spoofing fine may be the largest on record.",
+         "publishedAt" : "2020-09-23T22:42:05Z",
+         "url" : "https://www.foxbusiness.com/markets/jpmorgan-nears-1b-spoofing-fine",
+         "content" : "JPMorgan Chase &amp; Co. is nearing an agreement with federal prosecutors and regulators to pay a fine to settle civil and criminal charges that its traders rigged futures and securities markets, peo… [+2246 chars]",
+         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/03/0/0/AP20056632348478.jpg?ve=1&tl=1"
+      },
+      {
+         "source" : {
+            "name" : "CNBC",
+            "id" : null
+         },
+         "url" : "https://www.cnbc.com/2020/09/23/jim-cramer-on-goodrxs-ipo-start-buying-some-stock-if-it-pulls-back.html",
+         "description" : "CNBC's Jim Cramer said he believes in GoodRx's product and purpose, advising investors to take a small position in the company should it come down slightly in price following its IPO.",
+         "author" : "Kevin Stankiewicz",
+         "title" : "Jim Cramer on GoodRx's IPO: Start buying if the stock pulls back a little - CNBC",
+         "publishedAt" : "2020-09-23T22:31:00Z",
+         "content" : "CNBC's Jim Cramer on Wednesday touted the product and potential of GoodRx, but advised investors to wait a little bit before taking out a significant position in the newly public stock. \r\nThe digital… [+3759 chars]",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106714574-1600888309269-goodrx.jpg?v=1600888386"
+      },
+      {
          "urlToImage" : "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2020/09/bitcoin-top-of-world-gID_2.jpg",
+         "content" : "In brief\r\n<ul><li>Lots of Bitcoin and Ethereum options contracts expire on Friday.</li><li>It could cause volatility, say some experts.</li><li>Equally, nothing could happen. In options contracts, tr… [+3222 chars]",
+         "author" : "Robert Stevens",
+         "title" : "$1 Billion in Bitcoin Options Expire Friday. Here’s What It Means - Decrypt",
+         "description" : "Many of the Bitcoin options contracts set to expire are between $11,000 and $12,000—well above BTC's current price.",
+         "publishedAt" : "2020-09-23T21:31:00Z",
+         "url" : "https://decrypt.co/42773/billion-bitcoin-options-expire-friday-heres-what-it-means",
          "source" : {
             "name" : "Decrypt",
             "id" : null
-         },
-         "author" : "Robert Stevens",
-         "content" : "In brief\r\n<ul><li>Lots of Bitcoin and Ethereum options contracts expire on Friday.</li><li>It could cause volatility, say some experts.</li><li>Equally, nothing could happen. In options contracts, tr… [+3222 chars]",
-         "title" : "$1 Billion in Bitcoin Options Expire Friday. Here’s What It Means - Decrypt",
-         "url" : "https://decrypt.co/42773/billion-bitcoin-options-expire-friday-heres-what-it-means",
-         "description" : "Many of the Bitcoin options contracts set to expire are between $11,000 and $12,000—well above BTC's current price.",
-         "publishedAt" : "2020-09-23T21:31:00Z"
+         }
       },
       {
-         "publishedAt" : "2020-09-23T21:19:00Z",
-         "description" : "All bars in Jefferson Parish will be allowed to open for on-premise consumption, but must follow guidelines per the Governor's order, according to Jefferson Parish officials.",
-         "url" : "https://www.wdsu.com/article/all-bars-in-jefferson-parish-will-be-allowed-to-open-for-on-premise-consumption/34129145",
-         "title" : "All bars in Jefferson Parish will be allowed to open for on-premise consumption - WDSU New Orleans",
          "content" : "JEFFERSON PARISH, La. —All bars in Jefferson Parish will be allowed to open for on-premise consumption, but must follow guidelines per the Governor's order, according to Jefferson Parish officials.\r\n… [+981 chars]",
+         "urlToImage" : "https://kubrick.htvapps.com/vidthumb/f696da0b-4594-4557-bf1f-7e604d5d2dcd/f696da0b-4594-4557-bf1f-7e604d5d2dcd_image.jpg?crop=1xw:1.0xh;center,top&resize=1200:*",
+         "source" : {
+            "name" : "WDSU New Orleans",
+            "id" : null
+         },
+         "description" : "All bars in Jefferson Parish will be allowed to open for on-premise consumption, but must follow guidelines per the Governor's order, according to Jefferson Parish officials.",
+         "title" : "All bars in Jefferson Parish will be allowed to open for on-premise consumption - WDSU New Orleans",
          "author" : "WDSU Digital Team",
-         "source" : {
-            "id" : null,
-            "name" : "WDSU New Orleans"
-         },
-         "urlToImage" : "https://kubrick.htvapps.com/vidthumb/f696da0b-4594-4557-bf1f-7e604d5d2dcd/f696da0b-4594-4557-bf1f-7e604d5d2dcd_image.jpg?crop=1xw:1.0xh;center,top&resize=1200:*"
+         "publishedAt" : "2020-09-23T21:19:00Z",
+         "url" : "https://www.wdsu.com/article/all-bars-in-jefferson-parish-will-be-allowed-to-open-for-on-premise-consumption/34129145"
       },
       {
-         "content" : "(CNN)Rachel Starr Davis, a single mother of a 2-year-old, is urging the airline industry to revise their face mask policies after she was kicked off a flight because her son refused to wear a face co… [+3969 chars]",
-         "title" : "Mother who was kicked off a flight because her toddler wouldn't wear a mask wants airlines to change their policies - CNN",
+         "source" : {
+            "name" : "CNN",
+            "id" : "cnn"
+         },
          "url" : "https://www.cnn.com/2020/09/23/us/airplane-face-mask-mother-trnd/index.html",
+         "author" : "Alisha Ebrahimji, CNN",
          "description" : "Rachel Starr Davis, a single mother of a 2-year-old, is urging the airline industry to revise their face mask policies after she was kicked off a flight because her son refused to wear a face covering.",
+         "title" : "Mother who was kicked off a flight because her toddler wouldn't wear a mask wants airlines to change their policies - CNN",
          "publishedAt" : "2020-09-23T20:32:00Z",
-         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200923095624-01-airplane-face-mask-mom-trnd-super-tease.jpg",
-         "source" : {
-            "id" : "cnn",
-            "name" : "CNN"
-         },
-         "author" : "Alisha Ebrahimji, CNN"
+         "content" : "(CNN)Rachel Starr Davis, a single mother of a 2-year-old, is urging the airline industry to revise their face mask policies after she was kicked off a flight because her son refused to wear a face co… [+3969 chars]",
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200923095624-01-airplane-face-mask-mom-trnd-super-tease.jpg"
       },
       {
+         "content" : "Joe Bidens plan to decarbonize…\r\nOil prices rallied this week…\r\nBy Charles Kennedy - Sep 23, 2020, 3:30 PM CDTThe OPEC+ production cuts and curtailments in the United States are set to help global in… [+1847 chars]",
          "urlToImage" : "https://d32r1sh890xpii.cloudfront.net/news/718x300/2020-09-23_1c78kbvewo.jpg",
-         "author" : "Charles Kennedy",
          "source" : {
             "name" : "OilPrice.com",
             "id" : null
          },
-         "url" : "https://oilprice.com/Latest-Energy-News/World-News/EIA-Sees-Global-Oil-Market-Balancing-By-End-2021.html",
+         "description" : "The OPEC production cuts and curtailments in the United States are set to help global inventories to continue drawing down for the rest of the year and most of next year",
          "title" : "EIA Sees Global Oil Market Balancing By End-2021 - OilPrice.com",
-         "content" : "Joe Bidens plan to decarbonize…\r\nOil prices rallied this week…\r\nBy Charles Kennedy - Sep 23, 2020, 3:30 PM CDTThe OPEC+ production cuts and curtailments in the United States are set to help global in… [+1847 chars]",
+         "author" : "Charles Kennedy",
          "publishedAt" : "2020-09-23T20:30:00Z",
-         "description" : "The OPEC production cuts and curtailments in the United States are set to help global inventories to continue drawing down for the rest of the year and most of next year"
+         "url" : "https://oilprice.com/Latest-Energy-News/World-News/EIA-Sees-Global-Oil-Market-Balancing-By-End-2021.html"
       },
       {
          "urlToImage" : "https://g.foolcdn.com/editorial/images/592746/nikola_one3.jpg",
-         "source" : {
-            "id" : null,
-            "name" : "Motley Fool"
-         },
-         "author" : "John Rosevear",
          "content" : "Shares of embattled electric-truck start-up Nikola (NASDAQ:NKLA) closed down more than 25% on Wednesday, following reports that energy giant BP (NYSE:BP) has backed away from a potential partnership … [+1751 chars]",
+         "publishedAt" : "2020-09-23T20:26:00Z",
          "title" : "Nikola Stock Drops 26% After BP Backs Away From Hydrogen-Station Deal - Motley Fool",
-         "url" : "https://www.fool.com/investing/2020/09/23/nikola-stock-closed-down-xx-after-bp-backs-away-fr/",
+         "author" : "John Rosevear",
          "description" : "The embattled electric-truck start-up's woes continued on Wednesday.",
-         "publishedAt" : "2020-09-23T20:26:00Z"
-      },
-      {
-         "urlToImage" : "https://www.journalofaccountancy.com/content/dam/jofa/news/small-biz-planning-640.jpg",
+         "url" : "https://www.fool.com/investing/2020/09/23/nikola-stock-closed-down-xx-after-bp-backs-away-fr/",
          "source" : {
-            "id" : null,
-            "name" : "Journal of Accountancy"
-         },
-         "author" : "By Kari Hipsak, CPA, CGMA",
-         "content" : "In the six months since the Paycheck Protection Program (PPP) was created, the only certainty about the program has been uncertainty.\r\nThe PPP came into being as part of the Coronavirus Aid, Relief, … [+9789 chars]",
-         "title" : "PPP loan forgiveness: What CPAs should be doing now - Journal of Accountancy",
-         "url" : "https://www.journalofaccountancy.com/news/2020/sep/ppp-loan-forgiveness-what-cpas-should-do.html",
-         "description" : "The forgiveness aspect of the Paycheck Protection Program remains a source of uncertainty for CPAs. This collection of facts and frequently asked questions can help CPAs understand what to do amid the confusion.",
-         "publishedAt" : "2020-09-23T20:15:00Z"
+            "name" : "Motley Fool",
+            "id" : null
+         }
       },
       {
-         "urlToImage" : "https://cdn.vox-cdn.com/thumbor/YDHrKZLmW0-oQRfIUexxK6yTuZE=/0x292:2040x1360/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/11453917/mdoying_180411_2466_0050stills.jpg",
-         "author" : "Nick Statt",
+         "description" : "The forgiveness aspect of the Paycheck Protection Program remains a source of uncertainty for CPAs. This collection of facts and frequently asked questions can help CPAs understand what to do amid the confusion.",
+         "title" : "PPP loan forgiveness: What CPAs should be doing now - Journal of Accountancy",
+         "author" : "By Kari Hipsak, CPA, CGMA",
+         "publishedAt" : "2020-09-23T20:15:00Z",
+         "url" : "https://www.journalofaccountancy.com/news/2020/sep/ppp-loan-forgiveness-what-cpas-should-do.html",
+         "source" : {
+            "name" : "Journal of Accountancy",
+            "id" : null
+         },
+         "urlToImage" : "https://www.journalofaccountancy.com/content/dam/jofa/news/small-biz-planning-640.jpg",
+         "content" : "In the six months since the Paycheck Protection Program (PPP) was created, the only certainty about the program has been uncertainty.\r\nThe PPP came into being as part of the Coronavirus Aid, Relief, … [+9789 chars]"
+      },
+      {
          "source" : {
             "name" : "The Verge",
             "id" : "the-verge"
          },
-         "title" : "Amazon will make it easier to buy sustainable products with new climate label - The Verge",
          "url" : "https://www.theverge.com/2020/9/23/21453017/amazon-climate-pledge-friendly-environmental-carbon-footprint-certification",
-         "content" : "The company is launching a new climate program for certified sustainable products\r\nPhoto by Michele Doying / The Verge\r\nAmazon is launching a new environmental program called Climate Pledge Friendly … [+2842 chars]",
+         "author" : "Nick Statt",
+         "description" : "Amazon is making it easier to know when a product on its website meets one of a number of environmental criteria as part of a new climate program called Climate Pledge Friendly. Products that meet one of the 19 certifications will get a label on the product p…",
+         "title" : "Amazon will make it easier to buy sustainable products with new climate label - The Verge",
          "publishedAt" : "2020-09-23T19:50:46Z",
-         "description" : "Amazon is making it easier to know when a product on its website meets one of a number of environmental criteria as part of a new climate program called Climate Pledge Friendly. Products that meet one of the 19 certifications will get a label on the product p…"
+         "content" : "The company is launching a new climate program for certified sustainable products\r\nPhoto by Michele Doying / The Verge\r\nAmazon is launching a new environmental program called Climate Pledge Friendly … [+2842 chars]",
+         "urlToImage" : "https://cdn.vox-cdn.com/thumbor/YDHrKZLmW0-oQRfIUexxK6yTuZE=/0x292:2040x1360/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/11453917/mdoying_180411_2466_0050stills.jpg"
       },
       {
-         "source" : {
-            "id" : "fox-news",
-            "name" : "Fox News"
-         },
-         "author" : "Michael Hollan",
          "urlToImage" : "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/cruise-excursion.jpg",
-         "description" : "Don’t expect to cruise and roam anytime soon.",
-         "publishedAt" : "2020-09-23T19:49:12Z",
          "content" : "Don’t expect to cruise and roam anytime soon.\r\nAs cruise lines prepare to return to the waters, the industry is considering a variety of safety measures and adjustments to keep guests safe during the… [+2631 chars]",
+         "publishedAt" : "2020-09-23T19:49:12Z",
          "title" : "Cruise lines should ban passengers from freely roaming port cities, cruise panel proposes - Fox News",
-         "url" : "https://www.foxnews.com/travel/cruises-free-roaming-excursions-banned-coronavirus"
+         "description" : "Don’t expect to cruise and roam anytime soon.",
+         "author" : "Michael Hollan",
+         "url" : "https://www.foxnews.com/travel/cruises-free-roaming-excursions-banned-coronavirus",
+         "source" : {
+            "name" : "Fox News",
+            "id" : "fox-news"
+         }
       },
       {
-         "author" : "Jacqueline Laurean Yates",
          "source" : {
             "id" : null,
             "name" : "GMA"
          },
-         "urlToImage" : "https://s.abcnews.com/images/Business/walmart-1-gty-er-191031_hpMain_16x9_992.jpg",
-         "publishedAt" : "2020-09-23T19:11:15Z",
-         "description" : "Walmart has announced a new Black Friday experience with earlier savings and more online deals.",
          "url" : "https://www.goodmorningamerica.com/living/story/walmart-black-friday-plans-2020-store-experience-online-73190134",
          "title" : "Walmart announces new Black Friday experience with earlier savings - GMA",
-         "content" : null
+         "description" : "Walmart has announced a new Black Friday experience with earlier savings and more online deals.",
+         "author" : "Jacqueline Laurean Yates",
+         "publishedAt" : "2020-09-23T19:11:15Z",
+         "content" : null,
+         "urlToImage" : "https://s.abcnews.com/images/Business/walmart-1-gty-er-191031_hpMain_16x9_992.jpg"
       },
       {
-         "description" : "While some are enthusiastic about indoor dining’s return next week, many remain deeply skeptical about the safety of eating inside again",
-         "publishedAt" : "2020-09-23T19:05:43Z",
          "content" : null,
-         "url" : "https://ny.eater.com/2020/9/23/21452361/nyc-indoor-dining-reactions-diners-poll",
-         "title" : "NYC Diners React to the Return of Indoor Dining on September 30 - Eater NY",
+         "urlToImage" : "https://cdn.vox-cdn.com/thumbor/PIJC7xIO-eO_Rq6uyvQDZcuu4x4=/0x412:5760x3428/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/19533327/Le_Bernadin_7.jpg",
          "source" : {
-            "name" : "Eater",
-            "id" : null
+            "id" : null,
+            "name" : "Eater"
          },
-         "author" : "Tanay Warerkar",
-         "urlToImage" : "https://cdn.vox-cdn.com/thumbor/PIJC7xIO-eO_Rq6uyvQDZcuu4x4=/0x412:5760x3428/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/19533327/Le_Bernadin_7.jpg"
+         "url" : "https://ny.eater.com/2020/9/23/21452361/nyc-indoor-dining-reactions-diners-poll",
+         "publishedAt" : "2020-09-23T19:05:43Z",
+         "description" : "While some are enthusiastic about indoor dining’s return next week, many remain deeply skeptical about the safety of eating inside again",
+         "title" : "NYC Diners React to the Return of Indoor Dining on September 30 - Eater NY",
+         "author" : "Tanay Warerkar"
       }
    ],
-   "totalResults" : 70,
    "status" : "ok"
 }
