@@ -1,266 +1,266 @@
 {
+   "status" : "ok",
    "articles" : [
       {
-         "title" : "Tesla (TSLA) claims Nikola (NKLA) stole its truck design from Rimac designer - Electrek.co",
-         "description" : "In a surprising turn of events, Tesla (TSLA) now claims Nikola (NKLA) stole its truck design from Rimac’s designer in an update to its patent lawsuit update. As we previously reported, Nikola alleged that Tesla’s electric truck design infringes on its existin…",
          "url" : "https://electrek.co/2020/09/24/tesla-tsla-claims-nikola-nkla-stole-truck-design-rimac-designer/",
          "source" : {
-            "name" : "Electrek",
-            "id" : null
+            "id" : null,
+            "name" : "Electrek"
          },
          "publishedAt" : "2020-09-24T15:39:00Z",
-         "urlToImage" : "https://electrek.co/wp-content/uploads/sites/3/2018/09/Tesla-SEmi-versus-Nikola-One.jpg?quality=82&strip=all",
          "content" : "In a surprising turn of events, Tesla (TSLA) now claims Nikola (NKLA) stole its truck design from Rimac’s designer in an update to its patent lawsuit update.\r\nAs we previously reported, Nikola allege… [+2882 chars]",
-         "author" : null
+         "description" : "In a surprising turn of events, Tesla (TSLA) now claims Nikola (NKLA) stole its truck design from Rimac’s designer in an update to its patent lawsuit update. As we previously reported, Nikola alleged that Tesla’s electric truck design infringes on its existin…",
+         "urlToImage" : "https://electrek.co/wp-content/uploads/sites/3/2018/09/Tesla-SEmi-versus-Nikola-One.jpg?quality=82&strip=all",
+         "author" : null,
+         "title" : "Tesla (TSLA) claims Nikola (NKLA) stole its truck design from Rimac designer - Electrek.co"
       },
       {
+         "title" : "Pandemic slashes sales at Olive Garden's Times Square location by 94% - CNBC",
+         "author" : "Amelia Lucas",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/103152497-IMG_8311-1.jpg?v=1600957473",
+         "description" : "The coronavirus pandemic has hit Olive Garden's Times Square location hard, leading it to miss out on $300,000 in sales every week.",
+         "content" : "During a typical year, Olive Garden's Times Square restaurant rakes in $15 million in sales.\r\nBut the coronavirus pandemic and local restrictions on dining have wiped out the business of the chain's … [+1469 chars]",
          "source" : {
             "id" : null,
             "name" : "CNBC"
          },
          "publishedAt" : "2020-09-24T15:26:00Z",
-         "content" : "During a typical year, Olive Garden's Times Square restaurant rakes in $15 million in sales.\r\nBut the coronavirus pandemic and local restrictions on dining have wiped out the business of the chain's … [+1469 chars]",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/103152497-IMG_8311-1.jpg?v=1600957473",
-         "author" : "Amelia Lucas",
-         "title" : "Pandemic slashes sales at Olive Garden's Times Square location by 94% - CNBC",
-         "description" : "The coronavirus pandemic has hit Olive Garden's Times Square location hard, leading it to miss out on $300,000 in sales every week.",
          "url" : "https://www.cnbc.com/2020/09/24/pandemic-slashes-sales-at-olive-gardens-times-square-location-by-94percent.html"
       },
       {
-         "title" : "Racial inequality cost the economy $16 trillion over the last two decades, Citi finds - CNBC",
-         "description" : "Citi has put a figure to the economic cost of racial inequality.",
-         "url" : "https://www.cnbc.com/2020/09/24/racial-inequality-cost-the-economy-16-trillion-over-the-last-two-decades-citi-finds.html",
          "source" : {
-            "name" : "CNBC",
-            "id" : null
+            "id" : null,
+            "name" : "CNBC"
          },
-         "publishedAt" : "2020-09-24T15:25:00Z",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106051493-1564590149529gettyimages-532052850.jpeg?v=1600957742",
          "content" : "Racial inequality is bad for the U.S. in innumerable ways, of course, many of which are hard to calculate directly. But now Citi has put a number to at least one aspect of social injustice, finding i… [+2263 chars]",
-         "author" : "Pippa Stevens"
+         "publishedAt" : "2020-09-24T15:25:00Z",
+         "description" : "Citi has put a figure to the economic cost of racial inequality.",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106051493-1564590149529gettyimages-532052850.jpeg?v=1600957742",
+         "author" : "Pippa Stevens",
+         "title" : "Racial inequality cost the economy $16 trillion over the last two decades, Citi finds - CNBC",
+         "url" : "https://www.cnbc.com/2020/09/24/racial-inequality-cost-the-economy-16-trillion-over-the-last-two-decades-citi-finds.html"
       },
       {
-         "publishedAt" : "2020-09-24T15:10:00Z",
+         "description" : "It seems as though Acura is starting to reclaim some of the sporty-casual lux energy that made the brand appealing originally. Like early Acuras, the 2021 TLX isn’t radical but it is nice looking, nice to drive and a lot of car for what it costs.",
          "urlToImage" : "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/ykwz4hvvqm7zt2xxyfhw.jpg",
-         "content" : "It seems as though Acura is starting to reclaim some of the sporty-casual lux energy that made the brand appealing originally. Like early Acuras, the 2021 TLX isnt radical but it is nice looking, nic… [+10625 chars]",
-         "author" : "Rory Carroll and Andrew P Collins",
          "source" : {
             "id" : null,
             "name" : "Jalopnik"
          },
-         "description" : "It seems as though Acura is starting to reclaim some of the sporty-casual lux energy that made the brand appealing originally. Like early Acuras, the 2021 TLX isn’t radical but it is nice looking, nice to drive and a lot of car for what it costs.",
-         "url" : "https://jalopnik.com/the-2021-acura-tlx-is-an-incredible-stereo-with-a-damn-1845152841",
-         "title" : "The 2021 Acura TLX Is An Incredible Stereo With A Damn Decent Car Attached - Jalopnik"
+         "publishedAt" : "2020-09-24T15:10:00Z",
+         "content" : "It seems as though Acura is starting to reclaim some of the sporty-casual lux energy that made the brand appealing originally. Like early Acuras, the 2021 TLX isnt radical but it is nice looking, nic… [+10625 chars]",
+         "title" : "The 2021 Acura TLX Is An Incredible Stereo With A Damn Decent Car Attached - Jalopnik",
+         "author" : "Rory Carroll and Andrew P Collins",
+         "url" : "https://jalopnik.com/the-2021-acura-tlx-is-an-incredible-stereo-with-a-damn-1845152841"
       },
       {
-         "description" : "It’s the final humiliation for the former Cambridge Analytica boss whose fall from grace began when he was caught bragging that his company was to thank for President Trump.",
-         "url" : "https://www.thedailybeast.com/trump-data-guru-disqualified-for-shady-campaign-tactics",
          "title" : "Trump Data Guru Officially Disqualified Over 'Shady' Campaign Tactics - The Daily Beast",
-         "publishedAt" : "2020-09-24T15:01:00Z",
+         "author" : "Jamie Ross",
+         "description" : "It’s the final humiliation for the former Cambridge Analytica boss whose fall from grace began when he was caught bragging that his company was to thank for President Trump.",
          "urlToImage" : "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_2369,w_4212,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1600954559/2018-03-20T103931Z_1961290335_RC1F2E5FD3B0_RTRMADP_3_FACEBOOK-CAMBRIDGE-ANALYTICA_ynuspy",
          "content" : "LONDONAlexander Nix, the man who was running Cambridge Analytica when it harvested the Facebook data of tens of millions voters without their knowledge so it could be exploited by the Trump 2016 camp… [+2949 chars]",
-         "author" : "Jamie Ross",
+         "publishedAt" : "2020-09-24T15:01:00Z",
          "source" : {
-            "name" : "Daily Beast",
-            "id" : null
-         }
+            "id" : null,
+            "name" : "Daily Beast"
+         },
+         "url" : "https://www.thedailybeast.com/trump-data-guru-disqualified-for-shady-campaign-tactics"
       },
       {
-         "url" : "https://www.cnbc.com/2020/09/24/target-to-hire-130000-holiday-workers-jobs-to-focus-on-online-orders.html",
-         "description" : "The retailer is rethinking its approach to roles for workers over the holidays as it keeps up with customers' new shopping habits during the coronavirus pandemic.",
-         "title" : "Target to hire 130,000 holiday workers, in line with last year, but jobs will focus on online orders - CNBC",
-         "content" : "Target said Thursday that holiday hiring will be in line with last year, but it is rethinking its approach to roles for those workers to adapt to customers' new shopping habits during the coronavirus… [+3920 chars]",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/105935733-1559045143758rtx6wdlf.jpg?v=1559045213",
          "author" : "Melissa Repko",
-         "publishedAt" : "2020-09-24T15:00:00Z",
+         "title" : "Target to hire 130,000 holiday workers, in line with last year, but jobs will focus on online orders - CNBC",
          "source" : {
             "id" : null,
             "name" : "CNBC"
-         }
+         },
+         "publishedAt" : "2020-09-24T15:00:00Z",
+         "content" : "Target said Thursday that holiday hiring will be in line with last year, but it is rethinking its approach to roles for those workers to adapt to customers' new shopping habits during the coronavirus… [+3920 chars]",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/105935733-1559045143758rtx6wdlf.jpg?v=1559045213",
+         "description" : "The retailer is rethinking its approach to roles for workers over the holidays as it keeps up with customers' new shopping habits during the coronavirus pandemic.",
+         "url" : "https://www.cnbc.com/2020/09/24/target-to-hire-130000-holiday-workers-jobs-to-focus-on-online-orders.html"
       },
       {
-         "title" : "Whole Foods employees say Amazon workers are causing chaos in stores - Business Insider - Business Insider",
          "url" : "https://www.businessinsider.com/whole-foods-employees-say-amazon-workers-cause-chaos-stores-2020-9",
          "description" : "One Whole Foods store is so busy with Prime orders that it has workers packing and storing groceries in a nearby parking garage, an employee said.",
+         "urlToImage" : "https://i.insider.com/5f233e764dca680bcb5f1487?width=1200&format=jpeg",
+         "publishedAt" : "2020-09-24T14:57:46Z",
+         "content" : "Amazon's online grocery business is booming, and some Whole Foods employees say it's causing a crush of problems in stores.\r\nWorkers who fill Amazon Prime Now orders — which are purchased online for … [+8302 chars]",
          "source" : {
             "id" : "business-insider",
             "name" : "Business Insider"
          },
-         "content" : "Amazon's online grocery business is booming, and some Whole Foods employees say it's causing a crush of problems in stores.\r\nWorkers who fill Amazon Prime Now orders — which are purchased online for … [+8302 chars]",
-         "urlToImage" : "https://i.insider.com/5f233e764dca680bcb5f1487?width=1200&format=jpeg",
-         "author" : "Hayley Peterson",
-         "publishedAt" : "2020-09-24T14:57:46Z"
+         "title" : "Whole Foods employees say Amazon workers are causing chaos in stores - Business Insider - Business Insider",
+         "author" : "Hayley Peterson"
       },
       {
+         "author" : "James Brumley",
+         "title" : "3 Stocks to Buy and Hold for the Next 50 Years - Motley Fool",
          "publishedAt" : "2020-09-24T14:34:00Z",
          "content" : "In today's media-driven market, investors struggle to look more than 50 days down the road, let alone 50 years. But that's probably the timeframe most of us should be thinking about with our picks --… [+6369 chars]",
-         "urlToImage" : "https://g.foolcdn.com/editorial/images/592539/nest-egg-cash.jpg",
-         "author" : "James Brumley",
          "source" : {
-            "id" : null,
-            "name" : "Motley Fool"
+            "name" : "Motley Fool",
+            "id" : null
          },
+         "urlToImage" : "https://g.foolcdn.com/editorial/images/592539/nest-egg-cash.jpg",
          "description" : "Only a handful of companies are as ready for the unknowns ahead as they are the knowns.",
-         "url" : "https://www.fool.com/investing/2020/09/24/3-stocks-to-buy-and-hold-for-the-next-50-years/",
-         "title" : "3 Stocks to Buy and Hold for the Next 50 Years - Motley Fool"
+         "url" : "https://www.fool.com/investing/2020/09/24/3-stocks-to-buy-and-hold-for-the-next-50-years/"
       },
       {
-         "content" : "Enlarge/ Gaze upon Tesla's new battery cell, but don't despair.\r\n82 with 49 posters participating\r\nTeslas battery day Tuesday revealed a surprising amount of information about projects the company ha… [+7628 chars]",
-         "urlToImage" : "https://cdn.arstechnica.net/wp-content/uploads/2020/09/tesla-battery-coil-760x380.jpg",
+         "url" : "https://arstechnica.com/cars/2020/09/heres-what-tesla-will-put-in-its-new-batteries/",
          "author" : "Scott K. Johnson",
+         "title" : "Here’s what Tesla will put in its new batteries - Ars Technica",
          "publishedAt" : "2020-09-24T14:25:00Z",
          "source" : {
-            "id" : "ars-technica",
-            "name" : "Ars Technica"
+            "name" : "Ars Technica",
+            "id" : "ars-technica"
          },
-         "url" : "https://arstechnica.com/cars/2020/09/heres-what-tesla-will-put-in-its-new-batteries/",
+         "content" : "Enlarge/ Gaze upon Tesla's new battery cell, but don't despair.\r\n82 with 49 posters participating\r\nTeslas battery day Tuesday revealed a surprising amount of information about projects the company ha… [+7628 chars]",
          "description" : "Every aspect gets touched, but some are more revolutionary than others.",
-         "title" : "Here’s what Tesla will put in its new batteries - Ars Technica"
+         "urlToImage" : "https://cdn.arstechnica.net/wp-content/uploads/2020/09/tesla-battery-coil-760x380.jpg"
       },
       {
-         "description" : "The Commerce Department said on Thursday new home sales rose 4.8% to a seasonally adjusted annual rate of 1.011 million units last month, the highest level since September 2006.",
          "url" : "https://www.cnbc.com/2020/09/24/sales-of-new-homes-surgeed-4point8percent-in-august-.html",
-         "title" : "U.S. new home sales rise to near 14-year high - CNBC",
+         "source" : {
+            "id" : null,
+            "name" : "CNBC"
+         },
          "publishedAt" : "2020-09-24T14:12:00Z",
          "content" : "Sales of new U.S. single-family homes increased to their highest level in nearly 14 years in August, suggesting the housing market continued to gain momentum even as the economy's recovery from the C… [+633 chars]",
+         "description" : "The Commerce Department said on Thursday new home sales rose 4.8% to a seasonally adjusted annual rate of 1.011 million units last month, the highest level since September 2006.",
          "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106619135-1594903680441gettyimages-1227409022.jpeg?v=1600892660",
          "author" : "Reuters",
-         "source" : {
-            "name" : "CNBC",
-            "id" : null
-         }
+         "title" : "U.S. new home sales rise to near 14-year high - CNBC"
       },
       {
-         "description" : "Cineworld Group, the owner of Regal Cinemas, may need to raise more cash in order to survive another surge of coronavirus cases.",
-         "url" : "https://www.cnn.com/2020/09/24/investing/cineworld-coronavirus-pandemic/index.html",
-         "title" : "The world's second biggest movie theater chain is struggling to survive the pandemic - CNN",
+         "content" : null,
          "publishedAt" : "2020-09-24T14:11:00Z",
-         "content" : null,
-         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200924070030-cineworld-london-england-0809-super-tease.jpg",
-         "author" : "Streisand Neto, CNN Business",
-         "source" : {
-            "id" : "cnn",
-            "name" : "CNN"
-         }
-      },
-      {
-         "source" : {
-            "name" : "Teslarati",
-            "id" : null
-         },
-         "content" : "It appears that the first roadblocks to Teslas plans to produce its own lithium are beginning to emerge, with critics noting that the electric car makers initiatives may very well be mired in several… [+2502 chars]",
-         "urlToImage" : "https://www.teslarati.com/wp-content/uploads/2019/04/tesla-gigafactory-1-profile-1a.jpg",
-         "author" : "https://www.facebook.com/sim.alva",
-         "publishedAt" : "2020-09-24T14:03:45Z",
-         "title" : "Tesla’s lithium mining plans in Nevada are spawning their first skeptics - Teslarati",
-         "url" : "https://www.teslarati.com/tesla-lithium-mining-nevada-opposition/",
-         "description" : "It appears that the first roadblocks to Tesla’s plans to produce its own lithium are beginning to emerge, with critics noting that the electric car maker’s initiatives may very well be mired in several challenges. These include a potentially exhausting permit…"
-      },
-      {
-         "content" : null,
-         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200924082051-steven-mnuchin-0922-super-tease.jpg",
-         "author" : "Matt Egan, CNN Business",
-         "publishedAt" : "2020-09-24T14:02:00Z",
          "source" : {
             "name" : "CNN",
             "id" : "cnn"
          },
-         "url" : "https://www.cnn.com/2020/09/24/business/economy-stimulus-gdp-goldman-sachs/index.html",
+         "description" : "Cineworld Group, the owner of Regal Cinemas, may need to raise more cash in order to survive another surge of coronavirus cases.",
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200924070030-cineworld-london-england-0809-super-tease.jpg",
+         "author" : "Streisand Neto, CNN Business",
+         "title" : "The world's second biggest movie theater chain is struggling to survive the pandemic - CNN",
+         "url" : "https://www.cnn.com/2020/09/24/investing/cineworld-coronavirus-pandemic/index.html"
+      },
+      {
+         "url" : "https://www.teslarati.com/tesla-lithium-mining-nevada-opposition/",
+         "title" : "Tesla’s lithium mining plans in Nevada are spawning their first skeptics - Teslarati",
+         "author" : "https://www.facebook.com/sim.alva",
+         "description" : "It appears that the first roadblocks to Tesla’s plans to produce its own lithium are beginning to emerge, with critics noting that the electric car maker’s initiatives may very well be mired in several challenges. These include a potentially exhausting permit…",
+         "urlToImage" : "https://www.teslarati.com/wp-content/uploads/2019/04/tesla-gigafactory-1-profile-1a.jpg",
+         "publishedAt" : "2020-09-24T14:03:45Z",
+         "content" : "It appears that the first roadblocks to Teslas plans to produce its own lithium are beginning to emerge, with critics noting that the electric car makers initiatives may very well be mired in several… [+2502 chars]",
+         "source" : {
+            "id" : null,
+            "name" : "Teslarati"
+         }
+      },
+      {
+         "source" : {
+            "id" : "cnn",
+            "name" : "CNN"
+         },
+         "content" : null,
+         "publishedAt" : "2020-09-24T14:02:00Z",
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200924082051-steven-mnuchin-0922-super-tease.jpg",
          "description" : "The US economic recovery will slow more than feared during the final three months of the year because Congress is almost certainly will not provide more federal aid, Goldman Sachs said Thursday.",
-         "title" : "Economists are growing more worried about the recovery. Blame Congress - CNN"
+         "author" : "Matt Egan, CNN Business",
+         "title" : "Economists are growing more worried about the recovery. Blame Congress - CNN",
+         "url" : "https://www.cnn.com/2020/09/24/business/economy-stimulus-gdp-goldman-sachs/index.html"
       },
       {
          "title" : "Penn National Cashes in on Barstool Euphoria With Share Sale - Yahoo Finance",
+         "author" : "Bailey Lipschultz and Bloomberg Automation",
+         "urlToImage" : "https://s.yimg.com/uu/api/res/1.2/QRVP1HXXUZw7AJ_xHFhPkw--~B/aD00NjM7dz03MjA7c209MTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_markets_842/dccb5df68c20bb4a6adb2bfc3cc2ed0f",
          "description" : "(Bloomberg) -- Penn National Gaming Inc. is taking advantage of its nearly three-fold surge this year, helped by its minority interest in Barstool Sports, to...",
-         "url" : "https://finance.yahoo.com/news/penn-national-cashes-barstool-euphoria-122303254.html",
+         "publishedAt" : "2020-09-24T13:57:00Z",
          "source" : {
             "id" : null,
             "name" : "Yahoo Entertainment"
          },
-         "publishedAt" : "2020-09-24T13:57:00Z",
          "content" : "In the investing game, its not only about what you buy; its about when you buy it. One of the most common pieces of advice thrown around the Street, buy low is touted as a tried-and-true tactic.Sure,… [+10639 chars]",
-         "urlToImage" : "https://s.yimg.com/uu/api/res/1.2/QRVP1HXXUZw7AJ_xHFhPkw--~B/aD00NjM7dz03MjA7c209MTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_markets_842/dccb5df68c20bb4a6adb2bfc3cc2ed0f",
-         "author" : "Bailey Lipschultz and Bloomberg Automation"
+         "url" : "https://finance.yahoo.com/news/penn-national-cashes-barstool-euphoria-122303254.html"
       },
       {
-         "title" : "Watch live — Powell and Mnuchin testify before the Senate on the economic recovery - CNBC",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106715950-1600960315350-gettyimages-1228685818-dsc05034.jpeg?v=1600960354",
          "description" : "The hearing will mark the the second time both men have appeared together before Congress this week to discuss their response to Covid-19.",
-         "url" : "https://www.cnbc.com/2020/09/24/watch-live-powell-and-mnuchin-testify-before-the-senate-covid-relief.html",
          "source" : {
             "name" : "CNBC",
             "id" : null
          },
          "publishedAt" : "2020-09-24T13:54:00Z",
          "content" : "[The stream is slated to start at 10:00 ET. Please refresh the page if you do not see a player above at that time.]\r\nFederal Reserve Chairman Jerome Powell and Treasury Secretary Steven Mnuchin are t… [+1633 chars]",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106715950-1600960315350-gettyimages-1228685818-dsc05034.jpeg?v=1600960354",
-         "author" : "Thomas Franck"
+         "title" : "Watch live — Powell and Mnuchin testify before the Senate on the economic recovery - CNBC",
+         "author" : "Thomas Franck",
+         "url" : "https://www.cnbc.com/2020/09/24/watch-live-powell-and-mnuchin-testify-before-the-senate-covid-relief.html"
       },
       {
-         "content" : "Harley says goodbye to India, California is saying goodbye to selling gas-powered cars, and automakers are selling too many SUVs in Europe. All that and more in The Morning Shift for September 24, 20… [+7900 chars]",
-         "author" : "Erik Shilling",
+         "url" : "https://jalopnik.com/harley-davidson-is-dropping-its-biggest-opportunity-1845164884",
+         "description" : "Harley says goodbye to India, California is saying goodbye to selling gas-powered cars, and automakers are selling too many SUVs in Europe. All that and more in The Morning Shift for September 24, 2020.",
          "urlToImage" : "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/sssyudong1gdojmyergi.png",
          "publishedAt" : "2020-09-24T13:51:00Z",
          "source" : {
             "id" : null,
             "name" : "Jalopnik"
          },
-         "url" : "https://jalopnik.com/harley-davidson-is-dropping-its-biggest-opportunity-1845164884",
-         "description" : "Harley says goodbye to India, California is saying goodbye to selling gas-powered cars, and automakers are selling too many SUVs in Europe. All that and more in The Morning Shift for September 24, 2020.",
-         "title" : "Harley-Davidson Is Dropping Its Biggest Opportunity - Jalopnik"
+         "content" : "Harley says goodbye to India, California is saying goodbye to selling gas-powered cars, and automakers are selling too many SUVs in Europe. All that and more in The Morning Shift for September 24, 20… [+7900 chars]",
+         "title" : "Harley-Davidson Is Dropping Its Biggest Opportunity - Jalopnik",
+         "author" : "Erik Shilling"
       },
       {
-         "publishedAt" : "2020-09-24T13:37:00Z",
-         "content" : "NEW YORK (CBSNewYork) – At least three MTA employees converted a storage room at Grand Central Terminal as a “man cave,” according to an internal investigation.\r\n(credit: MTA Inspector General’s Offi… [+1274 chars]",
-         "author" : "CBS New York",
-         "urlToImage" : "https://newyork.cbslocal.com/wp-content/uploads/sites/14578484/2020/09/MTA-Man-Cave.jpg?w=987",
+         "url" : "https://newyork.cbslocal.com/2020/09/24/see-it-mta-workers-build-illegal-man-cave-in-grand-central-terminal-few-would-have-the-chutzpah/",
          "source" : {
             "name" : "Cbslocal.com",
             "id" : null
          },
+         "publishedAt" : "2020-09-24T13:37:00Z",
+         "content" : "NEW YORK (CBSNewYork) – At least three MTA employees converted a storage room at Grand Central Terminal as a “man cave,” according to an internal investigation.\r\n(credit: MTA Inspector General’s Offi… [+1274 chars]",
          "description" : "According to the Office of the MTA Inspector General, the room had a futon couch, large flat-screen television with streaming capabilities, a refrigerator, microwave, air conditioning, workout equipment and more.",
-         "url" : "https://newyork.cbslocal.com/2020/09/24/see-it-mta-workers-build-illegal-man-cave-in-grand-central-terminal-few-would-have-the-chutzpah/",
+         "urlToImage" : "https://newyork.cbslocal.com/wp-content/uploads/sites/14578484/2020/09/MTA-Man-Cave.jpg?w=987",
+         "author" : "CBS New York",
          "title" : "See It: MTA Workers Build Illegal ‘Man Cave’ In Grand Central Terminal; ‘Few Would Have The Chutzpah’ - CBS New York"
       },
       {
+         "author" : "Daniella Genovese",
          "title" : "AstraZeneca waiting for FDA to greenlight restart of US drug trial - Fox Business",
-         "description" : "AstraZeneca says it's still waiting on federal approval to resume the U.S. clinical trial of its COVID-19 vaccine candidate nearly three weeks after the study was halted over safety concerns.",
-         "url" : "https://www.foxbusiness.com/healthcare/astrazeneca-waiting-for-fda-to-greenlight-restart-of-us-drug-trial",
-         "source" : {
-            "name" : "Fox Business",
-            "id" : null
-         },
          "publishedAt" : "2020-09-24T13:29:37Z",
          "content" : "AstraZeneca says it's still waiting on federal approval to resume the U.S. clinical trial of its COVID-19 vaccine candidate nearly three weeks after the study was halted over safety concerns.\r\n<table… [+2423 chars]",
+         "source" : {
+            "id" : null,
+            "name" : "Fox Business"
+         },
          "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/09/0/0/AstraZeneca-Vaccine-iStock.jpg?ve=1&tl=1",
-         "author" : "Daniella Genovese"
+         "description" : "AstraZeneca says it's still waiting on federal approval to resume the U.S. clinical trial of its COVID-19 vaccine candidate nearly three weeks after the study was halted over safety concerns.",
+         "url" : "https://www.foxbusiness.com/healthcare/astrazeneca-waiting-for-fda-to-greenlight-restart-of-us-drug-trial"
       },
       {
-         "content" : "That didn’t take … long.\r\nJust a few weeks after Rolls-Royce took the sheets off its all-new Ghost sedan in early September, the automaker has unveiled a stretched model with a larger, more luxurious… [+1358 chars]",
-         "author" : "Gary Gastelu",
+         "url" : "https://www.foxbusiness.com/lifestyle/the-rolls-royce-ghost-extended-is-a-long-luxury-car",
+         "description" : "Stretched-wheelbase Ghost adds room to the back seat.",
          "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/09/0/0/ghost-1.jpg?ve=1&tl=1",
          "publishedAt" : "2020-09-24T13:06:31Z",
          "source" : {
             "id" : null,
             "name" : "Fox Business"
          },
-         "url" : "https://www.foxbusiness.com/lifestyle/the-rolls-royce-ghost-extended-is-a-long-luxury-car",
-         "description" : "Stretched-wheelbase Ghost adds room to the back seat.",
-         "title" : "The Rolls-Royce Ghost Extended is a very long luxury car - Fox Business"
+         "content" : "That didn’t take … long.\r\nJust a few weeks after Rolls-Royce took the sheets off its all-new Ghost sedan in early September, the automaker has unveiled a stretched model with a larger, more luxurious… [+1358 chars]",
+         "title" : "The Rolls-Royce Ghost Extended is a very long luxury car - Fox Business",
+         "author" : "Gary Gastelu"
       },
       {
-         "description" : "United will offer Covid-19 testing for Hawaii-bound passengers beginning October 15 out of San Francisco, in a pilot testing program that the airline hopes to extend to other destinations.",
          "url" : "https://www.cnn.com/travel/article/united-airlines-covid-testing/index.html",
+         "author" : "By Pete Muntean and Gregory Wallace, CNN",
          "title" : "United Airlines to offer Covid-19 testing for some passengers - CNN",
          "publishedAt" : "2020-09-24T13:01:31Z",
-         "content" : "(CNN) United Airlines will become the first US airline to offer coronavirus testing to some of its passengers. \r\nIn a pilot testing program that the airline plans to extend to other destinations, Uni… [+1529 chars]",
-         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200504205708-united-airlines-0320-super-tease.jpg",
-         "author" : "By Pete Muntean and Gregory Wallace, CNN",
          "source" : {
             "name" : "CNN",
             "id" : "cnn"
-         }
+         },
+         "content" : "(CNN) United Airlines will become the first US airline to offer coronavirus testing to some of its passengers. \r\nIn a pilot testing program that the airline plans to extend to other destinations, Uni… [+1529 chars]",
+         "description" : "United will offer Covid-19 testing for Hawaii-bound passengers beginning October 15 out of San Francisco, in a pilot testing program that the airline hopes to extend to other destinations.",
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200504205708-united-airlines-0320-super-tease.jpg"
       }
    ],
-   "status" : "ok",
    "totalResults" : 70
 }
