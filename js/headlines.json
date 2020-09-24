@@ -1,266 +1,266 @@
 {
-   "totalResults" : 70,
    "status" : "ok",
    "articles" : [
       {
-         "publishedAt" : "2020-09-24T06:25:04Z",
-         "title" : "Regal Owner Cineworld Swings to First-Half Loss, Says \"No Certainty\" on Future Impact of COVID-19 - Hollywood Reporter",
+         "url" : "https://seekingalpha.com/article/4376046-tesla-musk-opens-up-challenges-ahead",
+         "author" : "Bram de Haas",
+         "publishedAt" : "2020-09-24T07:47:00Z",
+         "title" : "Tesla: Musk Opens Up About Challenges Ahead - Seeking Alpha",
+         "content" : "Tesla (TSLA) just held its shareholders' meeting with its Battery Day rolled into one and the message was clear and dreadful. Dont get me wrong that doesnt mean the stock will continue to go down. Bu… [+19077 chars]",
          "source" : {
-            "name" : "Hollywood Reporter",
+            "name" : "Seeking Alpha",
             "id" : null
          },
+         "urlToImage" : "https://static2.seekingalpha.com/uploads/2020/9/23/saupload_AV4sURYaOj2ou9IMgjqKwlfyAKZQHUZ2xfKScOnRA7U5eC8AjmV423RgutjtrFBDr2avJW2SL_u7LgMioqfPr6Y3mVLTRYU9I3pNSB5pbx9lsspHypsPws96CySWWJNCTOOLSv9t.png",
+         "description" : "Elon Musk is unusually candid about the challenges the company is encountering. What surprised me most about the Battery Day event was the absence of any new prototype."
+      },
+      {
+         "description" : "Steady gains in the public offerings of two Chinese stocks this year have vaulted their controlling stakeholder to the top of China's rich list.",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106694666-1599623989242-gettyimages-1267072209-img78942543.jpeg?v=1600931767",
+         "content" : "BEIJING  Steady gains in the public offerings of two Chinese stocks this year have vaulted their controlling stakeholder to the top of China's rich list.\r\nAs of Thursday, Nongfu Spring founder Zhong … [+884 chars]",
+         "source" : {
+            "id" : null,
+            "name" : "CNBC"
+         },
+         "author" : "Evelyn Cheng",
+         "url" : "https://www.cnbc.com/2020/09/24/founder-of-bottled-water-nongfu-spring-becomes-chinas-richest-man.html",
+         "title" : "Founder of bottled water giant Nongfu Spring becomes China's richest man - CNBC",
+         "publishedAt" : "2020-09-24T07:16:00Z"
+      },
+      {
          "description" : "CEO Mooky Greidinger also reemphasizes the firm will only show films that respect the theatrical window and says \"negotiations with the banks remain ongoing in order to obtain covenant waivers in respect of December 2020 and June 2021.\"",
          "urlToImage" : null,
          "content" : "Exhibition giant and Regal owner Cineworld Group on Thursday swung to a loss for the first half of 2020 as revenue fell sharply amid the novel coronavirus pandemic, which led to cinema closures world… [+5085 chars]",
+         "source" : {
+            "id" : null,
+            "name" : "Hollywood Reporter"
+         },
+         "publishedAt" : "2020-09-24T06:25:04Z",
+         "title" : "Regal Owner Cineworld Swings to First-Half Loss, Says \"No Certainty\" on Future Impact of COVID-19 - Hollywood Reporter",
          "author" : "Georg Szalai",
          "url" : "https://www.hollywoodreporter.com/news/regal-owner-cineworld-swings-to-first-half-loss-says-no-certainty-on-future-impact-of-covid-19"
       },
       {
-         "description" : "The 2021 Acura TLX is a premium luxury sedan that falls slightly short on sport. Hugely improved, is it good enough to take on the BMW 3 Series?",
+         "description" : "A Massachusetts man died last year from eating an excessive amount of black licorice, doctors said Wednesday. The unusual case was reported in the New England Journal of Medicine, detailing how the…",
+         "urlToImage" : "https://nypost.com/wp-content/uploads/sites/2/2020/09/Black_Licorice.jpg?quality=90&strip=all&w=1200",
          "source" : {
-            "id" : null,
-            "name" : "Motor1 "
+            "name" : "New York Post",
+            "id" : null
+         },
+         "content" : "A Massachusetts man died last year from eating an excessive amount of black licorice, doctors said Wednesday.\r\nThe unusual case was reported in the New England Journal of Medicine, detailing how the … [+1053 chars]",
+         "publishedAt" : "2020-09-24T05:39:00Z",
+         "title" : "Massachusetts man dies from eating excessive amount of black licorice - New York Post ",
+         "author" : "Kenneth Garger",
+         "url" : "https://nypost.com/2020/09/24/massachusetts-man-dead-after-consuming-too-much-black-licorice/"
+      },
+      {
+         "author" : "Laura He, CNN Business",
+         "url" : "https://www.cnn.com/2020/09/24/investing/westpac-fine-australia-intl-hnk/index.html",
+         "title" : "Westpac, one of Australia's largest banks, hit with record $920 million penalty over money laundering scandal - CNN",
+         "publishedAt" : "2020-09-24T05:02:00Z",
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200923224610-westpace-bank-0819-restricted-super-tease.jpg",
+         "description" : "Westpac, one of Australia's largest banks, has agreed to pay a record-breaking penalty of nearly $1 billion for systematically allowing money laundering on its watch.",
+         "content" : null,
+         "source" : {
+            "name" : "CNN",
+            "id" : "cnn"
+         }
+      },
+      {
+         "description" : "The 2021 Acura TLX is a premium luxury sedan that falls slightly short on sport. Hugely improved, is it good enough to take on the BMW 3 Series?",
+         "urlToImage" : "https://cdn.motor1.com/images/mgl/BqeWZ/s1/2021-acura-tlx-first-drive-review.jpg",
+         "content" : "The 2021 Acura TLX is the latest luxury sedan from the company once known for the legendary Legend and its justified Precision Crafted Performance tagline. Keen to recapture some of that 1990s magic,… [+7936 chars]",
+         "source" : {
+            "name" : "Motor1 ",
+            "id" : null
          },
          "publishedAt" : "2020-09-24T04:04:04Z",
          "title" : "2021 Acura TLX First Drive Review: Making Strides Toward Excellence - Motor1 ",
-         "url" : "https://www.motor1.com/reviews/445497/2021-acura-tlx-first-drive/",
          "author" : null,
-         "content" : "The 2021 Acura TLX is the latest luxury sedan from the company once known for the legendary Legend and its justified Precision Crafted Performance tagline. Keen to recapture some of that 1990s magic,… [+7936 chars]",
-         "urlToImage" : "https://cdn.motor1.com/images/mgl/BqeWZ/s1/2021-acura-tlx-first-drive-review.jpg"
+         "url" : "https://www.motor1.com/reviews/445497/2021-acura-tlx-first-drive/"
       },
       {
          "content" : "Tyler Technologies, a software vendor whose products are used to display state and local election results, disclosed a security breach involving its internal phone systems on Wednesday, according to … [+1888 chars]",
-         "urlToImage" : "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/Tyler-Technologies-LOGO.jpg",
-         "url" : "https://www.foxnews.com/politics/election-software-vendor-tyler-technologies-hack",
-         "author" : "Thomas Barrabi",
          "source" : {
             "id" : "fox-news",
             "name" : "Fox News"
          },
-         "title" : "Election software firm Tyler Technologies discloses system hack: Report - Fox News",
+         "description" : "The software company’s website was offline as of Wednesday evening.",
+         "urlToImage" : "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/Tyler-Technologies-LOGO.jpg",
          "publishedAt" : "2020-09-24T02:43:32Z",
-         "description" : "The software company’s website was offline as of Wednesday evening."
+         "title" : "Election software firm Tyler Technologies discloses system hack: Report - Fox News",
+         "url" : "https://www.foxnews.com/politics/election-software-vendor-tyler-technologies-hack",
+         "author" : "Thomas Barrabi"
       },
       {
-         "author" : "Emily Graffeo",
-         "url" : "https://www.businessinsider.com/spi-energy-stock-price-ev-electric-vehicle-announcement-business-launch-2020-9",
+         "description" : "SPI Energy skyrockets 4,300% after announcing launch of EV business",
          "urlToImage" : "https://i.insider.com/5f6ba70ec4049200115cb39e?format=jpeg",
          "content" : "Drew Angerer/Getty Images\r\n<ul><li>Shares of SPI Energy soared as high as 4,345% on Wednesday after the solar company announced the launch of an electric vehicle business. </li><li>The EV business wi… [+1541 chars]",
-         "description" : "SPI Energy skyrockets 4,300% after announcing launch of EV business",
+         "source" : {
+            "name" : "Business Insider",
+            "id" : "business-insider"
+         },
          "publishedAt" : "2020-09-24T02:10:50Z",
          "title" : "SPI Energy skyrockets 4,300% after announcing launch of EV business | Markets - Business Insider",
-         "source" : {
-            "id" : "business-insider",
-            "name" : "Business Insider"
-         }
+         "author" : "Emily Graffeo",
+         "url" : "https://www.businessinsider.com/spi-energy-stock-price-ev-electric-vehicle-announcement-business-launch-2020-9"
       },
       {
-         "publishedAt" : "2020-09-24T01:32:09Z",
-         "title" : "New York City subway riders discovering unpleasant surprises in cars, platforms - WABC-TV",
+         "urlToImage" : "https://s3.eu-central-1.amazonaws.com/s3.cointelegraph.com/uploads/2020-09/e2550722-78b0-4652-9fe9-0f6b5e9c6221.jpg",
+         "description" : "Decentralized finance (DeFi) protocols are racing to implement Layer 2 scaling solutions as Ethereum gas fees skyrocket and the network struggles under the demand.",
+         "content" : "Decentralized finance (DeFi) protocols are racing to implement Layer 2 scaling solutions as Ethereum gas fees skyrocket and the network struggles under the demand.\r\nPopular DeFi platforms including U… [+2425 chars]",
+         "source" : {
+            "name" : "Cointelegraph",
+            "id" : null
+         },
+         "publishedAt" : "2020-09-24T01:42:26Z",
+         "title" : "DeFi projects rush towards Layer 2 as Ethereum clogs up - Cointelegraph",
+         "author" : "Martin Young",
+         "url" : "https://cointelegraph.com/news/defi-projects-rush-towards-layer-2-as-ethereum-clogs-up"
+      },
+      {
+         "description" : "The MTA has been cleaning subway cars daily overnight between 1 a.m. and 5 a.m. when service is suspended amid the coronavirus pandemic, but some riders say there are still lingering issues.",
+         "urlToImage" : "https://cdn.abcotvs.com/dip/images/6524296_mta-cleaning-edit.jpg?w=1600",
          "source" : {
             "name" : "WABC-TV",
             "id" : null
          },
-         "description" : "The MTA has been cleaning subway cars daily overnight between 1 a.m. and 5 a.m. when service is suspended amid the coronavirus pandemic, but some riders say there are still lingering issues.",
-         "urlToImage" : "https://cdn.abcotvs.com/dip/images/6524296_mta-cleaning-edit.jpg?w=1600",
          "content" : "NEW YORK (WABC) -- Although cleaning of subway cars and platforms have increased during the pandemic, passengers still feel there are lingering issues.And the issues aren't just rubbish, but soiled s… [+1383 chars]",
+         "publishedAt" : "2020-09-24T01:32:09Z",
+         "title" : "New York City subway riders discovering unpleasant surprises in cars, platforms - WABC-TV",
          "author" : null,
          "url" : "https://abc7ny.com/mta-nyc-subways-cleaning-are-being-cleaned/6523132/"
       },
       {
-         "publishedAt" : "2020-09-24T01:23:15Z",
-         "title" : "Top FDA vaccine adviser recuses herself over tie to Moderna: report - Fox News",
-         "source" : {
-            "name" : "Fox News",
-            "id" : "fox-news"
-         },
-         "description" : "A top adviser has resigned from the Food and Drug Administration's (FDA) vaccine advisory committee amid concerns about her ties to a pharmaceutical company conducting a trial for the highly anticipated treatment.",
-         "urlToImage" : "https://static.foxnews.com/foxnews.com/content/uploads/2020/05/AP20130680476302.jpg",
-         "content" : "A top adviser has resigned from the Food and Drug Administration's (FDA)vaccine advisory committee amid concerns about her ties to a pharmaceutical company conducting a trial for the highly anticipat… [+2017 chars]",
-         "author" : "Sam Dorman",
-         "url" : "https://www.foxnews.com/us/hana-sahly-vaccine-adviser-resign-covid"
-      },
-      {
          "url" : "https://www.cbsnews.com/news/us-gdp-growth-missed-16-trillion-systemic-racism-inequality-report/",
          "author" : "Khristopher J. Brooks",
-         "content" : "America could have been $16 trillion richer if not for inequities in education, housing, wages and business investment between Black and White Americans over the past 20 years, new research concludes… [+2574 chars]",
-         "urlToImage" : "https://cbsnews2.cbsistatic.com/hub/i/r/2020/09/24/70f65cc0-4017-4d7d-b588-54aa6f9a0cf0/thumbnail/1200x630/b1b4d696321bb5175b2ec6983709050b/gettyimages-1173659469.jpg",
-         "description" : "Quantifying the economic impact of racial inequality shows the steep toll it takes on America's growth.",
+         "publishedAt" : "2020-09-24T01:09:00Z",
+         "title" : "Racism has cost the U.S. $16 trillion, Citigroup finds - CBS News",
          "source" : {
             "id" : "cbs-news",
             "name" : "CBS News"
          },
-         "title" : "Racism has cost the U.S. $16 trillion, Citigroup finds - CBS News",
-         "publishedAt" : "2020-09-24T01:09:00Z"
+         "content" : "America could have been $16 trillion richer if not for inequities in education, housing, wages and business investment between Black and White Americans over the past 20 years, new research concludes… [+2574 chars]",
+         "urlToImage" : "https://cbsnews2.cbsistatic.com/hub/i/r/2020/09/24/70f65cc0-4017-4d7d-b588-54aa6f9a0cf0/thumbnail/1200x630/b1b4d696321bb5175b2ec6983709050b/gettyimages-1173659469.jpg",
+         "description" : "Quantifying the economic impact of racial inequality shows the steep toll it takes on America's growth."
       },
       {
-         "description" : "",
-         "source" : {
-            "name" : "ABC News",
-            "id" : "abc-news"
-         },
+         "author" : "Mina Kaji",
+         "url" : "https://abcnews.go.com/Politics/airlines-scrutiny-mask-policies-parents-toddlers-kicked-off/story?id=73204508",
          "publishedAt" : "2020-09-24T00:44:04Z",
          "title" : "Airlines under scrutiny over mask policies as parents with toddlers get kicked off flights - ABC News",
-         "url" : "https://abcnews.go.com/Politics/airlines-scrutiny-mask-policies-parents-toddlers-kicked-off/story?id=73204508",
-         "author" : "Mina Kaji",
+         "description" : "",
+         "urlToImage" : "https://s.abcnews.com/images/Politics/covid-moms-children-masks-airlines-01-ins-llr-200923_1600889142346_hpMain_v32x15_16x9_992.jpg",
          "content" : "Rachel Davis was brought to tears last week as she pleaded with American Airlines gate agents after getting booted from a flight because her 2-year-old son would not wear a mask.\r\n\"What do you want m… [+4008 chars]",
-         "urlToImage" : "https://s.abcnews.com/images/Politics/covid-moms-children-masks-airlines-01-ins-llr-200923_1600889142346_hpMain_v32x15_16x9_992.jpg"
-      },
-      {
-         "url" : "https://fox8.com/news/halloween-2020-a-list-of-northeast-ohio-trick-or-treat-times/",
-         "author" : "Natasha Anderson",
-         "content" : "CLEVELAND (WJW) Halloween is just around the corner and while festivities may look a little different this year due to the coronavirus pandemic, some communities are still hosting trick-or-treat.\r\nOh… [+7716 chars]",
-         "urlToImage" : "https://fox8.com/wp-content/uploads/sites/12/2020/09/GettyImages-544670588-e1600908161969.jpg?w=1280",
-         "description" : "CLEVELAND (WJW) — Halloween is just around the corner and while festivities may look a little different this year due to the coronavirus pandemic, some communities are still hosting trick-or-treat. The Ohio Department of Health and Governor Mike DeWine recent…",
          "source" : {
-            "name" : "fox8.com",
-            "id" : null
-         },
-         "title" : "Halloween 2020: A list of Northeast Ohio trick-or-treat times - WJW FOX 8 News Cleveland",
-         "publishedAt" : "2020-09-24T00:44:00Z"
+            "id" : "abc-news",
+            "name" : "ABC News"
+         }
       },
       {
-         "publishedAt" : "2020-09-23T23:42:21Z",
-         "title" : "Wells Fargo's Charles Scharf apologises over race comments - BBC News",
+         "author" : "Natasha Anderson",
+         "url" : "https://fox8.com/news/halloween-2020-a-list-of-northeast-ohio-trick-or-treat-times/",
+         "publishedAt" : "2020-09-24T00:44:00Z",
+         "title" : "Halloween 2020: A list of Northeast Ohio trick-or-treat times - WJW FOX 8 News Cleveland",
+         "description" : "CLEVELAND (WJW) — Halloween is just around the corner and while festivities may look a little different this year due to the coronavirus pandemic, some communities are still hosting trick-or-treat. The Ohio Department of Health and Governor Mike DeWine recent…",
+         "urlToImage" : "https://fox8.com/wp-content/uploads/sites/12/2020/09/GettyImages-544670588-e1600908161969.jpg?w=1280",
+         "content" : "CLEVELAND (WJW) Halloween is just around the corner and while festivities may look a little different this year due to the coronavirus pandemic, some communities are still hosting trick-or-treat.\r\nOh… [+7716 chars]",
          "source" : {
             "id" : null,
-            "name" : "BBC News"
+            "name" : "fox8.com"
+         }
+      },
+      {
+         "description" : "A top adviser has resigned from the Food and Drug Administration's (FDA) vaccine advisory committee amid concerns about her ties to a pharmaceutical company conducting a trial for the highly anticipated treatment.",
+         "urlToImage" : "https://static.foxnews.com/foxnews.com/content/uploads/2020/05/AP20130680476302.jpg",
+         "content" : "A top adviser has resigned from the Food and Drug Administration's (FDA)vaccine advisory committee amid concerns about her ties to a pharmaceutical company conducting a trial for the highly anticipat… [+2017 chars]",
+         "source" : {
+            "name" : "Fox News",
+            "id" : "fox-news"
          },
+         "author" : "Sam Dorman",
+         "url" : "https://www.foxnews.com/us/hana-sahly-vaccine-adviser-resign-covid",
+         "publishedAt" : "2020-09-24T00:38:18Z",
+         "title" : "Top FDA vaccine adviser recuses herself over tie to Moderna: report - Fox News"
+      },
+      {
+         "author" : "https://www.facebook.com/bbcnews",
+         "url" : "https://www.bbc.com/news/business-54269360",
+         "publishedAt" : "2020-09-23T23:42:21Z",
+         "title" : "Wells Fargo's Charles Scharf apologises over race comments - BBC News",
          "description" : "The head of the US bank apologises for an \"insensitive comment reflecting my own unconscious bias\".",
          "urlToImage" : "https://ichef.bbci.co.uk/news/1024/branded_news/8D16/production/_114581163_gettyimages-1211580952.jpg",
-         "content" : "Image copyrightGetty ImagesImage caption\r\n Charles Scharf\r\nThe head of US bank Wells Fargo has apologised for remarks that attributed the lack of diversity in the bank's top ranks to a shortage of qu… [+2381 chars]",
-         "author" : "https://www.facebook.com/bbcnews",
-         "url" : "https://www.bbc.com/news/business-54269360"
+         "source" : {
+            "name" : "BBC News",
+            "id" : null
+         },
+         "content" : "Image copyrightGetty ImagesImage caption\r\n Charles Scharf\r\nThe head of US bank Wells Fargo has apologised for remarks that attributed the lack of diversity in the bank's top ranks to a shortage of qu… [+2381 chars]"
+      },
+      {
+         "url" : "https://www.usatoday.com/story/tech/2020/09/23/trump-administrations-google-antitrust-action/3511385001/",
+         "author" : "Marcy Gordon",
+         "title" : "Trump administration moves toward antitrust action against Google - USA TODAY",
+         "publishedAt" : "2020-09-23T23:24:02Z",
+         "source" : {
+            "name" : "USA Today",
+            "id" : "usa-today"
+         },
+         "content" : "Four Big Tech CEOs - Facebooks Mark Zuckerberg, Amazons Jeff Bezos, Sundar Pichai of Google and Tim Cook of Apple - are testifying on their companies practices on the issue of market dominance in the… [+7016 chars]",
+         "urlToImage" : "https://www.gannett-cdn.com/-mm-/ac1988a10371e0d0ac70b51f765b8bae6bb357d1/c=0-242-4643-2854/local/-/media/2020/08/12/USATODAY/usatsports/afp-afp_1wg0x6.jpg?width=3200&height=1680&fit=crop",
+         "description" : "Lawmakers and consumer advocates accuse Google of abusing its dominance in online search and advertising to stifle competition and boost its profits."
+      },
+      {
+         "source" : {
+            "name" : "Google News",
+            "id" : "google-news"
+         },
+         "content" : null,
+         "urlToImage" : null,
+         "description" : null,
+         "title" : "Jim Cramer says the market will stay volatile but sees chances to buy some tech, dividend stocks - CNBC Television",
+         "publishedAt" : "2020-09-23T23:14:41Z",
+         "url" : "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9UnFqcHdQdExBczTSAQA?oc=5",
+         "author" : null
       },
       {
          "urlToImage" : "https://cnet4.cbsistatic.com/img/ZezzlVZRrcEgQkWQScVJpxxhfUU=/1200x630/2020/09/23/ba820cd0-9c79-481a-a6aa-f8d7e0db6a2c/lmc-endurance-interior-sept-2020-4.jpg",
+         "description" : "It's also close to becoming a publicly traded company, according to its representatives.",
+         "source" : {
+            "id" : null,
+            "name" : "CNET"
+         },
          "content" : "A business-like interior for a work truck.\r\nLordstown Motors\r\nElectric pickups look like they'll be big business with several brands -- both legacy and startup -- planning to offer them in the coming… [+1538 chars]",
          "author" : "Kyle Hyatt",
          "url" : "https://www.cnet.com/roadshow/news/lordstown-motors-endurance-interior-40000-preorders/",
-         "publishedAt" : "2020-09-23T23:09:21Z",
          "title" : "Lordstown Motors claims it has 40,000 preorders, shows off its new interior - CNET",
-         "source" : {
-            "name" : "CNET",
-            "id" : null
-         },
-         "description" : "It's also close to becoming a publicly traded company, according to its representatives."
+         "publishedAt" : "2020-09-23T23:09:21Z"
       },
       {
-         "publishedAt" : "2020-09-23T22:43:00Z",
-         "title" : "Stock market news live updates: Stock futures trade mixed after selloff - Yahoo Finance",
-         "source" : {
-            "id" : null,
-            "name" : "Yahoo Entertainment"
-         },
-         "description" : "Stock futures traded mixed Wednesday evening, but mostly hugged the flat line as equity investors took a pause from the heavy selling earlier in the day.",
-         "urlToImage" : "https://s.yimg.com/ny/api/res/1.2/wdv79IF4WSMMI3UVaJpfZQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyODA7aD04NTMuMzMzMzMzMzMzMzMzNA--/https://s.yimg.com/uu/api/res/1.2/9qF7AKqtMCFWFg92q5XCZA--~B/aD0zODQwO3c9NTc2MDtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2020-09/3943b8b0-f2ea-11ea-9de7-e1b5f8d6ea7d",
-         "content" : "In the investing game, its not only about what you buy; its about when you buy it. One of the most common pieces of advice thrown around the Street, buy low is touted as a tried-and-true tactic.Sure,… [+10639 chars]",
-         "author" : "Emily McCormick",
-         "url" : "https://finance.yahoo.com/news/stock-market-news-live-september-24-2020-224347265.html"
-      },
-      {
-         "url" : "https://www.foxbusiness.com/markets/jpmorgan-nears-1b-spoofing-fine",
-         "author" : "Dow Jones Newswires",
-         "content" : "JPMorgan Chase &amp; Co. is nearing an agreement with federal prosecutors and regulators to pay a fine to settle civil and criminal charges that its traders rigged futures and securities markets, peo… [+2246 chars]",
-         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/03/0/0/AP20056632348478.jpg?ve=1&tl=1",
-         "description" : "JPMorgan's $1 billion spoofing fine may be the largest on record.",
          "source" : {
             "id" : null,
             "name" : "Fox Business"
          },
+         "content" : "JPMorgan Chase &amp; Co. is nearing an agreement with federal prosecutors and regulators to pay a fine to settle civil and criminal charges that its traders rigged futures and securities markets, peo… [+2246 chars]",
+         "description" : "JPMorgan's $1 billion spoofing fine may be the largest on record.",
+         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/03/0/0/AP20056632348478.jpg?ve=1&tl=1",
          "publishedAt" : "2020-09-23T22:42:05Z",
-         "title" : "JPMorgan nears $1B spoofing fine - Fox Business"
+         "title" : "JPMorgan nears $1B spoofing fine - Fox Business",
+         "url" : "https://www.foxbusiness.com/markets/jpmorgan-nears-1b-spoofing-fine",
+         "author" : "Dow Jones Newswires"
       },
       {
          "urlToImage" : "https://www.berkeleyside.com/wp-content/uploads/2020/09/Candy-at-Andronicos.jpg",
+         "description" : "City Council passed an ordinance banning unhealthy food from checkstands at large retailers. In March 2021, stores like Whole Foods and Berkeley Bowl will have to replace chips and candy with healthier options.",
          "content" : "Chocolate bars tempt shoppers checking out at Andronico’s on Solano Avenue. Photo: Eden Teller\r\nBerkeley’s City Council has passed an ordinance that will remove unhealthy food from grocery store chec… [+2847 chars]",
+         "source" : {
+            "id" : null,
+            "name" : "Berkeleyside"
+         },
          "author" : "Eden Teller",
          "url" : "http://www.berkeleyside.com/2020/09/23/berkeley-will-be-first-in-the-nation-to-ban-candy-soda-at-checkout-aisles",
-         "title" : "Berkeley will ban candy, soda, chips from checkstands at grocery stores - Berkeleyside",
          "publishedAt" : "2020-09-23T22:23:01Z",
-         "source" : {
-            "name" : "Berkeleyside",
-            "id" : null
-         },
-         "description" : "City Council passed an ordinance banning unhealthy food from checkstands at large retailers. In March 2021, stores like Whole Foods and Berkeley Bowl will have to replace chips and candy with healthier options."
-      },
-      {
-         "description" : "A physician who heads the influential U.S. Food and Drug Administration vaccine advisory committee recused herself from the panel's review of COVID-19 vaccines because of her role overseeing a clinical trial for Moderna Inc's candidate, her spokeswoman told R…",
-         "title" : "Exclusive: Top adviser steps aside from FDA COVID-19 vaccine reviews over potential conflict - Reuters India",
-         "publishedAt" : "2020-09-23T21:40:00Z",
-         "source" : {
-            "id" : "reuters",
-            "name" : "Reuters"
-         },
-         "author" : "Dan Levine, Marisa Taylor",
-         "url" : "https://in.reuters.com/article/health-coronavirus-vaccines-fda-idINKCN26F0C2",
-         "urlToImage" : "https://static.reuters.com/resources/r/?m=02&d=20200924&t=2&i=1534705131&r=LYNXNPEG8N05K&w=800",
-         "content" : "(Reuters) - A physician who heads the influential U.S. Food and Drug Administration vaccine advisory committee recused herself from the panels review of COVID-19 vaccines because of her role overseei… [+4002 chars]"
-      },
-      {
-         "description" : "Analysts believe that investments Nike has made in its digital business since former tech CEO John Donahoe took the helm this year are just starting to pay...",
-         "source" : {
-            "id" : null,
-            "name" : "Yahoo Entertainment"
-         },
-         "publishedAt" : "2020-09-23T21:20:00Z",
-         "title" : "Nike is 'just getting started' after blowing away investor expectations - Yahoo Finance",
-         "url" : "https://finance.yahoo.com/news/nike-just-getting-started-after-crushing-earnings-this-week-analysts-say-212019272.html",
-         "author" : "Reggie Wade",
-         "content" : "In the investing game, its not only about what you buy; its about when you buy it. One of the most common pieces of advice thrown around the Street, buy low is touted as a tried-and-true tactic.Sure,… [+10639 chars]",
-         "urlToImage" : "https://s.yimg.com/ny/api/res/1.2/yTCCT_Y5QznYT_gU.SkHeg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyODA7aD05NjA-/https://s.yimg.com/uu/api/res/1.2/bAAeMUicKfhvclyujhXf1w--~B/aD0zMDI0O3c9NDAzMjtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2020-09/fb536a40-fd8f-11ea-bb36-6337c9877db5"
-      },
-      {
-         "url" : "https://www.wdsu.com/article/all-bars-in-jefferson-parish-will-be-allowed-to-open-for-on-premise-consumption/34129145",
-         "author" : "WDSU Digital Team",
-         "content" : "JEFFERSON PARISH, La. —All bars in Jefferson Parish will be allowed to open for on-premise consumption, but must follow guidelines per the Governor's order, according to Jefferson Parish officials.\r\n… [+981 chars]",
-         "urlToImage" : "https://kubrick.htvapps.com/vidthumb/f696da0b-4594-4557-bf1f-7e604d5d2dcd/f696da0b-4594-4557-bf1f-7e604d5d2dcd_image.jpg?crop=1xw:1.0xh;center,top&resize=1200:*",
-         "description" : "All bars in Jefferson Parish will be allowed to open for on-premise consumption, but must follow guidelines per the Governor's order, according to Jefferson Parish officials.",
-         "source" : {
-            "id" : null,
-            "name" : "WDSU New Orleans"
-         },
-         "publishedAt" : "2020-09-23T21:19:00Z",
-         "title" : "All bars in Jefferson Parish will be allowed to open for on-premise consumption - WDSU New Orleans"
-      },
-      {
-         "description" : "San Luis Obispo County health officials reported two new COVID-19 related deaths and added 26 new cases on Wednesday, bringing the county's total to 3,479 confirmed cases as of September 23.",
-         "source" : {
-            "id" : null,
-            "name" : "KSBY San Luis Obispo News"
-         },
-         "publishedAt" : "2020-09-23T20:53:19Z",
-         "title" : "Health officials report two new COVID-19 related deaths in SLO County, 26 new cases - KSBY San Luis Obispo News",
-         "url" : "https://www.ksby.com/news/coronavirus/health-officials-report-two-new-covid-19-related-deaths-in-slo-county-26-new-cases",
-         "author" : "KSBY Staff",
-         "content" : "San Luis Obispo County health officials reported two new COVID-19 related deaths and added 26 new cases on Wednesday, bringing the county's total to 3,479 confirmed cases as of September 23.\r\nSeven p… [+1562 chars]",
-         "urlToImage" : "https://ewscripps.brightspotcdn.com/dims4/default/635f6f6/2147483647/strip/true/crop/1920x1008+0+36/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F9a%2Ff3%2F5762794642eabae9b75d95b69325%2Fcoronavirus-plasma.png"
-      },
-      {
-         "description" : "(Bloomberg) -- U.S. high-yield bond sales reached an annual record of $329.8 billion Wednesday as companies reap the benefits of the Federal Reserve’s...",
-         "source" : {
-            "id" : null,
-            "name" : "Yahoo Entertainment"
-         },
-         "publishedAt" : "2020-09-23T20:47:00Z",
-         "title" : "U.S. Junk Bonds Set $329.8 Billion Sales Record Amid Yield Hunt - Yahoo Finance",
-         "url" : "https://finance.yahoo.com/news/u-junk-bonds-set-329-204710508.html",
-         "author" : "Paula Seligson",
-         "content" : "In the investing game, its not only about what you buy; its about when you buy it. One of the most common pieces of advice thrown around the Street, buy low is touted as a tried-and-true tactic.Sure,… [+10639 chars]",
-         "urlToImage" : "https://s.yimg.com/uu/api/res/1.2/tj0vTy1aLMr3u1sQHrGO1A--~B/aD02NzU7dz0xMjAwO3NtPTE7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/bloomberg_markets_842/28dc21f4ad5b30167ac90363d1f19783"
-      },
-      {
-         "urlToImage" : "https://static.coindesk.com/wp-content/uploads/2020/09/cdbpisep23-scaled.jpg",
-         "content" : "The bitcoin market continues to display weakness; xDai total value locked shows interest in Ethereum scaling solutions.\r\n<ul><li>Bitcoin (BTC) trading around $10,285 as of 20:00 UTC (4 p.m. EDT). Sli… [+4230 chars]",
-         "author" : "Daniel Cawrey",
-         "url" : "https://www.coindesk.com/market-wrap-bitcoin-drop-xdai-doubles-value-locked",
-         "publishedAt" : "2020-09-23T20:32:54Z",
-         "title" : "Market Wrap: Bitcoin Drops to $10.2K; Scaling Solution xDai Doubles in Value Locked - CoinDesk - CoinDesk",
-         "source" : {
-            "id" : null,
-            "name" : "CoinDesk"
-         },
-         "description" : "Bitcoin price goes nowhere Wednesday while investors park crypto in Ethereum sidechain stablecoin xDai."
+         "title" : "Berkeley will ban candy, soda, chips from checkstands at grocery stores - Berkeleyside"
       }
-   ]
+   ],
+   "totalResults" : 70
 }
