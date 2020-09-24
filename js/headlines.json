@@ -1,266 +1,266 @@
 {
+   "totalResults" : 70,
+   "status" : "ok",
    "articles" : [
       {
-         "content" : "Take a look at some of the biggest movers in the premarket:\r\nAccenture (ACN) The consulting firm reported quarterly profit of $1.70 per share, falling 3 cents a share short of Wall Street forecasts. … [+3729 chars]",
          "publishedAt" : "2020-09-24T11:56:00Z",
+         "title" : "Stocks making the biggest moves in the premarket: Accenture, Darden Restaurants, BlackBerry & more - CNBC",
+         "author" : "Peter Schacknow",
+         "content" : "Take a look at some of the biggest movers in the premarket:\r\nAccenture (ACN) The consulting firm reported quarterly profit of $1.70 per share, falling 3 cents a share short of Wall Street forecasts. … [+3729 chars]",
          "source" : {
             "name" : "CNBC",
             "id" : null
          },
-         "title" : "Stocks making the biggest moves in the premarket: Accenture, Darden Restaurants, BlackBerry & more - CNBC",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/105063330-stefan-stefancik-257625-unsplash.jpg?v=1520977366",
-         "author" : "Peter Schacknow",
          "description" : "The stocks making the biggest moves in premarket trading include Accenture, Darden Restaurants, BlackBerry, and more.",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/105063330-stefan-stefancik-257625-unsplash.jpg?v=1520977366",
          "url" : "https://www.cnbc.com/2020/09/24/stocks-making-the-biggest-moves-in-the-premarket-accenture-darden-restaurants-blackberry-more.html"
       },
       {
-         "url" : "https://www.marketwatch.com/story/the-second-wave-of-a-rolling-bear-market-is-about-to-begin-says-top-forecaster-11600945948",
-         "description" : "Critical information for the U.S. trading day",
          "author" : "Barbara Kollmeyer",
          "title" : "The second wave of a rolling bear market is about to begin, says top forecaster - MarketWatch",
-         "urlToImage" : "https://images.mktw.net/im-235957/social",
          "publishedAt" : "2020-09-24T11:12:00Z",
+         "content" : "A recent spate of stock drops, exacerbated by signs of a second wave of the coronavirus pandemic, is unsettling to say the least. The market selloff of last spring was brief, but brutal.Our call of t… [+5445 chars]",
+         "urlToImage" : "https://images.mktw.net/im-235957/social",
+         "description" : "Critical information for the U.S. trading day",
          "source" : {
             "id" : null,
             "name" : "MarketWatch"
          },
-         "content" : "A recent spate of stock drops, exacerbated by signs of a second wave of the coronavirus pandemic, is unsettling to say the least. The market selloff of last spring was brief, but brutal.Our call of t… [+5445 chars]"
+         "url" : "https://www.marketwatch.com/story/the-second-wave-of-a-rolling-bear-market-is-about-to-begin-says-top-forecaster-11600945948"
       },
       {
-         "author" : "Marilynn Marchione",
-         "description" : "A Massachusetts construction worker’s love of black licorice wound up costing him his life. Eating a bag and a half every day for a few weeks threw his nutrients out of whack and caused the...",
-         "url" : "https://apnews.com/article/archive-04cf918055b735ea69483dd00e281253",
          "content" : "A Massachusetts construction workers love of black licorice wound up costing him his life. Eating a bag and a half every day for a few weeks threw his nutrients out of whack and caused the 54-year-ol… [+2185 chars]",
-         "source" : {
-            "id" : "associated-press",
-            "name" : "Associated Press"
-         },
          "publishedAt" : "2020-09-24T10:20:00Z",
+         "author" : "Marilynn Marchione",
          "title" : "Too much candy: Man dies from eating bags of black licorice - Associated Press",
-         "urlToImage" : "https://storage.googleapis.com/afs-prod/media/16fc35970aae4ffbb3a376a7ba37f5d9/3000.jpeg"
+         "url" : "https://apnews.com/article/archive-04cf918055b735ea69483dd00e281253",
+         "source" : {
+            "name" : "Associated Press",
+            "id" : "associated-press"
+         },
+         "urlToImage" : "https://storage.googleapis.com/afs-prod/media/16fc35970aae4ffbb3a376a7ba37f5d9/3000.jpeg",
+         "description" : "A Massachusetts construction worker’s love of black licorice wound up costing him his life. Eating a bag and a half every day for a few weeks threw his nutrients out of whack and caused the..."
       },
       {
          "content" : "U.K. Finance Minister Rishi Sunak has announced a new emergency package of measures to contain unemployment, replacing the country's furlough scheme which is due to expire next month.\r\nThe Job Suppor… [+3705 chars]",
+         "title" : "British government announces new job support program but warns not every firm can be saved - CNBC",
+         "author" : "Elliot Smith",
+         "publishedAt" : "2020-09-24T10:08:00Z",
+         "url" : "https://www.cnbc.com/2020/09/24/uk-finance-minister-announces-emergency-jobs-package.html",
+         "description" : "U.K. Finance Minister Rishi Sunak has announced a new emergency package of measures to contain unemployment.",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106434633-1583847422823gettyimages-1200815795.jpeg?v=1587132942",
+         "source" : {
+            "id" : null,
+            "name" : "CNBC"
+         }
+      },
+      {
+         "author" : "Keith Speights",
+         "title" : "3 Stocks That Could Double Your Money - Motley Fool",
+         "publishedAt" : "2020-09-24T10:04:00Z",
+         "content" : "Here's a helpful hint for you: Ignore the market volatility. If you watch your stocks continually, the up-and-down swings could make you a nervous wreck. Invest with a long-term perspective, and the … [+4530 chars]",
+         "urlToImage" : "https://g.foolcdn.com/editorial/images/592306/man-pointing-to-dollar-signs.jpg",
+         "description" : "And they could do it relatively soon.",
+         "source" : {
+            "id" : null,
+            "name" : "Motley Fool"
+         },
+         "url" : "https://www.fool.com/investing/2020/09/24/3-stocks-that-could-double-your-money/"
+      },
+      {
+         "content" : "Most Americans have never heard of Dr. Richard Whitley, an expert in pediatric infectious diseases at the University of Alabama-Birmingham.\r\nYet as the coronavirus pandemic drags on and the public ea… [+11647 chars]",
+         "title" : "Secret, powerful panels will pick Covid-19 vaccine winners - NBC News",
+         "author" : "Rachana Pradhan, Arthur Allen",
+         "publishedAt" : "2020-09-24T10:00:00Z",
+         "url" : "https://www.nbcnews.com/health/health-news/secret-powerful-panels-will-pick-covid-19-vaccine-winners-n1240885",
+         "description" : "Covid-19 vaccine safety: Secret safety boards will decide which coronavirus vaccines will be given to Americans.",
+         "urlToImage" : "https://media1.s-nbcnews.com/j/newscms/2020_39/3414422/200923-blood-samples-covid-vaccine-se-455p_e9fcf162d35a6475396839cc99fd3e8b.nbcnews-fp-1200-630.jpg",
+         "source" : {
+            "id" : "nbc-news",
+            "name" : "NBC News"
+         }
+      },
+      {
+         "source" : {
+            "id" : null,
+            "name" : "Newser"
+         },
+         "urlToImage" : "https://img1-azrcdn.newser.com/image/1321158-12-20200924053912.jpeg",
+         "description" : "Charles Scharf blamed bank's lack of diversity on 'very limited' pool of talent",
+         "url" : "https://www.newser.com/story/296592/wells-fargo-ceo-sorry-for-complaint-about-black-talent.html",
+         "publishedAt" : "2020-09-24T09:41:00Z",
+         "author" : "Rob Quinn",
+         "title" : "Wells Fargo CEO Sorry for Complaint About Black Talent - Newser",
+         "content" : "(Newser)\r\nThe CEO of Wells Fargo has apologized for an \"insensitive\" memo in which he said the bank wasn't meeting diversity goals because of a shortage of skilled Black workers. \"The unfortunate rea… [+1255 chars]"
+      },
+      {
+         "content" : "(CNN)After chasing down and capturing a suspect allegedly responsible for derailing a subway train, one man gets a year of free rides, the Metropolitan Transportation Authority said Wednesday.\r\n\"Riki… [+1576 chars]",
+         "author" : "Madeline Holcombe, CNN",
+         "title" : "A year of free subway rides for a man who chased down and captured train derailment suspect - CNN",
+         "publishedAt" : "2020-09-24T09:30:00Z",
+         "url" : "https://www.cnn.com/2020/09/24/us/subway-rides-man-chased-down-derailment-suspect-trnd/index.html",
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200924040842-02-mta-train-rikien-wilder-super-tease.jpg",
+         "description" : "After chasing down and capturing a suspect allegedly responsible for derailing a subway train, one man gets a year of free rides, the Metropolitan Transportation Authority said Wednesday.",
+         "source" : {
+            "name" : "CNN",
+            "id" : "cnn"
+         }
+      },
+      {
+         "publishedAt" : "2020-09-24T09:15:00Z",
+         "title" : "Everyone thought Germany and Italy weren't seeing a second wave of the coronavirus ... now maybe they are - CNBC",
+         "author" : "Holly Ellyatt",
+         "content" : "A street seller wearing a face mask (L) proposes straw hats to tourists outside the Colosseum monument on August 22, 2020 in Rome during the Covid-19 infection, caused by the novel coronavirus.\r\nAs c… [+3440 chars]",
          "source" : {
             "id" : null,
             "name" : "CNBC"
          },
-         "publishedAt" : "2020-09-24T10:08:00Z",
-         "title" : "British government announces new job support program but warns not every firm can be saved - CNBC",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106434633-1583847422823gettyimages-1200815795.jpeg?v=1587132942",
-         "author" : "Elliot Smith",
-         "description" : "U.K. Finance Minister Rishi Sunak has announced a new emergency package of measures to contain unemployment.",
-         "url" : "https://www.cnbc.com/2020/09/24/uk-finance-minister-announces-emergency-jobs-package.html"
-      },
-      {
-         "content" : "Here's a helpful hint for you: Ignore the market volatility. If you watch your stocks continually, the up-and-down swings could make you a nervous wreck. Invest with a long-term perspective, and the … [+4530 chars]",
-         "publishedAt" : "2020-09-24T10:04:00Z",
-         "source" : {
-            "name" : "Motley Fool",
-            "id" : null
-         },
-         "urlToImage" : "https://g.foolcdn.com/editorial/images/592306/man-pointing-to-dollar-signs.jpg",
-         "title" : "3 Stocks That Could Double Your Money - Motley Fool",
-         "author" : "Keith Speights",
-         "description" : "And they could do it relatively soon.",
-         "url" : "https://www.fool.com/investing/2020/09/24/3-stocks-that-could-double-your-money/"
-      },
-      {
-         "description" : "Covid-19 vaccine safety: Secret safety boards will decide which coronavirus vaccines will be given to Americans.",
-         "url" : "https://www.nbcnews.com/health/health-news/secret-powerful-panels-will-pick-covid-19-vaccine-winners-n1240885",
-         "author" : "Rachana Pradhan, Arthur Allen",
-         "source" : {
-            "id" : "nbc-news",
-            "name" : "NBC News"
-         },
-         "publishedAt" : "2020-09-24T10:00:00Z",
-         "title" : "Secret, powerful panels will pick Covid-19 vaccine winners - NBC News",
-         "urlToImage" : "https://media1.s-nbcnews.com/j/newscms/2020_39/3414422/200923-blood-samples-covid-vaccine-se-455p_e9fcf162d35a6475396839cc99fd3e8b.nbcnews-fp-1200-630.jpg",
-         "content" : "Most Americans have never heard of Dr. Richard Whitley, an expert in pediatric infectious diseases at the University of Alabama-Birmingham.\r\nYet as the coronavirus pandemic drags on and the public ea… [+11647 chars]"
-      },
-      {
-         "url" : "https://www.newser.com/story/296592/wells-fargo-ceo-sorry-for-complaint-about-black-talent.html",
-         "description" : "Charles Scharf blamed bank's lack of diversity on 'very limited' pool of talent",
-         "author" : "Rob Quinn",
-         "title" : "Wells Fargo CEO Sorry for Complaint About Black Talent - Newser",
-         "urlToImage" : "https://img1-azrcdn.newser.com/image/1321158-12-20200924053912.jpeg",
-         "publishedAt" : "2020-09-24T09:41:00Z",
-         "source" : {
-            "name" : "Newser",
-            "id" : null
-         },
-         "content" : "(Newser)\r\nThe CEO of Wells Fargo has apologized for an \"insensitive\" memo in which he said the bank wasn't meeting diversity goals because of a shortage of skilled Black workers. \"The unfortunate rea… [+1255 chars]"
-      },
-      {
-         "url" : "https://www.cnn.com/2020/09/24/us/subway-rides-man-chased-down-derailment-suspect-trnd/index.html",
-         "description" : "After chasing down and capturing a suspect allegedly responsible for derailing a subway train, one man gets a year of free rides, the Metropolitan Transportation Authority said Wednesday.",
-         "author" : "Madeline Holcombe, CNN",
-         "title" : "A year of free subway rides for a man who chased down and captured train derailment suspect - CNN",
-         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200924040842-02-mta-train-rikien-wilder-super-tease.jpg",
-         "publishedAt" : "2020-09-24T09:30:00Z",
-         "source" : {
-            "id" : "cnn",
-            "name" : "CNN"
-         },
-         "content" : "(CNN)After chasing down and capturing a suspect allegedly responsible for derailing a subway train, one man gets a year of free rides, the Metropolitan Transportation Authority said Wednesday.\r\n\"Riki… [+1576 chars]"
-      },
-      {
-         "title" : "Everyone thought Germany and Italy weren't seeing a second wave of the coronavirus ... now maybe they are - CNBC",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106715347-1600939480432-gettyimages-1228152849-AFP_1WO2GC.jpeg?v=1600939555",
-         "publishedAt" : "2020-09-24T09:15:00Z",
-         "source" : {
-            "name" : "CNBC",
-            "id" : null
-         },
-         "content" : "A street seller wearing a face mask (L) proposes straw hats to tourists outside the Colosseum monument on August 22, 2020 in Rome during the Covid-19 infection, caused by the novel coronavirus.\r\nAs c… [+3440 chars]",
-         "url" : "https://www.cnbc.com/2020/09/24/are-germany-and-italy-finally-seeing-a-second-wave-of-the-coronavirus.html",
          "description" : null,
-         "author" : "Holly Ellyatt"
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106715347-1600939480432-gettyimages-1228152849-AFP_1WO2GC.jpeg?v=1600939555",
+         "url" : "https://www.cnbc.com/2020/09/24/are-germany-and-italy-finally-seeing-a-second-wave-of-the-coronavirus.html"
       },
       {
-         "title" : "Stock futures trade mixed ahead of jobless claims report - Fox Business",
-         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/09/0/0/GettyImages-1207642273.jpg?ve=1&tl=1",
          "publishedAt" : "2020-09-24T07:38:21Z",
-         "source" : {
-            "name" : "Fox Business",
-            "id" : null
-         },
+         "title" : "Stock futures trade mixed ahead of jobless claims report - Fox Business",
+         "author" : "Ken Martin",
          "content" : "U.S. equity futures are trading mixed, possibly bringing a halt to the selling from the prior session.\r\nDow futures suggest a rise of 0.1% when the Thursday trading session begins on Wall Street.\r\nGE… [+2443 chars]",
-         "url" : "https://www.foxbusiness.com/markets/stock-futures-point-lower-ahead-of-jobless-claims-report",
+         "source" : {
+            "id" : null,
+            "name" : "Fox Business"
+         },
          "description" : "In addition to jobless claims, investors will also get the latest data on new home sales",
-         "author" : "Ken Martin"
+         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/09/0/0/GettyImages-1207642273.jpg?ve=1&tl=1",
+         "url" : "https://www.foxbusiness.com/markets/stock-futures-point-lower-ahead-of-jobless-claims-report"
       },
       {
          "source" : {
-            "name" : "CNBC",
-            "id" : null
+            "id" : null,
+            "name" : "CNBC"
          },
-         "publishedAt" : "2020-09-24T07:16:00Z",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106694666-1599623989242-gettyimages-1267072209-img78942543.jpeg?v=1600931767",
-         "title" : "Founder of bottled water giant Nongfu Spring becomes China's richest man - CNBC",
-         "content" : "BEIJING  Steady gains in the public offerings of two Chinese stocks this year have vaulted their controlling stakeholder to the top of China's rich list.\r\nAs of Thursday, Nongfu Spring founder Zhong … [+884 chars]",
          "description" : "Steady gains in the public offerings of two Chinese stocks this year have vaulted their controlling stakeholder to the top of China's rich list.",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106694666-1599623989242-gettyimages-1267072209-img78942543.jpeg?v=1600931767",
          "url" : "https://www.cnbc.com/2020/09/24/founder-of-bottled-water-nongfu-spring-becomes-chinas-richest-man.html",
-         "author" : "Evelyn Cheng"
+         "publishedAt" : "2020-09-24T07:16:00Z",
+         "title" : "Founder of bottled water giant Nongfu Spring becomes China's richest man - CNBC",
+         "author" : "Evelyn Cheng",
+         "content" : "BEIJING  Steady gains in the public offerings of two Chinese stocks this year have vaulted their controlling stakeholder to the top of China's rich list.\r\nAs of Thursday, Nongfu Spring founder Zhong … [+884 chars]"
       },
       {
-         "content" : "Exhibition giant and Regal owner Cineworld Group on Thursday swung to a loss for the first half of 2020 as revenue fell sharply amid the novel coronavirus pandemic, which led to cinema closures world… [+5085 chars]",
-         "publishedAt" : "2020-09-24T06:25:04Z",
-         "source" : {
-            "name" : "Hollywood Reporter",
-            "id" : null
-         },
+         "description" : "CEO Mooky Greidinger also reemphasizes the firm will only show films that respect the theatrical window and says \"negotiations with the banks remain ongoing in order to obtain covenant waivers in respect of December 2020 and June 2021.\"",
          "urlToImage" : null,
+         "source" : {
+            "id" : null,
+            "name" : "Hollywood Reporter"
+         },
+         "url" : "https://www.hollywoodreporter.com/news/regal-owner-cineworld-swings-to-first-half-loss-says-no-certainty-on-future-impact-of-covid-19",
          "title" : "Regal Owner Cineworld Swings to First-Half Loss, Says \"No Certainty\" on Future Impact of COVID-19 - Hollywood Reporter",
          "author" : "Georg Szalai",
-         "description" : "CEO Mooky Greidinger also reemphasizes the firm will only show films that respect the theatrical window and says \"negotiations with the banks remain ongoing in order to obtain covenant waivers in respect of December 2020 and June 2021.\"",
-         "url" : "https://www.hollywoodreporter.com/news/regal-owner-cineworld-swings-to-first-half-loss-says-no-certainty-on-future-impact-of-covid-19"
+         "publishedAt" : "2020-09-24T06:25:04Z",
+         "content" : "Exhibition giant and Regal owner Cineworld Group on Thursday swung to a loss for the first half of 2020 as revenue fell sharply amid the novel coronavirus pandemic, which led to cinema closures world… [+5085 chars]"
       },
       {
+         "publishedAt" : "2020-09-24T06:22:50Z",
+         "author" : "The Wall Street Journal",
+         "title" : "WeWork sells majority stake in China business, cutting costs - Fox Business",
          "content" : "WeWork is selling control of its China business, the latest sign that the company is abandoning its former rapid growth approach and looking to reduce risk.\r\nA group led by investment firm Trustbridg… [+2576 chars]",
          "source" : {
             "id" : "the-wall-street-journal",
             "name" : "The Wall Street Journal"
          },
-         "publishedAt" : "2020-09-24T06:22:50Z",
          "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2019/12/0/0/AP19304691806660-e1575547739544.jpg?ve=1&tl=1",
-         "title" : "WeWork sells majority stake in China business, cutting costs - Fox Business",
-         "author" : "The Wall Street Journal",
          "description" : "Group led by investment firm Trustbridge Partners paid $200 million to increase stake in WeWork China",
          "url" : "https://www.wsj.com/articles/wework-sells-majority-stake-in-china-business-cutting-costs-11600898160?mod=hp_lista_pos2"
       },
       {
-         "url" : "https://www.cnn.com/2020/09/24/investing/westpac-fine-australia-intl-hnk/index.html",
          "description" : "Westpac, one of Australia's largest banks, has agreed to pay a record-breaking penalty of nearly $1 billion for systematically allowing money laundering on its watch.",
-         "author" : "Laura He, CNN Business",
-         "title" : "Westpac, one of Australia's largest banks, hit with record $920 million penalty over money laundering scandal - CNN",
          "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200923224610-westpace-bank-0819-restricted-super-tease.jpg",
-         "publishedAt" : "2020-09-24T05:02:00Z",
          "source" : {
-            "name" : "CNN",
-            "id" : "cnn"
+            "id" : "cnn",
+            "name" : "CNN"
          },
+         "url" : "https://www.cnn.com/2020/09/24/investing/westpac-fine-australia-intl-hnk/index.html",
+         "title" : "Westpac, one of Australia's largest banks, hit with record $920 million penalty over money laundering scandal - CNN",
+         "author" : "Laura He, CNN Business",
+         "publishedAt" : "2020-09-24T05:02:00Z",
          "content" : null
       },
       {
-         "content" : "The 2021 Acura TLX is the latest luxury sedan from the company once known for the legendary Legend and its justified Precision Crafted Performance tagline. Keen to recapture some of that 1990s magic,… [+7936 chars]",
-         "publishedAt" : "2020-09-24T04:04:04Z",
-         "source" : {
-            "name" : "Motor1 ",
-            "id" : null
-         },
+         "url" : "https://www.motor1.com/reviews/445497/2021-acura-tlx-first-drive/",
+         "description" : "The 2021 Acura TLX is a premium luxury sedan that falls slightly short on sport. Hugely improved, is it good enough to take on the BMW 3 Series?",
          "urlToImage" : "https://cdn.motor1.com/images/mgl/BqeWZ/s1/2021-acura-tlx-first-drive-review.jpg",
+         "source" : {
+            "id" : null,
+            "name" : "Motor1 "
+         },
+         "content" : "The 2021 Acura TLX is the latest luxury sedan from the company once known for the legendary Legend and its justified Precision Crafted Performance tagline. Keen to recapture some of that 1990s magic,… [+7936 chars]",
          "title" : "2021 Acura TLX First Drive Review: Making Strides Toward Excellence - Motor1 ",
          "author" : null,
-         "description" : "The 2021 Acura TLX is a premium luxury sedan that falls slightly short on sport. Hugely improved, is it good enough to take on the BMW 3 Series?",
-         "url" : "https://www.motor1.com/reviews/445497/2021-acura-tlx-first-drive/"
+         "publishedAt" : "2020-09-24T04:04:04Z"
       },
       {
-         "publishedAt" : "2020-09-24T03:52:00Z",
-         "source" : {
-            "name" : "Hawaii News Now",
-            "id" : null
-         },
-         "urlToImage" : "https://www.hawaiinewsnow.com/resizer/BTWTBlShssebg_5QaQsrhMwLKVg=/1200x0/cloudfront-us-east-1.images.arcpublishing.com/raycom/JPQQF64HRVBDXEMYGHKTHJODSQ.png",
-         "title" : "'It’s not fair’: Some small businesses say city’s new reopening strategy too restrictive - Hawaii News Now",
          "content" : "I think Hawaii is one of the most restrictive states in the union,\" said James Chun, owner of the Hawaii Wedding Studio. Obviously, its not fair because some people are thriving and others are drowni… [+2252 chars]",
-         "description" : "The city is easing its COVID-19 restrictions Thursday, allowing a host of businesses to reopen. But some small business owners say the rules are still too restrictive.",
+         "publishedAt" : "2020-09-24T03:52:00Z",
+         "title" : "'It’s not fair’: Some small businesses say city’s new reopening strategy too restrictive - Hawaii News Now",
+         "author" : "Rick Daysog",
          "url" : "https://www.hawaiinewsnow.com/2020/09/23/its-not-fair-some-small-businesses-say-citys-new-reopening-strategy-too-restrictive/",
-         "author" : "Rick Daysog"
+         "source" : {
+            "id" : null,
+            "name" : "Hawaii News Now"
+         },
+         "description" : "The city is easing its COVID-19 restrictions Thursday, allowing a host of businesses to reopen. But some small business owners say the rules are still too restrictive.",
+         "urlToImage" : "https://www.hawaiinewsnow.com/resizer/BTWTBlShssebg_5QaQsrhMwLKVg=/1200x0/cloudfront-us-east-1.images.arcpublishing.com/raycom/JPQQF64HRVBDXEMYGHKTHJODSQ.png"
       },
       {
-         "content" : "Tyler Technologies, a software vendor whose products are used to display state and local election results, disclosed a security breach involving its internal phone systems on Wednesday, according to … [+1888 chars]",
-         "publishedAt" : "2020-09-24T02:43:32Z",
+         "urlToImage" : "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/Tyler-Technologies-LOGO.jpg",
+         "description" : "The software company’s website was offline as of Wednesday evening.",
          "source" : {
             "name" : "Fox News",
             "id" : "fox-news"
          },
-         "title" : "Election software firm Tyler Technologies discloses system hack: Report - Fox News",
-         "urlToImage" : "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/Tyler-Technologies-LOGO.jpg",
+         "url" : "https://www.foxnews.com/politics/election-software-vendor-tyler-technologies-hack",
          "author" : "Thomas Barrabi",
-         "description" : "The software company’s website was offline as of Wednesday evening.",
-         "url" : "https://www.foxnews.com/politics/election-software-vendor-tyler-technologies-hack"
+         "title" : "Election software firm Tyler Technologies discloses system hack: Report - Fox News",
+         "publishedAt" : "2020-09-24T02:43:32Z",
+         "content" : "Tyler Technologies, a software vendor whose products are used to display state and local election results, disclosed a security breach involving its internal phone systems on Wednesday, according to … [+1888 chars]"
       },
       {
-         "content" : "Decentralized finance (DeFi) protocols are racing to implement Layer 2 scaling solutions as Ethereum gas fees skyrocket and the network struggles under the demand.\r\nPopular DeFi platforms including U… [+2425 chars]",
          "urlToImage" : "https://s3.eu-central-1.amazonaws.com/s3.cointelegraph.com/uploads/2020-09/e2550722-78b0-4652-9fe9-0f6b5e9c6221.jpg",
-         "title" : "DeFi projects rush towards Layer 2 as Ethereum clogs up - Cointelegraph",
+         "description" : "Decentralized finance (DeFi) protocols are racing to implement Layer 2 scaling solutions as Ethereum gas fees skyrocket and the network struggles under the demand.",
          "source" : {
-            "name" : "Cointelegraph",
-            "id" : null
+            "id" : null,
+            "name" : "Cointelegraph"
          },
-         "publishedAt" : "2020-09-24T01:42:26Z",
-         "author" : "Martin Young",
          "url" : "https://cointelegraph.com/news/defi-projects-rush-towards-layer-2-as-ethereum-clogs-up",
-         "description" : "Decentralized finance (DeFi) protocols are racing to implement Layer 2 scaling solutions as Ethereum gas fees skyrocket and the network struggles under the demand."
+         "author" : "Martin Young",
+         "title" : "DeFi projects rush towards Layer 2 as Ethereum clogs up - Cointelegraph",
+         "publishedAt" : "2020-09-24T01:42:26Z",
+         "content" : "Decentralized finance (DeFi) protocols are racing to implement Layer 2 scaling solutions as Ethereum gas fees skyrocket and the network struggles under the demand.\r\nPopular DeFi platforms including U… [+2425 chars]"
       },
       {
-         "author" : "Khristopher J. Brooks",
-         "description" : "Quantifying the economic impact of racial inequality shows the steep toll it takes on America's growth.",
          "url" : "https://www.cbsnews.com/news/us-gdp-growth-missed-16-trillion-systemic-racism-inequality-report/",
-         "content" : "America could have been $16 trillion richer if not for inequities in education, housing, wages and business investment between Black and White Americans over the past 20 years, new research concludes… [+2574 chars]",
-         "publishedAt" : "2020-09-24T01:09:00Z",
-         "source" : {
-            "name" : "CBS News",
-            "id" : "cbs-news"
-         },
          "urlToImage" : "https://cbsnews2.cbsistatic.com/hub/i/r/2020/09/24/70f65cc0-4017-4d7d-b588-54aa6f9a0cf0/thumbnail/1200x630/b1b4d696321bb5175b2ec6983709050b/gettyimages-1173659469.jpg",
-         "title" : "Racism has cost the U.S. $16 trillion, Citigroup finds - CBS News"
+         "description" : "Quantifying the economic impact of racial inequality shows the steep toll it takes on America's growth.",
+         "source" : {
+            "id" : "cbs-news",
+            "name" : "CBS News"
+         },
+         "content" : "America could have been $16 trillion richer if not for inequities in education, housing, wages and business investment between Black and White Americans over the past 20 years, new research concludes… [+2574 chars]",
+         "author" : "Khristopher J. Brooks",
+         "title" : "Racism has cost the U.S. $16 trillion, Citigroup finds - CBS News",
+         "publishedAt" : "2020-09-24T01:09:00Z"
       },
       {
-         "description" : "CLEVELAND (WJW) — Halloween is just around the corner and while festivities may look a little different this year due to the coronavirus pandemic, some communities are still hosting trick-or-treat. The Ohio Department of Health and Governor Mike DeWine recent…",
          "url" : "https://fox8.com/news/halloween-2020-a-list-of-northeast-ohio-trick-or-treat-times/",
-         "author" : "Natasha Anderson",
-         "publishedAt" : "2020-09-24T00:44:00Z",
          "source" : {
             "name" : "fox8.com",
             "id" : null
          },
          "urlToImage" : "https://fox8.com/wp-content/uploads/sites/12/2020/09/GettyImages-544670588-e1600908161969.jpg?w=1280",
-         "title" : "Halloween 2020: A list of Northeast Ohio trick-or-treat times - WJW FOX 8 News Cleveland",
-         "content" : "CLEVELAND (WJW) Halloween is just around the corner and while festivities may look a little different this year due to the coronavirus pandemic, some communities are still hosting trick-or-treat.\r\nOh… [+7716 chars]"
+         "description" : "CLEVELAND (WJW) — Halloween is just around the corner and while festivities may look a little different this year due to the coronavirus pandemic, some communities are still hosting trick-or-treat. The Ohio Department of Health and Governor Mike DeWine recent…",
+         "content" : "CLEVELAND (WJW) Halloween is just around the corner and while festivities may look a little different this year due to the coronavirus pandemic, some communities are still hosting trick-or-treat.\r\nOh… [+7716 chars]",
+         "publishedAt" : "2020-09-24T00:44:00Z",
+         "author" : "Natasha Anderson",
+         "title" : "Halloween 2020: A list of Northeast Ohio trick-or-treat times - WJW FOX 8 News Cleveland"
       }
-   ],
-   "totalResults" : 70,
-   "status" : "ok"
+   ]
 }
