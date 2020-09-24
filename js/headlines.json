@@ -1,230 +1,230 @@
 {
    "articles" : [
       {
-         "content" : null,
+         "publishedAt" : "2020-09-24T20:07:00Z",
+         "description" : "Mark Cuban is once again pushing the idea that every American household should receive $1,000 bi-weekly stimulus checks for the next two months.",
+         "title" : "Mark Cuban calls for $1,000 stimulus checks every two weeks through November - CNN",
+         "url" : "https://www.cnn.com/2020/09/24/investing/mark-cuban-andrew-yang-stimulus-checks-ubi/index.html",
          "source" : {
             "name" : "CNN",
             "id" : "cnn"
          },
-         "title" : "Mark Cuban calls for $1,000 stimulus checks every two weeks through November - CNN",
+         "content" : null,
          "author" : "Jazmin Goodwin, CNN Business",
-         "publishedAt" : "2020-09-24T20:07:00Z",
-         "url" : "https://www.cnn.com/2020/09/24/investing/mark-cuban-andrew-yang-stimulus-checks-ubi/index.html",
-         "description" : "Mark Cuban is once again pushing the idea that every American household should receive $1,000 bi-weekly stimulus checks for the next two months.",
          "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200924153743-mark-cuban-file-restricted-super-tease.jpg"
       },
       {
+         "author" : null,
+         "urlToImage" : null,
          "content" : null,
          "source" : {
             "name" : "Google News",
             "id" : "google-news"
          },
-         "title" : "Panasonic and CATL Respond to Tesla Battery Day, LG Chem Declines to Comment - Torque News",
-         "author" : null,
          "publishedAt" : "2020-09-24T18:54:31Z",
-         "url" : "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9LWwzbVZjQ0lJOTDSAQA?oc=5",
          "description" : null,
-         "urlToImage" : null
+         "title" : "Panasonic and CATL Respond to Tesla Battery Day, LG Chem Declines to Comment - Torque News",
+         "url" : "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9LWwzbVZjQ0lJOTDSAQA?oc=5"
       },
       {
-         "title" : "Metro-North workers had a hidden 'man cave’ under Grand Central where they napped, drank beer and watched TV, watchdog says - The Washington Post",
-         "author" : "Katherine Shaver",
          "source" : {
             "name" : "The Washington Post",
             "id" : "the-washington-post"
          },
-         "url" : "https://www.washingtonpost.com/transportation/2020/09/24/mta-workers-mancave/",
-         "publishedAt" : "2020-09-24T18:53:00Z",
-         "content" : "The inspector generals office for the Metropolitan Transportation Authority discovered the room in August 2019 after receiving an anonymous tip that workers were going there to hang out and get drunk… [+1979 chars]",
          "description" : "The inspector general’s office for the Metropolitan Transportation Authority discovered the room in August 2019 after receiving an anonymous tip that workers were going there to “hang out and get drunk and party,” the agency watchdog said Thursday.",
-         "urlToImage" : "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AHK6ARX6PMI6VMHEGUHE4YGMSE.jpg&w=1440"
+         "publishedAt" : "2020-09-24T18:53:00Z",
+         "url" : "https://www.washingtonpost.com/transportation/2020/09/24/mta-workers-mancave/",
+         "title" : "Metro-North workers had a hidden 'man cave’ under Grand Central where they napped, drank beer and watched TV, watchdog says - The Washington Post",
+         "urlToImage" : "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AHK6ARX6PMI6VMHEGUHE4YGMSE.jpg&w=1440",
+         "author" : "Katherine Shaver",
+         "content" : "The inspector generals office for the Metropolitan Transportation Authority discovered the room in August 2019 after receiving an anonymous tip that workers were going there to hang out and get drunk… [+1979 chars]"
       },
       {
-         "content" : null,
-         "author" : "Francesca Giuliani-Hoffman, CNN",
          "title" : "The strange case of the man who died after eating too much licorice - CNN",
+         "url" : "https://www.cnn.com/2020/09/24/us/man-dies-eating-too-much-licorice-trnd/index.html",
+         "description" : "It's hard to exercise restraint when eating candy. For licorice lovers, indulging sparingly could actually be lifesaving.",
+         "publishedAt" : "2020-09-24T18:36:00Z",
          "source" : {
             "name" : "CNN",
             "id" : "cnn"
          },
-         "publishedAt" : "2020-09-24T18:36:00Z",
-         "url" : "https://www.cnn.com/2020/09/24/us/man-dies-eating-too-much-licorice-trnd/index.html",
-         "description" : "It's hard to exercise restraint when eating candy. For licorice lovers, indulging sparingly could actually be lifesaving.",
-         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/171031132927-01-black-licorice-stock-super-tease.jpg"
+         "content" : null,
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/171031132927-01-black-licorice-stock-super-tease.jpg",
+         "author" : "Francesca Giuliani-Hoffman, CNN"
       },
       {
-         "description" : "Nikola shares tumbled Thursday to a record low since the company's public debut in early June after Wedbush downgraded the electric truck maker's stock to underperform from neutral.",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106703085-16001809550062019-12-03T000000Z-236085758-RC2OND9550C0-RTRMADP-3-CNH-INDUSTRIAL-NIKOLA-JPG?v=1600181095",
-         "content" : "Trevor Milton CEO of Nikola\r\nNikola shares tumbled Thursday to a record low since the company's public debut in early June after Wedbush downgraded the electric truck maker's stock to underperform fr… [+2138 chars]",
-         "author" : "Michael Wayland",
          "title" : "Nikola shares fall to new low on Wedbush downgrade, analyst says stock too risky to own - CNBC",
+         "url" : "https://www.cnbc.com/2020/09/24/nikola-shares-fall-to-new-low-on-wedbush-downgrade.html",
+         "publishedAt" : "2020-09-24T18:32:00Z",
+         "description" : "Nikola shares tumbled Thursday to a record low since the company's public debut in early June after Wedbush downgraded the electric truck maker's stock to underperform from neutral.",
          "source" : {
             "id" : null,
             "name" : "CNBC"
          },
-         "publishedAt" : "2020-09-24T18:32:00Z",
-         "url" : "https://www.cnbc.com/2020/09/24/nikola-shares-fall-to-new-low-on-wedbush-downgrade.html"
+         "content" : "Trevor Milton CEO of Nikola\r\nNikola shares tumbled Thursday to a record low since the company's public debut in early June after Wedbush downgraded the electric truck maker's stock to underperform fr… [+2138 chars]",
+         "author" : "Michael Wayland",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106703085-16001809550062019-12-03T000000Z-236085758-RC2OND9550C0-RTRMADP-3-CNH-INDUSTRIAL-NIKOLA-JPG?v=1600181095"
       },
       {
-         "description" : "Holiday savings will start earlier than ever this year.",
+         "author" : "Isabel Garcia",
          "urlToImage" : "https://s.yimg.com/uu/api/res/1.2/I9yZr0s4.H4X54esbkc0dg--~B/aD03MjA7dz0xNDQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/house_beautiful_336/cbbbf064d11b23b7ac20d3bf82d27391",
          "content" : "COVID-19 has changed almost every aspect of our day-to-day lives, and for lovers of fashion  who rely on the endorphin hit that comes from discovering, coveting, and showcasing new duds  2020 can fee… [+18524 chars]",
          "source" : {
-            "id" : null,
-            "name" : "HouseBeautiful.com"
-         },
-         "author" : "Isabel Garcia",
-         "title" : "Walmart Announces an \"All-New Black Friday Experience\"—Here’s What to Expect - Yahoo Lifestyle",
-         "publishedAt" : "2020-09-24T18:21:00Z",
-         "url" : "https://www.housebeautiful.com/lifestyle/a34147218/walmart-black-friday-2020/"
-      },
-      {
-         "url" : "https://www.newser.com/story/296611/bet-you-didnt-expect-halloween-candy-to-sell-like-this.html",
-         "publishedAt" : "2020-09-24T18:20:00Z",
-         "source" : {
-            "name" : "Newser",
+            "name" : "HouseBeautiful.com",
             "id" : null
          },
-         "author" : "Arden Dier",
-         "title" : "Bet You Didn't Expect Halloween Candy to Sell Like This - Newser",
+         "title" : "Walmart Announces an \"All-New Black Friday Experience\"—Here’s What to Expect - Yahoo Lifestyle",
+         "url" : "https://www.housebeautiful.com/lifestyle/a34147218/walmart-black-friday-2020/",
+         "publishedAt" : "2020-09-24T18:21:00Z",
+         "description" : "Holiday savings will start earlier than ever this year."
+      },
+      {
          "content" : "(Newser)\r\nThe pandemic has apparently left Americans seeking comfort in chocolate because Halloween candy sales have spiked this year. Sales of seasonal chocolate and candy in the month ending Sept. … [+1340 chars]",
+         "author" : "Arden Dier",
          "urlToImage" : "https://img2-azrcdn.newser.com/image/1321199-12-20200924132849.jpeg",
-         "description" : "Early sales are up double-digits from last year despite pandemic"
+         "url" : "https://www.newser.com/story/296611/bet-you-didnt-expect-halloween-candy-to-sell-like-this.html",
+         "title" : "Bet You Didn't Expect Halloween Candy to Sell Like This - Newser",
+         "publishedAt" : "2020-09-24T18:20:00Z",
+         "description" : "Early sales are up double-digits from last year despite pandemic",
+         "source" : {
+            "id" : null,
+            "name" : "Newser"
+         }
       },
       {
          "source" : {
             "name" : "CNBC",
             "id" : null
          },
-         "author" : "Jennifer Elias",
-         "title" : "Google will help employees pay off student loans amid 'debt crisis' - CNBC",
-         "url" : "https://www.cnbc.com/2020/09/24/google-will-help-employees-pay-off-student-loans-amid-debt-crisis.html",
-         "publishedAt" : "2020-09-24T18:20:00Z",
-         "content" : "Google's latest employee perk to attract talent is help with student loans.\r\nStarting in 2021, Google will match up to $2,500 per full-time employee per year toward their student loan payments, John … [+1953 chars]",
          "description" : "Google on Thursday announced a new perk for employees: contributing up to $2,500 toward paying off student loans.",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/103647273-GettyImages-532148644_copy.jpg?v=1535597757"
+         "publishedAt" : "2020-09-24T18:20:00Z",
+         "url" : "https://www.cnbc.com/2020/09/24/google-will-help-employees-pay-off-student-loans-amid-debt-crisis.html",
+         "title" : "Google will help employees pay off student loans amid 'debt crisis' - CNBC",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/103647273-GettyImages-532148644_copy.jpg?v=1535597757",
+         "author" : "Jennifer Elias",
+         "content" : "Google's latest employee perk to attract talent is help with student loans.\r\nStarting in 2021, Google will match up to $2,500 per full-time employee per year toward their student loan payments, John … [+1953 chars]"
       },
       {
-         "description" : "",
-         "urlToImage" : "https://s.wsj.net/public/resources/MWimages/MW-GP644_MicroS_ZG_20180906154215.jpg",
          "author" : "MarketWatch Automation",
-         "title" : "Goldman Sachs, Apple Inc. share gains lead Dow's 286-point rally - MarketWatch",
+         "urlToImage" : "https://s.wsj.net/public/resources/MWimages/MW-GP644_MicroS_ZG_20180906154215.jpg",
+         "content" : "The Dow Jones Industrial Average is rallying Thursday afternoon with shares of Goldman Sachs and Apple Inc. seeing positive growth for the blue-chip average. Shares of Goldman Sachs \r\n GS, \r\n +4.83%\r… [+704 chars]",
          "source" : {
             "name" : "MarketWatch",
             "id" : null
          },
          "publishedAt" : "2020-09-24T17:49:00Z",
+         "description" : "",
          "url" : "https://www.marketwatch.com/story/goldman-sachs-apple-inc-share-gains-lead-dows-286-point-rally-2020-09-24",
-         "content" : "The Dow Jones Industrial Average is rallying Thursday afternoon with shares of Goldman Sachs and Apple Inc. seeing positive growth for the blue-chip average. Shares of Goldman Sachs \r\n GS, \r\n +4.83%\r… [+704 chars]"
+         "title" : "Goldman Sachs, Apple Inc. share gains lead Dow's 286-point rally - MarketWatch"
       },
       {
-         "description" : "Ring is building a dashcam and car alarm to protect your ride.",
+         "author" : "",
          "urlToImage" : "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-09%2Fea68b2f0-fda6-11ea-b39e-744fcac192fa&client=amp-blogside-v2&signature=3953c4a833553a0bec4afbd5bf80cd14711d98ac",
+         "content" : "The Car Cam won’t simply keep watch over your car while it’s parked on your driveway, or on the side of the road at home. When you’re driving around, you can use it as a dash cam, and Emergency Crash… [+1140 chars]",
          "source" : {
             "name" : "Engadget",
             "id" : "engadget"
          },
-         "author" : "",
-         "title" : "Ring announces a security camera and alarm for your car - Engadget",
          "publishedAt" : "2020-09-24T17:31:36Z",
-         "url" : "https://www.engadget.com/ring-car-alarm-camera-173134090.html",
-         "content" : "The Car Cam won’t simply keep watch over your car while it’s parked on your driveway, or on the side of the road at home. When you’re driving around, you can use it as a dash cam, and Emergency Crash… [+1140 chars]"
+         "description" : "Ring is building a dashcam and car alarm to protect your ride.",
+         "title" : "Ring announces a security camera and alarm for your car - Engadget",
+         "url" : "https://www.engadget.com/ring-car-alarm-camera-173134090.html"
       },
       {
-         "publishedAt" : "2020-09-24T17:20:00Z",
+         "content" : "The Dow Jones Industrial Average rose more than 250 points after erasing a 225-point loss Thursday midday. Dow Jones leader Apple and Tesla snapped back from sharp losses. Nikola plunged another 23% … [+5961 chars]",
+         "urlToImage" : "https://www.investors.com/wp-content/uploads/2020/03/stock-bulls-bears-red-01-adobe.jpg",
+         "author" : "Investor's Business Daily",
+         "title" : "Dow Jones Jumps 250 Points, As Apple, Tesla Snap Back; Nikola Plummets 23% On Downgrade - Investor's Business Daily",
          "url" : "https://www.investors.com/market-trend/stock-market-today/dow-jones-stock-market-sell-off-apple-tesla-nikola-stock-downgrade-jobless-claims/",
+         "description" : "The Dow Jones Industrial Average jumped more than 250 points Thursday, as Apple and Tesla snapped back. Nikola plunged 23% on a downgrade.",
+         "publishedAt" : "2020-09-24T17:20:00Z",
          "source" : {
             "name" : "Investor's Business Daily",
             "id" : null
-         },
-         "title" : "Dow Jones Jumps 250 Points, As Apple, Tesla Snap Back; Nikola Plummets 23% On Downgrade - Investor's Business Daily",
-         "author" : "Investor's Business Daily",
-         "content" : "The Dow Jones Industrial Average rose more than 250 points after erasing a 225-point loss Thursday midday. Dow Jones leader Apple and Tesla snapped back from sharp losses. Nikola plunged another 23% … [+5961 chars]",
-         "urlToImage" : "https://www.investors.com/wp-content/uploads/2020/03/stock-bulls-bears-red-01-adobe.jpg",
-         "description" : "The Dow Jones Industrial Average jumped more than 250 points Thursday, as Apple and Tesla snapped back. Nikola plunged 23% on a downgrade."
+         }
       },
       {
+         "source" : {
+            "name" : "BBC News",
+            "id" : null
+         },
+         "title" : "Rishi Sunak defends emergency jobs scheme - BBC News",
+         "url" : "https://www.bbc.com/news/business-54285950",
          "description" : "Wages will be topped up for six months, but chancellor says it is \"impossible\" to say how many jobs will be saved.",
+         "publishedAt" : "2020-09-24T17:03:45Z",
          "urlToImage" : "https://ichef.bbci.co.uk/images/ic/1024x576/p08sfgyg.jpg",
          "author" : "https://www.facebook.com/bbcnews",
-         "title" : "Rishi Sunak defends emergency jobs scheme - BBC News",
-         "source" : {
-            "id" : null,
-            "name" : "BBC News"
-         },
-         "publishedAt" : "2020-09-24T17:03:45Z",
-         "url" : "https://www.bbc.com/news/business-54285950",
          "content" : "Media captionChancellor Rishi Sunak: \"It's not for me to... make pronouncements on what job is viable or not\"\r\nChancellor Rishi Sunak has said it is \"impossible\" to predict how many jobs the governme… [+8240 chars]"
       },
       {
+         "title" : "Why Carnival, Royal Caribbean, and Norwegian Cruise Line Holdings Stocks Are All Sinking Thursday - Motley Fool",
+         "url" : "https://www.fool.com/investing/2020/09/24/why-carnival-corporation-royal-caribbean-and-norwe/",
+         "publishedAt" : "2020-09-24T16:49:00Z",
          "description" : "Cruise stocks are sailing into choppy macroeconomic and political waters.",
-         "urlToImage" : "https://g.foolcdn.com/editorial/images/592843/chalboard-drawing-of-arrow-going-down-labeled-down.jpg",
          "source" : {
             "name" : "Motley Fool",
             "id" : null
          },
+         "content" : "What happened\r\nIt's another bad day for investors in Carnival (NYSE:CCL)(NYSE:CUK), Royal Caribbean(NYSE:RCL), and Norwegian Cruise Line Holdings(NASDAQ:NCLH). In Thursday trading, the three major cr… [+1603 chars]",
          "author" : "Rich Smith",
-         "title" : "Why Carnival, Royal Caribbean, and Norwegian Cruise Line Holdings Stocks Are All Sinking Thursday - Motley Fool",
-         "url" : "https://www.fool.com/investing/2020/09/24/why-carnival-corporation-royal-caribbean-and-norwe/",
-         "publishedAt" : "2020-09-24T16:49:00Z",
-         "content" : "What happened\r\nIt's another bad day for investors in Carnival (NYSE:CCL)(NYSE:CUK), Royal Caribbean(NYSE:RCL), and Norwegian Cruise Line Holdings(NASDAQ:NCLH). In Thursday trading, the three major cr… [+1603 chars]"
+         "urlToImage" : "https://g.foolcdn.com/editorial/images/592843/chalboard-drawing-of-arrow-going-down-labeled-down.jpg"
       },
       {
-         "publishedAt" : "2020-09-24T16:42:00Z",
-         "url" : "https://www.nbcnews.com/tech/security/software-provider-u-s-counties-says-it-was-hacked-n1240953",
-         "author" : "Kevin Collier",
-         "title" : "A software provider to U.S. counties says it was hacked - NBC News",
-         "source" : {
-            "name" : "NBC News",
-            "id" : "nbc-news"
-         },
-         "content" : "A major software supplier to U.S. city and county governments has been hacked, the company said in an email to government clients.\r\nThe Plano, Texas-based Tyler Technologies, which provides software … [+3358 chars]",
          "urlToImage" : "https://media2.s-nbcnews.com/j/newscms/2020_39/3414653/200924-tyler-technologies-sign-ew-1224p_90a40f70cd892cb9624e12836f5221f1.nbcnews-fp-1200-630.jpg",
-         "description" : "A major software supplier to U.S. city and county governments has been hacked, the company said in an email to government clients."
-      },
-      {
-         "description" : "A power pole that was set on fire caused Cox internet customers in north Phoenix to lose internet service starting Wednesday afternoon and continuing into Thursday.",
-         "urlToImage" : "https://bloximages.newyork1.vip.townnews.com/azfamily.com/content/tncms/assets/v3/editorial/c/ef/cefb64c3-a06d-5096-96e1-a94062a8e167/5f6cd8384c31c.image.png?resize=1120%2C630",
-         "title" : "Power pole arson causes major internet outage for Cox customers in north Phoenix - AZFamily",
-         "author" : "Laura  Lollman",
+         "author" : "Kevin Collier",
+         "content" : "A major software supplier to U.S. city and county governments has been hacked, the company said in an email to government clients.\r\nThe Plano, Texas-based Tyler Technologies, which provides software … [+3358 chars]",
          "source" : {
-            "name" : "AZFamily",
-            "id" : null
+            "id" : "nbc-news",
+            "name" : "NBC News"
          },
-         "publishedAt" : "2020-09-24T16:41:24Z",
-         "url" : "https://www.azfamily.com/news/power-pole-arson-causes-major-internet-outage-for-cox-customers-in-north-phoenix/article_9b699a52-fe73-11ea-b6b6-a74c606e5175.html",
-         "content" : "PHOENIX (3TV/CBS 5) -- A power pole that was set on fire caused Cox internet customers in north Phoenix to lose internet service starting Wednesday afternoon and continuing into Thursday.\r\nAccording … [+1118 chars]"
+         "url" : "https://www.nbcnews.com/tech/security/software-provider-u-s-counties-says-it-was-hacked-n1240953",
+         "title" : "A software provider to U.S. counties says it was hacked - NBC News",
+         "description" : "A major software supplier to U.S. city and county governments has been hacked, the company said in an email to government clients.",
+         "publishedAt" : "2020-09-24T16:42:00Z"
       },
       {
-         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200224095740-warren-buffett-0918-file-super-tease.jpg",
+         "author" : "Laura  Lollman",
+         "urlToImage" : "https://bloximages.newyork1.vip.townnews.com/azfamily.com/content/tncms/assets/v3/editorial/c/ef/cefb64c3-a06d-5096-96e1-a94062a8e167/5f6cd8384c31c.image.png?resize=1120%2C630",
+         "content" : "PHOENIX (3TV/CBS 5) -- A power pole that was set on fire caused Cox internet customers in north Phoenix to lose internet service starting Wednesday afternoon and continuing into Thursday.\r\nAccording … [+1118 chars]",
+         "source" : {
+            "id" : null,
+            "name" : "AZFamily"
+         },
+         "title" : "Power pole arson causes major internet outage for Cox customers in north Phoenix - AZFamily",
+         "url" : "https://www.azfamily.com/news/power-pole-arson-causes-major-internet-outage-for-cox-customers-in-north-phoenix/article_9b699a52-fe73-11ea-b6b6-a74c606e5175.html",
+         "publishedAt" : "2020-09-24T16:41:24Z",
+         "description" : "A power pole that was set on fire caused Cox internet customers in north Phoenix to lose internet service starting Wednesday afternoon and continuing into Thursday."
+      },
+      {
          "description" : "Juicy true-crime stories are hot right now, and Warren Buffett wants in.",
-         "content" : null,
          "publishedAt" : "2020-09-24T15:55:00Z",
          "url" : "https://www.cnn.com/2020/09/24/investing/berkshire-hathaway-ew-scripps-ion/index.html",
+         "title" : "Buffett's Berkshire backs Scripps deal to buy ION for $2.7 billion - CNN",
          "source" : {
             "name" : "CNN",
             "id" : "cnn"
          },
-         "author" : "Paul R. La Monica, CNN Business",
-         "title" : "Buffett's Berkshire backs Scripps deal to buy ION for $2.7 billion - CNN"
+         "content" : null,
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200224095740-warren-buffett-0918-file-super-tease.jpg",
+         "author" : "Paul R. La Monica, CNN Business"
       },
       {
+         "content" : "During a typical year, Olive Garden's Times Square restaurant rakes in $15 million in sales.\r\nBut the coronavirus pandemic and local restrictions on dining have wiped out the business of the chain's … [+1469 chars]",
          "urlToImage" : "https://image.cnbcfm.com/api/v1/image/103152497-IMG_8311-1.jpg?v=1600957473",
-         "description" : "The coronavirus pandemic has hit Olive Garden's Times Square location hard, leading it to miss out on $300,000 in sales every week.",
-         "url" : "https://www.cnbc.com/2020/09/24/pandemic-slashes-sales-at-olive-gardens-times-square-location-by-94percent.html",
-         "publishedAt" : "2020-09-24T15:26:00Z",
-         "title" : "Pandemic slashes sales at Olive Garden's Times Square location by 94% - CNBC",
          "author" : "Amelia Lucas",
+         "title" : "Pandemic slashes sales at Olive Garden's Times Square location by 94% - CNBC",
+         "url" : "https://www.cnbc.com/2020/09/24/pandemic-slashes-sales-at-olive-gardens-times-square-location-by-94percent.html",
+         "description" : "The coronavirus pandemic has hit Olive Garden's Times Square location hard, leading it to miss out on $300,000 in sales every week.",
+         "publishedAt" : "2020-09-24T15:26:00Z",
          "source" : {
             "id" : null,
             "name" : "CNBC"
-         },
-         "content" : "During a typical year, Olive Garden's Times Square restaurant rakes in $15 million in sales.\r\nBut the coronavirus pandemic and local restrictions on dining have wiped out the business of the chain's … [+1469 chars]"
+         }
       },
       {
+         "description" : "It seems as though Acura is starting to reclaim some of the sporty-casual lux energy that made the brand appealing originally. Like early Acuras, the 2021 TLX isn’t radical but it is nice looking, nice to drive and a lot of car for what it costs.",
          "publishedAt" : "2020-09-24T15:10:00Z",
          "url" : "https://jalopnik.com/the-2021-acura-tlx-is-an-incredible-stereo-with-a-damn-1845152841",
-         "author" : "Rory Carroll and Andrew P Collins",
          "title" : "The 2021 Acura TLX Is An Incredible Stereo With A Damn Decent Car Attached - Jalopnik",
          "source" : {
             "id" : null,
@@ -232,33 +232,33 @@
          },
          "content" : "It seems as though Acura is starting to reclaim some of the sporty-casual lux energy that made the brand appealing originally. Like early Acuras, the 2021 TLX isnt radical but it is nice looking, nic… [+10625 chars]",
          "urlToImage" : "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/ykwz4hvvqm7zt2xxyfhw.jpg",
-         "description" : "It seems as though Acura is starting to reclaim some of the sporty-casual lux energy that made the brand appealing originally. Like early Acuras, the 2021 TLX isn’t radical but it is nice looking, nice to drive and a lot of car for what it costs."
+         "author" : "Rory Carroll and Andrew P Collins"
       },
       {
-         "content" : "Square Inc. seems to be following the same playbook with its consumer-facing Cash App that it did with its merchant-oriented card-processing business, and thats one reason to be upbeat about its stoc… [+2092 chars]",
-         "title" : "Square stock gets an upgrade as Cash App enthusiasm keeps growing - MarketWatch",
-         "author" : "Emily Bary",
-         "source" : {
-            "name" : "MarketWatch",
-            "id" : null
-         },
-         "publishedAt" : "2020-09-24T15:10:00Z",
-         "url" : "https://www.marketwatch.com/story/square-stock-gets-an-upgrade-as-cash-app-enthusiasm-keeps-growing-11600960214",
-         "description" : "Analysts say Square has a smart monetization strategy and an advantage over the big banks",
-         "urlToImage" : "https://images.mktw.net/im-236039/social"
-      },
-      {
-         "publishedAt" : "2020-09-24T15:01:00Z",
-         "url" : "https://www.thedailybeast.com/trump-data-guru-disqualified-for-shady-campaign-tactics",
          "source" : {
             "id" : null,
-            "name" : "Daily Beast"
+            "name" : "MarketWatch"
          },
-         "author" : "Jamie Ross",
+         "description" : "Analysts say Square has a smart monetization strategy and an advantage over the big banks",
+         "publishedAt" : "2020-09-24T15:10:00Z",
+         "title" : "Square stock gets an upgrade as Cash App enthusiasm keeps growing - MarketWatch",
+         "url" : "https://www.marketwatch.com/story/square-stock-gets-an-upgrade-as-cash-app-enthusiasm-keeps-growing-11600960214",
+         "urlToImage" : "https://images.mktw.net/im-236039/social",
+         "author" : "Emily Bary",
+         "content" : "Square Inc. seems to be following the same playbook with its consumer-facing Cash App that it did with its merchant-oriented card-processing business, and thats one reason to be upbeat about its stoc… [+2092 chars]"
+      },
+      {
+         "source" : {
+            "name" : "Daily Beast",
+            "id" : null
+         },
+         "description" : "It’s the final humiliation for the former Cambridge Analytica boss whose fall from grace began when he was caught bragging that his company was to thank for President Trump.",
+         "publishedAt" : "2020-09-24T15:01:00Z",
+         "url" : "https://www.thedailybeast.com/trump-data-guru-disqualified-for-shady-campaign-tactics",
          "title" : "Trump Data Guru Officially Disqualified Over 'Shady' Campaign Tactics - The Daily Beast",
-         "content" : "LONDONAlexander Nix, the man who was running Cambridge Analytica when it harvested the Facebook data of tens of millions voters without their knowledge so it could be exploited by the Trump 2016 camp… [+2949 chars]",
          "urlToImage" : "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_2369,w_4212,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1600954559/2018-03-20T103931Z_1961290335_RC1F2E5FD3B0_RTRMADP_3_FACEBOOK-CAMBRIDGE-ANALYTICA_ynuspy",
-         "description" : "It’s the final humiliation for the former Cambridge Analytica boss whose fall from grace began when he was caught bragging that his company was to thank for President Trump."
+         "author" : "Jamie Ross",
+         "content" : "LONDONAlexander Nix, the man who was running Cambridge Analytica when it harvested the Facebook data of tens of millions voters without their knowledge so it could be exploited by the Trump 2016 camp… [+2949 chars]"
       }
    ],
    "status" : "ok",
