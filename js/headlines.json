@@ -3,264 +3,264 @@
    "totalResults" : 70,
    "articles" : [
       {
-         "publishedAt" : "2020-09-24T23:39:00Z",
-         "author" : "Maureen Farrell, Corrie Driebusch, Eliot Brown",
-         "url" : "https://www.wsj.com/articles/palantir-expected-to-be-valued-at-nearly-22-billion-in-trading-debut-11600990739",
+         "author" : "https://www.facebook.com/bbcnews",
+         "urlToImage" : "https://ichef.bbci.co.uk/news/1024/branded_news/41DB/production/_114595861_harley.jpg",
+         "url" : "https://www.bbc.com/news/business-54290245",
+         "content" : "Image copyrightGetty ImagesImage caption\r\n Actor Jesse Metcalfe riding a Harley Davidson\r\nHarley-Davidson is pulling out of India, the world's biggest motorcycle market.\r\nThe iconic US motorcycle mak… [+2097 chars]",
+         "source" : {
+            "id" : null,
+            "name" : "BBC News"
+         },
+         "publishedAt" : "2020-09-25T01:17:02Z",
+         "title" : "Harley-Davidson to exit world's biggest bike market - BBC News",
+         "description" : "The iconic motorcycle company is pulling out of India as it struggles to sell its two-wheelers."
+      },
+      {
+         "description" : "Tesla (NASDAQ: TSLA) Battery Day skeptics sat around and looked at the negatives, according to Jim Cramer. Ignoring the positives of the event altogether, the critics who said the company event was a failure are not looking at the right things, and they’re ju…",
+         "title" : "Tesla Battery Day skeptics are “bummed that what they hyped didn’t happen,” Cramer says - Teslarati",
+         "publishedAt" : "2020-09-25T00:56:15Z",
+         "source" : {
+            "name" : "Teslarati",
+            "id" : null
+         },
+         "content" : "Tesla (NASDAQ: TSLA) Battery Day skeptics sat around and looked at the negatives, according to Jim Cramer. Ignoring the positives of the event altogether, the critics who said the company event was a… [+2671 chars]",
+         "url" : "https://www.teslarati.com/tesla-jim-cramer-battery-day-skeptics-bummed-video/",
+         "urlToImage" : "https://www.teslarati.com/wp-content/uploads/2020/09/tesla-jim-cramer-battery-day-skeptics-bummed-1024x502.png",
+         "author" : "Joey Klender"
+      },
+      {
+         "title" : "Tampa International Airport, a perennial favorite, now ranks America’s second best - Tampa Bay Times",
+         "publishedAt" : "2020-09-25T00:16:44Z",
+         "description" : "J.D. Power’s annual airport satisfaction survey once again places Tampa in its top five.",
+         "content" : "Its been a brutal year for the air travel industry, but Tampa International Airport just got a bit of good news.\r\nThe hub was named the second-best large airport in America in J.D. Powers annual airp… [+2695 chars]",
+         "url" : "https://www.tampabay.com/news/business/2020/09/24/tampa-international-airport-a-perennial-favorite-now-ranks-americas-second-best/",
+         "source" : {
+            "id" : null,
+            "name" : "Tampa Bay Times"
+         },
+         "author" : "Jay Cridlin",
+         "urlToImage" : "https://www.tampabay.com/resizer/xuOfryFrjItrI5D054xlChnTaEk=/800x450/smart/cloudfront-us-east-1.images.arcpublishing.com/tbt/46MHHBSKR5GCJGMAKYCW3UCYWE.JPG"
+      },
+      {
+         "author" : "Lauren Goode",
+         "urlToImage" : "https://media.wired.com/photos/5f6d2498eeb71fb09967e5ef/191:100/w_1280,c_limit/Amazon-Flying-Camera-01.jpg",
+         "publishedAt" : "2020-09-25T00:14:00Z",
+         "title" : "The Ring Always Home Cam Flies Around Inside Your House - WIRED",
+         "description" : "Look at this freaking drone.",
+         "url" : "https://www.wired.com/story/ring-always-home-cam/",
+         "content" : "Tech product launches in the year of 2020 involve a kind of perspective whiplash that makes it more difficult than usual to decide whether or not you really need the thing.\r\nTheres the consideration … [+2985 chars]",
+         "source" : {
+            "id" : "wired",
+            "name" : "Wired"
+         }
+      },
+      {
+         "description" : "The Infiniti QX60 Monograph prototype debuted today, giving the world a look what the next-generation three-row crossover might look like in 2022 or 2023.",
+         "title" : "First Look: We Get Cozy With The Next-Gen Infiniti QX60 Monograph Prototype - Motor1 ",
+         "publishedAt" : "2020-09-25T00:00:16Z",
+         "source" : {
+            "id" : null,
+            "name" : "Motor1 "
+         },
+         "content" : "The current Infiniti QX60 three-row SUV is an important product, selling more examples each year than any of the brands other models. But in terms of driving enthusiasm, its something of a stuffed sh… [+6485 chars]",
+         "url" : "https://www.motor1.com/news/445714/infiniti-qx60-monograph-first-look/",
+         "urlToImage" : "https://cdn.motor1.com/images/mgl/yMGZm/s1/infiniti-qx60-monograph-prototype.jpg",
+         "author" : "Brett T. Evans"
+      },
+      {
+         "content" : null,
+         "url" : "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9RGxjQjU0UDN2TjTSAQA?oc=5",
+         "source" : {
+            "name" : "Google News",
+            "id" : "google-news"
+         },
+         "title" : "MTA Employees Busted for Grand Central Terminal 'Man Cave' | NBC New York - NBC New York",
+         "publishedAt" : "2020-09-24T23:52:59Z",
+         "description" : null,
+         "author" : null,
+         "urlToImage" : null
+      },
+      {
          "urlToImage" : "https://images.wsj.net/im-231822/social",
+         "author" : "Maureen Farrell, Corrie Driebusch, Eliot Brown",
          "source" : {
             "id" : "the-wall-street-journal",
             "name" : "The Wall Street Journal"
          },
-         "title" : "Palantir Expected to Be Valued at Nearly $22 Billion in Trading Debut - The Wall Street Journal",
+         "url" : "https://www.wsj.com/articles/palantir-expected-to-be-valued-at-nearly-22-billion-in-trading-debut-11600990739",
+         "content" : "Palantir Technologies Inc. is expected to fetch a lofty valuation in its transition to a public company despite an unusually aggressive governance structure, in the latest sign of investors voracious… [+335 chars]",
          "description" : "Bankers have told investors stock could start trading at around $10, sources say",
-         "content" : "Palantir Technologies Inc. is expected to fetch a lofty valuation in its transition to a public company despite an unusually aggressive governance structure, in the latest sign of investors voracious… [+335 chars]"
+         "publishedAt" : "2020-09-24T23:39:00Z",
+         "title" : "Palantir Expected to Be Valued at Nearly $22 Billion in Trading Debut - The Wall Street Journal"
       },
       {
-         "publishedAt" : "2020-09-24T23:11:46Z",
-         "author" : null,
-         "url" : "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9Y2RTQUp5SWdtZEnSAQA?oc=5",
-         "urlToImage" : null,
-         "description" : null,
-         "title" : "Jim Cramer breaks down Nvidia's acquisition of Arm and the potential upside for investors - CNBC Television",
          "source" : {
-            "name" : "Google News",
-            "id" : "google-news"
+            "id" : "google-news",
+            "name" : "Google News"
          },
-         "content" : null
+         "url" : "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9Y2RTQUp5SWdtZEnSAQA?oc=5",
+         "content" : null,
+         "description" : null,
+         "publishedAt" : "2020-09-24T23:11:46Z",
+         "title" : "Jim Cramer breaks down Nvidia's acquisition of Arm and the potential upside for investors - CNBC Television",
+         "urlToImage" : null,
+         "author" : null
       },
       {
-         "urlToImage" : "https://images.mktw.net/im-235883/social",
+         "description" : "Chinese financial-technology juggernaut, known for its Alipay ‘ ubiquitous super app,’ handles payments, insurance, investments and more",
+         "publishedAt" : "2020-09-24T23:09:00Z",
+         "title" : "Ant Group IPO: Five things to know about the Alibaba affiliate aiming for the largest offering in history - MarketWatch",
          "source" : {
             "name" : "MarketWatch",
             "id" : null
          },
-         "title" : "Ant Group IPO: Five things to know about the Alibaba affiliate aiming for the largest offering in history - MarketWatch",
-         "description" : "Chinese financial-technology juggernaut, known for its Alipay ‘ ubiquitous super app,’ handles payments, insurance, investments and more",
+         "url" : "https://www.marketwatch.com/story/ant-group-ipo-five-things-to-know-about-the-alibaba-affiliate-aiming-for-the-largest-offering-in-history-11600988986",
          "content" : "Ant Group could be headed for the largest initial public offering in history, as the Chinese financial-technology juggernaut chases a valuation that would rival the biggest payments companies in the … [+7299 chars]",
-         "publishedAt" : "2020-09-24T23:09:00Z",
-         "author" : "Emily Bary",
-         "url" : "https://www.marketwatch.com/story/ant-group-ipo-five-things-to-know-about-the-alibaba-affiliate-aiming-for-the-largest-offering-in-history-11600988986"
+         "urlToImage" : "https://images.mktw.net/im-235883/social",
+         "author" : "Emily Bary"
       },
       {
-         "description" : "Police in Vietnam have confiscated an estimated 345,000 used condoms which had been cleaned and resold as new, state media reported.",
-         "title" : "Vietnam police seize 345,000 used condoms that were cleaned and sold as new - KABC-TV",
+         "author" : "Sadë Mills",
+         "urlToImage" : "http://static-10.sinclairstoryline.com/resources/media/7e9f98ba-3724-451d-8597-bcc00567d28c-large16x9_thumb_18977.png?1600987629359",
+         "content" : null,
+         "url" : "http://news3lv.com/news/local/uber-starts-mandatory-mask-verification-for-riders",
          "source" : {
-            "name" : "KABC-TV",
+            "name" : "News3LV",
             "id" : null
          },
-         "content" : "Police in Vietnam have confiscated an estimated 345,000 used condoms which had been cleaned and resold as new, state media reported.Footage broadcast by state-owned Vietnam Television (VTV) this week… [+869 chars]",
-         "urlToImage" : "https://cdn.abcotvs.com/dip/images/6544808_092420-kabc-vietnam-condom-no-audio-vid.jpg?w=1600",
-         "url" : "https://abc7.com/used-condoms-vietnam-police-contraceptives/6545264/",
-         "publishedAt" : "2020-09-24T22:37:00Z",
-         "author" : null
+         "title" : "Uber starts mandatory mask verification for riders - News3LV",
+         "publishedAt" : "2020-09-24T23:00:00Z",
+         "description" : "On Thursday, Uber announced that if an Uber driver reports that a rider does not wear a mask during a ride, the rider will be required to take a selfie with their face covered before they are able to take another trip. Uber first announced \"No Mask. No Ride. …"
       },
       {
-         "url" : "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-whipsaw-stock-market-rally-tesla-nvidia-hold-key-support/",
-         "publishedAt" : "2020-09-24T22:24:00Z",
-         "author" : "Investor's Business Daily",
+         "urlToImage" : "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UQPGZGVHNMI6VCMOWINZVA7XSI.jpg&w=1440",
+         "author" : "Aaron Gregg",
+         "description" : "Financial records show that a number of publicly traded firms paid dividends and bought back stock after receiving taxpayer-backed SBA loans.",
+         "title" : "Publicly traded firms paid dividends, bought their own stock after receiving PPP loans to pay employees - The Washington Post",
+         "publishedAt" : "2020-09-24T22:35:00Z",
          "source" : {
-            "name" : "Investor's Business Daily",
+            "name" : "The Washington Post",
+            "id" : "the-washington-post"
+         },
+         "content" : "Under the Small Business Administration rules, a PPP loan could be used only to meet payroll and pay mortgage interest, leases or utility bills. PPP loan recipients werent prohibited from paying inve… [+6939 chars]",
+         "url" : "https://www.washingtonpost.com/business/2020/09/24/dividends-buybacks-ppp-loans/"
+      },
+      {
+         "author" : "Kelly Tyko",
+         "urlToImage" : "https://www.gannett-cdn.com/-mm-/b2b05a4ab25f4fca0316459e1c7404c537a89702/c=0-0-1365-768/local/-/media/2020/07/22/USATODAY/usatsports/imageForEntry22-51a.jpg?width=1600&height=800&fit=crop",
+         "url" : "https://www.usatoday.com/story/money/2020/09/24/lowes-recall-kobalt-cordless-electric-chainsaw-pole-saws-recalled/3523469001/",
+         "content" : "Two different electric, cordless saws sold at Lowe's stores nationwide and on the home improvement chain's website are being recalled because they pose a \"laceration hazard.\"\r\nMore than 256,000 saws … [+1939 chars]",
+         "source" : {
+            "name" : "USA Today",
+            "id" : "usa-today"
+         },
+         "publishedAt" : "2020-09-24T22:28:14Z",
+         "title" : "Saw recall: More than 256,000 Kobalt cordless saws sold at Lowe's recalled for 'laceration hazard' - USA TODAY",
+         "description" : "Two different electric, cordless saws sold at Lowe's are being recalled because they pose a \"laceration hazard.\""
+      },
+      {
+         "urlToImage" : "http://static-30.sinclairstoryline.com/resources/media/33c22ea7-3b31-4df0-8d22-c3ebc71bebaa-large16x9_KassiBeachClubPatio.jpg?1600985891100",
+         "author" : "Peter Valencia",
+         "description" : "Officials with Virgin Hotels held a news conference Thursday afternoon revealing a sneak peek and the official opening date for the Las Vegas resort.  \"Lightning will strike twice at 4455 Paradise Road,\" Richard \"Boz\" Bosworth said.  Executives and partners w…",
+         "publishedAt" : "2020-09-24T22:18:00Z",
+         "title" : "'Lightning will strike twice:' Virgin Hotel Las Vegas to open on Jan. 15, 2021 - News3LV",
+         "source" : {
+            "name" : "News3LV",
             "id" : null
          },
-         "description" : "Dow Jones futures: A stock market rally attempt closed higher but showed no clear direction. Tesla, Nvidia and some other leaders held their 50-day lines.",
-         "title" : "Dow Jones Futures: Amid Whipsaw Stock Market Action, Tesla, Nvidia, These Top Stocks Hold Key Support - Investor's Business Daily",
-         "content" : "Dow Jones futures rose modestly late Thursday, along with S&amp;P 500 futures and Nasdaq futures. A new stock market rally attempt closed Thursday with modest gains after a wild session. Tesla (TSLA)… [+6561 chars]",
-         "urlToImage" : "https://www.investors.com/wp-content/uploads/2016/04/SSA-040816-shutterstock.jpg"
+         "url" : "http://news3lv.com/news/local/lightning-will-strike-twice-virgin-hotel-las-vegas-to-open-on-jan-15-2021",
+         "content" : null
       },
       {
          "content" : null,
-         "source" : {
-            "name" : "Google News",
-            "id" : "google-news"
-         },
-         "description" : null,
-         "title" : "First Responders Will Be 1st to Get COVID-19 Vaccine - Inside Edition",
-         "urlToImage" : null,
          "url" : "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9eWdWcTgtZU9laWPSAQA?oc=5",
-         "author" : null,
-         "publishedAt" : "2020-09-24T22:14:34Z"
-      },
-      {
-         "title" : "We have a few questions about Amazon’s flying indoor security camera drone - The Verge",
-         "description" : "Amazon’s Ring division now has a camera that can theoretically go anywhere in your home, not just the direction you initially point it: the Always Home Cam. Needless to say, the staff of The Verge has a few questions about that.",
          "source" : {
-            "name" : "The Verge",
-            "id" : "the-verge"
+            "id" : "google-news",
+            "name" : "Google News"
          },
-         "content" : "Filed under:\r\nAka the Always Home Cam\r\nShould we invite Amazons internet-connected cameras and voice assistants into our homes? Thats been a contentious topic for years but today, Amazon effectively … [+3788 chars]",
-         "urlToImage" : "https://cdn.vox-cdn.com/thumbor/L73LhSfG2Wk6mGKO79pNhfF7Iu0=/0x86:1200x714/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/21908111/always_home_cam_large_ring_amazon.jpg",
-         "url" : "https://www.theverge.com/tldr/2020/9/24/21454943/amazon-ring-always-home-cam-drone-security-biggest-questions",
-         "publishedAt" : "2020-09-24T21:57:23Z",
-         "author" : "Verge Staff"
-      },
-      {
-         "urlToImage" : "https://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc_logo.gif?v=1524171804",
-         "content" : "One of the main draws of the Paycheck Protection Program was the ability to have loans forgiven if the money was used as the law permitted  with 60% of the capital going to payroll and 40% to other a… [+4209 chars]",
-         "source" : {
-            "id" : null,
-            "name" : "CNBC"
-         },
+         "title" : "First Responders Will Be 1st to Get COVID-19 Vaccine - Inside Edition",
+         "publishedAt" : "2020-09-24T22:14:34Z",
          "description" : null,
-         "title" : "Banks and small businesses look to Congress to streamline PPP forgiveness - CNBC",
-         "author" : "Kate Rogers",
-         "publishedAt" : "2020-09-24T21:37:00Z",
-         "url" : "https://www.cnbc.com/2020/09/24/banks-small-businesses-look-to-congress-to-streamline-ppp-forgiveness.html"
+         "author" : null,
+         "urlToImage" : null
       },
       {
-         "content" : "The Food and Drug Administration issued a warning Thursday about the dangers of the \"Benadryl Challenge,\" a rumored TikTok stunt that involves ingesting high doses of the allergy medication to induce… [+1828 chars]",
          "source" : {
-            "id" : "nbc-news",
-            "name" : "NBC News"
+            "name" : "CNBC",
+            "id" : null
          },
-         "title" : "FDA issues warning on 'Benadryl Challenge,' a rumored viral trend - NBC News",
-         "description" : "The FDA issued a warning on about the Benadryl Challenge on TikTok. The challenge involves ingesting a high dose of Benadryl to hallucinate.",
-         "urlToImage" : "https://media1.s-nbcnews.com/j/newscms/2020_39/3414703/200924-benadryl-ew-246p_85244f52b37ead5a6a914723e6936c4d.nbcnews-fp-1200-630.jpg",
-         "url" : "https://www.nbcnews.com/health/health-news/fda-issues-warning-benadryl-challenge-rumored-viral-trend-n1240986",
-         "author" : "Sara G. Miller",
-         "publishedAt" : "2020-09-24T21:14:00Z"
+         "url" : "https://www.cnbc.com/2020/09/24/futures-rise-slightly-as-market-tries-to-avoid-loss-for-the-week.html",
+         "content" : "U.S. stock futures rose slightly on Thursday evening as the market indexes tried to avoid a fourth consecutive week of losses. \r\nFutures for the Dow Jones Industrial Average gained about 110 points, … [+2278 chars]",
+         "description" : "Stock futures for the Dow, S&P 500 and Nasdaq all rose ahead of Friday's session.",
+         "publishedAt" : "2020-09-24T22:04:00Z",
+         "title" : "Dow futures rise more than 100 points as market tries to avoid losses for the week - CNBC",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106615081-1594725929587gettyimages-1226959196.jpeg?v=1600983714",
+         "author" : "Jesse Pound"
+      },
+      {
+         "title" : "United to be first U.S. airline to offer covid-19 tests for passengers - The Washington Post",
+         "publishedAt" : "2020-09-24T21:17:00Z",
+         "description" : "The airline said the tests may allow travelers who test negative to forgo quarantine and entry requirements for some destinations, including Hawaii.",
+         "content" : "The pilot program will launch at the same time United begins ramping up service to Hawaii.\r\nOur new COVID testing program is another way we are helping customers meet their destinations entry require… [+3219 chars]",
+         "url" : "https://www.washingtonpost.com/transportation/2020/09/24/united-offers-covid-tests/",
+         "source" : {
+            "name" : "The Washington Post",
+            "id" : "the-washington-post"
+         },
+         "author" : "Lori Aratani",
+         "urlToImage" : "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/B25MOBX6I4I6VMHEGUHE4YGMSE.jpg&w=1440"
+      },
+      {
+         "source" : {
+            "name" : "OutThere Colorado",
+            "id" : null
+         },
+         "content" : "BROOMFIELD, Colo. (AP) Vail Resorts Inc. (MTN) on Thursday reported a loss of $153.6 million in its fiscal fourth quarter.\r\nOn a per-share basis, the Broomfield, Colorado-based company said it had a … [+642 chars]",
+         "url" : "https://www.outtherecolorado.com/news/vail-resorts-reports-loss-of-millions-during-fiscal-fourth-quarter/article_fc43cafa-feaa-11ea-8160-ffc36c87e74c.html",
+         "description" : "BROOMFIELD, Colo. (AP) Vail Resorts Inc. (MTN) on Thursday reported a loss of $153.6 million in its fiscal fourth quarter.",
+         "title" : "Vail Resorts reports loss of millions during fiscal fourth quarter - OutThere Colorado",
+         "publishedAt" : "2020-09-24T21:14:00Z",
+         "urlToImage" : "https://bloximages.newyork1.vip.townnews.com/outtherecolorado.com/content/tncms/assets/v3/editorial/3/5a/35ad4c94-feab-11ea-bb67-efb6ddd4f510/5f6d0d0e07a14.image.jpg?resize=945%2C630",
+         "author" : "The Associated Press"
+      },
+      {
+         "author" : "Associated Press",
+         "urlToImage" : "http://static-36.sinclairstoryline.com/resources/media/27711b6c-3e2e-4675-b5a8-27b362d22a23-large16x9_GettyImages1216400387.jpg?1600981343045",
+         "url" : "http://komonews.com/news/local/officials-washington-being-targeted-by-phishing-campaign",
+         "content" : null,
+         "source" : {
+            "name" : "KOMO News",
+            "id" : null
+         },
+         "publishedAt" : "2020-09-24T21:02:00Z",
+         "title" : "Officials: Washington being targeted by phishing campaign - KOMO News",
+         "description" : "OLYMPIA, Wash. (AP) &mdash; Washington state is among those being targeted by a nationwide \"large-scale, highly sophisticated\" phishing campaign.  In response to queries from The Associated Press, a spokesman for Gov. Jay Inslee said in an e-mailed statement …"
       },
       {
          "url" : "http://komonews.com/news/local/ivars-temporarily-closes-seattle-restaurants-due-to-covid-19",
-         "author" : "KOMO News Staff",
-         "publishedAt" : "2020-09-24T20:59:00Z",
          "content" : null,
          "source" : {
             "id" : null,
             "name" : "KOMO News"
          },
+         "publishedAt" : "2020-09-24T20:59:00Z",
          "title" : "Ivar's temporarily closes Seattle restaurants due to COVID-19 - KOMO News",
          "description" : "SEATTLE &ndash; Ivar&rsquo;s announced that is it closing some of its full-service sit down restaurants until next year.  The restaurant group says its 19 walk-up Fish Bar locations and the full-service restaurant in Mukilteo will remain open, but the Acres o…",
+         "author" : "KOMO News Staff",
          "urlToImage" : "http://static-27.sinclairstoryline.com/resources/media/3ec74183-23fc-4457-8c4c-9be10ae041e2-large16x9_ivars_01.jpg?1600981420469"
       },
       {
+         "author" : "Thornton McEnery",
+         "urlToImage" : "https://nypost.com/wp-content/uploads/sites/2/2020/09/citi.jpg?quality=90&strip=all&w=1200",
+         "title" : "Citigroup says racism has cost US economy $16 trillion - New York Post ",
+         "publishedAt" : "2020-09-24T20:57:00Z",
+         "description" : "A Wall Street bank just put a price tag on racism in America, and it’s a steep one. New York-based megabank Citigroup found that the US economy has lost out on $16 trillion in growth over the last …",
          "content" : "A Wall Street bank just put a price tag on racism in America, and its a steep one.\r\nNew York-based megabank Citigroup found that the US economy has lost out on $16 trillion in growth over the last 20… [+2964 chars]",
+         "url" : "https://nypost.com/2020/09/24/wall-street-bank-says-racism-has-cost-us-economy-16-trillion/",
          "source" : {
             "id" : null,
             "name" : "New York Post"
-         },
-         "title" : "Citigroup says racism has cost US economy $16 trillion - New York Post ",
-         "description" : "A Wall Street bank just put a price tag on racism in America, and it’s a steep one. New York-based megabank Citigroup found that the US economy has lost out on $16 trillion in growth over the last …",
-         "urlToImage" : "https://nypost.com/wp-content/uploads/sites/2/2020/09/citi.jpg?quality=90&strip=all&w=1200",
-         "url" : "https://nypost.com/2020/09/24/wall-street-bank-says-racism-has-cost-us-economy-16-trillion/",
-         "author" : "Thornton McEnery",
-         "publishedAt" : "2020-09-24T20:57:00Z"
-      },
-      {
-         "content" : "The U.K. trial will end when either 116 people develop symptoms of Covid-19, or when 63 people develop moderate to severe Covid-19. At that point, the researchers will unblind the results and compare… [+1728 chars]",
-         "source" : {
-            "name" : "New York Times",
-            "id" : null
-         },
-         "title" : "Novavax Enters Final Stage of Coronavirus Vaccine Trials - The New York Times",
-         "description" : "The Maryland company, which has never brought a vaccine to market, has started its Phase 3 trial in the United Kingdom, with plans to begin in the United States in October.",
-         "urlToImage" : "https://static01.nyt.com/images/2020/09/24/science/24SCI-NOVAVAX01/24SCI-NOVAVAX01-facebookJumbo.jpg",
-         "url" : "https://www.nytimes.com/2020/09/24/health/covid-19-vaccine-novavax.html",
-         "author" : "Katie Thomas, Carl Zimmer",
-         "publishedAt" : "2020-09-24T20:53:00Z"
-      },
-      {
-         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/09/0/0/Olive-Garden-Times-Square-GOOGLE-MAPS-2.jpg?ve=1&tl=1",
-         "content" : "Olive Garden is losing hundreds of thousands of dollars every week from just one location in New York City because of the coronavirus pandemic.\r\nThe Times Square Olive Garden typically brings in $15 … [+2737 chars]",
-         "title" : "Times Square Olive Garden losing $300G each week because of coronavirus restrictions - Fox Business",
-         "description" : "Darden Restaurants CEO Gene Lee told investors Thursday that the Times Square Olive Garden is hemorrhaging money amid the pandemic.",
-         "source" : {
-            "name" : "Fox Business",
-            "id" : null
-         },
-         "author" : "Ann Schmidt",
-         "publishedAt" : "2020-09-24T20:35:55Z",
-         "url" : "https://www.foxbusiness.com/lifestyle/times-square-olive-garden-losing-300g-coronavirus"
-      },
-      {
-         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/09/0/0/Grocery-Store-Checkout-iStock.jpg?ve=1&tl=1",
-         "source" : {
-            "id" : null,
-            "name" : "Fox Business"
-         },
-         "description" : "In a unanimous vote Tuesday night, the Berkeley City Council passed the “healthy checkout” ordinance, which will prohibit large grocery stores from selling food and beverages deemed unhealthy in a 3-foot radius from the checkout.",
-         "title" : "Berkeley is the first city in the US to ban junk food in checkout lanes - Fox Business",
-         "content" : "Berkeley is gearing up to become the first city in the nation to ban junk food from the checkout line in grocery stores.\r\nIn a unanimous vote Tuesday night, the Berkeley City Council passed the “heal… [+3448 chars]",
-         "publishedAt" : "2020-09-24T20:34:06Z",
-         "author" : "Sumner Park",
-         "url" : "https://www.foxbusiness.com/lifestyle/berkeley-ca-first-in-u-s-to-ban-junk-food-in-checkout-lanes"
-      },
-      {
-         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/09/0/0/Industry-City-Brooklyn-GST2.png?ve=1&tl=1",
-         "content" : "Plans to rezone Brooklyn's mega housing project, Industry City, have been pulled and with it, 20,000 potential jobs.\r\nThe expansion project was slated to transform part of the Brooklyn waterfront as … [+2163 chars]",
-         "source" : {
-            "id" : null,
-            "name" : "Fox Business"
-         },
-         "title" : "Brooklyn's Industry City rezone proposal pulled, 20000 potential jobs lost: report - Fox Business",
-         "description" : "The expansion project was slated to transform part of the Brooklyn waterfront as well as add numerous job opportunities amid a time unemployment sits at an elevated 8.4%.",
-         "author" : "Daniella Genovese",
-         "publishedAt" : "2020-09-24T20:34:03Z",
-         "url" : "https://www.foxbusiness.com/economy/industry-city-proposal-pulled-jobs"
-      },
-      {
-         "author" : "Jeremy C. Owens",
-         "publishedAt" : "2020-09-24T20:32:00Z",
-         "url" : "https://www.marketwatch.com/story/costco-clears-4-billion-in-earnings-for-first-time-amid-record-growth-but-the-stock-is-falling-11600979558",
-         "urlToImage" : "https://images.mktw.net/im-234629/social",
-         "content" : "Costco Wholesale Corp. brought in $4 billion in profit for the first time in a fiscal year, thanks to a big boost from shoppers stocking up during the COVID-19 pandemic.Costco \r\n COST, \r\n +0.68%\r\nrev… [+2116 chars]",
-         "source" : {
-            "id" : null,
-            "name" : "MarketWatch"
-         },
-         "description" : "Strongest same-store sales growth in records dating back to 2000 push Costco to record profit for fiscal year",
-         "title" : "Costco clears $4 billion in earnings for first time amid record growth, but the stock is falling - MarketWatch"
-      },
-      {
-         "content" : "Companies collaborate on one of Australias largest digital twin, emissions reduction initiatives, and drive transformative operational models\r\nTelstra-Microsoft partnership signals new generation dig… [+9812 chars]",
-         "source" : {
-            "name" : "Microsoft.com",
-            "id" : null
-         },
-         "title" : "Telstra-Microsoft partnership signals new generation digital foundations for Australian businesses - Stories - Microsoft",
-         "description" : "Companies collaborate on one of Australia’s largest digital twin, emissions reduction initiatives, and drive transformative operational models SYDNEY and REDMOND, Wash. — Sept. 25, 2020 — Microsoft Corp. and Telstra have extended their long-standing strategic…",
-         "urlToImage" : "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/prod/prod/prod/prod/prod/2020/09/Telstra-Hero-1024x907.jpg",
-         "url" : "https://news.microsoft.com/2020/09/24/telstra-microsoft-partnership-signals-new-generation-digital-foundations-for-australian-businesses/",
-         "author" : null,
-         "publishedAt" : "2020-09-24T20:23:58Z"
-      },
-      {
-         "author" : "Jeanette Settembre",
-         "publishedAt" : "2020-09-24T20:08:15Z",
-         "url" : "https://www.foxbusiness.com/lifestyle/royal-caribbean-cruise-ships-redeployed-summer-2021",
-         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/08/0/0/285ba2db-malaga-port-cruises-ships-istock.png?ve=1&tl=1",
-         "content" : "Travelers planning to set sail onboard a Royal Caribbean cruise ship may have their plans changed.\r\nThe cruise company is reportedly changing up its schedule for summer 2021, changing the itineraries… [+2295 chars]",
-         "description" : "Expect changes to Royal Caribbean's 2021 summer cruise lineup.",
-         "title" : "5 Royal Caribbean cruise ships in Europe and the Caribbean will be rerouted for summer 2021 - Fox Business",
-         "source" : {
-            "id" : null,
-            "name" : "Fox Business"
          }
-      },
-      {
-         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200924153743-mark-cuban-file-restricted-super-tease.jpg",
-         "content" : null,
-         "source" : {
-            "id" : "cnn",
-            "name" : "CNN"
-         },
-         "description" : "Mark Cuban is once again pushing the idea that every American household should receive $1,000 bi-weekly stimulus checks for the next two months.",
-         "title" : "Mark Cuban calls for $1,000 stimulus checks every two weeks through November - CNN",
-         "author" : "Jazmin Goodwin, CNN Business",
-         "publishedAt" : "2020-09-24T20:07:00Z",
-         "url" : "https://www.cnn.com/2020/09/24/investing/mark-cuban-andrew-yang-stimulus-checks-ubi/index.html"
-      },
-      {
-         "urlToImage" : "https://www.investors.com/wp-content/uploads/2020/09/Stock-ChargePoint-01-shutt.jpg",
-         "description" : "EV charging station provider ChargePoint is going public by year-end. It is using SPAC Switchback Energy for its IPO, which is valued at $2.4 billion.",
-         "title" : "EV Charging Leader Backed By Top Tesla Investor To Go Public - Investor's Business Daily",
-         "source" : {
-            "name" : "Investor's Business Daily",
-            "id" : null
-         },
-         "content" : "ChargePoint, the world's largest provider of electric-vehicle charging stations, said on Thursday it will go public with a reverse-merger agreement worth $2.4 billion.\r\nXIt is the latest company to u… [+3060 chars]",
-         "publishedAt" : "2020-09-24T20:06:00Z",
-         "author" : "Investor's Business Daily",
-         "url" : "https://www.investors.com/news/chargepoint-ev-charging-station-leader-backed-by-top-tesla-investor-to-go-public/"
       }
    ]
 }
