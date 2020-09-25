@@ -9,31 +9,33 @@ fetch(URL)
   .then(json => render(json))
   .catch(error => console.error(error));
 
+// TODO
+// What to do if 0 hours?
+// "n minutes ago"
+// 
+
+function getTimePast(t2, t1) {
+  const milliSecondsDiff = t2 - t1;
+  console.debug("msecs diff: ", milliSecondsDiff);
+  const hoursAgo = Math.round(milliSecondsDiff / (1000 * 60 * 60));
+  return `${hoursAgo}h ago`;
+}
+
 function Headlines(props) {
   // TODO: get locale from browser?
-  const locale = 'en';
-  const formatter = new Intl.DateTimeFormat(locale, {hour: '2-digit', minute: '2-digit'});
   
   // console.log(props.src.articles);
   
-  const today = new Date(props.src.articles[0].publishedAt).toLocaleDateString();
-  // console.log("Today:", today);
+  const atTheMoment = Date.now();
 
   const headlines = props.src.articles.map((article) => {
     const hasNoDesc = (input) => {
       return input.description === null || input.description.length === 0;
     }
     
-    let publishedAt = new Date(article.publishedAt);
-    const timePublished = formatter.format(publishedAt);
+    const publishedAt = new Date(article.publishedAt).getTime();;
+    const howLongAgo = getTimePast(atTheMoment, publishedAt);
 
-    if (publishedAt.toLocaleDateString() !== today) {
-      // publishedAt = `Yesterday, ${timePublished}`;
-      publishedAt = `Yesterday`;
-    } else {
-      publishedAt = timePublished;
-    }
-    
     let description = article.description;
     if (hasNoDesc(article)) {
       description = article.source.name;
@@ -49,7 +51,7 @@ function Headlines(props) {
           </p>
         </div>
         <ul class="list-group list-group-flush">
-          <li class="list-group-item">{publishedAt}</li>
+          <li class="list-group-item">{howLongAgo}</li>
         </ul>
       </div>
     );
