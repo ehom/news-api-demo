@@ -1,266 +1,266 @@
 {
-   "status" : "ok",
    "totalResults" : 70,
    "articles" : [
       {
+         "title" : "Harley-Davidson to exit world's biggest bike market - BBC News",
+         "url" : "https://www.bbc.com/news/business-54290245",
          "author" : "https://www.facebook.com/bbcnews",
          "urlToImage" : "https://ichef.bbci.co.uk/news/1024/branded_news/41DB/production/_114595861_harley.jpg",
-         "url" : "https://www.bbc.com/news/business-54290245",
          "content" : "Image copyrightGetty ImagesImage caption\r\n Actor Jesse Metcalfe riding a Harley Davidson\r\nHarley-Davidson is pulling out of India, the world's biggest motorcycle market.\r\nThe iconic US motorcycle mak… [+2097 chars]",
+         "description" : "The iconic motorcycle company is pulling out of India as it struggles to sell its two-wheelers.",
          "source" : {
-            "id" : null,
-            "name" : "BBC News"
+            "name" : "BBC News",
+            "id" : null
          },
-         "publishedAt" : "2020-09-25T01:17:02Z",
-         "title" : "Harley-Davidson to exit world's biggest bike market - BBC News",
-         "description" : "The iconic motorcycle company is pulling out of India as it struggles to sell its two-wheelers."
+         "publishedAt" : "2020-09-25T01:17:02Z"
       },
       {
-         "description" : "Tesla (NASDAQ: TSLA) Battery Day skeptics sat around and looked at the negatives, according to Jim Cramer. Ignoring the positives of the event altogether, the critics who said the company event was a failure are not looking at the right things, and they’re ju…",
+         "content" : "Tesla (NASDAQ: TSLA) Battery Day skeptics sat around and looked at the negatives, according to Jim Cramer. Ignoring the positives of the event altogether, the critics who said the company event was a… [+2671 chars]",
+         "author" : "Joey Klender",
+         "urlToImage" : "https://www.teslarati.com/wp-content/uploads/2020/09/tesla-jim-cramer-battery-day-skeptics-bummed-1024x502.png",
          "title" : "Tesla Battery Day skeptics are “bummed that what they hyped didn’t happen,” Cramer says - Teslarati",
+         "url" : "https://www.teslarati.com/tesla-jim-cramer-battery-day-skeptics-bummed-video/",
          "publishedAt" : "2020-09-25T00:56:15Z",
          "source" : {
             "name" : "Teslarati",
             "id" : null
          },
-         "content" : "Tesla (NASDAQ: TSLA) Battery Day skeptics sat around and looked at the negatives, according to Jim Cramer. Ignoring the positives of the event altogether, the critics who said the company event was a… [+2671 chars]",
-         "url" : "https://www.teslarati.com/tesla-jim-cramer-battery-day-skeptics-bummed-video/",
-         "urlToImage" : "https://www.teslarati.com/wp-content/uploads/2020/09/tesla-jim-cramer-battery-day-skeptics-bummed-1024x502.png",
-         "author" : "Joey Klender"
+         "description" : "Tesla (NASDAQ: TSLA) Battery Day skeptics sat around and looked at the negatives, according to Jim Cramer. Ignoring the positives of the event altogether, the critics who said the company event was a failure are not looking at the right things, and they’re ju…"
       },
       {
-         "title" : "Tampa International Airport, a perennial favorite, now ranks America’s second best - Tampa Bay Times",
-         "publishedAt" : "2020-09-25T00:16:44Z",
          "description" : "J.D. Power’s annual airport satisfaction survey once again places Tampa in its top five.",
-         "content" : "Its been a brutal year for the air travel industry, but Tampa International Airport just got a bit of good news.\r\nThe hub was named the second-best large airport in America in J.D. Powers annual airp… [+2695 chars]",
-         "url" : "https://www.tampabay.com/news/business/2020/09/24/tampa-international-airport-a-perennial-favorite-now-ranks-americas-second-best/",
+         "publishedAt" : "2020-09-25T00:16:44Z",
          "source" : {
             "id" : null,
             "name" : "Tampa Bay Times"
          },
+         "title" : "Tampa International Airport, a perennial favorite, now ranks America’s second best - Tampa Bay Times",
+         "url" : "https://www.tampabay.com/news/business/2020/09/24/tampa-international-airport-a-perennial-favorite-now-ranks-americas-second-best/",
          "author" : "Jay Cridlin",
-         "urlToImage" : "https://www.tampabay.com/resizer/xuOfryFrjItrI5D054xlChnTaEk=/800x450/smart/cloudfront-us-east-1.images.arcpublishing.com/tbt/46MHHBSKR5GCJGMAKYCW3UCYWE.JPG"
+         "urlToImage" : "https://www.tampabay.com/resizer/xuOfryFrjItrI5D054xlChnTaEk=/800x450/smart/cloudfront-us-east-1.images.arcpublishing.com/tbt/46MHHBSKR5GCJGMAKYCW3UCYWE.JPG",
+         "content" : "Its been a brutal year for the air travel industry, but Tampa International Airport just got a bit of good news.\r\nThe hub was named the second-best large airport in America in J.D. Powers annual airp… [+2695 chars]"
       },
       {
+         "source" : {
+            "name" : "Wired",
+            "id" : "wired"
+         },
+         "publishedAt" : "2020-09-25T00:14:00Z",
+         "description" : "Look at this freaking drone.",
+         "content" : "Tech product launches in the year of 2020 involve a kind of perspective whiplash that makes it more difficult than usual to decide whether or not you really need the thing.\r\nTheres the consideration … [+2985 chars]",
          "author" : "Lauren Goode",
          "urlToImage" : "https://media.wired.com/photos/5f6d2498eeb71fb09967e5ef/191:100/w_1280,c_limit/Amazon-Flying-Camera-01.jpg",
-         "publishedAt" : "2020-09-25T00:14:00Z",
          "title" : "The Ring Always Home Cam Flies Around Inside Your House - WIRED",
-         "description" : "Look at this freaking drone.",
-         "url" : "https://www.wired.com/story/ring-always-home-cam/",
-         "content" : "Tech product launches in the year of 2020 involve a kind of perspective whiplash that makes it more difficult than usual to decide whether or not you really need the thing.\r\nTheres the consideration … [+2985 chars]",
-         "source" : {
-            "id" : "wired",
-            "name" : "Wired"
-         }
+         "url" : "https://www.wired.com/story/ring-always-home-cam/"
       },
       {
-         "description" : "The Infiniti QX60 Monograph prototype debuted today, giving the world a look what the next-generation three-row crossover might look like in 2022 or 2023.",
+         "url" : "https://www.motor1.com/news/445714/infiniti-qx60-monograph-first-look/",
          "title" : "First Look: We Get Cozy With The Next-Gen Infiniti QX60 Monograph Prototype - Motor1 ",
+         "urlToImage" : "https://cdn.motor1.com/images/mgl/yMGZm/s1/infiniti-qx60-monograph-prototype.jpg",
+         "author" : "Brett T. Evans",
+         "content" : "The current Infiniti QX60 three-row SUV is an important product, selling more examples each year than any of the brands other models. But in terms of driving enthusiasm, its something of a stuffed sh… [+6485 chars]",
+         "description" : "The Infiniti QX60 Monograph prototype debuted today, giving the world a look what the next-generation three-row crossover might look like in 2022 or 2023.",
          "publishedAt" : "2020-09-25T00:00:16Z",
          "source" : {
             "id" : null,
             "name" : "Motor1 "
-         },
-         "content" : "The current Infiniti QX60 three-row SUV is an important product, selling more examples each year than any of the brands other models. But in terms of driving enthusiasm, its something of a stuffed sh… [+6485 chars]",
-         "url" : "https://www.motor1.com/news/445714/infiniti-qx60-monograph-first-look/",
-         "urlToImage" : "https://cdn.motor1.com/images/mgl/yMGZm/s1/infiniti-qx60-monograph-prototype.jpg",
-         "author" : "Brett T. Evans"
+         }
       },
       {
-         "content" : null,
-         "url" : "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9RGxjQjU0UDN2TjTSAQA?oc=5",
-         "source" : {
-            "name" : "Google News",
-            "id" : "google-news"
-         },
-         "title" : "MTA Employees Busted for Grand Central Terminal 'Man Cave' | NBC New York - NBC New York",
          "publishedAt" : "2020-09-24T23:52:59Z",
+         "source" : {
+            "id" : "google-news",
+            "name" : "Google News"
+         },
          "description" : null,
+         "content" : null,
+         "title" : "MTA Employees Busted for Grand Central Terminal 'Man Cave' | NBC New York - NBC New York",
+         "url" : "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9RGxjQjU0UDN2TjTSAQA?oc=5",
          "author" : null,
          "urlToImage" : null
       },
       {
          "urlToImage" : "https://images.wsj.net/im-231822/social",
          "author" : "Maureen Farrell, Corrie Driebusch, Eliot Brown",
+         "url" : "https://www.wsj.com/articles/palantir-expected-to-be-valued-at-nearly-22-billion-in-trading-debut-11600990739",
+         "title" : "Palantir Expected to Be Valued at Nearly $22 Billion in Trading Debut - The Wall Street Journal",
+         "content" : "Palantir Technologies Inc. is expected to fetch a lofty valuation in its transition to a public company despite an unusually aggressive governance structure, in the latest sign of investors voracious… [+335 chars]",
+         "description" : "Bankers have told investors stock could start trading at around $10, sources say",
          "source" : {
             "id" : "the-wall-street-journal",
             "name" : "The Wall Street Journal"
          },
-         "url" : "https://www.wsj.com/articles/palantir-expected-to-be-valued-at-nearly-22-billion-in-trading-debut-11600990739",
-         "content" : "Palantir Technologies Inc. is expected to fetch a lofty valuation in its transition to a public company despite an unusually aggressive governance structure, in the latest sign of investors voracious… [+335 chars]",
-         "description" : "Bankers have told investors stock could start trading at around $10, sources say",
-         "publishedAt" : "2020-09-24T23:39:00Z",
-         "title" : "Palantir Expected to Be Valued at Nearly $22 Billion in Trading Debut - The Wall Street Journal"
+         "publishedAt" : "2020-09-24T23:39:00Z"
       },
       {
-         "source" : {
-            "id" : "google-news",
-            "name" : "Google News"
-         },
-         "url" : "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9Y2RTQUp5SWdtZEnSAQA?oc=5",
-         "content" : null,
          "description" : null,
          "publishedAt" : "2020-09-24T23:11:46Z",
-         "title" : "Jim Cramer breaks down Nvidia's acquisition of Arm and the potential upside for investors - CNBC Television",
+         "source" : {
+            "name" : "Google News",
+            "id" : "google-news"
+         },
          "urlToImage" : null,
-         "author" : null
+         "author" : null,
+         "url" : "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9Y2RTQUp5SWdtZEnSAQA?oc=5",
+         "title" : "Jim Cramer breaks down Nvidia's acquisition of Arm and the potential upside for investors - CNBC Television",
+         "content" : null
       },
       {
          "description" : "Chinese financial-technology juggernaut, known for its Alipay ‘ ubiquitous super app,’ handles payments, insurance, investments and more",
-         "publishedAt" : "2020-09-24T23:09:00Z",
-         "title" : "Ant Group IPO: Five things to know about the Alibaba affiliate aiming for the largest offering in history - MarketWatch",
          "source" : {
             "name" : "MarketWatch",
             "id" : null
          },
-         "url" : "https://www.marketwatch.com/story/ant-group-ipo-five-things-to-know-about-the-alibaba-affiliate-aiming-for-the-largest-offering-in-history-11600988986",
-         "content" : "Ant Group could be headed for the largest initial public offering in history, as the Chinese financial-technology juggernaut chases a valuation that would rival the biggest payments companies in the … [+7299 chars]",
+         "publishedAt" : "2020-09-24T23:09:00Z",
+         "author" : "Emily Bary",
          "urlToImage" : "https://images.mktw.net/im-235883/social",
-         "author" : "Emily Bary"
+         "title" : "Ant Group IPO: Five things to know about the Alibaba affiliate aiming for the largest offering in history - MarketWatch",
+         "url" : "https://www.marketwatch.com/story/ant-group-ipo-five-things-to-know-about-the-alibaba-affiliate-aiming-for-the-largest-offering-in-history-11600988986",
+         "content" : "Ant Group could be headed for the largest initial public offering in history, as the Chinese financial-technology juggernaut chases a valuation that would rival the biggest payments companies in the … [+7299 chars]"
       },
       {
+         "content" : null,
+         "title" : "Uber starts mandatory mask verification for riders - News3LV",
+         "url" : "http://news3lv.com/news/local/uber-starts-mandatory-mask-verification-for-riders",
          "author" : "Sadë Mills",
          "urlToImage" : "http://static-10.sinclairstoryline.com/resources/media/7e9f98ba-3724-451d-8597-bcc00567d28c-large16x9_thumb_18977.png?1600987629359",
-         "content" : null,
-         "url" : "http://news3lv.com/news/local/uber-starts-mandatory-mask-verification-for-riders",
          "source" : {
             "name" : "News3LV",
             "id" : null
          },
-         "title" : "Uber starts mandatory mask verification for riders - News3LV",
          "publishedAt" : "2020-09-24T23:00:00Z",
          "description" : "On Thursday, Uber announced that if an Uber driver reports that a rider does not wear a mask during a ride, the rider will be required to take a selfie with their face covered before they are able to take another trip. Uber first announced \"No Mask. No Ride. …"
       },
       {
-         "urlToImage" : "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UQPGZGVHNMI6VCMOWINZVA7XSI.jpg&w=1440",
          "author" : "Aaron Gregg",
-         "description" : "Financial records show that a number of publicly traded firms paid dividends and bought back stock after receiving taxpayer-backed SBA loans.",
+         "urlToImage" : "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UQPGZGVHNMI6VCMOWINZVA7XSI.jpg&w=1440",
          "title" : "Publicly traded firms paid dividends, bought their own stock after receiving PPP loans to pay employees - The Washington Post",
+         "url" : "https://www.washingtonpost.com/business/2020/09/24/dividends-buybacks-ppp-loans/",
+         "content" : "Under the Small Business Administration rules, a PPP loan could be used only to meet payroll and pay mortgage interest, leases or utility bills. PPP loan recipients werent prohibited from paying inve… [+6939 chars]",
+         "description" : "Financial records show that a number of publicly traded firms paid dividends and bought back stock after receiving taxpayer-backed SBA loans.",
          "publishedAt" : "2020-09-24T22:35:00Z",
          "source" : {
             "name" : "The Washington Post",
             "id" : "the-washington-post"
-         },
-         "content" : "Under the Small Business Administration rules, a PPP loan could be used only to meet payroll and pay mortgage interest, leases or utility bills. PPP loan recipients werent prohibited from paying inve… [+6939 chars]",
-         "url" : "https://www.washingtonpost.com/business/2020/09/24/dividends-buybacks-ppp-loans/"
+         }
       },
       {
-         "author" : "Kelly Tyko",
-         "urlToImage" : "https://www.gannett-cdn.com/-mm-/b2b05a4ab25f4fca0316459e1c7404c537a89702/c=0-0-1365-768/local/-/media/2020/07/22/USATODAY/usatsports/imageForEntry22-51a.jpg?width=1600&height=800&fit=crop",
-         "url" : "https://www.usatoday.com/story/money/2020/09/24/lowes-recall-kobalt-cordless-electric-chainsaw-pole-saws-recalled/3523469001/",
          "content" : "Two different electric, cordless saws sold at Lowe's stores nationwide and on the home improvement chain's website are being recalled because they pose a \"laceration hazard.\"\r\nMore than 256,000 saws … [+1939 chars]",
+         "urlToImage" : "https://www.gannett-cdn.com/-mm-/b2b05a4ab25f4fca0316459e1c7404c537a89702/c=0-0-1365-768/local/-/media/2020/07/22/USATODAY/usatsports/imageForEntry22-51a.jpg?width=1600&height=800&fit=crop",
+         "author" : "Kelly Tyko",
+         "url" : "https://www.usatoday.com/story/money/2020/09/24/lowes-recall-kobalt-cordless-electric-chainsaw-pole-saws-recalled/3523469001/",
+         "title" : "Saw recall: More than 256,000 Kobalt cordless saws sold at Lowe's recalled for 'laceration hazard' - USA TODAY",
          "source" : {
-            "name" : "USA Today",
-            "id" : "usa-today"
+            "id" : "usa-today",
+            "name" : "USA Today"
          },
          "publishedAt" : "2020-09-24T22:28:14Z",
-         "title" : "Saw recall: More than 256,000 Kobalt cordless saws sold at Lowe's recalled for 'laceration hazard' - USA TODAY",
          "description" : "Two different electric, cordless saws sold at Lowe's are being recalled because they pose a \"laceration hazard.\""
       },
       {
+         "content" : null,
          "urlToImage" : "http://static-30.sinclairstoryline.com/resources/media/33c22ea7-3b31-4df0-8d22-c3ebc71bebaa-large16x9_KassiBeachClubPatio.jpg?1600985891100",
          "author" : "Peter Valencia",
-         "description" : "Officials with Virgin Hotels held a news conference Thursday afternoon revealing a sneak peek and the official opening date for the Las Vegas resort.  \"Lightning will strike twice at 4455 Paradise Road,\" Richard \"Boz\" Bosworth said.  Executives and partners w…",
-         "publishedAt" : "2020-09-24T22:18:00Z",
+         "url" : "http://news3lv.com/news/local/lightning-will-strike-twice-virgin-hotel-las-vegas-to-open-on-jan-15-2021",
          "title" : "'Lightning will strike twice:' Virgin Hotel Las Vegas to open on Jan. 15, 2021 - News3LV",
+         "publishedAt" : "2020-09-24T22:18:00Z",
          "source" : {
             "name" : "News3LV",
             "id" : null
          },
-         "url" : "http://news3lv.com/news/local/lightning-will-strike-twice-virgin-hotel-las-vegas-to-open-on-jan-15-2021",
+         "description" : "Officials with Virgin Hotels held a news conference Thursday afternoon revealing a sneak peek and the official opening date for the Las Vegas resort.  \"Lightning will strike twice at 4455 Paradise Road,\" Richard \"Boz\" Bosworth said.  Executives and partners w…"
+      },
+      {
+         "description" : null,
+         "publishedAt" : "2020-09-24T22:14:34Z",
+         "source" : {
+            "name" : "Google News",
+            "id" : "google-news"
+         },
+         "urlToImage" : null,
+         "author" : null,
+         "url" : "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9eWdWcTgtZU9laWPSAQA?oc=5",
+         "title" : "First Responders Will Be 1st to Get COVID-19 Vaccine - Inside Edition",
          "content" : null
       },
       {
-         "content" : null,
-         "url" : "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9eWdWcTgtZU9laWPSAQA?oc=5",
-         "source" : {
-            "id" : "google-news",
-            "name" : "Google News"
-         },
-         "title" : "First Responders Will Be 1st to Get COVID-19 Vaccine - Inside Edition",
-         "publishedAt" : "2020-09-24T22:14:34Z",
-         "description" : null,
-         "author" : null,
-         "urlToImage" : null
-      },
-      {
-         "source" : {
-            "name" : "CNBC",
-            "id" : null
-         },
          "url" : "https://www.cnbc.com/2020/09/24/futures-rise-slightly-as-market-tries-to-avoid-loss-for-the-week.html",
+         "title" : "Dow futures rise more than 100 points as market tries to avoid losses for the week - CNBC",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106615081-1594725929587gettyimages-1226959196.jpeg?v=1600983714",
+         "author" : "Jesse Pound",
          "content" : "U.S. stock futures rose slightly on Thursday evening as the market indexes tried to avoid a fourth consecutive week of losses. \r\nFutures for the Dow Jones Industrial Average gained about 110 points, … [+2278 chars]",
          "description" : "Stock futures for the Dow, S&P 500 and Nasdaq all rose ahead of Friday's session.",
          "publishedAt" : "2020-09-24T22:04:00Z",
-         "title" : "Dow futures rise more than 100 points as market tries to avoid losses for the week - CNBC",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106615081-1594725929587gettyimages-1226959196.jpeg?v=1600983714",
-         "author" : "Jesse Pound"
+         "source" : {
+            "id" : null,
+            "name" : "CNBC"
+         }
       },
       {
+         "content" : "The pilot program will launch at the same time United begins ramping up service to Hawaii.\r\nOur new COVID testing program is another way we are helping customers meet their destinations entry require… [+3219 chars]",
+         "urlToImage" : "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/B25MOBX6I4I6VMHEGUHE4YGMSE.jpg&w=1440",
+         "author" : "Lori Aratani",
+         "url" : "https://www.washingtonpost.com/transportation/2020/09/24/united-offers-covid-tests/",
          "title" : "United to be first U.S. airline to offer covid-19 tests for passengers - The Washington Post",
          "publishedAt" : "2020-09-24T21:17:00Z",
-         "description" : "The airline said the tests may allow travelers who test negative to forgo quarantine and entry requirements for some destinations, including Hawaii.",
-         "content" : "The pilot program will launch at the same time United begins ramping up service to Hawaii.\r\nOur new COVID testing program is another way we are helping customers meet their destinations entry require… [+3219 chars]",
-         "url" : "https://www.washingtonpost.com/transportation/2020/09/24/united-offers-covid-tests/",
          "source" : {
             "name" : "The Washington Post",
             "id" : "the-washington-post"
          },
-         "author" : "Lori Aratani",
-         "urlToImage" : "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/B25MOBX6I4I6VMHEGUHE4YGMSE.jpg&w=1440"
+         "description" : "The airline said the tests may allow travelers who test negative to forgo quarantine and entry requirements for some destinations, including Hawaii."
       },
       {
+         "author" : "The Associated Press",
+         "urlToImage" : "https://bloximages.newyork1.vip.townnews.com/outtherecolorado.com/content/tncms/assets/v3/editorial/3/5a/35ad4c94-feab-11ea-bb67-efb6ddd4f510/5f6d0d0e07a14.image.jpg?resize=945%2C630",
+         "title" : "Vail Resorts reports loss of millions during fiscal fourth quarter - OutThere Colorado",
+         "url" : "https://www.outtherecolorado.com/news/vail-resorts-reports-loss-of-millions-during-fiscal-fourth-quarter/article_fc43cafa-feaa-11ea-8160-ffc36c87e74c.html",
+         "content" : "BROOMFIELD, Colo. (AP) Vail Resorts Inc. (MTN) on Thursday reported a loss of $153.6 million in its fiscal fourth quarter.\r\nOn a per-share basis, the Broomfield, Colorado-based company said it had a … [+642 chars]",
+         "description" : "BROOMFIELD, Colo. (AP) Vail Resorts Inc. (MTN) on Thursday reported a loss of $153.6 million in its fiscal fourth quarter.",
          "source" : {
             "name" : "OutThere Colorado",
             "id" : null
          },
-         "content" : "BROOMFIELD, Colo. (AP) Vail Resorts Inc. (MTN) on Thursday reported a loss of $153.6 million in its fiscal fourth quarter.\r\nOn a per-share basis, the Broomfield, Colorado-based company said it had a … [+642 chars]",
-         "url" : "https://www.outtherecolorado.com/news/vail-resorts-reports-loss-of-millions-during-fiscal-fourth-quarter/article_fc43cafa-feaa-11ea-8160-ffc36c87e74c.html",
-         "description" : "BROOMFIELD, Colo. (AP) Vail Resorts Inc. (MTN) on Thursday reported a loss of $153.6 million in its fiscal fourth quarter.",
-         "title" : "Vail Resorts reports loss of millions during fiscal fourth quarter - OutThere Colorado",
-         "publishedAt" : "2020-09-24T21:14:00Z",
-         "urlToImage" : "https://bloximages.newyork1.vip.townnews.com/outtherecolorado.com/content/tncms/assets/v3/editorial/3/5a/35ad4c94-feab-11ea-bb67-efb6ddd4f510/5f6d0d0e07a14.image.jpg?resize=945%2C630",
-         "author" : "The Associated Press"
+         "publishedAt" : "2020-09-24T21:14:00Z"
       },
       {
+         "content" : null,
+         "title" : "Officials: Washington being targeted by phishing campaign - KOMO News",
+         "url" : "http://komonews.com/news/local/officials-washington-being-targeted-by-phishing-campaign",
          "author" : "Associated Press",
          "urlToImage" : "http://static-36.sinclairstoryline.com/resources/media/27711b6c-3e2e-4675-b5a8-27b362d22a23-large16x9_GettyImages1216400387.jpg?1600981343045",
-         "url" : "http://komonews.com/news/local/officials-washington-being-targeted-by-phishing-campaign",
-         "content" : null,
-         "source" : {
-            "name" : "KOMO News",
-            "id" : null
-         },
-         "publishedAt" : "2020-09-24T21:02:00Z",
-         "title" : "Officials: Washington being targeted by phishing campaign - KOMO News",
-         "description" : "OLYMPIA, Wash. (AP) &mdash; Washington state is among those being targeted by a nationwide \"large-scale, highly sophisticated\" phishing campaign.  In response to queries from The Associated Press, a spokesman for Gov. Jay Inslee said in an e-mailed statement …"
-      },
-      {
-         "url" : "http://komonews.com/news/local/ivars-temporarily-closes-seattle-restaurants-due-to-covid-19",
-         "content" : null,
          "source" : {
             "id" : null,
             "name" : "KOMO News"
          },
+         "publishedAt" : "2020-09-24T21:02:00Z",
+         "description" : "OLYMPIA, Wash. (AP) &mdash; Washington state is among those being targeted by a nationwide \"large-scale, highly sophisticated\" phishing campaign.  In response to queries from The Associated Press, a spokesman for Gov. Jay Inslee said in an e-mailed statement …"
+      },
+      {
          "publishedAt" : "2020-09-24T20:59:00Z",
-         "title" : "Ivar's temporarily closes Seattle restaurants due to COVID-19 - KOMO News",
+         "source" : {
+            "name" : "KOMO News",
+            "id" : null
+         },
          "description" : "SEATTLE &ndash; Ivar&rsquo;s announced that is it closing some of its full-service sit down restaurants until next year.  The restaurant group says its 19 walk-up Fish Bar locations and the full-service restaurant in Mukilteo will remain open, but the Acres o…",
+         "content" : null,
          "author" : "KOMO News Staff",
-         "urlToImage" : "http://static-27.sinclairstoryline.com/resources/media/3ec74183-23fc-4457-8c4c-9be10ae041e2-large16x9_ivars_01.jpg?1600981420469"
+         "urlToImage" : "http://static-27.sinclairstoryline.com/resources/media/3ec74183-23fc-4457-8c4c-9be10ae041e2-large16x9_ivars_01.jpg?1600981420469",
+         "title" : "Ivar's temporarily closes Seattle restaurants due to COVID-19 - KOMO News",
+         "url" : "http://komonews.com/news/local/ivars-temporarily-closes-seattle-restaurants-due-to-covid-19"
       },
       {
          "author" : "Thornton McEnery",
          "urlToImage" : "https://nypost.com/wp-content/uploads/sites/2/2020/09/citi.jpg?quality=90&strip=all&w=1200",
          "title" : "Citigroup says racism has cost US economy $16 trillion - New York Post ",
-         "publishedAt" : "2020-09-24T20:57:00Z",
-         "description" : "A Wall Street bank just put a price tag on racism in America, and it’s a steep one. New York-based megabank Citigroup found that the US economy has lost out on $16 trillion in growth over the last …",
-         "content" : "A Wall Street bank just put a price tag on racism in America, and its a steep one.\r\nNew York-based megabank Citigroup found that the US economy has lost out on $16 trillion in growth over the last 20… [+2964 chars]",
          "url" : "https://nypost.com/2020/09/24/wall-street-bank-says-racism-has-cost-us-economy-16-trillion/",
+         "content" : "A Wall Street bank just put a price tag on racism in America, and its a steep one.\r\nNew York-based megabank Citigroup found that the US economy has lost out on $16 trillion in growth over the last 20… [+2964 chars]",
+         "description" : "A Wall Street bank just put a price tag on racism in America, and it’s a steep one. New York-based megabank Citigroup found that the US economy has lost out on $16 trillion in growth over the last …",
          "source" : {
             "id" : null,
             "name" : "New York Post"
-         }
+         },
+         "publishedAt" : "2020-09-24T20:57:00Z"
       }
-   ]
+   ],
+   "status" : "ok"
 }
