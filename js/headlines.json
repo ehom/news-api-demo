@@ -3,264 +3,264 @@
    "totalResults" : 70,
    "articles" : [
       {
-         "title" : "FDA issues warning over TikTok 'Benadryl challenge' | TheHill - The Hill",
-         "content" : "The Food and Drug Administration (FDA) on Thursday issued a warning about the serious problems associated with overdosing on the allergy medication Benadryl in response to a so-called Benadryl Challe… [+2750 chars]",
-         "urlToImage" : "https://thehill.com/sites/default/files/tiktok.jpg",
-         "publishedAt" : "2020-09-25T14:32:01Z",
-         "author" : "Morgan Gstalter",
-         "description" : "The Food and Drug Administration (FDA) on Thursday ...",
-         "url" : "https://thehill.com/policy/healthcare/518146-fda-issues-benadryl-challenge-warning-over-viral-tiktok-trend",
+         "content" : null,
+         "description" : "“This (outdoor dining) has been, I think, an extraordinarily positive experiment, and it’s worked,&quot; de Blasio said.",
          "source" : {
-            "id" : "the-hill",
-            "name" : "The Hill"
+            "name" : "New York Daily News",
+            "id" : null
+         },
+         "author" : "Michael Gartland",
+         "publishedAt" : "2020-09-25T15:27:00Z",
+         "url" : "https://www.nydailynews.com/news/politics/ny-outdoor-dining-covid-de-blasio-20200925-7pgps5lkezd2hnrikff7kgobmu-story.html",
+         "title" : "NYC to extend popular outdoor dining program permanently: de Blasio - New York Daily News",
+         "urlToImage" : "https://www.nydailynews.com/resizer/7fXrH2e4cBxWhBaOtovIpQUfRzI=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/QUJRIET4XBAOVP5IV2HFAD3LNY.JPG"
+      },
+      {
+         "author" : "Mallory Hughes, CNN",
+         "description" : "At least 41 people are sick in 10 different states after a salmonella outbreak that has been linked to dried wood ear mushrooms, the Centers for Disease Control and Prevention said.",
+         "content" : "(CNN)At least 41 people are sick in 10 different states after a salmonella outbreak that has been linked to dried wood ear mushrooms, the Centers for Disease Control and Prevention said.\r\nThe cases s… [+2280 chars]",
+         "source" : {
+            "name" : "CNN",
+            "id" : "cnn"
+         },
+         "url" : "https://www.cnn.com/2020/09/25/health/salmonella-mushroom-recall-trnd/index.html",
+         "publishedAt" : "2020-09-25T15:09:00Z",
+         "title" : "A multi-state salmonella outbreak that sickened at least 41 people is linked to recalled mushrooms - CNN",
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200925092038-salmonella-mushroom-recall-trnd-0924-super-tease.jpg"
+      },
+      {
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200925101005-bmw-us-car-dealership-file-super-tease.jpg",
+         "title" : "BMW fined $18 million for inflating sales figures - CNN",
+         "url" : "https://www.cnn.com/2020/09/25/business/bmw-sales-figures-sec-fine/index.html",
+         "publishedAt" : "2020-09-25T14:56:00Z",
+         "author" : "Chris Isidore, CNN Business",
+         "source" : {
+            "id" : "cnn",
+            "name" : "CNN"
+         },
+         "content" : null,
+         "description" : "Luxury automaker BMW has agreed to pay an $18 million fine for misreporting its car sales figures over the course of five years, the Securities and Exchange Commission announced."
+      },
+      {
+         "url" : "https://www.businessinsider.com/palantir-valuation-22-billion-public-listing-wsj-2020-9",
+         "publishedAt" : "2020-09-25T14:48:00Z",
+         "author" : "Shalini Nagarajan",
+         "description" : "Palantir is expected to fetch a $22 billion valuation in its market debut next week, report says",
+         "content" : "Arnd Wiegmann/Reuters\r\n<ul><li>Palantir, the secretive technology firm, could fetch a $22 billion price-tag at its planned market debut on September 30, the Wall Street Journal reported on Thursday.<… [+2635 chars]",
+         "source" : {
+            "name" : "Business Insider",
+            "id" : "business-insider"
+         },
+         "urlToImage" : "https://i.insider.com/5f6d9a440f4d5500110323e6?format=jpeg",
+         "title" : "Palantir is expected to fetch a $22 billion valuation in its market debut next week, report says | Markets - Business Insider"
+      },
+      {
+         "urlToImage" : "https://thehill.com/sites/default/files/tiktok.jpg",
+         "title" : "FDA issues warning over TikTok 'Benadryl challenge' | TheHill - The Hill",
+         "publishedAt" : "2020-09-25T14:32:01Z",
+         "url" : "https://thehill.com/policy/healthcare/518146-fda-issues-benadryl-challenge-warning-over-viral-tiktok-trend",
+         "content" : "The Food and Drug Administration (FDA) on Thursday issued a warning about the serious problems associated with overdosing on the allergy medication Benadryl in response to a so-called Benadryl Challe… [+2750 chars]",
+         "description" : "The Food and Drug Administration (FDA) on Thursday ...",
+         "source" : {
+            "name" : "The Hill",
+            "id" : "the-hill"
+         },
+         "author" : "Morgan Gstalter"
+      },
+      {
+         "title" : "Housing Boom in U.S. Threatened by Shortage of Available Homes - Bloomberg",
+         "urlToImage" : null,
+         "source" : {
+            "id" : "bloomberg",
+            "name" : "Bloomberg"
+         },
+         "description" : null,
+         "content" : "To continue, please click the box below to let us know you're not a robot.",
+         "author" : null,
+         "publishedAt" : "2020-09-25T14:30:00Z",
+         "url" : "https://www.bloomberg.com/tosv2.html?vid=&uuid=40e61af0-ff50-11ea-b1b5-112ce3ee8445&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wOS0yNS9ob3VzaW5nLWJvb20taW4tdS1zLXRocmVhdGVuZWQtYnktc2hvcnRhZ2Utb2YtYXZhaWxhYmxlLWhvbWVz"
+      },
+      {
+         "author" : null,
+         "description" : null,
+         "content" : null,
+         "source" : {
+            "name" : "Google News",
+            "id" : "google-news"
+         },
+         "url" : "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9RXVfOUdHZHN1OHfSAQA?oc=5",
+         "publishedAt" : "2020-09-25T14:15:40Z",
+         "title" : "Construction worker dies after eating black licorice - ABC News",
+         "urlToImage" : null
+      },
+      {
+         "title" : "European Commission to challenge Apple tax bill verdict - BBC News",
+         "urlToImage" : "https://ichef.bbci.co.uk/news/1024/branded_news/17933/production/_98136569_apple.logo.close.lit.g.jpg",
+         "author" : "https://www.facebook.com/bbcnews",
+         "source" : {
+            "id" : null,
+            "name" : "BBC News"
+         },
+         "description" : "EU court ruling that the tech giant does not have to pay hefty back taxes to Ireland goes back to court.",
+         "content" : null,
+         "url" : "https://www.bbc.com/news/technology-54296405",
+         "publishedAt" : "2020-09-25T13:53:00Z"
+      },
+      {
+         "description" : "The Covid-19 pandemic fueled a surge in shopping at Costco in its most recent quarter, lifting its annual profit above $4 billion for the first time. But it wasn't all good news for the big box retailer.",
+         "content" : null,
+         "source" : {
+            "name" : "CNN",
+            "id" : "cnn"
+         },
+         "author" : "Chris Isidore, CNN Business",
+         "publishedAt" : "2020-09-25T13:13:00Z",
+         "url" : "https://www.cnn.com/2020/09/25/business/costco-earnings-pandemic-shopping/index.html",
+         "title" : "Pandemic shopping pushes Costco to a record profit, but also raises costs by millions - CNN",
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200925122607-costco-0815-restricted-super-tease.jpg"
+      },
+      {
+         "url" : "https://www.marketwatch.com/story/william-hill-gets-offers-from-caesars-apollo-2020-09-25",
+         "publishedAt" : "2020-09-25T13:02:00Z",
+         "author" : "Ian Walker",
+         "content" : "William Hill PLC said Friday that it has received two separate proposals from Caesars Entertainment Inc. and Apollo Management International LLP concerning possible cash offers.The London-listed bett… [+953 chars]",
+         "description" : "",
+         "source" : {
+            "id" : null,
+            "name" : "MarketWatch"
+         },
+         "urlToImage" : "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+         "title" : "William Hill gets offers from Caesars, Apollo - MarketWatch"
+      },
+      {
+         "description" : "An annual CandyStore.com study of best-selling candy says Michigan loves candy corn, followed by Starburst and Skittles. Gross.",
+         "content" : "Well, we just can't have any nice things in 2020, can we?\r\nAs you probably\r\n definitely recall, one of the greatest highlights of 2019 was that beautiful September day when, for the first time in yea… [+2671 chars]",
+         "source" : {
+            "id" : null,
+            "name" : "Detroit Free Press"
+         },
+         "author" : "Brian Manzullo",
+         "publishedAt" : "2020-09-25T12:59:08Z",
+         "url" : "https://www.freep.com/story/news/local/michigan/2020/09/25/candy-corn-halloween-candy-michigan/3528461001/",
+         "title" : "Michigan's favorite Halloween treat is again candy corn because we apparently love garbage - Detroit Free Press",
+         "urlToImage" : "https://www.gannett-cdn.com/presto/2018/10/15/USAT/cb9b302a-e740-411d-822d-ea6844d02f68-candy_corn.jpg?crop=508,283,x0,y0&width=1600&height=800&fit=bounds"
+      },
+      {
+         "urlToImage" : "https://static3.seekingalpha.com/assets/og_image_192-59bfd51c9fe6af025b2f9f96c807e46f8e2f06c5ae787b15bf1423e6c676d4db.png",
+         "title" : "Sell-siders gush over Novavax COVID-19 study - Seeking Alpha",
+         "url" : "https://seekingalpha.com/news/3617309-sell-siders-gush-over-novavax-covidminus-19-study",
+         "publishedAt" : "2020-09-25T12:59:00Z",
+         "author" : "Douglas W. House",
+         "description" : "Sell-side cheerleaders are out in force this morning on the heels of the launch of a pivotal Phase 3 clinical trial in the U.K.",
+         "content" : "Sell-side cheerleaders are out in force this morning on the heels of the launch of a pivotal Phase 3 clinical trial in the U.K. evaluating Novavax's (NASDAQ:NVAX) COVID-19 vaccine candidate, NVX-CoV2… [+1089 chars]",
+         "source" : {
+            "id" : null,
+            "name" : "Seeking Alpha"
          }
       },
       {
          "title" : "U.S. core capital goods orders beat expectations; business investment rebounding - CNBC",
          "urlToImage" : "https://image.cnbcfm.com/api/v1/image/104418203-RTX32LLU.jpg?v=1537992682",
-         "content" : "New orders for key U.S.-made capital goods increased more than expected in August and demand for the prior month was stronger than previously estimated, suggesting a rebound in business spending on e… [+3196 chars]",
-         "publishedAt" : "2020-09-25T12:32:00Z",
          "author" : "Reuters",
          "description" : "New orders for key U.S.-made capital goods increased more than expected in August and demand for the prior month was stronger than previously reported, pointing to a steady recovery in manufacturing.",
+         "content" : "New orders for key U.S.-made capital goods increased more than expected in August and demand for the prior month was stronger than previously estimated, suggesting a rebound in business spending on e… [+3196 chars]",
+         "source" : {
+            "name" : "CNBC",
+            "id" : null
+         },
          "url" : "https://www.cnbc.com/2020/09/25/durable-goods-orders-august-2020.html",
-         "source" : {
-            "name" : "CNBC",
-            "id" : null
-         }
+         "publishedAt" : "2020-09-25T12:32:00Z"
       },
       {
-         "title" : "Dow Jones Futures Fall: Look For This Bullish Stock Market Signal; Tesla, Nvidia Hold Key Support - Investor's Business Daily",
-         "content" : "Dow Jones futures fell modestly early Friday, along with S&amp;P 500 futures, but both pared losses as Nasdaq futures moved slightly higher. A new stock market rally attempt closed Thursday with mode… [+6930 chars]",
-         "urlToImage" : "https://www.investors.com/wp-content/uploads/2017/11/stock-bull-tongue-adobe.jpg",
-         "publishedAt" : "2020-09-25T12:16:00Z",
-         "author" : "Investor's Business Daily",
-         "description" : "Dow Jones futures: A stock market rally attempt closed higher but showed no clear direction. Tesla, Nvidia and some other leaders held their 50-day lines.",
          "source" : {
-            "name" : "Investor's Business Daily",
-            "id" : null
+            "id" : null,
+            "name" : "CNBC"
          },
-         "url" : "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-whipsaw-stock-market-rally-tesla-nvidia-hold-key-support/"
-      },
-      {
-         "publishedAt" : "2020-09-25T12:00:00Z",
-         "author" : "Maggie Fitzgerald",
+         "content" : "(This story is for CNBC Pro subscribers only.)\r\nBarclays said Friday it's time to buy cruise stocks because the group is nearing an \"inflection point\" with a possible lift to the no-sail order next w… [+271 chars]",
          "description" : "Barclays just upgraded shares of Royal Caribbean, Carniva and Norwegian Cruise Line to overweight from equal weight",
+         "author" : "Maggie Fitzgerald",
+         "publishedAt" : "2020-09-25T12:00:00Z",
          "url" : "https://www.cnbc.com/2020/09/25/-barclays-says-its-time-to-buy-the-cruise-stocks.html",
+         "title" : "Barclays says it's time to buy cruise stocks - CNBC",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106485189-1586697697536gettyimages-1209702640.jpeg?v=1594416647"
+      },
+      {
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106684581-1598884854659-gettyimages-1228284649-AFP_1WV9QA.jpeg?v=1600729068",
+         "title" : "5 things to know before the stock market opens Friday - CNBC",
+         "url" : "https://www.cnbc.com/2020/09/25/5-things-to-know-before-the-stock-market-opens-september-25-2020.html",
+         "publishedAt" : "2020-09-25T11:48:00Z",
+         "author" : "Matthew J. Belvedere",
          "source" : {
             "name" : "CNBC",
             "id" : null
          },
-         "title" : "Barclays says it's time to buy cruise stocks - CNBC",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106485189-1586697697536gettyimages-1209702640.jpeg?v=1594416647",
-         "content" : "(This story is for CNBC Pro subscribers only.)\r\nBarclays said Friday it's time to buy cruise stocks because the group is nearing an \"inflection point\" with a possible lift to the no-sail order next w… [+271 chars]"
+         "description" : "With four trading days left in September, the Dow, S&P 500 and Nasdaq were tracking for their first monthly losses since March.",
+         "content" : "1. Wall Street heads for first monthly decline since March\r\nA man walks near the New York Stock Exchange (NYSE) on August 31, 2020 at Wall Street in New York City.\r\nU.S. stock futures were pointing t… [+4460 chars]"
       },
       {
-         "publishedAt" : "2020-09-25T11:31:00Z",
-         "author" : "Travis Hoium",
-         "description" : "No company will catch Tesla in EV manufacturing in 2021, but that may not be the biggest long-term threat.",
+         "title" : "Second stimulus check: Billionaire Mark Cuban proposes $1,000 stimulus checks every 2 weeks - AL.com",
+         "urlToImage" : "https://www.al.com/resizer/hsz-AH3vmwdw3UgTK8bAzpv92CQ=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/SUR2NAAHUVATFA4KAFPHW4V5OY.jpg",
+         "author" : "Leada Gore | lgore@al.com",
          "source" : {
             "id" : null,
-            "name" : "Motley Fool"
+            "name" : "AL.com"
          },
-         "url" : "https://www.fool.com/investing/2020/09/25/1-company-tesla-should-worry-about-in-2021/",
-         "title" : "The Company Tesla Should Worry About in 2021 - The Motley Fool",
-         "content" : "Shares of Tesla (NASDAQ:TSLA) have had such a good year in 2020 that the company is now worth over $400 billion, more than many major automakers combined. Different investors have different theses on… [+8519 chars]",
-         "urlToImage" : "https://g.foolcdn.com/editorial/images/592214/cruise-track-3-in-seattle.jpg"
+         "content" : "With Congress at an impasse over a second round of coronavirus stimulus checks, billionaire Mark Cuban has his own idea.\r\nCuban, Shark Tank investor and Dallas Maverick owner, told CNBC he is in favo… [+1196 chars]",
+         "description" : "The latest stimulus plan includes hefty direct payments.",
+         "url" : "https://www.al.com/news/2020/09/second-stimulus-check-billionaire-mark-cuban-proposes-1000-stimulus-checks-every-2-weeks.html",
+         "publishedAt" : "2020-09-25T11:16:00Z"
       },
       {
-         "source" : {
-            "id" : null,
-            "name" : "Cbslocal.com"
-         },
-         "url" : "https://newyork.cbslocal.com/2020/09/25/see-it-mta-workers-build-illegal-man-cave-in-grand-central-terminal-few-would-have-the-chutzpah/",
+         "content" : "NEW YORK (CBSNewYork) – At least three MTA employees converted a storage room at Grand Central Terminal as a “man cave,” according to an internal investigation.\r\nThey may get fired after the best kep… [+2888 chars]",
          "description" : "According to the Office of the MTA Inspector General, the room had a futon couch, large flat-screen television with streaming capabilities, a refrigerator, microwave, air conditioning, workout equipment and more.",
+         "source" : {
+            "name" : "Cbslocal.com",
+            "id" : null
+         },
          "author" : "CBS New York",
          "publishedAt" : "2020-09-25T11:00:00Z",
-         "content" : "NEW YORK (CBSNewYork) – At least three MTA employees converted a storage room at Grand Central Terminal as a “man cave,” according to an internal investigation.\r\nThey may get fired after the best kep… [+2888 chars]",
-         "urlToImage" : "https://newyork.cbslocal.com/wp-content/uploads/sites/14578484/2020/09/MTA-Man-Cave.jpg?w=987",
-         "title" : "See It: MTA Workers Build Illegal ‘Man Cave’ In Grand Central Terminal; ‘Few Would Have The Chutzpah’ - CBS New York"
+         "url" : "https://newyork.cbslocal.com/2020/09/25/see-it-mta-workers-build-illegal-man-cave-in-grand-central-terminal-few-would-have-the-chutzpah/",
+         "title" : "See It: MTA Workers Build Illegal ‘Man Cave’ In Grand Central Terminal; ‘Few Would Have The Chutzpah’ - CBS New York",
+         "urlToImage" : "https://newyork.cbslocal.com/wp-content/uploads/sites/14578484/2020/09/MTA-Man-Cave.jpg?w=987"
       },
       {
-         "publishedAt" : "2020-09-25T10:56:00Z",
-         "author" : "Lizzy Gurdus",
-         "description" : "With Baird naming Wells Fargo a bullish fresh pick, two traders assess the prospects from one of Wall Street's worst-performing stocks.",
-         "url" : "https://www.cnbc.com/2020/09/25/wells-fargo-stock-paces-for-worst-year-but-too-soon-to-buy-trader.html",
+         "urlToImage" : "https://images.mktw.net/im-236526/social",
+         "title" : "Buy the dip in gold but not stocks, say Citi's global strategists - MarketWatch",
+         "url" : "https://www.marketwatch.com/story/buy-the-dip-in-gold-but-not-stocks-say-citis-global-strategists-11601030281",
+         "publishedAt" : "2020-09-25T10:38:00Z",
+         "author" : "Steve Goldstein",
          "source" : {
-            "name" : "CNBC",
-            "id" : null
+            "id" : null,
+            "name" : "MarketWatch"
          },
-         "title" : "Wells Fargo stock paces for worst year, but it's too soon to buy, trader says - CNBC",
-         "content" : "One of Wall Street's worst performers is getting some love.\r\nWells Fargo shares closed more than 2% higher on Thursday after Baird analysts named the struggling stock a \"bullish fresh pick,\" saying i… [+3300 chars]",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106716468-1600981973430-gettyimages-1268610212-nng_4569_20200825101513268.jpeg?v=1600982030"
+         "description" : "",
+         "content" : "It has been a rough September for the stock market, with the S&amp;P 500 \r\n SPX, \r\n +0.66%\r\ndown over 7% so far.In its comprehensive look at markets, Citis global asset allocation team doesnt expect … [+4562 chars]"
       },
       {
-         "url" : "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9VWxaUUQ0ZWRCZE3SAQA?oc=5",
+         "title" : "The Pandemic Plutocrats: How Covid Is Creating New Fintech Billionaires - Forbes",
+         "urlToImage" : "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6cf277f9a259d6368c9e9f%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3230%26cropY1%3D0%26cropY2%3D1817",
+         "author" : "Jeff Kauflin",
+         "source" : {
+            "id" : null,
+            "name" : "Forbes"
+         },
+         "content" : "With additional reporting by Max Jedeur-Palmgren.\r\nIn 2015, Nick Molnar was living with his parents in Sydney, Australia, and selling jewelry from a desktop computer in his childhood bedroom. Hocking… [+12770 chars]",
+         "description" : "Stay-at-home consumers and stimulus checks have been a boon for online installment financing, digital banks and day trading.",
+         "url" : "https://www.forbes.com/sites/jeffkauflin/2020/09/25/the-pandemic-plutocrats-how-covid-is-creating-new-fintech-billionares/",
+         "publishedAt" : "2020-09-25T10:30:00Z"
+      },
+      {
+         "title" : "Trump asks court to let WeChat ban proceed - CNBC Television",
+         "urlToImage" : null,
          "source" : {
             "name" : "Google News",
             "id" : "google-news"
          },
+         "content" : null,
          "description" : null,
          "author" : null,
          "publishedAt" : "2020-09-25T10:20:40Z",
-         "urlToImage" : null,
-         "content" : null,
-         "title" : "Trump asks court to let WeChat ban proceed - CNBC Television"
-      },
-      {
-         "url" : "https://electrek.co/2020/09/25/tesla-launches-acceleration-boost-upgrade-model-y/",
-         "source" : {
-            "name" : "Electrek",
-            "id" : null
-         },
-         "description" : "Tesla is launching a $2,000 ‘Acceleration Boost’ upgrade for Model Y Dual Motor AWD vehicles — shaving half a second off the 0 to 60 mph acceleration. For a few years now, Tesla started selling vehicles with upgradable software-locked capabilities, like 75 kW…",
-         "author" : null,
-         "publishedAt" : "2020-09-25T10:06:00Z",
-         "content" : "Tesla is launching a $2,000 ‘Acceleration Boost’ upgrade for Model Y Dual Motor AWD vehicles shaving half a second off the 0 to 60 mph acceleration.\r\nFor a few years now, Tesla started selling vehicl… [+1956 chars]",
-         "urlToImage" : "https://electrek.co/wp-content/uploads/sites/3/2020/09/Tesla-Model-Y-hero-4.jpg?quality=82&strip=all",
-         "title" : "Tesla launches $2,000 ‘Acceleration Boost’ upgrade on Model Y - Electrek.co"
-      },
-      {
-         "description" : "They're making big differences in their respective markets and providing big gains for investors.",
-         "url" : "https://www.fool.com/investing/2020/09/25/got-3000-3-game-changing-stocks-to-buy-right-now/",
-         "source" : {
-            "name" : "Motley Fool",
-            "id" : null
-         },
-         "publishedAt" : "2020-09-25T10:02:00Z",
-         "author" : "Keith Speights",
-         "content" : "You have a choice in how to invest. You can try to play it relatively safe and only buy shares of well-known companies that have been around for a long time, or you can bet the farm on unproven stock… [+3904 chars]",
-         "urlToImage" : "https://g.foolcdn.com/editorial/images/592309/woman-with-light-bulbs.jpg",
-         "title" : "Got $3,000? 3 Game-Changing Stocks to Buy Right Now - The Motley Fool"
-      },
-      {
-         "description" : "These are the major findings after BuzzFeed News worked with more than 100 news organizations to unravel the secrets inside 2,100 confidential documents filed by banks across the globe.",
-         "url" : "https://www.buzzfeednews.com/article/jasonleopold/fincen-files-8-big-takeaways",
-         "source" : {
-            "id" : null,
-            "name" : "BuzzFeed News"
-         },
-         "publishedAt" : "2020-09-25T10:01:00Z",
-         "author" : "Jason Leopold",
-         "content" : "This week, BuzzFeed News told the world about the FinCEN Files, an investigation based on thousands of government documents that BuzzFeed News shared with the International Consortium of Investigativ… [+3951 chars]",
-         "urlToImage" : "https://img.buzzfeed.com/buzzfeed-static/static/2020-09/24/21/asset/7f93f941377c/sub-buzz-24606-1600983349-9.jpg?crop=1346:705;139,85",
-         "title" : "8 Things You Need To Know About The Dark Side Of The World's Biggest Banks, As Revealed In The FinCEN Files - BuzzFeed News"
-      },
-      {
-         "content" : "BOSTON —Boston is signing off on the largest development in the city's history. \r\nThe Suffolk Downs racetrack will be transformed into a village of 10,000 apartments and condominiums. \r\nMore than 100… [+322 chars]",
-         "urlToImage" : "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/suffolk-downs-racetrack-entrance-sign-1585407797.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
-         "title" : "Largest development in Boston's history gets green light - WCVB Boston",
-         "description" : "Boston is signing off on the largest development in the city's history.",
-         "source" : {
-            "id" : null,
-            "name" : "WCVB Boston"
-         },
-         "url" : "https://www.wcvb.com/article/largest-development-in-bostons-history-gets-green-light-suffolk-downs/34156497",
-         "publishedAt" : "2020-09-25T09:54:00Z",
-         "author" : null
-      },
-      {
-         "description" : "The battle between the EU and Apple on taxation is not over yet.",
-         "url" : "https://www.cnbc.com/2020/09/25/eu-appeals-against-apple-ruling-in-15-billion-tax-battle.html",
-         "source" : {
-            "name" : "CNBC",
-            "id" : null
-         },
-         "publishedAt" : "2020-09-25T09:46:00Z",
-         "author" : "Silvia Amaro",
-         "content" : "European Commission executive vice president Margrethe Vestager talks to media in Brussels, Belgium.\r\nThe battle between the EU and Apple on taxation is not over yet.\r\nOn Friday, the European Commiss… [+2234 chars]",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106716801-1601014167499-gettyimages-1227589013-202000716vestager34.jpeg?v=1601014279",
-         "title" : "EU appeals against Apple ruling in $15 billion tax battle - CNBC"
-      },
-      {
-         "author" : "Natasha Lomas",
-         "publishedAt" : "2020-09-25T08:50:16Z",
-         "url" : "http://techcrunch.com/2020/09/25/cambridge-analyticas-former-boss-gets-7-year-ban-on-being-a-business-director/",
-         "source" : {
-            "name" : "TechCrunch",
-            "id" : "techcrunch"
-         },
-         "description" : "The former CEO of Cambridge Analytica, the disgraced data company that worked for the 2016 Trump campaign and shut down in 2018 over a voter manipulation scandal involving masses of Facebook data — has been banned from running limited companies for seven year…",
-         "title" : "Cambridge Analytica’s former boss gets 7-year ban on being a business director - TechCrunch",
-         "urlToImage" : "https://techcrunch.com/wp-content/uploads/2018/03/gettyimages-934971806.jpg?w=750",
-         "content" : "The former CEO of Cambridge Analytica, the disgraced data company that worked for the 2016 Trump campaign and shut down in 2018 over a voter manipulation scandal involving masses of Facebook data — h… [+3556 chars]"
-      },
-      {
-         "urlToImage" : "https://responsive.fxempire.com/width/600/webp-lossy-70.q50/_fxempire_/2020/09/Natural-Gas-2.jpeg",
-         "content" : "US Energy Information Administration Weekly Storage Report\r\nThis week’s EIA report covering the week-ending September 18 is expected to come in lighter than last week. There is a lot of interest in t… [+1176 chars]",
-         "title" : "Natural Gas Price Fundamental Daily Forecast - Traders Looking for EIA Report to Show Lower-than-Average Build - FX Empire",
-         "description" : "Continue to monitor the price spreads. Currently, they are indicating the bullishness is being best expressed in the winter contracts.",
-         "source" : {
-            "name" : "FX Empire",
-            "id" : null
-         },
-         "url" : "https://www.fxempire.com/forecasts/article/natural-gas-price-fundamental-daily-forecast-traders-looking-for-eia-report-to-show-lower-than-average-build-674345",
-         "publishedAt" : "2020-09-25T08:04:40Z",
-         "author" : null
-      },
-      {
-         "author" : "Associated Press",
-         "publishedAt" : "2020-09-25T06:16:58Z",
-         "source" : {
-            "name" : "Fox Business",
-            "id" : null
-         },
-         "url" : "https://www.foxbusiness.com/markets/bmw-fined-18-million-for-inflating-monthly-us-sales-figures",
-         "description" : "The actions helped BMW maintain a leading retail sales position among other luxury automaker",
-         "title" : "BMW fined $18M for inflating monthly US sales figures - Fox Business",
-         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2018/02/0/0/eda11936d0e0471293b1fe1b53d976de-1.jpg?ve=1&tl=1",
-         "content" : "BMW will pay an $18 million fine to settle allegations that it inflated its monthly U.S. sales numbers for five straight years.\r\nThe Securities and Exchange Commission said Thursday that the German l… [+2319 chars]"
-      },
-      {
-         "url" : "https://finance.yahoo.com/news/exclusive-astrazeneca-gets-partial-immunity-060430135.html",
-         "source" : {
-            "id" : null,
-            "name" : "Yahoo Entertainment"
-         },
-         "description" : "European governments will pay claims above an agreed limit against AstraZeneca over side-effects from its potential COVID-19 vaccine, under different terms...",
-         "author" : "Francesco Guarascio",
-         "publishedAt" : "2020-09-25T06:04:00Z",
-         "urlToImage" : "https://s.yimg.com/uu/api/res/1.2/kkFXqclmgfMiTJYzTZEsCw--~B/aD00NjY7dz04MDA7c209MTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en-US/reuters-finance.com/89ff8859d4b8ff7246f4254fc62ec7f9",
-         "content" : "By Francesco Guarascio\r\nBRUSSELS (Reuters) - European governments will pay claims above an agreed limit against AstraZeneca over side-effects from its potential COVID-19 vaccine, under different term… [+4374 chars]",
-         "title" : "Exclusive: AstraZeneca gets partial immunity in low-cost EU vaccine deal - Yahoo Finance"
-      },
-      {
-         "author" : "Yen Nee Lee",
-         "publishedAt" : "2020-09-25T05:22:00Z",
-         "url" : "https://www.cnbc.com/2020/09/25/china-is-set-to-join-ftse-world-government-bond-index-in-october-2021.html",
-         "source" : {
-            "name" : "CNBC",
-            "id" : null
-         },
-         "description" : "China's scheduled inclusion in the FTSE World Government Bond Index — its third entry into a major global bond index — comes at a time when investors are hunting for yield in an environment of ultra-low interest rates.",
-         "title" : "China is set to join FTSE Russell’s flagship global bond index next year - CNBC",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106143272-1569217672656gettyimages-1169222663.jpeg?v=1601010164",
-         "content" : "SINGAPORE  Major index provider FTSE Russell said Thursday it will add Chinese government bonds to its flagship World Government Bond Index from October next year a development that will bring billio… [+2243 chars]"
-      },
-      {
-         "publishedAt" : "2020-09-25T05:05:52Z",
-         "author" : "Ken Martin",
-         "description" : "The recall was issued by the U.S. Consumer Product Safety Commission",
-         "source" : {
-            "name" : "Fox Business",
-            "id" : null
-         },
-         "url" : "https://www.foxbusiness.com/markets/chainsaws-sold-at-lowes-may-not-turn-off",
-         "title" : "Chainsaws sold at Lowe's may not turn off - Fox Business",
-         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/09/0/0/Kobalt-Chainsaw.png?ve=1&tl=1",
-         "content" : "Be careful if you've purchased a Kobalt Cordless Electric Chainsaw sold exclusively at Lowe’s.\r\nThe saw may not turn off and stay in the on position, posing a chance of injury.\r\nThe recall was issued… [+1014 chars]"
-      },
-      {
-         "publishedAt" : "2020-09-25T05:05:00Z",
-         "author" : "Yilei Sun, Brenda Goh",
-         "description" : "When 32-year-old photographer Jaco Xu needed a run-around car for work in the eastern city of Hangzhou, the price tag on the latest micro EV from GM's <GM.N> China joint venture overcame his qualms about electric vehicles.",
-         "url" : "https://ca.reuters.com/article/us-gm-china-electric-focus-idUKKCN26G0H9",
-         "source" : {
-            "id" : "reuters",
-            "name" : "Reuters"
-         },
-         "title" : "GM energises China line-up with electric micro car - Reuters",
-         "urlToImage" : "https://static.reuters.com/resources/r/?m=02&d=20200925&t=2&i=1534864561&r=LYNXNPEG8O0CH&w=800",
-         "content" : "BEIJING (Reuters) - When 32-year-old photographer Jaco Xu needed a run-around car for work in the eastern city of Hangzhou, the price tag on the latest micro EV from GM's GM.N China joint venture ove… [+4631 chars]"
+         "url" : "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9VWxaUUQ0ZWRCZE3SAQA?oc=5"
       }
    ]
 }
