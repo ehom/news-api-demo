@@ -5,262 +5,262 @@
             "name" : "Investor's Business Daily",
             "id" : null
          },
-         "author" : "Investor's Business Daily",
-         "url" : "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-whipsaw-stock-market-rally-tesla-nvidia-hold-key-support/",
-         "title" : "Dow Jones Futures: Amid Whipsaw Stock Market Action, Tesla, Nvidia, These Top Stocks Hold Key Support - Investor's Business Daily",
-         "publishedAt" : "2020-09-24T22:24:00Z",
          "description" : "Dow Jones futures: A stock market rally attempt closed higher but showed no clear direction. Tesla, Nvidia and some other leaders held their 50-day lines.",
          "content" : "Dow Jones futures rose modestly late Thursday, along with S&amp;P 500 futures and Nasdaq futures. A new stock market rally attempt closed Thursday with modest gains after a wild session. Tesla (TSLA)… [+6561 chars]",
+         "url" : "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-whipsaw-stock-market-rally-tesla-nvidia-hold-key-support/",
+         "author" : "Investor's Business Daily",
+         "publishedAt" : "2020-09-24T22:24:00Z",
+         "title" : "Dow Jones Futures: Amid Whipsaw Stock Market Action, Tesla, Nvidia, These Top Stocks Hold Key Support - Investor's Business Daily",
          "urlToImage" : "https://www.investors.com/wp-content/uploads/2016/04/SSA-040816-shutterstock.jpg"
       },
       {
-         "description" : null,
-         "publishedAt" : "2020-09-24T21:37:00Z",
          "urlToImage" : "https://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc_logo.gif?v=1524171804",
-         "content" : "One of the main draws of the Paycheck Protection Program was the ability to have loans forgiven if the money was used as the law permitted  with 60% of the capital going to payroll and 40% to other a… [+4209 chars]",
+         "title" : "Banks and small businesses look to Congress to streamline PPP forgiveness - CNBC",
+         "publishedAt" : "2020-09-24T21:37:00Z",
          "author" : "Kate Rogers",
+         "url" : "https://www.cnbc.com/2020/09/24/banks-small-businesses-look-to-congress-to-streamline-ppp-forgiveness.html",
+         "content" : "One of the main draws of the Paycheck Protection Program was the ability to have loans forgiven if the money was used as the law permitted  with 60% of the capital going to payroll and 40% to other a… [+4209 chars]",
+         "description" : null,
          "source" : {
             "id" : null,
             "name" : "CNBC"
-         },
-         "title" : "Banks and small businesses look to Congress to streamline PPP forgiveness - CNBC",
-         "url" : "https://www.cnbc.com/2020/09/24/banks-small-businesses-look-to-congress-to-streamline-ppp-forgiveness.html"
+         }
       },
       {
-         "publishedAt" : "2020-09-24T21:26:00Z",
-         "description" : "OLYMPIA, Wash. &ndash; Gov Jay Inslee announced new safety protocols for commercial airline services during the COVID-19 pandemic at a press conference with airline officials Thursday.  Title: Gov. Jay Inslee is discussing COVID-19, new safety protocols for a…",
-         "content" : null,
-         "urlToImage" : "http://static-37.sinclairstoryline.com/resources/media/7110c2ba-7fbe-46b4-9d22-df1f390cc3fd-large16x9_thumb_94473.png?1600982304260",
-         "source" : {
-            "id" : null,
-            "name" : "KOMO News"
-         },
-         "author" : "KOMO News Staff",
-         "url" : "http://komonews.com/news/coronavirus/inslee-to-discuss-covid-19-protocols-for-airline-travel",
-         "title" : "Inslee announces new COVID-19 safety protocols for airline travel - KOMO News"
-      },
-      {
-         "description" : "SEATTLE &ndash; Ivar&rsquo;s announced that is it closing some of its full-service sit down restaurants until next year.  The restaurant group says its 19 walk-up Fish Bar locations and the full-service restaurant in Mukilteo will remain open, but the Acres o…",
-         "publishedAt" : "2020-09-24T20:59:00Z",
-         "urlToImage" : "http://static-27.sinclairstoryline.com/resources/media/3ec74183-23fc-4457-8c4c-9be10ae041e2-large16x9_ivars_01.jpg?1600981420469",
-         "content" : null,
-         "author" : "KOMO News Staff",
          "source" : {
             "name" : "KOMO News",
             "id" : null
          },
-         "title" : "Ivar's temporarily closes Seattle restaurants due to COVID-19 - KOMO News",
-         "url" : "http://komonews.com/news/local/ivars-temporarily-closes-seattle-restaurants-due-to-covid-19"
+         "url" : "http://komonews.com/news/coronavirus/inslee-to-discuss-covid-19-protocols-for-airline-travel",
+         "content" : null,
+         "description" : "OLYMPIA, Wash. &ndash; Gov Jay Inslee announced new safety protocols for commercial airline services during the COVID-19 pandemic at a press conference with airline officials Thursday.  Title: Gov. Jay Inslee is discussing COVID-19, new safety protocols for a…",
+         "title" : "Inslee announces new COVID-19 safety protocols for airline travel - KOMO News",
+         "urlToImage" : "http://static-37.sinclairstoryline.com/resources/media/7110c2ba-7fbe-46b4-9d22-df1f390cc3fd-large16x9_thumb_94473.png?1600982304260",
+         "author" : "KOMO News Staff",
+         "publishedAt" : "2020-09-24T21:26:00Z"
       },
       {
-         "title" : "Citigroup says racism has cost US economy $16 trillion - New York Post ",
+         "source" : {
+            "name" : "KOMO News",
+            "id" : null
+         },
+         "description" : "SEATTLE &ndash; Ivar&rsquo;s announced that is it closing some of its full-service sit down restaurants until next year.  The restaurant group says its 19 walk-up Fish Bar locations and the full-service restaurant in Mukilteo will remain open, but the Acres o…",
+         "content" : null,
+         "url" : "http://komonews.com/news/local/ivars-temporarily-closes-seattle-restaurants-due-to-covid-19",
+         "author" : "KOMO News Staff",
+         "publishedAt" : "2020-09-24T20:59:00Z",
+         "title" : "Ivar's temporarily closes Seattle restaurants due to COVID-19 - KOMO News",
+         "urlToImage" : "http://static-27.sinclairstoryline.com/resources/media/3ec74183-23fc-4457-8c4c-9be10ae041e2-large16x9_ivars_01.jpg?1600981420469"
+      },
+      {
          "url" : "https://nypost.com/2020/09/24/wall-street-bank-says-racism-has-cost-us-economy-16-trillion/",
-         "author" : "Thornton McEnery",
+         "content" : "A Wall Street bank just put a price tag on racism in America, and its a steep one.\r\nNew York-based megabank Citigroup found that the US economy has lost out on $16 trillion in growth over the last 20… [+2964 chars]",
+         "description" : "A Wall Street bank just put a price tag on racism in America, and it’s a steep one. New York-based megabank Citigroup found that the US economy has lost out on $16 trillion in growth over the last …",
          "source" : {
             "id" : null,
             "name" : "New York Post"
          },
          "urlToImage" : "https://nypost.com/wp-content/uploads/sites/2/2020/09/citi.jpg?quality=90&strip=all&w=1200",
-         "content" : "A Wall Street bank just put a price tag on racism in America, and its a steep one.\r\nNew York-based megabank Citigroup found that the US economy has lost out on $16 trillion in growth over the last 20… [+2964 chars]",
-         "description" : "A Wall Street bank just put a price tag on racism in America, and it’s a steep one. New York-based megabank Citigroup found that the US economy has lost out on $16 trillion in growth over the last …",
-         "publishedAt" : "2020-09-24T20:57:00Z"
+         "title" : "Citigroup says racism has cost US economy $16 trillion - New York Post ",
+         "publishedAt" : "2020-09-24T20:57:00Z",
+         "author" : "Thornton McEnery"
       },
       {
-         "description" : "In a unanimous vote Tuesday night, the Berkeley City Council passed the “healthy checkout” ordinance, which will prohibit large grocery stores from selling food and beverages deemed unhealthy in a 3-foot radius from the checkout.",
-         "publishedAt" : "2020-09-24T20:34:06Z",
          "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/09/0/0/Grocery-Store-Checkout-iStock.jpg?ve=1&tl=1",
-         "content" : "Berkeley is gearing up to become the first city in the nation to ban junk food from the checkout line in grocery stores.\r\nIn a unanimous vote Tuesday night, the Berkeley City Council passed the “heal… [+3448 chars]",
+         "title" : "Berkeley is the first city in the US to ban junk food in checkout lanes - Fox Business",
+         "publishedAt" : "2020-09-24T20:34:06Z",
          "author" : "Sumner Park",
+         "source" : {
+            "id" : null,
+            "name" : "Fox Business"
+         },
+         "url" : "https://www.foxbusiness.com/lifestyle/berkeley-ca-first-in-u-s-to-ban-junk-food-in-checkout-lanes",
+         "content" : "Berkeley is gearing up to become the first city in the nation to ban junk food from the checkout line in grocery stores.\r\nIn a unanimous vote Tuesday night, the Berkeley City Council passed the “heal… [+3448 chars]",
+         "description" : "In a unanimous vote Tuesday night, the Berkeley City Council passed the “healthy checkout” ordinance, which will prohibit large grocery stores from selling food and beverages deemed unhealthy in a 3-foot radius from the checkout."
+      },
+      {
          "source" : {
             "name" : "Fox Business",
             "id" : null
          },
-         "title" : "Berkeley is the first city in the US to ban junk food in checkout lanes - Fox Business",
-         "url" : "https://www.foxbusiness.com/lifestyle/berkeley-ca-first-in-u-s-to-ban-junk-food-in-checkout-lanes"
-      },
-      {
-         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/09/0/0/Industry-City-Brooklyn-GST2.png?ve=1&tl=1",
+         "url" : "https://www.foxbusiness.com/economy/industry-city-proposal-pulled-jobs",
          "content" : "Plans to rezone Brooklyn's mega housing project, Industry City, have been pulled and with it, 20,000 potential jobs.\r\nThe expansion project was slated to transform part of the Brooklyn waterfront as … [+2163 chars]",
          "description" : "The expansion project was slated to transform part of the Brooklyn waterfront as well as add numerous job opportunities amid a time unemployment sits at an elevated 8.4%.",
-         "publishedAt" : "2020-09-24T20:34:03Z",
+         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/09/0/0/Industry-City-Brooklyn-GST2.png?ve=1&tl=1",
          "title" : "Brooklyn's Industry City rezone proposal pulled, 20000 potential jobs lost: report - Fox Business",
-         "url" : "https://www.foxbusiness.com/economy/industry-city-proposal-pulled-jobs",
-         "author" : "Daniella Genovese",
-         "source" : {
-            "id" : null,
-            "name" : "Fox Business"
-         }
+         "publishedAt" : "2020-09-24T20:34:03Z",
+         "author" : "Daniella Genovese"
       },
       {
-         "url" : "https://www.marketwatch.com/story/costco-clears-4-billion-in-earnings-for-first-time-amid-record-growth-but-the-stock-is-falling-11600979558",
+         "publishedAt" : "2020-09-24T20:32:00Z",
+         "author" : "Jeremy C. Owens",
+         "urlToImage" : "https://images.mktw.net/im-234629/social",
          "title" : "Costco clears $4 billion in earnings for first time amid record growth, but the stock is falling - MarketWatch",
          "source" : {
-            "name" : "MarketWatch",
-            "id" : null
+            "id" : null,
+            "name" : "MarketWatch"
          },
-         "author" : "Jeremy C. Owens",
+         "description" : "Strongest same-store sales growth in records dating back to 2000 push Costco to record profit for fiscal year",
          "content" : "Costco Wholesale Corp. brought in $4 billion in profit for the first time in a fiscal year, thanks to a big boost from shoppers stocking up during the COVID-19 pandemic.Costco \r\n COST, \r\n +0.68%\r\nrev… [+2116 chars]",
-         "urlToImage" : "https://images.mktw.net/im-234629/social",
-         "publishedAt" : "2020-09-24T20:32:00Z",
-         "description" : "Strongest same-store sales growth in records dating back to 2000 push Costco to record profit for fiscal year"
+         "url" : "https://www.marketwatch.com/story/costco-clears-4-billion-in-earnings-for-first-time-amid-record-growth-but-the-stock-is-falling-11600979558"
       },
       {
-         "url" : "https://www.cnn.com/2020/09/24/tech/amazon-ring-drone/index.html",
-         "title" : "Amazon's Ring will sell a $250 security drone that flies around your home - CNN",
-         "source" : {
-            "name" : "CNN",
-            "id" : "cnn"
-         },
-         "author" : "Rachel Metz, CNN Business",
-         "content" : "(CNN Business)Ring, the Amazon-owned home security business, introduced a flying camera on Thursday that may excite home-surveillance fans but is almost certain to rankle privacy advocates. \r\nThe $25… [+1215 chars]",
-         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200924150957-02-ring-always-home-cam-amazon-event---screenshot-super-tease.jpg",
          "publishedAt" : "2020-09-24T20:32:00Z",
-         "description" : "Ring, the Amazon-owned home security business, introduced a flying camera on Thursday that may excite home-surveillance fans but is almost certain to rankle privacy advocates."
+         "author" : "Rachel Metz, CNN Business",
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200924150957-02-ring-always-home-cam-amazon-event---screenshot-super-tease.jpg",
+         "title" : "Amazon's Ring will sell a $250 security drone that flies around your home - CNN",
+         "description" : "Ring, the Amazon-owned home security business, introduced a flying camera on Thursday that may excite home-surveillance fans but is almost certain to rankle privacy advocates.",
+         "content" : "(CNN Business)Ring, the Amazon-owned home security business, introduced a flying camera on Thursday that may excite home-surveillance fans but is almost certain to rankle privacy advocates. \r\nThe $25… [+1215 chars]",
+         "url" : "https://www.cnn.com/2020/09/24/tech/amazon-ring-drone/index.html",
+         "source" : {
+            "id" : "cnn",
+            "name" : "CNN"
+         }
       },
       {
          "source" : {
             "id" : null,
             "name" : "Seeking Alpha"
          },
-         "author" : "Douglas W. House",
          "url" : "https://seekingalpha.com/news/3617157-novavax-initiates-pivotal-study-of-covidminus-19-vaccine-candidate-shares-up-5",
+         "content" : "Novavax (NASDAQ:NVAX)launches a U.K.-based Phase 3 clinical trial evaluating COVID-19 vaccine candidate NVX-CoV2373 in up to 10K adult (ages 18-84) volunteers.\r\nEnrollment in the study, being conduct… [+616 chars]",
+         "description" : "Novavax (NASDAQ:NVAX) launches a U.K.-based Phase 3 clinical trial evaluating COVID-19 vaccine candidate NVX-CoV2373 in up to 10K adult (ages 18-84) volunteers.Enrollment in the study, being conducted in partnership with the U.K.",
+         "urlToImage" : "https://static3.seekingalpha.com/assets/og_image_192-59bfd51c9fe6af025b2f9f96c807e46f8e2f06c5ae787b15bf1423e6c676d4db.png",
          "title" : "Novavax initiates pivotal study of COVID-19 vaccine candidate; shares up 5% - Seeking Alpha",
          "publishedAt" : "2020-09-24T20:17:00Z",
-         "description" : "Novavax (NASDAQ:NVAX) launches a U.K.-based Phase 3 clinical trial evaluating COVID-19 vaccine candidate NVX-CoV2373 in up to 10K adult (ages 18-84) volunteers.Enrollment in the study, being conducted in partnership with the U.K.",
-         "content" : "Novavax (NASDAQ:NVAX)launches a U.K.-based Phase 3 clinical trial evaluating COVID-19 vaccine candidate NVX-CoV2373 in up to 10K adult (ages 18-84) volunteers.\r\nEnrollment in the study, being conduct… [+616 chars]",
-         "urlToImage" : "https://static3.seekingalpha.com/assets/og_image_192-59bfd51c9fe6af025b2f9f96c807e46f8e2f06c5ae787b15bf1423e6c676d4db.png"
+         "author" : "Douglas W. House"
       },
       {
-         "publishedAt" : "2020-09-24T20:14:00Z",
-         "description" : "With every passing day, Facebook gives us more evidence that it’s incapable of running itself responsibly, and every day it faces zero consequences. The profits rise and the what-are-you-gonna-do shrugs get more emphatic. But today is different. Today, some o…",
          "content" : "With every passing day, Facebook gives us more evidence that its incapable of running itself responsibly, and every day it faces zero consequences. The profits rise and the what-are-you-gonna-do shru… [+2441 chars]",
-         "urlToImage" : "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/jujhn2on8z5gmokiowqh.jpg",
+         "description" : "With every passing day, Facebook gives us more evidence that it’s incapable of running itself responsibly, and every day it faces zero consequences. The profits rise and the what-are-you-gonna-do shrugs get more emphatic. But today is different. Today, some o…",
+         "url" : "https://gizmodo.com/attention-people-of-illinois-it-s-time-to-make-facebo-1845172117",
          "source" : {
             "id" : null,
             "name" : "Gizmodo.com"
          },
+         "publishedAt" : "2020-09-24T20:14:00Z",
          "author" : "Rhett Jones",
-         "url" : "https://gizmodo.com/attention-people-of-illinois-it-s-time-to-make-facebo-1845172117",
+         "urlToImage" : "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/jujhn2on8z5gmokiowqh.jpg",
          "title" : "Attention, People of Illinois: It’s Time to Make Facebook Pay - Gizmodo"
       },
       {
-         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/08/0/0/285ba2db-malaga-port-cruises-ships-istock.png?ve=1&tl=1",
-         "content" : "Travelers planning to set sail onboard a Royal Caribbean cruise ship may have their plans changed.\r\nThe cruise company is reportedly changing up its schedule for summer 2021, changing the itineraries… [+2295 chars]",
-         "description" : "Expect changes to Royal Caribbean's 2021 summer cruise lineup.",
-         "publishedAt" : "2020-09-24T20:08:15Z",
          "title" : "5 Royal Caribbean cruise ships in Europe and the Caribbean will be rerouted for summer 2021 - Fox Business",
-         "url" : "https://www.foxbusiness.com/lifestyle/royal-caribbean-cruise-ships-redeployed-summer-2021",
+         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/08/0/0/285ba2db-malaga-port-cruises-ships-istock.png?ve=1&tl=1",
          "author" : "Jeanette Settembre",
+         "publishedAt" : "2020-09-24T20:08:15Z",
          "source" : {
-            "name" : "Fox Business",
-            "id" : null
-         }
+            "id" : null,
+            "name" : "Fox Business"
+         },
+         "url" : "https://www.foxbusiness.com/lifestyle/royal-caribbean-cruise-ships-redeployed-summer-2021",
+         "content" : "Travelers planning to set sail onboard a Royal Caribbean cruise ship may have their plans changed.\r\nThe cruise company is reportedly changing up its schedule for summer 2021, changing the itineraries… [+2295 chars]",
+         "description" : "Expect changes to Royal Caribbean's 2021 summer cruise lineup."
       },
       {
+         "author" : "Jazmin Goodwin, CNN Business",
+         "publishedAt" : "2020-09-24T20:07:00Z",
+         "title" : "Mark Cuban calls for $1,000 stimulus checks every two weeks through November - CNN",
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200924153743-mark-cuban-file-restricted-super-tease.jpg",
+         "description" : "Mark Cuban is once again pushing the idea that every American household should receive $1,000 bi-weekly stimulus checks for the next two months.",
+         "content" : null,
+         "url" : "https://www.cnn.com/2020/09/24/investing/mark-cuban-andrew-yang-stimulus-checks-ubi/index.html",
          "source" : {
             "id" : "cnn",
             "name" : "CNN"
-         },
-         "author" : "Jazmin Goodwin, CNN Business",
-         "url" : "https://www.cnn.com/2020/09/24/investing/mark-cuban-andrew-yang-stimulus-checks-ubi/index.html",
-         "title" : "Mark Cuban calls for $1,000 stimulus checks every two weeks through November - CNN",
-         "publishedAt" : "2020-09-24T20:07:00Z",
-         "description" : "Mark Cuban is once again pushing the idea that every American household should receive $1,000 bi-weekly stimulus checks for the next two months.",
-         "content" : null,
-         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200924153743-mark-cuban-file-restricted-super-tease.jpg"
+         }
       },
       {
+         "content" : "ChargePoint, the world's largest provider of electric-vehicle charging stations, said on Thursday it will go public with a reverse-merger agreement worth $2.4 billion.\r\nXIt is the latest company to u… [+3060 chars]",
+         "description" : "EV charging station provider ChargePoint is going public by year-end. It is using SPAC Switchback Energy for its IPO, which is valued at $2.4 billion.",
+         "url" : "https://www.investors.com/news/chargepoint-ev-charging-station-leader-backed-by-top-tesla-investor-to-go-public/",
          "source" : {
             "id" : null,
             "name" : "Investor's Business Daily"
          },
          "author" : "Investor's Business Daily",
-         "url" : "https://www.investors.com/news/chargepoint-ev-charging-station-leader-backed-by-top-tesla-investor-to-go-public/",
-         "title" : "EV Charging Leader Backed By Top Tesla Investor To Go Public - Investor's Business Daily",
          "publishedAt" : "2020-09-24T20:06:00Z",
-         "description" : "EV charging station provider ChargePoint is going public by year-end. It is using SPAC Switchback Energy for its IPO, which is valued at $2.4 billion.",
-         "content" : "ChargePoint, the world's largest provider of electric-vehicle charging stations, said on Thursday it will go public with a reverse-merger agreement worth $2.4 billion.\r\nXIt is the latest company to u… [+3060 chars]",
+         "title" : "EV Charging Leader Backed By Top Tesla Investor To Go Public - Investor's Business Daily",
          "urlToImage" : "https://www.investors.com/wp-content/uploads/2020/09/Stock-ChargePoint-01-shutt.jpg"
       },
       {
-         "publishedAt" : "2020-09-24T19:29:00Z",
-         "description" : "Starting Oct. 15, passengers flying from San Francisco will be given the option to take a rapid COVID-19 test at the airport or an at-home, mail-in test before their trip.",
-         "content" : "HONOLULU, Hawaii (HawaiiNewsNow) - United Airlines will become the first U.S. airline to offer coronavirus testing for passengers, in time for Hawaiis pre-travel testing program set to launch in mid-… [+1031 chars]",
+         "title" : "United to offer COVID-19 testing for passengers, starting on Hawaii route - Hawaii News Now",
          "urlToImage" : "https://www.hawaiinewsnow.com/resizer/SE9_RDQ8uDmOpHXqR_66v8s6-Mw=/1200x0/cloudfront-us-east-1.images.arcpublishing.com/raycom/VSRP2DZ63RA6JG5PVGZH43MBZA.jpg",
+         "author" : "HNN Staff",
+         "publishedAt" : "2020-09-24T19:29:00Z",
          "source" : {
             "name" : "Hawaii News Now",
             "id" : null
          },
-         "author" : "HNN Staff",
          "url" : "https://www.hawaiinewsnow.com/2020/09/24/united-is-first-us-airline-offer-covid-testing-starting-with-hawaii-route/",
-         "title" : "United to offer COVID-19 testing for passengers, starting on Hawaii route - Hawaii News Now"
+         "content" : "HONOLULU, Hawaii (HawaiiNewsNow) - United Airlines will become the first U.S. airline to offer coronavirus testing for passengers, in time for Hawaiis pre-travel testing program set to launch in mid-… [+1031 chars]",
+         "description" : "Starting Oct. 15, passengers flying from San Francisco will be given the option to take a rapid COVID-19 test at the airport or an at-home, mail-in test before their trip."
       },
       {
-         "title" : "What is Tesla's 'Tight Wolverine' truck all about? Fox News Autos investigates - Fox News",
-         "url" : "https://www.foxnews.com/auto/teslas-tight-wolverine-truck",
-         "author" : "Gary Gastelu",
-         "source" : {
-            "id" : "fox-news",
-            "name" : "Fox News"
-         },
-         "urlToImage" : "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/wolverine-feature.jpg",
          "content" : "At Tesla’s Battery Day event, Elon Musk said the upcoming Texas-built Cybertruck was designed for the North American market, and that if the company ever sells a pickup in other regions it will be mu… [+3737 chars]",
          "description" : "Elon Musk says he'll have to build a smaller truck for sale outside of North America.",
-         "publishedAt" : "2020-09-24T19:08:48Z"
+         "url" : "https://www.foxnews.com/auto/teslas-tight-wolverine-truck",
+         "source" : {
+            "name" : "Fox News",
+            "id" : "fox-news"
+         },
+         "publishedAt" : "2020-09-24T19:08:48Z",
+         "author" : "Gary Gastelu",
+         "urlToImage" : "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/wolverine-feature.jpg",
+         "title" : "What is Tesla's 'Tight Wolverine' truck all about? Fox News Autos investigates - Fox News"
       },
       {
-         "urlToImage" : "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AHK6ARX6PMI6VMHEGUHE4YGMSE.jpg&w=1440",
-         "content" : "The inspector generals office for the Metropolitan Transportation Authority discovered the room in August 2019 after receiving an anonymous tip that workers were going there to hang out and get drunk… [+1979 chars]",
-         "description" : "The inspector general’s office for the Metropolitan Transportation Authority discovered the room in August 2019 after receiving an anonymous tip that workers were going there to “hang out and get drunk and party,” the agency watchdog said Thursday.",
-         "publishedAt" : "2020-09-24T18:53:00Z",
-         "title" : "Metro-North workers had a hidden 'man cave’ under Grand Central where they napped, drank beer and watched TV, watchdog says - The Washington Post",
-         "url" : "https://www.washingtonpost.com/transportation/2020/09/24/mta-workers-mancave/",
-         "author" : "Katherine Shaver",
          "source" : {
             "name" : "The Washington Post",
             "id" : "the-washington-post"
-         }
+         },
+         "description" : "The inspector general’s office for the Metropolitan Transportation Authority discovered the room in August 2019 after receiving an anonymous tip that workers were going there to “hang out and get drunk and party,” the agency watchdog said Thursday.",
+         "content" : "The inspector generals office for the Metropolitan Transportation Authority discovered the room in August 2019 after receiving an anonymous tip that workers were going there to hang out and get drunk… [+1979 chars]",
+         "url" : "https://www.washingtonpost.com/transportation/2020/09/24/mta-workers-mancave/",
+         "publishedAt" : "2020-09-24T18:53:00Z",
+         "author" : "Katherine Shaver",
+         "urlToImage" : "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AHK6ARX6PMI6VMHEGUHE4YGMSE.jpg&w=1440",
+         "title" : "Metro-North workers had a hidden 'man cave’ under Grand Central where they napped, drank beer and watched TV, watchdog says - The Washington Post"
       },
       {
-         "content" : null,
-         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/171031132927-01-black-licorice-stock-super-tease.jpg",
-         "publishedAt" : "2020-09-24T18:36:00Z",
-         "description" : "It's hard to exercise restraint when eating candy. For licorice lovers, indulging sparingly could actually be lifesaving.",
          "url" : "https://www.cnn.com/2020/09/24/us/man-dies-eating-too-much-licorice-trnd/index.html",
-         "title" : "The strange case of the man who died after eating too much licorice - CNN",
+         "description" : "It's hard to exercise restraint when eating candy. For licorice lovers, indulging sparingly could actually be lifesaving.",
+         "content" : null,
          "source" : {
             "name" : "CNN",
             "id" : "cnn"
          },
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/171031132927-01-black-licorice-stock-super-tease.jpg",
+         "title" : "The strange case of the man who died after eating too much licorice - CNN",
+         "publishedAt" : "2020-09-24T18:36:00Z",
          "author" : "Francesca Giuliani-Hoffman, CNN"
       },
       {
+         "author" : "Michael Wayland",
+         "publishedAt" : "2020-09-24T18:32:00Z",
+         "title" : "Nikola shares fall to new low on Wedbush downgrade, analyst says stock too risky to own - CNBC",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106703085-16001809550062019-12-03T000000Z-236085758-RC2OND9550C0-RTRMADP-3-CNH-INDUSTRIAL-NIKOLA-JPG?v=1600181095",
+         "content" : "Trevor Milton CEO of Nikola\r\nNikola shares tumbled Thursday to a record low since the company's public debut in early June after Wedbush downgraded the electric truck maker's stock to underperform fr… [+2138 chars]",
+         "description" : "Nikola shares tumbled Thursday to a record low since the company's public debut in early June after Wedbush downgraded the electric truck maker's stock to underperform from neutral.",
+         "url" : "https://www.cnbc.com/2020/09/24/nikola-shares-fall-to-new-low-on-wedbush-downgrade.html",
          "source" : {
             "name" : "CNBC",
             "id" : null
-         },
-         "author" : "Michael Wayland",
-         "url" : "https://www.cnbc.com/2020/09/24/nikola-shares-fall-to-new-low-on-wedbush-downgrade.html",
-         "title" : "Nikola shares fall to new low on Wedbush downgrade, analyst says stock too risky to own - CNBC",
-         "publishedAt" : "2020-09-24T18:32:00Z",
-         "description" : "Nikola shares tumbled Thursday to a record low since the company's public debut in early June after Wedbush downgraded the electric truck maker's stock to underperform from neutral.",
-         "content" : "Trevor Milton CEO of Nikola\r\nNikola shares tumbled Thursday to a record low since the company's public debut in early June after Wedbush downgraded the electric truck maker's stock to underperform fr… [+2138 chars]",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106703085-16001809550062019-12-03T000000Z-236085758-RC2OND9550C0-RTRMADP-3-CNH-INDUSTRIAL-NIKOLA-JPG?v=1600181095"
+         }
       },
       {
-         "title" : "Walmart Announces an \"All-New Black Friday Experience\"—Here’s What to Expect - Yahoo Lifestyle",
-         "url" : "https://www.housebeautiful.com/lifestyle/a34147218/walmart-black-friday-2020/",
-         "author" : "Isabel Garcia",
          "source" : {
             "id" : null,
             "name" : "HouseBeautiful.com"
          },
-         "urlToImage" : "https://s.yimg.com/uu/api/res/1.2/I9yZr0s4.H4X54esbkc0dg--~B/aD03MjA7dz0xNDQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/house_beautiful_336/cbbbf064d11b23b7ac20d3bf82d27391",
-         "content" : "COVID-19 has changed almost every aspect of our day-to-day lives, and for lovers of fashion  who rely on the endorphin hit that comes from discovering, coveting, and showcasing new duds  2020 can fee… [+18524 chars]",
+         "url" : "https://www.housebeautiful.com/lifestyle/a34147218/walmart-black-friday-2020/",
          "description" : "Holiday savings will start earlier than ever this year.",
-         "publishedAt" : "2020-09-24T18:21:00Z"
+         "content" : "COVID-19 has changed almost every aspect of our day-to-day lives, and for lovers of fashion  who rely on the endorphin hit that comes from discovering, coveting, and showcasing new duds  2020 can fee… [+18524 chars]",
+         "urlToImage" : "https://s.yimg.com/uu/api/res/1.2/I9yZr0s4.H4X54esbkc0dg--~B/aD03MjA7dz0xNDQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/house_beautiful_336/cbbbf064d11b23b7ac20d3bf82d27391",
+         "title" : "Walmart Announces an \"All-New Black Friday Experience\"—Here’s What to Expect - Yahoo Lifestyle",
+         "publishedAt" : "2020-09-24T18:21:00Z",
+         "author" : "Isabel Garcia"
       }
    ],
-   "totalResults" : 70,
-   "status" : "ok"
+   "status" : "ok",
+   "totalResults" : 70
 }
