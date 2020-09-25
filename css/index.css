@@ -5,3 +5,8 @@ body {
 .app-headline:hover {
   border: 2px solid #777;
 }
+
+h1.title {
+  font-weight: bold;
+  font-style: italic;
+}
