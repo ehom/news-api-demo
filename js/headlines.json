@@ -1,266 +1,266 @@
 {
-   "totalResults" : 70,
    "articles" : [
       {
-         "content" : "Lucas Jackson/Reuters\r\n<ul><li>Extreme times call for extreme moves, Bank of America said on Friday as it detailed investment-fund flows into and out of key market sectors.</li><li>Bank of America sa… [+3463 chars]",
+         "urlToImage" : "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/Public-Notice_Dried-Fungus-092320.jpg",
+         "content" : "Health officials have linked a multi-state salmonella outbreak to a recalled variety of mushrooms that were previously available across 32 states and Canada. The mushrooms, distributed by California-… [+1259 chars]",
+         "author" : "Alexandria Hein",
+         "description" : "The outbreak was traced to black fungus mushrooms, also called wood ear mushrooms.",
+         "publishedAt" : "2020-09-25T20:03:20Z",
+         "url" : "https://www.foxnews.com/health/recalled-mushrooms-linked-to-salmonella-cases-across-10-states",
          "source" : {
-            "id" : "business-insider",
-            "name" : "Business Insider"
+            "id" : "fox-news",
+            "name" : "Fox News"
          },
+         "title" : "Recalled mushrooms linked to salmonella cases across 10 states - Fox News"
+      },
+      {
+         "source" : {
+            "name" : "Politico",
+            "id" : "politico"
+         },
+         "url" : "https://www.politico.com/states/new-york/albany/story/2020/09/25/de-blasio-cuomo-clash-over-nypd-reform-1318592",
+         "publishedAt" : "2020-09-25T19:05:00Z",
+         "description" : "“If he wants to make personal attacks, he can do that. But he does not have his facts straight,&quot; Mayor Bill de Blasio said Friday on &quot;The Brian Lehrer Show.&quot;",
+         "author" : "ERIN DURKIN",
+         "content" : "Gov. Andrew Cuomo and Mayor Bill de Blasio speak at a news conference in 2018. | Getty Images\r\nNEW YORK Mayor Bill de Blasio shot back Friday at Gov. Andrew Cuomos criticism of the citys lack of prog… [+3482 chars]",
+         "urlToImage" : "https://static.politico.com/73/ad/c921db1b40de950a35943e6222f1/download-94.jpg",
+         "title" : "De Blasio, Cuomo clash over NYPD reform - POLITICO"
+      },
+      {
+         "title" : "Google is banning election ads after polls close on November 3rd - The Verge",
+         "content" : "The company is trying to limit misinformation about the outcome of the vote\r\nIllustration: Alex Castro / The Verge\r\nGoogle is banning advertisers from running ads related to the election after Electi… [+1029 chars]",
+         "urlToImage" : "https://cdn.vox-cdn.com/thumbor/8prPqvLDLzqWV7wMDohjR2zgctU=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/10745893/acastro_180427_1777_0003.jpg",
+         "description" : "The policy could stop President Trump and Joe Biden from running ads declaring an early victory. Google said the change is due to the “unprecedented” number of votes that will be counted after November 3rd.",
+         "author" : "Zoe Schiffer",
+         "source" : {
+            "name" : "The Verge",
+            "id" : "the-verge"
+         },
+         "url" : "https://www.theverge.com/2020/9/25/21456323/google-election-ad-ban-donald-trump-early-victory",
+         "publishedAt" : "2020-09-25T18:41:31Z"
+      },
+      {
+         "title" : "Alphabet settles shareholder lawsuit over executive sexual misconduct - The Verge",
+         "publishedAt" : "2020-09-25T18:20:00Z",
+         "source" : {
+            "name" : "The Verge",
+            "id" : "the-verge"
+         },
+         "url" : "https://www.theverge.com/2020/9/25/21445888/google-alphabet-settlement-shareholder-sexual-misconduct-lawsuit-changes",
+         "urlToImage" : "https://cdn.vox-cdn.com/thumbor/zecX0cPldoJGxd8xivCIx07sXlA=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/10745895/acastro_180427_1777_0001.jpg",
+         "content" : "It will devote $310 million to diversity initiatives\r\nIllustration by Alex Castro / The Verge\r\nGoogle parent company Alphabet has settled a shareholder lawsuit over its handling of sexual misconduct.… [+1724 chars]",
+         "description" : "Google parent company Alphabet has settled a lawsuit with shareholders who objected to its handling of sexual misconduct among executives including former Android head Andy Rubin.",
+         "author" : "Adi Robertson"
+      },
+      {
+         "source" : {
+            "id" : null,
+            "name" : "WRAL.com"
+         },
+         "url" : "https://www.wral.com/coronavirus/blue-cross-to-provide-customers-with-up-to-500-each-for-expenses-during-pandemic/19305063/",
+         "publishedAt" : "2020-09-25T18:14:57Z",
+         "content" : "Durham, N.C. — Blue Cross Blue Shield of North Carolina said Friday that it will issue $200 million in debit cards to help customers pay for expenses during the ongoing coronavirus pandemic.\r\n\"We rec… [+2183 chars]",
+         "urlToImage" : "https://wwwcache.wral.com/asset/5oys/2016/11/30/16293245/16293247-1480549133-646x485.jpg",
+         "author" : "Matthew Burns",
+         "description" : "Blue Cross Blue Shield of North Carolina said Friday that it will issue $200 million in debit cards to help customers pay for expenses during the ongoing coronavirus pandemic.",
+         "title" : "Blue Cross to provide customers with up to $500 each for expenses during pandemic - WRAL.com"
+      },
+      {
+         "content" : "Gold futures ended with a loss on Friday, with bullion booking its fourth decline in five sessions, prompting the asset to suffer its worst weekly slide in about six months. Most of the sell-off in t… [+3532 chars]",
+         "urlToImage" : "https://s.marketwatch.com/public/resources/images/MW-IL517_gold_s_ZG_20200730155915.jpg",
+         "description" : "Silver futures log a weekly drop of nearly 15%",
+         "author" : "Myra P. Saefong, Mark DeCambre",
+         "source" : {
+            "id" : null,
+            "name" : "MarketWatch"
+         },
+         "url" : "https://www.marketwatch.com/story/gold-slips-friday-and-heads-for-worst-weekly-slump-since-march-2020-09-25",
+         "publishedAt" : "2020-09-25T18:11:00Z",
+         "title" : "Gold ends lower to suffer worst weekly slump since March - MarketWatch"
+      },
+      {
          "publishedAt" : "2020-09-25T17:58:27Z",
-         "author" : "Matthew Fox",
          "url" : "https://www.businessinsider.com/stock-market-outflows-3rd-biggest-history-investors-flee-tech-bofa-2020-9",
-         "description" : "US stocks see 3rd-biggest outflow in history as investors flee tech",
+         "source" : {
+            "name" : "Business Insider",
+            "id" : "business-insider"
+         },
          "urlToImage" : "https://i.insider.com/5f6df9e9c4049200115cb99c?format=jpeg",
+         "content" : "Lucas Jackson/Reuters\r\n<ul><li>Extreme times call for extreme moves, Bank of America said on Friday as it detailed investment-fund flows into and out of key market sectors.</li><li>Bank of America sa… [+3463 chars]",
+         "description" : "US stocks see 3rd-biggest outflow in history as investors flee tech",
+         "author" : "Matthew Fox",
          "title" : "US stocks see 3rd-biggest outflow in history as investors flee tech | Markets - Business Insider"
       },
       {
-         "content" : "By Devik Jain\r\n(Reuters) - Wall Street's main indexes rose on Friday, led by technology-related stocks, but were still on track for their longest weekly losing streak in a year as fears about the cor… [+2452 chars]",
-         "source" : {
-            "id" : null,
-            "name" : "Investing.com"
-         },
-         "publishedAt" : "2020-09-25T17:30:00Z",
-         "url" : "https://www.investing.com/news/stock-market-news/futures-retreat-on-doubts-over-more-fiscal-stimulus-2307061",
-         "description" : "Tech leads Wall Street higher as virus fears rise",
-         "author" : null,
-         "urlToImage" : "https://i-invdn-com.akamaized.net/trkd-images/LYNXNPEG8O0YA_L.jpg",
-         "title" : "Tech leads Wall Street higher as virus fears rise - Investing.com"
-      },
-      {
-         "title" : "Three railroad workers built a 'man cave' under New York's Grand Central Terminal - CNN",
-         "description" : "The room apparently was furnished with a wall-mounted TV connected to a streaming device, a futon couch, refrigerator, air mattress, and microwave.",
-         "url" : "https://www.cnn.com/2020/09/25/us/grand-central-man-cave-ny-trnd/index.html",
-         "author" : "Alisha Ebrahimji, CNN",
-         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200925092107-grand-central-man-cave-trnd-card-image-super-tease.jpg",
-         "content" : null,
-         "source" : {
-            "name" : "CNN",
-            "id" : "cnn"
-         },
-         "publishedAt" : "2020-09-25T17:26:00Z"
-      },
-      {
-         "content" : "PARIS (Reuters) - Boeings grounded 737 MAX could receive regulatory approval to resume flying in November and enter service by the end of the year, Europes chief aviation safety regulator said on Fri… [+2911 chars]",
-         "source" : {
-            "name" : "Reuters",
-            "id" : "reuters"
-         },
-         "publishedAt" : "2020-09-25T17:15:00Z",
-         "author" : "Tim Hepher, Laurence Frost",
-         "url" : "https://www.reuters.com/article/us-boeing-737max-easa-idUSKCN26G1H8",
-         "description" : "Boeing's grounded 737 MAX could receive regulatory approval to resume flying in November and enter service by the end of the year, Europe's chief aviation safety regulator said on Friday.",
-         "urlToImage" : "https://static.reuters.com/resources/r/?m=02&d=20200925&t=2&i=1534891689&r=LYNXNPEG8O0UG&w=800",
-         "title" : "Europe regulator sees November lifting of Boeing 737 MAX flight ban - Reuters"
-      },
-      {
-         "title" : "Here's why platinum may now be a better bet than gold - CNN",
-         "url" : "https://www.cnn.com/2020/09/25/investing/platinum-gold-precious-metals/index.html",
-         "description" : "Gold prices have soared more than 20% in 2020, and they hit a new record high earlier this year. Silver and palladium are surging, too. But platinum prices are down almost 15% year-to-date.",
-         "author" : "Paul R. La Monica, CNN Business",
-         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200925093135-platinum-bar---stock-super-tease.jpg",
-         "content" : "New York (CNN Business)Gold prices have soared more than 20% in 2020, and they hit a new record high earlier this year. Silver and palladium are surging, too. But platinum prices are down almost 15% … [+4209 chars]",
-         "source" : {
-            "id" : "cnn",
-            "name" : "CNN"
-         },
-         "publishedAt" : "2020-09-25T16:58:00Z"
-      },
-      {
-         "content" : "Two Los Angeles men and their companies duped investors out of $180 million in a scheme targeting conservative and religious investors into buying precious metals at exorbitant prices, regulators sai… [+334 chars]",
-         "source" : {
-            "id" : "the-wall-street-journal",
-            "name" : "The Wall Street Journal"
-         },
-         "publishedAt" : "2020-09-25T16:49:00Z",
-         "title" : "Gold Scam Targeting Conservatives Raised $180 Million, Regulators Say - The Wall Street Journal",
-         "author" : "Dave Michaels",
-         "description" : "Commodity Futures Trading Commission, states say defendants fleeced investors with markups as high as 300%",
-         "url" : "https://www.wsj.com/articles/gold-scam-targeting-conservatives-raised-180-million-regulators-say-11601052583",
-         "urlToImage" : "https://images.wsj.net/im-236643/social"
-      },
-      {
-         "content" : "Chat with us in Facebook Messenger. Find out what's happening in the world as it unfolds.",
-         "source" : {
-            "id" : "cnn",
-            "name" : "CNN"
-         },
-         "publishedAt" : "2020-09-25T16:42:19Z",
-         "url" : "https://www.cnn.com/videos/business/2020/09/25/amazon-ring-indoor-drone-always-home-cam-zw-orig.cnn-business",
-         "description" : "The Amazon-owned home security company Ring has unveiled a prototype for a drone meant to fly around in your house called the Ring Always Home Cam. It's set to release in 2021.",
-         "author" : null,
-         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200924150834-01-ring-always-home-cam-amazon-event---screenshot-super-tease.jpg",
-         "title" : "Watch Ring's indoor drone prototype patrol a house - CNN"
-      },
-      {
-         "title" : "Trump-Biden delayed election outcome worries overblown: Goldman Sachs - Fox Business",
-         "url" : "https://www.foxbusiness.com/markets/trump-biden-delayed-election-outcome-worries-overblown-goldman-sachs",
-         "description" : "Markets are overestimating the possibility the 2020 election result will be delayed, according to Goldman Sachs Group.",
-         "author" : "Jonathan Garber",
-         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/09/0/0/donald-trump-biden-stock-excahnge-AP.png?ve=1&tl=1",
-         "content" : "Markets are overestimating the possibility the 2020 election results will be delayed, according to Goldman Sachs Group.\r\nConcerns regarding a flood of mail-in ballots overwhelming the system and taki… [+2923 chars]",
-         "source" : {
-            "name" : "Fox Business",
-            "id" : null
-         },
-         "publishedAt" : "2020-09-25T16:34:46Z"
-      },
-      {
-         "url" : "https://www.cnbc.com/2020/09/25/alphabet-settles-shareholder-lawsuit-.html",
-         "description" : "The company will no longer pay severance to any exec accused or under investigation for sexual harassment or misconduct.",
-         "author" : "Jennifer Elias",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/105454729-1537186626827rts21mgl.jpg?v=1580151894",
-         "title" : "Alphabet settles shareholder lawsuit over alleged mishandling of sexual misconduct by execs - CNBC",
-         "content" : "Alphabet has reached a settlement on a shareholder lawsuit that accused the board of allegedly mishandling sexual misconduct by its executives.\r\nExecs will not be able to receive severance or amend t… [+4956 chars]",
+         "title" : "These companies are returning more money to shareholders after cutting jobs - CNBC",
+         "publishedAt" : "2020-09-25T17:22:00Z",
+         "url" : "https://www.cnbc.com/2020/09/25/these-companies-are-returning-money-to-shareholders-after-cutting-jobs.html",
          "source" : {
             "name" : "CNBC",
             "id" : null
          },
-         "publishedAt" : "2020-09-25T16:26:00Z"
+         "author" : "Amelia Lucas",
+         "description" : "Dividends and buyback programs are slowly returning, but for some companies, the reinstatement of capital-return plans follows layoffs and permanent job cuts.",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106717459-1601041668120-gettyimages-1228427773-364546113_1-3.jpeg?v=1601041696",
+         "content" : "Dividends and stock buyback programs are slowly returning, but for some companies, the reinstatement of these plans follows layoffs and permanent job cuts.  \r\nIn March and April, the coronavirus pand… [+3319 chars]"
       },
       {
-         "title" : "The QX60 Still Gives Infiniti A Chance - Jalopnik",
-         "url" : "https://jalopnik.com/the-qx60-still-gives-infiniti-a-chance-1845180815",
-         "description" : "Infiniti’s North American lineup contains exactly five vehicles, each continually raising the question of why Infiniti tries at all, considering that sales were down across the board last year. But that doesn’t mean things are hopeless. Infiniti can pin some …",
-         "author" : "Erik Shilling",
-         "urlToImage" : "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/y5s50k20azcjajs2jmqx.jpg",
-         "content" : "Infinitis North American lineup contains exactly five vehicles, each continually raising the question of why Infiniti tries at all, considering that sales were down across the board last year. But th… [+1363 chars]",
+         "title" : "US STOCKS-Tech leads Wall St higher as virus fears rise - Reuters",
+         "source" : {
+            "id" : "reuters",
+            "name" : "Reuters"
+         },
+         "url" : "https://es.reuters.com/article/usa-stocks-idUSL3N2GM38B",
+         "publishedAt" : "2020-09-25T17:19:00Z",
+         "content" : "(For a live blog on the U.S. stock market, click or type LIVE/ in a news window.)\r\n* U.S. coronavirus cases top 7 million\r\n* Costco Wholesale drops on high COVID-19 costs\r\n* Cruise operators jump aft… [+2654 chars]",
+         "urlToImage" : "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+         "description" : "* Indexes up: Dow 0.40%, S&P 0.68%, Nasdaq 1.27% (Updates to early afternoon)",
+         "author" : "Devik Jain"
+      },
+      {
+         "title" : "Gold Scam Targeting Conservatives Raised $180 Million, Regulators Say - The Wall Street Journal",
+         "urlToImage" : "https://images.wsj.net/im-236643/social",
+         "content" : "Two Los Angeles men and their companies duped investors out of $180 million in a scheme targeting conservative and religious investors into buying precious metals at exorbitant prices, regulators sai… [+334 chars]",
+         "description" : "Commodity Futures Trading Commission, states say defendants fleeced investors with markups as high as 300%",
+         "author" : "Dave Michaels",
+         "publishedAt" : "2020-09-25T16:49:00Z",
+         "source" : {
+            "name" : "The Wall Street Journal",
+            "id" : "the-wall-street-journal"
+         },
+         "url" : "https://www.wsj.com/articles/gold-scam-targeting-conservatives-raised-180-million-regulators-say-11601052583"
+      },
+      {
+         "title" : "Trump-Biden delayed election outcome worries overblown: Goldman Sachs - Fox Business",
+         "author" : "Jonathan Garber",
+         "description" : "Markets are overestimating the possibility the 2020 election result will be delayed, according to Goldman Sachs Group.",
+         "content" : "Markets are overestimating the possibility the 2020 election results will be delayed, according to Goldman Sachs Group.\r\nConcerns regarding a flood of mail-in ballots overwhelming the system and taki… [+2923 chars]",
+         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/09/0/0/donald-trump-biden-stock-excahnge-AP.png?ve=1&tl=1",
          "source" : {
             "id" : null,
-            "name" : "Jalopnik"
+            "name" : "Fox Business"
          },
-         "publishedAt" : "2020-09-25T16:21:00Z"
+         "url" : "https://www.foxbusiness.com/markets/trump-biden-delayed-election-outcome-worries-overblown-goldman-sachs",
+         "publishedAt" : "2020-09-25T16:34:46Z"
       },
       {
-         "title" : "De Blasio: NYC Outdoor Dining Will Become \"Permanent And Year-Round\" - Gothamist",
-         "urlToImage" : "https://cms.prod.nypr.digital/images/312158/fill-1200x650/",
-         "author" : "/staff/ben-yakas",
-         "url" : "http://gothamist.com/food/de-blasio-nyc-outdoor-dining-will-become-permanent-and-year-round",
-         "description" : "“I want us to go for the gold here, and take this model and make it a part of the life of New York City for years and generations to come.\"",
-         "publishedAt" : "2020-09-25T16:15:00Z",
-         "content" : "Mayor Bill de Blasio announced today that outdoor dining, which has become a major lifeline for the restaurant industry during the pandemic, will become \"permanent and year-round.\"\r\nI want us to go f… [+4446 chars]",
+         "content" : null,
+         "urlToImage" : null,
+         "description" : null,
+         "author" : null,
+         "url" : "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9MEh0T2JfY0VRN1nSAQA?oc=5",
          "source" : {
-            "name" : "Gothamist",
+            "name" : "Google News",
+            "id" : "google-news"
+         },
+         "publishedAt" : "2020-09-25T16:33:50Z",
+         "title" : "Tesla Big Battery in Australia Earns Huge Profits, Pays for Itself in 2.5 Years - Torque News"
+      },
+      {
+         "description" : "",
+         "author" : "Jaimy Lee",
+         "urlToImage" : "https://s.wsj.net/public/resources/MWimages/MW-GP644_MicroS_ZG_20180906154215.jpg",
+         "content" : "Shares of Johnson &amp; Johnson \r\n JNJ, \r\n +0.68%\r\nwere up 0.1% in trading on Friday after data from the Phase 1/2a clinical trial for its COVID-19 vaccine candidate was published as a preprint. A pr… [+1142 chars]",
+         "publishedAt" : "2020-09-25T16:23:00Z",
+         "url" : "https://www.marketwatch.com/story/jj-most-phase-12a-participants-in-covid-19-vaccine-developed-neutralizing-antibodies-2020-09-25",
+         "source" : {
+            "name" : "MarketWatch",
             "id" : null
-         }
+         },
+         "title" : "J&J: most Phase 1/2a participants in COVID-19 vaccine developed neutralizing antibodies - MarketWatch"
+      },
+      {
+         "content" : "Infinitis North American lineup contains exactly five vehicles, each continually raising the question of why Infiniti tries at all, considering that sales were down across the board last year. But th… [+1363 chars]",
+         "urlToImage" : "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/y5s50k20azcjajs2jmqx.jpg",
+         "description" : "Infiniti’s North American lineup contains exactly five vehicles, each continually raising the question of why Infiniti tries at all, considering that sales were down across the board last year. But that doesn’t mean things are hopeless. Infiniti can pin some …",
+         "author" : "Erik Shilling",
+         "url" : "https://jalopnik.com/the-qx60-still-gives-infiniti-a-chance-1845180815",
+         "source" : {
+            "name" : "Jalopnik",
+            "id" : null
+         },
+         "publishedAt" : "2020-09-25T16:21:00Z",
+         "title" : "The QX60 Still Gives Infiniti A Chance - Jalopnik"
+      },
+      {
+         "publishedAt" : "2020-09-25T16:15:00Z",
+         "url" : "https://www.cnn.com/2020/09/25/business/harley-davidson-india-exit/index.html",
+         "source" : {
+            "id" : "cnn",
+            "name" : "CNN"
+         },
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200925102552-harley-davidson-india-file-restricted-super-tease.jpg",
+         "content" : null,
+         "description" : "Harley-Davidson is retreating from India, calling time on a decade-long attempt to break into the world's biggest motorcycle market.",
+         "author" : "Hanna Ziady, CNN Business",
+         "title" : "Harley-Davidson is closing its factory in India - CNN"
       },
       {
          "author" : "Eric J. Savitz",
-         "url" : "https://www.barrons.com/articles/palantir-stock-is-seen-opening-for-trading-at-about-10-a-share-51601049740",
          "description" : "",
-         "urlToImage" : "https://images.barrons.com/im-236682/social",
-         "title" : "Palantir Stock Is Seen Opening for Trading at About $10 a Share - Barron's",
          "content" : "Palantir Technologies shares are expected to open for trading on Tuesday at around $10 a share, giving the company a valuation of around $22 billion, The Wall Street Journal reports.The 17-year-old d… [+2874 chars]",
+         "urlToImage" : "https://images.barrons.com/im-236682/social",
          "source" : {
-            "name" : "Barron's",
-            "id" : null
+            "id" : null,
+            "name" : "Barron's"
          },
-         "publishedAt" : "2020-09-25T16:02:00Z"
+         "url" : "https://www.barrons.com/articles/palantir-stock-is-seen-opening-for-trading-at-about-10-a-share-51601049740",
+         "publishedAt" : "2020-09-25T16:02:00Z",
+         "title" : "Palantir Stock Is Seen Opening for Trading at About $10 a Share - Barron's"
       },
       {
-         "publishedAt" : "2020-09-25T15:51:00Z",
+         "title" : "China Is on a Building Binge, and Metal Prices Are Surging - The New York Times",
          "content" : "The coronavirus pandemic forced China to bring industrial activity to a halt earlier this year, but the country is revving its engines again and global prices of metals are reflecting that renewed ap… [+1110 chars]",
+         "urlToImage" : "https://static01.nyt.com/images/2020/09/25/business/25virus-metals1/25virus-metals1-facebookJumbo.jpg",
+         "author" : "Matt Phillips",
+         "description" : "Iron ore, nickel, copper and other metal prices are rising as China restarts construction, and the global economy could benefit.",
+         "url" : "https://www.nytimes.com/2020/09/25/business/commodities-metals-prices-china-coronavirus.html",
          "source" : {
             "name" : "New York Times",
             "id" : null
          },
-         "title" : "China Is on a Building Binge, and Metal Prices Are Surging - The New York Times",
-         "urlToImage" : "https://static01.nyt.com/images/2020/09/25/business/25virus-metals1/25virus-metals1-facebookJumbo.jpg",
-         "description" : "Iron ore, nickel, copper and other metal prices are rising as China restarts construction, and the global economy could benefit.",
-         "url" : "https://www.nytimes.com/2020/09/25/business/commodities-metals-prices-china-coronavirus.html",
-         "author" : "Matt Phillips"
+         "publishedAt" : "2020-09-25T15:51:00Z"
       },
       {
-         "title" : "The worst ranked Halloween candy is Michigan’s most popular for 2020 - MLive.com",
-         "description" : "It's ranked the least favorite Halloween candy in 2020, yet Michiganders seem to love it. Here's the state's top ranked Halloween candies.",
-         "url" : "https://www.mlive.com/life/2020/09/the-worst-ranked-halloween-candy-is-michigans-most-popular-for-2020.html",
-         "author" : "Edward Pevos | epevos@MLive.com",
-         "urlToImage" : "https://www.mlive.com/resizer/taIHvxWsEVbFDxkpiKjzBB-heEU=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/Z33BRBB3CBFWFMHSY7DGK5LVWU.jpg",
+         "title" : "Exxon Mobil: A Textbook Example Of Mean Reversion - Seeking Alpha",
+         "content" : "Source: exxonmobillng.com\r\nInvestment Thesis\r\nExxon Mobil (XOM) is the U.S. symbol of the oil &amp; gas industry. This sentence by itself is enough to discourage almost all investors from even consid… [+12092 chars]",
+         "urlToImage" : "https://static1.seekingalpha.com/images/marketing_images/oil_gas/freight_energy_cco.jpeg",
+         "description" : "The oil & gas industry has become very unpopular one but we are going to need it, if we want to keep the lights on.",
+         "author" : "Vladimir Dimitrov, CFA",
+         "url" : "https://seekingalpha.com/article/4376331-exxon-mobil-textbook-example-of-mean-reversion",
          "source" : {
-            "id" : null,
-            "name" : "mlive.com"
-         },
-         "content" : "The worst ranked Halloween candy in the country is apparently the number one choice for people in Michigan. 13 years of research doesnt lie and it shows Candy Corn is the most popular Halloween Candy… [+1477 chars]",
-         "publishedAt" : "2020-09-25T15:14:00Z"
-      },
-      {
-         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200925092038-salmonella-mushroom-recall-trnd-0924-super-tease.jpg",
-         "author" : "Mallory Hughes, CNN",
-         "url" : "https://www.cnn.com/2020/09/25/health/salmonella-mushroom-recall-trnd/index.html",
-         "description" : "At least 41 people are sick in 10 different states after a salmonella outbreak that has been linked to dried wood ear mushrooms, the Centers for Disease Control and Prevention said.",
-         "title" : "A multi-state salmonella outbreak that sickened at least 41 people is linked to recalled mushrooms - CNN",
-         "publishedAt" : "2020-09-25T15:09:00Z",
-         "content" : "(CNN)At least 41 people are sick in 10 different states after a salmonella outbreak that has been linked to dried wood ear mushrooms, the Centers for Disease Control and Prevention said.\r\nThe cases s… [+2280 chars]",
-         "source" : {
-            "id" : "cnn",
-            "name" : "CNN"
-         }
-      },
-      {
-         "publishedAt" : "2020-09-25T15:08:00Z",
-         "content" : "The Dow Jones Industrial Average fell nearly 150 points Friday before reversing higher midday, as the stock market rally attempt continues. Dow Jones leader Apple rallied over 2%, while Tesla jumped … [+7073 chars]",
-         "source" : {
-            "name" : "Investor's Business Daily",
+            "name" : "Seeking Alpha",
             "id" : null
          },
-         "urlToImage" : "https://www.investors.com/wp-content/uploads/2020/04/Stock-Tesla-09-adobe.jpg",
-         "description" : "The Dow Jones Industrial Average fell nearly 150 points Friday, but Apple and Tesla advanced. Novavax soared 14% on a coronavirus vaccine deal.",
-         "url" : "https://www.investors.com/market-trend/stock-market-today/dow-jones-stock-market-rally-attempt-apple-tesla-stock-novavax-coronavirus-vaccine/",
-         "author" : "Investor's Business Daily",
-         "title" : "Dow Jones Erases 125 Point Loss, As Tesla Jumps; Novavax Soars 14% On Coronavirus Vaccine Deal - Investor's Business Daily"
+         "publishedAt" : "2020-09-25T15:10:00Z"
       },
       {
-         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200925135932-sinopharm-coronavirus-vaccine-super-tease.jpg",
-         "author" : "Nectar Gan, CNN",
-         "description" : "China gained the \"understanding and support\" from the World Health Organization before starting a controversial emergency use program for its Covid-19 vaccine candidates, a Chinese health official said Friday.",
-         "url" : "https://www.cnn.com/2020/09/25/asia/china-vaccine-who-intl/index.html",
-         "title" : "China says it got WHO support for coronavirus vaccine emergency use - CNN",
-         "publishedAt" : "2020-09-25T15:00:00Z",
-         "source" : {
-            "id" : "cnn",
-            "name" : "CNN"
-         },
-         "content" : "(CNN)China gained the \"understanding and support\" from the World Health Organization before starting a controversial emergency use program for its Covid-19 vaccine candidates, a Chinese health offici… [+2961 chars]"
-      },
-      {
-         "description" : "The tables quickly turned for an 89-year-old pizza delivery driver who received a surprise delivery of his own from \"regulars\" on his route -- a $12,000 tip.",
-         "url" : "https://www.cnn.com/2020/09/25/us/delivery-driver-surprise-tip-trnd/index.html",
-         "author" : "Hannah Lawson, CNN",
-         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200925095740-04-pizza-delivery-driver-tip-super-tease.jpg",
          "title" : "89-year-old pizza delivery driver gets $12,000 tip surprise from 'TikTok Family' - CNN",
-         "content" : null,
-         "source" : {
-            "id" : "cnn",
-            "name" : "CNN"
-         },
-         "publishedAt" : "2020-09-25T14:58:00Z"
-      },
-      {
-         "content" : null,
+         "url" : "https://www.cnn.com/2020/09/25/us/delivery-driver-surprise-tip-trnd/index.html",
          "source" : {
             "name" : "CNN",
             "id" : "cnn"
          },
-         "publishedAt" : "2020-09-25T14:56:00Z",
-         "title" : "BMW fined $18 million for inflating sales figures - CNN",
-         "description" : "Luxury automaker BMW has agreed to pay an $18 million fine for misreporting its car sales figures over the course of five years, the Securities and Exchange Commission announced.",
-         "url" : "https://www.cnn.com/2020/09/25/business/bmw-sales-figures-sec-fine/index.html",
-         "author" : "Chris Isidore, CNN Business",
-         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200925101005-bmw-us-car-dealership-file-super-tease.jpg"
+         "publishedAt" : "2020-09-25T14:58:00Z",
+         "content" : null,
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200925095740-04-pizza-delivery-driver-tip-super-tease.jpg",
+         "description" : "The tables quickly turned for an 89-year-old pizza delivery driver who received a surprise delivery of his own from \"regulars\" on his route -- a $12,000 tip.",
+         "author" : "Hannah Lawson, CNN"
       },
       {
-         "content" : "B&amp;G Foods Inc BGS.N said on Thursday it would drop an image of a Black chef from the packaging of its Cream of Wheat porridge mix, the latest company to make branding changes widely considered as… [+914 chars]",
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200925101005-bmw-us-car-dealership-file-super-tease.jpg",
+         "content" : null,
+         "author" : "Chris Isidore, CNN Business",
+         "description" : "Luxury automaker BMW has agreed to pay an $18 million fine for misreporting its car sales figures over the course of five years, the Securities and Exchange Commission announced.",
+         "publishedAt" : "2020-09-25T14:56:00Z",
          "source" : {
-            "name" : "NBC News",
-            "id" : "nbc-news"
+            "name" : "CNN",
+            "id" : "cnn"
          },
-         "publishedAt" : "2020-09-25T14:45:00Z",
-         "author" : "Reuters",
-         "url" : "https://www.nbcnews.com/news/nbcblk/b-g-foods-remove-cream-wheat-black-chef-image-packaging-n1241076",
-         "description" : "B&G Foods said on Thursday it would drop an image of a Black chef from the packaging of its Cream of Wheat porridge mix.",
-         "urlToImage" : "https://media2.s-nbcnews.com/j/newscms/2020_25/3390913/200618-cream-wheat-mn-0930_a203e69d2006e447623126b8a36c0be3.nbcnews-fp-1200-630.jpg",
-         "title" : "B&G Foods to remove Cream of Wheat Black chef image from packaging - NBC News"
+         "url" : "https://www.cnn.com/2020/09/25/business/bmw-sales-figures-sec-fine/index.html",
+         "title" : "BMW fined $18 million for inflating sales figures - CNN"
       }
    ],
+   "totalResults" : 70,
    "status" : "ok"
 }
