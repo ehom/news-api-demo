@@ -1,87 +1,89 @@
 {
-   "totalResults" : 70,
    "status" : "ok",
+   "totalResults" : 70,
    "articles" : [
       {
-         "source" : {
-            "id" : "cnn",
-            "name" : "CNN"
-         },
-         "title" : "FDA issues Benadryl warning as it investigates reports of teen injuries and deaths linked to TikTok challenge - CNN",
-         "content" : null,
          "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200925010211-benadryl-file-photo-super-tease.jpg",
-         "url" : "https://www.cnn.com/2020/09/25/health/fda-issues-benadryl-warning-tiktok-challenge-wellness/index.html",
          "description" : "The US Food and Drug Administration issued a warning Thursday over \"serious problems with high doses\" of the common over-the-counter allergy medication Benadryl.",
          "publishedAt" : "2020-09-25T06:10:00Z",
-         "author" : "Shelby Lin Erdman, CNN"
+         "title" : "FDA issues Benadryl warning as it investigates reports of teen injuries and deaths linked to TikTok challenge - CNN",
+         "source" : {
+            "name" : "CNN",
+            "id" : "cnn"
+         },
+         "author" : "Shelby Lin Erdman, CNN",
+         "content" : null,
+         "url" : "https://www.cnn.com/2020/09/25/health/fda-issues-benadryl-warning-tiktok-challenge-wellness/index.html"
       },
       {
-         "content" : "SINGAPORE  Major index provider FTSE Russell said Thursday it will add Chinese government bonds to its flagship World Government Bond Index from October next year a development that will bring billio… [+2243 chars]",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106143272-1569217672656gettyimages-1169222663.jpeg?v=1601010164",
-         "url" : "https://www.cnbc.com/2020/09/25/china-is-set-to-join-ftse-world-government-bond-index-in-october-2021.html",
-         "description" : "China's scheduled inclusion in the FTSE World Government Bond Index — its third entry into a major global bond index — comes at a time when investors are hunting for yield in an environment of ultra-low interest rates.",
          "title" : "China is set to join FTSE Russell’s flagship global bond index next year - CNBC",
          "source" : {
             "name" : "CNBC",
             "id" : null
          },
+         "content" : "SINGAPORE  Major index provider FTSE Russell said Thursday it will add Chinese government bonds to its flagship World Government Bond Index from October next year a development that will bring billio… [+2243 chars]",
          "author" : "Yen Nee Lee",
+         "url" : "https://www.cnbc.com/2020/09/25/china-is-set-to-join-ftse-world-government-bond-index-in-october-2021.html",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106143272-1569217672656gettyimages-1169222663.jpeg?v=1601010164",
+         "description" : "China's scheduled inclusion in the FTSE World Government Bond Index — its third entry into a major global bond index — comes at a time when investors are hunting for yield in an environment of ultra-low interest rates.",
          "publishedAt" : "2020-09-25T05:22:00Z"
       },
       {
-         "source" : {
-            "name" : "Fox Business",
-            "id" : null
-         },
-         "content" : "Be careful if you've purchased a Kobalt Cordless Electric Chainsaw sold exclusively at Lowe’s.\r\nThe saw may not turn off and stay in the on position, posing a chance of injury.\r\nThe recall was issued… [+1014 chars]",
          "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/09/0/0/Kobalt-Chainsaw.png?ve=1&tl=1",
          "description" : "The recall was issued by the U.S. Consumer Product Safety Commission",
-         "url" : "https://www.foxbusiness.com/markets/chainsaws-sold-at-lowes-may-not-turn-off",
-         "title" : "Chainsaws sold at Lowe's may not turn off - Fox Business",
          "publishedAt" : "2020-09-25T05:05:52Z",
-         "author" : "Ken Martin"
+         "title" : "Chainsaws sold at Lowe's may not turn off - Fox Business",
+         "author" : "Ken Martin",
+         "source" : {
+            "id" : null,
+            "name" : "Fox Business"
+         },
+         "content" : "Be careful if you've purchased a Kobalt Cordless Electric Chainsaw sold exclusively at Lowe’s.\r\nThe saw may not turn off and stay in the on position, posing a chance of injury.\r\nThe recall was issued… [+1014 chars]",
+         "url" : "https://www.foxbusiness.com/markets/chainsaws-sold-at-lowes-may-not-turn-off"
       },
       {
-         "title" : "Asia stocks take inspiration from renewed hope for fresh round of pandemic relief in U.S. - MarketWatch",
-         "content" : "TOKYO (AP) Asian shares advanced Friday, cheered by a modest rally on Wall Street and rising hopes for fresh stimulus for the U.S. economy. Despite signs of a global economic rebound in the third qua… [+3298 chars]",
-         "urlToImage" : "https://s.marketwatch.com/public/resources/images/MW-IP342_japan__ZG_20200925000208.jpg",
-         "url" : "https://www.marketwatch.com/story/asia-stocks-take-inspiration-from-renewed-hope-for-fresh-round-of-pandemic-relief-in-us-2020-09-25",
          "description" : "",
+         "urlToImage" : "https://s.marketwatch.com/public/resources/images/MW-IP342_japan__ZG_20200925000208.jpg",
+         "publishedAt" : "2020-09-25T04:11:00Z",
+         "title" : "Asia stocks take inspiration from renewed hope for fresh round of pandemic relief in U.S. - MarketWatch",
          "source" : {
             "id" : null,
             "name" : "MarketWatch"
          },
          "author" : "Associated Press",
-         "publishedAt" : "2020-09-25T04:11:00Z"
+         "content" : "TOKYO (AP) Asian shares advanced Friday, cheered by a modest rally on Wall Street and rising hopes for fresh stimulus for the U.S. economy. Despite signs of a global economic rebound in the third qua… [+3298 chars]",
+         "url" : "https://www.marketwatch.com/story/asia-stocks-take-inspiration-from-renewed-hope-for-fresh-round-of-pandemic-relief-in-us-2020-09-25"
       },
       {
-         "author" : null,
          "publishedAt" : "2020-09-25T02:19:52Z",
-         "title" : "China Evergrande's Warning Spooks Investors - Bloomberg Markets and Finance",
-         "content" : null,
-         "url" : "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9V19qNDN0bXduRmPSAQA?oc=5",
          "urlToImage" : null,
          "description" : null,
+         "url" : "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9V19qNDN0bXduRmPSAQA?oc=5",
+         "author" : null,
+         "content" : null,
          "source" : {
-            "name" : "Google News",
-            "id" : "google-news"
-         }
+            "id" : "google-news",
+            "name" : "Google News"
+         },
+         "title" : "China Evergrande's Warning Spooks Investors - Bloomberg Markets and Finance"
       },
       {
-         "source" : {
-            "id" : null,
-            "name" : "CleanTechnica"
-         },
-         "content" : "CarsPublished on September 24th, 2020 |\r\n by Zachary Shahan\r\n0\r\nSeptember 24th, 2020 by Zachary Shahan \r\nI wrote about Tesla’s massive battery growth plans earlier today. I think I’ve finally digeste… [+5098 chars]",
-         "urlToImage" : "https://cleantechnica.com/files/2020/09/Biggest-EV-Battery-Factories-in-World-benchmark-Mineral-Intelligence.jpeg",
          "url" : "https://cleantechnica.com/2020/09/24/how-will-lg-chem-scale-up-its-ev-battery-production-as-tesla-explodes-onto-scene/",
-         "description" : "LG Chem has long been one of the 2 or 3 biggest lithium-ion battery producers in the world — CATL and Panasonic (due to its agreement with high-selling Tesla) are the other two big ones in recent years",
+         "author" : "https://www.facebook.com/zachary.shahan",
+         "content" : "CarsPublished on September 24th, 2020 |\r\n by Zachary Shahan\r\n0\r\nSeptember 24th, 2020 by Zachary Shahan \r\nI wrote about Tesla’s massive battery growth plans earlier today. I think I’ve finally digeste… [+5098 chars]",
+         "source" : {
+            "name" : "CleanTechnica",
+            "id" : null
+         },
          "title" : "How Will LG Chem Scale Up Its EV Battery Production As Tesla Explodes Onto Scene? - CleanTechnica",
          "publishedAt" : "2020-09-25T01:38:59Z",
-         "author" : "https://www.facebook.com/zachary.shahan"
+         "urlToImage" : "https://cleantechnica.com/files/2020/09/Biggest-EV-Battery-Factories-in-World-benchmark-Mineral-Intelligence.jpeg",
+         "description" : "LG Chem has long been one of the 2 or 3 biggest lithium-ion battery producers in the world — CATL and Panasonic (due to its agreement with high-selling Tesla) are the other two big ones in recent years"
       },
       {
          "publishedAt" : "2020-09-25T01:17:02Z",
+         "urlToImage" : "https://ichef.bbci.co.uk/news/1024/branded_news/41DB/production/_114595861_harley.jpg",
+         "description" : "The iconic motorcycle company is pulling out of India as it struggles to sell its two-wheelers.",
          "author" : "https://www.facebook.com/bbcnews",
          "source" : {
             "id" : null,
@@ -89,178 +91,176 @@
          },
          "content" : "Image copyrightGetty ImagesImage caption\r\n Actor Jesse Metcalfe riding a Harley Davidson\r\nHarley-Davidson is pulling out of India, the world's biggest motorcycle market.\r\nThe iconic US motorcycle mak… [+2097 chars]",
          "url" : "https://www.bbc.com/news/business-54290245",
-         "urlToImage" : "https://ichef.bbci.co.uk/news/1024/branded_news/41DB/production/_114595861_harley.jpg",
-         "description" : "The iconic motorcycle company is pulling out of India as it struggles to sell its two-wheelers.",
          "title" : "Harley-Davidson to exit world's biggest bike market - BBC News"
       },
       {
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200924205630-fda-dental-amalgam-health-warning-super-tease.jpg",
+         "description" : "The US Food and Drug Administration warned Thursday that silver dental fillings, known as dental amalgam, may cause health problems for some high-risk groups.",
          "publishedAt" : "2020-09-25T01:15:00Z",
+         "title" : "FDA warns popular dental filling could cause health problems for some patients - CNN",
          "author" : "Jen Christensen and Kelly McCleary, CNN",
          "source" : {
-            "id" : "cnn",
-            "name" : "CNN"
+            "name" : "CNN",
+            "id" : "cnn"
          },
          "content" : null,
-         "description" : "The US Food and Drug Administration warned Thursday that silver dental fillings, known as dental amalgam, may cause health problems for some high-risk groups.",
-         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200924205630-fda-dental-amalgam-health-warning-super-tease.jpg",
-         "url" : "https://www.cnn.com/2020/09/24/health/fda-dental-amalgam-health-warning/index.html",
-         "title" : "FDA warns popular dental filling could cause health problems for some patients - CNN"
+         "url" : "https://www.cnn.com/2020/09/24/health/fda-dental-amalgam-health-warning/index.html"
       },
       {
-         "content" : "Palantir Technologies Inc. is expected to fetch a lofty valuation in its transition to a public company despite an unusually aggressive governance structure, in the latest sign of investors voracious… [+507 chars]",
-         "url" : "https://www.marketwatch.com/story/palantir-headed-for-22-billion-valuation-in-wall-street-debut-report-2020-09-24",
+         "publishedAt" : "2020-09-25T00:23:00Z",
          "urlToImage" : "https://s.marketwatch.com/public/resources/images/MW-GS074_palant_ZG_20181019093954.jpg",
          "description" : "Wall Street Journal exclusive: The data-mining-software company is going public via a direct listing rather than a traditional IPO, with a debut on the NYSE set for Sept. 30",
-         "title" : "Palantir headed for $22 billion valuation in Wall Street debut: report - MarketWatch",
-         "source" : {
-            "name" : "MarketWatch",
-            "id" : null
-         },
+         "content" : "Palantir Technologies Inc. is expected to fetch a lofty valuation in its transition to a public company despite an unusually aggressive governance structure, in the latest sign of investors voracious… [+507 chars]",
          "author" : "Maureen Farrell, Corrie Driebusch, Eliot Brown",
-         "publishedAt" : "2020-09-25T00:23:00Z"
+         "source" : {
+            "id" : null,
+            "name" : "MarketWatch"
+         },
+         "url" : "https://www.marketwatch.com/story/palantir-headed-for-22-billion-valuation-in-wall-street-debut-report-2020-09-24",
+         "title" : "Palantir headed for $22 billion valuation in Wall Street debut: report - MarketWatch"
       },
       {
+         "publishedAt" : "2020-09-25T00:20:00Z",
+         "urlToImage" : "https://static.seekingalpha.com/uploads/2020/9/24/234751-16009245712752059.png",
+         "description" : "AT&T appears headed towards a wash-out moment down at $26. The stock already has a historically high dividend yield and spread with Verizon's dividend.",
+         "author" : "Stone Fox Capital",
          "source" : {
             "name" : "Seeking Alpha",
             "id" : null
          },
-         "title" : "AT&T: Heading Towards A Wash-Out - Seeking Alpha",
          "content" : "As virus fears hit the stock market again, AT&amp;T (T) is headed to wash-out levels seen back at the market lows in mid-March. The stock is now below $28 and offers a smashingly large 7.5% dividend … [+5051 chars]",
-         "urlToImage" : "https://static.seekingalpha.com/uploads/2020/9/24/234751-16009245712752059.png",
          "url" : "https://seekingalpha.com/article/4376227-t-heading-towards-wash-out",
-         "description" : "AT&T appears headed towards a wash-out moment down at $26. The stock already has a historically high dividend yield and spread with Verizon's dividend.",
-         "publishedAt" : "2020-09-25T00:20:00Z",
-         "author" : "Stone Fox Capital"
+         "title" : "AT&T: Heading Towards A Wash-Out - Seeking Alpha"
       },
       {
+         "title" : "The QX60 Monograph concept is a thinly veiled look at Infiniti's next SUV - CNET",
+         "content" : "You're basically looking at the new Infiniti QX60.\r\nInfiniti\r\nSometimes concept cars are wild, futuristic hot takes, designed to exhibit the outer limits of what's technically possible in the automot… [+2407 chars]",
+         "author" : "Steven Ewing",
          "source" : {
             "id" : null,
             "name" : "CNET"
          },
-         "title" : "The QX60 Monograph concept is a thinly veiled look at Infiniti's next SUV - CNET",
-         "content" : "You're basically looking at the new Infiniti QX60.\r\nInfiniti\r\nSometimes concept cars are wild, futuristic hot takes, designed to exhibit the outer limits of what's technically possible in the automot… [+2407 chars]",
+         "url" : "https://www.cnet.com/roadshow/news/infiniti-qx60-monograph-concept-debut/",
          "urlToImage" : "https://cnet2.cbsistatic.com/img/hIl65pc5J18CPH1EU6OHlwQX-Ok=/1200x630/2020/09/22/76a8e9e6-ec7c-40a1-9c60-09badddd7e72/ogi1-infiniti-qx60-monograph-concept-008.jpg",
          "description" : "This technically isn't the new Infiniti QX60 crossover, but it's really, really close.",
-         "url" : "https://www.cnet.com/roadshow/news/infiniti-qx60-monograph-concept-debut/",
-         "publishedAt" : "2020-09-25T00:00:00Z",
-         "author" : "Steven Ewing"
+         "publishedAt" : "2020-09-25T00:00:00Z"
       },
       {
-         "title" : "MTA Employees Busted for Grand Central Terminal 'Man Cave' | NBC New York - NBC New York",
-         "content" : null,
-         "url" : "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9RGxjQjU0UDN2TjTSAQA?oc=5",
+         "publishedAt" : "2020-09-24T23:52:59Z",
          "urlToImage" : null,
          "description" : null,
-         "source" : {
-            "name" : "Google News",
-            "id" : "google-news"
-         },
          "author" : null,
-         "publishedAt" : "2020-09-24T23:52:59Z"
+         "source" : {
+            "id" : "google-news",
+            "name" : "Google News"
+         },
+         "content" : null,
+         "url" : "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9RGxjQjU0UDN2TjTSAQA?oc=5",
+         "title" : "MTA Employees Busted for Grand Central Terminal 'Man Cave' | NBC New York - NBC New York"
       },
       {
-         "title" : "Amazon announced Ring's new indoor security drone: How will Always Home Cam work? - USA TODAY",
-         "content" : "Consumer drones are notorious for being hard to fly at first, before you learn what you're doing, and the odds are, you will crash it. It's not a question of if, but when.\r\nSo how about a drone that … [+3929 chars]",
          "urlToImage" : "https://www.gannett-cdn.com/presto/2020/09/24/USAT/796e20bd-7f95-4663-8fa9-83ae45036333-Screen_Shot_2020-09-24_at_3.12.04_PM.jpg?crop=1657,932,x0,y4&width=1600&height=800&fit=bounds",
-         "url" : "https://www.usatoday.com/story/tech/2020/09/24/ring-drone-security-camera-flies-around-inside-your-house/3524155001/",
          "description" : "Before you start automatically flying, you have to set up the Ring Home Away flying drone with an app, to set up the mapping.",
+         "publishedAt" : "2020-09-24T23:46:45Z",
+         "title" : "Amazon announced Ring's new indoor security drone: How will Always Home Cam work? - USA TODAY",
          "source" : {
             "name" : "USA Today",
             "id" : "usa-today"
          },
+         "content" : "Consumer drones are notorious for being hard to fly at first, before you learn what you're doing, and the odds are, you will crash it. It's not a question of if, but when.\r\nSo how about a drone that … [+3929 chars]",
          "author" : "Jefferson Graham",
-         "publishedAt" : "2020-09-24T23:46:45Z"
+         "url" : "https://www.usatoday.com/story/tech/2020/09/24/ring-drone-security-camera-flies-around-inside-your-house/3524155001/"
       },
       {
-         "author" : null,
          "publishedAt" : "2020-09-24T23:05:21Z",
          "description" : null,
-         "content" : null,
          "urlToImage" : null,
-         "url" : "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9a3JkR0p1cUVlTkXSAQA?oc=5",
-         "title" : "Jim Cramer sees strong risk-reward for investors in Nvidia after its Arm acquisition - CNBC Television",
+         "content" : null,
          "source" : {
-            "name" : "Google News",
-            "id" : "google-news"
-         }
+            "id" : "google-news",
+            "name" : "Google News"
+         },
+         "author" : null,
+         "url" : "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9a3JkR0p1cUVlTkXSAQA?oc=5",
+         "title" : "Jim Cramer sees strong risk-reward for investors in Nvidia after its Arm acquisition - CNBC Television"
       },
       {
-         "author" : "Ben Winck",
-         "publishedAt" : "2020-09-24T23:03:00Z",
          "title" : "US new-home sales surge to fastest pace since 2006 as housing market shines through pandemic | Markets - Business Insider",
-         "content" : "Associated Press\r\n<ul><li>Sales of new US homes accelerated by 4.8% in August, to an annual rate of 1 million units, the Census Bureau reported Thursday.</li><li>That rate was the highest since 2006 … [+3183 chars]",
-         "urlToImage" : "https://i.insider.com/5f6cc36ac4049200115cb6b9?format=jpeg",
-         "url" : "https://www.businessinsider.com/new-home-sales-housing-market-outlook-surge-august-supply-shrinks-2020-9",
-         "description" : "US new-home sales surge to fastest pace since 2006 as housing market shines through pandemic",
+         "author" : "Ben Winck",
          "source" : {
             "id" : "business-insider",
             "name" : "Business Insider"
-         }
+         },
+         "content" : "Associated Press\r\n<ul><li>Sales of new US homes accelerated by 4.8% in August, to an annual rate of 1 million units, the Census Bureau reported Thursday.</li><li>That rate was the highest since 2006 … [+3183 chars]",
+         "url" : "https://www.businessinsider.com/new-home-sales-housing-market-outlook-surge-august-supply-shrinks-2020-9",
+         "urlToImage" : "https://i.insider.com/5f6cc36ac4049200115cb6b9?format=jpeg",
+         "description" : "US new-home sales surge to fastest pace since 2006 as housing market shines through pandemic",
+         "publishedAt" : "2020-09-24T23:03:00Z"
       },
       {
+         "publishedAt" : "2020-09-24T23:00:00Z",
+         "urlToImage" : "http://static-10.sinclairstoryline.com/resources/media/7e9f98ba-3724-451d-8597-bcc00567d28c-large16x9_thumb_18977.png?1600987629359",
+         "description" : "On Thursday, Uber announced that if an Uber driver reports that a rider does not wear a mask during a ride, the rider will be required to take a selfie with their face covered before they are able to take another trip. Uber first announced \"No Mask. No Ride. …",
+         "url" : "http://news3lv.com/news/local/uber-starts-mandatory-mask-verification-for-riders",
          "source" : {
             "id" : null,
             "name" : "News3LV"
          },
-         "title" : "Uber starts mandatory mask verification for riders - News3LV",
          "content" : null,
-         "description" : "On Thursday, Uber announced that if an Uber driver reports that a rider does not wear a mask during a ride, the rider will be required to take a selfie with their face covered before they are able to take another trip. Uber first announced \"No Mask. No Ride. …",
-         "urlToImage" : "http://static-10.sinclairstoryline.com/resources/media/7e9f98ba-3724-451d-8597-bcc00567d28c-large16x9_thumb_18977.png?1600987629359",
-         "url" : "http://news3lv.com/news/local/uber-starts-mandatory-mask-verification-for-riders",
-         "publishedAt" : "2020-09-24T23:00:00Z",
-         "author" : "Sadë Mills"
+         "author" : "Sadë Mills",
+         "title" : "Uber starts mandatory mask verification for riders - News3LV"
       },
       {
-         "title" : "Trick-or-treating can happen in NH, but state officials release COVID-19 safety tips - WMUR Manchester",
-         "urlToImage" : "https://kubrick.htvapps.com/htv-prod/ibmig/cms/image/wmur/36187344-36187344.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
-         "content" : "CONCORD, N.H. —The state is providing some tips to stay safe during Halloween while the COVID-19 pandemic continues.\r\n&gt;&gt; Download the free WMUR app\r\nGov. Chris Sununu said Thursday that the sta… [+1021 chars]",
-         "url" : "https://www.wmur.com/article/trick-or-treating-can-happen-in-nh-but-state-officials-release-covid-19-safety-tips/34150549",
+         "publishedAt" : "2020-09-24T22:55:00Z",
          "description" : "The state is providing some tips to stay safe during Halloween while the COVID-19 pandemic continues.",
-         "source" : {
-            "name" : "WMUR Manchester",
-            "id" : null
-         },
+         "urlToImage" : "https://kubrick.htvapps.com/htv-prod/ibmig/cms/image/wmur/36187344-36187344.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
+         "url" : "https://www.wmur.com/article/trick-or-treating-can-happen-in-nh-but-state-officials-release-covid-19-safety-tips/34150549",
          "author" : "Kirk Enstrom",
-         "publishedAt" : "2020-09-24T22:55:00Z"
+         "source" : {
+            "id" : null,
+            "name" : "WMUR Manchester"
+         },
+         "content" : "CONCORD, N.H. —The state is providing some tips to stay safe during Halloween while the COVID-19 pandemic continues.\r\n&gt;&gt; Download the free WMUR app\r\nGov. Chris Sununu said Thursday that the sta… [+1021 chars]",
+         "title" : "Trick-or-treating can happen in NH, but state officials release COVID-19 safety tips - WMUR Manchester"
       },
       {
-         "source" : {
-            "name" : "The Washington Post",
-            "id" : "the-washington-post"
-         },
-         "title" : "Publicly traded firms paid dividends, bought their own stock after receiving PPP loans to pay employees - The Washington Post",
          "url" : "https://www.washingtonpost.com/business/2020/09/24/dividends-buybacks-ppp-loans/",
+         "source" : {
+            "id" : "the-washington-post",
+            "name" : "The Washington Post"
+         },
          "content" : "Under the Small Business Administration rules, a PPP loan could be used only to meet payroll and pay mortgage interest, leases or utility bills. PPP loan recipients werent prohibited from paying inve… [+6939 chars]",
-         "urlToImage" : "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UQPGZGVHNMI6VCMOWINZVA7XSI.jpg&w=1440",
-         "description" : "Financial records show that a number of publicly traded firms paid dividends and bought back stock after receiving taxpayer-backed SBA loans.",
+         "author" : "Aaron Gregg",
+         "title" : "Publicly traded firms paid dividends, bought their own stock after receiving PPP loans to pay employees - The Washington Post",
          "publishedAt" : "2020-09-24T22:35:00Z",
-         "author" : "Aaron Gregg"
+         "urlToImage" : "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UQPGZGVHNMI6VCMOWINZVA7XSI.jpg&w=1440",
+         "description" : "Financial records show that a number of publicly traded firms paid dividends and bought back stock after receiving taxpayer-backed SBA loans."
       },
       {
-         "source" : {
-            "name" : "Barron's",
-            "id" : null
-         },
-         "url" : "https://www.barrons.com/articles/novavax-phase-3-trial-covid-19-vaccine-51600985733",
-         "content" : "The ranks of Covid-19 vaccines in the home stretch of clinical trials now include \r\n Novavax.\r\n On Thursday, the company (ticker: NVAX) said it will start a Phase 3 trial of its vaccine among 10,000 … [+2716 chars]",
-         "urlToImage" : "https://images.barrons.com/im-236349/social",
-         "description" : "",
-         "title" : "Novavax Starts a Phase 3 Trial of Its Covid-19 Vaccine - Barron's",
          "publishedAt" : "2020-09-24T22:16:00Z",
-         "author" : "Bill Alpert"
+         "description" : "",
+         "urlToImage" : "https://images.barrons.com/im-236349/social",
+         "source" : {
+            "id" : null,
+            "name" : "Barron's"
+         },
+         "author" : "Bill Alpert",
+         "content" : "The ranks of Covid-19 vaccines in the home stretch of clinical trials now include \r\n Novavax.\r\n On Thursday, the company (ticker: NVAX) said it will start a Phase 3 trial of its vaccine among 10,000 … [+2716 chars]",
+         "url" : "https://www.barrons.com/articles/novavax-phase-3-trial-covid-19-vaccine-51600985733",
+         "title" : "Novavax Starts a Phase 3 Trial of Its Covid-19 Vaccine - Barron's"
       },
       {
          "publishedAt" : "2020-09-24T22:15:00Z",
-         "author" : "Sarah Nassauer",
+         "urlToImage" : "https://images.wsj.net/im-234328/social",
+         "description" : "Food is selling so quickly that profit is benefiting from lack of spoilage",
+         "url" : "https://www.wsj.com/articles/costcos-comparable-sales-climb-11-4-11600982531",
+         "content" : "After stockpiling early in the coronavirus pandemic, Americans continue to turn to\r\nCostco Wholesale Corp.\r\n COST 0.69%\r\nto buy bulk quantities of groceries and cleaning supplies. They have also been… [+3501 chars]",
          "source" : {
             "id" : "the-wall-street-journal",
             "name" : "The Wall Street Journal"
          },
-         "title" : "Costco’s Sales Get Another Boost From Pandemic Buying - The Wall Street Journal",
-         "content" : "After stockpiling early in the coronavirus pandemic, Americans continue to turn to\r\nCostco Wholesale Corp.\r\n COST 0.69%\r\nto buy bulk quantities of groceries and cleaning supplies. They have also been… [+3501 chars]",
-         "url" : "https://www.wsj.com/articles/costcos-comparable-sales-climb-11-4-11600982531",
-         "urlToImage" : "https://images.wsj.net/im-234328/social",
-         "description" : "Food is selling so quickly that profit is benefiting from lack of spoilage"
+         "author" : "Sarah Nassauer",
+         "title" : "Costco’s Sales Get Another Boost From Pandemic Buying - The Wall Street Journal"
       }
    ]
 }
