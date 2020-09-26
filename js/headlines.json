@@ -1,266 +1,266 @@
 {
-   "totalResults" : 70,
    "status" : "ok",
+   "totalResults" : 70,
    "articles" : [
       {
-         "url" : "https://www.theverge.com/2020/9/26/21455850/polestar-precept-electric-car-concept-android-production",
-         "publishedAt" : "2020-09-26T12:22:43Z",
-         "urlToImage" : "https://cdn.vox-cdn.com/thumbor/bgOIHGqGaXaGhJq4kEMIeyRaAgg=/0x362:3500x2194/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/21909479/Polestar_Precept_034.jpg",
          "author" : "Andrew J. Hawkins",
+         "url" : "https://www.theverge.com/2020/9/26/21455850/polestar-precept-electric-car-concept-android-production",
+         "content" : "The Volvo sub-brand is moving ahead with making its sharp sedan concept a reality\r\nIn February, Chinese electric vehicle company Polestar revealed a gorgeous sedan concept called the Precept that fea… [+2706 chars]",
+         "description" : "Polestar, a Chinese electric car company jointly owned by Volvo, plans to put its gorgeous EV sedan concept the Precept into production. The Precept is an all-electric sedan with futuristic design and native Android infotainment.",
+         "publishedAt" : "2020-09-26T12:22:43Z",
          "title" : "The Polestar Precept, an electric sedan powered by Android, is going into production - The Verge",
          "source" : {
-            "id" : "the-verge",
-            "name" : "The Verge"
+            "name" : "The Verge",
+            "id" : "the-verge"
          },
-         "description" : "Polestar, a Chinese electric car company jointly owned by Volvo, plans to put its gorgeous EV sedan concept the Precept into production. The Precept is an all-electric sedan with futuristic design and native Android infotainment.",
-         "content" : "The Volvo sub-brand is moving ahead with making its sharp sedan concept a reality\r\nIn February, Chinese electric vehicle company Polestar revealed a gorgeous sedan concept called the Precept that fea… [+2706 chars]"
+         "urlToImage" : "https://cdn.vox-cdn.com/thumbor/bgOIHGqGaXaGhJq4kEMIeyRaAgg=/0x362:3500x2194/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/21909479/Polestar_Precept_034.jpg"
       },
       {
-         "author" : "Andy Serwer with Max Zahn",
-         "description" : "On January 9, 1943, two days after Nikola Tesla died destitute in a New York City hotel, the FBI called MIT professor and esteemed electrical engineer, John ...",
+         "url" : "https://finance.yahoo.com/news/how-tesla-nikola-and-donald-trump-are-all-connected-115511618.html",
          "content" : "On January 9, 1943, two days after Nikola Tesla died destitute in a New York City hotel, the FBI called MIT professor and esteemed electrical engineer, John G. Trump, to determine if any of the belon… [+12024 chars]",
+         "description" : "On January 9, 1943, two days after Nikola Tesla died destitute in a New York City hotel, the FBI called MIT professor and esteemed electrical engineer, John ...",
+         "author" : "Andy Serwer with Max Zahn",
+         "publishedAt" : "2020-09-26T11:55:00Z",
          "title" : "How Tesla, Nikola and Donald Trump are all connected - Yahoo Finance",
          "source" : {
             "name" : "Yahoo Entertainment",
             "id" : null
          },
-         "url" : "https://finance.yahoo.com/news/how-tesla-nikola-and-donald-trump-are-all-connected-115511618.html",
-         "urlToImage" : "https://s.yimg.com/ny/api/res/1.2/0Yo_FWzB4uEK4cnYgs4xmA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyODA7aD05NDIuOTMzMzMzMzMzMzMzMw--/https://s.yimg.com/uu/api/res/1.2/gWYuAa039tJbIg.kYBkR4w--~B/aD0zMTU4O3c9NDI4NTtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2020-09/5008e010-ffd4-11ea-bfde-b27ea976509c",
-         "publishedAt" : "2020-09-26T11:55:00Z"
+         "urlToImage" : "https://s.yimg.com/ny/api/res/1.2/0Yo_FWzB4uEK4cnYgs4xmA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyODA7aD05NDIuOTMzMzMzMzMzMzMzMw--/https://s.yimg.com/uu/api/res/1.2/gWYuAa039tJbIg.kYBkR4w--~B/aD0zMTU4O3c9NDI4NTtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2020-09/5008e010-ffd4-11ea-bfde-b27ea976509c"
       },
       {
-         "author" : "The Wall Street Journal",
          "source" : {
-            "id" : "the-wall-street-journal",
-            "name" : "The Wall Street Journal"
+            "name" : "The Wall Street Journal",
+            "id" : "the-wall-street-journal"
          },
-         "title" : "Inflation is already here -- for the stuff you actually want to buy - Fox Business",
-         "content" : "If it feels like the price of everything you buy has been soaring, that's because it has -- even as central bankers everywhere worry about the danger of deflation.\r\nThe gap between everyday experienc… [+6049 chars]",
-         "description" : "Prices are rising for things people need in the pandemic, even if the overall inflation number remains subdued.",
+         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/08/0/0/cash-iStock.jpg?ve=1&tl=1",
          "url" : "https://www.wsj.com/articles/inflation-is-already-herefor-the-stuff-you-actually-want-to-buy-11601112630?mod=hp_lead_pos9",
+         "description" : "Prices are rising for things people need in the pandemic, even if the overall inflation number remains subdued.",
+         "content" : "If it feels like the price of everything you buy has been soaring, that's because it has -- even as central bankers everywhere worry about the danger of deflation.\r\nThe gap between everyday experienc… [+6049 chars]",
+         "author" : "The Wall Street Journal",
          "publishedAt" : "2020-09-26T11:37:42Z",
-         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/08/0/0/cash-iStock.jpg?ve=1&tl=1"
+         "title" : "Inflation is already here -- for the stuff you actually want to buy - Fox Business"
       },
       {
-         "urlToImage" : "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i5xDtcrQem4I/v1/1200x769.jpg",
-         "publishedAt" : "2020-09-26T11:00:00Z",
-         "url" : "https://www.bloomberg.com/news/articles/2020-09-26/every-day-trader-dollar-is-worth-five-in-a-new-theory-on-stocks",
-         "source" : {
-            "id" : "bloomberg",
-            "name" : "Bloomberg"
-         },
          "title" : "Every Day-Trader Dollar Is Worth Five in a New Theory on Stocks - Bloomberg",
+         "publishedAt" : "2020-09-26T11:00:00Z",
          "content" : "Day traders claiming bragging rights for this year’s $9 trillion U.S. equity rebound can find some supporting evidence in the latest research.\r\nEven as retail trading has grown to \r\nrepresent 20% of … [+3403 chars]",
          "description" : "",
-         "author" : "Sam Potter"
+         "url" : "https://www.bloomberg.com/news/articles/2020-09-26/every-day-trader-dollar-is-worth-five-in-a-new-theory-on-stocks",
+         "author" : "Sam Potter",
+         "urlToImage" : "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i5xDtcrQem4I/v1/1200x769.jpg",
+         "source" : {
+            "name" : "Bloomberg",
+            "id" : "bloomberg"
+         }
       },
       {
-         "author" : "Yuan Yang",
-         "title" : "US sanctions China’s biggest chipmaker - Financial Times",
          "source" : {
             "name" : "Financial Times",
             "id" : "financial-times"
          },
+         "urlToImage" : null,
+         "url" : "https://www.ft.com/content/7325dcea-e327-4054-9b24-7a12a6a2cac6",
          "content" : "Journalists in 50+ countries explore developments in global commerce from every perspective.\r\nFor Premium subscribers, we offer our dedicated FT Free Trade newsletter every Tuesday and Thursday.",
          "description" : "News, analysis and comment from the Financial Times, the worldʼs leading global business publication",
-         "url" : "https://www.ft.com/content/7325dcea-e327-4054-9b24-7a12a6a2cac6",
-         "urlToImage" : null,
-         "publishedAt" : "2020-09-26T10:46:00Z"
+         "author" : "Yuan Yang",
+         "publishedAt" : "2020-09-26T10:46:00Z",
+         "title" : "US sanctions China’s biggest chipmaker - Financial Times"
       },
       {
+         "author" : "Evelyn Cheng",
+         "content" : "BEIJING Alibaba-backed Xpeng is putting money into flying car technology as part of the company's long-term strategy. \r\nThe electric automaker revealed Saturday at the Beijing Auto Show the first in … [+1519 chars]",
+         "description" : "With eight propellers and a capsule-like frame, the vehicle resembles a human-carrying drone more than a flying car.",
+         "url" : "https://www.cnbc.com/2020/09/26/chinese-electric-car-start-up-xpeng-shows-off-new-flying-vehicle-.html",
+         "title" : "Chinese electric car start-up Xpeng shows off new flying vehicle - CNBC",
+         "publishedAt" : "2020-09-26T10:13:00Z",
          "source" : {
             "id" : null,
             "name" : "CNBC"
          },
-         "title" : "Chinese electric car start-up Xpeng shows off new flying vehicle - CNBC",
-         "description" : "With eight propellers and a capsule-like frame, the vehicle resembles a human-carrying drone more than a flying car.",
-         "content" : "BEIJING Alibaba-backed Xpeng is putting money into flying car technology as part of the company's long-term strategy. \r\nThe electric automaker revealed Saturday at the Beijing Auto Show the first in … [+1519 chars]",
-         "author" : "Evelyn Cheng",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106718464-1601114779985-Evelyn_cheng_flying_car_china.jpg?v=1601114938",
-         "publishedAt" : "2020-09-26T10:13:00Z",
-         "url" : "https://www.cnbc.com/2020/09/26/chinese-electric-car-start-up-xpeng-shows-off-new-flying-vehicle-.html"
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106718464-1601114779985-Evelyn_cheng_flying_car_china.jpg?v=1601114938"
       },
       {
-         "title" : "Cheesecake Factory shares Lemon-Ricotta Pancake recipe for National Pancake Day - Fox News",
-         "source" : {
-            "id" : "fox-news",
-            "name" : "Fox News"
-         },
+         "author" : "Michael Bartiromo",
+         "url" : "https://www.foxnews.com/food-drink/cheesecake-factory-lemon-ricotta-pancake-recipe-national-pancake-day",
          "content" : "The Cheesecake Factory, a restaurant chain that specializes in cheesecake, serves 37 different types of cheesecake, and proudly advertises “cheesecake” right in its name, is for some reason super sto… [+2914 chars]",
          "description" : "Cheesecake Factory wants you to eat pancakes on National Pancake Day, whether you buy them from the restaurant or not.",
-         "author" : "Michael Bartiromo",
          "publishedAt" : "2020-09-26T08:00:51Z",
-         "urlToImage" : "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/LemonRicottaCheeseCakeFactoryPancakes23.jpg",
-         "url" : "https://www.foxnews.com/food-drink/cheesecake-factory-lemon-ricotta-pancake-recipe-national-pancake-day"
+         "title" : "Cheesecake Factory shares Lemon-Ricotta Pancake recipe for National Pancake Day - Fox News",
+         "source" : {
+            "name" : "Fox News",
+            "id" : "fox-news"
+         },
+         "urlToImage" : "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/LemonRicottaCheeseCakeFactoryPancakes23.jpg"
       },
       {
-         "urlToImage" : "https://cnet3.cbsistatic.com/img/ewvfBFaHTmxDiStKRrM4eU-BmUY=/1200x630/2020/09/26/a83f7911-6e31-401c-9d00-28ce1a36e441/ogi1-hyundai-rm19-002.jpg",
-         "publishedAt" : "2020-09-26T05:17:00Z",
-         "url" : "https://www.cnet.com/roadshow/news/hyundai-rm20e-debut/",
-         "source" : {
-            "name" : "CNET",
-            "id" : null
-         },
-         "title" : "Hyundai RM20e is the ultimate electric hot hatch - CNET",
          "content" : "Holy smokes is this thing cool.\r\nHyundai\r\nRemember Hyundai's awesome little mid-engine RM19 concept that debuted at the 2019 Los Angeles Auto Show? I sure do; it's amazing. So how does Hyundai one-up… [+1716 chars]",
          "description" : "This racing prototype packs 810 horsepower -- and it's electric.",
-         "author" : "Steven Ewing"
+         "url" : "https://www.cnet.com/roadshow/news/hyundai-rm20e-debut/",
+         "author" : "Steven Ewing",
+         "title" : "Hyundai RM20e is the ultimate electric hot hatch - CNET",
+         "publishedAt" : "2020-09-26T05:17:00Z",
+         "source" : {
+            "id" : null,
+            "name" : "CNET"
+         },
+         "urlToImage" : "https://cnet3.cbsistatic.com/img/ewvfBFaHTmxDiStKRrM4eU-BmUY=/1200x630/2020/09/26/a83f7911-6e31-401c-9d00-28ce1a36e441/ogi1-hyundai-rm19-002.jpg"
       },
       {
-         "url" : "https://www.wral.com/coronavirus/local-doctor-says-children-can-safely-celebrate-halloween-go-trick-or-treating/19305983/",
-         "publishedAt" : "2020-09-26T04:44:00Z",
          "urlToImage" : "https://wwwcache.wral.com/asset/5oys/smartshopper/2020/09/25/19304693/Halloween_candy_in_a_bowl-DMID1-5ob37u0yi-640x480.jpg",
-         "author" : "Leslie Moreno, Brad Simmons, Jason O. Boyd",
          "source" : {
             "id" : null,
             "name" : "WRAL.com"
          },
          "title" : "Local doctor says children can safely celebrate Halloween, go trick-or-treating - WRAL.com",
+         "publishedAt" : "2020-09-26T04:44:00Z",
+         "author" : "Leslie Moreno, Brad Simmons, Jason O. Boyd",
          "content" : "By Leslie Moreno, WRAL multimedia journalist\r\nRaleigh, N.C. — Twenty-five mayors from across North Carolina met with Dr. Mandy Cohen, secretary of the North Carolina Department of Health and Human Se… [+2001 chars]",
-         "description" : "There were 25 mayors from across North Carolina who met Friday with North Carolina health secretary Dr. Mandy Cohen. One big topic was Halloween and whether cities should ban it."
+         "description" : "There were 25 mayors from across North Carolina who met Friday with North Carolina health secretary Dr. Mandy Cohen. One big topic was Halloween and whether cities should ban it.",
+         "url" : "https://www.wral.com/coronavirus/local-doctor-says-children-can-safely-celebrate-halloween-go-trick-or-treating/19305983/"
       },
       {
          "title" : "2021 Audi Q5 Sportback is yet another coupe-inspired crossover - CNET",
-         "source" : {
-            "name" : "CNET",
-            "id" : null
-         },
+         "publishedAt" : "2020-09-26T04:00:04Z",
+         "author" : "Craig Cole",
          "content" : "That roofline is pretty sexy.\r\nAudi\r\nAudi is expanding the growing coupe-inspired crossover segment, what we at Roadshow call the coupeover. Late Friday, Audi unveiled its new Q5 Sportback, a versati… [+5556 chars]",
          "description" : "Audi restyled is popular Q5 utility vehicle to create a family hauler with more rakish proportions.",
-         "author" : "Craig Cole",
+         "url" : "https://www.cnet.com/roadshow/news/2021-audi-q5-sportback-debut/",
          "urlToImage" : "https://cnet1.cbsistatic.com/img/gw7bl9HXDlvnh7cRKl_KPo4EEjg=/1200x630/2020/09/24/cb680ab4-de4a-49ae-b965-2302d8940262/2021-audi-q5-sportback-ogi1.jpg",
-         "publishedAt" : "2020-09-26T04:00:04Z",
-         "url" : "https://www.cnet.com/roadshow/news/2021-audi-q5-sportback-debut/"
+         "source" : {
+            "id" : null,
+            "name" : "CNET"
+         }
       },
       {
-         "urlToImage" : "https://images.wsj.net/im-236748/social",
          "publishedAt" : "2020-09-26T04:00:00Z",
-         "url" : "https://www.wsj.com/articles/is-it-insane-to-start-a-business-during-coronavirus-millions-of-americans-dont-think-so-11601092841",
-         "description" : "The pandemic closed hundreds of thousands of businesses across the country. But now applications for new U.S. businesses are rising at the fastest rate since 2007. Why? A mix of necessity and opportunity.",
-         "content" : "The pandemic forced hundreds of thousands of small businesses to close. For Madison Schneider, it was a good time to start a new one. \r\nThe 22-year-old in Haviland, Kan., opened Lelas Bakery and Coff… [+171 chars]",
          "title" : "Is It Insane to Start a Business During Coronavirus? Millions of Americans Don’t Think So. - The Wall Street Journal",
+         "url" : "https://www.wsj.com/articles/is-it-insane-to-start-a-business-during-coronavirus-millions-of-americans-dont-think-so-11601092841",
+         "content" : "The pandemic forced hundreds of thousands of small businesses to close. For Madison Schneider, it was a good time to start a new one. \r\nThe 22-year-old in Haviland, Kan., opened Lelas Bakery and Coff… [+171 chars]",
+         "description" : "The pandemic closed hundreds of thousands of businesses across the country. But now applications for new U.S. businesses are rising at the fastest rate since 2007. Why? A mix of necessity and opportunity.",
+         "author" : "Gwynn Guilford, Charity L. Scott",
+         "urlToImage" : "https://images.wsj.net/im-236748/social",
          "source" : {
             "id" : "the-wall-street-journal",
             "name" : "The Wall Street Journal"
-         },
-         "author" : "Gwynn Guilford, Charity L. Scott"
+         }
       },
       {
-         "url" : "https://www.kmbc.com/article/89-year-old-pizza-delivery-driver-gets-12-000-tip-surprise-from-tiktok-family/34162055",
-         "urlToImage" : "https://kubrick.htvapps.com/vidthumb/images/tiktok-pizza0-1601059227.jpg?crop=1xw:1xh;center,top&resize=1200:*",
          "publishedAt" : "2020-09-26T03:26:00Z",
-         "author" : null,
          "title" : "'How do I ever say thank you?' 89-year-old pizza delivery driver gets $12000 tip surprise from 'TikTok Family' - KMBC Kansas City",
-         "source" : {
-            "id" : null,
-            "name" : "KMBC Kansas City"
-         },
+         "author" : null,
+         "url" : "https://www.kmbc.com/article/89-year-old-pizza-delivery-driver-gets-12-000-tip-surprise-from-tiktok-family/34162055",
          "content" : "ROY, Utah —The tables quickly turned for an 89-year-old pizza delivery driver who received a surprise delivery of his own from regulars on his route a $12,000 tip.\r\nDerlin Newey was in disbelief Tues… [+1784 chars]",
-         "description" : "The tables quickly turned for an 89-year-old pizza delivery driver who received a surprise delivery of his own from regulars on his route — a $12,000 tip."
-      },
-      {
-         "urlToImage" : "https://www.hawaiinewsnow.com/resizer/FjAPbWPDhc3U3FI3bI3fwzM_jEg=/1200x0/cloudfront-us-east-1.images.arcpublishing.com/raycom/WVE235PAG5ACBBSDNZT7VG65XE.jpg",
-         "publishedAt" : "2020-09-26T02:46:00Z",
-         "url" : "https://www.hawaiinewsnow.com/2020/09/25/momentum-building-hawaiian-airline-launches-testing-program/",
-         "description" : "Hawaiian Air CEO Peter Ingram said the partnership is helping to build “momentum” for a comeback.",
-         "content" : "On Friday, Hawaiian Air announced it will provide drive-thru testing at labs near Los Angeles and San Francisco international airports starting Oct. 15. The testing, in partnership with Worksite Labs… [+1774 chars]",
-         "title" : "Hawaiian Airlines sees ‘momentum building’ as it prepares to launch testing program - Hawaii News Now",
+         "description" : "The tables quickly turned for an 89-year-old pizza delivery driver who received a surprise delivery of his own from regulars on his route — a $12,000 tip.",
+         "urlToImage" : "https://kubrick.htvapps.com/vidthumb/images/tiktok-pizza0-1601059227.jpg?crop=1xw:1xh;center,top&resize=1200:*",
          "source" : {
-            "id" : null,
-            "name" : "Hawaii News Now"
-         },
-         "author" : "Mahealani Richardson"
-      },
-      {
-         "publishedAt" : "2020-09-26T01:51:00Z",
-         "urlToImage" : null,
-         "url" : "https://www.usatoday.com/story/money/2020/09/25/berkeley-calif-bans-junk-food-and-candy-grocery-checkouts/3535682001/",
-         "description" : "The Berkeley, Calif., ordinance requiring stores over 2,500 square feet to sell more nutritious food and beverage options in their checkout areas.",
-         "content" : "© Keith Srakocic, AP\r\n A mixture of salty snacks and chips is shown left on a table in Pittsburgh's Market Square on Tuesday, Feb. 7, 2012.\r\nThe city of Berkeley, California is back on the attack aga… [+2606 chars]",
-         "title" : "Berkeley, California, bans candy, junk food at grocery checkouts - msnNOW",
-         "source" : {
-            "name" : "USA Today",
-            "id" : "usa-today"
-         },
-         "author" : null
-      },
-      {
-         "author" : "News Channel 11 Staff",
-         "description" : "BRISTOL, Tenn. (WJHL) — No one was hurt when part of a hotel that is under construction collapsed in Bristol, Tennessee, according to Fire Chief Mike Carrier. It happened Friday night at the Holiday Inn construction site at the corner of Volunteer Parkway and…",
-         "content" : "BRISTOL, Tenn. (WJHL) No one was hurt when part of a hotel that is under construction collapsed in Bristol, Tennessee, according to Fire Chief Mike Carrier. \r\nIt happened Friday night at the Holiday … [+215 chars]",
-         "source" : {
-            "id" : null,
-            "name" : "WJHL-TV News Channel 11"
-         },
-         "title" : "No injuries reported in partial collapse of Bristol hotel under construction - WJHL-TV News Channel 11",
-         "url" : "https://www.wjhl.com/news/local/no-injuries-reported-in-partial-collapse-of-bristol-hotel-under-construction/",
-         "publishedAt" : "2020-09-26T01:28:00Z",
-         "urlToImage" : "https://www.wjhl.com/wp-content/uploads/sites/98/2020/09/Image-from-iOS-76.jpg?w=1280"
-      },
-      {
-         "url" : "http://turnto10.com/news/local/stop-and-shop-workers-to-receive-retroactive-bonus-pay",
-         "publishedAt" : "2020-09-26T00:59:35Z",
-         "urlToImage" : "http://static-16.sinclairstoryline.com/resources/media/81be51ca-6b52-45b5-b6e2-a30c5246edd8-large16x9_5AMVO.transfer_frame_106.jpg?1601081609710",
-         "author" : "NBC 10 NEWS",
-         "content" : null,
-         "description" : "The United Food and Commercial Workers International Union said Friday that 56,000Stop and Shop workers will be getting retroactive bonus pay because of the pandemic. The employees will now get a lump sum of 10 percent of their hours worked between July 5 and…",
-         "title" : "Stop and Shop workers to receive retroactive bonus pay - WJAR",
-         "source" : {
-            "name" : "Turn to 10",
+            "name" : "KMBC Kansas City",
             "id" : null
          }
       },
       {
-         "url" : "https://www.bloomberg.com/news/articles/2020-09-26/pfizer-urged-to-wait-for-november-to-seek-vaccine-authorization",
-         "publishedAt" : "2020-09-26T00:47:00Z",
-         "urlToImage" : "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/icevb_dryOVY/v0/1200x800.jpg",
+         "content" : "On Friday, Hawaiian Air announced it will provide drive-thru testing at labs near Los Angeles and San Francisco international airports starting Oct. 15. The testing, in partnership with Worksite Labs… [+1774 chars]",
+         "description" : "Hawaiian Air CEO Peter Ingram said the partnership is helping to build “momentum” for a comeback.",
+         "url" : "https://www.hawaiinewsnow.com/2020/09/25/momentum-building-hawaiian-airline-launches-testing-program/",
+         "author" : "Mahealani Richardson",
+         "title" : "Hawaiian Airlines sees ‘momentum building’ as it prepares to launch testing program - Hawaii News Now",
+         "publishedAt" : "2020-09-26T02:46:00Z",
+         "source" : {
+            "id" : null,
+            "name" : "Hawaii News Now"
+         },
+         "urlToImage" : "https://www.hawaiinewsnow.com/resizer/FjAPbWPDhc3U3FI3bI3fwzM_jEg=/1200x0/cloudfront-us-east-1.images.arcpublishing.com/raycom/WVE235PAG5ACBBSDNZT7VG65XE.jpg"
+      },
+      {
+         "content" : "© Keith Srakocic, AP\r\n A mixture of salty snacks and chips is shown left on a table in Pittsburgh's Market Square on Tuesday, Feb. 7, 2012.\r\nThe city of Berkeley, California is back on the attack aga… [+2606 chars]",
+         "description" : "The Berkeley, Calif., ordinance requiring stores over 2,500 square feet to sell more nutritious food and beverage options in their checkout areas.",
+         "url" : "https://www.usatoday.com/story/money/2020/09/25/berkeley-calif-bans-junk-food-and-candy-grocery-checkouts/3535682001/",
          "author" : null,
+         "title" : "Berkeley, California, bans candy, junk food at grocery checkouts - msnNOW",
+         "publishedAt" : "2020-09-26T01:51:00Z",
+         "source" : {
+            "name" : "USA Today",
+            "id" : "usa-today"
+         },
+         "urlToImage" : null
+      },
+      {
+         "author" : "News Channel 11 Staff",
+         "url" : "https://www.wjhl.com/news/local/no-injuries-reported-in-partial-collapse-of-bristol-hotel-under-construction/",
+         "description" : "BRISTOL, Tenn. (WJHL) — No one was hurt when part of a hotel that is under construction collapsed in Bristol, Tennessee, according to Fire Chief Mike Carrier. It happened Friday night at the Holiday Inn construction site at the corner of Volunteer Parkway and…",
+         "content" : "BRISTOL, Tenn. (WJHL) No one was hurt when part of a hotel that is under construction collapsed in Bristol, Tennessee, according to Fire Chief Mike Carrier. \r\nIt happened Friday night at the Holiday … [+215 chars]",
+         "publishedAt" : "2020-09-26T01:28:00Z",
+         "title" : "No injuries reported in partial collapse of Bristol hotel under construction - WJHL-TV News Channel 11",
+         "source" : {
+            "name" : "WJHL-TV News Channel 11",
+            "id" : null
+         },
+         "urlToImage" : "https://www.wjhl.com/wp-content/uploads/sites/98/2020/09/Image-from-iOS-76.jpg?w=1280"
+      },
+      {
+         "urlToImage" : "http://static-16.sinclairstoryline.com/resources/media/81be51ca-6b52-45b5-b6e2-a30c5246edd8-large16x9_5AMVO.transfer_frame_106.jpg?1601081609710",
+         "source" : {
+            "name" : "Turn to 10",
+            "id" : null
+         },
+         "title" : "Stop and Shop workers to receive retroactive bonus pay - WJAR",
+         "publishedAt" : "2020-09-26T00:59:35Z",
+         "author" : "NBC 10 NEWS",
+         "content" : null,
+         "description" : "The United Food and Commercial Workers International Union said Friday that 56,000Stop and Shop workers will be getting retroactive bonus pay because of the pandemic. The employees will now get a lump sum of 10 percent of their hours worked between July 5 and…",
+         "url" : "http://turnto10.com/news/local/stop-and-shop-workers-to-receive-retroactive-bonus-pay"
+      },
+      {
+         "title" : "Pfizer Urged to Wait for November to Seek Vaccine Authorization - Bloomberg",
+         "publishedAt" : "2020-09-26T00:47:00Z",
+         "author" : null,
+         "description" : "Pfizer Inc. should wait until at least late November before seeking FDA authorization of its Covid-19 vaccine to meet rigorous safety standards, more than 60 leading researchers and bioethicists said.",
+         "content" : "We're tracking the latest on the coronavirus outbreak and the global response. \r\nSign up here for our daily newsletter on what you need to know.\r\nPfizer Inc. should wait until at least late November … [+2476 chars]",
+         "url" : "https://www.bloomberg.com/news/articles/2020-09-26/pfizer-urged-to-wait-for-november-to-seek-vaccine-authorization",
+         "urlToImage" : "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/icevb_dryOVY/v0/1200x800.jpg",
          "source" : {
             "name" : "Bloomberg",
             "id" : "bloomberg"
-         },
-         "title" : "Pfizer Urged to Wait for November to Seek Vaccine Authorization - Bloomberg",
-         "content" : "We're tracking the latest on the coronavirus outbreak and the global response. \r\nSign up here for our daily newsletter on what you need to know.\r\nPfizer Inc. should wait until at least late November … [+2476 chars]",
-         "description" : "Pfizer Inc. should wait until at least late November before seeking FDA authorization of its Covid-19 vaccine to meet rigorous safety standards, more than 60 leading researchers and bioethicists said."
+         }
       },
       {
          "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200925191705-new-orleans-drink-file-super-tease.jpg",
-         "publishedAt" : "2020-09-26T00:00:00Z",
-         "url" : "https://www.cnn.com/2020/09/25/us/new-orleans-to-go-drinks-covid-trnd/index.html",
-         "title" : "New Orleans restaurants can now serve alcoholic beverages as to-go drinks - CNN",
          "source" : {
             "id" : "cnn",
             "name" : "CNN"
          },
-         "description" : "While bars remain closed, restaurants in New Orleans can now serve to-go alcoholic drinks, easing the Covid-19 restrictions.",
+         "title" : "New Orleans restaurants can now serve alcoholic beverages as to-go drinks - CNN",
+         "publishedAt" : "2020-09-26T00:00:00Z",
+         "author" : "Leah Asmelash and Jennifer Henderson, CNN",
          "content" : null,
-         "author" : "Leah Asmelash and Jennifer Henderson, CNN"
+         "description" : "While bars remain closed, restaurants in New Orleans can now serve to-go alcoholic drinks, easing the Covid-19 restrictions.",
+         "url" : "https://www.cnn.com/2020/09/25/us/new-orleans-to-go-drinks-covid-trnd/index.html"
       },
       {
-         "author" : "Jason Hall",
+         "urlToImage" : "https://g.foolcdn.com/editorial/images/593031/hands-reaching-for-money.jpg",
          "source" : {
             "name" : "Motley Fool",
             "id" : null
          },
-         "title" : "What Correction? S&P 500 Surges as Apple Leads Tech Stock Boom and Cruise Stocks Rise; Oil Stocks Fall - Motley Fool",
-         "description" : "One analyst says it's time to buy cruise stocks, and a bunch of investors are already there on Big Tech.",
-         "content" : "Investors apparently aren't interested in seeing another stock market correction -- at least not this week. The S&amp;P 500 Index (SNPINDEX:^%GSPC) gained 51.9 points, or 1.6%, on Sept. 25. Today's m… [+5257 chars]",
-         "url" : "https://www.fool.com/investing/2020/09/25/what-correction-sp-500-surges-as-apple-leads-tech/",
          "publishedAt" : "2020-09-25T23:58:41Z",
-         "urlToImage" : "https://g.foolcdn.com/editorial/images/593031/hands-reaching-for-money.jpg"
+         "title" : "What Correction? S&P 500 Surges as Apple Leads Tech Stock Boom and Cruise Stocks Rise; Oil Stocks Fall - Motley Fool",
+         "author" : "Jason Hall",
+         "url" : "https://www.fool.com/investing/2020/09/25/what-correction-sp-500-surges-as-apple-leads-tech/",
+         "content" : "Investors apparently aren't interested in seeing another stock market correction -- at least not this week. The S&amp;P 500 Index (SNPINDEX:^%GSPC) gained 51.9 points, or 1.6%, on Sept. 25. Today's m… [+5257 chars]",
+         "description" : "One analyst says it's time to buy cruise stocks, and a bunch of investors are already there on Big Tech."
       },
       {
-         "author" : "Orko Manna",
+         "publishedAt" : "2020-09-25T23:58:00Z",
          "title" : "Gov. Sisolak announces some COVID-19 restrictions will be lifted; Clark County leader makes recommendations for reopening - KLAS - 8 News Now",
+         "author" : "Orko Manna",
+         "url" : "https://www.8newsnow.com/news/local-news/gov-sisolak-announces-some-covid-19-restrictions-will-be-lifted-clark-county-leader-makes-recommendations-for-reopening/",
+         "content" : "LAS VEGAS (KLAS)  The 50-person limit on group gatherings in Nevada due to the coronavirus is expected to change next week.\r\nGovernor Sisolak announced Friday afternoon that he will also lift certain… [+2220 chars]",
+         "description" : "LAS VEGAS (KLAS) — The 50-person limit on group gatherings in Nevada due to the coronavirus is expected to change next week.",
+         "urlToImage" : "https://www.8newsnow.com/wp-content/uploads/sites/59/2020/09/Gov.-Sisolak-announces-some-COVID-19-restrictions-will-be-lifted-Clark-County-leader-makes-recommendations-for-reopening.jpg?w=1280",
          "source" : {
             "name" : "KLAS - 8 News Now",
             "id" : null
-         },
-         "description" : "LAS VEGAS (KLAS) — The 50-person limit on group gatherings in Nevada due to the coronavirus is expected to change next week.",
-         "content" : "LAS VEGAS (KLAS)  The 50-person limit on group gatherings in Nevada due to the coronavirus is expected to change next week.\r\nGovernor Sisolak announced Friday afternoon that he will also lift certain… [+2220 chars]",
-         "url" : "https://www.8newsnow.com/news/local-news/gov-sisolak-announces-some-covid-19-restrictions-will-be-lifted-clark-county-leader-makes-recommendations-for-reopening/",
-         "publishedAt" : "2020-09-25T23:58:00Z",
-         "urlToImage" : "https://www.8newsnow.com/wp-content/uploads/sites/59/2020/09/Gov.-Sisolak-announces-some-COVID-19-restrictions-will-be-lifted-Clark-County-leader-makes-recommendations-for-reopening.jpg?w=1280"
+         }
       }
    ]
 }
