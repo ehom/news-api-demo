@@ -1,158 +1,156 @@
 {
-   "totalResults" : 70,
-   "status" : "ok",
    "articles" : [
       {
-         "title" : "Official: Polestar Precept To Enter Production - InsideEVs ",
          "urlToImage" : "https://cdn.motor1.com/images/mgl/NkQbY/s1/polestar-precept.jpg",
-         "author" : "Mark Kane",
-         "content" : "Polestar announced today that the Precept concept model, shown earlier this year, will enter production. Vehicle development is underway in the UK and already more than 130 people are working on it.\r… [+1177 chars]",
-         "publishedAt" : "2020-09-26T04:34:05Z",
          "description" : "Polestar announced today that the Precept model, shown earlier this year, will enter production. An all-new manufacturing facility will be built in China.",
          "source" : {
-            "id" : null,
-            "name" : "InsideEVs "
+            "name" : "InsideEVs ",
+            "id" : null
          },
-         "url" : "https://insideevs.com/news/445929/official-polestar-precept-enter-production/"
+         "url" : "https://insideevs.com/news/445929/official-polestar-precept-enter-production/",
+         "publishedAt" : "2020-09-26T04:34:05Z",
+         "content" : "Polestar announced today that the Precept concept model, shown earlier this year, will enter production. Vehicle development is underway in the UK and already more than 130 people are working on it.\r… [+1177 chars]",
+         "title" : "Official: Polestar Precept To Enter Production - InsideEVs ",
+         "author" : "Mark Kane"
       },
       {
+         "url" : "https://www.wtae.com/article/89-year-old-pizza-delivery-driver-gets-12-000-tip-surprise-from-tiktok-family/34162055",
          "urlToImage" : "https://kubrick.htvapps.com/vidthumb/images/tiktok-pizza0-1601059227.jpg?crop=1xw:1xh;center,top&resize=1200:*",
-         "title" : "'How do I ever say thank you?' 89-year-old pizza delivery driver gets $12000 tip surprise from 'TikTok Family' - WTAE Pittsburgh",
          "description" : "The tables quickly turned for an 89-year-old pizza delivery driver who received a surprise delivery of his own from regulars on his route — a $12,000 tip.",
-         "publishedAt" : "2020-09-26T03:26:00Z",
+         "source" : {
+            "name" : "WTAE Pittsburgh",
+            "id" : null
+         },
          "author" : null,
          "content" : "ROY, Utah —The tables quickly turned for an 89-year-old pizza delivery driver who received a surprise delivery of his own from regulars on his route a $12,000 tip.\r\nDerlin Newey was in disbelief Tues… [+1784 chars]",
-         "source" : {
-            "id" : null,
-            "name" : "WTAE Pittsburgh"
-         },
-         "url" : "https://www.wtae.com/article/89-year-old-pizza-delivery-driver-gets-12-000-tip-surprise-from-tiktok-family/34162055"
+         "title" : "'How do I ever say thank you?' 89-year-old pizza delivery driver gets $12000 tip surprise from 'TikTok Family' - WTAE Pittsburgh",
+         "publishedAt" : "2020-09-26T03:26:00Z"
       },
       {
-         "content" : null,
-         "author" : "Mallika Kallingal, Andrea Kane, John Bonifield and Lauren Mascarenhas, CNN",
-         "publishedAt" : "2020-09-26T03:05:00Z",
-         "description" : "Early results from a Phase 1/2a clinical trial shows it was well tolerated and even one dose appeared to produce a strong immune response in almost all of the 800 participants.",
-         "title" : "Johnson and Johnson vaccine produced strong immune response, early results say - CNN",
-         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200923081354-johnson--johnson-vaccine-super-tease.jpg",
          "url" : "https://www.cnn.com/2020/09/25/us/johnson-and-johnson-vaccine-strong-immune-response/index.html",
+         "description" : "Early results from a Phase 1/2a clinical trial shows it was well tolerated and even one dose appeared to produce a strong immune response in almost all of the 800 participants.",
          "source" : {
             "id" : "cnn",
             "name" : "CNN"
-         }
+         },
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200923081354-johnson--johnson-vaccine-super-tease.jpg",
+         "title" : "Johnson and Johnson vaccine produced strong immune response, early results say - CNN",
+         "content" : null,
+         "author" : "Mallika Kallingal, Andrea Kane, John Bonifield and Lauren Mascarenhas, CNN",
+         "publishedAt" : "2020-09-26T03:05:00Z"
       },
       {
          "publishedAt" : "2020-09-26T01:51:00Z",
          "author" : null,
-         "content" : "© Keith Srakocic, AP\r\n A mixture of salty snacks and chips is shown left on a table in Pittsburgh's Market Square on Tuesday, Feb. 7, 2012.\r\nThe city of Berkeley, California is back on the attack aga… [+2684 chars]",
-         "description" : "The Berkeley, Calif., ordinance requiring stores over 2,500 square feet to sell more nutritious food and beverage options in their checkout areas.",
          "title" : "Berkeley, California, bans candy, junk food at grocery checkouts - msnNOW",
-         "urlToImage" : "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB19qMoE.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg",
-         "url" : "https://www.usatoday.com/story/money/2020/09/25/berkeley-calif-bans-junk-food-and-candy-grocery-checkouts/3535682001/",
+         "content" : "© Keith Srakocic, AP\r\n A mixture of salty snacks and chips is shown left on a table in Pittsburgh's Market Square on Tuesday, Feb. 7, 2012.\r\nThe city of Berkeley, California is back on the attack aga… [+2684 chars]",
          "source" : {
             "name" : "USA Today",
             "id" : "usa-today"
-         }
+         },
+         "description" : "The Berkeley, Calif., ordinance requiring stores over 2,500 square feet to sell more nutritious food and beverage options in their checkout areas.",
+         "urlToImage" : "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB19qMoE.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg",
+         "url" : "https://www.usatoday.com/story/money/2020/09/25/berkeley-calif-bans-junk-food-and-candy-grocery-checkouts/3535682001/"
       },
       {
+         "url" : "http://turnto10.com/news/local/stop-and-shop-workers-to-receive-retroactive-bonus-pay",
          "source" : {
             "name" : "Turn to 10",
             "id" : null
          },
-         "url" : "http://turnto10.com/news/local/stop-and-shop-workers-to-receive-retroactive-bonus-pay",
-         "title" : "Stop and Shop workers to receive retroactive bonus pay - WJAR",
+         "description" : "The United Food and Commercial Workers International Union said Friday that 56,000Stop and Shop workers will be getting retroactive bonus pay because of the pandemic. The employees will now get a lump sum of 10 percent of their hours worked between July 5 and…",
          "urlToImage" : "http://static-16.sinclairstoryline.com/resources/media/81be51ca-6b52-45b5-b6e2-a30c5246edd8-large16x9_5AMVO.transfer_frame_106.jpg?1601081609710",
+         "title" : "Stop and Shop workers to receive retroactive bonus pay - WJAR",
          "content" : null,
          "author" : "NBC 10 NEWS",
-         "publishedAt" : "2020-09-26T00:59:35Z",
-         "description" : "The United Food and Commercial Workers International Union said Friday that 56,000Stop and Shop workers will be getting retroactive bonus pay because of the pandemic. The employees will now get a lump sum of 10 percent of their hours worked between July 5 and…"
+         "publishedAt" : "2020-09-26T00:59:35Z"
       },
       {
          "url" : "https://www.cnn.com/2020/09/25/us/new-orleans-to-go-drinks-covid-trnd/index.html",
-         "source" : {
-            "name" : "CNN",
-            "id" : "cnn"
-         },
          "description" : "While bars remain closed, restaurants in New Orleans can now serve to-go alcoholic drinks, easing the Covid-19 restrictions.",
-         "author" : "Leah Asmelash and Jennifer Henderson, CNN",
-         "content" : null,
-         "publishedAt" : "2020-09-26T00:00:00Z",
+         "source" : {
+            "id" : "cnn",
+            "name" : "CNN"
+         },
          "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200925191705-new-orleans-drink-file-super-tease.jpg",
-         "title" : "New Orleans restaurants can now serve alcoholic beverages as to-go drinks - CNN"
+         "author" : "Leah Asmelash and Jennifer Henderson, CNN",
+         "title" : "New Orleans restaurants can now serve alcoholic beverages as to-go drinks - CNN",
+         "content" : null,
+         "publishedAt" : "2020-09-26T00:00:00Z"
       },
       {
-         "url" : "http://www.denverpost.com/2020/09/25/emergency-order-prohibits-alcohol-sales-in-boulder-bars-restaurants-after-10-p-m/",
+         "publishedAt" : "2020-09-25T23:40:00Z",
+         "content" : "Boulder on Friday issued an emergency order prohibiting alcohol sales at bars, restaurants and clubs after 10 p.m. in response to the city’s increase in coronavirus cases.\r\nThe order went into effect… [+4102 chars]",
+         "title" : "Emergency order prohibits alcohol sales in Boulder bars, restaurants after 10 p.m. - The Denver Post",
+         "author" : "Brooklyn Dance",
+         "urlToImage" : "https://www.denverpost.com/wp-content/uploads/2020/09/20130622_23DCPBAR-1.jpg?w=512&h=335",
+         "description" : "Boulder on Friday issued an emergency order prohibiting alcohol sales at bars and restaurants after 10 p.m. in response to the city’s increase in coronavirus cases.",
          "source" : {
             "name" : "The Denver Post",
             "id" : null
          },
-         "description" : "Boulder on Friday issued an emergency order prohibiting alcohol sales at bars and restaurants after 10 p.m. in response to the city’s increase in coronavirus cases.",
-         "publishedAt" : "2020-09-25T23:40:00Z",
-         "content" : "Boulder on Friday issued an emergency order prohibiting alcohol sales at bars, restaurants and clubs after 10 p.m. in response to the city’s increase in coronavirus cases.\r\nThe order went into effect… [+4102 chars]",
-         "author" : "Brooklyn Dance",
-         "urlToImage" : "https://www.denverpost.com/wp-content/uploads/2020/09/20130622_23DCPBAR-1.jpg?w=512&h=335",
-         "title" : "Emergency order prohibits alcohol sales in Boulder bars, restaurants after 10 p.m. - The Denver Post"
+         "url" : "http://www.denverpost.com/2020/09/25/emergency-order-prohibits-alcohol-sales-in-boulder-bars-restaurants-after-10-p-m/"
       },
       {
-         "url" : "https://www.wgal.com/article/lancaster-and-harrisburg-announce-halloween-trick-or-treat-plans/34168485",
+         "urlToImage" : "https://kubrick.htvapps.com/htv-prod/ibmig/cms/image/wgal/29243142-29243142.jpg?crop=1.00xw:0.752xh;0,0.148xh&resize=1200:*",
          "source" : {
-            "id" : null,
-            "name" : "WGAL Susquehanna Valley Pa."
+            "name" : "WGAL Susquehanna Valley Pa.",
+            "id" : null
          },
+         "description" : "WGAL News 8",
+         "url" : "https://www.wgal.com/article/lancaster-and-harrisburg-announce-halloween-trick-or-treat-plans/34168485",
          "publishedAt" : "2020-09-25T23:20:00Z",
          "author" : "Kim Lemon",
          "content" : "Lancaster and Harrisburg have announced Halloween plans.\r\nLancaster\r\nLancaster trick-or-treating will go on as scheduled from 6-8 p.m. Oct. 30.\r\nCity officials are encouraging families to consider lo… [+656 chars]",
-         "description" : "WGAL News 8",
-         "title" : "Lancaster, Harrisburg announce trick-or-treating plans - WGAL Susquehanna Valley Pa.",
-         "urlToImage" : "https://kubrick.htvapps.com/htv-prod/ibmig/cms/image/wgal/29243142-29243142.jpg?crop=1.00xw:0.752xh;0,0.148xh&resize=1200:*"
+         "title" : "Lancaster, Harrisburg announce trick-or-treating plans - WGAL Susquehanna Valley Pa."
       },
       {
-         "title" : "Cramer recommends Palantir at the right price, but says its governance is most 'egregious' since WeWork - CNBC",
          "urlToImage" : "https://image.cnbcfm.com/api/v1/image/104169213-RTX2V2WZ.jpg?v=1601073295",
+         "description" : "\"If you can get Palantir for around $10, or ideally less on a pullback, you've got my blessing to buy it,\" said \"Mad Money\" host Jim Cramer.",
+         "source" : {
+            "name" : "CNBC",
+            "id" : null
+         },
+         "url" : "https://www.cnbc.com/2020/09/25/jim-cramer-palantir-is-a-buy-at-right-price-ahead-of-direct-listing.html",
          "publishedAt" : "2020-09-25T22:48:00Z",
          "author" : "Kevin Stankiewicz",
          "content" : "CNBC's Jim Cramer on Friday expressed some concerns about Palantir Technologies' upcoming public market debut, saying he sees positive trend lines in the company's financials but worried about the po… [+4249 chars]",
-         "description" : "\"If you can get Palantir for around $10, or ideally less on a pullback, you've got my blessing to buy it,\" said \"Mad Money\" host Jim Cramer.",
-         "source" : {
-            "id" : null,
-            "name" : "CNBC"
-         },
-         "url" : "https://www.cnbc.com/2020/09/25/jim-cramer-palantir-is-a-buy-at-right-price-ahead-of-direct-listing.html"
+         "title" : "Cramer recommends Palantir at the right price, but says its governance is most 'egregious' since WeWork - CNBC"
       },
       {
          "url" : "https://www.barrons.com/articles/nikola-short-seller-hindenberg-research-is-misunderstood-says-founder-nathan-anderson-51601073140",
          "source" : {
-            "name" : "Barron's",
-            "id" : null
+            "id" : null,
+            "name" : "Barron's"
          },
          "description" : "",
-         "publishedAt" : "2020-09-25T22:32:00Z",
-         "author" : "Max A. Cherney",
-         "content" : "Nathan Anderson is an activist investor and the founder of Hindenburg Research, which has made headlines for its short call on \r\n Nikola.\r\n Since Hindenburgs 67-page report on Nikola (ticker: NKLA)de… [+5572 chars]",
          "urlToImage" : "https://images.barrons.com/im-236722/social",
-         "title" : "Nikola Short Seller Hindenberg Research Is Misunderstood, Says Founder Nathan Anderson - Barron's"
+         "author" : "Max A. Cherney",
+         "title" : "Nikola Short Seller Hindenberg Research Is Misunderstood, Says Founder Nathan Anderson - Barron's",
+         "content" : "Nathan Anderson is an activist investor and the founder of Hindenburg Research, which has made headlines for its short call on \r\n Nikola.\r\n Since Hindenburgs 67-page report on Nikola (ticker: NKLA)de… [+5572 chars]",
+         "publishedAt" : "2020-09-25T22:32:00Z"
       },
       {
-         "source" : {
-            "id" : "bloomberg",
-            "name" : "Bloomberg"
-         },
          "url" : "https://www.bloomberg.com/news/articles/2020-09-25/ray-dalio-sees-enemy-within-as-he-ponders-u-s-china-clash",
-         "title" : "Ray Dalio Sees Enemy Within as He Ponders U.S.-China Clash - Bloomberg",
+         "source" : {
+            "name" : "Bloomberg",
+            "id" : "bloomberg"
+         },
+         "description" : "Ray Dalio used the latest installment of his ongoing series on the changing world order to identify clear red lines that, if crossed, could result in a deadly war between China and the U.S., but the real enemy in the conflict may lie within.",
          "urlToImage" : "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iXtq1IeKSmrY/v1/1200x800.jpg",
-         "publishedAt" : "2020-09-25T22:31:00Z",
-         "content" : "Ray Dalio\r\nRay Dalio used the latest installment of his \r\nongoing series on the changing world order to identify clear red lines that, if crossed, could result in a deadly war between China and the U… [+3575 chars]",
          "author" : "Nathan Crooks",
-         "description" : "Ray Dalio used the latest installment of his ongoing series on the changing world order to identify clear red lines that, if crossed, could result in a deadly war between China and the U.S., but the real enemy in the conflict may lie within."
+         "title" : "Ray Dalio Sees Enemy Within as He Ponders U.S.-China Clash - Bloomberg",
+         "content" : "Ray Dalio\r\nRay Dalio used the latest installment of his \r\nongoing series on the changing world order to identify clear red lines that, if crossed, could result in a deadly war between China and the U… [+3575 chars]",
+         "publishedAt" : "2020-09-25T22:31:00Z"
       },
       {
-         "description" : "Taxpayers who fail to pay taxes on virtual currency transactions may face penalties and interest.",
-         "publishedAt" : "2020-09-25T22:23:29Z",
-         "author" : "Brittany De Lea",
          "content" : "The IRS may update its Form 1040 to make sure all taxpayers who engage in cryptocurrency transactions report them.\r\nA draft of the 2020 tax form includes a question asking taxpayers whether they have… [+1334 chars]",
-         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/07/0/0/tax-return-filing-iStock.jpg?ve=1&tl=1",
          "title" : "IRS may revise 1040 to coax taxpayers into reporting crypto transactions - Fox Business",
+         "author" : "Brittany De Lea",
+         "publishedAt" : "2020-09-25T22:23:29Z",
          "url" : "https://www.foxbusiness.com/personal-finance/irs-1040-update-taxpayers-crypto-transactions",
+         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/07/0/0/tax-return-filing-iStock.jpg?ve=1&tl=1",
+         "description" : "Taxpayers who fail to pay taxes on virtual currency transactions may face penalties and interest.",
          "source" : {
             "id" : null,
             "name" : "Fox Business"
@@ -160,107 +158,109 @@
       },
       {
          "url" : "https://arstechnica.com/science/2020/09/rare-case-of-black-licorice-poisoning-kills-man-in-massachusetts/",
-         "source" : {
-            "name" : "Ars Technica",
-            "id" : "ars-technica"
-         },
-         "description" : "The licorice plant naturally contains a toxin called glycyrrhizin.",
-         "publishedAt" : "2020-09-25T22:20:00Z",
-         "author" : "Beth Mole",
-         "content" : "Enlarge/ Bulk black licorice candy.\r\n86 with 52 posters participating\r\nBecause 2020 hasnt provided enough extraordinary ways to die, the universe offers a grim reminder that eating too much licorice … [+5648 chars]",
          "urlToImage" : "https://cdn.arstechnica.net/wp-content/uploads/2020/09/GettyImages-629540953-760x380.jpg",
-         "title" : "Rare case of black licorice poisoning kills man in Massachusetts - Ars Technica"
+         "description" : "The licorice plant naturally contains a toxin called glycyrrhizin.",
+         "source" : {
+            "id" : "ars-technica",
+            "name" : "Ars Technica"
+         },
+         "content" : "Enlarge/ Bulk black licorice candy.\r\n86 with 52 posters participating\r\nBecause 2020 hasnt provided enough extraordinary ways to die, the universe offers a grim reminder that eating too much licorice … [+5648 chars]",
+         "title" : "Rare case of black licorice poisoning kills man in Massachusetts - Ars Technica",
+         "author" : "Beth Mole",
+         "publishedAt" : "2020-09-25T22:20:00Z"
       },
       {
-         "url" : "https://www.npr.org/sections/coronavirus-live-updates/2020/09/25/916957152/novavax-researcher-says-no-chance-of-a-shortcut-in-vaccine-safety",
          "source" : {
             "id" : null,
             "name" : "NPR"
          },
-         "author" : "James Doubek",
-         "content" : "Three potential coronavirus vaccines are kept in a tray at Novavax labs in Gaithersburg, Md., in March 2020. The company has moved into phase 3 trials in the U.K.\r\nAndrew Caballero-Reynolds/AFP via G… [+4500 chars]",
-         "publishedAt" : "2020-09-25T22:18:22Z",
          "description" : "Vaccine maker Novavax is starting a large coronavirus vaccine trial in the U.K. Gregory Glenn, the company's president of research and development, talks with NPR about how vaccines are tested.",
+         "urlToImage" : "https://media.npr.org/assets/img/2020/09/25/gettyimages-1207850748_wide-4fa3f188d6eaf70e6851feb6d46075aee0feb1b3.jpg?s=1400",
+         "url" : "https://www.npr.org/sections/coronavirus-live-updates/2020/09/25/916957152/novavax-researcher-says-no-chance-of-a-shortcut-in-vaccine-safety",
+         "publishedAt" : "2020-09-25T22:18:22Z",
          "title" : "Novavax Researcher Says No Chance Of A 'Shortcut' In Vaccine Safety - NPR",
-         "urlToImage" : "https://media.npr.org/assets/img/2020/09/25/gettyimages-1207850748_wide-4fa3f188d6eaf70e6851feb6d46075aee0feb1b3.jpg?s=1400"
+         "content" : "Three potential coronavirus vaccines are kept in a tray at Novavax labs in Gaithersburg, Md., in March 2020. The company has moved into phase 3 trials in the U.K.\r\nAndrew Caballero-Reynolds/AFP via G… [+4500 chars]",
+         "author" : "James Doubek"
       },
       {
-         "publishedAt" : "2020-09-25T22:11:45Z",
          "content" : "New York City restaurants will now be able to serve customers outside for good.\r\nMayor Bill de Blasio announced Friday that the city’s Open Restaurants Program, which was created in June as a tempora… [+2070 chars]",
-         "author" : "Ann Schmidt",
-         "description" : "New York City Mayor Bill de Blasio announced Friday that the city’s Open Restaurants Program would become permanent.",
          "title" : "NYC outdoor dining will be 'permanent and year-round,' de Blasio says - Fox News",
-         "urlToImage" : "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/nyc-dining-video-grab.jpg",
+         "author" : "Ann Schmidt",
+         "publishedAt" : "2020-09-25T22:11:45Z",
          "url" : "https://www.foxnews.com/food-drink/nyc-outdoor-dining-permanent-de-blasio",
+         "urlToImage" : "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/nyc-dining-video-grab.jpg",
          "source" : {
-            "id" : "fox-news",
-            "name" : "Fox News"
-         }
+            "name" : "Fox News",
+            "id" : "fox-news"
+         },
+         "description" : "New York City Mayor Bill de Blasio announced Friday that the city’s Open Restaurants Program would become permanent."
       },
       {
+         "urlToImage" : "https://d32r1sh890xpii.cloudfront.net/article/718x300/2020-09-25_e4vgojar8q.jpg",
+         "description" : "After years of low natural gas prices, fundamentals are beginning to improve, and this week's rally in gas futures sets the stage for higher gas prices this winter",
          "source" : {
             "id" : null,
             "name" : "OilPrice.com"
          },
          "url" : "https://oilprice.com/Energy/Natural-Gas/Why-Natural-Gas-Prices-Are-Set-To-Soar.html",
-         "urlToImage" : "https://d32r1sh890xpii.cloudfront.net/article/718x300/2020-09-25_e4vgojar8q.jpg",
-         "title" : "Why Natural Gas Prices Are Set To Soar - OilPrice.com",
-         "description" : "After years of low natural gas prices, fundamentals are beginning to improve, and this week's rally in gas futures sets the stage for higher gas prices this winter",
+         "publishedAt" : "2020-09-25T22:00:00Z",
          "author" : "Tsvetana Paraskova",
          "content" : "International oil giants BP and…\r\nThe U.S. industrial sector saw…\r\nRallying from a seven-week low…\r\nBy Tsvetana Paraskova - Sep 25, 2020, 5:00 PM CDTThe highly volatile U.S. natural gas benchmark pri… [+4827 chars]",
-         "publishedAt" : "2020-09-25T22:00:00Z"
+         "title" : "Why Natural Gas Prices Are Set To Soar - OilPrice.com"
       },
       {
          "url" : "https://www.aljazeera.com/economy/2020/9/25/some-3500-companies-sue-over-trump-imposed-chinese-tariffs",
-         "source" : {
-            "id" : "al-jazeera-english",
-            "name" : "Al Jazeera English"
-         },
+         "urlToImage" : "https://www.aljazeera.com/wp-content/uploads/2020/09/trump.jpg?resize=1200%2C630",
          "description" : "They are challenging what they call the unlawful escalation of the US trade war with China via imposition of tariffs.",
-         "publishedAt" : "2020-09-25T21:47:13Z",
+         "source" : {
+            "name" : "Al Jazeera English",
+            "id" : "al-jazeera-english"
+         },
          "author" : "Al Jazeera",
          "content" : "About 3,500 United States companies, including Tesla, Ford Motor, Target, Walgreens and Home Depot, have sued the Trump administration in the last two weeks over the imposition of tariffs on more tha… [+2218 chars]",
-         "urlToImage" : "https://www.aljazeera.com/wp-content/uploads/2020/09/trump.jpg?resize=1200%2C630",
-         "title" : "Some 3,500 companies sue over Trump-imposed Chinese tariffs - Al Jazeera English"
+         "title" : "Some 3,500 companies sue over Trump-imposed Chinese tariffs - Al Jazeera English",
+         "publishedAt" : "2020-09-25T21:47:13Z"
       },
       {
-         "url" : "https://www.investors.com/market-trend/the-big-picture/stock-market-rally-attempt-continues-nasdaq-leads-servicenow-veeva-systems-buy-points/",
+         "urlToImage" : "https://www.investors.com/wp-content/uploads/2020/05/Stock-BullBearFight-01-adobe.jpg",
          "source" : {
-            "name" : "Investor's Business Daily",
-            "id" : null
+            "id" : null,
+            "name" : "Investor's Business Daily"
          },
+         "description" : "The stock market rally attempt continued Friday, as the Nasdaq composite advanced with sharp gains. ServiceNow and Veeva Systems are top stocks to watch.",
+         "url" : "https://www.investors.com/market-trend/the-big-picture/stock-market-rally-attempt-continues-nasdaq-leads-servicenow-veeva-systems-buy-points/",
          "publishedAt" : "2020-09-25T21:28:00Z",
          "author" : "Investor's Business Daily",
          "content" : "Notice: Information contained herein is not and should not be construed as an offer, solicitation, or recommendation to buy or sell securities. The information has been obtained from sources we belie… [+476 chars]",
-         "description" : "The stock market rally attempt continued Friday, as the Nasdaq composite advanced with sharp gains. ServiceNow and Veeva Systems are top stocks to watch.",
-         "title" : "Stock Market Rally Attempt Continues, As Nasdaq Leads; ServiceNow, Veeva Are Stocks To Watch - Investor's Business Daily",
-         "urlToImage" : "https://www.investors.com/wp-content/uploads/2020/05/Stock-BullBearFight-01-adobe.jpg"
+         "title" : "Stock Market Rally Attempt Continues, As Nasdaq Leads; ServiceNow, Veeva Are Stocks To Watch - Investor's Business Daily"
       },
       {
-         "url" : "https://www.kitco.com/news/2020-09-25/There-is-excitement-growing-in-the-mining-sector.html",
-         "source" : {
-            "id" : null,
-            "name" : "Kitco NEWS"
-         },
-         "description" : "",
-         "author" : "http://www.facebook.com/kitconews",
-         "content" : "Editor's Note: Get caught up in minutes with our speedy summary of today's must-read news stories and expert opinions that moved the precious metals and financial markets. Sign up here!\r\n(Kitco News)… [+2716 chars]",
          "publishedAt" : "2020-09-25T21:03:00Z",
+         "author" : "http://www.facebook.com/kitconews",
+         "title" : "There is excitement growing in the mining sector - Kitco NEWS",
+         "content" : "Editor's Note: Get caught up in minutes with our speedy summary of today's must-read news stories and expert opinions that moved the precious metals and financial markets. Sign up here!\r\n(Kitco News)… [+2716 chars]",
+         "description" : "",
+         "source" : {
+            "name" : "Kitco NEWS",
+            "id" : null
+         },
          "urlToImage" : "https://www.kitco.com/news/2020-09-25/images/Daily_300x250_T.gif",
-         "title" : "There is excitement growing in the mining sector - Kitco NEWS"
+         "url" : "https://www.kitco.com/news/2020-09-25/There-is-excitement-growing-in-the-mining-sector.html"
       },
       {
-         "description" : "Alphabet and Google CEO Sundar Pichai sent a stern note to employees following its massive settlement on sexual misconduct allegations.",
-         "publishedAt" : "2020-09-25T20:45:00Z",
-         "content" : "Alphabet and Google CEO Sundar Pichai sent a stern warning to all employees Friday, pointing them to a new settlement between the company and shareholders who alleged it did not respond appropriately… [+2224 chars]",
-         "author" : "Jennifer Elias",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106479087-1588160623981preview.jpg?v=1595350043",
-         "title" : "Google CEO Sundar Pichai tells employees 'we are not going back in time' after sexual misconduct settlement - CNBC",
          "url" : "https://www.cnbc.com/2020/09/25/read-google-ceo-sundar-pichais-email-after-misconduct-settlement.html",
          "source" : {
-            "id" : null,
-            "name" : "CNBC"
-         }
+            "name" : "CNBC",
+            "id" : null
+         },
+         "description" : "Alphabet and Google CEO Sundar Pichai sent a stern note to employees following its massive settlement on sexual misconduct allegations.",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106479087-1588160623981preview.jpg?v=1595350043",
+         "title" : "Google CEO Sundar Pichai tells employees 'we are not going back in time' after sexual misconduct settlement - CNBC",
+         "content" : "Alphabet and Google CEO Sundar Pichai sent a stern warning to all employees Friday, pointing them to a new settlement between the company and shareholders who alleged it did not respond appropriately… [+2224 chars]",
+         "author" : "Jennifer Elias",
+         "publishedAt" : "2020-09-25T20:45:00Z"
       }
-   ]
+   ],
+   "status" : "ok",
+   "totalResults" : 70
 }
