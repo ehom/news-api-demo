@@ -1,266 +1,266 @@
 {
-   "totalResults" : 70,
    "status" : "ok",
    "articles" : [
       {
-         "title" : "China Gives Unproven Covid-19 Vaccines to Thousands, With Risks Unknown - The New York Times",
-         "content" : "Raina MacIntyre, who heads the biosecurity program at the Kirby Institute of the University of New South Wales in Sydney, Australia, said she would not recommend the emergency use of vaccines before … [+1703 chars]",
-         "urlToImage" : "https://static01.nyt.com/images/2020/09/24/business/00china-vaccines-4/00china-vaccines-4-facebookJumbo.jpg",
-         "url" : "https://www.nytimes.com/2020/09/26/business/china-coronavirus-vaccine.html",
-         "description" : "Drug company workers, government officials and others have been injected outside the usual testing process. More will be soon, bewildering experts who worry about potential ill effects.",
-         "publishedAt" : "2020-09-26T14:44:00Z",
-         "author" : "Sui-Lee Wee",
+         "title" : "US slaps trade restrictions on China's top chipmaker - Engadget",
+         "source" : {
+            "name" : "Engadget",
+            "id" : "engadget"
+         },
+         "publishedAt" : "2020-09-26T15:49:17Z",
+         "url" : "https://www.engadget.com/us-trade-export-restrictions-china-smic-152726714.html",
+         "description" : "The US has put limits on exports to China's top chip manufacturer, SMIC, potentially hurting a host of Chinese tech compaines.",
+         "content" : "The Department didn’t directly comment on SMIC, but told Reuters it was “constantly monitoring and assessing” possible threats to US security and foreign policy.\r\nSMIC, meanwhile, appeared to have be… [+1209 chars]",
+         "urlToImage" : "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-09%2F27117670-ef41-11ea-adff-9fd543878461&client=amp-blogside-v2&signature=a559173bbb8f6d55dc6b7f79cbb19be9673a4daf",
+         "author" : ""
+      },
+      {
+         "publishedAt" : "2020-09-26T15:20:00Z",
+         "source" : {
+            "id" : null,
+            "name" : "Investor's Business Daily"
+         },
+         "title" : "Market Rally Shows Promise; How To Game Plan For A Key Week - Investor's Business Daily",
+         "url" : "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-stock-market-rally-game-plans-alibaba-nvidia-bullish-action/",
+         "urlToImage" : "https://www.investors.com/wp-content/uploads/2020/03/Stock-NFLfootball-01-shut.jpg",
+         "content" : "Dow Jones futures will open Sunday evening, along with S&amp;P 500 futures and Nasdaq futures. A new stock market rally attempt is underway as another wild week on Wall Street ended on a high note. A… [+9771 chars]",
+         "description" : "Dow Jones futures: A stock market rally attempt is underway, but game plan for bearish or bullish action. Alibaba, Nvidia and Target are stocks to watch.",
+         "author" : "Investor's Business Daily"
+      },
+      {
+         "author" : "Maria Cramer",
+         "urlToImage" : "https://static01.nyt.com/images/2020/09/24/multimedia/24xp-licorice/24xp-licorice-facebookJumbo-v2.jpg",
+         "description" : "Doctors at Massachusetts General Hospital said the unusual case highlighted the risk of consuming too much glycyrrhizic acid, which is found in black licorice.",
+         "content" : "Dr. Butala said consumers needed to be informed by candy and other food manufacturers about the levels of glycyrrhizic acid in their products.\r\nHe also reported the case to the Food and Drug Administ… [+1459 chars]",
+         "url" : "https://www.nytimes.com/2020/09/26/health/black-licorice-death-boston.html",
          "source" : {
             "name" : "New York Times",
             "id" : null
+         },
+         "publishedAt" : "2020-09-26T14:35:07Z",
+         "title" : "A Man Died After Eating a Bag of Black Licorice Every Day - The New York Times"
+      },
+      {
+         "content" : "Occidental Petroleum (NYSE:OXY) made headlines this week by disclosing that it would pay an upcoming dividend to Warren Buffett's Berkshire Hathaway (NYSE:BRK-A)(NYSE:BRK-B) in cash instead of stock.… [+4138 chars]",
+         "description" : "The oil giant's liquidity seems to be improving.",
+         "urlToImage" : "https://g.foolcdn.com/editorial/images/592715/an-oil-pump-and-barrel-on-top-of-money.jpg",
+         "author" : "Matthew DiLallo",
+         "title" : "Occidental Petroleum Finally Has Some Good News for Investors - Motley Fool",
+         "publishedAt" : "2020-09-26T14:23:00Z",
+         "source" : {
+            "name" : "Motley Fool",
+            "id" : null
+         },
+         "url" : "https://www.fool.com/investing/2020/09/26/occidental-petroleum-finally-has-some-good-news-fo/"
+      },
+      {
+         "author" : "Dan Gallagher",
+         "content" : "There are ways the government can hurt Google. Blowing up the companys deal with Apple Inc. might not be one of them.\r\nThe Justice Department has been meeting in recent days with state attorneys gene… [+331 chars]",
+         "description" : "Regulators face uphill battle as even hitting internet giant’s Apple deal might not hurt much",
+         "urlToImage" : "https://images.wsj.net/im-236784/social",
+         "url" : "https://www.wsj.com/articles/google-will-be-hard-habit-to-break-11601128801",
+         "title" : "Google Will Be Hard Habit to Break - The Wall Street Journal",
+         "publishedAt" : "2020-09-26T14:00:00Z",
+         "source" : {
+            "id" : "the-wall-street-journal",
+            "name" : "The Wall Street Journal"
          }
       },
       {
-         "title" : "U.S. Sets Export Controls on China’s Top Chip Maker - The Wall Street Journal",
-         "urlToImage" : "https://images.wsj.net/im-237128/social",
-         "content" : "The Commerce Department has told U.S. computer-chip companies that they must obtain licenses before exporting certain technology to Chinas largest manufacturer of semiconductors, a blow to Chinas eff… [+4277 chars]",
-         "description" : "Commerce Department letter says exports to SMIC risk being used for Chinese military activities",
-         "url" : "https://www.wsj.com/articles/u-s-sets-export-controls-on-chinas-top-chip-maker-11601118353",
+         "author" : "Elizabeth Gravier",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106717687-1601050892548-gettyimages-529341361-537c9812-0afa-49bc-943e-f4ebd7be200a.jpeg?v=1601052055",
+         "description" : "Using analysis by Fidelity, CNBC Select explains what your savings should look like by the time you turn 40 so that you stay on track to hit your retirement goals.",
+         "content" : "Editor's Note: APYs listed in this article are up-to-date as of the time of publication. They may fluctuate (up or down) as the Fed rate changes. CNBC will update as changes are made public.\r\nYour 30… [+3049 chars]",
+         "url" : "https://www.cnbc.com/select/savings-by-age-40/",
          "source" : {
-            "name" : "The Wall Street Journal",
-            "id" : "the-wall-street-journal"
-         },
-         "author" : "Dan Strumpf",
-         "publishedAt" : "2020-09-26T13:42:00Z"
-      },
-      {
-         "title" : "Tesla Model S Plaid may be required to use a parachute when racing in drag strips - Teslarati",
-         "content" : "The Tesla Model S Plaid was officially launched on Battery Day, and the vehicle is now available for ordering. The specs of the Plaid Model S are no joke, with the vehicle being capable of going from… [+2939 chars]",
-         "urlToImage" : "https://www.teslarati.com/wp-content/uploads/2019/10/Tesla-Model-S-blue-Nrburgring-20.jpg",
-         "description" : "The Tesla Model S Plaid was officially launched on Battery Day, and the vehicle is now available for ordering. The specs of the Plaid Model S are no joke, with the vehicle being capable of going from 0 to 60 mph in less than 2 seconds before maxing out at 200…",
-         "url" : "https://www.teslarati.com/tesla-model-s-plaid-needs-parachute-drag-race-video/",
-         "publishedAt" : "2020-09-26T12:50:15Z",
-         "source" : {
-            "name" : "Teslarati",
+            "name" : "CNBC",
             "id" : null
          },
-         "author" : "https://www.facebook.com/sim.alva"
+         "publishedAt" : "2020-09-26T13:08:05Z",
+         "title" : "Here’s how much money you should have saved by age 40 - CNBC"
       },
       {
-         "title" : "Amazon's new Ring camera is actually a flying drone -- for inside your home - CNET",
-         "urlToImage" : "https://cnet2.cbsistatic.com/img/Yrr0cOLk6sAZPF3dLHx6m55vSSE=/1200x630/2020/09/24/0b2af454-94d0-4583-bb79-e7587bd1146e/1600816105-9-22-ring-always-home-cam.jpg",
-         "content" : "Ring's Always Home Cam is an indoor security camera drone.\r\nRing\r\nRing on Thursday introduced a new product to its growing roster of smart home devices -- the Ring Always Home Cam. Unlike the Amazon … [+3188 chars]",
-         "description" : "Ring announces the $250 Always Home Cam indoor drone and plans for end-to-end encryption.",
-         "url" : "https://www.cnet.com/news/amazons-new-ring-camera-is-actually-a-flying-drone-for-inside-your-home/",
+         "title" : "Johnson & Johnson's early vaccine trial results show most participants developed strong immune response - Yahoo News",
          "source" : {
             "id" : null,
-            "name" : "CNET"
+            "name" : "Yahoo Entertainment"
          },
-         "author" : "Megan Wollerton",
-         "publishedAt" : "2020-09-26T12:01:00Z"
+         "publishedAt" : "2020-09-26T12:30:00Z",
+         "url" : "https://news.yahoo.com/johnson-johnsons-early-vaccine-trial-123000820.html",
+         "description" : "Johnson & Johnson announced the start of phase three of its coronavirus vaccine trial this week, citing \"positive interim results\" from earlier...",
+         "content" : "Johnson &amp; Johnson announced the start of phase three of its coronavirus vaccine trial this week, citing \"positive interim results\" from earlier stages of its study. Those were published Friday, a… [+1506 chars]",
+         "urlToImage" : "https://s.yimg.com/uu/api/res/1.2/.ukfS70uW2ZnKqLcdZ8MSw--~B/aD01NjA7dz04NDA7c209MTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/the_week_574/8d2f97df0d19f9a3c04d58fa45b40a86",
+         "author" : "Tim O'Donnell"
       },
       {
-         "url" : "https://finance.yahoo.com/news/how-tesla-nikola-and-donald-trump-are-all-connected-115511618.html",
+         "url" : "https://www.theverge.com/2020/9/26/21455850/polestar-precept-electric-car-concept-android-production",
+         "publishedAt" : "2020-09-26T12:22:43Z",
+         "source" : {
+            "id" : "the-verge",
+            "name" : "The Verge"
+         },
+         "title" : "The Polestar Precept, an electric sedan powered by Android, is going into production - The Verge",
+         "author" : "Andrew J. Hawkins",
+         "urlToImage" : "https://cdn.vox-cdn.com/thumbor/bgOIHGqGaXaGhJq4kEMIeyRaAgg=/0x362:3500x2194/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/21909479/Polestar_Precept_034.jpg",
+         "content" : "The Volvo sub-brand is moving ahead with making its sharp sedan concept a reality\r\nIn February, Chinese electric vehicle company Polestar revealed a gorgeous sedan concept called the Precept that fea… [+2706 chars]",
+         "description" : "Polestar, a Chinese electric car company jointly owned by Volvo, plans to put its gorgeous EV sedan concept the Precept into production. The Precept is an all-electric sedan with futuristic design and native Android infotainment."
+      },
+      {
+         "url" : "https://cleantechnica.com/2020/09/26/first-100-xpeng-g3-electric-suvs-on-their-way-to-norway/",
+         "title" : "First 100 Xpeng G3 Electric SUVs On Their Way To Norway - CleanTechnica",
+         "publishedAt" : "2020-09-26T12:11:15Z",
+         "source" : {
+            "name" : "CleanTechnica",
+            "id" : null
+         },
+         "author" : "Steve Hanley",
+         "content" : "Electric CarsPublished on September 26th, 2020 |\r\n by Steve Hanley\r\n0\r\nSeptember 26th, 2020 by Steve Hanley \r\nThe Xpeng G3 is on its way to Norway. The first 100 cars were put on board a ship this we… [+3628 chars]",
+         "description" : "Xpeng has loaded 100 of its G3 electric SUVs aboard a ship bound for Norway. How the car is received by Norwegians will help the company chart its international sales strategy.",
+         "urlToImage" : "https://cleantechnica.com/files/2020/09/e777ngxyp2u.jpg"
+      },
+      {
+         "url" : "https://www.cnet.com/news/amazons-new-ring-camera-is-actually-a-flying-drone-for-inside-your-home/",
+         "title" : "Amazon's new Ring camera is actually a flying drone -- for inside your home - CNET",
+         "publishedAt" : "2020-09-26T12:01:00Z",
+         "source" : {
+            "name" : "CNET",
+            "id" : null
+         },
+         "author" : "Megan Wollerton",
+         "content" : "Ring's Always Home Cam is an indoor security camera drone.\r\nRing\r\nRing on Thursday introduced a new product to its growing roster of smart home devices -- the Ring Always Home Cam. Unlike the Amazon … [+3188 chars]",
+         "description" : "Ring announces the $250 Always Home Cam indoor drone and plans for end-to-end encryption.",
+         "urlToImage" : "https://cnet2.cbsistatic.com/img/Yrr0cOLk6sAZPF3dLHx6m55vSSE=/1200x630/2020/09/24/0b2af454-94d0-4583-bb79-e7587bd1146e/1600816105-9-22-ring-always-home-cam.jpg"
+      },
+      {
+         "url" : "https://www.washingtonpost.com/nation/2020/09/26/black-vaccine-mistrust/",
+         "publishedAt" : "2020-09-26T12:00:00Z",
+         "source" : {
+            "name" : "The Washington Post",
+            "id" : "the-washington-post"
+         },
+         "title" : "Black doctors want to vet vaccine process, worried about mistrust from years of medical racism - The Washington Post",
+         "author" : "Meryl Kornfield",
+         "urlToImage" : "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/OT2CSNHRAYI6VABFLU2IS5UKZA.jpg&w=1440",
+         "content" : "After being at the clinic for 13 years and educating patients about the flu vaccine and dispelling any myths they had about it,\" Carroll-Scott said, Ive now gotten my patients to a point where they t… [+6759 chars]",
+         "description" : "The group will vet the review of vaccines by the Food and Drug Administration and the Centers for Disease Control and Prevention"
+      },
+      {
          "description" : "On January 9, 1943, two days after Nikola Tesla died destitute in a New York City hotel, the FBI called MIT professor and esteemed electrical engineer, John ...",
+         "content" : "On January 9, 1943, two days after Nikola Tesla died destitute in a New York City hotel, the FBI called MIT professor and esteemed electrical engineer, John G. Trump, to determine if any of the belon… [+12024 chars]",
+         "urlToImage" : "https://s.yimg.com/ny/api/res/1.2/0Yo_FWzB4uEK4cnYgs4xmA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyODA7aD05NDIuOTMzMzMzMzMzMzMzMw--/https://s.yimg.com/uu/api/res/1.2/gWYuAa039tJbIg.kYBkR4w--~B/aD0zMTU4O3c9NDI4NTtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2020-09/5008e010-ffd4-11ea-bfde-b27ea976509c",
          "author" : "Andy Serwer with Max Zahn",
+         "title" : "How Tesla, Nikola and Donald Trump are all connected - Yahoo Finance",
          "source" : {
             "name" : "Yahoo Entertainment",
             "id" : null
          },
          "publishedAt" : "2020-09-26T11:55:00Z",
-         "title" : "How Tesla, Nikola and Donald Trump are all connected - Yahoo Finance",
-         "urlToImage" : "https://s.yimg.com/ny/api/res/1.2/0Yo_FWzB4uEK4cnYgs4xmA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyODA7aD05NDIuOTMzMzMzMzMzMzMzMw--/https://s.yimg.com/uu/api/res/1.2/gWYuAa039tJbIg.kYBkR4w--~B/aD0zMTU4O3c9NDI4NTtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2020-09/5008e010-ffd4-11ea-bfde-b27ea976509c",
-         "content" : "On January 9, 1943, two days after Nikola Tesla died destitute in a New York City hotel, the FBI called MIT professor and esteemed electrical engineer, John G. Trump, to determine if any of the belon… [+12024 chars]"
+         "url" : "https://finance.yahoo.com/news/how-tesla-nikola-and-donald-trump-are-all-connected-115511618.html"
       },
       {
-         "url" : "https://www.wsj.com/articles/inflation-is-already-herefor-the-stuff-you-actually-want-to-buy-11601112630?mod=hp_lead_pos9",
-         "description" : "Prices are rising for things people need in the pandemic, even if the overall inflation number remains subdued.",
-         "author" : "The Wall Street Journal",
-         "source" : {
-            "name" : "The Wall Street Journal",
-            "id" : "the-wall-street-journal"
-         },
-         "publishedAt" : "2020-09-26T11:37:42Z",
-         "title" : "Inflation is already here -- for the stuff you actually want to buy - Fox Business",
-         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/08/0/0/cash-iStock.jpg?ve=1&tl=1",
-         "content" : "If it feels like the price of everything you buy has been soaring, that's because it has -- even as central bankers everywhere worry about the danger of deflation.\r\nThe gap between everyday experienc… [+6049 chars]"
-      },
-      {
+         "urlToImage" : "https://www.carscoops.com/wp-content/uploads/2020/09/2021-Audi-Q5-Sportback-0.jpg",
+         "content" : "Audi continues the rollout of coupe-like Sportback variants for its SUVs with the new Q5 Sportback.\r\nSet to join the standard Q5 SUV in the first half of 2021 in the U.S., Europe, and other markets, … [+3058 chars]",
          "description" : "Audi’s Q5 Sportback will arrive in the US and Europe in the first half of 2021.",
-         "url" : "https://www.carscoops.com/2020/09/2021-audi-q5-sportback-debuts-as-the-regular-q5s-trendier-sibling/",
+         "author" : null,
          "publishedAt" : "2020-09-26T11:04:00Z",
          "source" : {
-            "id" : null,
-            "name" : "CarScoops"
+            "name" : "CarScoops",
+            "id" : null
          },
-         "author" : null,
          "title" : "2021 Audi Q5 Sportback Debuts As The Regular Q5’s Trendier Sibling - CarScoops",
-         "content" : "Audi continues the rollout of coupe-like Sportback variants for its SUVs with the new Q5 Sportback.\r\nSet to join the standard Q5 SUV in the first half of 2021 in the U.S., Europe, and other markets, … [+3058 chars]",
-         "urlToImage" : "https://www.carscoops.com/wp-content/uploads/2020/09/2021-Audi-Q5-Sportback-0.jpg"
+         "url" : "https://www.carscoops.com/2020/09/2021-audi-q5-sportback-debuts-as-the-regular-q5s-trendier-sibling/"
       },
       {
-         "urlToImage" : "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i5xDtcrQem4I/v1/1200x769.jpg",
-         "content" : "Day traders claiming bragging rights for this year’s $9 trillion U.S. equity rebound can find some supporting evidence in the latest research.\r\nEven as retail trading has grown to \r\nrepresent 20% of … [+3403 chars]",
-         "title" : "Every Day-Trader Dollar Is Worth Five in a New Theory on Stocks - Bloomberg",
          "author" : "Sam Potter",
+         "urlToImage" : "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i5xDtcrQem4I/v1/1200x769.jpg",
+         "description" : "",
+         "content" : "Day traders claiming bragging rights for this year’s $9 trillion U.S. equity rebound can find some supporting evidence in the latest research.\r\nEven as retail trading has grown to \r\nrepresent 20% of … [+3403 chars]",
+         "url" : "https://www.bloomberg.com/news/articles/2020-09-26/every-day-trader-dollar-is-worth-five-in-a-new-theory-on-stocks",
          "source" : {
             "name" : "Bloomberg",
             "id" : "bloomberg"
          },
          "publishedAt" : "2020-09-26T11:00:00Z",
-         "url" : "https://www.bloomberg.com/news/articles/2020-09-26/every-day-trader-dollar-is-worth-five-in-a-new-theory-on-stocks",
-         "description" : ""
+         "title" : "Every Day-Trader Dollar Is Worth Five in a New Theory on Stocks - Bloomberg"
       },
       {
-         "url" : "https://www.cnbc.com/2020/09/26/chinese-electric-car-start-up-xpeng-shows-off-new-flying-vehicle-.html",
-         "description" : "With eight propellers and a capsule-like frame, the vehicle resembles a human-carrying drone more than a flying car.",
-         "publishedAt" : "2020-09-26T10:13:00Z",
-         "author" : "Evelyn Cheng",
-         "source" : {
-            "name" : "CNBC",
-            "id" : null
-         },
-         "title" : "Chinese electric car start-up Xpeng shows off new flying vehicle - CNBC",
-         "content" : "BEIJING Alibaba-backed Xpeng is putting money into flying car technology as part of the company's long-term strategy. \r\nThe electric automaker revealed Saturday at the Beijing Auto Show the first in … [+1519 chars]",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106718464-1601114779985-Evelyn_cheng_flying_car_china.jpg?v=1601114938"
-      },
-      {
-         "content" : "The tables quickly turned for an 89-year-old pizza delivery driver who received a surprise delivery of his own from \"regulars\" on his route -- a $12,000 tip. \r\n© KSL\r\n Derlin Newey, a pizza delivery … [+2107 chars]",
-         "urlToImage" : "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB19qkdE.img?h=315&w=600&m=6&q=60&o=t&l=f&f=jpg&x=517&y=236",
-         "title" : "89-year-old Papa John's pizza delivery driver surprised with $12K tip thanks to 'TikTok Family' - msnNOW",
-         "publishedAt" : "2020-09-26T06:45:00Z",
-         "source" : {
-            "id" : "cnn",
-            "name" : "CNN"
-         },
-         "author" : null,
-         "description" : "The tables quickly turned for an 89-year-old pizza delivery driver who received a surprise delivery of his own from \"regulars\" on his route -- a $12,000 tip.",
-         "url" : "https://www.cnn.com/2020/09/25/us/delivery-driver-surprise-tip-trnd/index.html"
-      },
-      {
-         "source" : {
-            "name" : "CNET",
-            "id" : null
-         },
-         "author" : "Steven Ewing",
-         "publishedAt" : "2020-09-26T05:17:00Z",
-         "description" : "This racing prototype packs 810 horsepower -- and it's electric.",
-         "url" : "https://www.cnet.com/roadshow/news/hyundai-rm20e-debut/",
-         "urlToImage" : "https://cnet3.cbsistatic.com/img/ewvfBFaHTmxDiStKRrM4eU-BmUY=/1200x630/2020/09/26/a83f7911-6e31-401c-9d00-28ce1a36e441/ogi1-hyundai-rm19-002.jpg",
-         "content" : "Holy smokes is this thing cool.\r\nHyundai\r\nRemember Hyundai's awesome little mid-engine RM19 concept that debuted at the 2019 Los Angeles Auto Show? I sure do; it's amazing. So how does Hyundai one-up… [+1716 chars]",
-         "title" : "Hyundai RM20e is the ultimate electric hot hatch - CNET"
-      },
-      {
-         "title" : "Mushrooms linked to salmonella outbreaks in 10 states - The Associated Press",
-         "urlToImage" : "https://apnews.com/images/ShareLogo2.png",
-         "content" : "LOS ANGELES (AP) Federal officials are warning of salmonella cases in at least 10 states linked to dried mushrooms from a Southern California company. \r\nMore than 40 people have gotten sick and four … [+1126 chars]",
-         "url" : "https://apnews.com/article/los-angeles-california-1f953706884d92accab8252ffd1d3117",
-         "description" : "LOS ANGELES (AP) — Federal officials are warning of salmonella cases in at least 10 states linked to dried mushrooms from a Southern California company.  More than 40 people have gotten sick...",
-         "author" : null,
-         "source" : {
-            "name" : "Associated Press",
-            "id" : "associated-press"
-         },
-         "publishedAt" : "2020-09-26T05:06:20Z"
-      },
-      {
-         "title" : "Local doctor says children can safely celebrate Halloween, go trick-or-treating - WRAL.com",
-         "content" : "By Leslie Moreno, WRAL multimedia journalist\r\nRaleigh, N.C. — Twenty-five mayors from across North Carolina met with Dr. Mandy Cohen, secretary of the North Carolina Department of Health and Human Se… [+2001 chars]",
-         "urlToImage" : "https://wwwcache.wral.com/asset/5oys/smartshopper/2020/09/25/19304693/Halloween_candy_in_a_bowl-DMID1-5ob37u0yi-640x480.jpg",
-         "description" : "There were 25 mayors from across North Carolina who met Friday with North Carolina health secretary Dr. Mandy Cohen. One big topic was Halloween and whether cities should ban it.",
-         "url" : "https://www.wral.com/coronavirus/local-doctor-says-children-can-safely-celebrate-halloween-go-trick-or-treating/19305983/",
-         "publishedAt" : "2020-09-26T04:44:00Z",
-         "source" : {
-            "id" : null,
-            "name" : "WRAL.com"
-         },
-         "author" : "Leslie Moreno, Brad Simmons, Jason O. Boyd"
-      },
-      {
-         "title" : "Polestar Precept To Enter Production: Will Challenge Tesla Model S, Lucid Air - InsideEVs ",
-         "content" : "Polestar announced today that the Precept concept model, shown earlier this year, will enter production. Vehicle development is underway in the UK and already more than 130 people are working on it.\r… [+1177 chars]",
-         "urlToImage" : "https://cdn.motor1.com/images/mgl/NkQbY/s1/polestar-precept.jpg",
-         "url" : "https://insideevs.com/news/445929/official-polestar-precept-enter-production/",
-         "description" : "Polestar announced today that the Precept model, shown earlier this year, will enter production. An all-new manufacturing facility will be built in China.",
-         "publishedAt" : "2020-09-26T04:34:05Z",
-         "author" : "Mark Kane",
-         "source" : {
-            "name" : "InsideEVs ",
-            "id" : null
-         }
-      },
-      {
-         "title" : "Is It Insane to Start a Business During Coronavirus? Millions of Americans Don’t Think So. - The Wall Street Journal",
-         "urlToImage" : "https://images.wsj.net/im-236748/social",
-         "content" : "The pandemic forced hundreds of thousands of small businesses to close. For Madison Schneider, it was a good time to start a new one. \r\nThe 22-year-old in Haviland, Kan., opened Lelas Bakery and Coff… [+171 chars]",
-         "url" : "https://www.wsj.com/articles/is-it-insane-to-start-a-business-during-coronavirus-millions-of-americans-dont-think-so-11601092841",
-         "description" : "The pandemic closed hundreds of thousands of businesses across the country. But now applications for new U.S. businesses are rising at the fastest rate since 2007. Why? A mix of necessity and opportunity.",
-         "author" : "Gwynn Guilford, Charity L. Scott",
+         "publishedAt" : "2020-09-26T10:45:00Z",
          "source" : {
             "id" : "the-wall-street-journal",
             "name" : "The Wall Street Journal"
          },
-         "publishedAt" : "2020-09-26T04:00:00Z"
+         "title" : "Inflation Is Already Here—For the Stuff You Actually Want to Buy - The Wall Street Journal",
+         "url" : "https://www.wsj.com/articles/inflation-is-already-herefor-the-stuff-you-actually-want-to-buy-11601112630",
+         "urlToImage" : "https://images.wsj.net/im-236415/social",
+         "content" : "If it feels like the price of everything you buy has been soaring, thats because it haseven as central bankers everywhere worry about the danger of deflation.\r\nThe gap between everyday experience and… [+1074 chars]",
+         "description" : "Prices are rising for things people need in the pandemic, even if the overall inflation number remains subdued",
+         "author" : "James Mackintosh"
       },
       {
-         "urlToImage" : "https://storage.googleapis.com/afs-prod/media/9be48c58f14b4d9a9589383602175860/3000.jpeg",
-         "content" : "DALLAS (AP) A major U.S. provider of software services to state and local governments acknowledged Friday that it was hit by a ransomware attack two days after telling clients an unknown intruder had… [+2681 chars]",
-         "title" : "Hacked software provider acknowledges ransomware attack - The Associated Press",
-         "author" : "Jake Bleiberg",
-         "source" : {
-            "id" : "associated-press",
-            "name" : "Associated Press"
-         },
-         "publishedAt" : "2020-09-26T03:52:36Z",
-         "url" : "https://apnews.com/article/dallas-technology-local-governments-hacking-archive-0ccdcb35696b7bda696caf487fafb8f2",
-         "description" : "DALLAS (AP) — A major U.S. provider of software services to state and local governments acknowledged Friday that it was hit by a ransomware attack two days after telling clients an unknown..."
-      },
-      {
-         "title" : "Hawaiian Airlines sees ‘momentum building’ as it prepares to launch testing program - Hawaii News Now",
-         "content" : "On Friday, Hawaiian Air announced it will provide drive-thru testing at labs near Los Angeles and San Francisco international airports starting Oct. 15. The testing, in partnership with Worksite Labs… [+1774 chars]",
-         "urlToImage" : "https://www.hawaiinewsnow.com/resizer/FjAPbWPDhc3U3FI3bI3fwzM_jEg=/1200x0/cloudfront-us-east-1.images.arcpublishing.com/raycom/WVE235PAG5ACBBSDNZT7VG65XE.jpg",
-         "url" : "https://www.hawaiinewsnow.com/2020/09/25/momentum-building-hawaiian-airline-launches-testing-program/",
-         "description" : "Hawaiian Air CEO Peter Ingram said the partnership is helping to build “momentum” for a comeback.",
-         "publishedAt" : "2020-09-26T02:46:00Z",
-         "author" : "Mahealani Richardson",
-         "source" : {
-            "id" : null,
-            "name" : "Hawaii News Now"
-         }
-      },
-      {
-         "content" : "HONOLULU, Hawaii (HawaiiNewsNow) - The city is converting the right lane on King Street from Dillingham Boulevard to Punchbowl Street to a special transit corridor for buses only.\r\nIts called TheBusL… [+1050 chars]",
-         "urlToImage" : "https://www.hawaiinewsnow.com/resizer/CQXe_2n1el3tkK7_RBgVsn0c8u0=/1200x0/cloudfront-us-east-1.images.arcpublishing.com/raycom/KN6A27TQ65FB5HJ426AJ74S34E.jpg",
-         "title" : "Right lane on King Street through urban core will soon be reserved for buses only - Hawaii News Now",
-         "publishedAt" : "2020-09-26T02:37:00Z",
-         "author" : "HNN Staff",
-         "source" : {
-            "id" : null,
-            "name" : "Hawaii News Now"
-         },
-         "url" : "https://www.hawaiinewsnow.com/2020/09/25/right-lane-king-street-through-urban-core-will-soon-be-reserved-buses-only/",
-         "description" : "It’s called TheBusLane and it’s designed to speed up the commute for Downtown bus riders."
-      },
-      {
-         "description" : "The Berkeley, Calif., ordinance requiring stores over 2,500 square feet to sell more nutritious food and beverage options in their checkout areas.",
-         "url" : "https://www.usatoday.com/story/money/2020/09/25/berkeley-calif-bans-junk-food-and-candy-grocery-checkouts/3535682001/",
-         "publishedAt" : "2020-09-26T01:51:00Z",
-         "source" : {
-            "name" : "USA Today",
-            "id" : "usa-today"
-         },
          "author" : null,
-         "title" : "Berkeley, California, bans candy, junk food at grocery checkouts - msnNOW",
-         "content" : "© Keith Srakocic, AP\r\n A mixture of salty snacks and chips is shown left on a table in Pittsburgh's Market Square on Tuesday, Feb. 7, 2012.\r\nThe city of Berkeley, California is back on the attack aga… [+2606 chars]",
-         "urlToImage" : null
+         "urlToImage" : "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB19qkdE.img?h=315&w=600&m=6&q=60&o=t&l=f&f=jpg&x=517&y=236",
+         "description" : "The tables quickly turned for an 89-year-old pizza delivery driver who received a surprise delivery of his own from \"regulars\" on his route -- a $12,000 tip.",
+         "content" : "The tables quickly turned for an 89-year-old pizza delivery driver who received a surprise delivery of his own from \"regulars\" on his route -- a $12,000 tip. \r\n© KSL\r\n Derlin Newey, a pizza delivery … [+2107 chars]",
+         "url" : "https://www.cnn.com/2020/09/25/us/delivery-driver-surprise-tip-trnd/index.html",
+         "source" : {
+            "id" : "cnn",
+            "name" : "CNN"
+         },
+         "publishedAt" : "2020-09-26T06:45:00Z",
+         "title" : "89-year-old Papa John's pizza delivery driver surprised with $12K tip thanks to 'TikTok Family' - msnNOW"
       },
       {
-         "urlToImage" : "https://www.wjhl.com/wp-content/uploads/sites/98/2020/09/Image-from-iOS-76.jpg?w=1280",
-         "content" : "BRISTOL, Tenn. (WJHL) No one was hurt when part of a hotel that is under construction collapsed in Bristol, Tennessee, according to Fire Chief Mike Carrier. \r\nIt happened Friday night at the Holiday … [+215 chars]",
-         "title" : "No injuries reported in partial collapse of Bristol hotel under construction - WJHL-TV News Channel 11",
+         "content" : "Holy smokes is this thing cool.\r\nHyundai\r\nRemember Hyundai's awesome little mid-engine RM19 concept that debuted at the 2019 Los Angeles Auto Show? I sure do; it's amazing. So how does Hyundai one-up… [+1716 chars]",
+         "description" : "This racing prototype packs 810 horsepower -- and it's electric.",
+         "urlToImage" : "https://cnet3.cbsistatic.com/img/ewvfBFaHTmxDiStKRrM4eU-BmUY=/1200x630/2020/09/26/a83f7911-6e31-401c-9d00-28ce1a36e441/ogi1-hyundai-rm19-002.jpg",
+         "author" : "Steven Ewing",
+         "title" : "Hyundai RM20e is the ultimate electric hot hatch - CNET",
+         "publishedAt" : "2020-09-26T05:17:00Z",
          "source" : {
-            "name" : "WJHL-TV News Channel 11",
+            "name" : "CNET",
             "id" : null
          },
-         "author" : "News Channel 11 Staff",
-         "publishedAt" : "2020-09-26T01:28:00Z",
-         "description" : "BRISTOL, Tenn. (WJHL) — No one was hurt when part of a hotel that is under construction collapsed in Bristol, Tennessee, according to Fire Chief Mike Carrier. It happened Friday night at the Holiday Inn construction site at the corner of Volunteer Parkway and…",
-         "url" : "https://www.wjhl.com/news/local/no-injuries-reported-in-partial-collapse-of-bristol-hotel-under-construction/"
+         "url" : "https://www.cnet.com/roadshow/news/hyundai-rm20e-debut/"
+      },
+      {
+         "content" : "LOS ANGELES (AP) Federal officials are warning of salmonella cases in at least 10 states linked to dried mushrooms from a Southern California company. \r\nMore than 40 people have gotten sick and four … [+1126 chars]",
+         "description" : "LOS ANGELES (AP) — Federal officials are warning of salmonella cases in at least 10 states linked to dried mushrooms from a Southern California company.  More than 40 people have gotten sick...",
+         "urlToImage" : "https://apnews.com/images/ShareLogo2.png",
+         "author" : null,
+         "title" : "Mushrooms linked to salmonella outbreaks in 10 states - The Associated Press",
+         "publishedAt" : "2020-09-26T05:06:20Z",
+         "source" : {
+            "name" : "Associated Press",
+            "id" : "associated-press"
+         },
+         "url" : "https://apnews.com/article/los-angeles-california-1f953706884d92accab8252ffd1d3117"
+      },
+      {
+         "author" : "WDSU Digital Team",
+         "urlToImage" : "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/alcoholic-beverages-1845295-960-720-1596470391.jpg?crop=1.00xw:0.752xh;0,0&resize=1200:*",
+         "content" : "NEW ORLEANS —Alcoholic beverages \"To-Go\" may resume in Orleans Parish restaurants, the city announced Friday.\r\nMayor LaToya Cantrell says effective 5 p.m. Friday, restaurants in Orleans Parish may re… [+749 chars]",
+         "description" : "Alcoholic beverages \"To-Go\" may resume in Orleans Parish, the city announced Friday.",
+         "url" : "https://www.wdsu.com/article/orleans-parish-may-resume-drive-thru-takeout-alcoholic-beverages-mayor-says/34167732",
+         "publishedAt" : "2020-09-26T04:48:00Z",
+         "source" : {
+            "id" : null,
+            "name" : "WDSU New Orleans"
+         },
+         "title" : "Orleans Parish restaurants may resume drive-thru, 'to-go' alcoholic beverages, mayor says - WDSU New Orleans"
+      },
+      {
+         "urlToImage" : "https://wwwcache.wral.com/asset/5oys/smartshopper/2020/09/25/19304693/Halloween_candy_in_a_bowl-DMID1-5ob37u0yi-640x480.jpg",
+         "description" : "There were 25 mayors from across North Carolina who met Friday with North Carolina health secretary Dr. Mandy Cohen. One big topic was Halloween and whether cities should ban it.",
+         "content" : "By Leslie Moreno, WRAL multimedia journalist\r\nRaleigh, N.C. — Twenty-five mayors from across North Carolina met with Dr. Mandy Cohen, secretary of the North Carolina Department of Health and Human Se… [+2001 chars]",
+         "author" : "Leslie Moreno, Brad Simmons, Jason O. Boyd",
+         "source" : {
+            "id" : null,
+            "name" : "WRAL.com"
+         },
+         "publishedAt" : "2020-09-26T04:44:00Z",
+         "title" : "Local doctor says children can safely celebrate Halloween, go trick-or-treating - WRAL.com",
+         "url" : "https://www.wral.com/coronavirus/local-doctor-says-children-can-safely-celebrate-halloween-go-trick-or-treating/19305983/"
       }
-   ]
+   ],
+   "totalResults" : 70
 }
