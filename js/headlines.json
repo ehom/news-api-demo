@@ -1,266 +1,266 @@
 {
+   "totalResults" : 70,
    "articles" : [
       {
-         "author" : "Megan Wollerton",
          "urlToImage" : "https://cnet2.cbsistatic.com/img/Yrr0cOLk6sAZPF3dLHx6m55vSSE=/1200x630/2020/09/24/0b2af454-94d0-4583-bb79-e7587bd1146e/1600816105-9-22-ring-always-home-cam.jpg",
+         "content" : "Ring's Always Home Cam is an indoor security camera drone.\r\nRing\r\nRing on Thursday introduced a new product to its growing roster of smart home devices -- the Ring Always Home Cam. Unlike the Amazon … [+3188 chars]",
+         "author" : "Megan Wollerton",
+         "publishedAt" : "2020-09-26T12:01:00Z",
+         "title" : "Amazon's new Ring camera is actually a flying drone -- for inside your home - CNET",
+         "url" : "https://www.cnet.com/news/amazons-new-ring-camera-is-actually-a-flying-drone-for-inside-your-home/",
+         "description" : "Ring announces the $250 Always Home Cam indoor drone and plans for end-to-end encryption.",
          "source" : {
             "name" : "CNET",
             "id" : null
-         },
-         "content" : "Ring's Always Home Cam is an indoor security camera drone.\r\nRing\r\nRing on Thursday introduced a new product to its growing roster of smart home devices -- the Ring Always Home Cam. Unlike the Amazon … [+3188 chars]",
-         "title" : "Amazon's new Ring camera is actually a flying drone -- for inside your home - CNET",
-         "publishedAt" : "2020-09-26T12:01:00Z",
-         "description" : "Ring announces the $250 Always Home Cam indoor drone and plans for end-to-end encryption.",
-         "url" : "https://www.cnet.com/news/amazons-new-ring-camera-is-actually-a-flying-drone-for-inside-your-home/"
+         }
       },
       {
-         "content" : "Journalists in 50+ countries explore developments in global commerce from every perspective.\r\nFor Premium subscribers, we offer our dedicated FT Free Trade newsletter every Tuesday and Thursday.",
-         "title" : "US sanctions China’s biggest chipmaker - Financial Times",
          "source" : {
-            "name" : "Financial Times",
-            "id" : "financial-times"
+            "id" : "financial-times",
+            "name" : "Financial Times"
          },
-         "urlToImage" : null,
-         "author" : "Yuan Yang",
          "description" : "News, analysis and comment from the Financial Times, the worldʼs leading global business publication",
          "url" : "https://www.ft.com/content/7325dcea-e327-4054-9b24-7a12a6a2cac6",
-         "publishedAt" : "2020-09-26T10:46:00Z"
+         "title" : "US sanctions China’s biggest chipmaker - Financial Times",
+         "publishedAt" : "2020-09-26T10:46:00Z",
+         "author" : "Yuan Yang",
+         "content" : "Journalists in 50+ countries explore developments in global commerce from every perspective.\r\nFor Premium subscribers, we offer our dedicated FT Free Trade newsletter every Tuesday and Thursday.",
+         "urlToImage" : null
       },
       {
-         "author" : "Evelyn Cheng",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106718464-1601114779985-Evelyn_cheng_flying_car_china.jpg?v=1601114938",
-         "content" : "BEIJING Alibaba-backed Xpeng is putting money into flying car technology as part of the company's long-term strategy. \r\nThe electric automaker revealed Saturday at the Beijing Auto Show the first in … [+1519 chars]",
-         "title" : "Chinese electric car start-up Xpeng shows off new flying vehicle - CNBC",
+         "url" : "https://www.cnbc.com/2020/09/26/chinese-electric-car-start-up-xpeng-shows-off-new-flying-vehicle-.html",
          "source" : {
             "id" : null,
             "name" : "CNBC"
          },
+         "description" : "With eight propellers and a capsule-like frame, the vehicle resembles a human-carrying drone more than a flying car.",
+         "content" : "BEIJING Alibaba-backed Xpeng is putting money into flying car technology as part of the company's long-term strategy. \r\nThe electric automaker revealed Saturday at the Beijing Auto Show the first in … [+1519 chars]",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106718464-1601114779985-Evelyn_cheng_flying_car_china.jpg?v=1601114938",
+         "title" : "Chinese electric car start-up Xpeng shows off new flying vehicle - CNBC",
          "publishedAt" : "2020-09-26T10:13:00Z",
-         "url" : "https://www.cnbc.com/2020/09/26/chinese-electric-car-start-up-xpeng-shows-off-new-flying-vehicle-.html",
-         "description" : "With eight propellers and a capsule-like frame, the vehicle resembles a human-carrying drone more than a flying car."
+         "author" : "Evelyn Cheng"
       },
       {
+         "urlToImage" : "https://cnet3.cbsistatic.com/img/ewvfBFaHTmxDiStKRrM4eU-BmUY=/1200x630/2020/09/26/a83f7911-6e31-401c-9d00-28ce1a36e441/ogi1-hyundai-rm19-002.jpg",
+         "content" : "Holy smokes is this thing cool.\r\nHyundai\r\nRemember Hyundai's awesome little mid-engine RM19 concept that debuted at the 2019 Los Angeles Auto Show? I sure do; it's amazing. So how does Hyundai one-up… [+1716 chars]",
          "publishedAt" : "2020-09-26T05:17:00Z",
+         "title" : "Hyundai RM20e is the ultimate electric hot hatch - CNET",
+         "author" : "Steven Ewing",
          "url" : "https://www.cnet.com/roadshow/news/hyundai-rm20e-debut/",
          "description" : "This racing prototype packs 810 horsepower -- and it's electric.",
-         "author" : "Steven Ewing",
-         "urlToImage" : "https://cnet3.cbsistatic.com/img/ewvfBFaHTmxDiStKRrM4eU-BmUY=/1200x630/2020/09/26/a83f7911-6e31-401c-9d00-28ce1a36e441/ogi1-hyundai-rm19-002.jpg",
-         "title" : "Hyundai RM20e is the ultimate electric hot hatch - CNET",
-         "content" : "Holy smokes is this thing cool.\r\nHyundai\r\nRemember Hyundai's awesome little mid-engine RM19 concept that debuted at the 2019 Los Angeles Auto Show? I sure do; it's amazing. So how does Hyundai one-up… [+1716 chars]",
          "source" : {
-            "id" : null,
-            "name" : "CNET"
+            "name" : "CNET",
+            "id" : null
          }
       },
       {
-         "description" : "The concept car, which was supposed to grace the Geneva Motor Show before the pandemic hit, will be built in China.",
          "url" : "https://www.cnet.com/roadshow/news/polestar-precept-concept-car-production/",
-         "publishedAt" : "2020-09-26T04:42:00Z",
-         "source" : {
-            "id" : null,
-            "name" : "CNET"
-         },
-         "content" : "This will become reality. Some day.\r\nPolestar\r\nPolestar strongly hinted that its Precept concept car was an indicator for the newly minted brand's future, but we now know it had grander intentions. T… [+1620 chars]",
-         "title" : "Great news! The Polestar Precept will enter production - CNET",
-         "urlToImage" : "https://cnet4.cbsistatic.com/img/HiP3L0ZawFUSAd0qdfORmPSdz1Y=/1200x630/2020/04/06/da3dcfc1-5f51-4a11-bb21-e318a5974c5b/polestar-precept-ogi-1.jpg",
-         "author" : "Sean Szymkowski"
-      },
-      {
-         "url" : "https://www.cnet.com/roadshow/news/2021-audi-q5-sportback-debut/",
-         "description" : "Audi restyled is popular Q5 utility vehicle to create a family hauler with more rakish proportions.",
-         "publishedAt" : "2020-09-26T04:00:04Z",
-         "content" : "That roofline is pretty sexy.\r\nAudi\r\nAudi is expanding the growing coupe-inspired crossover segment, what we at Roadshow call the coupeover. Late Friday, Audi unveiled its new Q5 Sportback, a versati… [+5556 chars]",
-         "title" : "2021 Audi Q5 Sportback is yet another coupe-inspired crossover - CNET",
+         "description" : "The concept car, which was supposed to grace the Geneva Motor Show before the pandemic hit, will be built in China.",
          "source" : {
             "name" : "CNET",
             "id" : null
          },
-         "urlToImage" : "https://cnet1.cbsistatic.com/img/gw7bl9HXDlvnh7cRKl_KPo4EEjg=/1200x630/2020/09/24/cb680ab4-de4a-49ae-b965-2302d8940262/2021-audi-q5-sportback-ogi1.jpg",
-         "author" : "Craig Cole"
+         "urlToImage" : "https://cnet4.cbsistatic.com/img/HiP3L0ZawFUSAd0qdfORmPSdz1Y=/1200x630/2020/04/06/da3dcfc1-5f51-4a11-bb21-e318a5974c5b/polestar-precept-ogi-1.jpg",
+         "content" : "This will become reality. Some day.\r\nPolestar\r\nPolestar strongly hinted that its Precept concept car was an indicator for the newly minted brand's future, but we now know it had grander intentions. T… [+1620 chars]",
+         "publishedAt" : "2020-09-26T04:42:00Z",
+         "title" : "Great news! The Polestar Precept will enter production - CNET",
+         "author" : "Sean Szymkowski"
       },
       {
-         "author" : "Gwynn Guilford, Charity L. Scott",
-         "urlToImage" : "https://images.wsj.net/im-236748/social",
+         "urlToImage" : "https://cnet1.cbsistatic.com/img/gw7bl9HXDlvnh7cRKl_KPo4EEjg=/1200x630/2020/09/24/cb680ab4-de4a-49ae-b965-2302d8940262/2021-audi-q5-sportback-ogi1.jpg",
+         "content" : "That roofline is pretty sexy.\r\nAudi\r\nAudi is expanding the growing coupe-inspired crossover segment, what we at Roadshow call the coupeover. Late Friday, Audi unveiled its new Q5 Sportback, a versati… [+5556 chars]",
+         "author" : "Craig Cole",
+         "publishedAt" : "2020-09-26T04:00:04Z",
+         "title" : "2021 Audi Q5 Sportback is yet another coupe-inspired crossover - CNET",
+         "url" : "https://www.cnet.com/roadshow/news/2021-audi-q5-sportback-debut/",
+         "description" : "Audi restyled is popular Q5 utility vehicle to create a family hauler with more rakish proportions.",
          "source" : {
-            "name" : "The Wall Street Journal",
-            "id" : "the-wall-street-journal"
-         },
+            "name" : "CNET",
+            "id" : null
+         }
+      },
+      {
          "content" : "The pandemic forced hundreds of thousands of small businesses to close. For Madison Schneider, it was a good time to start a new one. \r\nThe 22-year-old in Haviland, Kan., opened Lelas Bakery and Coff… [+171 chars]",
+         "urlToImage" : "https://images.wsj.net/im-236748/social",
          "title" : "Is It Insane to Start a Business During Coronavirus? Millions of Americans Don’t Think So. - The Wall Street Journal",
          "publishedAt" : "2020-09-26T04:00:00Z",
+         "author" : "Gwynn Guilford, Charity L. Scott",
          "url" : "https://www.wsj.com/articles/is-it-insane-to-start-a-business-during-coronavirus-millions-of-americans-dont-think-so-11601092841",
+         "source" : {
+            "id" : "the-wall-street-journal",
+            "name" : "The Wall Street Journal"
+         },
          "description" : "The pandemic closed hundreds of thousands of businesses across the country. But now applications for new U.S. businesses are rising at the fastest rate since 2007. Why? A mix of necessity and opportunity."
       },
       {
-         "publishedAt" : "2020-09-26T03:26:00Z",
          "url" : "https://www.wesh.com/article/89-year-old-pizza-delivery-driver-gets-12-000-tip-surprise-from-tiktok-family/34162055",
-         "description" : "The tables quickly turned for an 89-year-old pizza delivery driver who received a surprise delivery of his own from regulars on his route — a $12,000 tip.",
-         "author" : null,
          "source" : {
             "id" : null,
             "name" : "WESH Orlando"
          },
+         "description" : "The tables quickly turned for an 89-year-old pizza delivery driver who received a surprise delivery of his own from regulars on his route — a $12,000 tip.",
          "content" : "ROY, Utah —The tables quickly turned for an 89-year-old pizza delivery driver who received a surprise delivery of his own from regulars on his route a $12,000 tip.\r\nDerlin Newey was in disbelief Tues… [+1784 chars]",
+         "urlToImage" : "https://kubrick.htvapps.com/vidthumb/images/tiktok-pizza0-1601059227.jpg?crop=1xw:1xh;center,top&resize=1200:*",
          "title" : "'How do I ever say thank you?' 89-year-old pizza delivery driver gets $12000 tip surprise from 'TikTok Family' - WESH Orlando",
-         "urlToImage" : "https://kubrick.htvapps.com/vidthumb/images/tiktok-pizza0-1601059227.jpg?crop=1xw:1xh;center,top&resize=1200:*"
+         "publishedAt" : "2020-09-26T03:26:00Z",
+         "author" : null
       },
       {
-         "publishedAt" : "2020-09-26T02:46:00Z",
-         "description" : "Hawaiian Air CEO Peter Ingram said the partnership is helping to build “momentum” for a comeback.",
-         "url" : "https://www.hawaiinewsnow.com/2020/09/25/momentum-building-hawaiian-airline-launches-testing-program/",
-         "author" : "Mahealani Richardson",
-         "source" : {
-            "name" : "Hawaii News Now",
-            "id" : null
-         },
+         "urlToImage" : "https://www.hawaiinewsnow.com/resizer/FjAPbWPDhc3U3FI3bI3fwzM_jEg=/1200x0/cloudfront-us-east-1.images.arcpublishing.com/raycom/WVE235PAG5ACBBSDNZT7VG65XE.jpg",
          "content" : "On Friday, Hawaiian Air announced it will provide drive-thru testing at labs near Los Angeles and San Francisco international airports starting Oct. 15. The testing, in partnership with Worksite Labs… [+1774 chars]",
+         "author" : "Mahealani Richardson",
+         "publishedAt" : "2020-09-26T02:46:00Z",
          "title" : "Hawaiian Airlines sees ‘momentum building’ as it prepares to launch testing program - Hawaii News Now",
-         "urlToImage" : "https://www.hawaiinewsnow.com/resizer/FjAPbWPDhc3U3FI3bI3fwzM_jEg=/1200x0/cloudfront-us-east-1.images.arcpublishing.com/raycom/WVE235PAG5ACBBSDNZT7VG65XE.jpg"
-      },
-      {
-         "publishedAt" : "2020-09-26T02:35:00Z",
-         "description" : "About 3,500 U.S. companies, including Tesla Inc <TSLA.O>, Ford Motor Co <F.N>, Target Corp <TGT.N>, Walgreen Co <WBA.O> and Home Depot <HD.N> have sued the Trump administration in the last two weeks over the imposition of tariffs on more than $300 billion (£2…",
-         "url" : "https://www.reuters.com/article/usa-china-tariffs-idUSKCN26H03S",
-         "author" : "David Shepardson",
-         "urlToImage" : "https://static.reuters.com/resources/r/?m=02&d=20200926&t=2&i=1534987124&r=LYNXNPEG8P026&w=800",
-         "content" : "WASHINGTON (Reuters) - About 3,500 U.S. companies, including Tesla Inc TSLA.O, Ford Motor Co F.N, Target Corp TGT.N, Walgreen Co WBA.O and Home Depot HD.N have sued the Trump administration in the la… [+2636 chars]",
-         "title" : "Some 3,500 U.S. companies sue over Trump-imposed Chinese tariffs - Reuters",
+         "url" : "https://www.hawaiinewsnow.com/2020/09/25/momentum-building-hawaiian-airline-launches-testing-program/",
+         "description" : "Hawaiian Air CEO Peter Ingram said the partnership is helping to build “momentum” for a comeback.",
          "source" : {
-            "id" : "reuters",
-            "name" : "Reuters"
+            "id" : null,
+            "name" : "Hawaii News Now"
          }
       },
       {
-         "publishedAt" : "2020-09-26T00:59:35Z",
-         "description" : "The United Food and Commercial Workers International Union said Friday that 56,000Stop and Shop workers will be getting retroactive bonus pay because of the pandemic. The employees will now get a lump sum of 10 percent of their hours worked between July 5 and…",
+         "url" : "https://www.reuters.com/article/usa-china-tariffs-idUSKCN26H03S",
+         "source" : {
+            "id" : "reuters",
+            "name" : "Reuters"
+         },
+         "description" : "About 3,500 U.S. companies, including Tesla Inc <TSLA.O>, Ford Motor Co <F.N>, Target Corp <TGT.N>, Walgreen Co <WBA.O> and Home Depot <HD.N> have sued the Trump administration in the last two weeks over the imposition of tariffs on more than $300 billion (£2…",
+         "content" : "WASHINGTON (Reuters) - About 3,500 U.S. companies, including Tesla Inc TSLA.O, Ford Motor Co F.N, Target Corp TGT.N, Walgreen Co WBA.O and Home Depot HD.N have sued the Trump administration in the la… [+2636 chars]",
+         "urlToImage" : "https://static.reuters.com/resources/r/?m=02&d=20200926&t=2&i=1534987124&r=LYNXNPEG8P026&w=800",
+         "title" : "Some 3,500 U.S. companies sue over Trump-imposed Chinese tariffs - Reuters",
+         "publishedAt" : "2020-09-26T02:35:00Z",
+         "author" : "David Shepardson"
+      },
+      {
          "url" : "http://turnto10.com/news/local/stop-and-shop-workers-to-receive-retroactive-bonus-pay",
-         "author" : "NBC 10 NEWS",
-         "content" : null,
-         "title" : "Stop and Shop workers to receive retroactive bonus pay - WJAR",
          "source" : {
             "id" : null,
             "name" : "Turn to 10"
          },
-         "urlToImage" : "http://static-16.sinclairstoryline.com/resources/media/81be51ca-6b52-45b5-b6e2-a30c5246edd8-large16x9_5AMVO.transfer_frame_106.jpg?1601081609710"
+         "description" : "The United Food and Commercial Workers International Union said Friday that 56,000Stop and Shop workers will be getting retroactive bonus pay because of the pandemic. The employees will now get a lump sum of 10 percent of their hours worked between July 5 and…",
+         "content" : null,
+         "urlToImage" : "http://static-16.sinclairstoryline.com/resources/media/81be51ca-6b52-45b5-b6e2-a30c5246edd8-large16x9_5AMVO.transfer_frame_106.jpg?1601081609710",
+         "author" : "NBC 10 NEWS",
+         "title" : "Stop and Shop workers to receive retroactive bonus pay - WJAR",
+         "publishedAt" : "2020-09-26T00:59:35Z"
       },
       {
-         "author" : "Johnna Crider",
-         "urlToImage" : "https://cleantechnica.com/files/2020/09/1-2020-Annual-Shareholder-Meeting-and-Battery-Day-YouTube.png",
+         "url" : "https://cleantechnica.com/2020/09/25/tesla-model-y-was-the-smoothest-tesla-launch-yet/",
+         "description" : "During Tesla's annual shareholder meeting this week, Elon Musk shared that out of all the launches so far, the launch of Tesla's Model Y was the smoothest",
          "source" : {
             "id" : null,
             "name" : "CleanTechnica"
          },
+         "urlToImage" : "https://cleantechnica.com/files/2020/09/1-2020-Annual-Shareholder-Meeting-and-Battery-Day-YouTube.png",
          "content" : "CarsPublished on September 25th, 2020 |\r\n by Johnna Crider\r\n0\r\nSeptember 25th, 2020 by Johnna Crider \r\nDuring Tesla’s annual shareholder meeting this week, Elon Musk shared that out of all the launch… [+4108 chars]",
-         "title" : "Tesla Model Y Was The Smoothest Tesla Launch Yet - CleanTechnica",
          "publishedAt" : "2020-09-26T00:21:43Z",
-         "url" : "https://cleantechnica.com/2020/09/25/tesla-model-y-was-the-smoothest-tesla-launch-yet/",
-         "description" : "During Tesla's annual shareholder meeting this week, Elon Musk shared that out of all the launches so far, the launch of Tesla's Model Y was the smoothest"
+         "title" : "Tesla Model Y Was The Smoothest Tesla Launch Yet - CleanTechnica",
+         "author" : "Johnna Crider"
       },
       {
-         "description" : "While bars remain closed, restaurants in New Orleans can now serve to-go alcoholic drinks, easing the Covid-19 restrictions.",
-         "url" : "https://www.cnn.com/2020/09/25/us/new-orleans-to-go-drinks-covid-trnd/index.html",
-         "publishedAt" : "2020-09-26T00:00:00Z",
          "source" : {
             "id" : "cnn",
             "name" : "CNN"
          },
-         "content" : null,
+         "description" : "While bars remain closed, restaurants in New Orleans can now serve to-go alcoholic drinks, easing the Covid-19 restrictions.",
+         "url" : "https://www.cnn.com/2020/09/25/us/new-orleans-to-go-drinks-covid-trnd/index.html",
          "title" : "New Orleans restaurants can now serve alcoholic beverages as to-go drinks - CNN",
-         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200925191705-new-orleans-drink-file-super-tease.jpg",
-         "author" : "Leah Asmelash and Jennifer Henderson, CNN"
+         "publishedAt" : "2020-09-26T00:00:00Z",
+         "author" : "Leah Asmelash and Jennifer Henderson, CNN",
+         "content" : null,
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200925191705-new-orleans-drink-file-super-tease.jpg"
       },
       {
-         "url" : "https://www.fool.com/investing/2020/09/25/what-correction-sp-500-surges-as-apple-leads-tech/",
+         "source" : {
+            "name" : "Motley Fool",
+            "id" : null
+         },
          "description" : "One analyst says it's time to buy cruise stocks, and a bunch of investors are already there on Big Tech.",
-         "publishedAt" : "2020-09-25T23:58:41Z",
-         "content" : "Investors apparently aren't interested in seeing another stock market correction -- at least not this week. The S&amp;P 500 Index (SNPINDEX:^%GSPC) gained 51.9 points, or 1.6%, on Sept. 25. Today's m… [+5257 chars]",
+         "url" : "https://www.fool.com/investing/2020/09/25/what-correction-sp-500-surges-as-apple-leads-tech/",
          "title" : "What Correction? S&P 500 Surges as Apple Leads Tech Stock Boom and Cruise Stocks Rise; Oil Stocks Fall - Motley Fool",
-         "source" : {
-            "id" : null,
-            "name" : "Motley Fool"
-         },
-         "urlToImage" : "https://g.foolcdn.com/editorial/images/593031/hands-reaching-for-money.jpg",
-         "author" : "Jason Hall"
+         "publishedAt" : "2020-09-25T23:58:41Z",
+         "author" : "Jason Hall",
+         "content" : "Investors apparently aren't interested in seeing another stock market correction -- at least not this week. The S&amp;P 500 Index (SNPINDEX:^%GSPC) gained 51.9 points, or 1.6%, on Sept. 25. Today's m… [+5257 chars]",
+         "urlToImage" : "https://g.foolcdn.com/editorial/images/593031/hands-reaching-for-money.jpg"
       },
       {
-         "publishedAt" : "2020-09-25T23:58:00Z",
-         "url" : "https://www.8newsnow.com/news/local-news/gov-sisolak-announces-some-covid-19-restrictions-will-be-lifted-clark-county-leader-makes-recommendations-for-reopening/",
+         "source" : {
+            "name" : "KLAS - 8 News Now",
+            "id" : null
+         },
          "description" : "LAS VEGAS (KLAS) — The 50-person limit on group gatherings in Nevada due to the coronavirus is expected to change next week.",
+         "url" : "https://www.8newsnow.com/news/local-news/gov-sisolak-announces-some-covid-19-restrictions-will-be-lifted-clark-county-leader-makes-recommendations-for-reopening/",
          "author" : "Orko Manna",
-         "urlToImage" : "https://www.8newsnow.com/wp-content/uploads/sites/59/2020/09/Gov.-Sisolak-announces-some-COVID-19-restrictions-will-be-lifted-Clark-County-leader-makes-recommendations-for-reopening.jpg?w=1280",
-         "source" : {
-            "id" : null,
-            "name" : "KLAS - 8 News Now"
-         },
+         "title" : "Gov. Sisolak announces some COVID-19 restrictions will be lifted; Clark County leader makes recommendations for reopening - KLAS - 8 News Now",
+         "publishedAt" : "2020-09-25T23:58:00Z",
          "content" : "LAS VEGAS (KLAS)  The 50-person limit on group gatherings in Nevada due to the coronavirus is expected to change next week.\r\nGovernor Sisolak announced Friday afternoon that he will also lift certain… [+2220 chars]",
-         "title" : "Gov. Sisolak announces some COVID-19 restrictions will be lifted; Clark County leader makes recommendations for reopening - KLAS - 8 News Now"
+         "urlToImage" : "https://www.8newsnow.com/wp-content/uploads/sites/59/2020/09/Gov.-Sisolak-announces-some-COVID-19-restrictions-will-be-lifted-Clark-County-leader-makes-recommendations-for-reopening.jpg?w=1280"
       },
       {
-         "author" : "Caitlin Lilly",
+         "url" : "https://www.fox5vegas.com/coronavirus/planet-hollywood-to-reopen-on-las-vegas-strip-on-oct-8/article_38c667ca-ff83-11ea-862a-13ff13fbf72d.html",
+         "description" : "LAS VEGAS (FOX5) -- Caesars Entertainment on Friday announced that it will reopen Planet Hollywood Resort &amp; Casino on Oct. 8.",
          "source" : {
             "name" : "FOX5 Las Vegas",
             "id" : null
          },
-         "content" : "LAS VEGAS (FOX5) -- Caesars Entertainment on Friday announced that it will reopen Planet Hollywood Resort &amp; Casino on Oct. 8.\r\nAccording to a news release, the property will reopen at 10 a.m.\r\nUp… [+1176 chars]",
-         "title" : "Planet Hollywood to reopen on Las Vegas Strip on Oct. 8 - FOX5 Las Vegas",
          "urlToImage" : "https://bloximages.newyork1.vip.townnews.com/fox5vegas.com/content/tncms/assets/v3/editorial/e/36/e36f7e64-ff83-11ea-ac08-e74270bd51b7/5f6e7893ad7f9.image.jpg?resize=759%2C504",
+         "content" : "LAS VEGAS (FOX5) -- Caesars Entertainment on Friday announced that it will reopen Planet Hollywood Resort &amp; Casino on Oct. 8.\r\nAccording to a news release, the property will reopen at 10 a.m.\r\nUp… [+1176 chars]",
          "publishedAt" : "2020-09-25T23:02:00Z",
-         "description" : "LAS VEGAS (FOX5) -- Caesars Entertainment on Friday announced that it will reopen Planet Hollywood Resort &amp; Casino on Oct. 8.",
-         "url" : "https://www.fox5vegas.com/coronavirus/planet-hollywood-to-reopen-on-las-vegas-strip-on-oct-8/article_38c667ca-ff83-11ea-862a-13ff13fbf72d.html"
+         "title" : "Planet Hollywood to reopen on Las Vegas Strip on Oct. 8 - FOX5 Las Vegas",
+         "author" : "Caitlin Lilly"
       },
       {
          "author" : "Rachael Rettner",
+         "title" : "A Man Has Died After Eating Bags of Black Licorice Daily - ScienceAlert",
+         "publishedAt" : "2020-09-25T22:44:20Z",
+         "content" : "A man in Massachusetts died after eating too much black licorice\r\n, which contains a compound known to be toxic in large doses, according to a new report.\r\nThe 54-year-old man was in a fast food rest… [+2317 chars]",
+         "urlToImage" : "https://cdn.mos.cms.futurecdn.net/k3J3FjLdqm7qXs9swKSRZD-1200-80.jpg",
          "source" : {
             "id" : null,
             "name" : "Live Science"
          },
-         "content" : "A man in Massachusetts died after eating too much black licorice\r\n, which contains a compound known to be toxic in large doses, according to a new report.\r\nThe 54-year-old man was in a fast food rest… [+2317 chars]",
-         "title" : "A Man Has Died After Eating Bags of Black Licorice Daily - ScienceAlert",
-         "urlToImage" : "https://cdn.mos.cms.futurecdn.net/k3J3FjLdqm7qXs9swKSRZD-1200-80.jpg",
-         "publishedAt" : "2020-09-25T22:44:20Z",
          "description" : "Black licorice contains a compound known to be toxic in large doses.",
          "url" : "https://www.livescience.com/black-licorice-death.html"
       },
       {
+         "publishedAt" : "2020-09-25T22:23:29Z",
+         "title" : "IRS may revise 1040 to coax taxpayers into reporting crypto transactions - Fox Business",
          "author" : "Brittany De Lea",
+         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/07/0/0/tax-return-filing-iStock.jpg?ve=1&tl=1",
+         "content" : "The IRS may update its Form 1040 to make sure all taxpayers who engage in cryptocurrency transactions report them.\r\nA draft of the 2020 tax form includes a question asking taxpayers whether they have… [+1334 chars]",
+         "description" : "Taxpayers who fail to pay taxes on virtual currency transactions may face penalties and interest.",
          "source" : {
             "name" : "Fox Business",
             "id" : null
          },
-         "content" : "The IRS may update its Form 1040 to make sure all taxpayers who engage in cryptocurrency transactions report them.\r\nA draft of the 2020 tax form includes a question asking taxpayers whether they have… [+1334 chars]",
-         "title" : "IRS may revise 1040 to coax taxpayers into reporting crypto transactions - Fox Business",
-         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/07/0/0/tax-return-filing-iStock.jpg?ve=1&tl=1",
-         "publishedAt" : "2020-09-25T22:23:29Z",
-         "description" : "Taxpayers who fail to pay taxes on virtual currency transactions may face penalties and interest.",
          "url" : "https://www.foxbusiness.com/personal-finance/irs-1040-update-taxpayers-crypto-transactions"
       },
       {
-         "content" : "Three potential coronavirus vaccines are kept in a tray at Novavax labs in Gaithersburg, Md., in March 2020. The company has moved into phase 3 trials in the U.K.\r\nAndrew Caballero-Reynolds/AFP via G… [+4500 chars]",
-         "title" : "Novavax Researcher Says No Chance Of A 'Shortcut' In Vaccine Safety - NPR",
+         "url" : "https://www.npr.org/sections/coronavirus-live-updates/2020/09/25/916957152/novavax-researcher-says-no-chance-of-a-shortcut-in-vaccine-safety",
+         "description" : "Vaccine maker Novavax is starting a large coronavirus vaccine trial in the U.K. Gregory Glenn, the company's president of research and development, talks with NPR about how vaccines are tested.",
          "source" : {
             "id" : null,
             "name" : "NPR"
          },
          "urlToImage" : "https://media.npr.org/assets/img/2020/09/25/gettyimages-1207850748_wide-4fa3f188d6eaf70e6851feb6d46075aee0feb1b3.jpg?s=1400",
-         "author" : "James Doubek",
-         "description" : "Vaccine maker Novavax is starting a large coronavirus vaccine trial in the U.K. Gregory Glenn, the company's president of research and development, talks with NPR about how vaccines are tested.",
-         "url" : "https://www.npr.org/sections/coronavirus-live-updates/2020/09/25/916957152/novavax-researcher-says-no-chance-of-a-shortcut-in-vaccine-safety",
-         "publishedAt" : "2020-09-25T22:18:22Z"
+         "content" : "Three potential coronavirus vaccines are kept in a tray at Novavax labs in Gaithersburg, Md., in March 2020. The company has moved into phase 3 trials in the U.K.\r\nAndrew Caballero-Reynolds/AFP via G… [+4500 chars]",
+         "publishedAt" : "2020-09-25T22:18:22Z",
+         "title" : "Novavax Researcher Says No Chance Of A 'Shortcut' In Vaccine Safety - NPR",
+         "author" : "James Doubek"
       },
       {
+         "urlToImage" : "https://d32r1sh890xpii.cloudfront.net/article/718x300/2020-09-25_e4vgojar8q.jpg",
+         "content" : "International oil giants BP and…\r\nThe U.S. industrial sector saw…\r\nRallying from a seven-week low…\r\nBy Tsvetana Paraskova - Sep 25, 2020, 5:00 PM CDTThe highly volatile U.S. natural gas benchmark pri… [+4827 chars]",
+         "publishedAt" : "2020-09-25T22:00:00Z",
+         "title" : "Why Natural Gas Prices Are Set To Soar - OilPrice.com",
          "author" : "Tsvetana Paraskova",
+         "url" : "https://oilprice.com/Energy/Natural-Gas/Why-Natural-Gas-Prices-Are-Set-To-Soar.html",
+         "description" : "After years of low natural gas prices, fundamentals are beginning to improve, and this week's rally in gas futures sets the stage for higher gas prices this winter",
          "source" : {
             "id" : null,
             "name" : "OilPrice.com"
-         },
-         "content" : "International oil giants BP and…\r\nThe U.S. industrial sector saw…\r\nRallying from a seven-week low…\r\nBy Tsvetana Paraskova - Sep 25, 2020, 5:00 PM CDTThe highly volatile U.S. natural gas benchmark pri… [+4827 chars]",
-         "title" : "Why Natural Gas Prices Are Set To Soar - OilPrice.com",
-         "urlToImage" : "https://d32r1sh890xpii.cloudfront.net/article/718x300/2020-09-25_e4vgojar8q.jpg",
-         "publishedAt" : "2020-09-25T22:00:00Z",
-         "description" : "After years of low natural gas prices, fundamentals are beginning to improve, and this week's rally in gas futures sets the stage for higher gas prices this winter",
-         "url" : "https://oilprice.com/Energy/Natural-Gas/Why-Natural-Gas-Prices-Are-Set-To-Soar.html"
+         }
       }
    ],
-   "totalResults" : 70,
    "status" : "ok"
 }
