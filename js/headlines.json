@@ -1,266 +1,266 @@
 {
    "articles" : [
       {
-         "source" : {
-            "id" : "cnn",
-            "name" : "CNN"
-         },
-         "content" : null,
-         "author" : "Leah Asmelash and Jennifer Henderson, CNN",
-         "description" : "While bars remain closed, restaurants in New Orleans can now serve to-go alcoholic drinks, easing the Covid-19 restrictions.",
-         "url" : "https://www.cnn.com/2020/09/25/us/new-orleans-to-go-drinks-covid-trnd/index.html",
-         "title" : "New Orleans restaurants can now serve alcoholic beverages as to-go drinks - CNN",
          "publishedAt" : "2020-09-26T00:00:00Z",
-         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200925191705-new-orleans-drink-file-super-tease.jpg"
+         "description" : "While bars remain closed, restaurants in New Orleans can now serve to-go alcoholic drinks, easing the Covid-19 restrictions.",
+         "title" : "New Orleans restaurants can now serve alcoholic beverages as to-go drinks - CNN",
+         "source" : {
+            "name" : "CNN",
+            "id" : "cnn"
+         },
+         "author" : "Leah Asmelash and Jennifer Henderson, CNN",
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200925191705-new-orleans-drink-file-super-tease.jpg",
+         "content" : null,
+         "url" : "https://www.cnn.com/2020/09/25/us/new-orleans-to-go-drinks-covid-trnd/index.html"
       },
       {
+         "content" : "Boulder on Friday issued an emergency order prohibiting alcohol sales at bars, restaurants and clubs after 10 p.m. in response to the city’s increase in coronavirus cases.\r\nThe order went into effect… [+4102 chars]",
          "url" : "http://www.denverpost.com/2020/09/25/emergency-order-prohibits-alcohol-sales-in-boulder-bars-restaurants-after-10-p-m/",
-         "publishedAt" : "2020-09-25T23:40:00Z",
-         "urlToImage" : "https://www.denverpost.com/wp-content/uploads/2020/09/20130622_23DCPBAR-1.jpg?w=512&h=335",
-         "title" : "Emergency order prohibits alcohol sales in Boulder bars, restaurants after 10 p.m. - The Denver Post",
          "source" : {
             "name" : "The Denver Post",
             "id" : null
          },
-         "description" : "Boulder on Friday issued an emergency order prohibiting alcohol sales at bars and restaurants after 10 p.m. in response to the city’s increase in coronavirus cases.",
-         "content" : "Boulder on Friday issued an emergency order prohibiting alcohol sales at bars, restaurants and clubs after 10 p.m. in response to the city’s increase in coronavirus cases.\r\nThe order went into effect… [+4102 chars]",
-         "author" : "Brooklyn Dance"
+         "author" : "Brooklyn Dance",
+         "urlToImage" : "https://www.denverpost.com/wp-content/uploads/2020/09/20130622_23DCPBAR-1.jpg?w=512&h=335",
+         "title" : "Emergency order prohibits alcohol sales in Boulder bars, restaurants after 10 p.m. - The Denver Post",
+         "publishedAt" : "2020-09-25T23:40:00Z",
+         "description" : "Boulder on Friday issued an emergency order prohibiting alcohol sales at bars and restaurants after 10 p.m. in response to the city’s increase in coronavirus cases."
       },
       {
-         "url" : "https://www.wgal.com/article/lancaster-and-harrisburg-announce-halloween-trick-or-treat-plans/34168485",
-         "publishedAt" : "2020-09-25T23:20:00Z",
-         "urlToImage" : "https://kubrick.htvapps.com/htv-prod/ibmig/cms/image/wgal/29243142-29243142.jpg?crop=1.00xw:0.752xh;0,0.148xh&resize=1200:*",
-         "title" : "Lancaster, Harrisburg announce trick-or-treating plans - WGAL Susquehanna Valley Pa.",
          "source" : {
             "id" : null,
             "name" : "WGAL Susquehanna Valley Pa."
          },
-         "description" : "WGAL News 8",
          "author" : "Kim Lemon",
-         "content" : "Lancaster and Harrisburg have announced Halloween plans.\r\nLancaster\r\nLancaster trick-or-treating will go on as scheduled from 6-8 p.m. Oct. 30.\r\nCity officials are encouraging families to consider lo… [+656 chars]"
+         "urlToImage" : "https://kubrick.htvapps.com/htv-prod/ibmig/cms/image/wgal/29243142-29243142.jpg?crop=1.00xw:0.752xh;0,0.148xh&resize=1200:*",
+         "content" : "Lancaster and Harrisburg have announced Halloween plans.\r\nLancaster\r\nLancaster trick-or-treating will go on as scheduled from 6-8 p.m. Oct. 30.\r\nCity officials are encouraging families to consider lo… [+656 chars]",
+         "url" : "https://www.wgal.com/article/lancaster-and-harrisburg-announce-halloween-trick-or-treat-plans/34168485",
+         "description" : "WGAL News 8",
+         "publishedAt" : "2020-09-25T23:20:00Z",
+         "title" : "Lancaster, Harrisburg announce trick-or-treating plans - WGAL Susquehanna Valley Pa."
       },
       {
+         "content" : "New York City restaurants will now be able to serve customers outside for good.\r\nMayor Bill de Blasio announced Friday that the city’s Open Restaurants Program, which was created in June as a tempora… [+2070 chars]",
          "url" : "https://www.foxnews.com/food-drink/nyc-outdoor-dining-permanent-de-blasio",
-         "urlToImage" : "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/nyc-dining-video-grab.jpg",
-         "publishedAt" : "2020-09-25T23:09:32Z",
-         "title" : "NYC outdoor dining will be 'permanent and year-round,' de Blasio says - Fox News",
          "source" : {
-            "name" : "Fox News",
-            "id" : "fox-news"
+            "id" : "fox-news",
+            "name" : "Fox News"
          },
-         "description" : "New York City Mayor Bill de Blasio announced Friday that the city’s Open Restaurants Program would become permanent.",
          "author" : "Ann Schmidt",
-         "content" : "New York City restaurants will now be able to serve customers outside for good.\r\nMayor Bill de Blasio announced Friday that the city’s Open Restaurants Program, which was created in June as a tempora… [+2070 chars]"
+         "urlToImage" : "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/nyc-dining-video-grab.jpg",
+         "title" : "NYC outdoor dining will be 'permanent and year-round,' de Blasio says - Fox News",
+         "publishedAt" : "2020-09-25T23:09:32Z",
+         "description" : "New York City Mayor Bill de Blasio announced Friday that the city’s Open Restaurants Program would become permanent."
       },
       {
-         "title" : "Cramer recommends Palantir at the right price, but says its governance is most 'egregious' since WeWork - CNBC",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/104169213-RTX2V2WZ.jpg?v=1601073295",
-         "publishedAt" : "2020-09-25T22:48:00Z",
-         "url" : "https://www.cnbc.com/2020/09/25/jim-cramer-palantir-is-a-buy-at-right-price-ahead-of-direct-listing.html",
-         "content" : "CNBC's Jim Cramer on Friday expressed some concerns about Palantir Technologies' upcoming public market debut, saying he sees positive trend lines in the company's financials but worried about the po… [+4249 chars]",
-         "author" : "Kevin Stankiewicz",
          "description" : "\"If you can get Palantir for around $10, or ideally less on a pullback, you've got my blessing to buy it,\" said \"Mad Money\" host Jim Cramer.",
+         "publishedAt" : "2020-09-25T22:48:00Z",
+         "title" : "Cramer recommends Palantir at the right price, but says its governance is most 'egregious' since WeWork - CNBC",
+         "author" : "Kevin Stankiewicz",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/104169213-RTX2V2WZ.jpg?v=1601073295",
          "source" : {
             "id" : null,
             "name" : "CNBC"
-         }
+         },
+         "url" : "https://www.cnbc.com/2020/09/25/jim-cramer-palantir-is-a-buy-at-right-price-ahead-of-direct-listing.html",
+         "content" : "CNBC's Jim Cramer on Friday expressed some concerns about Palantir Technologies' upcoming public market debut, saying he sees positive trend lines in the company's financials but worried about the po… [+4249 chars]"
       },
       {
-         "publishedAt" : "2020-09-25T22:31:00Z",
-         "urlToImage" : "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iXtq1IeKSmrY/v1/1200x800.jpg",
          "title" : "Ray Dalio Sees Enemy Within as He Ponders U.S.-China Clash - Bloomberg",
-         "url" : "https://www.bloomberg.com/news/articles/2020-09-25/ray-dalio-sees-enemy-within-as-he-ponders-u-s-china-clash",
          "description" : "Ray Dalio used the latest installment of his ongoing series on the changing world order to identify clear red lines that, if crossed, could result in a deadly war between China and the U.S., but the real enemy in the conflict may lie within.",
+         "publishedAt" : "2020-09-25T22:31:00Z",
+         "url" : "https://www.bloomberg.com/news/articles/2020-09-25/ray-dalio-sees-enemy-within-as-he-ponders-u-s-china-clash",
          "content" : "Ray Dalio\r\nRay Dalio used the latest installment of his \r\nongoing series on the changing world order to identify clear red lines that, if crossed, could result in a deadly war between China and the U… [+3575 chars]",
          "author" : "Nathan Crooks",
+         "urlToImage" : "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iXtq1IeKSmrY/v1/1200x800.jpg",
          "source" : {
-            "name" : "Bloomberg",
-            "id" : "bloomberg"
+            "id" : "bloomberg",
+            "name" : "Bloomberg"
          }
       },
       {
-         "title" : "IRS may revise 1040 to coax taxpayers into reporting crypto transactions - Fox Business",
-         "publishedAt" : "2020-09-25T22:23:29Z",
-         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/07/0/0/tax-return-filing-iStock.jpg?ve=1&tl=1",
          "url" : "https://www.foxbusiness.com/personal-finance/irs-1040-update-taxpayers-crypto-transactions",
          "content" : "The IRS may update its Form 1040 to make sure all taxpayers who engage in cryptocurrency transactions report them.\r\nA draft of the 2020 tax form includes a question asking taxpayers whether they have… [+1334 chars]",
          "author" : "Brittany De Lea",
-         "description" : "Taxpayers who fail to pay taxes on virtual currency transactions may face penalties and interest.",
+         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/07/0/0/tax-return-filing-iStock.jpg?ve=1&tl=1",
          "source" : {
             "name" : "Fox Business",
             "id" : null
-         }
+         },
+         "title" : "IRS may revise 1040 to coax taxpayers into reporting crypto transactions - Fox Business",
+         "publishedAt" : "2020-09-25T22:23:29Z",
+         "description" : "Taxpayers who fail to pay taxes on virtual currency transactions may face penalties and interest."
       },
       {
-         "content" : "Enlarge/ Bulk black licorice candy.\r\n86 with 52 posters participating\r\nBecause 2020 hasnt provided enough extraordinary ways to die, the universe offers a grim reminder that eating too much licorice … [+5648 chars]",
-         "author" : "Beth Mole",
-         "description" : "The licorice plant naturally contains a toxin called glycyrrhizin.",
          "source" : {
-            "id" : "ars-technica",
-            "name" : "Ars Technica"
+            "name" : "Ars Technica",
+            "id" : "ars-technica"
          },
-         "title" : "Rare case of black licorice poisoning kills man in Massachusetts - Ars Technica",
-         "publishedAt" : "2020-09-25T22:20:00Z",
          "urlToImage" : "https://cdn.arstechnica.net/wp-content/uploads/2020/09/GettyImages-629540953-760x380.jpg",
-         "url" : "https://arstechnica.com/science/2020/09/rare-case-of-black-licorice-poisoning-kills-man-in-massachusetts/"
+         "author" : "Beth Mole",
+         "content" : "Enlarge/ Bulk black licorice candy.\r\n86 with 52 posters participating\r\nBecause 2020 hasnt provided enough extraordinary ways to die, the universe offers a grim reminder that eating too much licorice … [+5648 chars]",
+         "url" : "https://arstechnica.com/science/2020/09/rare-case-of-black-licorice-poisoning-kills-man-in-massachusetts/",
+         "publishedAt" : "2020-09-25T22:20:00Z",
+         "description" : "The licorice plant naturally contains a toxin called glycyrrhizin.",
+         "title" : "Rare case of black licorice poisoning kills man in Massachusetts - Ars Technica"
       },
       {
          "author" : "James Doubek",
-         "content" : "Three potential coronavirus vaccines are kept in a tray at Novavax labs in Gaithersburg, Md., in March 2020. The company has moved into phase 3 trials in the U.K.\r\nAndrew Caballero-Reynolds/AFP via G… [+4500 chars]",
-         "description" : "Vaccine maker Novavax is starting a large coronavirus vaccine trial in the U.K. Gregory Glenn, the company's president of research and development, talks with NPR about how vaccines are tested.",
+         "urlToImage" : "https://media.npr.org/assets/img/2020/09/25/gettyimages-1207850748_wide-4fa3f188d6eaf70e6851feb6d46075aee0feb1b3.jpg?s=1400",
          "source" : {
             "id" : null,
             "name" : "NPR"
          },
-         "title" : "Novavax Researcher Says No Chance Of A 'Shortcut' In Vaccine Safety - NPR",
-         "urlToImage" : "https://media.npr.org/assets/img/2020/09/25/gettyimages-1207850748_wide-4fa3f188d6eaf70e6851feb6d46075aee0feb1b3.jpg?s=1400",
+         "url" : "https://www.npr.org/sections/coronavirus-live-updates/2020/09/25/916957152/novavax-researcher-says-no-chance-of-a-shortcut-in-vaccine-safety",
+         "content" : "Three potential coronavirus vaccines are kept in a tray at Novavax labs in Gaithersburg, Md., in March 2020. The company has moved into phase 3 trials in the U.K.\r\nAndrew Caballero-Reynolds/AFP via G… [+4500 chars]",
          "publishedAt" : "2020-09-25T22:18:22Z",
-         "url" : "https://www.npr.org/sections/coronavirus-live-updates/2020/09/25/916957152/novavax-researcher-says-no-chance-of-a-shortcut-in-vaccine-safety"
+         "description" : "Vaccine maker Novavax is starting a large coronavirus vaccine trial in the U.K. Gregory Glenn, the company's president of research and development, talks with NPR about how vaccines are tested.",
+         "title" : "Novavax Researcher Says No Chance Of A 'Shortcut' In Vaccine Safety - NPR"
       },
       {
-         "author" : "Al Root",
-         "content" : "Tesla\r\n investors are experiencing an unusual down month for the stock, but news that could send it higher again is coming soon. In about a week, the company will report how many electric cars it del… [+3151 chars]",
+         "publishedAt" : "2020-09-25T22:13:00Z",
          "description" : "",
+         "title" : "How Tesla’s Next Deliveries Data Could Lift the EV Stock - Barron's",
          "source" : {
             "name" : "Barron's",
             "id" : null
          },
-         "title" : "How Tesla’s Next Deliveries Data Could Lift the EV Stock - Barron's",
-         "publishedAt" : "2020-09-25T22:13:00Z",
          "urlToImage" : "https://images.barrons.com/im-236551/social",
+         "author" : "Al Root",
+         "content" : "Tesla\r\n investors are experiencing an unusual down month for the stock, but news that could send it higher again is coming soon. In about a week, the company will report how many electric cars it del… [+3151 chars]",
          "url" : "https://www.barrons.com/articles/how-teslas-next-deliveries-data-could-lift-the-ev-stock-51601053137"
       },
       {
+         "url" : "https://oilprice.com/Energy/Natural-Gas/Why-Natural-Gas-Prices-Are-Set-To-Soar.html",
+         "content" : "International oil giants BP and…\r\nThe U.S. industrial sector saw…\r\nRallying from a seven-week low…\r\nBy Tsvetana Paraskova - Sep 25, 2020, 5:00 PM CDTThe highly volatile U.S. natural gas benchmark pri… [+4827 chars]",
+         "urlToImage" : "https://d32r1sh890xpii.cloudfront.net/article/718x300/2020-09-25_e4vgojar8q.jpg",
+         "author" : "Tsvetana Paraskova",
          "source" : {
             "name" : "OilPrice.com",
             "id" : null
          },
-         "description" : "After years of low natural gas prices, fundamentals are beginning to improve, and this week's rally in gas futures sets the stage for higher gas prices this winter",
-         "content" : "International oil giants BP and…\r\nThe U.S. industrial sector saw…\r\nRallying from a seven-week low…\r\nBy Tsvetana Paraskova - Sep 25, 2020, 5:00 PM CDTThe highly volatile U.S. natural gas benchmark pri… [+4827 chars]",
-         "author" : "Tsvetana Paraskova",
-         "url" : "https://oilprice.com/Energy/Natural-Gas/Why-Natural-Gas-Prices-Are-Set-To-Soar.html",
+         "title" : "Why Natural Gas Prices Are Set To Soar - OilPrice.com",
          "publishedAt" : "2020-09-25T22:00:00Z",
-         "urlToImage" : "https://d32r1sh890xpii.cloudfront.net/article/718x300/2020-09-25_e4vgojar8q.jpg",
-         "title" : "Why Natural Gas Prices Are Set To Soar - OilPrice.com"
+         "description" : "After years of low natural gas prices, fundamentals are beginning to improve, and this week's rally in gas futures sets the stage for higher gas prices this winter"
       },
       {
+         "title" : "Some 3,500 companies sue over Trump-imposed Chinese tariffs - Al Jazeera English",
+         "publishedAt" : "2020-09-25T21:47:13Z",
+         "description" : "They are challenging what they call the unlawful escalation of the US trade war with China via imposition of tariffs.",
+         "content" : "About 3,500 United States companies, including Tesla, Ford Motor, Target, Walgreens and Home Depot, have sued the Trump administration in the last two weeks over the imposition of tariffs on more tha… [+2218 chars]",
+         "url" : "https://www.aljazeera.com/economy/2020/9/25/some-3500-companies-sue-over-trump-imposed-chinese-tariffs",
          "source" : {
             "id" : "al-jazeera-english",
             "name" : "Al Jazeera English"
          },
          "author" : "Al Jazeera",
-         "content" : "About 3,500 United States companies, including Tesla, Ford Motor, Target, Walgreens and Home Depot, have sued the Trump administration in the last two weeks over the imposition of tariffs on more tha… [+2218 chars]",
-         "description" : "They are challenging what they call the unlawful escalation of the US trade war with China via imposition of tariffs.",
-         "url" : "https://www.aljazeera.com/economy/2020/9/25/some-3500-companies-sue-over-trump-imposed-chinese-tariffs",
-         "title" : "Some 3,500 companies sue over Trump-imposed Chinese tariffs - Al Jazeera English",
-         "publishedAt" : "2020-09-25T21:47:13Z",
          "urlToImage" : "https://www.aljazeera.com/wp-content/uploads/2020/09/trump.jpg?resize=1200%2C630"
       },
       {
-         "source" : {
-            "id" : null,
-            "name" : "Seeking Alpha"
-         },
-         "description" : "American Airlines (NASDAQ:AAL) is up 2.8% postmarket after agreeing to an upsized Treasury Dept. loan of $5.48B.",
          "content" : "American Airlines (NASDAQ:AAL) is up 2.8% postmarket after agreeing to an upsized Treasury Dept. loan of $5.48B.\r\nThe company also heard from the Treasury that it intends to allocate additional loans… [+206 chars]",
-         "author" : "Jason Aycock",
          "url" : "https://seekingalpha.com/news/3617462-american-airlinesplus-2_8-after-agreeing-to-5_5b-treasury-loan",
+         "source" : {
+            "name" : "Seeking Alpha",
+            "id" : null
+         },
          "urlToImage" : "https://static3.seekingalpha.com/assets/og_image_192-59bfd51c9fe6af025b2f9f96c807e46f8e2f06c5ae787b15bf1423e6c676d4db.png",
+         "author" : "Jason Aycock",
+         "title" : "American Airlines +2.8% after agreeing to $5.5B Treasury loan - Seeking Alpha",
          "publishedAt" : "2020-09-25T21:16:00Z",
-         "title" : "American Airlines +2.8% after agreeing to $5.5B Treasury loan - Seeking Alpha"
+         "description" : "American Airlines (NASDAQ:AAL) is up 2.8% postmarket after agreeing to an upsized Treasury Dept. loan of $5.48B."
       },
       {
+         "publishedAt" : "2020-09-25T20:45:00Z",
+         "description" : "Alphabet and Google CEO Sundar Pichai sent a stern note to employees following its massive settlement on sexual misconduct allegations.",
+         "title" : "Google CEO Sundar Pichai tells employees 'we are not going back in time' after sexual misconduct settlement - CNBC",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106479087-1588160623981preview.jpg?v=1595350043",
+         "author" : "Jennifer Elias",
          "source" : {
             "name" : "CNBC",
             "id" : null
          },
-         "author" : "Jennifer Elias",
-         "content" : "Alphabet and Google CEO Sundar Pichai sent a stern warning to all employees Friday, pointing them to a new settlement between the company and shareholders who alleged it did not respond appropriately… [+2224 chars]",
-         "description" : "Alphabet and Google CEO Sundar Pichai sent a stern note to employees following its massive settlement on sexual misconduct allegations.",
          "url" : "https://www.cnbc.com/2020/09/25/read-google-ceo-sundar-pichais-email-after-misconduct-settlement.html",
-         "title" : "Google CEO Sundar Pichai tells employees 'we are not going back in time' after sexual misconduct settlement - CNBC",
-         "publishedAt" : "2020-09-25T20:45:00Z",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106479087-1588160623981preview.jpg?v=1595350043"
+         "content" : "Alphabet and Google CEO Sundar Pichai sent a stern warning to all employees Friday, pointing them to a new settlement between the company and shareholders who alleged it did not respond appropriately… [+2224 chars]"
       },
       {
-         "url" : "https://www.investors.com/market-trend/stock-market-today/dow-jones-finishes-week-with-strong-gains-this-leaderboard-stock-is-in-buy-range/",
-         "publishedAt" : "2020-09-25T20:42:00Z",
-         "urlToImage" : "https://www.investors.com/wp-content/uploads/2019/10/stock-wall-street-flags-adobe.jpg",
          "title" : "Dow Jones Finishes The Week With Strong Gains; This Leaderboard Stock Is In Buy Range - Investor's Business Daily",
+         "publishedAt" : "2020-09-25T20:42:00Z",
+         "description" : "The Dow Jones Industrial Average posted strong gains in today's stock market, while the Nasdaq and S&P 500 ended the day higher.",
+         "content" : "The Dow Jones Industrial Average posted strong gains in today's stock market, while the Nasdaq and S&amp;P 500 ended the day higher.\r\nXThe Nasdaq composite rose 2.3%. The S&amp;P 500 and the Russell … [+4496 chars]",
+         "url" : "https://www.investors.com/market-trend/stock-market-today/dow-jones-finishes-week-with-strong-gains-this-leaderboard-stock-is-in-buy-range/",
          "source" : {
             "id" : null,
             "name" : "Investor's Business Daily"
          },
-         "description" : "The Dow Jones Industrial Average posted strong gains in today's stock market, while the Nasdaq and S&P 500 ended the day higher.",
-         "content" : "The Dow Jones Industrial Average posted strong gains in today's stock market, while the Nasdaq and S&amp;P 500 ended the day higher.\r\nXThe Nasdaq composite rose 2.3%. The S&amp;P 500 and the Russell … [+4496 chars]",
+         "urlToImage" : "https://www.investors.com/wp-content/uploads/2019/10/stock-wall-street-flags-adobe.jpg",
          "author" : "Investor's Business Daily"
       },
       {
-         "urlToImage" : "https://www.hawaiinewsnow.com/resizer/in-YZRLPn2xogwme7b4MM1d3zsY=/1200x0/cloudfront-us-east-1.images.arcpublishing.com/raycom/K7MVHMQFCJENLLOB5NCEFDAMIM.JPG",
+         "description" : "Restaurant employees are also being asked to check for the recalled dried mushrooms.",
          "publishedAt" : "2020-09-25T20:26:00Z",
          "title" : "CDC recalls dried mushrooms linked to salmonella outbreak - Hawaii News Now",
-         "url" : "https://www.hawaiinewsnow.com/2020/09/25/cdc-recalls-dried-mushrooms-linked-multi-state-salmonella-outbreak/",
-         "description" : "Restaurant employees are also being asked to check for the recalled dried mushrooms.",
-         "content" : "HONOLULU, Hawaii (HawaiiNewsNow) - The CDC has recalled dried wood ear mushrooms distributed by Wismettac Asian Foods because they are linked to a multi-state outbreak of salmonella.\r\nThe mushrooms w… [+559 chars]",
-         "author" : "HNN Staff",
          "source" : {
             "name" : "Hawaii News Now",
             "id" : null
-         }
+         },
+         "author" : "HNN Staff",
+         "urlToImage" : "https://www.hawaiinewsnow.com/resizer/in-YZRLPn2xogwme7b4MM1d3zsY=/1200x0/cloudfront-us-east-1.images.arcpublishing.com/raycom/K7MVHMQFCJENLLOB5NCEFDAMIM.JPG",
+         "content" : "HONOLULU, Hawaii (HawaiiNewsNow) - The CDC has recalled dried wood ear mushrooms distributed by Wismettac Asian Foods because they are linked to a multi-state outbreak of salmonella.\r\nThe mushrooms w… [+559 chars]",
+         "url" : "https://www.hawaiinewsnow.com/2020/09/25/cdc-recalls-dried-mushrooms-linked-multi-state-salmonella-outbreak/"
       },
       {
-         "author" : "Kim Lyons",
-         "content" : "The EU says Ireland gave Apple a deal to pay less taxes, but a court annulled the judgment in July\r\nIllustration by Alex Castro / The Verge\r\nThe European Commission is appealing a July court judgment… [+2361 chars]",
+         "title" : "EU Commission to appeal Apple ruling in Ireland over $14.9 billion tax case - The Verge",
+         "publishedAt" : "2020-09-25T20:23:17Z",
          "description" : "The EU says Apple should pay Ireland back taxes, but a court overturned that judgement in July. Now, the EU is appealing the decision, saying the court made “a number of errors of law.”",
+         "content" : "The EU says Ireland gave Apple a deal to pay less taxes, but a court annulled the judgment in July\r\nIllustration by Alex Castro / The Verge\r\nThe European Commission is appealing a July court judgment… [+2361 chars]",
+         "url" : "https://www.theverge.com/2020/9/25/21456383/eu-commission-appeal-taxes-ireland",
          "source" : {
             "id" : "the-verge",
             "name" : "The Verge"
          },
-         "title" : "EU Commission to appeal Apple ruling in Ireland over $14.9 billion tax case - The Verge",
-         "publishedAt" : "2020-09-25T20:23:17Z",
          "urlToImage" : "https://cdn.vox-cdn.com/thumbor/H-8akpZWOBUhTvR-G5oFzRplEFE=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/8964133/acastro_170731_1777_0006_v1.jpg",
-         "url" : "https://www.theverge.com/2020/9/25/21456383/eu-commission-appeal-taxes-ireland"
+         "author" : "Kim Lyons"
       },
       {
-         "author" : "Mike Freeman",
          "content" : "Verizon Wireless and AT&amp;T Mobility have agreed to pay a combined $116 million to settle a long-running lawsuit alleging the wireless carriers overcharged hundreds of California cities, schools an… [+3643 chars]",
-         "description" : "The settlement covers 300 government entities and ends accusations that they were overcharged for wireless service.",
+         "url" : "https://www.latimes.com/business/story/2020-09-25/verizon-at-t-to-pay-116-million-to-settle-california-whistleblower-lawsuit",
          "source" : {
-            "name" : "Los Angeles Times",
-            "id" : null
+            "id" : null,
+            "name" : "Los Angeles Times"
          },
+         "author" : "Mike Freeman",
+         "urlToImage" : "https://ca-times.brightspotcdn.com/dims4/default/144bead/2147483647/strip/true/crop/512x269+0+31/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F9f%2Fc2%2F84bc3535dc69d0f3d2d236e78f02%2Fsdut-file-this-tuesday-june-12-20-20160903",
          "title" : "Verizon, AT&T to pay $116 million to settle California suit - Los Angeles Times",
          "publishedAt" : "2020-09-25T20:20:00Z",
-         "urlToImage" : "https://ca-times.brightspotcdn.com/dims4/default/144bead/2147483647/strip/true/crop/512x269+0+31/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F9f%2Fc2%2F84bc3535dc69d0f3d2d236e78f02%2Fsdut-file-this-tuesday-june-12-20-20160903",
-         "url" : "https://www.latimes.com/business/story/2020-09-25/verizon-at-t-to-pay-116-million-to-settle-california-whistleblower-lawsuit"
+         "description" : "The settlement covers 300 government entities and ends accusations that they were overcharged for wireless service."
       },
       {
-         "urlToImage" : "https://www.kitco.com/news/2020-09-25/images/shutterstock_383916916B-min.jpg",
+         "description" : "",
          "publishedAt" : "2020-09-25T20:17:00Z",
          "title" : "Is gold oversold? $200 price drop does not mean the bull market is over – analysts - Kitco NEWS",
-         "url" : "https://www.kitco.com/news/2020-09-25/Is-gold-oversold-100-price-drop-does-not-mean-the-bull-market-is-over-analysts.html",
-         "description" : "",
+         "urlToImage" : "https://www.kitco.com/news/2020-09-25/images/shutterstock_383916916B-min.jpg",
          "author" : "http://www.facebook.com/kitconews",
-         "content" : "Editor's Note: Get caught up in minutes with our speedy summary of today's must-read news stories and expert opinions that moved the precious metals and financial markets. Sign up here!\r\n(Kitco News)… [+6054 chars]",
          "source" : {
-            "name" : "Kitco NEWS",
-            "id" : null
-         }
+            "id" : null,
+            "name" : "Kitco NEWS"
+         },
+         "url" : "https://www.kitco.com/news/2020-09-25/Is-gold-oversold-100-price-drop-does-not-mean-the-bull-market-is-over-analysts.html",
+         "content" : "Editor's Note: Get caught up in minutes with our speedy summary of today's must-read news stories and expert opinions that moved the precious metals and financial markets. Sign up here!\r\n(Kitco News)… [+6054 chars]"
       },
       {
          "description" : "Considering this week's generally positive drift in rates, we shouldn't expect lenders to get less busy any time soon. In recent weeks, there's been a sense that mortgage pricing seems just a little bit \"off\" compared to expectations. Those expectations are...",
-         "content" : "Mortgage Rate Update\r\nConsidering this week's generally positive drift in rates, we shouldn't expect lenders to get less busy any time soon.  In recent weeks, there's been a sense that mortgage prici… [+3137 chars]",
-         "author" : null,
+         "publishedAt" : "2020-09-25T20:04:33Z",
+         "title" : "Stellar Housing Data; Rates Inching Lower - Mortgage News Daily",
          "source" : {
             "id" : null,
             "name" : "Mortgage News Daily"
          },
          "urlToImage" : "http://www.mortgagenewsdaily.com/utility/images/mnd_social_share_logo.jpg",
-         "publishedAt" : "2020-09-25T20:04:33Z",
-         "title" : "Stellar Housing Data; Rates Inching Lower - Mortgage News Daily",
+         "author" : null,
+         "content" : "Mortgage Rate Update\r\nConsidering this week's generally positive drift in rates, we shouldn't expect lenders to get less busy any time soon.  In recent weeks, there's been a sense that mortgage prici… [+3137 chars]",
          "url" : "http://www.mortgagenewsdaily.com/consumer_rates/955591.aspx"
       }
    ],
-   "totalResults" : 70,
-   "status" : "ok"
+   "status" : "ok",
+   "totalResults" : 70
 }
