@@ -61,26 +61,23 @@ function Headlines(props) {
   );
 }
 
-function getLastModified() {
+function Today() {
   const options = {
     weekday: 'long',
     year: 'numeric', month: 'long', day: 'numeric'
   };
 
-  return new Date(document.lastModified).toLocaleDateString(undefined, options);
-}
+  const defaultLocale = undefined;
+  const todaysDate = new Date().toLocaleDateString(defaultLocale, options);
 
-function LastUpdated(props) {
   return (
-    <React.Fragment>{props.date}</React.Fragment>
+    <React.Fragment>{todaysDate}</React.Fragment>
   );
 }
 
 function render(headlines) {
-  const when = getLastModified();
-  
-  ReactDOM.render(<LastUpdated date={when}/>,
-                document.getElementById('lastUpdate'));
+  ReactDOM.render(<Today/>,
+                document.getElementById('todaysDate'));
   ReactDOM.render(<Headlines src={headlines}/>, 
                 document.getElementById('main'));
 }
