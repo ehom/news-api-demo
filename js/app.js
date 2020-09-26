@@ -33,7 +33,7 @@ function Headlines(props) {
       return input.description === null || input.description.length === 0;
     }
     
-    const publishedAt = new Date(article.publishedAt).getTime();;
+    const publishedAt = new Date(article.publishedAt).getTime();
     const howLongAgo = getTimePast(atTheMoment, publishedAt);
 
     let description = article.description;
@@ -62,8 +62,7 @@ function Headlines(props) {
 }
 
 function getDateFrom(headlines) {
-  const today = new Date(headlines.articles[0].publishedAt).toLocaleDateString();
-  return today;
+  return document.lastModified;
 }
 
 function LastUpdated(props) {
