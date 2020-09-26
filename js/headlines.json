@@ -1,266 +1,266 @@
 {
+   "totalResults" : 70,
    "status" : "ok",
    "articles" : [
       {
-         "url" : "https://www.barrons.com/articles/how-teslas-next-deliveries-data-could-lift-the-ev-stock-51601053137",
-         "source" : {
-            "name" : "Barron's",
-            "id" : null
-         },
          "content" : "Tesla\r\n investors are experiencing an unusual down month for the stock, but news that could send it higher again is coming soon. In about a week, the company will report how many electric cars it del… [+3151 chars]",
-         "urlToImage" : "https://images.barrons.com/im-236551/social",
+         "title" : "How Tesla’s Next Deliveries Data Could Lift the EV Stock - Barron's",
          "author" : "Al Root",
          "publishedAt" : "2020-09-25T22:13:00Z",
-         "description" : "",
-         "title" : "How Tesla’s Next Deliveries Data Could Lift the EV Stock - Barron's"
+         "url" : "https://www.barrons.com/articles/how-teslas-next-deliveries-data-could-lift-the-ev-stock-51601053137",
+         "urlToImage" : "https://images.barrons.com/im-236551/social",
+         "source" : {
+            "id" : null,
+            "name" : "Barron's"
+         },
+         "description" : ""
       },
       {
+         "content" : "Alphabet and Google CEO Sundar Pichai sent a stern warning to all employees Friday, pointing them to a new settlement between the company and shareholders who alleged it did not respond appropriately… [+2224 chars]",
+         "title" : "Google CEO Sundar Pichai tells employees 'we are not going back in time' after sexual misconduct settlement - CNBC",
+         "author" : "Jennifer Elias",
+         "publishedAt" : "2020-09-25T20:45:00Z",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106479087-1588160623981preview.jpg?v=1595350043",
+         "url" : "https://www.cnbc.com/2020/09/25/read-google-ceo-sundar-pichais-email-after-misconduct-settlement.html",
+         "description" : "Alphabet and Google CEO Sundar Pichai sent a stern note to employees following its massive settlement on sexual misconduct allegations.",
          "source" : {
             "name" : "CNBC",
             "id" : null
-         },
-         "url" : "https://www.cnbc.com/2020/09/25/read-google-ceo-sundar-pichais-email-after-misconduct-settlement.html",
-         "title" : "Google CEO Sundar Pichai tells employees 'we are not going back in time' after sexual misconduct settlement - CNBC",
-         "description" : "Alphabet and Google CEO Sundar Pichai sent a stern note to employees following its massive settlement on sexual misconduct allegations.",
-         "publishedAt" : "2020-09-25T20:45:00Z",
-         "author" : "Jennifer Elias",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106479087-1588160623981preview.jpg?v=1595350043",
-         "content" : "Alphabet and Google CEO Sundar Pichai sent a stern warning to all employees Friday, pointing them to a new settlement between the company and shareholders who alleged it did not respond appropriately… [+2224 chars]"
+         }
       },
       {
-         "content" : "Boeing shares jumped over 6% on Friday after the Federal Aviation Administration confirmed the embattled 737 Max will be evaluated next week, including a test flight piloted by FAA Administrator Stev… [+1677 chars]",
          "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/07/0/0/K65512-03.jpg?ve=1&tl=1",
-         "publishedAt" : "2020-09-25T20:39:31Z",
-         "author" : "Suzanne O'Halloran",
-         "title" : "Boeing's 737 Max jet to be piloted by FAA Administrator Dickson next week - Fox Business",
-         "description" : "Boeing is hosting top FAA officials in Seattle next week to evaluate the 737 Max Jet.",
          "url" : "https://www.foxbusiness.com/markets/boeings-737-max-jet-to-be-piloted-by-faa-administrator-dickson-next-week",
+         "description" : "Boeing is hosting top FAA officials in Seattle next week to evaluate the 737 Max Jet.",
          "source" : {
             "id" : null,
             "name" : "Fox Business"
-         }
+         },
+         "author" : "Suzanne O'Halloran",
+         "title" : "Boeing's 737 Max jet to be piloted by FAA Administrator Dickson next week - Fox Business",
+         "content" : "Boeing shares jumped over 6% on Friday after the Federal Aviation Administration confirmed the embattled 737 Max will be evaluated next week, including a test flight piloted by FAA Administrator Stev… [+1677 chars]",
+         "publishedAt" : "2020-09-25T20:39:31Z"
       },
       {
+         "source" : {
+            "id" : null,
+            "name" : "New York Post"
+         },
+         "description" : "Scientists said 98 percent of the 1,000 participants in the government-backed trial had “neutralizing antibodies” — which defend cells from pathogens — roughly a month after receiving the vaccinati…",
+         "url" : "https://nypost.com/2020/09/25/johnson-johnson-covid-19-vaccine-shows-promising-results/",
+         "urlToImage" : "https://nypost.com/wp-content/uploads/sites/2/2020/09/johnson-johnson-1.jpg?quality=90&strip=all&w=1200",
          "publishedAt" : "2020-09-25T20:26:00Z",
          "author" : "Natalie O'Neill",
-         "title" : "Johnson & Johnson COVID-19 vaccine shows promising results in mid-stage trials - New York Post ",
-         "description" : "Scientists said 98 percent of the 1,000 participants in the government-backed trial had “neutralizing antibodies” — which defend cells from pathogens — roughly a month after receiving the vaccinati…",
          "content" : "One dose of Johnson &amp; Johnson’s experimental COVID-19 vaccine yielded strong immune system responses in “healthy adults” against the coronavirus in a mid-stage clinical trial, according to welcom… [+1031 chars]",
-         "urlToImage" : "https://nypost.com/wp-content/uploads/sites/2/2020/09/johnson-johnson-1.jpg?quality=90&strip=all&w=1200",
-         "source" : {
-            "name" : "New York Post",
-            "id" : null
-         },
-         "url" : "https://nypost.com/2020/09/25/johnson-johnson-covid-19-vaccine-shows-promising-results/"
+         "title" : "Johnson & Johnson COVID-19 vaccine shows promising results in mid-stage trials - New York Post "
       },
       {
-         "url" : "https://www.theverge.com/2020/9/25/21456383/eu-commission-appeal-taxes-ireland",
-         "source" : {
-            "name" : "The Verge",
-            "id" : "the-verge"
-         },
-         "urlToImage" : "https://cdn.vox-cdn.com/thumbor/H-8akpZWOBUhTvR-G5oFzRplEFE=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/8964133/acastro_170731_1777_0006_v1.jpg",
          "content" : "The EU says Ireland gave Apple a deal to pay less taxes, but a court annulled the judgment in July\r\nIllustration by Alex Castro / The Verge\r\nThe European Commission is appealing a July court judgment… [+2361 chars]",
-         "description" : "The EU says Apple should pay Ireland back taxes, but a court overturned that judgement in July. Now, the EU is appealing the decision, saying the court made “a number of errors of law.”",
-         "title" : "EU Commission to appeal Apple ruling in Ireland over $14.9 billion tax case - The Verge",
          "author" : "Kim Lyons",
-         "publishedAt" : "2020-09-25T20:23:17Z"
-      },
-      {
-         "content" : "Health officials have linked a multi-state salmonella outbreak to a recalled variety of mushrooms that were previously available across 32 states and Canada. The mushrooms, distributed by California-… [+1259 chars]",
-         "urlToImage" : "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/Public-Notice_Dried-Fungus-092320.jpg",
-         "author" : "Alexandria Hein",
-         "publishedAt" : "2020-09-25T20:03:20Z",
-         "description" : "The outbreak was traced to black fungus mushrooms, also called wood ear mushrooms.",
-         "title" : "Recalled mushrooms linked to salmonella cases across 10 states - Fox News",
-         "url" : "https://www.foxnews.com/health/recalled-mushrooms-linked-to-salmonella-cases-across-10-states",
+         "title" : "EU Commission to appeal Apple ruling in Ireland over $14.9 billion tax case - The Verge",
+         "publishedAt" : "2020-09-25T20:23:17Z",
+         "url" : "https://www.theverge.com/2020/9/25/21456383/eu-commission-appeal-taxes-ireland",
+         "urlToImage" : "https://cdn.vox-cdn.com/thumbor/H-8akpZWOBUhTvR-G5oFzRplEFE=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/8964133/acastro_170731_1777_0006_v1.jpg",
          "source" : {
-            "name" : "Fox News",
-            "id" : "fox-news"
-         }
+            "id" : "the-verge",
+            "name" : "The Verge"
+         },
+         "description" : "The EU says Apple should pay Ireland back taxes, but a court overturned that judgement in July. Now, the EU is appealing the decision, saying the court made “a number of errors of law.”"
       },
       {
-         "urlToImage" : "https://static.reuters.com/resources/r/?m=02&d=20200925&t=2&i=1534913139&r=LYNXNPEG8O0YA&w=800",
-         "content" : "(Reuters) - Technology stocks again rode to Wall Streets rescue on Friday, lifting the main indexes more than 1%, but the Dow and the S&amp;P 500 still posted their longest weekly losing streaks in a… [+3336 chars]",
-         "description" : "Technology stocks again rode to Wall Street's rescue on Friday, lifting the main indexes more than 1%, but the Dow and the S&P 500 still posted their longest weekly losing streaks in a year as fears of a slowing economy sparked an almost month-long rout.",
-         "title" : "US STOCKS-Wall Street closes higher as tech rally squashes virus fears - Reuters UK",
+         "publishedAt" : "2020-09-25T20:03:20Z",
+         "title" : "Recalled mushrooms linked to salmonella cases across 10 states - Fox News",
+         "author" : "Alexandria Hein",
+         "content" : "Health officials have linked a multi-state salmonella outbreak to a recalled variety of mushrooms that were previously available across 32 states and Canada. The mushrooms, distributed by California-… [+1259 chars]",
+         "source" : {
+            "id" : "fox-news",
+            "name" : "Fox News"
+         },
+         "description" : "The outbreak was traced to black fungus mushrooms, also called wood ear mushrooms.",
+         "url" : "https://www.foxnews.com/health/recalled-mushrooms-linked-to-salmonella-cases-across-10-states",
+         "urlToImage" : "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/Public-Notice_Dried-Fungus-092320.jpg"
+      },
+      {
          "author" : "Herbert Lash",
+         "title" : "US STOCKS-Wall Street closes higher as tech rally squashes virus fears - Reuters UK",
+         "content" : "(Reuters) - Technology stocks again rode to Wall Streets rescue on Friday, lifting the main indexes more than 1%, but the Dow and the S&amp;P 500 still posted their longest weekly losing streaks in a… [+3336 chars]",
          "publishedAt" : "2020-09-25T20:01:00Z",
+         "urlToImage" : "https://static.reuters.com/resources/r/?m=02&d=20200925&t=2&i=1534913139&r=LYNXNPEG8O0YA&w=800",
          "url" : "https://uk.reuters.com/article/us-usa-stocks-idUKKCN26G1MY",
+         "description" : "Technology stocks again rode to Wall Street's rescue on Friday, lifting the main indexes more than 1%, but the Dow and the S&P 500 still posted their longest weekly losing streaks in a year as fears of a slowing economy sparked an almost month-long rout.",
          "source" : {
             "id" : "reuters",
             "name" : "Reuters"
          }
       },
       {
-         "title" : "Three railroad workers built a 'man cave' under New York's Grand Central Terminal - CNN",
-         "description" : "The room apparently was furnished with a wall-mounted TV connected to a streaming device, a futon couch, refrigerator, air mattress, and microwave.",
          "publishedAt" : "2020-09-25T19:54:00Z",
          "author" : "Alisha Ebrahimji, CNN",
-         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200925092107-grand-central-man-cave-trnd-card-image-super-tease.jpg",
          "content" : null,
+         "title" : "Three railroad workers built a 'man cave' under New York's Grand Central Terminal - CNN",
+         "url" : "https://www.cnn.com/2020/09/25/us/grand-central-man-cave-ny-trnd/index.html",
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200925092107-grand-central-man-cave-trnd-card-image-super-tease.jpg",
          "source" : {
-            "id" : "cnn",
-            "name" : "CNN"
+            "name" : "CNN",
+            "id" : "cnn"
          },
-         "url" : "https://www.cnn.com/2020/09/25/us/grand-central-man-cave-ny-trnd/index.html"
+         "description" : "The room apparently was furnished with a wall-mounted TV connected to a streaming device, a futon couch, refrigerator, air mattress, and microwave."
       },
       {
-         "description" : "“Well, I have to say, if Donald Trump could be President of the United States, I can be Mayor of New York City,” she told us. “You know, I’m a builder. I know how to build. …",
-         "title" : "Former 'RHONY' cast member Barbara Kavovit wants to run for mayor of NYC - Page Six",
          "author" : "Chelsea Hirsch",
+         "title" : "Former 'RHONY' cast member Barbara Kavovit wants to run for mayor of NYC - Page Six",
+         "content" : "Barbara Kavovit could be the next reality star-turned-politician.\r\nThe former “Real Housewives of New York” cast member, 54, is “strongly considering” running for mayor of New York City, she exclusiv… [+2348 chars]",
          "publishedAt" : "2020-09-25T19:28:00Z",
          "urlToImage" : "https://pagesix.com/wp-content/uploads/sites/3/2020/09/rhony-mayor.jpg?quality=90&strip=all&w=1200",
-         "content" : "Barbara Kavovit could be the next reality star-turned-politician.\r\nThe former “Real Housewives of New York” cast member, 54, is “strongly considering” running for mayor of New York City, she exclusiv… [+2348 chars]",
+         "url" : "https://pagesix.com/2020/09/25/former-rhony-cast-member-barbara-kavovit-wants-to-run-for-mayor-of-nyc/",
+         "description" : "“Well, I have to say, if Donald Trump could be President of the United States, I can be Mayor of New York City,” she told us. “You know, I’m a builder. I know how to build. …",
          "source" : {
-            "name" : "Page Six",
-            "id" : null
-         },
-         "url" : "https://pagesix.com/2020/09/25/former-rhony-cast-member-barbara-kavovit-wants-to-run-for-mayor-of-nyc/"
+            "id" : null,
+            "name" : "Page Six"
+         }
       },
       {
-         "author" : "Christopher Reynolds",
          "publishedAt" : "2020-09-25T19:28:00Z",
-         "description" : "United is doing the same from SFO. Hawaii eases quarantine rules Oct. 15",
          "title" : "Hawaiian Airlines will offer COVID tests to passengers from L.A. - Los Angeles Times",
+         "author" : "Christopher Reynolds",
          "content" : "As Hawaii prepares to ease its pandemic quarantine rules on Oct. 15, Hawaiian Airlines says it will offer pre-flight COVID-19 testing to passengers flying from LAX and San Francisco International Air… [+2953 chars]",
+         "url" : "https://www.latimes.com/travel/story/2020-09-25/hawaiian-airlines-will-offer-covid-tests-to-passengers-from-l-a",
          "urlToImage" : "https://ca-times.brightspotcdn.com/dims4/default/10002e7/2147483647/strip/true/crop/3122x1639+0+221/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Feb%2F40%2F5b0c018845eeb3069864abf84af3%2Fla-tr-travel-hawaiian-airlines-covid-tests.JPG",
          "source" : {
-            "name" : "Los Angeles Times",
-            "id" : null
+            "id" : null,
+            "name" : "Los Angeles Times"
          },
-         "url" : "https://www.latimes.com/travel/story/2020-09-25/hawaiian-airlines-will-offer-covid-tests-to-passengers-from-l-a"
+         "description" : "United is doing the same from SFO. Hawaii eases quarantine rules Oct. 15"
       },
       {
-         "description" : "",
+         "publishedAt" : "2020-09-25T19:24:00Z",
          "title" : "California city bans junk food from checkout aisles - FRANCE 24",
          "author" : "France 24",
-         "publishedAt" : "2020-09-25T19:24:00Z",
-         "urlToImage" : "https://static.france24.com/meta_og_twcards/F24_TW.png",
          "content" : "Los Angeles (AFP)\r\nBerkeley in northern California will ban the sale of junk food from supermarket checkout displays -- becoming the first US city to do so, according to local media.\r\nThe city counci… [+1098 chars]",
+         "url" : "https://www.france24.com/en/20200925-california-city-bans-junk-food-from-checkout-aisles",
+         "urlToImage" : "https://static.france24.com/meta_og_twcards/F24_TW.png",
          "source" : {
-            "name" : "FRANCE 24 English",
-            "id" : null
+            "id" : null,
+            "name" : "FRANCE 24 English"
          },
-         "url" : "https://www.france24.com/en/20200925-california-city-bans-junk-food-from-checkout-aisles"
+         "description" : ""
       },
       {
-         "author" : "Myra P. Saefong, Mark DeCambre",
-         "publishedAt" : "2020-09-25T18:11:00Z",
-         "description" : "Silver futures log a weekly drop of nearly 15%",
-         "title" : "Gold ends lower to suffer worst weekly slump since March - MarketWatch",
-         "content" : "Gold futures ended with a loss on Friday, with bullion booking its fourth decline in five sessions, prompting the asset to suffer its worst weekly slide in about six months. Most of the sell-off in t… [+3532 chars]",
          "urlToImage" : "https://s.marketwatch.com/public/resources/images/MW-IL517_gold_s_ZG_20200730155915.jpg",
+         "url" : "https://www.marketwatch.com/story/gold-slips-friday-and-heads-for-worst-weekly-slump-since-march-2020-09-25",
+         "description" : "Silver futures log a weekly drop of nearly 15%",
          "source" : {
             "id" : null,
             "name" : "MarketWatch"
          },
-         "url" : "https://www.marketwatch.com/story/gold-slips-friday-and-heads-for-worst-weekly-slump-since-march-2020-09-25"
+         "publishedAt" : "2020-09-25T18:11:00Z",
+         "author" : "Myra P. Saefong, Mark DeCambre",
+         "content" : "Gold futures ended with a loss on Friday, with bullion booking its fourth decline in five sessions, prompting the asset to suffer its worst weekly slide in about six months. Most of the sell-off in t… [+3532 chars]",
+         "title" : "Gold ends lower to suffer worst weekly slump since March - MarketWatch"
       },
       {
          "content" : "Enlarge/ A Falcon 9 rocket launches the GPS III-03 mission in June, 2020.\r\n24 with 23 posters participating\r\nOn Friday, the US Space Force said it would launch two critical Global Positioning System … [+2591 chars]",
-         "urlToImage" : "https://cdn.arstechnica.net/wp-content/uploads/2020/09/50065947263_37c3c82f00_k-760x380.jpg",
-         "publishedAt" : "2020-09-25T18:10:00Z",
-         "author" : "Eric Berger",
          "title" : "Space Force says it will fly on a used Falcon 9 rocket for the first time - Ars Technica",
-         "description" : "“We’re looking forward to this journey with SpaceX.”",
-         "url" : "https://arstechnica.com/science/2020/09/space-force-says-it-will-fly-on-a-used-falcon-9-rocket-for-the-first-time/",
+         "author" : "Eric Berger",
+         "publishedAt" : "2020-09-25T18:10:00Z",
          "source" : {
             "name" : "Ars Technica",
             "id" : "ars-technica"
-         }
+         },
+         "description" : "“We’re looking forward to this journey with SpaceX.”",
+         "url" : "https://arstechnica.com/science/2020/09/space-force-says-it-will-fly-on-a-used-falcon-9-rocket-for-the-first-time/",
+         "urlToImage" : "https://cdn.arstechnica.net/wp-content/uploads/2020/09/50065947263_37c3c82f00_k-760x380.jpg"
       },
       {
-         "content" : "Lucas Jackson/Reuters\r\n<ul><li>Extreme times call for extreme moves, Bank of America said on Friday as it detailed investment-fund flows into and out of key market sectors.</li><li>Bank of America sa… [+3463 chars]",
-         "urlToImage" : "https://i.insider.com/5f6df9e9c4049200115cb99c?format=jpeg",
          "author" : "Matthew Fox",
-         "publishedAt" : "2020-09-25T17:58:27Z",
          "title" : "US stocks see 3rd-biggest outflow in history as investors flee tech | Markets - Business Insider",
+         "content" : "Lucas Jackson/Reuters\r\n<ul><li>Extreme times call for extreme moves, Bank of America said on Friday as it detailed investment-fund flows into and out of key market sectors.</li><li>Bank of America sa… [+3463 chars]",
+         "publishedAt" : "2020-09-25T17:58:27Z",
          "description" : "US stocks see 3rd-biggest outflow in history as investors flee tech",
-         "url" : "https://www.businessinsider.com/stock-market-outflows-3rd-biggest-history-investors-flee-tech-bofa-2020-9",
          "source" : {
-            "id" : "business-insider",
-            "name" : "Business Insider"
-         }
+            "name" : "Business Insider",
+            "id" : "business-insider"
+         },
+         "urlToImage" : "https://i.insider.com/5f6df9e9c4049200115cb99c?format=jpeg",
+         "url" : "https://www.businessinsider.com/stock-market-outflows-3rd-biggest-history-investors-flee-tech-bofa-2020-9"
       },
       {
-         "title" : "Fannie, Freddie pose risk to financial system, panel says in 'historic' finding - POLITICO",
+         "urlToImage" : "https://static.politico.com/eb/30/ca11241649b7928fbf93aa559771/200925-fannie-mae-gty-773.jpg",
+         "url" : "https://www.politico.com/news/2020/09/25/fannie-mae-freddie-mac-financial-risk-421814",
          "description" : "The companies still do not have enough capital to protect themselves from the massive risk in their portfolios.",
+         "source" : {
+            "id" : "politico",
+            "name" : "Politico"
+         },
          "publishedAt" : "2020-09-25T17:53:00Z",
          "author" : "Katy O'Donnell",
-         "urlToImage" : "https://static.politico.com/eb/30/ca11241649b7928fbf93aa559771/200925-fannie-mae-gty-773.jpg",
-         "content" : "Fannie and Freddie have been at the center of a fierce debate between Republicans and Democrats ever since the government rescued the two companies from collapse during the 2008 financial crisis. Rep… [+3295 chars]",
-         "source" : {
-            "name" : "Politico",
-            "id" : "politico"
-         },
-         "url" : "https://www.politico.com/news/2020/09/25/fannie-mae-freddie-mac-financial-risk-421814"
+         "title" : "Fannie, Freddie pose risk to financial system, panel says in 'historic' finding - POLITICO",
+         "content" : "Fannie and Freddie have been at the center of a fierce debate between Republicans and Democrats ever since the government rescued the two companies from collapse during the 2008 financial crisis. Rep… [+3295 chars]"
       },
       {
-         "source" : {
-            "id" : null,
-            "name" : "MarketWatch"
-         },
-         "url" : "https://www.marketwatch.com/story/neiman-marcus-emerges-from-bankruptcy-2020-09-25",
-         "author" : "Tomi Kilgore",
-         "publishedAt" : "2020-09-25T17:45:00Z",
-         "title" : "Neiman Marcus emerges from bankruptcy - MarketWatch",
          "description" : "",
+         "source" : {
+            "name" : "MarketWatch",
+            "id" : null
+         },
+         "urlToImage" : "https://s.wsj.net/public/resources/MWimages/MW-GP644_MicroS_ZG_20180906154215.jpg",
+         "url" : "https://www.marketwatch.com/story/neiman-marcus-emerges-from-bankruptcy-2020-09-25",
+         "publishedAt" : "2020-09-25T17:45:00Z",
+         "author" : "Tomi Kilgore",
          "content" : "Luxury retailer Neiman Marcus Holdings Co. Inc. said Friday that it has emerged from bankruptcy, which \"full support\" of its creditors and new equity shareholders. The new owners, which include PIMCO… [+724 chars]",
-         "urlToImage" : "https://s.wsj.net/public/resources/MWimages/MW-GP644_MicroS_ZG_20180906154215.jpg"
+         "title" : "Neiman Marcus emerges from bankruptcy - MarketWatch"
       },
       {
          "url" : "https://www.dailymail.co.uk/news/article-8773315/FDA-issues-Benadryl-warning-investigates-deaths-linked-TikTok-challenge.html",
-         "source" : {
-            "id" : null,
-            "name" : "Daily Mail"
-         },
-         "content" : "The U.S. Food and Drug Administration on Thursday warned of serious health problems from consuming large amounts of Benadryl following a social media challenge on TikTok which has left at least one g… [+8377 chars]",
          "urlToImage" : "https://i.dailymail.co.uk/1s/2020/09/25/18/33625988-0-image-a-10_1601054790358.jpg",
-         "author" : "By Frances Mulraney For Dailymail.com Wires",
-         "publishedAt" : "2020-09-25T17:43:14Z",
-         "description" : "The U.S. Food and Drug Administration on Thursday issued a health warning after at least one death and three hospitalizations were linked to the 'Benadryl Challenge' on TikTok.",
-         "title" : "FDA issues Benadryl warning as it investigates deaths linked to TikTok challenge - Daily Mail"
-      },
-      {
-         "url" : "https://www.cnbc.com/2020/09/25/these-companies-are-returning-money-to-shareholders-after-cutting-jobs.html",
          "source" : {
-            "name" : "CNBC",
+            "name" : "Daily Mail",
             "id" : null
          },
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106717459-1601041668120-gettyimages-1228427773-364546113_1-3.jpeg?v=1601041696",
-         "content" : "Dividends and stock buyback programs are slowly returning, but for some companies, the reinstatement of these plans follows layoffs and permanent job cuts.  \r\nIn March and April, the coronavirus pand… [+3319 chars]",
-         "description" : "Dividends and buyback programs are slowly returning, but for some companies, the reinstatement of capital-return plans follows layoffs and permanent job cuts.",
-         "title" : "These companies are returning more money to shareholders after cutting jobs - CNBC",
-         "publishedAt" : "2020-09-25T17:22:00Z",
-         "author" : "Amelia Lucas"
+         "description" : "The U.S. Food and Drug Administration on Thursday issued a health warning after at least one death and three hospitalizations were linked to the 'Benadryl Challenge' on TikTok.",
+         "title" : "FDA issues Benadryl warning as it investigates deaths linked to TikTok challenge - Daily Mail",
+         "author" : "By Frances Mulraney For Dailymail.com Wires",
+         "content" : "The U.S. Food and Drug Administration on Thursday warned of serious health problems from consuming large amounts of Benadryl following a social media challenge on TikTok which has left at least one g… [+8377 chars]",
+         "publishedAt" : "2020-09-25T17:43:14Z"
       },
       {
+         "publishedAt" : "2020-09-25T17:22:00Z",
+         "author" : "Amelia Lucas",
+         "content" : "Dividends and stock buyback programs are slowly returning, but for some companies, the reinstatement of these plans follows layoffs and permanent job cuts.  \r\nIn March and April, the coronavirus pand… [+3319 chars]",
+         "title" : "These companies are returning more money to shareholders after cutting jobs - CNBC",
+         "description" : "Dividends and buyback programs are slowly returning, but for some companies, the reinstatement of capital-return plans follows layoffs and permanent job cuts.",
+         "source" : {
+            "id" : null,
+            "name" : "CNBC"
+         },
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106717459-1601041668120-gettyimages-1228427773-364546113_1-3.jpeg?v=1601041696",
+         "url" : "https://www.cnbc.com/2020/09/25/these-companies-are-returning-money-to-shareholders-after-cutting-jobs.html"
+      },
+      {
+         "title" : "Nikola shows the tech hype cycle can’t stop worshipping founders - The Verge",
+         "author" : "Zoe Schiffer",
+         "content" : "The press fueled Trevor Miltons rise. A short-seller turbocharged his downfall. \r\nDepending on what youve read about electric truck company Nikola, its founder Trevor Milton is either the new Elon Mu… [+6800 chars]",
+         "publishedAt" : "2020-09-25T17:00:00Z",
+         "urlToImage" : "https://cdn.vox-cdn.com/thumbor/6zNMtLS9L99nAJOFBCXeVqlIoLs=/0x430:6000x3571/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/21907681/nikola_world2.jpg",
          "url" : "https://www.theverge.com/21454738/nikola-cult-founder-worship-trevor-milton-general-motors",
+         "description" : "In June, General Motors bought a $2 billion stake in Nikola. Then a report from Hindenburg Research accused founder Trevor Milton of fraud.",
          "source" : {
             "name" : "The Verge",
             "id" : "the-verge"
-         },
-         "urlToImage" : "https://cdn.vox-cdn.com/thumbor/6zNMtLS9L99nAJOFBCXeVqlIoLs=/0x430:6000x3571/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/21907681/nikola_world2.jpg",
-         "content" : "The press fueled Trevor Miltons rise. A short-seller turbocharged his downfall. \r\nDepending on what youve read about electric truck company Nikola, its founder Trevor Milton is either the new Elon Mu… [+6800 chars]",
-         "title" : "Nikola shows the tech hype cycle can’t stop worshipping founders - The Verge",
-         "description" : "In June, General Motors bought a $2 billion stake in Nikola. Then a report from Hindenburg Research accused founder Trevor Milton of fraud.",
-         "publishedAt" : "2020-09-25T17:00:00Z",
-         "author" : "Zoe Schiffer"
+         }
       },
       {
-         "title" : "SEC charges BMW for misleading investors on US auto sales - Teslarati",
-         "description" : "The Securities and Exchange Commission (SEC) has pressed charges against German automaker BMW AG, along with its domestic subsidiaries BMW of North America (BMW NA) and BMW US Capital, for misleading investors on US auto sales numbers. “BMW inflated its repor…",
          "author" : "Dacia J. Ferris",
-         "publishedAt" : "2020-09-25T16:51:24Z",
-         "urlToImage" : "https://www.teslarati.com/wp-content/uploads/2020/09/munich-953609_1920.jpg",
+         "title" : "SEC charges BMW for misleading investors on US auto sales - Teslarati",
          "content" : "The Securities and Exchange Commission (SEC) has pressed charges against German automaker BMW AG, along with its domestic subsidiaries BMW of North America (BMW NA) and BMW US Capital, for misleading… [+2592 chars]",
+         "publishedAt" : "2020-09-25T16:51:24Z",
+         "description" : "The Securities and Exchange Commission (SEC) has pressed charges against German automaker BMW AG, along with its domestic subsidiaries BMW of North America (BMW NA) and BMW US Capital, for misleading investors on US auto sales numbers. “BMW inflated its repor…",
          "source" : {
-            "name" : "Teslarati",
-            "id" : null
+            "id" : null,
+            "name" : "Teslarati"
          },
+         "urlToImage" : "https://www.teslarati.com/wp-content/uploads/2020/09/munich-953609_1920.jpg",
          "url" : "https://www.teslarati.com/bmw-lied-us-auto-sales-sec/"
       }
-   ],
-   "totalResults" : 70
+   ]
 }
