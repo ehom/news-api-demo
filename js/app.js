@@ -72,7 +72,7 @@ function getLastModified() {
 
 function LastUpdated(props) {
   return (
-    <React.Fragment>Last updated: {props.date}</React.Fragment>
+    <React.Fragment>{props.date}</React.Fragment>
   );
 }
 
