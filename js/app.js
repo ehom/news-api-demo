@@ -61,8 +61,13 @@ function Headlines(props) {
   );
 }
 
-function getDateFrom(headlines) {
-  return document.lastModified;
+function getLastModified() {
+  const options = {
+    weekday: 'long',
+    year: 'numeric', month: 'long', day: 'numeric'
+  };
+
+  return new Date(document.lastModified).toLocaleDateString(undefined, options);
 }
 
 function LastUpdated(props) {
@@ -72,7 +77,7 @@ function LastUpdated(props) {
 }
 
 function render(headlines) {
-  const when = getDateFrom(headlines);
+  const when = getLastModified();
   
   ReactDOM.render(<LastUpdated date={when}/>,
                 document.getElementById('lastUpdate'));
