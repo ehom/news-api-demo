@@ -1,4 +1,4 @@
-const URL = 'https://raw.githubusercontent.com/ehom/news-api-demo/master/js/headlines.json';
+const URL = 'https://raw.githubusercontent.com/ehom/external-data/master/headlines.json';
 
 fetch(URL)
   .then(response => response.json())
