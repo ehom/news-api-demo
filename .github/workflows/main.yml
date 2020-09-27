@@ -25,13 +25,13 @@ jobs:
       # Runs a set of commands using the runners shell
       - name: Calling News API...
         run: |
-          git checkout external-data
           OUTPUT_FILE="headlines.json"
           curl -X GET \
             --silent \
             -H 'content-type: application/json' \
             -H "x-api-key: ${{secrets.NEWS_API_KEY}}" \
-            'http://newsapi.org/v2/top-headlines?country=us&category=business' | json_pp > js/$OUTPUT_FILE
+            'http://newsapi.org/v2/top-headlines?country=us&category=business' | json_pp > $OUTPUT_FILE
           git config --global user.name $GITHUB_ACTOR
-          git commit -am "Updated news headlines"
+          git add $OUTPUT_FILE
+          git commit -m "Update news headlines"
           git push
