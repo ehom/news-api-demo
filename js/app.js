@@ -1,13 +1,17 @@
-const URL = 'https://raw.githubusercontent.com/ehom/news-api-demo/master/js/headlines.json';
+'use strict';
 
-fetch(URL)
-  .then(response => response.json())
-  .then(json => {
-    console.log(json);
-    return json;
-  })
-  .then(json => render(json))
-  .catch(error => console.error(error));
+var URL = 'https://raw.githubusercontent.com/ehom/news-api-demo/master/js/headlines.json';
+
+fetch(URL).then(function (response) {
+  return response.json();
+}).then(function (json) {
+  console.log(json);
+  return json;
+}).then(function (json) {
+  return render(json);
+}).catch(function (error) {
+  return console.error(error);
+});
 
 // TODO
 // What to do if 0 hours?
@@ -15,70 +19,89 @@ fetch(URL)
 // 
 
 function getTimePast(t2, t1) {
-  const milliSecondsDiff = t2 - t1;
+  var milliSecondsDiff = t2 - t1;
   console.debug("msecs diff: ", milliSecondsDiff);
-  const hoursAgo = Math.round(milliSecondsDiff / (1000 * 60 * 60));
-  return `${hoursAgo}h ago`;
+  var hoursAgo = Math.round(milliSecondsDiff / (1000 * 60 * 60));
+  return hoursAgo + 'h ago';
 }
 
 function Headlines(props) {
   // TODO: get locale from browser?
-  
+
   // console.log(props.src.articles);
-  
-  const atTheMoment = Date.now();
 
-  const headlines = props.src.articles.map((article) => {
-    const hasNoDesc = (input) => {
+  var atTheMoment = Date.now();
+
+  var headlines = props.src.articles.map(function (article) {
+    var hasNoDesc = function hasNoDesc(input) {
       return input.description === null || input.description.length === 0;
-    }
-    
-    const publishedAt = new Date(article.publishedAt).getTime();
-    const howLongAgo = getTimePast(atTheMoment, publishedAt);
+    };
 
-    let description = article.description;
+    var publishedAt = new Date(article.publishedAt).getTime();
+    var howLongAgo = getTimePast(atTheMoment, publishedAt);
+
+    var description = article.description;
     if (hasNoDesc(article)) {
       description = article.source.name;
     }
 
-    return (
-      <div class='card mb-5 col-sm-4 app-headline'>
-        <img class='card-img-top' src={article.urlToImage}/>
-        <div class='card-body'>
-          <h5 class='card-title'>{article.title}</h5>
-          <p class='card-text'>
-            <a href={article.url} target='_blank'>{description}</a>
-          </p>
-        </div>
-        <ul class="list-group list-group-flush">
-          <li class="list-group-item">{howLongAgo}</li>
-        </ul>
-      </div>
+    return React.createElement(
+      'div',
+      { 'class': 'card mb-5 col-sm-4 app-headline' },
+      React.createElement('img', { 'class': 'card-img-top', src: article.urlToImage }),
+      React.createElement(
+        'div',
+        { 'class': 'card-body' },
+        React.createElement(
+          'h5',
+          { 'class': 'card-title' },
+          article.title
+        ),
+        React.createElement(
+          'p',
+          { 'class': 'card-text' },
+          React.createElement(
+            'a',
+            { href: article.url, target: '_blank' },
+            description
+          )
+        )
+      ),
+      React.createElement(
+        'ul',
+        { 'class': 'list-group list-group-flush' },
+        React.createElement(
+          'li',
+          { 'class': 'list-group-item' },
+          howLongAgo
+        )
+      )
     );
   });
-  return (
-    <div class="row">{headlines}</div>
+  return React.createElement(
+    'div',
+    { 'class': 'row' },
+    headlines
   );
 }
 
 function Today() {
-  const options = {
+  var options = {
     weekday: 'long',
     year: 'numeric', month: 'long', day: 'numeric'
   };
 
-  const defaultLocale = undefined;
-  const todaysDate = new Date().toLocaleDateString(defaultLocale, options);
+  var defaultLocale = undefined;
+  var todaysDate = new Date().toLocaleDateString(defaultLocale, options);
 
-  return (
-    <React.Fragment>{todaysDate}</React.Fragment>
+  return React.createElement(
+    React.Fragment,
+    null,
+    todaysDate
   );
 }
 
 function render(headlines) {
-  ReactDOM.render(<Today/>,
-                document.getElementById('todaysDate'));
-  ReactDOM.render(<Headlines src={headlines}/>, 
-                document.getElementById('main'));
+  ReactDOM.render(React.createElement(Today, null), document.getElementById('todaysDate'));
+  ReactDOM.render(React.createElement(Headlines, { src: headlines }), document.getElementById('main'));
 }
-
