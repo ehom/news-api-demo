@@ -1,266 +1,266 @@
 {
    "totalResults" : 70,
-   "status" : "ok",
    "articles" : [
       {
-         "urlToImage" : "https://www.local10.com/resizer/EB_I2sE3Y60mG0ptDcVNRf-xXe8=/1600x900/smart/filters:format(jpeg):strip_exif(true):strip_icc(true):no_upscale(true):quality(65)/d1vhqlrjc8h82r.cloudfront.net/09-27-2020/t_cfc9219c6ce14f999d2b2d1bbbb41d82_name_image.jpg",
-         "description" : "In a surprise announcement and just before the weekend, Florida's governor swung open the doors of bars and clubs.",
-         "title" : "South Florida bars packed after Gov. gives OK for Phase 3 reopening - WPLG Local 10",
-         "url" : "https://www.local10.com/news/local/2020/09/27/bars-owners-patrons-happy-with-phase-3-reopening-city-mayors-concerned/",
          "content" : "FORT LAUDERDALE, Fla. On Fort Lauderdale Beach, those with months of quarantine-driven bar withdrawal showed up, showed off and toasted each other back to some semblance of normal life.\r\nIm healthy, … [+3242 chars]",
+         "description" : "In a surprise announcement and just before the weekend, Florida's governor swung open the doors of bars and clubs.",
+         "url" : "https://www.local10.com/news/local/2020/09/27/bars-owners-patrons-happy-with-phase-3-reopening-city-mayors-concerned/",
+         "title" : "South Florida bars packed after Gov. gives OK for Phase 3 reopening - WPLG Local 10",
          "publishedAt" : "2020-09-27T03:25:56Z",
-         "author" : "Hatzel Vela, Michelle Solomon",
+         "urlToImage" : "https://www.local10.com/resizer/EB_I2sE3Y60mG0ptDcVNRf-xXe8=/1600x900/smart/filters:format(jpeg):strip_exif(true):strip_icc(true):no_upscale(true):quality(65)/d1vhqlrjc8h82r.cloudfront.net/09-27-2020/t_cfc9219c6ce14f999d2b2d1bbbb41d82_name_image.jpg",
          "source" : {
             "name" : "WPLG Local 10",
             "id" : null
-         }
+         },
+         "author" : "Hatzel Vela, Michelle Solomon"
       },
       {
+         "source" : {
+            "id" : null,
+            "name" : "CleanTechnica"
+         },
+         "author" : "https://www.facebook.com/zachary.shahan",
          "urlToImage" : "https://cleantechnica.com/files/2020/09/New-Battery-Pack-Tesla-Battery-Day-Watermarked.jpg",
-         "title" : "Tesla’s New Homemade Batteries Are In Cars On The Road Today - CleanTechnica",
-         "description" : "The Battery Day presentation left some people thinking Tesla was already producing a few of its homemade batteries, left other people thinking Tesla was still far away from producing its own battery cells, and left others thinking that Tesla was already pumpi…",
-         "content" : "BatteriesPublished on September 26th, 2020 |\r\n by Zachary Shahan\r\n0\r\nSeptember 26th, 2020 by Zachary Shahan \r\nTesla’s Battery Day presentation packed in a ton of info. On the bottom of this article, … [+3868 chars]",
          "publishedAt" : "2020-09-27T03:05:22Z",
+         "title" : "Tesla’s New Homemade Batteries Are In Cars On The Road Today - CleanTechnica",
          "url" : "https://cleantechnica.com/2020/09/26/teslas-new-homemade-batteries-are-in-cars-on-the-road-today/",
-         "source" : {
-            "name" : "CleanTechnica",
-            "id" : null
-         },
-         "author" : "https://www.facebook.com/zachary.shahan"
+         "content" : "BatteriesPublished on September 26th, 2020 |\r\n by Zachary Shahan\r\n0\r\nSeptember 26th, 2020 by Zachary Shahan \r\nTesla’s Battery Day presentation packed in a ton of info. On the bottom of this article, … [+3868 chars]",
+         "description" : "The Battery Day presentation left some people thinking Tesla was already producing a few of its homemade batteries, left other people thinking Tesla was still far away from producing its own battery cells, and left others thinking that Tesla was already pumpi…"
       },
       {
-         "description" : "Arizona was one of 10 states affected by an outbreak of salmonella from mushrooms. Restaurant employees were told to check for recalled dried mushrooms.",
-         "title" : "Mushrooms linked to salmonella outbreaks in Arizona, 9 other states - KTAR.com",
-         "urlToImage" : "https://ktar.com/wp-content/uploads/2020/09/pexels-engin-akyurt-1435904.jpg",
-         "author" : "",
          "source" : {
-            "name" : "KTAR.com",
-            "id" : null
+            "id" : null,
+            "name" : "KTAR.com"
          },
-         "url" : "https://ktar.com/story/3589347/mushrooms-linked-to-salmonella-outbreaks-in-10-states-arizona/",
+         "author" : "",
          "publishedAt" : "2020-09-27T02:06:00Z",
+         "urlToImage" : "https://ktar.com/wp-content/uploads/2020/09/pexels-engin-akyurt-1435904.jpg",
+         "url" : "https://ktar.com/story/3589347/mushrooms-linked-to-salmonella-outbreaks-in-10-states-arizona/",
+         "title" : "Mushrooms linked to salmonella outbreaks in Arizona, 9 other states - KTAR.com",
+         "description" : "Arizona was one of 10 states affected by an outbreak of salmonella from mushrooms. Restaurant employees were told to check for recalled dried mushrooms.",
          "content" : "LOS ANGELES — Federal officials are warning of salmonella cases in at least 10 states linked to dried mushrooms from a Southern California company.\r\nMore than 40 people have gotten sick and four have… [+1212 chars]"
       },
       {
-         "title" : "China's industrial profits grow for fourth straight month - Reuters",
          "description" : "Profits at China's industrial firms grew for the fourth straight month in August, buoyed in part by a rebound in commodities prices and equipment manufacturing, the statistics bureau said on Sunday.",
+         "content" : "By Reuters Staff\r\nSHANGHAI (Reuters) - Profits at Chinas industrial firms grew for the fourth straight month in August, buoyed in part by a rebound in commodities prices and equipment manufacturing, … [+2500 chars]",
+         "title" : "China's industrial profits grow for fourth straight month - Reuters",
+         "url" : "https://www.reuters.com/article/china-economy-industrial-profits-idUSKBN26I01X",
+         "publishedAt" : "2020-09-27T02:02:00Z",
          "urlToImage" : "https://static.reuters.com/resources/r/?m=02&d=20200927&t=2&i=1535060468&r=LYNXMPEG8Q01E&w=800",
          "source" : {
-            "name" : "Reuters",
-            "id" : "reuters"
+            "id" : "reuters",
+            "name" : "Reuters"
          },
-         "author" : "Reuters Staff",
-         "publishedAt" : "2020-09-27T02:02:00Z",
-         "content" : "By Reuters Staff\r\nSHANGHAI (Reuters) - Profits at Chinas industrial firms grew for the fourth straight month in August, buoyed in part by a rebound in commodities prices and equipment manufacturing, … [+2500 chars]",
-         "url" : "https://www.reuters.com/article/china-economy-industrial-profits-idUSKBN26I01X"
+         "author" : "Reuters Staff"
       },
       {
+         "author" : "Alan Friedman",
+         "source" : {
+            "id" : null,
+            "name" : "PhoneArena"
+         },
+         "publishedAt" : "2020-09-27T00:48:05Z",
+         "urlToImage" : "https://m-cdn.phonearena.com/images/article/127434-two_1200/U.S.-sanctions-another-Chinese-tech-firm-and-threatens-to-put-it-on-the-Entity-List.jpg",
+         "title" : "U.S. sanctions another Chinese tech firm and threatens to put it on the Entity List - PhoneArena",
          "url" : "https://www.phonearena.com/news/us-sanctions-smic-threatens-to-add-it-to-entity-list_id127434",
          "content" : "All content, features, and design are Copyright 2001-2020 PhoneArena.com.PhoneArena may receive a small commission if you purchase through affiliate links on this page.All rights reserved. Reproducti… [+88 chars]",
-         "publishedAt" : "2020-09-27T00:48:05Z",
-         "source" : {
-            "name" : "PhoneArena",
-            "id" : null
-         },
-         "author" : "Alan Friedman",
-         "urlToImage" : "https://m-cdn.phonearena.com/images/article/127434-two_1200/U.S.-sanctions-another-Chinese-tech-firm-and-threatens-to-put-it-on-the-Entity-List.jpg",
-         "description" : "The White House and the U.S. government continue their assault on Chinese tech firms by placing sanctions on China's largest foundry, Semiconductor Manufacturing International Corporation (SMIC).",
-         "title" : "U.S. sanctions another Chinese tech firm and threatens to put it on the Entity List - PhoneArena"
+         "description" : "The White House and the U.S. government continue their assault on Chinese tech firms by placing sanctions on China's largest foundry, Semiconductor Manufacturing International Corporation (SMIC)."
       },
       {
+         "title" : "Some Attending State Fair Of Texas’ Food Drive-Thru Run Out Of Gas During Longer-Than-Expected Wait - CBS Dallas / Fort Worth",
+         "url" : "https://dfw.cbslocal.com/2020/09/26/state-fair-texas-food-drive-thru-run-out-gas-during-longer-wait/",
+         "content" : "DALLAS (CBSDFW.COM) – The State Fair of Texas’ Big Tex Fair Food Drive-Thru experience began Saturday and for some, the experience was less than ideal.\r\nFairgoers posted photos and comments on social… [+2577 chars]",
+         "description" : "The State Fair of Texas' Big Tex Fair Food Drive-Thru experience began Saturday and for some the experience was less than ideal.",
          "source" : {
             "name" : "Cbslocal.com",
             "id" : null
          },
          "author" : "CBS Dallas/Fort Worth",
-         "url" : "https://dfw.cbslocal.com/2020/09/26/state-fair-texas-food-drive-thru-run-out-gas-during-longer-wait/",
-         "content" : "DALLAS (CBSDFW.COM) – The State Fair of Texas’ Big Tex Fair Food Drive-Thru experience began Saturday and for some, the experience was less than ideal.\r\nFairgoers posted photos and comments on social… [+2577 chars]",
          "publishedAt" : "2020-09-26T23:35:00Z",
-         "description" : "The State Fair of Texas' Big Tex Fair Food Drive-Thru experience began Saturday and for some the experience was less than ideal.",
-         "title" : "Some Attending State Fair Of Texas’ Food Drive-Thru Run Out Of Gas During Longer-Than-Expected Wait - CBS Dallas / Fort Worth",
          "urlToImage" : "https://dfw.cbslocal.com/wp-content/uploads/sites/15909545/2020/09/Screen-Shot-2020-09-26-at-2.14.46-PM.png?w=1500"
       },
       {
+         "source" : {
+            "name" : "Yahoo Entertainment",
+            "id" : null
+         },
+         "author" : "Reuters",
+         "urlToImage" : "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png",
+         "publishedAt" : "2020-09-26T23:21:00Z",
+         "title" : "Nikola Corp's founder purchased truck designs from third party - FT - Yahoo Finance",
          "url" : "https://finance.yahoo.com/news/nikola-corps-founder-purchased-truck-232111215.html",
          "content" : "After the summer bulls, markets corrected themselves but more than that, the selling was highly concentrated in the tech sector. The tech-heavy NASDAQ is now leading the on the fall, having lost 11.5… [+7218 chars]",
-         "publishedAt" : "2020-09-26T23:21:00Z",
-         "author" : "Reuters",
-         "source" : {
-            "id" : null,
-            "name" : "Yahoo Entertainment"
-         },
-         "urlToImage" : "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png",
-         "description" : "Nikola Corporation's founder Trevor Milton purchased the original design for the company's flagship truck from a Croatia-based designer, the...",
-         "title" : "Nikola Corp's founder purchased truck designs from third party - FT - Yahoo Finance"
+         "description" : "Nikola Corporation's founder Trevor Milton purchased the original design for the company's flagship truck from a Croatia-based designer, the..."
       },
       {
-         "urlToImage" : "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/DTUNE5H7UQI6VNKVJVY2SJKPJM.jpg&w=1440",
-         "title" : "Already facing its worst crisis since 9/11, airline industry set to cut more than 35,000 jobs this week - The Washington Post",
-         "description" : "The furloughs are set to begin Oct. 1, when legal protections run out. Tens of thousands more workers have seen hours cut or taken unpaid leave as the coronavirus has shrunk demand for air travel.",
-         "publishedAt" : "2020-09-26T22:49:00Z",
-         "content" : "It was Jan. 2.\r\nI said, 2020 is going to be my year.\r\nSoon, news of a novel coronavirus from Wuhan, China, began spreading. In her first few months on the job, the 29-year-old was working evacuation … [+17518 chars]",
-         "url" : "https://www.washingtonpost.com/local/trafficandcommuting/airline-industry-job-cuts/2020/09/26/824b1380-fdaf-11ea-b555-4d71a9254f4b_story.html",
-         "author" : "Ian Duncan, Lori Aratani, Michael Laris",
          "source" : {
             "name" : "The Washington Post",
             "id" : "the-washington-post"
-         }
+         },
+         "author" : "Ian Duncan, Lori Aratani, Michael Laris",
+         "urlToImage" : "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/DTUNE5H7UQI6VNKVJVY2SJKPJM.jpg&w=1440",
+         "publishedAt" : "2020-09-26T22:49:00Z",
+         "url" : "https://www.washingtonpost.com/local/trafficandcommuting/airline-industry-job-cuts/2020/09/26/824b1380-fdaf-11ea-b555-4d71a9254f4b_story.html",
+         "title" : "Already facing its worst crisis since 9/11, airline industry set to cut more than 35,000 jobs this week - The Washington Post",
+         "description" : "The furloughs are set to begin Oct. 1, when legal protections run out. Tens of thousands more workers have seen hours cut or taken unpaid leave as the coronavirus has shrunk demand for air travel.",
+         "content" : "It was Jan. 2.\r\nI said, 2020 is going to be my year.\r\nSoon, news of a novel coronavirus from Wuhan, China, began spreading. In her first few months on the job, the 29-year-old was working evacuation … [+17518 chars]"
       },
       {
-         "source" : {
-            "name" : "Engadget",
-            "id" : "engadget"
-         },
-         "author" : "",
-         "publishedAt" : "2020-09-26T21:37:09Z",
-         "content" : "Hyundai’s electric sports car ambitions didn’t end with a spruced-up Veloster. The automaker has unveiled an RM20e Racing Midship Sports Car that not only promises to boost its motorsport plans, but … [+606 chars]",
          "url" : "https://www.engadget.com/hyundai-rm20e-electric-race-car-210624633.html",
          "title" : "Hyundai's next electric race car hints at the future of sporty road-going EVs - Engadget",
+         "content" : "Hyundai’s electric sports car ambitions didn’t end with a spruced-up Veloster. The automaker has unveiled an RM20e Racing Midship Sports Car that not only promises to boost its motorsport plans, but … [+606 chars]",
          "description" : "Hyundai has unveiled its next electric race car, the RM20e, and it points to where road-going N sports cars are headed.",
+         "author" : "",
+         "source" : {
+            "id" : "engadget",
+            "name" : "Engadget"
+         },
+         "publishedAt" : "2020-09-26T21:37:09Z",
          "urlToImage" : "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-09%2Ffb5e4ca0-0035-11eb-9b7b-ad731bc8d753&client=amp-blogside-v2&signature=86b0b4d7e9a50f2db910aba03e019f69656f1514"
       },
       {
-         "urlToImage" : "https://images.unsplash.com/photo-1555088467-bb71ce62bac2?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjE2ODU3Mn0&fm=jpg&q=85&fit=crop&w=2560&h=1707",
-         "description" : "Over the past few years, Chinese authorities have undergone a strong crackdown on most things crypto in the country.",
          "title" : "Chinese state TV just shilled DeFi and Ethereum to hundreds of millions of users - CryptoSlate",
          "url" : "https://cryptoslate.com/chinese-state-tv-just-shilled-defi-and-ethereum-to-hundreds-of-millions-of-users/",
+         "description" : "Over the past few years, Chinese authorities have undergone a strong crackdown on most things crypto in the country.",
          "content" : "Over the past few years, Chinese authorities have undergone a strong crackdown on most things crypto in the country. Late last year, the Shanghai bank of the People’s Bank of China targeted ICOs, dee… [+3912 chars]",
-         "publishedAt" : "2020-09-26T20:34:00Z",
          "author" : null,
          "source" : {
             "name" : "CryptoSlate",
             "id" : null
-         }
-      },
-      {
-         "author" : null,
-         "source" : {
-            "name" : "Financial Times",
-            "id" : "financial-times"
          },
-         "content" : "Deutsche Bank's head of German retail banking Manfred Knof will become the new chief executive of domestic rival Commerzbank, the Frankfurt based lender announced on Saturday.\r\nThe 55-year old former… [+2171 chars]",
-         "publishedAt" : "2020-09-26T20:18:00Z",
-         "url" : "https://www.ft.com/content/c03e0f2c-b5f1-41fc-9e42-637ed1144d93",
-         "title" : "Deutsche Bank’s Manfred Knof named as new Commerzbank CEO - Financial Times",
-         "description" : "Lacklustre German lender ends its leadership limbo by turning to former Allianz manager",
-         "urlToImage" : "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F0e283c39-8e9b-4f7d-a36b-42179e6f67a2.jpg?source=next-opengraph&fit=scale-down&width=900"
+         "publishedAt" : "2020-09-26T20:34:00Z",
+         "urlToImage" : "https://images.unsplash.com/photo-1555088467-bb71ce62bac2?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjE2ODU3Mn0&fm=jpg&q=85&fit=crop&w=2560&h=1707"
       },
       {
-         "title" : "Coronavirus exposure at Crossgates Mall - NEWS10 ABC",
-         "description" : "ALBANY, N.Y. (NEWS10) – Albany County officials are warning of a low-risk coronavirus exposure at Crossgates Mall. The warning comes after an individual working at Maggie McFly’s restaurant tested positive for COVID-19. In a statement, the Albany County Depar…",
+         "urlToImage" : "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F0e283c39-8e9b-4f7d-a36b-42179e6f67a2.jpg?source=next-opengraph&fit=scale-down&width=900",
+         "publishedAt" : "2020-09-26T20:18:00Z",
+         "source" : {
+            "id" : "financial-times",
+            "name" : "Financial Times"
+         },
+         "author" : null,
+         "content" : "Deutsche Bank's head of German retail banking Manfred Knof will become the new chief executive of domestic rival Commerzbank, the Frankfurt based lender announced on Saturday.\r\nThe 55-year old former… [+2171 chars]",
+         "description" : "Lacklustre German lender ends its leadership limbo by turning to former Allianz manager",
+         "title" : "Deutsche Bank’s Manfred Knof named as new Commerzbank CEO - Financial Times",
+         "url" : "https://www.ft.com/content/c03e0f2c-b5f1-41fc-9e42-637ed1144d93"
+      },
+      {
+         "publishedAt" : "2020-09-26T20:02:00Z",
          "urlToImage" : "https://www.news10.com/wp-content/uploads/sites/64/2019/07/CROSSGATES-OUTSIDE.png?w=1280",
+         "author" : "NEWS10 ABC",
          "source" : {
             "id" : null,
             "name" : "NEWS10 ABC"
          },
-         "author" : "NEWS10 ABC",
-         "publishedAt" : "2020-09-26T20:02:00Z",
          "content" : "ALBANY, N.Y. (NEWS10) - Not too often you hear about people getting married at a car dealership, but it's possible! On Saturday, Marie Mounteer and Paul Heideman said 'I do' after picking up their ne… [+294 chars]",
-         "url" : "https://www.news10.com/news/coronavirus-exposure-at-crossgates-mall/"
+         "description" : "ALBANY, N.Y. (NEWS10) – Albany County officials are warning of a low-risk coronavirus exposure at Crossgates Mall. The warning comes after an individual working at Maggie McFly’s restaurant tested positive for COVID-19. In a statement, the Albany County Depar…",
+         "url" : "https://www.news10.com/news/coronavirus-exposure-at-crossgates-mall/",
+         "title" : "Coronavirus exposure at Crossgates Mall - NEWS10 ABC"
       },
       {
          "urlToImage" : "https://a.c-dn.net/b/1txQs2/headline_GOLD_31.JPG",
-         "description" : "Anti-fiat gold prices suffered the worst week since August as the US Dollar gained ground. Will losses extend? All eyes turn to fiscal stimulus hopes and non-farm payrolls data.",
-         "title" : "Gold Price Outlook: Rising US Dollar Sinks XAU/USD, Will Losses Extend? - DailyFX",
-         "url" : "https://www.dailyfx.com/forex/fundamental/forecast/weekly/chf/2020/09/26/Gold-Price-Outlook-Rising-US-Dollar-Sinks-XAUUSD-Will-Losses-Extend.html",
          "publishedAt" : "2020-09-26T20:01:14Z",
-         "content" : "Crart created with TradingView\r\nGold Fundamental Outlook: Neutral\r\n<ul><li>Gold prices suffered as the US Dollar gained ground</li><li>Falling Treasury yields could yet offer some cushion</li><li>All… [+2945 chars]",
          "author" : "Daniel Dubrovsky",
          "source" : {
             "name" : "DailyFX",
             "id" : null
-         }
+         },
+         "description" : "Anti-fiat gold prices suffered the worst week since August as the US Dollar gained ground. Will losses extend? All eyes turn to fiscal stimulus hopes and non-farm payrolls data.",
+         "content" : "Crart created with TradingView\r\nGold Fundamental Outlook: Neutral\r\n<ul><li>Gold prices suffered as the US Dollar gained ground</li><li>Falling Treasury yields could yet offer some cushion</li><li>All… [+2945 chars]",
+         "title" : "Gold Price Outlook: Rising US Dollar Sinks XAU/USD, Will Losses Extend? - DailyFX",
+         "url" : "https://www.dailyfx.com/forex/fundamental/forecast/weekly/chf/2020/09/26/Gold-Price-Outlook-Rising-US-Dollar-Sinks-XAUUSD-Will-Losses-Extend.html"
       },
       {
-         "urlToImage" : "https://media.wgrz.com/assets/WGRZ/images/25b6006f-0730-4d58-9dba-cd8fbd524e9e/25b6006f-0730-4d58-9dba-cd8fbd524e9e_1140x641.jpg",
+         "url" : "https://www.wgrz.com/article/money/business/hofbrauhaus-buffalo-open-for-business/71-4a8cb62a-3f52-487d-93f9-53488bc1c7c4",
          "title" : "Hofbrauhaus Buffalo now open for business - WGRZ.com",
          "description" : "Hofbrauhaus, the German beer hall on Scott Street in downtown Buffalo, has finally opened its doors.",
          "content" : "BUFFALO, N.Y. The wait is officially over. Hofbrauhaus Buffalo, the German beer hall on Scott Street, has finally opened its doors.\r\nThe project was first announced in 2013, and the developer has ann… [+823 chars]",
-         "publishedAt" : "2020-09-26T19:46:00Z",
-         "url" : "https://www.wgrz.com/article/money/business/hofbrauhaus-buffalo-open-for-business/71-4a8cb62a-3f52-487d-93f9-53488bc1c7c4",
          "source" : {
             "id" : null,
             "name" : "WGRZ.com"
          },
-         "author" : "WGRZ Staff"
+         "author" : "WGRZ Staff",
+         "publishedAt" : "2020-09-26T19:46:00Z",
+         "urlToImage" : "https://media.wgrz.com/assets/WGRZ/images/25b6006f-0730-4d58-9dba-cd8fbd524e9e/25b6006f-0730-4d58-9dba-cd8fbd524e9e_1140x641.jpg"
       },
       {
-         "url" : "https://electrek.co/2020/09/26/polestar-precept-electric-car-concept-production/",
-         "content" : "Polestar confirmed that it is going to bring its latest electric car concept, the Precept, to production, but without a clear timeline.\r\nThe Volvo/Geely all-electric brand already has the Polestar 1 … [+1655 chars]",
          "publishedAt" : "2020-09-26T19:21:00Z",
-         "source" : {
-            "name" : "Electrek",
-            "id" : null
-         },
-         "author" : null,
          "urlToImage" : "https://electrek.co/wp-content/uploads/sites/3/2020/09/JPG_Medium-DSCF2201a-e1601147054955.jpg?quality=82&strip=all",
-         "description" : "Polestar confirmed that it is going to bring its latest electric car concept, the Precept, to production, but without a clear timeline. The Volvo/Geely all-electric brand already has the Polestar 1 and Polestar 2 on the market and now it is confirming the lau…",
-         "title" : "Polestar is going to bring this cool electric car concept to production - Electrek.co"
-      },
-      {
-         "urlToImage" : "https://s1.cdn.autoevolution.com/images/news/2021-audi-q5-sportback-joins-coupe-suv-craze-with-phev-sq5-variants-149284-7.jpg",
-         "title" : "2021 Audi Q5 Sportback Joins Coupe-SUV Craze With Mild Hybrid, PHEV, SQ5 Options - autoevolution",
-         "description" : "BMW started the coupe-SUV trend singlehandedly with the X6, and other automakers are much obliged to join the party with less practical versions of existing utility vehicles. Audi did it with the Q5 today, now available as a Sportback for the 2021 model year.",
-         "content" : "UK head honcho Andrew Doyle says that “form often carries as much weight as function for Audi customers,” which is true. Design sells, and at the price point of the Q5 Sportback, few people have rear… [+1807 chars]",
-         "publishedAt" : "2020-09-26T19:02:00Z",
-         "url" : "https://www.autoevolution.com/news/2021-audi-q5-sportback-joins-coupe-suv-craze-with-mild-hybrid-phev-sq5-options-149284.html",
-         "author" : "Mircea Panait",
+         "author" : null,
          "source" : {
             "id" : null,
-            "name" : "autoevolution"
-         }
+            "name" : "Electrek"
+         },
+         "content" : "Polestar confirmed that it is going to bring its latest electric car concept, the Precept, to production, but without a clear timeline.\r\nThe Volvo/Geely all-electric brand already has the Polestar 1 … [+1655 chars]",
+         "description" : "Polestar confirmed that it is going to bring its latest electric car concept, the Precept, to production, but without a clear timeline. The Volvo/Geely all-electric brand already has the Polestar 1 and Polestar 2 on the market and now it is confirming the lau…",
+         "title" : "Polestar is going to bring this cool electric car concept to production - Electrek.co",
+         "url" : "https://electrek.co/2020/09/26/polestar-precept-electric-car-concept-production/"
       },
       {
+         "publishedAt" : "2020-09-26T19:02:00Z",
+         "urlToImage" : "https://s1.cdn.autoevolution.com/images/news/2021-audi-q5-sportback-joins-coupe-suv-craze-with-phev-sq5-variants-149284-7.jpg",
+         "author" : "Mircea Panait",
+         "source" : {
+            "name" : "autoevolution",
+            "id" : null
+         },
+         "description" : "BMW started the coupe-SUV trend singlehandedly with the X6, and other automakers are much obliged to join the party with less practical versions of existing utility vehicles. Audi did it with the Q5 today, now available as a Sportback for the 2021 model year.",
+         "content" : "UK head honcho Andrew Doyle says that “form often carries as much weight as function for Audi customers,” which is true. Design sells, and at the price point of the Q5 Sportback, few people have rear… [+1807 chars]",
+         "url" : "https://www.autoevolution.com/news/2021-audi-q5-sportback-joins-coupe-suv-craze-with-mild-hybrid-phev-sq5-options-149284.html",
+         "title" : "2021 Audi Q5 Sportback Joins Coupe-SUV Craze With Mild Hybrid, PHEV, SQ5 Options - autoevolution"
+      },
+      {
+         "description" : "The job search requirement to remain eligible to receive Tennessee unemployment benefits will resume Sunday",
+         "content" : "NASHVILLE, Tenn. (WTVF) The work search requirement to remain eligible to receive Tennessee unemployment benefits will resume Sunday, the Tennessee Department of Labor and Workforce Development annou… [+2546 chars]",
+         "url" : "https://www.newschannel5.com/news/work-search-requirements-for-tennessee-unemployment-resume-sunday",
+         "title" : "Work search requirements for Tennessee unemployment resume Sunday - NewsChannel5.com",
+         "publishedAt" : "2020-09-26T17:44:00Z",
+         "urlToImage" : "https://ewscripps.brightspotcdn.com/dims4/default/ca56d44/2147483647/strip/true/crop/1280x672+0+144/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F82%2Fec%2F7a2aae40482f81d77184bc7017dc%2Funemployment.jpg",
          "author" : "Kyle Davis",
          "source" : {
             "name" : "NewsChannel5.com",
             "id" : null
-         },
-         "content" : "NASHVILLE, Tenn. (WTVF) The work search requirement to remain eligible to receive Tennessee unemployment benefits will resume Sunday, the Tennessee Department of Labor and Workforce Development annou… [+2546 chars]",
-         "publishedAt" : "2020-09-26T17:44:00Z",
-         "url" : "https://www.newschannel5.com/news/work-search-requirements-for-tennessee-unemployment-resume-sunday",
-         "title" : "Work search requirements for Tennessee unemployment resume Sunday - NewsChannel5.com",
-         "description" : "The job search requirement to remain eligible to receive Tennessee unemployment benefits will resume Sunday",
-         "urlToImage" : "https://ewscripps.brightspotcdn.com/dims4/default/ca56d44/2147483647/strip/true/crop/1280x672+0+144/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F82%2Fec%2F7a2aae40482f81d77184bc7017dc%2Funemployment.jpg"
+         }
       },
       {
+         "description" : "Traditional trick-or-treating, crowded parties and indoor haunted houses are among the activities the CDC says pose the highest risk for coronavirus transmission, and families should avoid them this year.",
          "content" : "LOS ANGELES (KTLA) With Halloween on the way and the coronavirus still widespread, the U.S. Centers for Disease Control and Prevention released guidelines for safely celebrating the spooky holiday.\r\n… [+4794 chars]",
-         "publishedAt" : "2020-09-26T16:50:00Z",
          "url" : "https://fox8.com/news/cdc-ranks-halloween-activities-by-covid-19-risk-no-trick-or-treating-crowded-parties-or-indoor-haunted-houses/",
+         "title" : "CDC ranks Halloween activities by COVID-19 risk: No trick-or-treating, crowded parties or indoor haunted houses - WJW FOX 8 News Cleveland",
+         "publishedAt" : "2020-09-26T16:50:00Z",
+         "urlToImage" : "https://fox8.com/wp-content/uploads/sites/12/2020/09/GettyImages-1273336929-1.jpg?w=1280",
          "source" : {
             "name" : "fox8.com",
             "id" : null
          },
-         "author" : "Nouran Salahieh and Nexstar Media Wire",
-         "urlToImage" : "https://fox8.com/wp-content/uploads/sites/12/2020/09/GettyImages-1273336929-1.jpg?w=1280",
-         "title" : "CDC ranks Halloween activities by COVID-19 risk: No trick-or-treating, crowded parties or indoor haunted houses - WJW FOX 8 News Cleveland",
-         "description" : "Traditional trick-or-treating, crowded parties and indoor haunted houses are among the activities the CDC says pose the highest risk for coronavirus transmission, and families should avoid them this year."
+         "author" : "Nouran Salahieh and Nexstar Media Wire"
       },
       {
-         "author" : "Zach Brendza",
+         "description" : "Pennsylvania has 1,029 new coronavirus cases Saturday, according to the state Department of Health. In addition, 22 new deaths were reported. The new cases and deaths bring their totals to 155,232 and 8,103, respectively. The positivity rate for new cases is …",
+         "content" : "You are solely responsible for your comments and by using TribLive.com you agree to our\r\nTerms of Service.\r\nWe moderate comments. Our goal is to provide substantive commentary for a general readershi… [+1686 chars]",
+         "title" : "Pennsylvania posts 1000-plus new covid-19 cases, third highest this month - TribLIVE",
+         "url" : "https://triblive.com/news/pennsylvania/pennsylvania-posts-1000-plus-new-covid-19-cases-third-highest-this-month/",
+         "urlToImage" : "https://triblive.com/wp-content/uploads/2020/09/3060785_web1_ptr-statecorona-092420.jpg",
+         "publishedAt" : "2020-09-26T16:35:03Z",
          "source" : {
             "id" : null,
             "name" : "TribLIVE"
          },
-         "url" : "https://triblive.com/news/pennsylvania/pennsylvania-posts-1000-plus-new-covid-19-cases-third-highest-this-month/",
-         "content" : "You are solely responsible for your comments and by using TribLive.com you agree to our\r\nTerms of Service.\r\nWe moderate comments. Our goal is to provide substantive commentary for a general readershi… [+1686 chars]",
-         "publishedAt" : "2020-09-26T16:35:03Z",
-         "description" : "Pennsylvania has 1,029 new coronavirus cases Saturday, according to the state Department of Health. In addition, 22 new deaths were reported. The new cases and deaths bring their totals to 155,232 and 8,103, respectively. The positivity rate for new cases is …",
-         "title" : "Pennsylvania posts 1000-plus new covid-19 cases, third highest this month - TribLIVE",
-         "urlToImage" : "https://triblive.com/wp-content/uploads/2020/09/3060785_web1_ptr-statecorona-092420.jpg"
+         "author" : "Zach Brendza"
       },
       {
-         "description" : "<p>Johnson & Johnson vaccine development moves on to 60,000 person trial </p>",
-         "title" : "Coronavirus vaccine: Johnson & Johnson jab shows response in 98% of test participants - The Independent",
          "urlToImage" : "https://static.independent.co.uk/s3fs-public/thumbnails/image/2019/08/27/13/pri81716937.jpg",
+         "publishedAt" : "2020-09-26T16:29:00Z",
          "author" : "Graig Graziosi",
          "source" : {
-            "name" : "Independent",
-            "id" : "independent"
+            "id" : "independent",
+            "name" : "Independent"
          },
-         "url" : "https://www.independent.co.uk/news/world/americas/coronavirus-vaccine-trials-covid-19-johnson-b624918.html",
+         "description" : "<p>Johnson & Johnson vaccine development moves on to 60,000 person trial </p>",
          "content" : "One of the numerous proposed coronavirus vaccines has produced a strong immune response in test subjects according to a report issued Friday.  \r\nJohnson &amp; Johnson's JNJ.N Covid-19 vaccine, called… [+1947 chars]",
-         "publishedAt" : "2020-09-26T16:29:00Z"
+         "url" : "https://www.independent.co.uk/news/world/americas/coronavirus-vaccine-trials-covid-19-johnson-b624918.html",
+         "title" : "Coronavirus vaccine: Johnson & Johnson jab shows response in 98% of test participants - The Independent"
       }
-   ]
+   ],
+   "status" : "ok"
 }
