@@ -1,264 +1,264 @@
 {
    "articles" : [
       {
-         "title" : "Bars owners, patrons happy with Phase 3 reopening, city mayors concerned - WPLG Local 10",
-         "publishedAt" : "2020-09-27T01:34:11Z",
-         "description" : "In a surprise announcement and just before the weekend, Florida's governor swung open the doors of bars and clubs.",
-         "urlToImage" : "https://www.local10.com/resizer/eRjmoe29FpCJQ5aZ48jVPxQNjR4=/640x360/smart/filters:format(jpeg):strip_exif(true):strip_icc(true):no_upscale(true):quality(65)/cloudfront-us-east-1.images.arcpublishing.com/gmg/O4WYZZPWTVHUNBJCRRJKLJOXHI.jpg",
          "source" : {
-            "name" : "WPLG Local 10",
+            "id" : null,
+            "name" : "CleanTechnica"
+         },
+         "publishedAt" : "2020-09-27T03:05:22Z",
+         "url" : "https://cleantechnica.com/2020/09/26/teslas-new-homemade-batteries-are-in-cars-on-the-road-today/",
+         "title" : "Tesla’s New Homemade Batteries Are In Cars On The Road Today - CleanTechnica",
+         "author" : "https://www.facebook.com/zachary.shahan",
+         "content" : "BatteriesPublished on September 26th, 2020 |\r\n by Zachary Shahan\r\n0\r\nSeptember 26th, 2020 by Zachary Shahan \r\nTesla’s Battery Day presentation packed in a ton of info. On the bottom of this article, … [+3868 chars]",
+         "urlToImage" : "https://cleantechnica.com/files/2020/09/New-Battery-Pack-Tesla-Battery-Day-Watermarked.jpg",
+         "description" : "The Battery Day presentation left some people thinking Tesla was already producing a few of its homemade batteries, left other people thinking Tesla was still far away from producing its own battery cells, and left others thinking that Tesla was already pumpi…"
+      },
+      {
+         "author" : "",
+         "url" : "https://simpleflying.com/delta-all-airbus-not-soon/",
+         "title" : "Here’s Why Delta Is Unlikely To Become An All-Airbus Airline Soon - Simple Flying",
+         "publishedAt" : "2020-09-27T02:53:46Z",
+         "source" : {
+            "id" : null,
+            "name" : "Simple Flying"
+         },
+         "description" : "Delta has gone on a spree of Boeing retirements this year. With avgeeks around the world still absorbing…",
+         "content" : "Delta has gone on a spree of Boeing retirements this year. With avgeeks around the world still absorbing the announcement of retirements of the Boeing 777s, Delta laid on another announcement that it… [+6370 chars]",
+         "urlToImage" : "https://simpleflying.com/wp-content/uploads/2020/07/GettyImages-1225709657.jpg"
+      },
+      {
+         "publishedAt" : "2020-09-26T23:35:00Z",
+         "source" : {
+            "name" : "Cbslocal.com",
             "id" : null
          },
-         "url" : "https://www.local10.com/news/local/2020/09/27/bars-owners-patrons-happy-with-phase-3-reopening-city-mayors-concerned/",
-         "author" : "Hatzel Vela, Michelle Solomon",
-         "content" : "FORT LAUDERDALE, Fla. On Fort Lauderdale Beach, those with months of quarantine-driven bar withdrawal showed up, showed off and toasted each other back to some semblance of normal life.\r\nIm healthy, … [+3284 chars]"
+         "title" : "Some Attending State Fair Of Texas’ Food Drive-Thru Run Out Of Gas During Longer-Than-Expected Wait - CBS Dallas / Fort Worth",
+         "url" : "https://dfw.cbslocal.com/2020/09/26/state-fair-texas-food-drive-thru-run-out-gas-during-longer-wait/",
+         "author" : "CBS Dallas/Fort Worth",
+         "urlToImage" : "https://dfw.cbslocal.com/wp-content/uploads/sites/15909545/2020/09/Screen-Shot-2020-09-26-at-2.14.46-PM.png?w=1500",
+         "content" : "DALLAS (CBSDFW.COM) – The State Fair of Texas’ Big Tex Fair Food Drive-Thru experience began Saturday and for some, the experience was less than ideal.\r\nFairgoers posted photos and comments on social… [+2577 chars]",
+         "description" : "The State Fair of Texas' Big Tex Fair Food Drive-Thru experience began Saturday and for some the experience was less than ideal."
       },
       {
+         "urlToImage" : "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png",
+         "content" : "After the summer bulls, markets corrected themselves but more than that, the selling was highly concentrated in the tech sector. The tech-heavy NASDAQ is now leading the on the fall, having lost 11.5… [+7218 chars]",
+         "description" : "Nikola Corporation's founder Trevor Milton purchased the original design for the company's flagship truck from a Croatia-based designer, the...",
+         "publishedAt" : "2020-09-26T23:21:00Z",
+         "source" : {
+            "name" : "Yahoo Entertainment",
+            "id" : null
+         },
+         "title" : "Nikola Corp's founder purchased truck designs from third party - FT - Yahoo Finance",
+         "url" : "https://finance.yahoo.com/news/nikola-corps-founder-purchased-truck-232111215.html",
+         "author" : "Reuters"
+      },
+      {
+         "description" : "The furloughs are set to begin Oct. 1, when legal protections run out. Tens of thousands more workers have seen hours cut or taken unpaid leave as the coronavirus has shrunk demand for air travel.",
+         "content" : "It was Jan. 2.\r\nI said, 2020 is going to be my year.\r\nSoon, news of a novel coronavirus from Wuhan, China, began spreading. In her first few months on the job, the 29-year-old was working evacuation … [+17518 chars]",
+         "urlToImage" : "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/DTUNE5H7UQI6VNKVJVY2SJKPJM.jpg&w=1440",
          "author" : "Ian Duncan, Lori Aratani, Michael Laris",
          "url" : "https://www.washingtonpost.com/local/trafficandcommuting/airline-industry-job-cuts/2020/09/26/824b1380-fdaf-11ea-b555-4d71a9254f4b_story.html",
-         "content" : "It was Jan. 2.\r\nI said, 2020 is going to be my year.\r\nSoon, news of a novel coronavirus from Wuhan, China, began spreading. In her first few months on the job, the 29-year-old was working evacuation … [+17518 chars]",
-         "publishedAt" : "2020-09-26T22:49:00Z",
          "title" : "Already facing its worst crisis since 9/11, airline industry set to cut more than 35,000 jobs this week - The Washington Post",
+         "publishedAt" : "2020-09-26T22:49:00Z",
          "source" : {
-            "name" : "The Washington Post",
-            "id" : "the-washington-post"
-         },
-         "urlToImage" : "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/DTUNE5H7UQI6VNKVJVY2SJKPJM.jpg&w=1440",
-         "description" : "The furloughs are set to begin Oct. 1, when legal protections run out. Tens of thousands more workers have seen hours cut or taken unpaid leave as the coronavirus has shrunk demand for air travel."
+            "id" : "the-washington-post",
+            "name" : "The Washington Post"
+         }
       },
       {
-         "url" : "https://gizmodo.com/this-hacked-coffee-maker-demands-ransom-and-demonstrate-1845191662",
-         "author" : "Alyse Stanley",
-         "content" : "Its no secret that the Internet of Things is full of insecure gadgets. All you need is one high profile incident to be flooded with terrifying headlines about how everything from robotic vacuum clean… [+4274 chars]",
-         "publishedAt" : "2020-09-26T22:30:29Z",
-         "title" : "This Hacked Coffee Maker Demands Ransom and Demonstrates a Terrifying Implication About the IoT - Gizmodo",
-         "urlToImage" : "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/nznckrxpdkvey76qr8wu.jpg",
          "source" : {
             "name" : "Gizmodo.com",
             "id" : null
          },
+         "publishedAt" : "2020-09-26T22:30:29Z",
+         "url" : "https://gizmodo.com/this-hacked-coffee-maker-demands-ransom-and-demonstrate-1845191662",
+         "title" : "This Hacked Coffee Maker Demands Ransom and Demonstrates a Terrifying Implication About the IoT - Gizmodo",
+         "author" : "Alyse Stanley",
+         "content" : "Its no secret that the Internet of Things is full of insecure gadgets. All you need is one high profile incident to be flooded with terrifying headlines about how everything from robotic vacuum clean… [+4274 chars]",
+         "urlToImage" : "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/nznckrxpdkvey76qr8wu.jpg",
          "description" : "It’s no secret that the Internet of Things is full of insecure gadgets. All you need is one high profile incident to be flooded with terrifying headlines about how everything from robotic vacuum cleaners to smart sex toys can be hacked to spy on you. However,…"
       },
       {
-         "url" : "https://cleantechnica.com/2020/09/26/why-did-tesla-have-battery-day-why-did-it-reveal-the-semi-years-ago/",
-         "author" : "https://www.facebook.com/zachary.shahan",
-         "content" : "BatteriesPublished on September 26th, 2020 |\r\n by Zachary Shahan\r\n0\r\nSeptember 26th, 2020 by Zachary Shahan \r\nFor many Tesla followers, Battery Day was a mind-blowing event that was one of the highli… [+7863 chars]",
-         "publishedAt" : "2020-09-26T22:06:19Z",
-         "title" : "Why Did Tesla Have Battery Day? Why Did It Reveal The Semi Years Ago? - CleanTechnica",
-         "source" : {
-            "name" : "CleanTechnica",
-            "id" : null
-         },
-         "urlToImage" : "https://cleantechnica.com/files/2020/09/Battery-Structures-Tesla-Battery-Day-Watermarked.jpg",
-         "description" : "For many Tesla followers, Battery Day was a mind-blowing event that was one of the highlights of the year, if not the decade. For others, it was not what they expected and was a letdown because no big new product was made immediately available, and no new veh…"
-      },
-      {
-         "url" : "https://www.engadget.com/hyundai-rm20e-electric-race-car-210624633.html",
-         "author" : "",
-         "content" : "Hyundai’s electric sports car ambitions didn’t end with a spruced-up Veloster. The automaker has unveiled an RM20e Racing Midship Sports Car that not only promises to boost its motorsport plans, but … [+606 chars]",
-         "publishedAt" : "2020-09-26T21:37:09Z",
-         "title" : "Hyundai's next electric race car hints at the future of sporty road-going EVs - Engadget",
          "urlToImage" : "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-09%2Ffb5e4ca0-0035-11eb-9b7b-ad731bc8d753&client=amp-blogside-v2&signature=86b0b4d7e9a50f2db910aba03e019f69656f1514",
+         "content" : "Hyundai’s electric sports car ambitions didn’t end with a spruced-up Veloster. The automaker has unveiled an RM20e Racing Midship Sports Car that not only promises to boost its motorsport plans, but … [+606 chars]",
+         "description" : "Hyundai has unveiled its next electric race car, the RM20e, and it points to where road-going N sports cars are headed.",
+         "title" : "Hyundai's next electric race car hints at the future of sporty road-going EVs - Engadget",
+         "url" : "https://www.engadget.com/hyundai-rm20e-electric-race-car-210624633.html",
+         "publishedAt" : "2020-09-26T21:37:09Z",
          "source" : {
-            "name" : "Engadget",
-            "id" : "engadget"
+            "id" : "engadget",
+            "name" : "Engadget"
          },
-         "description" : "Hyundai has unveiled its next electric race car, the RM20e, and it points to where road-going N sports cars are headed."
+         "author" : ""
       },
       {
-         "content" : "A federal grand jury in California has indicted a 36-year-old Nevada woman accused of trying to hire a hit man on the internet for $5,000 in bitcoin to kill her ex-husband. \r\nKristy Lynn Felkins of F… [+781 chars]",
-         "author" : "Associated Press",
-         "url" : "https://ktla.com/news/california/nevada-woman-tried-to-hire-hit-man-to-kill-her-ex-in-norcal-for-5000-in-bitcoin-feds/",
+         "title" : "Chinese state TV just shilled DeFi and Ethereum to hundreds of millions of users - CryptoSlate",
+         "url" : "https://cryptoslate.com/chinese-state-tv-just-shilled-defi-and-ethereum-to-hundreds-of-millions-of-users/",
+         "publishedAt" : "2020-09-26T20:34:00Z",
          "source" : {
-            "name" : "KTLA Los Angeles",
+            "name" : "CryptoSlate",
             "id" : null
          },
-         "urlToImage" : "https://ktla.com/wp-content/uploads/sites/4/2020/09/Screen-Shot-2020-09-26-at-1.28.50-PM-1.png?w=1280",
-         "description" : "A federal grand jury in California has indicted a 36-year-old Nevada woman accused of trying to hire a hit man on the internet for $5,000 in bitcoin to kill her ex-husband. Kristy Lynn Felkins of Fallon is accused of communicating with someone in 2016 on a we…",
-         "publishedAt" : "2020-09-26T20:33:00Z",
-         "title" : "Nevada woman tried to hire hit man to kill her ex in NorCal for $5,000 in bitcoin: Feds - KTLA"
-      },
-      {
-         "publishedAt" : "2020-09-26T20:18:00Z",
-         "title" : "Deutsche Bank’s Manfred Knof named as new Commerzbank CEO - Financial Times",
-         "urlToImage" : "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F0e283c39-8e9b-4f7d-a36b-42179e6f67a2.jpg?source=next-opengraph&fit=scale-down&width=900",
-         "source" : {
-            "name" : "Financial Times",
-            "id" : "financial-times"
-         },
-         "description" : "Lacklustre German lender ends its leadership limbo by turning to former Allianz manager",
-         "url" : "https://www.ft.com/content/c03e0f2c-b5f1-41fc-9e42-637ed1144d93",
          "author" : null,
-         "content" : "Deutsche Bank's head of German retail banking Manfred Knof will become the new chief executive of domestic rival Commerzbank, the Frankfurt based lender announced on Saturday.\r\nThe 55-year old former… [+2171 chars]"
+         "urlToImage" : "https://images.unsplash.com/photo-1555088467-bb71ce62bac2?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjE2ODU3Mn0&fm=jpg&q=85&fit=crop&w=2560&h=1707",
+         "content" : "Over the past few years, Chinese authorities have undergone a strong crackdown on most things crypto in the country. Late last year, the Shanghai bank of the People’s Bank of China targeted ICOs, dee… [+3912 chars]",
+         "description" : "Over the past few years, Chinese authorities have undergone a strong crackdown on most things crypto in the country."
       },
       {
-         "content" : "The Precept’s cabin uses a slew of recycled and reclaimed material, including plastic bottles, cork vinyl and fishing nets. You’ll also find a flax composite in both the interior and exterior. Howeve… [+707 chars]",
-         "url" : "https://www.engadget.com/polestar-precept-production-car-195146141.html",
-         "author" : "",
+         "description" : "Lacklustre German lender ends its leadership limbo by turning to former Allianz manager",
+         "content" : "Deutsche Bank's head of German retail banking Manfred Knof will become the new chief executive of domestic rival Commerzbank, the Frankfurt based lender announced on Saturday.\r\nThe 55-year old former… [+2171 chars]",
+         "urlToImage" : "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F0e283c39-8e9b-4f7d-a36b-42179e6f67a2.jpg?source=next-opengraph&fit=scale-down&width=900",
+         "author" : null,
+         "url" : "https://www.ft.com/content/c03e0f2c-b5f1-41fc-9e42-637ed1144d93",
+         "title" : "Deutsche Bank’s Manfred Knof named as new Commerzbank CEO - Financial Times",
+         "publishedAt" : "2020-09-26T20:18:00Z",
          "source" : {
-            "name" : "Engadget",
-            "id" : "engadget"
+            "id" : "financial-times",
+            "name" : "Financial Times"
+         }
+      },
+      {
+         "description" : "The Commerce Department reportedly says that US companies exporting gear to Semiconductor Manufacturing International Corporation must first get a license to do so.",
+         "urlToImage" : "https://cnet1.cbsistatic.com/img/kd-OgEp_DUsaNd1K15m6iWvSMbo=/0x0:408x397/1200x630/2020/09/26/d1df6280-808e-445a-904e-3f8547e23e41/smic-logo-getty.jpg",
+         "content" : "The Beijing branch of Semiconductor Manufacturing International Corporation.\r\nSu Weizhong/Getty Images\r\nUS wariness of Chinese tech firms was underlined again Friday, when the Commerce Department sen… [+2052 chars]",
+         "author" : "Edward Moyer",
+         "publishedAt" : "2020-09-26T20:17:00Z",
+         "source" : {
+            "id" : null,
+            "name" : "CNET"
          },
-         "urlToImage" : "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-09%2F466ef220-0028-11eb-9abf-72e1a7e84916&client=amp-blogside-v2&signature=3e6d4e3f7b0508c8ad43814b5212ba2fc2906e2b",
+         "title" : "US sets restrictions on China's biggest chipmaker, citing military fears - CNET",
+         "url" : "https://www.cnet.com/news/us-sets-restrictions-on-chinas-biggest-chipmaker-citing-military-fears/"
+      },
+      {
          "description" : "Polestar is putting its Precept prototype car into production, adding semi-autonomous features and eco-friendly design to its EV lineup.",
+         "content" : "The Precept’s cabin uses a slew of recycled and reclaimed material, including plastic bottles, cork vinyl and fishing nets. You’ll also find a flax composite in both the interior and exterior. Howeve… [+707 chars]",
+         "urlToImage" : "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-09%2F466ef220-0028-11eb-9abf-72e1a7e84916&client=amp-blogside-v2&signature=3e6d4e3f7b0508c8ad43814b5212ba2fc2906e2b",
+         "author" : "",
+         "url" : "https://www.engadget.com/polestar-precept-production-car-195146141.html",
+         "title" : "Polestar will put its eco-friendly Precept car into production - Engadget",
          "publishedAt" : "2020-09-26T20:14:03Z",
-         "title" : "Polestar will put its eco-friendly Precept car into production - Engadget"
+         "source" : {
+            "id" : "engadget",
+            "name" : "Engadget"
+         }
       },
       {
-         "description" : "Anti-fiat gold prices suffered the worst week since August as the US Dollar gained ground. Will losses extend? All eyes turn to fiscal stimulus hopes and non-farm payrolls data.",
          "urlToImage" : "https://a.c-dn.net/b/1txQs2/headline_GOLD_31.JPG",
-         "source" : {
-            "name" : "DailyFX",
-            "id" : null
-         },
-         "title" : "Gold Price Outlook: Rising US Dollar Sinks XAU/USD, Will Losses Extend? - DailyFX",
-         "publishedAt" : "2020-09-26T20:01:14Z",
          "content" : "Crart created with TradingView\r\nGold Fundamental Outlook: Neutral\r\n<ul><li>Gold prices suffered as the US Dollar gained ground</li><li>Falling Treasury yields could yet offer some cushion</li><li>All… [+2945 chars]",
+         "description" : "Anti-fiat gold prices suffered the worst week since August as the US Dollar gained ground. Will losses extend? All eyes turn to fiscal stimulus hopes and non-farm payrolls data.",
+         "source" : {
+            "id" : null,
+            "name" : "DailyFX"
+         },
+         "publishedAt" : "2020-09-26T20:01:14Z",
+         "title" : "Gold Price Outlook: Rising US Dollar Sinks XAU/USD, Will Losses Extend? - DailyFX",
          "url" : "https://www.dailyfx.com/forex/fundamental/forecast/weekly/chf/2020/09/26/Gold-Price-Outlook-Rising-US-Dollar-Sinks-XAUUSD-Will-Losses-Extend.html",
          "author" : "Daniel Dubrovsky"
       },
       {
-         "title" : "Mark Cuban proposes $1,000 stimulus check every 2 weeks, 10-day spending deadline - syracuse.com",
-         "publishedAt" : "2020-09-26T18:52:00Z",
-         "description" : "The latest stimulus plan includes hefty direct payments.",
+         "description" : "Hofbrauhaus, the German beer hall on Scott Street in downtown Buffalo, has finally opened its doors.",
+         "urlToImage" : "https://media.wgrz.com/assets/WGRZ/images/25b6006f-0730-4d58-9dba-cd8fbd524e9e/25b6006f-0730-4d58-9dba-cd8fbd524e9e_1140x641.jpg",
+         "content" : "BUFFALO, N.Y. The wait is officially over. Hofbrauhaus Buffalo, the German beer hall on Scott Street, has finally opened its doors.\r\nThe project was first announced in 2013, and the developer has ann… [+823 chars]",
+         "author" : "WGRZ Staff",
+         "title" : "Hofbrauhaus Buffalo now open for business - WGRZ.com",
+         "url" : "https://www.wgrz.com/article/money/business/hofbrauhaus-buffalo-open-for-business/71-4a8cb62a-3f52-487d-93f9-53488bc1c7c4",
          "source" : {
             "id" : null,
-            "name" : "syracuse.com"
+            "name" : "WGRZ.com"
          },
-         "urlToImage" : "https://www.syracuse.com/resizer/hsz-AH3vmwdw3UgTK8bAzpv92CQ=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/SUR2NAAHUVATFA4KAFPHW4V5OY.jpg",
-         "url" : "https://www.syracuse.com/coronavirus/2020/09/mark-cuban-proposes-1000-stimulus-check-every-2-weeks-10-day-spending-deadline.html",
-         "author" : "Leada Gore | lgore@al.com",
-         "content" : "With Congress at an impasse over a second round of coronavirus stimulus checks, billionaire Mark Cuban has his own idea.\r\nCuban, Shark Tank investor and Dallas Maverick owner, told CNBC he is in favo… [+1196 chars]"
+         "publishedAt" : "2020-09-26T19:46:00Z"
       },
       {
+         "description" : "Tesla has introduced a Model Y \"Acceleration Boost\" that unlocks added performance — if you're willing to pay $2,000.",
+         "urlToImage" : "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-09%2Fec0e3350-001c-11eb-bddd-67cacf9b253e&client=amp-blogside-v2&signature=fd2959343ec11de77a72b30ea70966b0aed7fe13",
          "content" : "Tesla has a long history of including features in hardware and locking them with software to help simplify its production while keeping costs in check. However, this is one of the most obvious exampl… [+348 chars]",
          "author" : "",
+         "title" : "Tesla will boost your Model Y's acceleration for $2,000 - Engadget",
          "url" : "https://www.engadget.com/tesla-model-y-acceleration-boost-174341431.html",
-         "urlToImage" : "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-09%2Fec0e3350-001c-11eb-bddd-67cacf9b253e&client=amp-blogside-v2&signature=fd2959343ec11de77a72b30ea70966b0aed7fe13",
-         "source" : {
-            "name" : "Engadget",
-            "id" : "engadget"
-         },
-         "description" : "Tesla has introduced a Model Y \"Acceleration Boost\" that unlocks added performance — if you're willing to pay $2,000.",
          "publishedAt" : "2020-09-26T18:38:34Z",
-         "title" : "Tesla will boost your Model Y's acceleration for $2,000 - Engadget"
+         "source" : {
+            "id" : "engadget",
+            "name" : "Engadget"
+         }
       },
       {
-         "url" : "https://www.newschannel5.com/news/work-search-requirements-for-tennessee-unemployment-resume-sunday",
          "author" : "Kyle Davis",
-         "content" : "NASHVILLE, Tenn. (WTVF) The work search requirement to remain eligible to receive Tennessee unemployment benefits will resume Sunday, the Tennessee Department of Labor and Workforce Development annou… [+2546 chars]",
          "publishedAt" : "2020-09-26T17:44:00Z",
-         "title" : "Work search requirements for Tennessee unemployment resume Sunday - NewsChannel5.com",
          "source" : {
             "name" : "NewsChannel5.com",
             "id" : null
          },
+         "title" : "Work search requirements for Tennessee unemployment resume Sunday - NewsChannel5.com",
+         "url" : "https://www.newschannel5.com/news/work-search-requirements-for-tennessee-unemployment-resume-sunday",
+         "description" : "The job search requirement to remain eligible to receive Tennessee unemployment benefits will resume Sunday",
          "urlToImage" : "https://ewscripps.brightspotcdn.com/dims4/default/ca56d44/2147483647/strip/true/crop/1280x672+0+144/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F82%2Fec%2F7a2aae40482f81d77184bc7017dc%2Funemployment.jpg",
-         "description" : "The job search requirement to remain eligible to receive Tennessee unemployment benefits will resume Sunday"
+         "content" : "NASHVILLE, Tenn. (WTVF) The work search requirement to remain eligible to receive Tennessee unemployment benefits will resume Sunday, the Tennessee Department of Labor and Workforce Development annou… [+2546 chars]"
       },
       {
-         "publishedAt" : "2020-09-26T16:50:00Z",
+         "author" : "Nouran Salahieh and Nexstar Media Wire",
          "title" : "CDC ranks Halloween activities by COVID-19 risk: No trick-or-treating, crowded parties or indoor haunted houses - WJW FOX 8 News Cleveland",
-         "urlToImage" : "https://fox8.com/wp-content/uploads/sites/12/2020/09/GettyImages-1273336929-1.jpg?w=1280",
+         "url" : "https://fox8.com/news/cdc-ranks-halloween-activities-by-covid-19-risk-no-trick-or-treating-crowded-parties-or-indoor-haunted-houses/",
+         "publishedAt" : "2020-09-26T16:50:00Z",
          "source" : {
             "id" : null,
             "name" : "fox8.com"
          },
          "description" : "Traditional trick-or-treating, crowded parties and indoor haunted houses are among the activities the CDC says pose the highest risk for coronavirus transmission, and families should avoid them this year.",
-         "author" : "Nouran Salahieh and Nexstar Media Wire",
-         "url" : "https://fox8.com/news/cdc-ranks-halloween-activities-by-covid-19-risk-no-trick-or-treating-crowded-parties-or-indoor-haunted-houses/",
+         "urlToImage" : "https://fox8.com/wp-content/uploads/sites/12/2020/09/GettyImages-1273336929-1.jpg?w=1280",
          "content" : "LOS ANGELES (KTLA) With Halloween on the way and the coronavirus still widespread, the U.S. Centers for Disease Control and Prevention released guidelines for safely celebrating the spooky holiday.\r\n… [+4794 chars]"
+      },
+      {
+         "source" : {
+            "name" : "TribLIVE",
+            "id" : null
+         },
+         "publishedAt" : "2020-09-26T16:35:03Z",
+         "url" : "https://triblive.com/news/pennsylvania/pennsylvania-posts-1000-plus-new-covid-19-cases-third-highest-this-month/",
+         "title" : "Pennsylvania posts 1000-plus new covid-19 cases, third highest this month - TribLIVE",
+         "author" : "Zach Brendza",
+         "content" : "You are solely responsible for your comments and by using TribLive.com you agree to our\r\nTerms of Service.\r\nWe moderate comments. Our goal is to provide substantive commentary for a general readershi… [+1686 chars]",
+         "urlToImage" : "https://triblive.com/wp-content/uploads/2020/09/3060785_web1_ptr-statecorona-092420.jpg",
+         "description" : "Pennsylvania has 1,029 new coronavirus cases Saturday, according to the state Department of Health. In addition, 22 new deaths were reported. The new cases and deaths bring their totals to 155,232 and 8,103, respectively. The positivity rate for new cases is …"
       },
       {
          "description" : "<p>Johnson & Johnson vaccine development moves on to 60,000 person trial </p>",
          "urlToImage" : "https://static.independent.co.uk/s3fs-public/thumbnails/image/2019/08/27/13/pri81716937.jpg",
+         "content" : "One of the numerous proposed coronavirus vaccines has produced a strong immune response in test subjects according to a report issued Friday.  \r\nJohnson &amp; Johnson's JNJ.N Covid-19 vaccine, called… [+1947 chars]",
+         "author" : "Graig Graziosi",
+         "title" : "Coronavirus vaccine: Johnson & Johnson jab shows response in 98% of test participants - The Independent",
+         "url" : "https://www.independent.co.uk/news/world/americas/coronavirus-vaccine-trials-covid-19-johnson-b624918.html",
+         "publishedAt" : "2020-09-26T16:29:00Z",
          "source" : {
             "id" : "independent",
             "name" : "Independent"
-         },
-         "title" : "Coronavirus vaccine: Johnson & Johnson jab shows response in 98% of test participants - The Independent",
-         "publishedAt" : "2020-09-26T16:29:00Z",
-         "content" : "One of the numerous proposed coronavirus vaccines has produced a strong immune response in test subjects according to a report issued Friday.  \r\nJohnson &amp; Johnson's JNJ.N Covid-19 vaccine, called… [+1947 chars]",
-         "url" : "https://www.independent.co.uk/news/world/americas/coronavirus-vaccine-trials-covid-19-johnson-b624918.html",
-         "author" : "Graig Graziosi"
+         }
       },
       {
-         "source" : {
-            "name" : "Yahoo Entertainment",
-            "id" : null
-         },
-         "urlToImage" : "https://s.yimg.com/ny/api/res/1.2/oUgZObV4SuIFdXZ0t7fMZQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyODA7aD04NTMuMzMzMzMzMzMzMzMzNA--/https://s.yimg.com/uu/api/res/1.2/OembFCOA7cN7SVtCuMt.Fg--~B/aD0xNjY3O3c9MjUwMDtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en-US/nbc_news_diverse_167/326b303538266c00fb46f7c98161ecd9",
-         "description" : "The ban \"significantly weakens the fabric of the Chinese immigrant community\" in America, says one expert.",
-         "publishedAt" : "2020-09-26T16:26:00Z",
-         "title" : "Chinese Americans look to new platforms as WeChat's future remains uncertain - Yahoo News",
-         "content" : "Back in April, when New York City was in the grips of COVID-19, Yuan Mingyue relied on WeChat to keep in touch with relatives in China, to check on their health and to share how things were in New Yo… [+4773 chars]",
-         "url" : "https://news.yahoo.com/chinese-americans-look-platforms-wechats-162624002.html",
-         "author" : "Chris Fuchs"
-      },
-      {
-         "title" : "After Apple And Tesla, Berkshire And Amazon Should Split Their Shares, Too - Forbes",
-         "publishedAt" : "2020-09-26T16:20:00Z",
+         "urlToImage" : "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6f3edcf34efeca4dc85c2b%2F0x0.jpg%3FcropX1%3D7%26cropX2%3D2566%26cropY1%3D0%26cropY2%3D1440",
+         "content" : "The logo of is seen on a screen next to an illustration of the stock market. is one of the biggest ... [+] companies in the world. (Photo by Alexander Pohl/NurPhoto via Getty Images)\r\nNurPhoto via Ge… [+10741 chars]",
          "description" : "Apple and Tesla split their shares last month. This double starburst of “alpha” added an astounding $770 Bn to the companies’ market capitalizations – equal to about 2% of the entire value of the U. S. stock market. Berkshire Hathaway and Amazon should take n…",
+         "publishedAt" : "2020-09-26T16:20:00Z",
          "source" : {
             "name" : "Forbes",
             "id" : null
          },
-         "urlToImage" : "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6f3edcf34efeca4dc85c2b%2F0x0.jpg%3FcropX1%3D7%26cropX2%3D2566%26cropY1%3D0%26cropY2%3D1440",
+         "title" : "After Apple And Tesla, Berkshire And Amazon Should Split Their Shares, Too - Forbes",
          "url" : "https://www.forbes.com/sites/georgecalhoun/2020/09/26/after-apple-and-tesla-berkshire-and-amazon-should-split-their-shares-too/",
-         "author" : "George Calhoun",
-         "content" : "The logo of is seen on a screen next to an illustration of the stock market. is one of the biggest ... [+] companies in the world. (Photo by Alexander Pohl/NurPhoto via Getty Images)\r\nNurPhoto via Ge… [+10741 chars]"
+         "author" : "George Calhoun"
       },
       {
-         "title" : "U.S. restricts tech exports to China’s biggest semiconductor manufacturer in escalation of trade tensions - The Washington Post",
-         "publishedAt" : "2020-09-26T16:13:00Z",
-         "description" : "U.S. companies have been notified that they will now need a license to export certain technology to Semiconductor Manufacturing International Corp., according to a copy of the Commerce Department letter reviewed by The Washington Post.",
-         "source" : {
-            "name" : "The Washington Post",
-            "id" : "the-washington-post"
-         },
-         "urlToImage" : "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PP7ZKZXQ6YI6VABFLU2IS5UKZA.jpg&w=1440",
-         "url" : "https://www.washingtonpost.com/technology/2020/09/26/us-restricts-exports-chinas-smic/",
-         "author" : "Jeanne Whalen",
-         "content" : "The letter said the licensing regime will be in place pending the U.S. governments review of SMIC and its subsidiaries. \r\nThe Pentagon earlier this month said the Trump administration was considering… [+3107 chars]"
-      },
-      {
-         "content" : "The smiling Black chef will soon come off the boxes of Cream of Wheat.\r\nMore than three months after Cream of Wheats parent company, B&amp;G Foods, said it was initiating an immediate review of the b… [+3135 chars]",
-         "url" : "https://www.usatoday.com/story/money/food/2020/09/26/cream-of-wheat-box-black-chef-removal-2021/3546813001/",
-         "author" : "Kelly Tyko",
-         "urlToImage" : "https://www.gannett-cdn.com/presto/2020/06/17/USAT/790d90b6-8be3-4be4-acf2-1815234ec507-XXX_racial_stereotype_brands_rd368.JPG?crop=3859,2171,x0,y220&width=3200&height=1801&format=pjpg&auto=webp",
-         "source" : {
-            "name" : "USA Today",
-            "id" : "usa-today"
-         },
          "description" : "The smiling Black chef will soon come off the boxes of Cream of Wheat. The news comes after Mars Inc said Uncle Ben's will be renamed Ben's Original.",
+         "urlToImage" : "https://www.gannett-cdn.com/presto/2020/06/17/USAT/790d90b6-8be3-4be4-acf2-1815234ec507-XXX_racial_stereotype_brands_rd368.JPG?crop=3859,2171,x0,y220&width=3200&height=1801&format=pjpg&auto=webp",
+         "content" : "The smiling Black chef will soon come off the boxes of Cream of Wheat.\r\nMore than three months after Cream of Wheats parent company, B&amp;G Foods, said it was initiating an immediate review of the b… [+3135 chars]",
+         "author" : "Kelly Tyko",
+         "source" : {
+            "id" : "usa-today",
+            "name" : "USA Today"
+         },
          "publishedAt" : "2020-09-26T15:52:59Z",
-         "title" : "Cream of Wheat to remove Black chef mascot from the box as it updates imagery in wake of calls for racial equality - USA TODAY"
-      },
-      {
-         "description" : "Dow Jones futures: A stock market rally attempt is underway, but game plan for bearish or bullish action. Alibaba, Nvidia and Target are stocks to watch.",
-         "source" : {
-            "id" : null,
-            "name" : "Investor's Business Daily"
-         },
-         "urlToImage" : "https://www.investors.com/wp-content/uploads/2020/03/Stock-NFLfootball-01-shut.jpg",
-         "title" : "Market Rally Shows Promise; How To Game Plan For A Key Week - Investor's Business Daily",
-         "publishedAt" : "2020-09-26T15:20:00Z",
-         "content" : "Dow Jones futures will open Sunday evening, along with S&amp;P 500 futures and Nasdaq futures. A new stock market rally attempt is underway as another wild week on Wall Street ended on a high note. A… [+9771 chars]",
-         "url" : "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-stock-market-rally-game-plans-alibaba-nvidia-bullish-action/",
-         "author" : "Investor's Business Daily"
-      },
-      {
-         "url" : "https://www.foxbusiness.com/lifestyle/hawaiian-airlines-coronavirus-testing-passengers",
-         "author" : "Ann Schmidt",
-         "content" : "Hawaiian Airlines is now providing coronavirus testing for its passengers.\r\nThe airline announced the new program on Friday, making it the second U.S. airline to offer COVID-19 testing for travelers.… [+2909 chars]",
-         "publishedAt" : "2020-09-26T15:13:00Z",
-         "title" : "Hawaiian Airlines offering coronavirus testing to travelers - Fox Business",
-         "source" : {
-            "name" : "Fox Business",
-            "id" : null
-         },
-         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/09/0/0/HawaiianAirlinesIstock22.jpg?ve=1&tl=1",
-         "description" : "Hawaiian Airlines announced Friday that it would start offering coronavirus testing to passengers starting on Oct. 15."
+         "title" : "Cream of Wheat to remove Black chef mascot from the box as it updates imagery in wake of calls for racial equality - USA TODAY",
+         "url" : "https://www.usatoday.com/story/money/food/2020/09/26/cream-of-wheat-box-black-chef-removal-2021/3546813001/"
       }
    ],
    "totalResults" : 70,
