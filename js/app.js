@@ -1,4 +1,4 @@
-'use strict';
+"use strict";
 
 var URL = 'https://raw.githubusercontent.com/ehom/external-data/master/headlines.json';
 
@@ -22,7 +22,14 @@ function getTimePast(t2, t1) {
   var milliSecondsDiff = t2 - t1;
   console.debug("msecs diff: ", milliSecondsDiff);
   var hoursAgo = Math.round(milliSecondsDiff / (1000 * 60 * 60));
-  return hoursAgo + 'h ago';
+
+  var formatter = new Intl.RelativeTimeFormat("en", {
+    localeMatcher: "best fit", // other values: "lookup"
+    numeric: "always", // other values: "auto"
+    style: "long" // other values: "short" or "narrow"
+  });
+
+  return formatter.format(-hoursAgo, 'hour');
 }
 
 function Headlines(props) {
@@ -46,41 +53,41 @@ function Headlines(props) {
     }
 
     return React.createElement(
-      'div',
-      { 'class': 'card mb-5 col-sm-4 app-headline' },
-      React.createElement('img', { 'class': 'card-img-top', src: article.urlToImage }),
+      "div",
+      { "class": "card mb-5 col-sm-4 app-headline" },
+      React.createElement("img", { "class": "card-img-top", src: article.urlToImage }),
       React.createElement(
-        'div',
-        { 'class': 'card-body' },
+        "div",
+        { "class": "card-body" },
         React.createElement(
-          'h5',
-          { 'class': 'card-title' },
+          "h5",
+          { "class": "card-title" },
           article.title
         ),
         React.createElement(
-          'p',
-          { 'class': 'card-text' },
+          "p",
+          { "class": "card-text" },
           React.createElement(
-            'a',
-            { href: article.url, target: '_blank' },
+            "a",
+            { href: article.url, target: "_blank" },
             description
           )
         )
       ),
       React.createElement(
-        'ul',
-        { 'class': 'list-group list-group-flush' },
+        "ul",
+        { "class": "list-group list-group-flush" },
         React.createElement(
-          'li',
-          { 'class': 'list-group-item' },
+          "li",
+          { "class": "list-group-item" },
           howLongAgo
         )
       )
     );
   });
   return React.createElement(
-    'div',
-    { 'class': 'row' },
+    "div",
+    { "class": "row" },
     headlines
   );
 }
