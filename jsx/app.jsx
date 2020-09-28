@@ -75,7 +75,7 @@ function Today() {
   };
 
   const defaultLocale = undefined;
-  const todaysDate = new Date().toLocaleDateString(defaultLocale, options);
+  const todaysDate = Intl.DateTimeFormat(defaultLocale, options).format(new Date());
 
   return (
     <React.Fragment>{todaysDate}</React.Fragment>

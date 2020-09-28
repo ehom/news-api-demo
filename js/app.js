@@ -1,6 +1,6 @@
 "use strict";
 
-var URL = 'https://raw.githubusercontent.com/ehom/external-data/master/news-api-org/headlines.json';
+var URL = 'https://raw.githubusercontent.com/ehom/external-data/master/headlines.json';
 
 fetch(URL).then(function (response) {
   return response.json();
@@ -99,7 +99,7 @@ function Today() {
   };
 
   var defaultLocale = undefined;
-  var todaysDate = new Date().toLocaleDateString(defaultLocale, options);
+  var todaysDate = Intl.DateTimeFormat(defaultLocale, options).format(new Date());
 
   return React.createElement(
     React.Fragment,
