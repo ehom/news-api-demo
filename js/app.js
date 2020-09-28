@@ -99,7 +99,7 @@ function Today() {
   };
 
   var defaultLocale = undefined;
-  var todaysDate = Intl.DateTimeFormat(defaultLocale, options).format(new Date());
+  var todaysDate = new Intl.DateTimeFormat(defaultLocale, options).format(new Date());
 
   return React.createElement(
     React.Fragment,
