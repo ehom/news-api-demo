@@ -1,6 +1,6 @@
 'use strict';
 
-var URL = 'https://raw.githubusercontent.com/ehom/external-data/master/headlines.json';
+var URL = 'https://raw.githubusercontent.com/ehom/external-data/master/news-api-org/headlines.json';
 
 fetch(URL).then(function (response) {
   return response.json();
