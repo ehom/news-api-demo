@@ -1,266 +1,266 @@
 {
+   "status" : "ok",
    "articles" : [
       {
-         "source" : {
-            "name" : "Investor's Business Daily",
-            "id" : null
-         },
-         "urlToImage" : "https://www.investors.com/wp-content/uploads/2020/06/Stock-bearbullchart-02-adobe.jpg",
          "author" : "Investor's Business Daily",
-         "title" : "Dow Jones Gains Over 400 Points While Nasdaq Leads Market; Chip Stocks Higher - Investor's Business Daily",
+         "source" : {
+            "id" : null,
+            "name" : "Investor's Business Daily"
+         },
+         "url" : "https://www.investors.com/market-trend/stock-market-today/dow-jones-gains-over-400-points-while-nasdaq-leads-chip-stocks-higher/",
+         "urlToImage" : "https://www.investors.com/wp-content/uploads/2020/06/Stock-bearbullchart-02-adobe.jpg",
          "content" : "The Dow Jones Industrial Average saw sizable gains in today's stock market, while the Nasdaq and S&amp;P 500 ended the day positive as well. The Dow posted a gain of over 400 points as stocks looked … [+4325 chars]",
          "description" : "The Dow Jones Industrial Average saw sizable gains in today's stock market, while the Nasdaq and S&P 500 ended the day positive as well.",
-         "url" : "https://www.investors.com/market-trend/stock-market-today/dow-jones-gains-over-400-points-while-nasdaq-leads-chip-stocks-higher/",
-         "publishedAt" : "2020-09-28T20:33:00Z"
+         "publishedAt" : "2020-09-28T20:33:00Z",
+         "title" : "Dow Jones Gains Over 400 Points While Nasdaq Leads Market; Chip Stocks Higher - Investor's Business Daily"
       },
       {
          "author" : "Greg Robb",
-         "title" : "Long-standing wealth gap between Blacks and whites remains substantial, Fed data for 2019 show - MarketWatch",
-         "content" : "The wealth gap between whites and Blacks in the United States stayed stubbornly wide over the three years that ended in 2019, according to the latest data from the Federal Reserve released Monday.The… [+2854 chars]",
-         "description" : "Typical white family has eight times the wealth of typical Black family",
-         "publishedAt" : "2020-09-28T20:22:00Z",
-         "url" : "https://www.marketwatch.com/story/long-standing-wealth-gap-between-blacks-and-whites-remains-substantial-new-fed-data-for-2019-show-2020-09-28",
          "source" : {
             "id" : null,
             "name" : "MarketWatch"
          },
-         "urlToImage" : "https://s.marketwatch.com/public/resources/images/MW-IP542_crowd__ZG_20200928112116.jpg"
+         "publishedAt" : "2020-09-28T20:22:00Z",
+         "title" : "Long-standing wealth gap between Blacks and whites remains substantial, Fed data for 2019 show - MarketWatch",
+         "urlToImage" : "https://s.marketwatch.com/public/resources/images/MW-IP542_crowd__ZG_20200928112116.jpg",
+         "content" : "The wealth gap between whites and Blacks in the United States stayed stubbornly wide over the three years that ended in 2019, according to the latest data from the Federal Reserve released Monday.The… [+2854 chars]",
+         "description" : "Typical white family has eight times the wealth of typical Black family",
+         "url" : "https://www.marketwatch.com/story/long-standing-wealth-gap-between-blacks-and-whites-remains-substantial-new-fed-data-for-2019-show-2020-09-28"
       },
       {
-         "source" : {
-            "id" : null,
-            "name" : "Yahoo Entertainment"
-         },
          "urlToImage" : "https://s.yimg.com/ny/api/res/1.2/jBJYC8QuhYWkXLkxVr0CwQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyODA7aD03OTEuNDY2NjY2NjY2NjY2Nw--/https://s.yimg.com/uu/api/res/1.2/K_JsD0mmK0iVwr.Huzi_bQ--~B/aD0zMzgxO3c9NTQ3MTtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2020-08/46eea450-e70c-11ea-bcff-2a608ddc5e6f",
-         "title" : "Palantir eyes $22B market debut — here's what the secretive big-data firm does - Yahoo Finance",
-         "author" : "Daniel Howley",
          "content" : "Palantir (PLTR), the secretive big-data firm co-founded by billionaire PayPal (PYPL) co-founder and Facebook (FB) investor Peter Thiel, will make its stock market debut via a direct listing on Sept. … [+6996 chars]",
          "description" : "Palantir is set to make its debut on the public markets on Tuesday. Here's what you need to know about the secretive big-data company and what its does.",
          "url" : "https://finance.yahoo.com/news/what-palantir-does-direct-listing-202144724.html",
-         "publishedAt" : "2020-09-28T20:21:00Z"
+         "publishedAt" : "2020-09-28T20:21:00Z",
+         "title" : "Palantir eyes $22B market debut — here's what the secretive big-data firm does - Yahoo Finance",
+         "source" : {
+            "name" : "Yahoo Entertainment",
+            "id" : null
+         },
+         "author" : "Daniel Howley"
       },
       {
+         "title" : "Hacker Releases Information on Las Vegas-Area Students After Officials Don’t Pay Ransom - The Wall Street Journal",
+         "publishedAt" : "2020-09-28T19:56:00Z",
+         "description" : "Clark County in Nevada is largest known school district hit by hackers during Covid-19 pandemic",
+         "content" : "A hacker published documents containing Social Security numbers, student grades and other private information stolen from a large public-school district in Las Vegas after officials refused a ransom … [+339 chars]",
          "urlToImage" : "https://images.wsj.net/im-237177/social",
+         "url" : "https://www.wsj.com/articles/hacker-releases-information-on-las-vegas-area-students-after-officials-dont-pay-ransom-11601297930",
          "source" : {
             "id" : "the-wall-street-journal",
             "name" : "The Wall Street Journal"
          },
-         "description" : "Clark County in Nevada is largest known school district hit by hackers during Covid-19 pandemic",
-         "content" : "A hacker published documents containing Social Security numbers, student grades and other private information stolen from a large public-school district in Las Vegas after officials refused a ransom … [+339 chars]",
-         "url" : "https://www.wsj.com/articles/hacker-releases-information-on-las-vegas-area-students-after-officials-dont-pay-ransom-11601297930",
-         "publishedAt" : "2020-09-28T19:56:00Z",
-         "author" : "Tawnell D. Hobbs",
-         "title" : "Hacker Releases Information on Las Vegas-Area Students After Officials Don’t Pay Ransom - The Wall Street Journal"
+         "author" : "Tawnell D. Hobbs"
       },
       {
          "title" : "Trump administration imposes restrictions on China's biggest chip maker: reports | TheHill - The Hill",
-         "author" : "Zack Budryk",
          "publishedAt" : "2020-09-28T19:51:47Z",
          "url" : "https://thehill.com/policy/defense/518616-trump-administration-imposes-restrictions-on-chinas-biggest-chip-maker-reports",
-         "content" : "The Commerce Department warned U.S. companies of steps it must take before exporting parts to Chinas biggest manufacturer of computer chips, saying Friday that there is an unacceptable risk that part… [+1722 chars]",
          "description" : "The Commerce Department warned U.S. companies of steps it must take before exporting parts to Chi...",
+         "urlToImage" : "https://thehill.com/sites/default/files/department_of_commerce_dc_072219getty_commerce.jpg",
+         "content" : "The Commerce Department warned U.S. companies of steps it must take before exporting parts to Chinas biggest manufacturer of computer chips, saying Friday that there is an unacceptable risk that part… [+1722 chars]",
+         "author" : "Zack Budryk",
          "source" : {
             "name" : "The Hill",
             "id" : "the-hill"
-         },
-         "urlToImage" : "https://thehill.com/sites/default/files/department_of_commerce_dc_072219getty_commerce.jpg"
+         }
       },
       {
-         "title" : "Workhorse, DiamondPeak SPAC Gain On Trump's Lordstown Motors Event - Benzinga",
-         "author" : "Chris Katje",
-         "url" : "https://www.benzinga.com/news/20/09/17683405/workhorse-diamondpeak-spac-gain-on-trumps-lordstown-motors-event",
-         "publishedAt" : "2020-09-28T19:45:51Z",
-         "content" : "Lordstown Motors is one of the electric vehicle companies going public via the special purpose acquisition route.\r\nThe company was in the spotlight Monday with one of its prototype electric trucks on… [+2398 chars]",
          "description" : "Lordstown Motors is one of the electric vehicle companies going public via the special purpose acquisition route.\nThe company was in the spotlight Monday ...",
+         "content" : "Lordstown Motors is one of the electric vehicle companies going public via the special purpose acquisition route.\r\nThe company was in the spotlight Monday with one of its prototype electric trucks on… [+2398 chars]",
+         "urlToImage" : "https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/images/story/2012/electric-charge-2301604_1920_1_0.jpg",
+         "url" : "https://www.benzinga.com/news/20/09/17683405/workhorse-diamondpeak-spac-gain-on-trumps-lordstown-motors-event",
+         "title" : "Workhorse, DiamondPeak SPAC Gain On Trump's Lordstown Motors Event - Benzinga",
+         "publishedAt" : "2020-09-28T19:45:51Z",
+         "author" : "Chris Katje",
          "source" : {
-            "name" : "Benzinga",
-            "id" : null
-         },
-         "urlToImage" : "https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/images/story/2012/electric-charge-2301604_1920_1_0.jpg"
+            "id" : null,
+            "name" : "Benzinga"
+         }
       },
       {
-         "author" : null,
-         "title" : "Elon Musk is frustrated by media coverage of Tesla Battery Day: ‘It’s sad’ - Electrek.co",
-         "content" : "Elon Musk is frustrated by media coverage of Tesla Battery Day, calling it “sad” and expressing his belief that there’s a a lack of appreciation for manufacturing.\r\nIn an interview that appears to ha… [+2884 chars]",
-         "description" : "Elon Musk is frustrated by media coverage of Tesla Battery Day, calling it “sad” and expressing his belief that there’s a a lack of appreciation for manufacturing. In an interview that appears to have been edited on Kara Swisher’s podcast, Tesla CEO Elon Musk…",
-         "url" : "https://electrek.co/2020/09/28/elon-musk-media-coverage-tesla-battery-day-sad/",
-         "publishedAt" : "2020-09-28T19:45:00Z",
          "source" : {
             "id" : null,
             "name" : "Electrek"
          },
-         "urlToImage" : "https://electrek.co/wp-content/uploads/sites/3/2020/08/Tesla-Elon-Musk.jpg?quality=82&strip=all"
+         "author" : null,
+         "url" : "https://electrek.co/2020/09/28/elon-musk-media-coverage-tesla-battery-day-sad/",
+         "description" : "Elon Musk is frustrated by media coverage of Tesla Battery Day, calling it “sad” and expressing his belief that there’s a a lack of appreciation for manufacturing. In an interview that appears to have been edited on Kara Swisher’s podcast, Tesla CEO Elon Musk…",
+         "content" : "Elon Musk is frustrated by media coverage of Tesla Battery Day, calling it “sad” and expressing his belief that there’s a a lack of appreciation for manufacturing.\r\nIn an interview that appears to ha… [+2884 chars]",
+         "urlToImage" : "https://electrek.co/wp-content/uploads/sites/3/2020/08/Tesla-Elon-Musk.jpg?quality=82&strip=all",
+         "title" : "Elon Musk is frustrated by media coverage of Tesla Battery Day: ‘It’s sad’ - Electrek.co",
+         "publishedAt" : "2020-09-28T19:45:00Z"
       },
       {
          "author" : "Jessica Bursztynsky",
-         "title" : "Former Amazon manager made $1.4 million from insider trading, SEC alleges - CNBC",
-         "description" : "The commission alleges that Laksha Bohra, who worked as a senior manager in Amazon's tax department, had access to confidential information from Amazon ahead of the company's quarterly and annual earnings reports.",
-         "content" : "The Securities and Exchange Commission charged a former Amazon finance manager and two family members with insider trading, alleging Monday that they made approximately $1.4 million from unlawful tra… [+890 chars]",
-         "publishedAt" : "2020-09-28T19:42:00Z",
+         "source" : {
+            "name" : "CNBC",
+            "id" : null
+         },
          "url" : "https://www.cnbc.com/2020/09/28/sec-charges-former-amazon-manager-charged-with-insider-trading.html",
-         "source" : {
-            "id" : null,
-            "name" : "CNBC"
-         },
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/105206122-GettyImages-535058999.jpg?v=1601320577"
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/105206122-GettyImages-535058999.jpg?v=1601320577",
+         "content" : "The Securities and Exchange Commission charged a former Amazon finance manager and two family members with insider trading, alleging Monday that they made approximately $1.4 million from unlawful tra… [+890 chars]",
+         "description" : "The commission alleges that Laksha Bohra, who worked as a senior manager in Amazon's tax department, had access to confidential information from Amazon ahead of the company's quarterly and annual earnings reports.",
+         "publishedAt" : "2020-09-28T19:42:00Z",
+         "title" : "Former Amazon manager made $1.4 million from insider trading, SEC alleges - CNBC"
       },
       {
-         "title" : "The average credit score of a prime borrower is 767—here's how much income and debt they have - CNBC",
-         "author" : "Elizabeth Gravier",
-         "description" : "Using data from credit bureau Experian, CNBC Select provides a snapshot of what the average prime borrower looks like.",
-         "content" : "Becoming a prime borrower is a good financial goal to have. And if you're already there, maintaining your score will pay off.\r\nThose with prime credit have an easier time getting approved for new cre… [+4928 chars]",
-         "publishedAt" : "2020-09-28T19:40:50Z",
          "url" : "https://www.cnbc.com/select/prime-borrower-breakdown/",
+         "content" : "Becoming a prime borrower is a good financial goal to have. And if you're already there, maintaining your score will pay off.\r\nThose with prime credit have an easier time getting approved for new cre… [+4928 chars]",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106719970-1601303835435-gettyimages-73319955-10055320_014.jpeg?v=1601303960",
+         "description" : "Using data from credit bureau Experian, CNBC Select provides a snapshot of what the average prime borrower looks like.",
+         "publishedAt" : "2020-09-28T19:40:50Z",
+         "title" : "The average credit score of a prime borrower is 767—here's how much income and debt they have - CNBC",
          "source" : {
             "id" : null,
             "name" : "CNBC"
          },
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106719970-1601303835435-gettyimages-73319955-10055320_014.jpeg?v=1601303960"
+         "author" : "Elizabeth Gravier"
       },
       {
+         "author" : "Shawn Langlois",
+         "source" : {
+            "id" : null,
+            "name" : "MarketWatch"
+         },
+         "url" : "https://www.marketwatch.com/story/the-stock-market-could-be-rough-for-the-next-few-weeks-but-2021-will-be-another-story-wharton-professor-says-11601321007",
          "description" : "",
          "content" : "“\r\n Im a monetary theorist. This is what I teach and study. This is unprecedented in 75 years, since World War II. I think theres a lot of repressed liquidity in the market that once the vaccine and … [+1075 chars]",
-         "url" : "https://www.marketwatch.com/story/the-stock-market-could-be-rough-for-the-next-few-weeks-but-2021-will-be-another-story-wharton-professor-says-11601321007",
-         "publishedAt" : "2020-09-28T19:23:00Z",
-         "title" : "The stock market could be rough for the next few weeks, but 2021 will be another story, Wharton professor says - MarketWatch",
-         "author" : "Shawn Langlois",
          "urlToImage" : "https://images.mktw.net/im-237561/social",
-         "source" : {
-            "name" : "MarketWatch",
-            "id" : null
-         }
+         "title" : "The stock market could be rough for the next few weeks, but 2021 will be another story, Wharton professor says - MarketWatch",
+         "publishedAt" : "2020-09-28T19:23:00Z"
       },
       {
+         "url" : "https://www.theverge.com/2020/9/28/21482304/ransomware-outage-hospital-chain-cybersecurity",
          "urlToImage" : "https://cdn.vox-cdn.com/thumbor/-7anLH6mzqX3wa7ObNDdVowy3nA=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/10005785/acastro_180109_1777_0001_v2.jpg",
+         "content" : "UHS staff said they had to use pen and paper as computer systems failed\r\nIllustration by Alex Castro / The Verge\r\nHealth care provider Universal Health Services, one of the largest chains in the US, … [+1487 chars]",
+         "description" : "Health care provider Universal Health Services, one of the largest chains in the US, has been hit by an apparent ransomware attack. Facilities in California, Florida, North Dakota, Arizona, and other locations began experiencing problems early Sunday.",
+         "publishedAt" : "2020-09-28T19:22:51Z",
+         "title" : "Ransomware reportedly to blame for outage at US hospital chain - The Verge",
+         "author" : "Kim Lyons",
          "source" : {
             "name" : "The Verge",
             "id" : "the-verge"
-         },
-         "description" : "Health care provider Universal Health Services, one of the largest chains in the US, has been hit by an apparent ransomware attack. Facilities in California, Florida, North Dakota, Arizona, and other locations began experiencing problems early Sunday.",
-         "content" : "UHS staff said they had to use pen and paper as computer systems failed\r\nIllustration by Alex Castro / The Verge\r\nHealth care provider Universal Health Services, one of the largest chains in the US, … [+1487 chars]",
-         "url" : "https://www.theverge.com/2020/9/28/21482304/ransomware-outage-hospital-chain-cybersecurity",
-         "publishedAt" : "2020-09-28T19:22:51Z",
-         "title" : "Ransomware reportedly to blame for outage at US hospital chain - The Verge",
-         "author" : "Kim Lyons"
+         }
       },
       {
-         "author" : "Eric Volkman",
-         "title" : "Inovio Coronavirus Vaccine Candidate Trial Halted Due to FDA Inquiry - Motley Fool",
-         "content" : "Inovio Pharmaceuticals(NASDAQ:INO) stock was really taking it on the chin Monday, following a very discouraging revelation from the company.\r\nThe biotech announced that morning that the clinical tria… [+1596 chars]",
-         "description" : "The regulator has a series of questions for the biotech's testing regime for INO-4800.",
          "url" : "https://www.fool.com/investing/2020/09/28/inovio-coronavirus-vaccine-candidate-trial-halted/",
+         "description" : "The regulator has a series of questions for the biotech's testing regime for INO-4800.",
+         "urlToImage" : "https://g.foolcdn.com/editorial/images/593212/gettyimages-1018468972.jpg",
+         "content" : "Inovio Pharmaceuticals(NASDAQ:INO) stock was really taking it on the chin Monday, following a very discouraging revelation from the company.\r\nThe biotech announced that morning that the clinical tria… [+1596 chars]",
+         "title" : "Inovio Coronavirus Vaccine Candidate Trial Halted Due to FDA Inquiry - Motley Fool",
          "publishedAt" : "2020-09-28T19:13:00Z",
+         "author" : "Eric Volkman",
          "source" : {
-            "name" : "Motley Fool",
-            "id" : null
-         },
-         "urlToImage" : "https://g.foolcdn.com/editorial/images/593212/gettyimages-1018468972.jpg"
+            "id" : null,
+            "name" : "Motley Fool"
+         }
       },
       {
-         "urlToImage" : "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/0/7e/07ecd903-304d-5f73-870c-989e679f0fee/5f71c66bc995d.image.jpg?crop=960%2C540%2C0%2C90&resize=960%2C540&order=crop%2Cresize",
          "source" : {
             "id" : null,
             "name" : "nwitimes.com"
          },
-         "publishedAt" : "2020-09-28T19:02:14Z",
-         "url" : "https://www.nwitimes.com/business/local/arcelormittal-usa-sold-to-cleveland-cliffs-for-1-4-billion-in-end-of-an-era/article_b27cbb71-866f-5765-8e14-798d8dda2bb1.html",
-         "description" : "ArcelorMittal USA to be acquired by Cleveland-Cliffs in end-of-an-era merger that will have seismic ramifications for the Region.",
+         "author" : "Joseph S. Pete joseph.pete@nwi.com, 219-933-3316",
+         "urlToImage" : "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/0/7e/07ecd903-304d-5f73-870c-989e679f0fee/5f71c66bc995d.image.jpg?crop=960%2C540%2C0%2C90&resize=960%2C540&order=crop%2Cresize",
          "content" : "After the early 2000s upheaval in the American steel industry, many of the mills that have lined Northwest Indiana's lakeshore, in some cases for more than a century, ended up consolidated in the han… [+1375 chars]",
-         "title" : "ArcelorMittal USA sold to Cleveland-Cliffs for $1.4 billion in end-of-an-era merger - nwitimes.com",
-         "author" : "Joseph S. Pete joseph.pete@nwi.com, 219-933-3316"
+         "description" : "ArcelorMittal USA to be acquired by Cleveland-Cliffs in end-of-an-era merger that will have seismic ramifications for the Region.",
+         "url" : "https://www.nwitimes.com/business/local/arcelormittal-usa-sold-to-cleveland-cliffs-for-1-4-billion-in-end-of-an-era/article_b27cbb71-866f-5765-8e14-798d8dda2bb1.html",
+         "publishedAt" : "2020-09-28T19:02:14Z",
+         "title" : "ArcelorMittal USA sold to Cleveland-Cliffs for $1.4 billion in end-of-an-era merger - nwitimes.com"
       },
       {
-         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/08/0/0/SandyHook-Remington-getty-istock-1.jpg?ve=1&tl=1",
+         "author" : "The Wall Street Journal",
          "source" : {
             "id" : "the-wall-street-journal",
             "name" : "The Wall Street Journal"
          },
          "url" : "https://www.wsj.com/articles/bankrupt-gun-maker-remington-outdoor-to-be-broken-up-and-sold-11601246175#:~:text=TheHuntsvilleAla.company,satisfydemandforitsproducts",
-         "publishedAt" : "2020-09-28T18:54:53Z",
-         "content" : "Gun maker Remington Outdoor will be broken up and sold after a multiday bankruptcy auction, in which seven different buyers won the bidding for parcels of the company's weapons and ammunition holding… [+3203 chars]",
          "description" : "Gun maker Remington Outdoor will be broken up and sold after a multiday bankruptcy auction, in which seven different buyers won the bidding for parcels of the company's weapons and ammunition holdings.",
-         "author" : "The Wall Street Journal",
-         "title" : "Bankrupt gun maker Remington Outdoor to be broken up and sold - Fox Business"
+         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/08/0/0/SandyHook-Remington-getty-istock-1.jpg?ve=1&tl=1",
+         "content" : "Gun maker Remington Outdoor will be broken up and sold after a multiday bankruptcy auction, in which seven different buyers won the bidding for parcels of the company's weapons and ammunition holding… [+3203 chars]",
+         "title" : "Bankrupt gun maker Remington Outdoor to be broken up and sold - Fox Business",
+         "publishedAt" : "2020-09-28T18:54:53Z"
       },
       {
-         "title" : "Silver price plunge 'not terminal', precious metal already up 2% on the day — StoneX - Kitco NEWS",
          "author" : "http://www.facebook.com/kitconews",
-         "description" : "",
-         "content" : "Editor's Note: Get caught up in minutes with our speedy summary of today's must-read news stories and expert opinions that moved the precious metals and financial markets. Sign up here!\r\n(Kitco News)… [+3596 chars]",
-         "publishedAt" : "2020-09-28T18:45:00Z",
-         "url" : "https://www.kitco.com/news/2020-09-28/Silver-price-plunge-not-terminal-precious-metal-already-up-2-on-the-day-StoneX.html",
          "source" : {
             "id" : null,
             "name" : "Kitco NEWS"
          },
-         "urlToImage" : "https://www.kitco.com/news/2020-09-28/images/shutterstock_1819410989-min.jpg"
+         "content" : "Editor's Note: Get caught up in minutes with our speedy summary of today's must-read news stories and expert opinions that moved the precious metals and financial markets. Sign up here!\r\n(Kitco News)… [+3596 chars]",
+         "urlToImage" : "https://www.kitco.com/news/2020-09-28/images/shutterstock_1819410989-min.jpg",
+         "description" : "",
+         "url" : "https://www.kitco.com/news/2020-09-28/Silver-price-plunge-not-terminal-precious-metal-already-up-2-on-the-day-StoneX.html",
+         "publishedAt" : "2020-09-28T18:45:00Z",
+         "title" : "Silver price plunge 'not terminal', precious metal already up 2% on the day — StoneX - Kitco NEWS"
       },
       {
+         "description" : "Employees at Neiman Marcus have criticized CEO Geoffroy van Raemdonck for flaunting his affluence amid a bankruptcy saga that has caused pay cuts and firings.",
+         "content" : "The CEO of Neiman Marcus has been criticized for showing off his luxurious Texas mansion amid a bankruptcy saga that saw staff furloughs and pay cuts, report said.  \r\nGeoffroy van Raemdonck and his h… [+5712 chars]",
+         "urlToImage" : "https://i.dailymail.co.uk/1s/2020/09/28/18/33728484-0-image-a-13_1601312540062.jpg",
+         "url" : "https://www.dailymail.co.uk/news/article-8781969/Neiman-Marcus-CEO-flaunts-mansion-lays-staff-call-tone-deaf-report-says.html",
+         "title" : "Neiman Marcus CEO flaunts his mansion then lays off staff who call him 'tone-deaf', report says - Daily Mail",
+         "publishedAt" : "2020-09-28T18:43:17Z",
          "source" : {
             "name" : "Daily Mail",
             "id" : null
          },
-         "urlToImage" : "https://i.dailymail.co.uk/1s/2020/09/28/18/33728484-0-image-a-13_1601312540062.jpg",
-         "author" : "By Lauren Edmonds For Dailymail.com",
-         "title" : "Neiman Marcus CEO flaunts his mansion then lays off staff who call him 'tone-deaf', report says - Daily Mail",
-         "description" : "Employees at Neiman Marcus have criticized CEO Geoffroy van Raemdonck for flaunting his affluence amid a bankruptcy saga that has caused pay cuts and firings.",
-         "content" : "The CEO of Neiman Marcus has been criticized for showing off his luxurious Texas mansion amid a bankruptcy saga that saw staff furloughs and pay cuts, report said.  \r\nGeoffroy van Raemdonck and his h… [+5712 chars]",
-         "url" : "https://www.dailymail.co.uk/news/article-8781969/Neiman-Marcus-CEO-flaunts-mansion-lays-staff-call-tone-deaf-report-says.html",
-         "publishedAt" : "2020-09-28T18:43:17Z"
+         "author" : "By Lauren Edmonds For Dailymail.com"
       },
       {
-         "title" : "Lightfoot easing Chicago restrictions on indoor bars, restaurants, fitness class sizes - Chicago Tribune",
-         "author" : "Gregory Pratt, John Byrne",
-         "description" : "Chicago bars that don’t serve food will be allowed to reopen for indoor service starting Thursday, and bars and restaurants will be allowed to serve alcohol until 1 a.m., Mayor Lori Lightfoot announced on Monday.",
-         "content" : null,
-         "url" : "https://www.chicagotribune.com/coronavirus/ct-chicago-coronavirus-reopening-bars-restaurants-20200928-sf57e544qrhd3c63zajy6a7274-story.html",
-         "publishedAt" : "2020-09-28T18:41:00Z",
-         "source" : {
-            "name" : "Chicago Tribune",
-            "id" : null
-         },
-         "urlToImage" : "https://www.chicagotribune.com/resizer/5Qps1D6yoBOGapSBbfRLTs9NE60=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/I75IMOI3YJFLTEPL3YERMNZZG4.jpg"
-      },
-      {
-         "author" : null,
-         "title" : "AT&T service restored in South Carolina after widespread outage - WYFF4 Greenville",
-         "url" : "https://www.wyff4.com/article/atandt-outage-reported-across-south-carolina/34192950",
-         "publishedAt" : "2020-09-28T18:28:00Z",
-         "content" : "GREENVILLE, S.C. —AT&amp;T service has been restored across South Carolina after a widespread outage on Monday. \r\nWYFF News 4 got several emails Monday morning from customers saying they are having i… [+587 chars]",
-         "description" : "There have been several reports Monday morning of an AT&T outage across South Carolina.",
          "source" : {
             "id" : null,
-            "name" : "WYFF4 Greenville"
+            "name" : "Chicago Tribune"
          },
-         "urlToImage" : "https://kubrick.htvapps.com/htv-prod/ibmig/cms/image/wyff/17682314-17682314.jpg?crop=1.00xw:0.752xh;0,0.141xh&resize=1200:*"
+         "author" : "Gregory Pratt, John Byrne",
+         "content" : null,
+         "urlToImage" : "https://www.chicagotribune.com/resizer/5Qps1D6yoBOGapSBbfRLTs9NE60=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/I75IMOI3YJFLTEPL3YERMNZZG4.jpg",
+         "description" : "Chicago bars that don’t serve food will be allowed to reopen for indoor service starting Thursday, and bars and restaurants will be allowed to serve alcohol until 1 a.m., Mayor Lori Lightfoot announced on Monday.",
+         "url" : "https://www.chicagotribune.com/coronavirus/ct-chicago-coronavirus-reopening-bars-restaurants-20200928-sf57e544qrhd3c63zajy6a7274-story.html",
+         "publishedAt" : "2020-09-28T18:41:00Z",
+         "title" : "Lightfoot easing Chicago restrictions on indoor bars, restaurants, fitness class sizes - Chicago Tribune"
+      },
+      {
+         "publishedAt" : "2020-09-28T18:28:00Z",
+         "title" : "AT&T service restored in South Carolina after widespread outage - WYFF4 Greenville",
+         "url" : "https://www.wyff4.com/article/atandt-outage-reported-across-south-carolina/34192950",
+         "content" : "GREENVILLE, S.C. —AT&amp;T service has been restored across South Carolina after a widespread outage on Monday. \r\nWYFF News 4 got several emails Monday morning from customers saying they are having i… [+587 chars]",
+         "urlToImage" : "https://kubrick.htvapps.com/htv-prod/ibmig/cms/image/wyff/17682314-17682314.jpg?crop=1.00xw:0.752xh;0,0.141xh&resize=1200:*",
+         "description" : "There have been several reports Monday morning of an AT&T outage across South Carolina.",
+         "author" : null,
+         "source" : {
+            "name" : "WYFF4 Greenville",
+            "id" : null
+         }
       },
       {
          "publishedAt" : "2020-09-28T18:26:00Z",
-         "url" : "https://news.yahoo.com/cdc-study-on-covid-in-kids-bolsters-case-for-elementaryschool-reopening-182613873.html",
-         "description" : "The study adds nuance to prior findings that the risk of contracting and dying from COVID-19, the disease caused by the coronavirus, increases with age.",
-         "content" : "WASHINGTON Children under the age of 12 are much less likely than teenagers to contract the coronavirus, according to a study by the Centers for Disease Control and Prevention published on Monday. Th… [+4217 chars]",
          "title" : "CDC study on COVID-19 in kids bolsters case for elementary school reopening - Yahoo News",
-         "author" : "Alexander Nazaryan",
+         "url" : "https://news.yahoo.com/cdc-study-on-covid-in-kids-bolsters-case-for-elementaryschool-reopening-182613873.html",
          "urlToImage" : "https://s.yimg.com/uu/api/res/1.2/Ga8x9nMt4xypg0yatVhJPw--~B/aD03NTY7dz0xMzQ0O3NtPTE7YXBwaWQ9eXRhY2h5b24-/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2020-09/60765180-01b4-11eb-adff-291cc41d2e21",
+         "content" : "WASHINGTON Children under the age of 12 are much less likely than teenagers to contract the coronavirus, according to a study by the Centers for Disease Control and Prevention published on Monday. Th… [+4217 chars]",
+         "description" : "The study adds nuance to prior findings that the risk of contracting and dying from COVID-19, the disease caused by the coronavirus, increases with age.",
+         "author" : "Alexander Nazaryan",
          "source" : {
             "id" : null,
             "name" : "Yahoo Entertainment"
          }
       },
       {
-         "author" : "Susan Selasky",
-         "title" : "Kroger to build $95 million fulfillment center in Romulus, creating 250 jobs - Detroit Free Press",
-         "description" : "The Kroger Co. chose Romulus for one of its three Customer Fulfillment Centers across the country.",
          "content" : "Kroger.\r\n (Photo: Kimberly P. Mitchell, Detroit Free Press)\r\nKroger announced Monday its has picked Romulus as the site for a $95 million customer fulfillment center aimed at the rapidly growing onli… [+3931 chars]",
+         "urlToImage" : "https://www.gannett-cdn.com/-mm-/7862079acd5edb08696b52b582a5662662d2c59a/c=0-11-566-329/local/-/media/2016/06/24/DetroitFreePress/B9322711874Z.1_20160624173556_000_GBAENE1UJ.6-0.jpg?width=1600&height=800&fit=crop",
+         "description" : "The Kroger Co. chose Romulus for one of its three Customer Fulfillment Centers across the country.",
          "url" : "https://www.freep.com/story/news/local/michigan/wayne/2020/09/28/kroger-fulfillment-center-romulus-michigan/3562694001/",
          "publishedAt" : "2020-09-28T18:11:17Z",
+         "title" : "Kroger to build $95 million fulfillment center in Romulus, creating 250 jobs - Detroit Free Press",
          "source" : {
-            "name" : "Detroit Free Press",
-            "id" : null
+            "id" : null,
+            "name" : "Detroit Free Press"
          },
-         "urlToImage" : "https://www.gannett-cdn.com/-mm-/7862079acd5edb08696b52b582a5662662d2c59a/c=0-11-566-329/local/-/media/2016/06/24/DetroitFreePress/B9322711874Z.1_20160624173556_000_GBAENE1UJ.6-0.jpg?width=1600&height=800&fit=crop"
+         "author" : "Susan Selasky"
       }
    ],
-   "totalResults" : 70,
-   "status" : "ok"
+   "totalResults" : 70
 }
