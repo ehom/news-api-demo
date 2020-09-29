@@ -18,14 +18,16 @@ function getTimePast(t2, t1) {
   const milliSecondsDiff = t2 - t1;
   console.debug("msecs diff: ", milliSecondsDiff);
   const hoursAgo = Math.round(milliSecondsDiff / (1000 * 60 * 60));
-
+ /*
   const formatter = new Intl.RelativeTimeFormat("en", {
     localeMatcher: "best fit", // other values: "lookup"
     numeric: "always", // other values: "auto"
     style: "long", // other values: "short" or "narrow"
   });
-  
-  return formatter.format(-hoursAgo, 'hour');  
+
+  return formatter.format(-hoursAgo, 'hour');
+*/
+  return `${hoursAgo}h ago`;
 }
 
 function Headlines(props) {
