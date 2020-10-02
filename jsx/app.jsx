@@ -9,41 +9,21 @@ fetch(URL)
   .then(json => render(json))
   .catch(error => console.error(error));
 
-// TODO
-// What to do if 0 hours?
-// "n minutes ago"
-// 
-
-function getTimePast(t2, t1) {
-  const milliSecondsDiff = t2 - t1;
-  console.debug("msecs diff: ", milliSecondsDiff);
-  const hoursAgo = Math.round(milliSecondsDiff / (1000 * 60 * 60));
- /*
-  const formatter = new Intl.RelativeTimeFormat("en", {
-    localeMatcher: "best fit", // other values: "lookup"
-    numeric: "always", // other values: "auto"
-    style: "long", // other values: "short" or "narrow"
-  });
-
-  return formatter.format(-hoursAgo, 'hour');
-*/
-  return `${hoursAgo}h ago`;
-}
+// TODO: Register Handler for when
+// "navigator.language" changes
 
 function Headlines(props) {
-  // TODO: get locale from browser?
-  
-  // console.log(props.src.articles);
-  
-  const atTheMoment = Date.now();
+  moment.locale(navigator.language);
+ 
+  const thisMoment = Date.now();
 
   const headlines = props.src.articles.map((article) => {
     const hasNoDesc = (input) => {
       return input.description === null || input.description.length === 0;
     }
     
-    const publishedAt = new Date(article.publishedAt).getTime();
-    const howLongAgo = getTimePast(atTheMoment, publishedAt);
+    let published = moment(new Date(article.publishedAt));
+    let howLongAgo = published.from(thisMoment);
 
     let description = article.description;
     if (hasNoDesc(article)) {
@@ -76,7 +56,10 @@ function Today() {
     year: 'numeric', month: 'long', day: 'numeric'
   };
 
-  const defaultLocale = undefined;
+  // const defaultLocale = undefined;
+  const defaultLocale = navigator.language;
+  console.debug("*****", defaultLocale);
+
   const todaysDate = new Intl.DateTimeFormat(defaultLocale, options).format(new Date());
 
   return (

@@ -13,40 +13,20 @@ fetch(URL).then(function (response) {
   return console.error(error);
 });
 
-// TODO
-// What to do if 0 hours?
-// "n minutes ago"
-// 
-
-function getTimePast(t2, t1) {
-  var milliSecondsDiff = t2 - t1;
-  console.debug("msecs diff: ", milliSecondsDiff);
-  var hoursAgo = Math.round(milliSecondsDiff / (1000 * 60 * 60));
-  /*
-   const formatter = new Intl.RelativeTimeFormat("en", {
-     localeMatcher: "best fit", // other values: "lookup"
-     numeric: "always", // other values: "auto"
-     style: "long", // other values: "short" or "narrow"
-   });
-    return formatter.format(-hoursAgo, 'hour');
-  */
-  return hoursAgo + 'h ago';
-}
-
 function Headlines(props) {
-  // TODO: get locale from browser?
+  // TODO ... get userLanguage from
+  // browser or Application UI 
+  moment.locale(navigator.language);
 
-  // console.log(props.src.articles);
-
-  var atTheMoment = Date.now();
+  var thisMoment = Date.now();
 
   var headlines = props.src.articles.map(function (article) {
     var hasNoDesc = function hasNoDesc(input) {
       return input.description === null || input.description.length === 0;
     };
 
-    var publishedAt = new Date(article.publishedAt).getTime();
-    var howLongAgo = getTimePast(atTheMoment, publishedAt);
+    var published = moment(new Date(article.publishedAt));
+    var howLongAgo = published.from(thisMoment);
 
     var description = article.description;
     if (hasNoDesc(article)) {
@@ -99,7 +79,10 @@ function Today() {
     year: 'numeric', month: 'long', day: 'numeric'
   };
 
-  var defaultLocale = undefined;
+  // const defaultLocale = undefined;
+  var defaultLocale = navigator.language;
+  console.debug("*****", defaultLocale);
+
   var todaysDate = new Intl.DateTimeFormat(defaultLocale, options).format(new Date());
 
   return React.createElement(
