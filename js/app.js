@@ -13,9 +13,10 @@ fetch(URL).then(function (response) {
   return console.error(error);
 });
 
+// TODO: Register Handler for when
+// "navigator.language" changes
+
 function Headlines(props) {
-  // TODO ... get userLanguage from
-  // browser or Application UI 
   moment.locale(navigator.language);
 
   var thisMoment = Date.now();
@@ -79,9 +80,7 @@ function Today() {
     year: 'numeric', month: 'long', day: 'numeric'
   };
 
-  // const defaultLocale = undefined;
   var defaultLocale = navigator.language;
-  console.debug("*****", defaultLocale);
 
   var todaysDate = new Intl.DateTimeFormat(defaultLocale, options).format(new Date());
 

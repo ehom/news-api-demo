@@ -56,9 +56,7 @@ function Today() {
     year: 'numeric', month: 'long', day: 'numeric'
   };
 
-  // const defaultLocale = undefined;
   const defaultLocale = navigator.language;
-  console.debug("*****", defaultLocale);
 
   const todaysDate = new Intl.DateTimeFormat(defaultLocale, options).format(new Date());
 
