@@ -1,6 +1,8 @@
-const URL= 'https://raw.githubusercontent.com/ehom/external-data/master/news-api-org/headlines.json';
+const HEADLINES= 'https://raw.githubusercontent.com/ehom/external-data/master/news-api-org/headlines.json';
 
-fetch(URL)
+const userLanguage = navigator.language;
+
+fetch(HEADLINES)
   .then(response => response.json())
   .then(json => {
     console.log(json);
@@ -13,7 +15,7 @@ fetch(URL)
 // "navigator.language" changes
 
 function Headlines(props) {
-  moment.locale(navigator.language);
+  moment.locale(userLanguage);
  
   const thisMoment = Date.now();
 
@@ -31,22 +33,23 @@ function Headlines(props) {
     }
 
     return (
-      <div class='card mb-5 col-sm-4 app-headline'>
-        <img class='card-img-top' src={article.urlToImage}/>
-        <div class='card-body'>
-          <h5 class='card-title'>{article.title}</h5>
-          <p class='card-text'>
+      <div className='card mb-5 col-sm-4 app-headline'>
+        <img className='card-img-top' src={article.urlToImage}/>
+        <div className='card-body'>
+          <h5 className='card-title'>{article.title}</h5>
+          <p className='card-text'>
             <a href={article.url} target='_blank'>{description}</a>
           </p>
         </div>
-        <ul class="list-group list-group-flush">
-          <li class="list-group-item">{howLongAgo}</li>
+        <ul className="list-group list-group-flush">
+          <li className="list-group-item">{howLongAgo}</li>
         </ul>
       </div>
     );
   });
+
   return (
-    <div class="row">{headlines}</div>
+    <div className="row">{headlines}</div>
   );
 }
 
@@ -56,9 +59,7 @@ function Today() {
     year: 'numeric', month: 'long', day: 'numeric'
   };
 
-  const defaultLocale = navigator.language;
-
-  const todaysDate = new Intl.DateTimeFormat(defaultLocale, options).format(new Date());
+  const todaysDate = new Intl.DateTimeFormat(userLanguage, options).format(new Date());
 
   return (
     <React.Fragment>{todaysDate}</React.Fragment>
