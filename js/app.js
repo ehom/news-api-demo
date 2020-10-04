@@ -1,8 +1,10 @@
 'use strict';
 
-var URL = 'https://raw.githubusercontent.com/ehom/external-data/master/news-api-org/headlines.json';
+var HEADLINES = 'https://raw.githubusercontent.com/ehom/external-data/master/news-api-org/headlines.json';
 
-fetch(URL).then(function (response) {
+var userLanguage = navigator.language;
+
+fetch(HEADLINES).then(function (response) {
   return response.json();
 }).then(function (json) {
   console.log(json);
@@ -17,7 +19,7 @@ fetch(URL).then(function (response) {
 // "navigator.language" changes
 
 function Headlines(props) {
-  moment.locale(navigator.language);
+  moment.locale(userLanguage);
 
   var thisMoment = Date.now();
 
@@ -36,19 +38,19 @@ function Headlines(props) {
 
     return React.createElement(
       'div',
-      { 'class': 'card mb-5 col-sm-4 app-headline' },
-      React.createElement('img', { 'class': 'card-img-top', src: article.urlToImage }),
+      { className: 'card mb-5 col-sm-4 app-headline' },
+      React.createElement('img', { className: 'card-img-top', src: article.urlToImage }),
       React.createElement(
         'div',
-        { 'class': 'card-body' },
+        { className: 'card-body' },
         React.createElement(
           'h5',
-          { 'class': 'card-title' },
+          { className: 'card-title' },
           article.title
         ),
         React.createElement(
           'p',
-          { 'class': 'card-text' },
+          { className: 'card-text' },
           React.createElement(
             'a',
             { href: article.url, target: '_blank' },
@@ -58,18 +60,19 @@ function Headlines(props) {
       ),
       React.createElement(
         'ul',
-        { 'class': 'list-group list-group-flush' },
+        { className: 'list-group list-group-flush' },
         React.createElement(
           'li',
-          { 'class': 'list-group-item' },
+          { className: 'list-group-item' },
           howLongAgo
         )
       )
     );
   });
+
   return React.createElement(
     'div',
-    { 'class': 'row' },
+    { className: 'row' },
     headlines
   );
 }
@@ -80,9 +83,7 @@ function Today() {
     year: 'numeric', month: 'long', day: 'numeric'
   };
 
-  var defaultLocale = navigator.language;
-
-  var todaysDate = new Intl.DateTimeFormat(defaultLocale, options).format(new Date());
+  var todaysDate = new Intl.DateTimeFormat(userLanguage, options).format(new Date());
 
   return React.createElement(
     React.Fragment,
