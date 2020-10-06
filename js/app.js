@@ -1,8 +1,7 @@
 'use strict';
 
-var HEADLINES = 'https://raw.githubusercontent.com/ehom/external-data/master/news-api-org/headlines.json';
-
 var userLanguage = navigator.language;
+var HEADLINES = 'https://raw.githubusercontent.com/ehom/external-data/master/news-api-org/headlines.json';
 
 fetch(HEADLINES).then(function (response) {
   return response.json();
@@ -10,13 +9,73 @@ fetch(HEADLINES).then(function (response) {
   console.log(json);
   return json;
 }).then(function (json) {
-  return render(json);
+  ReactDOM.render(React.createElement(Page, { headlines: json }), document.getElementById('root'));
 }).catch(function (error) {
   return console.error(error);
 });
 
+function Page(props) {
+  return React.createElement(
+    React.Fragment,
+    null,
+    React.createElement(
+      'div',
+      { className: 'jumbotron pb-4 mb-5' },
+      React.createElement(TodaysDate, null),
+      React.createElement(
+        'h1',
+        { className: 'title' },
+        'BUSINESS HEADLINES'
+      )
+    ),
+    React.createElement(
+      'div',
+      { className: 'container' },
+      React.createElement(Headlines, { src: props.headlines }),
+      ','
+    )
+  );
+}
+
 // TODO: Register Handler for when
 // "navigator.language" changes
+
+function Headline(props) {
+  // TODO -- default properties ???
+
+  return React.createElement(
+    'div',
+    { className: 'card mb-5 col-sm-4 app-headline' },
+    React.createElement('img', { className: 'card-img-top', src: props.urlToImage }),
+    React.createElement(
+      'div',
+      { className: 'card-body' },
+      React.createElement(
+        'h5',
+        { className: 'card-title' },
+        props.title
+      ),
+      React.createElement(
+        'p',
+        { className: 'card-text' },
+        React.createElement(
+          'a',
+          { href: props.url, target: '_blank' },
+          props.description
+        )
+      )
+    ),
+    React.createElement(
+      'ul',
+      { className: 'list-group list-group-flush' },
+      React.createElement(
+        'li',
+        { className: 'list-group-item' },
+        props.howLongAgo
+      )
+    )
+  );
+}
 
 function Headlines(props) {
   moment.locale(userLanguage);
@@ -36,38 +95,11 @@ function Headlines(props) {
       description = article.source.name;
     }
 
-    return React.createElement(
-      'div',
-      { className: 'card mb-5 col-sm-4 app-headline' },
-      React.createElement('img', { className: 'card-img-top', src: article.urlToImage }),
-      React.createElement(
-        'div',
-        { className: 'card-body' },
-        React.createElement(
-          'h5',
-          { className: 'card-title' },
-          article.title
-        ),
-        React.createElement(
-          'p',
-          { className: 'card-text' },
-          React.createElement(
-            'a',
-            { href: article.url, target: '_blank' },
-            description
-          )
-        )
-      ),
-      React.createElement(
-        'ul',
-        { className: 'list-group list-group-flush' },
-        React.createElement(
-          'li',
-          { className: 'list-group-item' },
-          howLongAgo
-        )
-      )
-    );
+    return React.createElement(Headline, { title: article.title,
+      description: article.description,
+      url: article.url,
+      urlToImage: article.urlToImage,
+      howLongAgo: howLongAgo });
   });
 
   return React.createElement(
@@ -77,22 +109,17 @@ function Headlines(props) {
   );
 }
 
-function Today() {
+function TodaysDate() {
   var options = {
     weekday: 'long',
     year: 'numeric', month: 'long', day: 'numeric'
   };
 
-  var todaysDate = new Intl.DateTimeFormat(userLanguage, options).format(new Date());
+  var date = new Intl.DateTimeFormat(userLanguage, options).format(new Date());
 
   return React.createElement(
     React.Fragment,
     null,
-    todaysDate
+    date
   );
-}
-
-function render(headlines) {
-  ReactDOM.render(React.createElement(Today, null), document.getElementById('todaysDate'));
-  ReactDOM.render(React.createElement(Headlines, { src: headlines }), document.getElementById('main'));
 }
