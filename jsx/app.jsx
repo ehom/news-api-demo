@@ -29,20 +29,22 @@ function Page(props) {
 // TODO: Register Handler for when
 // "navigator.language" changes
 
-function Headline(props) {
+function Headline(properties) {
   // TODO -- default properties ???
 
   return (
     <div className='card mb-5 col-sm-4 app-headline'>
-      <img className='card-img-top' src={props.urlToImage}/>
+      <a href={properties.url} target='_blank'>
+        <img className='card-img-top' src={properties.urlToImage} />
+      </a>
       <div className='card-body'>
-        <h5 className='card-title'>{props.title}</h5>
+        <h5 className='card-title'>{properties.title}</h5>
         <p className='card-text'>
-          <a href={props.url} target='_blank'>{props.description}</a>
+          <a href={properties.url} target='_blank'>{properties.description}</a>
         </p>
       </div>
       <ul className="list-group list-group-flush">
-        <li className="list-group-item">{props.howLongAgo}</li>
+        <li className="list-group-item">{properties.howLongAgo}</li>
       </ul>
     </div>
   );
@@ -67,10 +69,10 @@ function Headlines(props) {
     }
 
     return <Headline title={article.title}
-      description={article.description}
-      url={article.url}
-      urlToImage={article.urlToImage}
-      howLongAgo={howLongAgo} />;
+                     description={article.description}
+                     url={article.url}
+                     urlToImage={article.urlToImage}
+                     howLongAgo={howLongAgo} />;
   });
 
   return (
