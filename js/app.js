@@ -40,28 +40,32 @@ function Page(props) {
 // TODO: Register Handler for when
 // "navigator.language" changes
 
-function Headline(props) {
+function Headline(properties) {
   // TODO -- default properties ???
 
   return React.createElement(
     'div',
     { className: 'card mb-5 col-sm-4 app-headline' },
-    React.createElement('img', { className: 'card-img-top', src: props.urlToImage }),
+    React.createElement(
+      'a',
+      { href: properties.url, target: '_blank' },
+      React.createElement('img', { className: 'card-img-top', src: properties.urlToImage })
+    ),
     React.createElement(
       'div',
       { className: 'card-body' },
       React.createElement(
         'h5',
         { className: 'card-title' },
-        props.title
+        properties.title
       ),
       React.createElement(
         'p',
         { className: 'card-text' },
         React.createElement(
           'a',
-          { href: props.url, target: '_blank' },
-          props.description
+          { href: properties.url, target: '_blank' },
+          properties.description
         )
       )
     ),
@@ -71,7 +75,7 @@ function Headline(props) {
       React.createElement(
         'li',
         { className: 'list-group-item' },
-        props.howLongAgo
+        properties.howLongAgo
       )
     )
   );
