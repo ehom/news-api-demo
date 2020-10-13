@@ -20,13 +20,13 @@ function Page(props) {
     null,
     React.createElement(
       'div',
-      { className: 'jumbotron pb-4 mb-5' },
-      React.createElement(TodaysDate, null),
+      { className: 'jumbotron pb-4 mb-5 text-center' },
       React.createElement(
         'h1',
         { className: 'title' },
         'BUSINESS HEADLINES'
-      )
+      ),
+      React.createElement(TodaysDate, null)
     ),
     React.createElement(
       'div',
@@ -42,15 +42,12 @@ function Page(props) {
 
 function Headline(properties) {
   // TODO -- default properties ???
+  console.debug("Source:", properties.source);
 
   return React.createElement(
     'div',
     { className: 'card mb-5 col-sm-4 app-headline' },
-    React.createElement(
-      'a',
-      { href: properties.url, target: '_blank' },
-      React.createElement('img', { className: 'card-img-top', src: properties.urlToImage })
-    ),
+    React.createElement('img', { className: 'card-img-top', src: properties.urlToImage }),
     React.createElement(
       'div',
       { className: 'card-body' },
@@ -62,16 +59,21 @@ function Headline(properties) {
       React.createElement(
         'p',
         { className: 'card-text' },
-        React.createElement(
-          'a',
-          { href: properties.url, target: '_blank' },
-          properties.description
-        )
+        properties.description
       )
     ),
     React.createElement(
       'ul',
       { className: 'list-group list-group-flush' },
+      React.createElement(
+        'li',
+        { className: 'list-group-item' },
+        React.createElement(
+          'a',
+          { href: properties.url, target: '_blank' },
+          properties.sourceName
+        )
+      ),
       React.createElement(
         'li',
         { className: 'list-group-item' },
@@ -101,6 +103,7 @@ function Headlines(props) {
 
     return React.createElement(Headline, { title: article.title,
       description: article.description,
+      sourceName: article.source.name,
       url: article.url,
       urlToImage: article.urlToImage,
       howLongAgo: howLongAgo });
