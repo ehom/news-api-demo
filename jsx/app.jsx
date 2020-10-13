@@ -15,9 +15,9 @@ fetch(HEADLINES)
 function Page(props) {
   return (
     <React.Fragment>
-      <div className='jumbotron pb-4 mb-5'>
-        <TodaysDate />
+      <div className='jumbotron pb-4 mb-5 text-center'>
         <h1 className='title'>BUSINESS HEADLINES</h1>
+        <TodaysDate />
       </div>
       <div className='container'>
         <Headlines src={props.headlines} />,
@@ -31,19 +31,19 @@ function Page(props) {
 
 function Headline(properties) {
   // TODO -- default properties ???
+  console.debug("Source:", properties.source);
 
   return (
     <div className='card mb-5 col-sm-4 app-headline'>
-      <a href={properties.url} target='_blank'>
-        <img className='card-img-top' src={properties.urlToImage} />
-      </a>
+      <img className='card-img-top' src={properties.urlToImage} />
       <div className='card-body'>
         <h5 className='card-title'>{properties.title}</h5>
-        <p className='card-text'>
-          <a href={properties.url} target='_blank'>{properties.description}</a>
-        </p>
+        <p className='card-text'>{properties.description}</p>
       </div>
       <ul className="list-group list-group-flush">
+        <li className="list-group-item">
+          <a href={properties.url} target='_blank'>{properties.sourceName}</a>
+        </li>
         <li className="list-group-item">{properties.howLongAgo}</li>
       </ul>
     </div>
@@ -70,6 +70,7 @@ function Headlines(props) {
 
     return <Headline title={article.title}
                      description={article.description}
+                     sourceName={article.source.name}
                      url={article.url}
                      urlToImage={article.urlToImage}
                      howLongAgo={howLongAgo} />;
