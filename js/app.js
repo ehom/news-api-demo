@@ -80,4 +80,3 @@ App.defaultProps = {
 };
 
 ReactDOM.render(React.createElement(App, { locale: navigator.language }), document.getElementById("root"));
-
