@@ -1,97 +1,82 @@
-'use strict';
+"use strict";
 
-var URL = 'https://raw.githubusercontent.com/ehom/external-data/master/news-api-org/headlines.json';
+var _createClass = function () { function defineProperties(target, props) { for (var i = 0; i < props.length; i++) { var descriptor = props[i]; descriptor.enumerable = descriptor.enumerable || false; descriptor.configurable = true; if ("value" in descriptor) descriptor.writable = true; Object.defineProperty(target, descriptor.key, descriptor); } } return function (Constructor, protoProps, staticProps) { if (protoProps) defineProperties(Constructor.prototype, protoProps); if (staticProps) defineProperties(Constructor, staticProps); return Constructor; }; }();
 
-fetch(URL).then(function (response) {
-  return response.json();
-}).then(function (json) {
-  console.log(json);
-  return json;
-}).then(function (json) {
-  return render(json);
-}).catch(function (error) {
-  return console.error(error);
-});
+function _classCallCheck(instance, Constructor) { if (!(instance instanceof Constructor)) { throw new TypeError("Cannot call a class as a function"); } }
 
-// TODO: Register Handler for when
-// "navigator.language" changes
+function _possibleConstructorReturn(self, call) { if (!self) { throw new ReferenceError("this hasn't been initialised - super() hasn't been called"); } return call && (typeof call === "object" || typeof call === "function") ? call : self; }
 
-function Headlines(props) {
-  moment.locale(navigator.language);
+function _inherits(subClass, superClass) { if (typeof superClass !== "function" && superClass !== null) { throw new TypeError("Super expression must either be null or a function, not " + typeof superClass); } subClass.prototype = Object.create(superClass && superClass.prototype, { constructor: { value: subClass, enumerable: false, writable: true, configurable: true } }); if (superClass) Object.setPrototypeOf ? Object.setPrototypeOf(subClass, superClass) : subClass.__proto__ = superClass; }
 
-  var thisMoment = Date.now();
+var App = function (_React$Component) {
+  _inherits(App, _React$Component);
 
-  var headlines = props.src.articles.map(function (article) {
-    var hasNoDesc = function hasNoDesc(input) {
-      return input.description === null || input.description.length === 0;
+  function App(props) {
+    _classCallCheck(this, App);
+
+    var _this = _possibleConstructorReturn(this, (App.__proto__ || Object.getPrototypeOf(App)).call(this, props));
+
+    _this.state = {
+      headlines: []
     };
+    console.debug("ctor");
+    return _this;
+  }
 
-    var published = moment(new Date(article.publishedAt));
-    var howLongAgo = published.from(thisMoment);
+  _createClass(App, [{
+    key: "componentDidMount",
+    value: function componentDidMount() {
+      var _this2 = this;
 
-    var description = article.description;
-    if (hasNoDesc(article)) {
-      description = article.source.name;
+      console.debug("componentDidMount");
+
+      var URL = "https://raw.githubusercontent.com/ehom/external-data/master/news-api-org/headlines.json";
+
+      fetch(URL).then(function (response) {
+        return response.json();
+      }).then(function (json) {
+        _this2.setState({
+          headlines: json
+        });
+      }).catch(function (error) {
+        return console.log(error);
+      });
     }
-
-    return React.createElement(
-      'div',
-      { 'class': 'card mb-5 col-sm-4 app-headline' },
-      React.createElement('img', { 'class': 'card-img-top', src: article.urlToImage }),
-      React.createElement(
-        'div',
-        { 'class': 'card-body' },
+  }, {
+    key: "render",
+    value: function render() {
+      console.debug("about to render...");
+      return React.createElement(
+        React.Fragment,
+        null,
         React.createElement(
-          'h5',
-          { 'class': 'card-title' },
-          article.title
+          "div",
+          { className: "jumbotron pb-4 mb-5" },
+          React.createElement(
+            "h5",
+            null,
+            React.createElement(Today, { locale: this.props.locale })
+          ),
+          React.createElement(
+            "h1",
+            { className: "title" },
+            "BUSINESS HEADLINES"
+          )
         ),
         React.createElement(
-          'p',
-          { 'class': 'card-text' },
-          React.createElement(
-            'a',
-            { href: article.url, target: '_blank' },
-            description
-          )
+          "div",
+          { className: "container" },
+          React.createElement(Headlines, { headlines: this.state.headlines, locale: this.props.locale })
         )
-      ),
-      React.createElement(
-        'ul',
-        { 'class': 'list-group list-group-flush' },
-        React.createElement(
-          'li',
-          { 'class': 'list-group-item' },
-          howLongAgo
-        )
-      )
-    );
-  });
-  return React.createElement(
-    'div',
-    { 'class': 'row' },
-    headlines
-  );
-}
+      );
+    }
+  }]);
 
-function Today() {
-  var options = {
-    weekday: 'long',
-    year: 'numeric', month: 'long', day: 'numeric'
-  };
+  return App;
+}(React.Component);
 
-  var defaultLocale = navigator.language;
+App.defaultProps = {
+  locale: "en-US"
+};
 
-  var todaysDate = new Intl.DateTimeFormat(defaultLocale, options).format(new Date());
-
-  return React.createElement(
-    React.Fragment,
-    null,
-    todaysDate
-  );
-}
-
-function render(headlines) {
-  ReactDOM.render(React.createElement(Today, null), document.getElementById('todaysDate'));
-  ReactDOM.render(React.createElement(Headlines, { src: headlines }), document.getElementById('main'));
-}
+ReactDOM.render(React.createElement(App, { locale: navigator.language }), document.getElementById("root"));
