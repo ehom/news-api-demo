@@ -1,95 +1,46 @@
-const userLanguage = navigator.language;
-const HEADLINES= 'https://raw.githubusercontent.com/ehom/external-data/master/news-api-org/headlines.json';
+class App extends React.Component {
+  constructor(props) {
+    super(props);
+    this.state = {
+      headlines: []
+    };
+    console.debug("ctor");
+  }
 
-fetch(HEADLINES)
-  .then(response => response.json())
-  .then(json => {
-    console.log(json);
-    return json;
-  })
-  .then((json) => {
-    ReactDOM.render(<Page headlines={json} />, document.getElementById('root'));
-  })
-  .catch(error => console.error(error));
+  componentDidMount() {
+    console.debug("componentDidMount");
 
-function Page(props) {
-  return (
-    <React.Fragment>
-      <div className='jumbotron pb-4 mb-5 text-center'>
-        <h1 className='title'>BUSINESS HEADLINES</h1>
-        <TodaysDate />
-      </div>
-      <div className='container'>
-        <Headlines src={props.headlines} />,
-      </div>
-    </React.Fragment>
-  );
+    const URL =
+      "https://raw.githubusercontent.com/ehom/external-data/master/news-api-org/headlines.json";
+
+    fetch(URL)
+      .then((response) => response.json())
+      .then((json) => {
+        this.setState({
+          headlines: json
+        });
+      })
+      .catch((error) => console.log(error));
+  }
+
+  render() {
+    console.debug("about to render...");
+    return (
+      <React.Fragment>
+        <div className="jumbotron pb-4 mb-5">
+          <h5><Today locale={this.props.locale} /></h5>
+          <h1 className="title">BUSINESS HEADLINES</h1>
+        </div>
+        <div className="container">
+          <Headlines headlines={this.state.headlines} locale={this.props.locale} />
+        </div>
+      </React.Fragment>
+    );
+  }
 }
 
-// TODO: Register Handler for when
-// "navigator.language" changes
-
-function Headline(properties) {
-  // TODO -- default properties ???
-  console.debug("Source:", properties.source);
-
-  return (
-    <div className='card mb-5 col-sm-4 app-headline'>
-      <img className='card-img-top' src={properties.urlToImage} />
-      <div className='card-body'>
-        <h5 className='card-title'>{properties.title}</h5>
-        <p className='card-text'>{properties.description}</p>
-      </div>
-      <ul className="list-group list-group-flush">
-        <li className="list-group-item">
-          <a href={properties.url} target='_blank'>{properties.sourceName}</a>
-        </li>
-        <li className="list-group-item">{properties.howLongAgo}</li>
-      </ul>
-    </div>
-  );
+App.defaultProps = {
+  locale: "en-US"
 }
 
-function Headlines(props) {
-  moment.locale(userLanguage);
- 
-  const thisMoment = Date.now();
-
-  const headlines = props.src.articles.map((article) => {
-    const hasNoDesc = (input) => {
-      return input.description === null || input.description.length === 0;
-    }
-    
-    let published = moment(new Date(article.publishedAt));
-    let howLongAgo = published.from(thisMoment);
-
-    let description = article.description;
-    if (hasNoDesc(article)) {
-      description = article.source.name;
-    }
-
-    return <Headline title={article.title}
-                     description={article.description}
-                     sourceName={article.source.name}
-                     url={article.url}
-                     urlToImage={article.urlToImage}
-                     howLongAgo={howLongAgo} />;
-  });
-
-  return (
-    <div className='row'>{headlines}</div>
-  );
-}
-
-function TodaysDate() {
-  const options = {
-    weekday: 'long',
-    year: 'numeric', month: 'long', day: 'numeric'
-  };
-
-  const date = new Intl.DateTimeFormat(userLanguage, options).format(new Date());
-
-  return (
-    <React.Fragment>{date}</React.Fragment>
-  );
-}
+ReactDOM.render(<App locale={navigator.language} />, document.getElementById("root"));
