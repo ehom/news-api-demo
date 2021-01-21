@@ -26,6 +26,14 @@ var Today = function Today(_ref) {
   );
 };
 
+Today.defaultProps = {
+  locale: navigator.language
+};
+
+Today.propTypes = {
+  locale: PropTypes.string
+};
+
 var Headlines = function (_React$Component) {
   _inherits(Headlines, _React$Component);
 
@@ -117,3 +125,13 @@ var Headlines = function (_React$Component) {
 
   return Headlines;
 }(React.Component);
+
+Headlines.defaultProps = {
+  headlines: [],
+  locale: navigator.language
+};
+
+Headlines.propTypes = {
+  headlines: PropTypes.array,
+  locale: PropTypes.string
+};

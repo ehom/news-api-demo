@@ -17,7 +17,8 @@ var App = function (_React$Component) {
     var _this = _possibleConstructorReturn(this, (App.__proto__ || Object.getPrototypeOf(App)).call(this, props));
 
     _this.state = {
-      headlines: []
+      headlines: [],
+      locale: _this.props.locale
     };
     console.debug("ctor");
     return _this;
@@ -55,7 +56,7 @@ var App = function (_React$Component) {
           React.createElement(
             "h5",
             null,
-            React.createElement(Today, { locale: this.props.locale })
+            React.createElement(Today, { locale: this.state.locale })
           ),
           React.createElement(
             "h1",
@@ -66,7 +67,10 @@ var App = function (_React$Component) {
         React.createElement(
           "div",
           { className: "container" },
-          React.createElement(Headlines, { headlines: this.state.headlines, locale: this.props.locale })
+          React.createElement(Headlines, {
+            headlines: this.state.headlines,
+            locale: this.state.locale
+          })
         )
       );
     }
@@ -76,7 +80,7 @@ var App = function (_React$Component) {
 }(React.Component);
 
 App.defaultProps = {
-  locale: "en-US"
+  locale: navigator.language
 };
 
 ReactDOM.render(React.createElement(App, { locale: navigator.language }), document.getElementById("root"));
