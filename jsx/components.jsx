@@ -1,4 +1,4 @@
-const Today = ({locale}) => {
+const Today = ({ locale }) => {
   const options = {
     weekday: "long",
     year: "numeric",
@@ -6,10 +6,16 @@ const Today = ({locale}) => {
     day: "numeric"
   };
 
-  const today = new Intl.DateTimeFormat(locale, options).format(
-    new Date()
-  );
+  const today = new Intl.DateTimeFormat(locale, options).format(new Date());
   return <React.Fragment>{today}</React.Fragment>;
+};
+
+Today.defaultProps = {
+  locale: navigator.language
+};
+
+Today.propTypes = {
+  locale: PropTypes.string
 };
 
 class Headlines extends React.Component {
@@ -20,24 +26,22 @@ class Headlines extends React.Component {
 
   render() {
     console.debug(this.props);
-    
+
     const isEmpty = (a) => a.length === 0;
 
     if (isEmpty(this.props.headlines)) {
-      return (
-        <div class="row">x</div>
-      );
+      return <div class="row">x</div>;
     }
 
     const thisMoment = moment(new Date());
 
     // TODO
     // rewrite this to use a loop instead of calling map?
-    
+
     const headlines = this.props.headlines.articles.map((article) => {
       const hasNoDesc = (object) => {
         return object.description === null || object.description.length === 0;
-      }
+      };
 
       let published = moment(new Date(article.publishedAt));
       let howLongAgo = published.from(thisMoment);
@@ -48,12 +52,14 @@ class Headlines extends React.Component {
       }
 
       return (
-        <div class='card mb-5 col-sm-4 app-headline'>
-          <img class='card-img-top' src={article.urlToImage}/>
-          <div class='card-body'>
-            <h5 class='card-title'>{article.title}</h5>
-            <p class='card-text'>
-              <a href={article.url} target='_blank'>{description}</a>
+        <div class="card mb-5 col-sm-4 app-headline">
+          <img class="card-img-top" src={article.urlToImage} />
+          <div class="card-body">
+            <h5 class="card-title">{article.title}</h5>
+            <p class="card-text">
+              <a href={article.url} target="_blank">
+                {description}
+              </a>
             </p>
           </div>
           <ul class="list-group list-group-flush">
@@ -63,9 +69,16 @@ class Headlines extends React.Component {
       );
     });
 
-    return (
-      <div class="row">{headlines}</div>
-    );
+    return <div class="row">{headlines}</div>;
   }
 }
 
+Headlines.defaultProps = {
+  headlines: [],
+  locale: navigator.language
+};
+
+Headlines.propTypes = {
+  headlines: PropTypes.array,
+  locale: PropTypes.string
+};

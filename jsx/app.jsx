@@ -2,7 +2,8 @@ class App extends React.Component {
   constructor(props) {
     super(props);
     this.state = {
-      headlines: []
+      headlines: [],
+      locale: this.props.locale
     };
     console.debug("ctor");
   }
@@ -28,11 +29,16 @@ class App extends React.Component {
     return (
       <React.Fragment>
         <div className="jumbotron pb-4 mb-5">
-          <h5><Today locale={this.props.locale} /></h5>
+          <h5>
+            <Today locale={this.state.locale} />
+          </h5>
           <h1 className="title">BUSINESS HEADLINES</h1>
         </div>
         <div className="container">
-          <Headlines headlines={this.state.headlines} locale={this.props.locale} />
+          <Headlines
+            headlines={this.state.headlines}
+            locale={this.state.locale}
+          />
         </div>
       </React.Fragment>
     );
@@ -40,7 +46,7 @@ class App extends React.Component {
 }
 
 App.defaultProps = {
-  locale: "en-US"
-}
+  locale: navigator.language
+};
 
 ReactDOM.render(<App locale={navigator.language} />, document.getElementById("root"));
