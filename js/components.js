@@ -30,10 +30,6 @@ Today.defaultProps = {
   locale: navigator.language
 };
 
-Today.propTypes = {
-  locale: PropTypes.string
-};
-
 var Headlines = function (_React$Component) {
   _inherits(Headlines, _React$Component);
 
@@ -76,7 +72,7 @@ var Headlines = function (_React$Component) {
         var published = moment(new Date(article.publishedAt));
         var howLongAgo = published.from(thisMoment);
 
-        var description = article.description;
+        var description = Util.decodeHtml(article.description);
         if (hasNoDesc(article)) {
           description = article.source.name;
         }
@@ -131,7 +127,10 @@ Headlines.defaultProps = {
   locale: navigator.language
 };
 
-Headlines.propTypes = {
-  headlines: PropTypes.array,
-  locale: PropTypes.string
+var Util = {
+  decodeHtml: function decodeHtml(html) {
+    var txt = document.createElement("textarea");
+    txt.innerHTML = html;
+    return txt.value;
+  }
 };

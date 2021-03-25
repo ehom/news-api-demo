@@ -31,9 +31,9 @@ var App = function (_React$Component) {
 
       console.debug("componentDidMount");
 
-      var URL = "https://raw.githubusercontent.com/ehom/external-data/master/news-api-org/headlines.json";
+      var resource = "https://raw.githubusercontent.com/ehom/external-data/master/news-api-org/headlines.json";
 
-      fetch(URL).then(function (response) {
+      fetch(resource).then(function (response) {
         return response.json();
       }).then(function (json) {
         _this2.setState({
