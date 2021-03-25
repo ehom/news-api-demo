@@ -11,10 +11,10 @@ class App extends React.Component {
   componentDidMount() {
     console.debug("componentDidMount");
 
-    const URL =
+    const resource =
       "https://raw.githubusercontent.com/ehom/external-data/master/news-api-org/headlines.json";
 
-    fetch(URL)
+    fetch(resource)
       .then((response) => response.json())
       .then((json) => {
         this.setState({

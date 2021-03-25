@@ -14,10 +14,6 @@ Today.defaultProps = {
   locale: navigator.language
 };
 
-Today.propTypes = {
-  locale: PropTypes.string
-};
-
 class Headlines extends React.Component {
   constructor(props) {
     super(props);
@@ -46,7 +42,7 @@ class Headlines extends React.Component {
       let published = moment(new Date(article.publishedAt));
       let howLongAgo = published.from(thisMoment);
 
-      let description = article.description;
+      let description = Util.decodeHtml(article.description);
       if (hasNoDesc(article)) {
         description = article.source.name;
       }
@@ -78,7 +74,10 @@ Headlines.defaultProps = {
   locale: navigator.language
 };
 
-Headlines.propTypes = {
-  headlines: PropTypes.array,
-  locale: PropTypes.string
+const Util = {
+  decodeHtml: (html) => {
+    let txt = document.createElement("textarea");
+    txt.innerHTML = html;
+    return txt.value;
+  }
 };
