@@ -36,10 +36,7 @@ var Headlines = function (_React$Component) {
   function Headlines(props) {
     _classCallCheck(this, Headlines);
 
-    var _this = _possibleConstructorReturn(this, (Headlines.__proto__ || Object.getPrototypeOf(Headlines)).call(this, props));
-
-    moment.locale(_this.props.locale);
-    return _this;
+    return _possibleConstructorReturn(this, (Headlines.__proto__ || Object.getPrototypeOf(Headlines)).call(this, props));
   }
 
   _createClass(Headlines, [{
@@ -59,6 +56,7 @@ var Headlines = function (_React$Component) {
         );
       }
 
+      moment.locale(this.props.locale);
       var thisMoment = moment(new Date());
 
       // TODO
