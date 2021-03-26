@@ -17,7 +17,6 @@ Today.defaultProps = {
 class Headlines extends React.Component {
   constructor(props) {
     super(props);
-    moment.locale(this.props.locale);
   }
 
   render() {
@@ -29,6 +28,7 @@ class Headlines extends React.Component {
       return <div class="row">x</div>;
     }
 
+    moment.locale(this.props.locale);
     const thisMoment = moment(new Date());
 
     // TODO

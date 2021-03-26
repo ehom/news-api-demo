@@ -2,16 +2,14 @@ class App extends React.Component {
   constructor(props) {
     super(props);
     this.state = {
-      headlines: [],
-      locale: this.props.locale
+      locale: this.props.locale,
+      headlines: []
     };
     console.debug("ctor");
   }
 
   componentDidMount() {
-    console.debug("componentDidMount");
-
-    const resource =
+    let resource =
       "https://raw.githubusercontent.com/ehom/external-data/master/news-api-org/headlines.json";
 
     fetch(resource)
@@ -24,27 +22,56 @@ class App extends React.Component {
       .catch((error) => console.log(error));
   }
 
+  changeHandler(event) {
+    const locale = event.target.value;
+    console.debug("change event:", locale);
+
+    let resource =
+      "https://raw.githubusercontent.com/ehom/external-data/master/news-api-org/headlines.json";
+
+    console.debug("debug state, locale: ", this.state.locale);
+
+    if (event.target.value !== 'en-US') {
+      const [ languageCode, countryCode ] = locale.split('-');
+      console.debug("debug countryCode: ", countryCode);
+      resource = `https://raw.githubusercontent.com/ehom/external-data/master/news-api-org/${countryCode.toLowerCase()}-headlines.json`;
+    }
+
+    console.log("fetch resource: ", resource);
+
+    fetch(resource)
+      .then((response) => response.json())
+      .then((json) => {
+        this.setState({
+          locale: locale,
+          headlines: json
+        });
+      })
+      .catch((error) => console.log(error));
+  }
+
   render() {
     console.debug("about to render...");
     const style = {fontFamily: 'serif', fontWeight: 'bold', fontStyle: 'italic'};
 
     return (
       <React.Fragment>
-        <nav className="navbar navbar-light bg-light mb-5">
+        <nav className="navbar navbar-light bg-light mb-3">
           <h3 className="navbar-text" style={style}>BUSINESS HEADLINES</h3>
-          <a href="#" className="badge badge-pill badge-primary">US</a>
-          <a href="#" className="badge badge-pill badge-primary">Japan</a>
-          <a href="#" className="badge badge-pill badge-primary">Hong Kong</a>
-          <a href="#" className="badge badge-pill badge-primary">South Korea</a>
-          <a href="#" className="badge badge-pill badge-primary">France</a>
-          <a href="#" className="badge badge-pill badge-primary">Israel</a>
-          <a href="#" className="badge badge-pill badge-primary">Egypt</a>
-          <span className="navbar-text float-right" style={style}><Today locale={this.state.locale} /></span>
+          <span className="navbar-text float-right"><Today locale={this.state.locale} /></span>
         </nav>
+        <div className="container mb-3">
+          <div className="row">
+            <div className="col-md-9">
+            </div>
+            <div className="col-md-3">
+              <ItemSelector id="countrySelector" onChange={this.changeHandler.bind(this)} />
+            </div>
+          </div>
+        </div>
         <div className="container">
           <Headlines
-            headlines={this.state.headlines}
-            locale={this.state.locale}
+            locale={this.state.locale} headlines={this.state.headlines}
           />
         </div>
       </React.Fragment>
@@ -54,6 +81,18 @@ class App extends React.Component {
 
 App.defaultProps = {
   locale: navigator.language
+};
+
+const ItemSelector = ({id, onChange}) => {
+  return (
+    <select id={id} onChange={onChange} className="form-control">
+      <option value='en-US'>US</option>
+      <option value='zh-HK'>Hong Kong</option>
+      <option value='he-IL'>Israel</option>
+      <option value='ko-KR'>South Korea</option>
+      <option value='en-GB'>Great Britain</option>
+    </select>
+  );
 };
 
 ReactDOM.render(<App locale={navigator.language} />, document.getElementById("root"));
