@@ -47,21 +47,58 @@ var App = function (_React$Component) {
     key: "render",
     value: function render() {
       console.debug("about to render...");
+      var style = { fontFamily: 'serif', fontWeight: 'bold', fontStyle: 'italic' };
+
       return React.createElement(
         React.Fragment,
         null,
         React.createElement(
-          "div",
-          { className: "jumbotron pb-4 mb-5" },
+          "nav",
+          { className: "navbar navbar-light bg-light mb-5" },
           React.createElement(
-            "h5",
-            null,
-            React.createElement(Today, { locale: this.state.locale })
+            "h3",
+            { className: "navbar-text", style: style },
+            "BUSINESS HEADLINES"
           ),
           React.createElement(
-            "h1",
-            { className: "title" },
-            "BUSINESS HEADLINES"
+            "a",
+            { href: "#", className: "badge badge-pill badge-primary" },
+            "US"
+          ),
+          React.createElement(
+            "a",
+            { href: "#", className: "badge badge-pill badge-primary" },
+            "Japan"
+          ),
+          React.createElement(
+            "a",
+            { href: "#", className: "badge badge-pill badge-primary" },
+            "Hong Kong"
+          ),
+          React.createElement(
+            "a",
+            { href: "#", className: "badge badge-pill badge-primary" },
+            "South Korea"
+          ),
+          React.createElement(
+            "a",
+            { href: "#", className: "badge badge-pill badge-primary" },
+            "France"
+          ),
+          React.createElement(
+            "a",
+            { href: "#", className: "badge badge-pill badge-primary" },
+            "Israel"
+          ),
+          React.createElement(
+            "a",
+            { href: "#", className: "badge badge-pill badge-primary" },
+            "Egypt"
+          ),
+          React.createElement(
+            "span",
+            { className: "navbar-text float-right", style: style },
+            React.createElement(Today, { locale: this.state.locale })
           )
         ),
         React.createElement(
