@@ -26,14 +26,21 @@ class App extends React.Component {
 
   render() {
     console.debug("about to render...");
+    const style = {fontFamily: 'serif', fontWeight: 'bold', fontStyle: 'italic'};
+
     return (
       <React.Fragment>
-        <div className="jumbotron pb-4 mb-5">
-          <h5>
-            <Today locale={this.state.locale} />
-          </h5>
-          <h1 className="title">BUSINESS HEADLINES</h1>
-        </div>
+        <nav className="navbar navbar-light bg-light mb-5">
+          <h3 className="navbar-text" style={style}>BUSINESS HEADLINES</h3>
+          <a href="#" className="badge badge-pill badge-primary">US</a>
+          <a href="#" className="badge badge-pill badge-primary">Japan</a>
+          <a href="#" className="badge badge-pill badge-primary">Hong Kong</a>
+          <a href="#" className="badge badge-pill badge-primary">South Korea</a>
+          <a href="#" className="badge badge-pill badge-primary">France</a>
+          <a href="#" className="badge badge-pill badge-primary">Israel</a>
+          <a href="#" className="badge badge-pill badge-primary">Egypt</a>
+          <span className="navbar-text float-right" style={style}><Today locale={this.state.locale} /></span>
+        </nav>
         <div className="container">
           <Headlines
             headlines={this.state.headlines}
