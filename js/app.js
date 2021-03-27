@@ -147,13 +147,18 @@ var ItemSelector = function ItemSelector(_ref) {
     ),
     React.createElement(
       "option",
+      { value: "en-GB" },
+      "Great Britain"
+    ),
+    React.createElement(
+      "option",
       { value: "zh-HK" },
       "Hong Kong"
     ),
     React.createElement(
       "option",
-      { value: "he-IL" },
-      "Israel"
+      { value: "ja-JP" },
+      "Japan"
     ),
     React.createElement(
       "option",
@@ -162,8 +167,8 @@ var ItemSelector = function ItemSelector(_ref) {
     ),
     React.createElement(
       "option",
-      { value: "en-GB" },
-      "Great Britain"
+      { value: "he-IL" },
+      "Israel"
     )
   );
 };
