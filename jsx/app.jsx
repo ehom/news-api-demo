@@ -54,6 +54,24 @@ class App extends React.Component {
     console.debug("about to render...");
     const style = {fontFamily: 'serif', fontWeight: 'bold', fontStyle: 'italic'};
 
+    const tableOfCountries = {
+      'en-US': "United States",
+      'en-GB': "United Kingdom",
+      'fr-FR': "France",
+      'de-CH': "Switzerland",
+      'zh-CN': "China",
+      'zh-HK': "Hong Kong",
+      'zh-TW': "Taiwan",
+      'ja-JP': "Japan",
+      'ko-KR': "South Korea",
+      'th-TH': "Thailand",
+      'el-GR': "Greece",
+      'tr-TR': "Turkey",
+      'pl-PL': "Poland",
+      'ru-RU': "Russia",
+      'he-IL': "Israel"
+    };
+
     return (
       <React.Fragment>
         <nav className="navbar navbar-light bg-light mb-3">
@@ -65,7 +83,7 @@ class App extends React.Component {
             <div className="col-md-9">
             </div>
             <div className="col-md-3">
-              <ItemSelector id="countrySelector" onChange={this.changeHandler.bind(this)} />
+              <ItemSelector id="countrySelector" items={tableOfCountries} onChange={this.changeHandler.bind(this)} />
             </div>
           </div>
         </div>
@@ -83,24 +101,12 @@ App.defaultProps = {
   locale: navigator.language
 };
 
-const ItemSelector = ({id, onChange}) => {
+const ItemSelector = ({id, items, onChange}) => {
   return (
     <select id={id} onChange={onChange} className="form-control">
-      <option value='en-US'>US</option>
-      <option value='en-GB'>Great Britain</option>
-      <option value='fr-FR'>France</option>
-      <option value='de-CH'>Switzerland</option>
-      <option value='zh-CN'>China</option>
-      <option value='zh-HK'>Hong Kong</option>
-      <option value='zh-TW'>Taiwan</option>
-      <option value='ja-JP'>Japan</option>
-      <option value='ko-KR'>South Korea</option>
-      <option value='th-TH'>Thailand</option>
-      <option value='el-GR'>Greece</option>
-      <option value='tr-TR'>Turkey</option>
-      <option value='pl-PL'>Poland</option>
-      <option value='ru-RU'>Russia</option>
-      <option value='he-IL'>Israel</option>
+    {
+      Object.entries(items).map(([key, value]) => <option value={key}>{value}</option>)
+    }
     </select>
   );
 };
