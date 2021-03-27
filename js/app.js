@@ -152,8 +152,23 @@ var ItemSelector = function ItemSelector(_ref) {
     ),
     React.createElement(
       "option",
+      { value: "fr-FR" },
+      "France"
+    ),
+    React.createElement(
+      "option",
+      { value: "zh-CN" },
+      "China"
+    ),
+    React.createElement(
+      "option",
       { value: "zh-HK" },
       "Hong Kong"
+    ),
+    React.createElement(
+      "option",
+      { value: "zh-TW" },
+      "Taiwan"
     ),
     React.createElement(
       "option",
@@ -164,6 +179,31 @@ var ItemSelector = function ItemSelector(_ref) {
       "option",
       { value: "ko-KR" },
       "South Korea"
+    ),
+    React.createElement(
+      "option",
+      { value: "th-TH" },
+      "Thailand"
+    ),
+    React.createElement(
+      "option",
+      { value: "el-GR" },
+      "Greece"
+    ),
+    React.createElement(
+      "option",
+      { value: "tr-TR" },
+      "Turkey"
+    ),
+    React.createElement(
+      "option",
+      { value: "pl-PL" },
+      "Poland"
+    ),
+    React.createElement(
+      "option",
+      { value: "ru-RU" },
+      "Russia"
     ),
     React.createElement(
       "option",
