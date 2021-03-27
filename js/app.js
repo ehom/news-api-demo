@@ -84,6 +84,24 @@ var App = function (_React$Component) {
       console.debug("about to render...");
       var style = { fontFamily: 'serif', fontWeight: 'bold', fontStyle: 'italic' };
 
+      var tableOfCountries = {
+        'en-US': "United States",
+        'en-GB': "United Kingdom",
+        'fr-FR': "France",
+        'de-CH': "Switzerland",
+        'zh-CN': "China",
+        'zh-HK': "Hong Kong",
+        'zh-TW': "Taiwan",
+        'ja-JP': "Japan",
+        'ko-KR': "South Korea",
+        'th-TH': "Thailand",
+        'el-GR': "Greece",
+        'tr-TR': "Turkey",
+        'pl-PL': "Poland",
+        'ru-RU': "Russia",
+        'he-IL': "Israel"
+      };
+
       return React.createElement(
         React.Fragment,
         null,
@@ -111,7 +129,7 @@ var App = function (_React$Component) {
             React.createElement(
               "div",
               { className: "col-md-3" },
-              React.createElement(ItemSelector, { id: "countrySelector", onChange: this.changeHandler.bind(this) })
+              React.createElement(ItemSelector, { id: "countrySelector", items: tableOfCountries, onChange: this.changeHandler.bind(this) })
             )
           )
         ),
@@ -135,86 +153,23 @@ App.defaultProps = {
 
 var ItemSelector = function ItemSelector(_ref) {
   var id = _ref.id,
+      items = _ref.items,
       onChange = _ref.onChange;
 
   return React.createElement(
     "select",
     { id: id, onChange: onChange, className: "form-control" },
-    React.createElement(
-      "option",
-      { value: "en-US" },
-      "US"
-    ),
-    React.createElement(
-      "option",
-      { value: "en-GB" },
-      "Great Britain"
-    ),
-    React.createElement(
-      "option",
-      { value: "fr-FR" },
-      "France"
-    ),
-    React.createElement(
-      "option",
-      { value: "de-CH" },
-      "Switzerland"
-    ),
-    React.createElement(
-      "option",
-      { value: "zh-CN" },
-      "China"
-    ),
-    React.createElement(
-      "option",
-      { value: "zh-HK" },
-      "Hong Kong"
-    ),
-    React.createElement(
-      "option",
-      { value: "zh-TW" },
-      "Taiwan"
-    ),
-    React.createElement(
-      "option",
-      { value: "ja-JP" },
-      "Japan"
-    ),
-    React.createElement(
-      "option",
-      { value: "ko-KR" },
-      "South Korea"
-    ),
-    React.createElement(
-      "option",
-      { value: "th-TH" },
-      "Thailand"
-    ),
-    React.createElement(
-      "option",
-      { value: "el-GR" },
-      "Greece"
-    ),
-    React.createElement(
-      "option",
-      { value: "tr-TR" },
-      "Turkey"
-    ),
-    React.createElement(
-      "option",
-      { value: "pl-PL" },
-      "Poland"
-    ),
-    React.createElement(
-      "option",
-      { value: "ru-RU" },
-      "Russia"
-    ),
-    React.createElement(
-      "option",
-      { value: "he-IL" },
-      "Israel"
-    )
+    Object.entries(items).map(function (_ref2) {
+      var _ref3 = _slicedToArray(_ref2, 2),
+          key = _ref3[0],
+          value = _ref3[1];
+
+      return React.createElement(
+        "option",
+        { value: key },
+        value
+      );
+    })
   );
 };
 
