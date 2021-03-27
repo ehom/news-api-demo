@@ -89,6 +89,7 @@ const ItemSelector = ({id, onChange}) => {
       <option value='en-US'>US</option>
       <option value='en-GB'>Great Britain</option>
       <option value='fr-FR'>France</option>
+      <option value='de-CH'>Switzerland</option>
       <option value='zh-CN'>China</option>
       <option value='zh-HK'>Hong Kong</option>
       <option value='zh-TW'>Taiwan</option>
