@@ -157,6 +157,11 @@ var ItemSelector = function ItemSelector(_ref) {
     ),
     React.createElement(
       "option",
+      { value: "de-CH" },
+      "Switzerland"
+    ),
+    React.createElement(
+      "option",
       { value: "zh-CN" },
       "China"
     ),
