@@ -88,9 +88,17 @@ const ItemSelector = ({id, onChange}) => {
     <select id={id} onChange={onChange} className="form-control">
       <option value='en-US'>US</option>
       <option value='en-GB'>Great Britain</option>
+      <option value='fr-FR'>France</option>
+      <option value='zh-CN'>China</option>
       <option value='zh-HK'>Hong Kong</option>
+      <option value='zh-TW'>Taiwan</option>
       <option value='ja-JP'>Japan</option>
       <option value='ko-KR'>South Korea</option>
+      <option value='th-TH'>Thailand</option>
+      <option value='el-GR'>Greece</option>
+      <option value='tr-TR'>Turkey</option>
+      <option value='pl-PL'>Poland</option>
+      <option value='ru-RU'>Russia</option>
       <option value='he-IL'>Israel</option>
     </select>
   );
