@@ -102,6 +102,10 @@ var App = function (_React$Component) {
         'he-IL': "Israel"
       };
 
+      var hebrew = this.state.locale === 'he-IL';
+      document.documentElement.lang = hebrew ? 'he' : 'en';
+      document.documentElement.dir = hebrew ? 'rtl' : 'ltr';
+
       return React.createElement(
         React.Fragment,
         null,
