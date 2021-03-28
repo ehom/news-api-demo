@@ -72,6 +72,10 @@ class App extends React.Component {
       'he-IL': "Israel"
     };
 
+    const hebrew = this.state.locale === 'he-IL';
+    document.documentElement.lang = hebrew ? 'he'  : 'en';
+    document.documentElement.dir  = hebrew ? 'rtl' : 'ltr';
+
     return (
       <React.Fragment>
         <nav className="navbar navbar-light bg-light mb-3">
