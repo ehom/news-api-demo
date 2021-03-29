@@ -1,3 +1,7 @@
+const DEFAULT_RESOURCE =
+  "https://raw.githubusercontent.com/ehom/external-data/master/news-api-org/us-headlines.json";
+
+
 class App extends React.Component {
   constructor(props) {
     super(props);
@@ -9,10 +13,7 @@ class App extends React.Component {
   }
 
   componentDidMount() {
-    let resource =
-      "https://raw.githubusercontent.com/ehom/external-data/master/news-api-org/headlines.json";
-
-    fetch(resource)
+    fetch(DEFAULT_RESOURCE)
       .then((response) => response.json())
       .then((json) => {
         this.setState({
@@ -26,8 +27,7 @@ class App extends React.Component {
     const locale = event.target.value;
     console.debug("change event:", locale);
 
-    let resource =
-      "https://raw.githubusercontent.com/ehom/external-data/master/news-api-org/headlines.json";
+    let resource = DEFAULT_RESOURCE;
 
     console.debug("debug state, locale: ", this.state.locale);
 
