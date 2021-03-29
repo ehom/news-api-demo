@@ -10,6 +10,8 @@ function _possibleConstructorReturn(self, call) { if (!self) { throw new Referen
 
 function _inherits(subClass, superClass) { if (typeof superClass !== "function" && superClass !== null) { throw new TypeError("Super expression must either be null or a function, not " + typeof superClass); } subClass.prototype = Object.create(superClass && superClass.prototype, { constructor: { value: subClass, enumerable: false, writable: true, configurable: true } }); if (superClass) Object.setPrototypeOf ? Object.setPrototypeOf(subClass, superClass) : subClass.__proto__ = superClass; }
 
+var DEFAULT_RESOURCE = "https://raw.githubusercontent.com/ehom/external-data/master/news-api-org/us-headlines.json";
+
 var App = function (_React$Component) {
   _inherits(App, _React$Component);
 
@@ -31,9 +33,7 @@ var App = function (_React$Component) {
     value: function componentDidMount() {
       var _this2 = this;
 
-      var resource = "https://raw.githubusercontent.com/ehom/external-data/master/news-api-org/headlines.json";
-
-      fetch(resource).then(function (response) {
+      fetch(DEFAULT_RESOURCE).then(function (response) {
         return response.json();
       }).then(function (json) {
         _this2.setState({
@@ -51,7 +51,7 @@ var App = function (_React$Component) {
       var locale = event.target.value;
       console.debug("change event:", locale);
 
-      var resource = "https://raw.githubusercontent.com/ehom/external-data/master/news-api-org/headlines.json";
+      var resource = DEFAULT_RESOURCE;
 
       console.debug("debug state, locale: ", this.state.locale);
 
