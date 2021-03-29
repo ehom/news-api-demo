@@ -12,6 +12,8 @@ function _inherits(subClass, superClass) { if (typeof superClass !== "function" 
 
 var DEFAULT_RESOURCE = "https://raw.githubusercontent.com/ehom/external-data/master/news-api-org/us-headlines.json";
 
+var TITLE = "World Headlines";
+
 var App = function (_React$Component) {
   _inherits(App, _React$Component);
 
@@ -115,7 +117,7 @@ var App = function (_React$Component) {
           React.createElement(
             "h3",
             { className: "navbar-text", style: style },
-            "BUSINESS HEADLINES"
+            TITLE
           ),
           React.createElement(
             "span",
