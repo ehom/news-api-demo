@@ -84,9 +84,9 @@ class App extends React.Component {
         </nav>
         <div className="container mb-3">
           <div className="row">
-            <div className="col-md-9">
+            <div className="col-md-7">
             </div>
-            <div className="col-md-3">
+            <div className="col-md-5">
               <ItemSelector id="countrySelector" items={tableOfCountries} onChange={this.changeHandler.bind(this)} />
             </div>
           </div>
