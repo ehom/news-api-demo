@@ -1,6 +1,7 @@
 const DEFAULT_RESOURCE =
   "https://raw.githubusercontent.com/ehom/external-data/master/news-api-org/us-headlines.json";
 
+const TITLE = "World Headlines";
 
 class App extends React.Component {
   constructor(props) {
@@ -79,7 +80,7 @@ class App extends React.Component {
     return (
       <React.Fragment>
         <nav className="navbar navbar-light bg-light mb-3">
-          <h3 className="navbar-text" style={style}>BUSINESS HEADLINES</h3>
+          <h3 className="navbar-text" style={style}>{TITLE}</h3>
           <span className="navbar-text float-right"><Today locale={this.state.locale} /></span>
         </nav>
         <div className="container mb-3">
