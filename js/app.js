@@ -129,10 +129,10 @@ var App = function (_React$Component) {
           React.createElement(
             "div",
             { className: "row" },
-            React.createElement("div", { className: "col-md-9" }),
+            React.createElement("div", { className: "col-md-7" }),
             React.createElement(
               "div",
-              { className: "col-md-3" },
+              { className: "col-md-5" },
               React.createElement(ItemSelector, { id: "countrySelector", items: tableOfCountries, onChange: this.changeHandler.bind(this) })
             )
           )
