@@ -70,39 +70,37 @@ var Headlines = function (_React$Component) {
         var published = moment(new Date(article.publishedAt));
         var howLongAgo = published.from(thisMoment);
 
-        var description = Util.decodeHtml(article.description);
+        var description = article.description;
         if (hasNoDesc(article)) {
           description = article.source.name;
         }
 
+        console.debug("description:", description);
+
         return React.createElement(
           "div",
-          { "class": "card mb-5 col-sm-4 app-headline" },
-          React.createElement("img", { "class": "card-img-top", src: article.urlToImage }),
+          { className: "card mb-5 col-sm-4 app-headline" },
+          React.createElement("img", { className: "card-img-top", src: article.urlToImage }),
           React.createElement(
             "div",
-            { "class": "card-body" },
+            { className: "card-body", dir: "auto" },
             React.createElement(
               "h5",
-              { "class": "card-title" },
+              { className: "card-title" },
               article.title
             ),
             React.createElement(
-              "p",
-              { "class": "card-text" },
-              React.createElement(
-                "a",
-                { href: article.url, target: "_blank" },
-                description
-              )
+              "a",
+              { href: article.url, target: "_blank" },
+              Util.decodeHtml(description)
             )
           ),
           React.createElement(
             "ul",
-            { "class": "list-group list-group-flush" },
+            { className: "list-group list-group-flush" },
             React.createElement(
               "li",
-              { "class": "list-group-item" },
+              { className: "list-group-item" },
               howLongAgo
             )
           )
@@ -123,12 +121,4 @@ var Headlines = function (_React$Component) {
 Headlines.defaultProps = {
   headlines: [],
   locale: navigator.language
-};
-
-var Util = {
-  decodeHtml: function decodeHtml(html) {
-    var txt = document.createElement("textarea");
-    txt.innerHTML = html;
-    return txt.value;
-  }
 };

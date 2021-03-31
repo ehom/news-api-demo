@@ -1,8 +1,8 @@
-"use strict";
-
-var _slicedToArray = function () { function sliceIterator(arr, i) { var _arr = []; var _n = true; var _d = false; var _e = undefined; try { for (var _i = arr[Symbol.iterator](), _s; !(_n = (_s = _i.next()).done); _n = true) { _arr.push(_s.value); if (i && _arr.length === i) break; } } catch (err) { _d = true; _e = err; } finally { try { if (!_n && _i["return"]) _i["return"](); } finally { if (_d) throw _e; } } return _arr; } return function (arr, i) { if (Array.isArray(arr)) { return arr; } else if (Symbol.iterator in Object(arr)) { return sliceIterator(arr, i); } else { throw new TypeError("Invalid attempt to destructure non-iterable instance"); } }; }();
+'use strict';
 
 var _createClass = function () { function defineProperties(target, props) { for (var i = 0; i < props.length; i++) { var descriptor = props[i]; descriptor.enumerable = descriptor.enumerable || false; descriptor.configurable = true; if ("value" in descriptor) descriptor.writable = true; Object.defineProperty(target, descriptor.key, descriptor); } } return function (Constructor, protoProps, staticProps) { if (protoProps) defineProperties(Constructor.prototype, protoProps); if (staticProps) defineProperties(Constructor, staticProps); return Constructor; }; }();
+
+var _slicedToArray = function () { function sliceIterator(arr, i) { var _arr = []; var _n = true; var _d = false; var _e = undefined; try { for (var _i = arr[Symbol.iterator](), _s; !(_n = (_s = _i.next()).done); _n = true) { _arr.push(_s.value); if (i && _arr.length === i) break; } } catch (err) { _d = true; _e = err; } finally { try { if (!_n && _i["return"]) _i["return"](); } finally { if (_d) throw _e; } } return _arr; } return function (arr, i) { if (Array.isArray(arr)) { return arr; } else if (Symbol.iterator in Object(arr)) { return sliceIterator(arr, i); } else { throw new TypeError("Invalid attempt to destructure non-iterable instance"); } }; }();
 
 function _classCallCheck(instance, Constructor) { if (!(instance instanceof Constructor)) { throw new TypeError("Cannot call a class as a function"); } }
 
@@ -10,9 +10,22 @@ function _possibleConstructorReturn(self, call) { if (!self) { throw new Referen
 
 function _inherits(subClass, superClass) { if (typeof superClass !== "function" && superClass !== null) { throw new TypeError("Super expression must either be null or a function, not " + typeof superClass); } subClass.prototype = Object.create(superClass && superClass.prototype, { constructor: { value: subClass, enumerable: false, writable: true, configurable: true } }); if (superClass) Object.setPrototypeOf ? Object.setPrototypeOf(subClass, superClass) : subClass.__proto__ = superClass; }
 
-var DEFAULT_RESOURCE = "https://raw.githubusercontent.com/ehom/external-data/master/news-api-org/us-headlines.json";
-
 var TITLE = "World Headlines";
+
+var URL = function URL(url) {
+  return 'https://cors.bridged.cc/' + url;
+};
+
+var RESOURCES = [URL('https://raw.githubusercontent.com/ehom/external-data/master/news-api-org/us-headlines.json'), URL('https://raw.githubusercontent.com/ehom/external-data/master/news-api-org/countries.json')];
+
+var getResource = function getResource(locale) {
+  var _locale$split = locale.split('-'),
+      _locale$split2 = _slicedToArray(_locale$split, 2),
+      notUsed = _locale$split2[0],
+      countryCode = _locale$split2[1];
+
+  return URL('https://raw.githubusercontent.com/ehom/external-data/master/news-api-org/' + countryCode.toLowerCase() + '-headlines.json');
+};
 
 var App = function (_React$Component) {
   _inherits(App, _React$Component);
@@ -24,48 +37,41 @@ var App = function (_React$Component) {
 
     _this.state = {
       locale: _this.props.locale,
-      headlines: []
+      headlines: [],
+      countries: {}
     };
     console.debug("ctor");
     return _this;
   }
 
   _createClass(App, [{
-    key: "componentDidMount",
+    key: 'componentDidMount',
     value: function componentDidMount() {
       var _this2 = this;
 
-      fetch(DEFAULT_RESOURCE).then(function (response) {
-        return response.json();
-      }).then(function (json) {
+      console.debug("componentDidMount()");
+
+      fetchResources(RESOURCES).then(function (data) {
+        console.debug("debug:", data[0]);
+        console.debug("debug:", data[1]);
+
+        var _data = _slicedToArray(data, 2),
+            headlines = _data[0],
+            countries = _data[1];
+
         _this2.setState({
-          headlines: json
+          headlines: headlines,
+          countries: countries
         });
-      }).catch(function (error) {
-        return console.log(error);
       });
     }
   }, {
-    key: "changeHandler",
+    key: 'changeHandler',
     value: function changeHandler(event) {
       var _this3 = this;
 
       var locale = event.target.value;
-      console.debug("change event:", locale);
-
-      var resource = DEFAULT_RESOURCE;
-
-      console.debug("debug state, locale: ", this.state.locale);
-
-      if (event.target.value !== 'en-US') {
-        var _locale$split = locale.split('-'),
-            _locale$split2 = _slicedToArray(_locale$split, 2),
-            languageCode = _locale$split2[0],
-            countryCode = _locale$split2[1];
-
-        console.debug("debug countryCode: ", countryCode);
-        resource = "https://raw.githubusercontent.com/ehom/external-data/master/news-api-org/" + countryCode.toLowerCase() + "-headlines.json";
-      }
+      var resource = getResource(locale);
 
       console.log("fetch resource: ", resource);
 
@@ -81,28 +87,10 @@ var App = function (_React$Component) {
       });
     }
   }, {
-    key: "render",
+    key: 'render',
     value: function render() {
       console.debug("about to render...");
       var style = { fontFamily: 'serif', fontWeight: 'bold', fontStyle: 'italic' };
-
-      var tableOfCountries = {
-        'en-US': "United States",
-        'en-GB': "United Kingdom",
-        'fr-FR': "France",
-        'de-CH': "Switzerland",
-        'zh-CN': "China",
-        'zh-HK': "Hong Kong",
-        'zh-TW': "Taiwan",
-        'ja-JP': "Japan",
-        'ko-KR': "South Korea",
-        'th-TH': "Thailand",
-        'el-GR': "Greece",
-        'tr-TR': "Turkey",
-        'pl-PL': "Poland",
-        'ru-RU': "Russia",
-        'he-IL': "Israel"
-      };
 
       var hebrew = this.state.locale === 'he-IL';
       document.documentElement.lang = hebrew ? 'he' : 'en';
@@ -112,36 +100,36 @@ var App = function (_React$Component) {
         React.Fragment,
         null,
         React.createElement(
-          "nav",
-          { className: "navbar navbar-light bg-light mb-3" },
+          'nav',
+          { className: 'navbar navbar-light bg-light mb-3' },
           React.createElement(
-            "h3",
-            { className: "navbar-text", style: style },
+            'h3',
+            { className: 'navbar-text', style: style },
             TITLE
           ),
           React.createElement(
-            "span",
-            { className: "navbar-text float-right" },
+            'span',
+            { className: 'navbar-text float-right' },
             React.createElement(Today, { locale: this.state.locale })
           )
         ),
         React.createElement(
-          "div",
-          { className: "container mb-3" },
+          'div',
+          { className: 'container mb-3' },
           React.createElement(
-            "div",
-            { className: "row" },
-            React.createElement("div", { className: "col-md-7" }),
+            'div',
+            { className: 'row' },
+            React.createElement('div', { className: 'col-md-7' }),
             React.createElement(
-              "div",
-              { className: "col-md-5" },
-              React.createElement(ItemSelector, { id: "countrySelector", items: tableOfCountries, onChange: this.changeHandler.bind(this) })
+              'div',
+              { className: 'col-md-5' },
+              React.createElement(ItemSelector, { id: 'countrySelector', items: this.state.countries, onChange: this.changeHandler.bind(this) })
             )
           )
         ),
         React.createElement(
-          "div",
-          { className: "container" },
+          'div',
+          { className: 'container' },
           React.createElement(Headlines, {
             locale: this.state.locale, headlines: this.state.headlines
           })
@@ -163,15 +151,15 @@ var ItemSelector = function ItemSelector(_ref) {
       onChange = _ref.onChange;
 
   return React.createElement(
-    "select",
-    { id: id, onChange: onChange, className: "form-control" },
+    'select',
+    { id: id, onChange: onChange, className: 'form-control' },
     Object.entries(items).map(function (_ref2) {
       var _ref3 = _slicedToArray(_ref2, 2),
           key = _ref3[0],
           value = _ref3[1];
 
       return React.createElement(
-        "option",
+        'option',
         { value: key },
         value
       );
