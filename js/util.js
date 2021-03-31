@@ -6,14 +6,14 @@ const Util = {
   }
 };
 
-const fetchResource = async (resource) => {
+const fetchJson = async (resource) => {
  let response = await fetch(resource);
  return await response.json();
 };
 
-const fetchResources = async (resources) => {
+const fetchJsonS = async (resources) => {
   let promises = resources.map(resource => {
-    return fetchResource(resource);
+    return fetchJson(resource);
   });
   return await Promise.all(promises);
 };
