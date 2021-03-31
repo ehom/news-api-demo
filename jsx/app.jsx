@@ -28,7 +28,7 @@ class App extends React.Component {
   componentDidMount() {
     console.debug("componentDidMount()");
 
-    fetchResources(RESOURCES)
+    fetchJsonS(RESOURCES)
     .then(data => {
       console.debug("debug:", data[0]);
       console.debug("debug:", data[1]);
@@ -47,8 +47,7 @@ class App extends React.Component {
 
     console.log("fetch resource: ", resource);
 
-    fetch(resource)
-      .then((response) => response.json())
+    fetchJson(resource)
       .then((json) => {
         this.setState({
           locale: locale,
