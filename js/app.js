@@ -51,7 +51,7 @@ var App = function (_React$Component) {
 
       console.debug("componentDidMount()");
 
-      fetchResources(RESOURCES).then(function (data) {
+      fetchJsonS(RESOURCES).then(function (data) {
         console.debug("debug:", data[0]);
         console.debug("debug:", data[1]);
 
@@ -75,9 +75,7 @@ var App = function (_React$Component) {
 
       console.log("fetch resource: ", resource);
 
-      fetch(resource).then(function (response) {
-        return response.json();
-      }).then(function (json) {
+      fetchJson(resource).then(function (json) {
         _this3.setState({
           locale: locale,
           headlines: json
