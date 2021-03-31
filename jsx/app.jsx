@@ -1,42 +1,49 @@
-const DEFAULT_RESOURCE =
-  "https://raw.githubusercontent.com/ehom/external-data/master/news-api-org/us-headlines.json";
-
 const TITLE = "World Headlines";
+
+const URL = (url) => {
+  return `https://cors.bridged.cc/${url}`;
+};
+
+const RESOURCES = [
+  URL('https://raw.githubusercontent.com/ehom/external-data/master/news-api-org/us-headlines.json'),
+  URL('https://raw.githubusercontent.com/ehom/external-data/master/news-api-org/countries.json')
+];
+
+const getResource = (locale) => {
+  const [notUsed, countryCode] = locale.split('-');
+  return URL(`https://raw.githubusercontent.com/ehom/external-data/master/news-api-org/${countryCode.toLowerCase()}-headlines.json`);
+};
 
 class App extends React.Component {
   constructor(props) {
     super(props);
     this.state = {
       locale: this.props.locale,
-      headlines: []
+      headlines: [],
+      countries: {}
     };
     console.debug("ctor");
   }
 
   componentDidMount() {
-    fetch(DEFAULT_RESOURCE)
-      .then((response) => response.json())
-      .then((json) => {
+    console.debug("componentDidMount()");
+
+    fetchResources(RESOURCES)
+    .then(data => {
+      console.debug("debug:", data[0]);
+      console.debug("debug:", data[1]);
+
+        const [headlines, countries] = data;
         this.setState({
-          headlines: json
+          headlines: headlines,
+          countries: countries
         });
-      })
-      .catch((error) => console.log(error));
+    });
   }
 
   changeHandler(event) {
     const locale = event.target.value;
-    console.debug("change event:", locale);
-
-    let resource = DEFAULT_RESOURCE;
-
-    console.debug("debug state, locale: ", this.state.locale);
-
-    if (event.target.value !== 'en-US') {
-      const [ languageCode, countryCode ] = locale.split('-');
-      console.debug("debug countryCode: ", countryCode);
-      resource = `https://raw.githubusercontent.com/ehom/external-data/master/news-api-org/${countryCode.toLowerCase()}-headlines.json`;
-    }
+    const resource = getResource(locale);
 
     console.log("fetch resource: ", resource);
 
@@ -55,24 +62,6 @@ class App extends React.Component {
     console.debug("about to render...");
     const style = {fontFamily: 'serif', fontWeight: 'bold', fontStyle: 'italic'};
 
-    const tableOfCountries = {
-      'en-US': "United States",
-      'en-GB': "United Kingdom",
-      'fr-FR': "France",
-      'de-CH': "Switzerland",
-      'zh-CN': "China",
-      'zh-HK': "Hong Kong",
-      'zh-TW': "Taiwan",
-      'ja-JP': "Japan",
-      'ko-KR': "South Korea",
-      'th-TH': "Thailand",
-      'el-GR': "Greece",
-      'tr-TR': "Turkey",
-      'pl-PL': "Poland",
-      'ru-RU': "Russia",
-      'he-IL': "Israel"
-    };
-
     const hebrew = this.state.locale === 'he-IL';
     document.documentElement.lang = hebrew ? 'he'  : 'en';
     document.documentElement.dir  = hebrew ? 'rtl' : 'ltr';
@@ -88,7 +77,7 @@ class App extends React.Component {
             <div className="col-md-7">
             </div>
             <div className="col-md-5">
-              <ItemSelector id="countrySelector" items={tableOfCountries} onChange={this.changeHandler.bind(this)} />
+              <ItemSelector id="countrySelector" items={this.state.countries} onChange={this.changeHandler.bind(this)} />
             </div>
           </div>
         </div>

@@ -42,24 +42,24 @@ class Headlines extends React.Component {
       let published = moment(new Date(article.publishedAt));
       let howLongAgo = published.from(thisMoment);
 
-      let description = Util.decodeHtml(article.description);
+      let description = article.description;
       if (hasNoDesc(article)) {
         description = article.source.name;
       }
 
+      console.debug("description:", description);
+
       return (
-        <div class="card mb-5 col-sm-4 app-headline">
-          <img class="card-img-top" src={article.urlToImage} />
-          <div class="card-body">
-            <h5 class="card-title">{article.title}</h5>
-            <p class="card-text">
-              <a href={article.url} target="_blank">
-                {description}
-              </a>
-            </p>
+        <div className="card mb-5 col-sm-4 app-headline">
+          <img className="card-img-top" src={article.urlToImage} />
+          <div className="card-body" dir='auto'>
+            <h5 className="card-title">{article.title}</h5>
+            <a href={article.url} target="_blank">
+            {Util.decodeHtml(description)}
+            </a>
           </div>
-          <ul class="list-group list-group-flush">
-            <li class="list-group-item">{howLongAgo}</li>
+          <ul className="list-group list-group-flush">
+            <li className="list-group-item">{howLongAgo}</li>
           </ul>
         </div>
       );
@@ -72,12 +72,4 @@ class Headlines extends React.Component {
 Headlines.defaultProps = {
   headlines: [],
   locale: navigator.language
-};
-
-const Util = {
-  decodeHtml: (html) => {
-    let txt = document.createElement("textarea");
-    txt.innerHTML = html;
-    return txt.value;
-  }
 };
