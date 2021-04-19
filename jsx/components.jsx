@@ -48,7 +48,13 @@ class Headlines extends React.Component {
       }
 
       console.debug("description:", description);
-      console.debug("UTF16:\n", new Utf16String(description).toHexString());
+      const utf16_s = new Utf16String(description)
+      console.debug("UTF16:\n", utf16_s.toHexString());
+
+      if (utf16_s.isCorrupted()) {
+        console.debug("Bad utf16 characters detected in description text.")
+        return null;
+      }
 
       return (
         <div className="card mb-5 col-sm-4 app-headline">
@@ -88,6 +94,10 @@ function Utf16String(s) {
   // return utf string in bytes
 }
 
+Utf16String.prototype.isCorrupted = function() {
+  return this.hexValues.includes("U+fffd");
+};
+
 Utf16String.prototype.toHexString = function() {
   return this.hexValues.join(' ');
-}
+};
