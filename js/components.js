@@ -74,7 +74,13 @@ var Headlines = function (_React$Component) {
         }
 
         console.debug("description:", description);
-        console.debug("UTF16:\n", new Utf16String(description).toHexString());
+        var utf16_s = new Utf16String(description);
+        console.debug("UTF16:\n", utf16_s.toHexString());
+
+        if (utf16_s.isCorrupted()) {
+          console.debug("Bad utf16 characters detected in description text.");
+          return null;
+        }
 
         return React.createElement(
           "div",
@@ -138,6 +144,10 @@ function Utf16String(s) {
   // detect if utf-16 string is in little or big endian
   // return utf string in bytes
 }
+
+Utf16String.prototype.isCorrupted = function () {
+  return this.hexValues.includes("U+fffd");
+};
 
 Utf16String.prototype.toHexString = function () {
   return this.hexValues.join(' ');
