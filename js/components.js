@@ -2,6 +2,8 @@
 
 var _createClass = function () { function defineProperties(target, props) { for (var i = 0; i < props.length; i++) { var descriptor = props[i]; descriptor.enumerable = descriptor.enumerable || false; descriptor.configurable = true; if ("value" in descriptor) descriptor.writable = true; Object.defineProperty(target, descriptor.key, descriptor); } } return function (Constructor, protoProps, staticProps) { if (protoProps) defineProperties(Constructor.prototype, protoProps); if (staticProps) defineProperties(Constructor, staticProps); return Constructor; }; }();
 
+function _toConsumableArray(arr) { if (Array.isArray(arr)) { for (var i = 0, arr2 = Array(arr.length); i < arr.length; i++) { arr2[i] = arr[i]; } return arr2; } else { return Array.from(arr); } }
+
 function _classCallCheck(instance, Constructor) { if (!(instance instanceof Constructor)) { throw new TypeError("Cannot call a class as a function"); } }
 
 function _possibleConstructorReturn(self, call) { if (!self) { throw new ReferenceError("this hasn't been initialised - super() hasn't been called"); } return call && (typeof call === "object" || typeof call === "function") ? call : self; }
@@ -49,11 +51,7 @@ var Headlines = function (_React$Component) {
       };
 
       if (isEmpty(this.props.headlines)) {
-        return React.createElement(
-          "div",
-          { "class": "row" },
-          "x"
-        );
+        return null;
       }
 
       moment.locale(this.props.locale);
@@ -76,6 +74,7 @@ var Headlines = function (_React$Component) {
         }
 
         console.debug("description:", description);
+        console.debug("UTF16:\n", new Utf16String(description).toHexString());
 
         return React.createElement(
           "div",
@@ -121,4 +120,25 @@ var Headlines = function (_React$Component) {
 Headlines.defaultProps = {
   headlines: [],
   locale: navigator.language
+};
+
+function Utf16String(s) {
+  var LOWER_BYTE = function LOWER_BYTE(code) {
+    return code & 0xff;
+  };
+  var HIGH_BYTE = function HIGH_BYTE(code) {
+    return code >> 8;
+  };
+
+  this.hexValues = [].concat(_toConsumableArray(s)).map(function (word) {
+    return "U+" + word.charCodeAt(0).toString(16).padStart(4, '0');
+  });
+
+  // to do
+  // detect if utf-16 string is in little or big endian
+  // return utf string in bytes
+}
+
+Utf16String.prototype.toHexString = function () {
+  return this.hexValues.join(' ');
 };
