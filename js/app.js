@@ -10,7 +10,7 @@ function _possibleConstructorReturn(self, call) { if (!self) { throw new Referen
 
 function _inherits(subClass, superClass) { if (typeof superClass !== "function" && superClass !== null) { throw new TypeError("Super expression must either be null or a function, not " + typeof superClass); } subClass.prototype = Object.create(superClass && superClass.prototype, { constructor: { value: subClass, enumerable: false, writable: true, configurable: true } }); if (superClass) Object.setPrototypeOf ? Object.setPrototypeOf(subClass, superClass) : subClass.__proto__ = superClass; }
 
-var TITLE = "World Headlines";
+var TITLE = "World News Headlines";
 
 var URL = function URL(url) {
   return 'https://cors.bridged.cc/' + url;
@@ -73,7 +73,7 @@ var App = function (_React$Component) {
       var locale = event.target.value;
       var resource = getResource(locale);
 
-      console.log("fetch resource: ", resource);
+      console.debug("fetch resource: ", resource);
 
       fetchJson(resource).then(function (json) {
         _this3.setState({
