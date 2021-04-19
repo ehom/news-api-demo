@@ -1,4 +1,4 @@
-const TITLE = "World Headlines";
+const TITLE = "World News Headlines";
 
 const URL = (url) => {
   return `https://cors.bridged.cc/${url}`;
@@ -45,7 +45,7 @@ class App extends React.Component {
     const locale = event.target.value;
     const resource = getResource(locale);
 
-    console.log("fetch resource: ", resource);
+    console.debug("fetch resource: ", resource);
 
     fetchJson(resource)
       .then((json) => {
