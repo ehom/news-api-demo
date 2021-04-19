@@ -2,6 +2,8 @@
 
 var _createClass = function () { function defineProperties(target, props) { for (var i = 0; i < props.length; i++) { var descriptor = props[i]; descriptor.enumerable = descriptor.enumerable || false; descriptor.configurable = true; if ("value" in descriptor) descriptor.writable = true; Object.defineProperty(target, descriptor.key, descriptor); } } return function (Constructor, protoProps, staticProps) { if (protoProps) defineProperties(Constructor.prototype, protoProps); if (staticProps) defineProperties(Constructor, staticProps); return Constructor; }; }();
 
+function _toConsumableArray(arr) { if (Array.isArray(arr)) { for (var i = 0, arr2 = Array(arr.length); i < arr.length; i++) { arr2[i] = arr[i]; } return arr2; } else { return Array.from(arr); } }
+
 function _classCallCheck(instance, Constructor) { if (!(instance instanceof Constructor)) { throw new TypeError("Cannot call a class as a function"); } }
 
 function _possibleConstructorReturn(self, call) { if (!self) { throw new ReferenceError("this hasn't been initialised - super() hasn't been called"); } return call && (typeof call === "object" || typeof call === "function") ? call : self; }
@@ -26,16 +28,17 @@ var Today = function Today(_ref) {
   );
 };
 
+Today.defaultProps = {
+  locale: navigator.language
+};
+
 var Headlines = function (_React$Component) {
   _inherits(Headlines, _React$Component);
 
   function Headlines(props) {
     _classCallCheck(this, Headlines);
 
-    var _this = _possibleConstructorReturn(this, (Headlines.__proto__ || Object.getPrototypeOf(Headlines)).call(this, props));
-
-    moment.locale(_this.props.locale);
-    return _this;
+    return _possibleConstructorReturn(this, (Headlines.__proto__ || Object.getPrototypeOf(Headlines)).call(this, props));
   }
 
   _createClass(Headlines, [{
@@ -48,13 +51,10 @@ var Headlines = function (_React$Component) {
       };
 
       if (isEmpty(this.props.headlines)) {
-        return React.createElement(
-          "div",
-          { "class": "row" },
-          "x"
-        );
+        return null;
       }
 
+      moment.locale(this.props.locale);
       var thisMoment = moment(new Date());
 
       // TODO
@@ -73,34 +73,39 @@ var Headlines = function (_React$Component) {
           description = article.source.name;
         }
 
+        console.debug("description:", description);
+        var utf16_s = new Utf16String(description);
+        console.debug("UTF16:\n", utf16_s.toHexString());
+
+        if (utf16_s.isCorrupted()) {
+          console.debug("Bad utf16 characters detected in description text.");
+          return null;
+        }
+
         return React.createElement(
           "div",
-          { "class": "card mb-5 col-sm-4 app-headline" },
-          React.createElement("img", { "class": "card-img-top", src: article.urlToImage }),
+          { className: "card mb-5 col-sm-4 app-headline" },
+          React.createElement("img", { className: "card-img-top", src: article.urlToImage }),
           React.createElement(
             "div",
-            { "class": "card-body" },
+            { className: "card-body", dir: "auto" },
             React.createElement(
               "h5",
-              { "class": "card-title" },
+              { className: "card-title" },
               article.title
             ),
             React.createElement(
-              "p",
-              { "class": "card-text" },
-              React.createElement(
-                "a",
-                { href: article.url, target: "_blank" },
-                description
-              )
+              "a",
+              { href: article.url, target: "_blank" },
+              Util.decodeHtml(description)
             )
           ),
           React.createElement(
             "ul",
-            { "class": "list-group list-group-flush" },
+            { className: "list-group list-group-flush" },
             React.createElement(
               "li",
-              { "class": "list-group-item" },
+              { className: "list-group-item" },
               howLongAgo
             )
           )
@@ -117,3 +122,33 @@ var Headlines = function (_React$Component) {
 
   return Headlines;
 }(React.Component);
+
+Headlines.defaultProps = {
+  headlines: [],
+  locale: navigator.language
+};
+
+function Utf16String(s) {
+  var LOWER_BYTE = function LOWER_BYTE(code) {
+    return code & 0xff;
+  };
+  var HIGH_BYTE = function HIGH_BYTE(code) {
+    return code >> 8;
+  };
+
+  this.hexValues = [].concat(_toConsumableArray(s)).map(function (word) {
+    return "U+" + word.charCodeAt(0).toString(16).padStart(4, '0');
+  });
+
+  // to do
+  // detect if utf-16 string is in little or big endian
+  // return utf string in bytes
+}
+
+Utf16String.prototype.isCorrupted = function () {
+  return this.hexValues.includes("U+fffd");
+};
+
+Utf16String.prototype.toHexString = function () {
+  return this.hexValues.join(' ');
+};
