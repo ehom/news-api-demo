@@ -1,12 +1,31 @@
-"use strict";
+'use strict';
 
 var _createClass = function () { function defineProperties(target, props) { for (var i = 0; i < props.length; i++) { var descriptor = props[i]; descriptor.enumerable = descriptor.enumerable || false; descriptor.configurable = true; if ("value" in descriptor) descriptor.writable = true; Object.defineProperty(target, descriptor.key, descriptor); } } return function (Constructor, protoProps, staticProps) { if (protoProps) defineProperties(Constructor.prototype, protoProps); if (staticProps) defineProperties(Constructor, staticProps); return Constructor; }; }();
+
+var _slicedToArray = function () { function sliceIterator(arr, i) { var _arr = []; var _n = true; var _d = false; var _e = undefined; try { for (var _i = arr[Symbol.iterator](), _s; !(_n = (_s = _i.next()).done); _n = true) { _arr.push(_s.value); if (i && _arr.length === i) break; } } catch (err) { _d = true; _e = err; } finally { try { if (!_n && _i["return"]) _i["return"](); } finally { if (_d) throw _e; } } return _arr; } return function (arr, i) { if (Array.isArray(arr)) { return arr; } else if (Symbol.iterator in Object(arr)) { return sliceIterator(arr, i); } else { throw new TypeError("Invalid attempt to destructure non-iterable instance"); } }; }();
 
 function _classCallCheck(instance, Constructor) { if (!(instance instanceof Constructor)) { throw new TypeError("Cannot call a class as a function"); } }
 
 function _possibleConstructorReturn(self, call) { if (!self) { throw new ReferenceError("this hasn't been initialised - super() hasn't been called"); } return call && (typeof call === "object" || typeof call === "function") ? call : self; }
 
 function _inherits(subClass, superClass) { if (typeof superClass !== "function" && superClass !== null) { throw new TypeError("Super expression must either be null or a function, not " + typeof superClass); } subClass.prototype = Object.create(superClass && superClass.prototype, { constructor: { value: subClass, enumerable: false, writable: true, configurable: true } }); if (superClass) Object.setPrototypeOf ? Object.setPrototypeOf(subClass, superClass) : subClass.__proto__ = superClass; }
+
+var TITLE = "World News Headlines";
+
+var URL = function URL(url) {
+  return 'https://cors.bridged.cc/' + url;
+};
+
+var RESOURCES = [URL('https://raw.githubusercontent.com/ehom/external-data/master/news-api-org/us-headlines.json'), URL('https://raw.githubusercontent.com/ehom/external-data/master/news-api-org/countries.json')];
+
+var getResource = function getResource(locale) {
+  var _locale$split = locale.split('-'),
+      _locale$split2 = _slicedToArray(_locale$split, 2),
+      notUsed = _locale$split2[0],
+      countryCode = _locale$split2[1];
+
+  return URL('https://raw.githubusercontent.com/ehom/external-data/master/news-api-org/' + countryCode.toLowerCase() + '-headlines.json');
+};
 
 var App = function (_React$Component) {
   _inherits(App, _React$Component);
@@ -17,25 +36,48 @@ var App = function (_React$Component) {
     var _this = _possibleConstructorReturn(this, (App.__proto__ || Object.getPrototypeOf(App)).call(this, props));
 
     _this.state = {
-      headlines: []
+      locale: _this.props.locale,
+      headlines: [],
+      countries: {}
     };
     console.debug("ctor");
     return _this;
   }
 
   _createClass(App, [{
-    key: "componentDidMount",
+    key: 'componentDidMount',
     value: function componentDidMount() {
       var _this2 = this;
 
-      console.debug("componentDidMount");
+      console.debug("componentDidMount()");
 
-      var URL = "https://raw.githubusercontent.com/ehom/external-data/master/news-api-org/headlines.json";
+      fetchJsonS(RESOURCES).then(function (data) {
+        console.debug("debug:", data[0]);
+        console.debug("debug:", data[1]);
 
-      fetch(URL).then(function (response) {
-        return response.json();
-      }).then(function (json) {
+        var _data = _slicedToArray(data, 2),
+            headlines = _data[0],
+            countries = _data[1];
+
         _this2.setState({
+          headlines: headlines,
+          countries: countries
+        });
+      });
+    }
+  }, {
+    key: 'changeHandler',
+    value: function changeHandler(event) {
+      var _this3 = this;
+
+      var locale = event.target.value;
+      var resource = getResource(locale);
+
+      console.debug("fetch resource: ", resource);
+
+      fetchJson(resource).then(function (json) {
+        _this3.setState({
+          locale: locale,
           headlines: json
         });
       }).catch(function (error) {
@@ -43,30 +85,52 @@ var App = function (_React$Component) {
       });
     }
   }, {
-    key: "render",
+    key: 'render',
     value: function render() {
       console.debug("about to render...");
+      var style = { fontFamily: 'serif', fontWeight: 'bold', fontStyle: 'italic' };
+
+      var hebrew = this.state.locale === 'he-IL';
+      document.documentElement.lang = hebrew ? 'he' : 'en';
+      document.documentElement.dir = hebrew ? 'rtl' : 'ltr';
+
       return React.createElement(
         React.Fragment,
         null,
         React.createElement(
-          "div",
-          { className: "jumbotron pb-4 mb-5" },
+          'nav',
+          { className: 'navbar navbar-light bg-light mb-3' },
           React.createElement(
-            "h5",
-            null,
-            React.createElement(Today, { locale: this.props.locale })
+            'h3',
+            { className: 'navbar-text', style: style },
+            TITLE
           ),
           React.createElement(
-            "h1",
-            { className: "title" },
-            "BUSINESS HEADLINES"
+            'span',
+            { className: 'navbar-text float-right' },
+            React.createElement(Today, { locale: this.state.locale })
           )
         ),
         React.createElement(
-          "div",
-          { className: "container" },
-          React.createElement(Headlines, { headlines: this.state.headlines, locale: this.props.locale })
+          'div',
+          { className: 'container mb-3' },
+          React.createElement(
+            'div',
+            { className: 'row' },
+            React.createElement('div', { className: 'col-md-7' }),
+            React.createElement(
+              'div',
+              { className: 'col-md-5' },
+              React.createElement(ItemSelector, { id: 'countrySelector', items: this.state.countries, onChange: this.changeHandler.bind(this) })
+            )
+          )
+        ),
+        React.createElement(
+          'div',
+          { className: 'container' },
+          React.createElement(Headlines, {
+            locale: this.state.locale, headlines: this.state.headlines
+          })
         )
       );
     }
@@ -76,8 +140,29 @@ var App = function (_React$Component) {
 }(React.Component);
 
 App.defaultProps = {
-  locale: "en-US"
+  locale: navigator.language
+};
+
+var ItemSelector = function ItemSelector(_ref) {
+  var id = _ref.id,
+      items = _ref.items,
+      onChange = _ref.onChange;
+
+  return React.createElement(
+    'select',
+    { id: id, onChange: onChange, className: 'form-control' },
+    Object.entries(items).map(function (_ref2) {
+      var _ref3 = _slicedToArray(_ref2, 2),
+          key = _ref3[0],
+          value = _ref3[1];
+
+      return React.createElement(
+        'option',
+        { value: key },
+        value
+      );
+    })
+  );
 };
 
 ReactDOM.render(React.createElement(App, { locale: navigator.language }), document.getElementById("root"));
-
