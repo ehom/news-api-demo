@@ -1,18 +1,14 @@
 const TITLE = "World News Headlines";
 
-const URL = (url) => {
-  return `https://cors.bridged.cc/${url}`;
+const getResource = (locale) => {
+  const [notUsed, countryCode] = locale.split('-');
+  return `https://raw.githubusercontent.com/ehom/external-data/master/news-api-org/${countryCode.toLowerCase()}-headlines.json`;
 };
 
 const RESOURCES = [
-  URL('https://raw.githubusercontent.com/ehom/external-data/master/news-api-org/us-headlines.json'),
-  URL('https://raw.githubusercontent.com/ehom/external-data/master/news-api-org/countries.json')
+  getResource('en-US'),
+  'https://raw.githubusercontent.com/ehom/external-data/master/news-api-org/countries.json'
 ];
-
-const getResource = (locale) => {
-  const [notUsed, countryCode] = locale.split('-');
-  return URL(`https://raw.githubusercontent.com/ehom/external-data/master/news-api-org/${countryCode.toLowerCase()}-headlines.json`);
-};
 
 class App extends React.Component {
   constructor(props) {
@@ -92,16 +88,6 @@ class App extends React.Component {
 
 App.defaultProps = {
   locale: navigator.language
-};
-
-const ItemSelector = ({id, items, onChange}) => {
-  return (
-    <select id={id} onChange={onChange} className="form-control">
-    {
-      Object.entries(items).map(([key, value]) => <option value={key}>{value}</option>)
-    }
-    </select>
-  );
 };
 
 ReactDOM.render(<App locale={navigator.language} />, document.getElementById("root"));
