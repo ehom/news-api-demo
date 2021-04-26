@@ -12,20 +12,16 @@ function _inherits(subClass, superClass) { if (typeof superClass !== "function" 
 
 var TITLE = "World News Headlines";
 
-var URL = function URL(url) {
-  return 'https://cors.bridged.cc/' + url;
-};
-
-var RESOURCES = [URL('https://raw.githubusercontent.com/ehom/external-data/master/news-api-org/us-headlines.json'), URL('https://raw.githubusercontent.com/ehom/external-data/master/news-api-org/countries.json')];
-
 var getResource = function getResource(locale) {
   var _locale$split = locale.split('-'),
       _locale$split2 = _slicedToArray(_locale$split, 2),
       notUsed = _locale$split2[0],
       countryCode = _locale$split2[1];
 
-  return URL('https://raw.githubusercontent.com/ehom/external-data/master/news-api-org/' + countryCode.toLowerCase() + '-headlines.json');
+  return 'https://raw.githubusercontent.com/ehom/external-data/master/news-api-org/' + countryCode.toLowerCase() + '-headlines.json';
 };
+
+var RESOURCES = [getResource('en-US'), 'https://raw.githubusercontent.com/ehom/external-data/master/news-api-org/countries.json'];
 
 var App = function (_React$Component) {
   _inherits(App, _React$Component);
@@ -141,28 +137,6 @@ var App = function (_React$Component) {
 
 App.defaultProps = {
   locale: navigator.language
-};
-
-var ItemSelector = function ItemSelector(_ref) {
-  var id = _ref.id,
-      items = _ref.items,
-      onChange = _ref.onChange;
-
-  return React.createElement(
-    'select',
-    { id: id, onChange: onChange, className: 'form-control' },
-    Object.entries(items).map(function (_ref2) {
-      var _ref3 = _slicedToArray(_ref2, 2),
-          key = _ref3[0],
-          value = _ref3[1];
-
-      return React.createElement(
-        'option',
-        { value: key },
-        value
-      );
-    })
-  );
 };
 
 ReactDOM.render(React.createElement(App, { locale: navigator.language }), document.getElementById("root"));

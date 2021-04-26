@@ -2,7 +2,7 @@
 
 var _createClass = function () { function defineProperties(target, props) { for (var i = 0; i < props.length; i++) { var descriptor = props[i]; descriptor.enumerable = descriptor.enumerable || false; descriptor.configurable = true; if ("value" in descriptor) descriptor.writable = true; Object.defineProperty(target, descriptor.key, descriptor); } } return function (Constructor, protoProps, staticProps) { if (protoProps) defineProperties(Constructor.prototype, protoProps); if (staticProps) defineProperties(Constructor, staticProps); return Constructor; }; }();
 
-function _toConsumableArray(arr) { if (Array.isArray(arr)) { for (var i = 0, arr2 = Array(arr.length); i < arr.length; i++) { arr2[i] = arr[i]; } return arr2; } else { return Array.from(arr); } }
+var _slicedToArray = function () { function sliceIterator(arr, i) { var _arr = []; var _n = true; var _d = false; var _e = undefined; try { for (var _i = arr[Symbol.iterator](), _s; !(_n = (_s = _i.next()).done); _n = true) { _arr.push(_s.value); if (i && _arr.length === i) break; } } catch (err) { _d = true; _e = err; } finally { try { if (!_n && _i["return"]) _i["return"](); } finally { if (_d) throw _e; } } return _arr; } return function (arr, i) { if (Array.isArray(arr)) { return arr; } else if (Symbol.iterator in Object(arr)) { return sliceIterator(arr, i); } else { throw new TypeError("Invalid attempt to destructure non-iterable instance"); } }; }();
 
 function _classCallCheck(instance, Constructor) { if (!(instance instanceof Constructor)) { throw new TypeError("Cannot call a class as a function"); } }
 
@@ -30,6 +30,29 @@ var Today = function Today(_ref) {
 
 Today.defaultProps = {
   locale: navigator.language
+};
+
+var ItemSelector = function ItemSelector(_ref2) {
+  var id = _ref2.id,
+      items = _ref2.items,
+      onChange = _ref2.onChange;
+
+  var options = Object.entries(items).map(function (_ref3) {
+    var _ref4 = _slicedToArray(_ref3, 2),
+        key = _ref4[0],
+        value = _ref4[1];
+
+    return React.createElement(
+      "option",
+      { value: key },
+      value
+    );
+  });
+  return React.createElement(
+    "select",
+    { id: id, onChange: onChange, className: "form-control" },
+    options
+  );
 };
 
 var Headlines = function (_React$Component) {
@@ -114,7 +137,7 @@ var Headlines = function (_React$Component) {
 
       return React.createElement(
         "div",
-        { "class": "row" },
+        { className: "row" },
         headlines
       );
     }
@@ -126,29 +149,4 @@ var Headlines = function (_React$Component) {
 Headlines.defaultProps = {
   headlines: [],
   locale: navigator.language
-};
-
-function Utf16String(s) {
-  var LOWER_BYTE = function LOWER_BYTE(code) {
-    return code & 0xff;
-  };
-  var HIGH_BYTE = function HIGH_BYTE(code) {
-    return code >> 8;
-  };
-
-  this.hexValues = [].concat(_toConsumableArray(s)).map(function (word) {
-    return "U+" + word.charCodeAt(0).toString(16).padStart(4, '0');
-  });
-
-  // to do
-  // detect if utf-16 string is in little or big endian
-  // return utf string in bytes
-}
-
-Utf16String.prototype.isCorrupted = function () {
-  return this.hexValues.includes("U+fffd");
-};
-
-Utf16String.prototype.toHexString = function () {
-  return this.hexValues.join(' ');
 };
