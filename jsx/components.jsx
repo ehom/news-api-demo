@@ -14,6 +14,15 @@ Today.defaultProps = {
   locale: navigator.language
 };
 
+const ItemSelector = ({id, items, onChange}) => {
+  const options = Object.entries(items).map(([key, value]) => <option value={key}>{value}</option>);
+  return (
+    <select id={id} onChange={onChange} className="form-control">
+    {options}
+    </select>
+  );
+};
+
 class Headlines extends React.Component {
   constructor(props) {
     super(props);
@@ -72,7 +81,7 @@ class Headlines extends React.Component {
       );
     });
 
-    return <div class="row">{headlines}</div>;
+    return <div className="row">{headlines}</div>;
   }
 }
 
@@ -81,23 +90,4 @@ Headlines.defaultProps = {
   locale: navigator.language
 };
 
-function Utf16String(s) {
-  const LOWER_BYTE = (code) => code & 0xff;
-  const HIGH_BYTE = (code) => code >> 8;
 
-  this.hexValues = [...s].map(word => {
-    return `U+${word.charCodeAt(0).toString(16).padStart(4, '0')}`;
-  });
-
-  // to do
-  // detect if utf-16 string is in little or big endian
-  // return utf string in bytes
-}
-
-Utf16String.prototype.isCorrupted = function() {
-  return this.hexValues.includes("U+fffd");
-};
-
-Utf16String.prototype.toHexString = function() {
-  return this.hexValues.join(' ');
-};
