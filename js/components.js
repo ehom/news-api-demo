@@ -67,6 +67,8 @@ var Headlines = function (_React$Component) {
   _createClass(Headlines, [{
     key: "render",
     value: function render() {
+      var _this2 = this;
+
       console.debug(this.props);
 
       var isEmpty = function isEmpty(a) {
@@ -102,6 +104,11 @@ var Headlines = function (_React$Component) {
 
         if (utf16_s.isCorrupted()) {
           console.debug("Bad utf16 characters detected in description text.");
+          return null;
+        }
+
+        if (_this2.props.locale === 'el-GR' && !utf16_s.isGreek()) {
+          console.debug("Bad Greek characters detected in description text.");
           return null;
         }
 
