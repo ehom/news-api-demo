@@ -65,6 +65,11 @@ class Headlines extends React.Component {
         return null;
       }
 
+      if (this.props.locale === 'el-GR' && !utf16_s.isGreek()) {
+        console.debug("Bad Greek characters detected in description text.")
+        return null;
+      }
+
       return (
         <div className="card mb-5 col-sm-4 app-headline">
           <img className="card-img-top" src={article.urlToImage} />
