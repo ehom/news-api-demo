@@ -23,17 +23,10 @@ const fetchJsonS = async (resources) => {
 };
 
 function Utf16String(s) {
-  const LOWER_BYTE = (code) => code & 0xff;
-  const HIGH_BYTE = (code) => code >> 8;
-
   this.s = s;
   this.hexValues = [...s].map(word => {
     return `U+${word.charCodeAt(0).toString(16).padStart(4, '0')}`;
   });
-
-  // to do
-  // detect if utf-16 string is in little or big endian
-  // return utf string in bytes
 }
 
 Utf16String.prototype.isCorrupted = function() {
@@ -41,25 +34,10 @@ Utf16String.prototype.isCorrupted = function() {
 };
 
 Utf16String.prototype.isGreek = function() {
-  let isGreek = false;
-  // TODO: use Regex?
-  // prove that there's greek text
-  const isGreekChar = (charCode) => {
-    return charCode >= 0x0370 && charCode <= 0x03ff;
-  };
-
-  const isAsciiChar = (charCode) => {
-    return charCode >= 0x0020 && charCode <= 0x007e;
-  };
-
-  for (let i = 0; i < this.s.length; i++) {
-    const charCode = this.s.charCodeAt(i);
-    if (isGreekChar(charCode) || isAsciiChar(charCode)) {
-      isGreek = true;
-      break;
-    }
-  }
-  return isGreek;
+  const greekChars = /([\u0370-\u03FF]+)/;
+  const found = this.s.match(greekChars);
+  console.log('found: ', found);
+  return found !== null;
 };
 
 Utf16String.prototype.toHexString = function() {
