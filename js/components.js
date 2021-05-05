@@ -96,20 +96,23 @@ var Headlines = function (_React$Component) {
         var description = article.description;
         if (hasNoDesc(article)) {
           description = article.source.name;
-        }
+        } else {
+          console.debug("description:", description);
+          var utf16_s = new Utf16String(description);
+          console.debug("UTF16:\n", utf16_s.toHexString());
 
-        console.debug("description:", description);
-        var utf16_s = new Utf16String(description);
-        console.debug("UTF16:\n", utf16_s.toHexString());
+          if (utf16_s.isCorrupted()) {
+            console.debug("Bad utf16 characters detected in description text.");
+            return null;
+          }
 
-        if (utf16_s.isCorrupted()) {
-          console.debug("Bad utf16 characters detected in description text.");
-          return null;
-        }
+          // todo -- use a lookup table so that
+          // we can use do this check for other languages/scripts
 
-        if (_this2.props.locale === 'el-GR' && !utf16_s.isGreek()) {
-          console.debug("Bad Greek characters detected in description text.");
-          return null;
+          if (_this2.props.locale === 'el-GR' && !utf16_s.isGreek()) {
+            console.debug("Bad Greek characters detected in description text.");
+            return null;
+          }
         }
 
         return React.createElement(
