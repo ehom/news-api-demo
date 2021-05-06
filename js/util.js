@@ -34,9 +34,9 @@ Utf16String.prototype.isCorrupted = function() {
 };
 
 Utf16String.prototype.isGreek = function() {
-  const greekChars = /([\u0370-\u03FF]+)/;
+  const greekChars = /([\u0370-\u03FF]+)/g;
   const found = this.s.match(greekChars);
-  console.log('found: ', found);
+  console.debug('matches: ', found);
   return found !== null;
 };
 
