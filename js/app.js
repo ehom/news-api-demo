@@ -50,15 +50,12 @@ var App = function (_React$Component) {
       console.debug("componentDidMount()");
 
       var FETCH_JSONS = "fetchJsonS";
-      var storage = this.sessionStorage;
+      var cache = this.sessionStorage;
 
-      var headlines = void 0;
-      var countries = void 0;
-
-      if (storage.getItem('countries') && storage.getItem('en-US')) {
+      if (cache.getItem('countries') && cache.getItem('en-US')) {
         this.setState({
-          countries: JSON.parse(storage.getItem('countries')),
-          headlines: JSON.parse(storage.getItem('en-US'))
+          countries: JSON.parse(cache.getItem('countries')),
+          headlines: JSON.parse(cache.getItem('en-US'))
         });
       } else {
         console.time(FETCH_JSONS);
@@ -67,14 +64,12 @@ var App = function (_React$Component) {
         fetchJsonS(RESOURCES).then(function (data) {
           console.timeEnd(FETCH_JSONS);
 
-          var _data = _slicedToArray(data, 2);
+          var _data = _slicedToArray(data, 2),
+              headlines = _data[0],
+              countries = _data[1];
 
-          headlines = _data[0];
-          countries = _data[1];
-
-
-          storage.setItem('en-US', JSON.stringify(headlines));
-          storage.setItem('countries', JSON.stringify(countries));
+          cache.setItem('en-US', JSON.stringify(headlines));
+          cache.setItem('countries', JSON.stringify(countries));
 
           _this2.setState({
             headlines: headlines,
@@ -84,25 +79,25 @@ var App = function (_React$Component) {
       }
     }
   }, {
-    key: 'changeHandler',
-    value: function changeHandler(event) {
+    key: 'fetchHeadlines',
+    value: function fetchHeadlines(locale) {
       var _this3 = this;
 
-      var locale = event.target.value;
-      var resource = getResource(locale);
-      var storage = this.sessionStorage;
-      console.debug("fetch resource: ", resource);
+      var cache = this.sessionStorage;
 
-      if (storage.getItem(locale)) {
-        console.debug("use cache copy of headlines for: ", locale);
-        var json = JSON.parse(storage.getItem(locale));
+      if (cache.getItem(locale)) {
+        console.debug("Use cache copy of headlines for: ", locale);
+
         this.setState({
           locale: locale,
-          headlines: json
+          headlines: JSON.parse(cache.getItem(locale))
         });
       } else {
+        var resource = getResource(locale);
+        console.debug("fetch headlines: ", resource);
+
         fetchJson(resource).then(function (json) {
-          storage.setItem(locale, JSON.stringify(json));
+          cache.setItem(locale, JSON.stringify(json));
           _this3.setState({
             locale: locale,
             headlines: json
@@ -111,6 +106,12 @@ var App = function (_React$Component) {
           return console.log(error);
         });
       }
+    }
+  }, {
+    key: 'changeHandler',
+    value: function changeHandler(event) {
+      var locale = event.target.value;
+      this.fetchHeadlines(locale);
     }
   }, {
     key: 'render',
