@@ -23,6 +23,11 @@ var getResource = function getResource(locale) {
 
 var RESOURCES = [getResource('en-US'), 'https://raw.githubusercontent.com/ehom/external-data/master/news-api-org/countries.json'];
 
+var URLs = {
+  RTS_CSS: 'https://cdn.rtlcss.com/bootstrap/v4.5.3/css/bootstrap.min.css',
+  LTR_CSS: 'https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.0/css/bootstrap.min.css'
+};
+
 var App = function (_React$Component) {
   _inherits(App, _React$Component);
 
@@ -114,19 +119,25 @@ var App = function (_React$Component) {
       this.fetchHeadlines(locale);
     }
   }, {
+    key: 'getDir',
+    value: function getDir(lang) {
+      var langsRTL = ['ar', 'he'];
+      return langsRTL.includes(lang) ? "rtl" : "ltr";
+    }
+  }, {
     key: 'setPageOrientation',
     value: function setPageOrientation(locale) {
-      var hebrew = locale === 'he-IL';
-      // todo
-      var docElement = document.documentElement;
-      docElement.lang = hebrew ? 'he' : 'en';
-      docElement.dir = hebrew ? 'rtl' : 'ltr';
+      var _locale$split3 = locale.split('-'),
+          _locale$split4 = _slicedToArray(_locale$split3, 2),
+          lang = _locale$split4[0],
+          _country = _locale$split4[1];
 
-      var RTS_CSS = 'https://cdn.rtlcss.com/bootstrap/v4.5.3/css/bootstrap.min.css';
-      var LTR_CSS = 'https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.0/css/bootstrap.min.css';
+      var docElement = document.documentElement;
+      docElement.lang = lang;
+      docElement.dir = this.getDir(lang);
 
       var cssLinkElement = document.getElementById('bootstrap');
-      cssLinkElement.href = docElement.dir === 'rtl' ? RTS_CSS : LTR_CSS;
+      cssLinkElement.href = docElement.dir === 'rtl' ? URLs.RTS_CSS : URLs.LTR_CSS;
     }
   }, {
     key: 'render',
