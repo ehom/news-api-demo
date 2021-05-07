@@ -31,6 +31,8 @@ var App = function (_React$Component) {
 
     var _this = _possibleConstructorReturn(this, (App.__proto__ || Object.getPrototypeOf(App)).call(this, props));
 
+    _this.sessionStorage = window.sessionStorage;
+
     _this.state = {
       locale: _this.props.locale,
       headlines: [],
@@ -47,19 +49,39 @@ var App = function (_React$Component) {
 
       console.debug("componentDidMount()");
 
-      fetchJsonS(RESOURCES).then(function (data) {
-        console.debug("debug:", data[0]);
-        console.debug("debug:", data[1]);
+      var FETCH_JSONS = "fetchJsonS";
+      var storage = this.sessionStorage;
 
-        var _data = _slicedToArray(data, 2),
-            headlines = _data[0],
-            countries = _data[1];
+      var headlines = void 0;
+      var countries = void 0;
 
-        _this2.setState({
-          headlines: headlines,
-          countries: countries
+      if (storage.getItem('countries') && storage.getItem('en-US')) {
+        this.setState({
+          countries: JSON.parse(storage.getItem('countries')),
+          headlines: JSON.parse(storage.getItem('en-US'))
         });
-      });
+      } else {
+        console.time(FETCH_JSONS);
+        console.timeLog(FETCH_JSONS);
+
+        fetchJsonS(RESOURCES).then(function (data) {
+          console.timeEnd(FETCH_JSONS);
+
+          var _data = _slicedToArray(data, 2);
+
+          headlines = _data[0];
+          countries = _data[1];
+
+
+          storage.setItem('en-US', JSON.stringify(headlines));
+          storage.setItem('countries', JSON.stringify(countries));
+
+          _this2.setState({
+            headlines: headlines,
+            countries: countries
+          });
+        });
+      }
     }
   }, {
     key: 'changeHandler',
@@ -68,17 +90,27 @@ var App = function (_React$Component) {
 
       var locale = event.target.value;
       var resource = getResource(locale);
-
+      var storage = this.sessionStorage;
       console.debug("fetch resource: ", resource);
 
-      fetchJson(resource).then(function (json) {
-        _this3.setState({
+      if (storage.getItem(locale)) {
+        console.debug("use cache copy of headlines for: ", locale);
+        var json = JSON.parse(storage.getItem(locale));
+        this.setState({
           locale: locale,
           headlines: json
         });
-      }).catch(function (error) {
-        return console.log(error);
-      });
+      } else {
+        fetchJson(resource).then(function (json) {
+          storage.setItem(locale, JSON.stringify(json));
+          _this3.setState({
+            locale: locale,
+            headlines: json
+          });
+        }).catch(function (error) {
+          return console.log(error);
+        });
+      }
     }
   }, {
     key: 'render',
