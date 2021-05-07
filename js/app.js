@@ -114,14 +114,25 @@ var App = function (_React$Component) {
       this.fetchHeadlines(locale);
     }
   }, {
+    key: 'setPageOrientation',
+    value: function setPageOrientation(locale) {
+      var hebrew = locale === 'he-IL';
+      // todo
+      document.documentElement.lang = hebrew ? 'he' : 'en';
+      document.documentElement.dir = hebrew ? 'rtl' : 'ltr';
+
+      var RTS_CSS = 'https://cdn.rtlcss.com/bootstrap/v4.5.3/css/bootstrap.min.css';
+      var LTR_CSS = 'https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.0/css/bootstrap.min.css';
+
+      document.getElementById('bootstrap').href = document.documentElement.dir === 'rtl' ? RTS_CSS : LTR_CSS;
+    }
+  }, {
     key: 'render',
     value: function render() {
       console.debug("about to render...");
       var style = { fontFamily: 'serif', fontWeight: 'bold', fontStyle: 'italic' };
 
-      var hebrew = this.state.locale === 'he-IL';
-      document.documentElement.lang = hebrew ? 'he' : 'en';
-      document.documentElement.dir = hebrew ? 'rtl' : 'ltr';
+      this.setPageOrientation(this.state.locale);
 
       return React.createElement(
         React.Fragment,
@@ -155,8 +166,8 @@ var App = function (_React$Component) {
           )
         ),
         React.createElement(
-          'div',
-          { className: 'container' },
+          'main',
+          { role: 'main' },
           React.createElement(Headlines, {
             locale: this.state.locale, headlines: this.state.headlines
           })
