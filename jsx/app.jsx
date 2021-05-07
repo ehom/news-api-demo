@@ -10,6 +10,11 @@ const RESOURCES = [
   'https://raw.githubusercontent.com/ehom/external-data/master/news-api-org/countries.json'
 ];
 
+const URLs = {
+  RTS_CSS: 'https://cdn.rtlcss.com/bootstrap/v4.5.3/css/bootstrap.min.css',
+  LTR_CSS: 'https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.0/css/bootstrap.min.css'
+};
+
 class App extends React.Component {
   constructor(props) {
     super(props);
@@ -86,18 +91,20 @@ class App extends React.Component {
     this.fetchHeadlines(locale);
   }
 
-  setPageOrientation(locale) {
-    const hebrew = locale === 'he-IL';
-    // todo
-    const docElement = document.documentElement;
-    docElement.lang = hebrew ? 'he'  : 'en';
-    docElement.dir  = hebrew ? 'rtl' : 'ltr';
+  getDir(lang) {
+    const langsRTL = ['ar', 'he'];
+    return langsRTL.includes(lang) ? "rtl" : "ltr";
+  }
 
-    const RTS_CSS = 'https://cdn.rtlcss.com/bootstrap/v4.5.3/css/bootstrap.min.css';
-    const LTR_CSS = 'https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.0/css/bootstrap.min.css';
+  setPageOrientation(locale) {
+    const [lang, _country] = locale.split('-');
+
+    const docElement = document.documentElement;
+    docElement.lang = lang;
+    docElement.dir  = this.getDir(lang);
 
     const cssLinkElement = document.getElementById('bootstrap');
-    cssLinkElement.href = docElement.dir === 'rtl' ? RTS_CSS: LTR_CSS;
+    cssLinkElement.href = docElement.dir === 'rtl' ? URLs.RTS_CSS : URLs.LTR_CSS;
   }
 
   render() {
