@@ -89,13 +89,15 @@ class App extends React.Component {
   setPageOrientation(locale) {
     const hebrew = locale === 'he-IL';
     // todo
-    document.documentElement.lang = hebrew ? 'he'  : 'en';
-    document.documentElement.dir  = hebrew ? 'rtl' : 'ltr';
+    const docElement = document.documentElement;
+    docElement.lang = hebrew ? 'he'  : 'en';
+    docElement.dir  = hebrew ? 'rtl' : 'ltr';
 
     const RTS_CSS = 'https://cdn.rtlcss.com/bootstrap/v4.5.3/css/bootstrap.min.css';
     const LTR_CSS = 'https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.0/css/bootstrap.min.css';
 
-    document.getElementById('bootstrap').href = document.documentElement.dir === 'rtl' ? RTS_CSS: LTR_CSS;
+    const cssLinkElement = document.getElementById('bootstrap');
+    cssLinkElement.href = docElement.dir === 'rtl' ? RTS_CSS: LTR_CSS;
   }
 
   render() {
