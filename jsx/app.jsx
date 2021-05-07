@@ -27,15 +27,12 @@ class App extends React.Component {
     console.debug("componentDidMount()");
 
     const FETCH_JSONS = "fetchJsonS";
-    const storage = this.sessionStorage;
+    const cache = this.sessionStorage;
 
-    let headlines;
-    let countries;
-
-    if (storage.getItem('countries') && storage.getItem('en-US')) {
+    if (cache.getItem('countries') && cache.getItem('en-US')) {
       this.setState({
-        countries: JSON.parse(storage.getItem('countries')),
-        headlines: JSON.parse(storage.getItem('en-US'))
+        countries: JSON.parse(cache.getItem('countries')),
+        headlines: JSON.parse(cache.getItem('en-US'))
       });
     } else {
       console.time(FETCH_JSONS);
@@ -45,10 +42,10 @@ class App extends React.Component {
       .then(data => {
         console.timeEnd(FETCH_JSONS);
 
-        [headlines, countries] = data;
+        const [headlines, countries] = data;
 
-        storage.setItem('en-US', JSON.stringify(headlines));
-        storage.setItem('countries', JSON.stringify(countries));
+        cache.setItem('en-US', JSON.stringify(headlines));
+        cache.setItem('countries', JSON.stringify(countries));
 
         this.setState({
           headlines: headlines,
@@ -58,23 +55,23 @@ class App extends React.Component {
     }
   }
 
-  changeHandler(event) {
-    const locale = event.target.value;
-    const resource = getResource(locale);
-    const storage = this.sessionStorage;
-    console.debug("fetch resource: ", resource);
+  fetchHeadlines(locale) {
+    const cache = this.sessionStorage;
 
-    if (storage.getItem(locale)) {
-      console.debug("use cache copy of headlines for: ", locale);
-      const json = JSON.parse(storage.getItem(locale));
+    if (cache.getItem(locale)) {
+      console.debug("Use cache copy of headlines for: ", locale);
+
       this.setState({
         locale: locale,
-        headlines: json
+        headlines: JSON.parse(cache.getItem(locale))
       });
     } else {
+      const resource = getResource(locale);
+      console.debug("fetch headlines: ", resource);
+
       fetchJson(resource)
       .then((json) => {
-        storage.setItem(locale, JSON.stringify(json));
+        cache.setItem(locale, JSON.stringify(json));
         this.setState({
           locale: locale,
           headlines: json
@@ -82,6 +79,11 @@ class App extends React.Component {
       })
       .catch((error) => console.log(error));
     }
+  }
+
+  changeHandler(event) {
+    const locale = event.target.value;
+    this.fetchHeadlines(locale);
   }
 
   render() {
