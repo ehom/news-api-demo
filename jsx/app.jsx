@@ -86,13 +86,23 @@ class App extends React.Component {
     this.fetchHeadlines(locale);
   }
 
+  setPageOrientation(locale) {
+    const hebrew = locale === 'he-IL';
+    // todo
+    document.documentElement.lang = hebrew ? 'he'  : 'en';
+    document.documentElement.dir  = hebrew ? 'rtl' : 'ltr';
+
+    const RTS_CSS = 'https://cdn.rtlcss.com/bootstrap/v4.5.3/css/bootstrap.min.css';
+    const LTR_CSS = 'https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.0/css/bootstrap.min.css';
+
+    document.getElementById('bootstrap').href = document.documentElement.dir === 'rtl' ? RTS_CSS: LTR_CSS;
+  }
+
   render() {
     console.debug("about to render...");
     const style = {fontFamily: 'serif', fontWeight: 'bold', fontStyle: 'italic'};
 
-    const hebrew = this.state.locale === 'he-IL';
-    document.documentElement.lang = hebrew ? 'he'  : 'en';
-    document.documentElement.dir  = hebrew ? 'rtl' : 'ltr';
+    this.setPageOrientation(this.state.locale);
 
     return (
       <React.Fragment>
@@ -109,11 +119,11 @@ class App extends React.Component {
             </div>
           </div>
         </div>
-        <div className="container">
+        <main role="main">
           <Headlines
             locale={this.state.locale} headlines={this.state.headlines}
           />
-        </div>
+        </main>
       </React.Fragment>
     );
   }
