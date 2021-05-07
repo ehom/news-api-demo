@@ -118,13 +118,15 @@ var App = function (_React$Component) {
     value: function setPageOrientation(locale) {
       var hebrew = locale === 'he-IL';
       // todo
-      document.documentElement.lang = hebrew ? 'he' : 'en';
-      document.documentElement.dir = hebrew ? 'rtl' : 'ltr';
+      var docElement = document.documentElement;
+      docElement.lang = hebrew ? 'he' : 'en';
+      docElement.dir = hebrew ? 'rtl' : 'ltr';
 
       var RTS_CSS = 'https://cdn.rtlcss.com/bootstrap/v4.5.3/css/bootstrap.min.css';
       var LTR_CSS = 'https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.0/css/bootstrap.min.css';
 
-      document.getElementById('bootstrap').href = document.documentElement.dir === 'rtl' ? RTS_CSS : LTR_CSS;
+      var cssLinkElement = document.getElementById('bootstrap');
+      cssLinkElement.href = docElement.dir === 'rtl' ? RTS_CSS : LTR_CSS;
     }
   }, {
     key: 'render',
