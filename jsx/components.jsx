@@ -23,6 +23,17 @@ const ItemSelector = ({id, items, onChange}) => {
   );
 };
 
+const LinkToGoogleTranslate = ({sourceLang, targetLang, href, text}) => {
+  const [lang, country] = sourceLang.split('-');
+
+  if (lang === 'en') {
+    return <a href={href} target="_blank">{text}</a>;
+  }
+  const result = `https://translate.google.com/translate?sl=${sourceLang}&tl=${targetLang}&u=${href}`;
+
+  return <a href={result} target="_blank">{text}</a>;
+};
+
 class Headlines extends React.Component {
   constructor(props) {
     super(props);
@@ -78,9 +89,7 @@ class Headlines extends React.Component {
           <img className="card-img-top" src={article.urlToImage} />
           <div className="card-body" dir='auto'>
             <h5 className="card-title">{article.title}</h5>
-            <a href={article.url} target="_blank">
-            {Util.decodeHtml(description)}
-            </a>
+            <LinkToGoogleTranslate href={article.url} sourceLang={this.props.locale} targetLang="en" text={Util.decodeHtml(description)} />
           </div>
           <ul className="list-group list-group-flush">
             <li className="list-group-item">{howLongAgo}</li>
@@ -97,5 +106,3 @@ Headlines.defaultProps = {
   headlines: [],
   locale: navigator.language
 };
-
-
