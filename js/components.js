@@ -55,6 +55,33 @@ var ItemSelector = function ItemSelector(_ref2) {
   );
 };
 
+var LinkToGoogleTranslate = function LinkToGoogleTranslate(_ref5) {
+  var sourceLang = _ref5.sourceLang,
+      targetLang = _ref5.targetLang,
+      href = _ref5.href,
+      text = _ref5.text;
+
+  var _sourceLang$split = sourceLang.split('-'),
+      _sourceLang$split2 = _slicedToArray(_sourceLang$split, 2),
+      lang = _sourceLang$split2[0],
+      country = _sourceLang$split2[1];
+
+  if (lang === 'en') {
+    return React.createElement(
+      "a",
+      { href: href, target: "_blank" },
+      text
+    );
+  }
+  var result = "https://translate.google.com/translate?sl=" + sourceLang + "&tl=" + targetLang + "&u=" + href;
+
+  return React.createElement(
+    "a",
+    { href: result, target: "_blank" },
+    text
+  );
+};
+
 var Headlines = function (_React$Component) {
   _inherits(Headlines, _React$Component);
 
@@ -127,11 +154,7 @@ var Headlines = function (_React$Component) {
               { className: "card-title" },
               article.title
             ),
-            React.createElement(
-              "a",
-              { href: article.url, target: "_blank" },
-              Util.decodeHtml(description)
-            )
+            React.createElement(LinkToGoogleTranslate, { href: article.url, sourceLang: _this2.props.locale, targetLang: "en", text: Util.decodeHtml(description) })
           ),
           React.createElement(
             "ul",
