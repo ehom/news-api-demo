@@ -1,3 +1,7 @@
+html, body {
+  height: 100%;
+}
+
 body {
   background: Gainsboro;
 }
@@ -6,3 +10,6 @@ body {
   border: 2px solid #777;
 }
 
+a:visited {
+  color: purple;
+}
