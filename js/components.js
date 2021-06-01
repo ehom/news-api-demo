@@ -35,13 +35,21 @@ Today.defaultProps = {
 var ItemSelector = function ItemSelector(_ref2) {
   var id = _ref2.id,
       items = _ref2.items,
-      onChange = _ref2.onChange;
+      onChange = _ref2.onChange,
+      defaultValue = _ref2.defaultValue;
 
   var options = Object.entries(items).map(function (_ref3) {
     var _ref4 = _slicedToArray(_ref3, 2),
         key = _ref4[0],
         value = _ref4[1];
 
+    if (defaultValue === key) {
+      return React.createElement(
+        "option",
+        { value: key, selected: true },
+        value
+      );
+    }
     return React.createElement(
       "option",
       { value: key },

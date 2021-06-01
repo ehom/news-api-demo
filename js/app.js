@@ -57,10 +57,16 @@ var App = function (_React$Component) {
       var FETCH_JSONS = "fetchJsonS";
       var cache = this.sessionStorage;
 
-      if (cache.getItem('countries') && cache.getItem('en-US')) {
+      console.debug("cache:", cache);
+
+      if (cache.getItem('countries') && cache.getItem('locale')) {
+        var locale = cache.getItem('locale');
+        console.debug("use locale from cache:", locale);
+
         this.setState({
           countries: JSON.parse(cache.getItem('countries')),
-          headlines: JSON.parse(cache.getItem('en-US'))
+          locale: locale,
+          headlines: JSON.parse(cache.getItem(locale))
         });
       } else {
         console.time(FETCH_JSONS);
@@ -73,12 +79,13 @@ var App = function (_React$Component) {
               headlines = _data[0],
               countries = _data[1];
 
-          cache.setItem('en-US', JSON.stringify(headlines));
+          cache.setItem(_this2.state.locale, JSON.stringify(headlines));
           cache.setItem('countries', JSON.stringify(countries));
-
+          cache.setItem('locale', _this2.state.locale);
           _this2.setState({
             headlines: headlines,
-            countries: countries
+            countries: countries,
+            locale: _this2.state.locale
           });
         });
       }
@@ -92,7 +99,7 @@ var App = function (_React$Component) {
 
       if (cache.getItem(locale)) {
         console.debug("Use cache copy of headlines for: ", locale);
-
+        cache.setItem('locale', locale);
         this.setState({
           locale: locale,
           headlines: JSON.parse(cache.getItem(locale))
@@ -103,6 +110,8 @@ var App = function (_React$Component) {
 
         fetchJson(resource).then(function (json) {
           cache.setItem(locale, JSON.stringify(json));
+          cache.setItem('locale', locale);
+
           _this3.setState({
             locale: locale,
             headlines: json
@@ -133,10 +142,12 @@ var App = function (_React$Component) {
           _country = _locale$split4[1];
 
       var docElement = document.documentElement;
+
       docElement.lang = lang;
       docElement.dir = this.getDir(lang);
 
       var cssLinkElement = document.getElementById('bootstrap');
+
       cssLinkElement.href = docElement.dir === 'rtl' ? URLs.RTS_CSS : URLs.LTR_CSS;
     }
   }, {
@@ -174,7 +185,8 @@ var App = function (_React$Component) {
             React.createElement(
               'div',
               { className: 'col-md-5' },
-              React.createElement(ItemSelector, { id: 'countrySelector', items: this.state.countries, onChange: this.changeHandler.bind(this) })
+              React.createElement(ItemSelector, { id: 'countrySelector', items: this.state.countries, onChange: this.changeHandler.bind(this),
+                defaultValue: this.state.locale })
             )
           )
         ),
@@ -184,6 +196,11 @@ var App = function (_React$Component) {
           React.createElement(Headlines, {
             locale: this.state.locale, headlines: this.state.headlines
           })
+        ),
+        React.createElement(
+          'footer',
+          null,
+          'This web app enables you to read news from around the world with the help of Google Translate.'
         )
       );
     }
@@ -193,7 +210,7 @@ var App = function (_React$Component) {
 }(React.Component);
 
 App.defaultProps = {
-  locale: navigator.language
+  locale: 'en-US'
 };
 
-ReactDOM.render(React.createElement(App, { locale: navigator.language }), document.getElementById("root"));
+ReactDOM.render(React.createElement(App, null), document.getElementById("root"));
