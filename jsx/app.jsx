@@ -34,10 +34,16 @@ class App extends React.Component {
     const FETCH_JSONS = "fetchJsonS";
     const cache = this.sessionStorage;
 
-    if (cache.getItem('countries') && cache.getItem('en-US')) {
+    console.debug("cache:", cache);
+
+    if (cache.getItem('countries') && cache.getItem('locale')) {
+      const locale = cache.getItem('locale');
+      console.debug("use locale from cache:", locale);
+
       this.setState({
         countries: JSON.parse(cache.getItem('countries')),
-        headlines: JSON.parse(cache.getItem('en-US'))
+        locale: locale,
+        headlines: JSON.parse(cache.getItem(locale)),
       });
     } else {
       console.time(FETCH_JSONS);
@@ -49,12 +55,13 @@ class App extends React.Component {
 
         const [headlines, countries] = data;
 
-        cache.setItem('en-US', JSON.stringify(headlines));
+        cache.setItem(this.state.locale, JSON.stringify(headlines));
         cache.setItem('countries', JSON.stringify(countries));
-
+        cache.setItem('locale', this.state.locale);
         this.setState({
           headlines: headlines,
-          countries: countries
+          countries: countries,
+          locale: this.state.locale
         });
       });
     }
@@ -65,7 +72,7 @@ class App extends React.Component {
 
     if (cache.getItem(locale)) {
       console.debug("Use cache copy of headlines for: ", locale);
-
+      cache.setItem('locale', locale);
       this.setState({
         locale: locale,
         headlines: JSON.parse(cache.getItem(locale))
@@ -77,6 +84,8 @@ class App extends React.Component {
       fetchJson(resource)
       .then((json) => {
         cache.setItem(locale, JSON.stringify(json));
+        cache.setItem('locale', locale);
+
         this.setState({
           locale: locale,
           headlines: json
@@ -100,10 +109,12 @@ class App extends React.Component {
     const [lang, _country] = locale.split('-');
 
     const docElement = document.documentElement;
+
     docElement.lang = lang;
     docElement.dir  = this.getDir(lang);
 
     const cssLinkElement = document.getElementById('bootstrap');
+
     cssLinkElement.href = docElement.dir === 'rtl' ? URLs.RTS_CSS : URLs.LTR_CSS;
   }
 
@@ -124,7 +135,8 @@ class App extends React.Component {
             <div className="col-md-7">
             </div>
             <div className="col-md-5">
-              <ItemSelector id="countrySelector" items={this.state.countries} onChange={this.changeHandler.bind(this)} />
+              <ItemSelector id="countrySelector" items={this.state.countries} onChange={this.changeHandler.bind(this)}
+                defaultValue={this.state.locale} />
             </div>
           </div>
         </div>
@@ -133,13 +145,16 @@ class App extends React.Component {
             locale={this.state.locale} headlines={this.state.headlines}
           />
         </main>
+        <footer>
+          This web app enables you to read news from around the world with the help of Google Translate.
+        </footer>
       </React.Fragment>
     );
   }
 }
 
 App.defaultProps = {
-  locale: navigator.language
+  locale: 'en-US'
 };
 
-ReactDOM.render(<App locale={navigator.language} />, document.getElementById("root"));
+ReactDOM.render(<App />, document.getElementById("root"));

@@ -14,8 +14,13 @@ Today.defaultProps = {
   locale: navigator.language
 };
 
-const ItemSelector = ({id, items, onChange}) => {
-  const options = Object.entries(items).map(([key, value]) => <option value={key}>{value}</option>);
+const ItemSelector = ({id, items, onChange, defaultValue}) => {
+  const options = Object.entries(items).map(([key, value]) => {
+    if (defaultValue === key) {
+      return <option value={key} selected>{value}</option>;
+    }
+    return <option value={key}>{value}</option>;
+  });
   return (
     <select id={id} onChange={onChange} className="form-control">
     {options}
