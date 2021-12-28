@@ -7,7 +7,8 @@ const Util = {
 };
 
 const URL = (url) => {
-  return `https://cors.bridged.cc/${url}`;
+  // return `https://cors.bridged.cc/${url}`;
+  return `${url}`;
 };
 
 const fetchJson = async (resource) => {
